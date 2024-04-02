@@ -9,3 +9,8 @@
 /*    max-width: 100%;*/
 /*    overflow-x: hidden;*/
 /*}*/
+
+#faq .btn-link {
+    text-decoration: none;
+    color: black;
+}

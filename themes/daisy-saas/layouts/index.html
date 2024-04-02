@@ -4,12 +4,8 @@
 
 {{ partial "index/cta.html" . }}
 
-{{ .Content }}
+{{ partial "index/faq.html" . }}
 
-<section id="faq">
-    {{ range .Params.faq }}
-        {{ partial "faq.html" . }}
-    {{ end }}
-</section>
+{{ .Content }}
 
 {{ end }}
