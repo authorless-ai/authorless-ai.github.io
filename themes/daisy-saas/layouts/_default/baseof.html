@@ -35,11 +35,11 @@
     {{ end }}
   </head>
 
-  <body class="">
+  <body>
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="" role="main">
+    <main role="main">
       {{ block "main" . }}{{ end }}
     </main>
-    {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
+    <div>{{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}</div>
   </body>
 </html>
