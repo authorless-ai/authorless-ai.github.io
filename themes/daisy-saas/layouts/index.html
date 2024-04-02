@@ -1,18 +1,21 @@
 {{ define "main" }}
-<div class="hero min-h-screen bg-base-200">
+<div class="hero min-h-screen max-w-[1248px] w-full overflow-hidden items-center flex flex-col gap-6 md:gap-8">
     <div class="hero-content text-center">
-        <div class="max-w-md">
-            <h1 class="text-5xl font-bold">Hello there</h1>
-            <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
+        <div class="max-w-xl">
+            <h1 class="text-5xl inter-800 text-slate-900 text-[38px] sm:text-[50px] md:text-[68px] font-bold leading-tight">Hello there</h1>
+            <p class="py-6 nunito-400 text-center text-gray-500 text-[18px] md:text-[22px] font-normal md:leading-9 md:tracking-wide">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
                 quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
             <button class="btn btn-primary">Get Started</button>
         </div>
     </div>
 </div>
+
 {{ .Content }}
 
-{{ range .Params.faq }}
-    {{ partial "faq.html" . }}
-{{ end }}
+<section id="faq">
+    {{ range .Params.faq }}
+        {{ partial "faq.html" . }}
+    {{ end }}
+</section>
 
 {{ end }}
