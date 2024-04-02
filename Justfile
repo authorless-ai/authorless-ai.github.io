@@ -1,3 +1,3 @@
 # Run the Hugo dev server
-dev:
+run:
     hugo server -D --navigateToChanged --disableFastRender
