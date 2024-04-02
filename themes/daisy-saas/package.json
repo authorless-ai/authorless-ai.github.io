@@ -1,0 +1,35 @@
+{
+ "author": "budparr",
+ "bugs": {
+  "url": "https://github.com/theNewDynamic/gohugo-theme-ananke/issues"
+ },
+ "comments": {
+  "dependencies": {}
+ },
+ "description": "Theme Ananke",
+ "devDependencies": {
+  "@fullhuman/postcss-purgecss": "github:fullhuman/postcss-purgecss",
+  "autoprefixer": "^10.4.19",
+  "daisyui": "^4.9.0",
+  "postcss": "^8.4.38",
+  "postcss-cli": "^11.0.0",
+  "tailwindcss": "^3.4.3"
+ },
+ "homepage": "https://github.com/theNewDynamic/gohugo-theme-ananke#readme",
+ "keywords": [
+  "hugo",
+  "gohugo"
+ ],
+ "license": "MIT",
+ "main": "index.js",
+ "name": "gohugo-theme-ananke",
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/theNewDynamic/gohugo-theme-ananke.git"
+ },
+ "scripts": {
+  "version": "auto-changelog -p --template keepachangelog --commit-limit 0 && git add CHANGELOG.md",
+  "deploy": " cd exampleSite; hugo;"
+ },
+ "version": "0.1.0"
+}
