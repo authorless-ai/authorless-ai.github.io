@@ -40,6 +40,6 @@
     <main role="main">
       {{ block "main" . }}{{ end }}
     </main>
-    <div>{{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}</div>
+    {{ block "footer" . }}{{ partialCached "footer.html" . }}{{ end }}
   </body>
 </html>
