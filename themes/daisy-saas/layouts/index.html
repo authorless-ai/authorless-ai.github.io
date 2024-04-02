@@ -11,6 +11,8 @@
 </div>
 {{ .Content }}
 
-{{ partial "faq.html" .}}
+{{ range .Params.faq }}
+    {{ partial "faq.html" . }}
+{{ end }}
 
 {{ end }}
