@@ -1,25 +1,90 @@
 {{ define "main" }}
+<section class="bg-white border-b border-gray-100 dark:bg-gray-900 dark:border-gray-800">
+  <div class="max-w-screen-xl px-4 py-4 mx-auto ">
+    <div class="sm:hidden">
+      <label for="category" class="sr-only">
+        Select a category
+      </label>
+      <select id="category"
+              class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+        <option>
+          Select a category
+        </option>
+        <option value="" selected>
+          All categories
+        </option>
+        <option value="">
+          Video
+        </option>
+        <option value="">
+          Interview
+        </option>
+        <option value="">
+          Marketing
+        </option>
+      </select>
+    </div>
+
+    <div class="hidden sm:block">
+      <nav class="flex flex-wrap items-center gap-3">
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium border rounded-full text-primary-700 border-primary-700 hover:bg-primary-50 dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900">
+          All categories
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Video
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Interview
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Marketing
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          UI/UX
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Tech
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Programming
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Design
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Productivity
+        </a>
+
+        <a href="#" title=""
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
+          Tutorials
+        </a>
+      </nav>
+    </div>
+  </div>
+</section>
+
 <section class="bg-white dark:bg-gray-900">
   <div class="max-w-screen-xl px-4 py-8 mx-auto sm:pb-16">
     <div class="flex flex-col gap-12 lg:gap-20 md:flex-row md:items-start">
       <div class="flex-1 min-w-0">
-        <div class="border-b border-gray-100 dark:border-gray-800">
-          <nav class="flex items-center gap-8 pb-4 -mb-px">
-            <a href="#" title=""
-               class="text-base font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
-              Relevant
-            </a>
-
-            <a href="#" title="" class="text-base font-medium text-primary-700 dark:text-primary-500">
-              Latest
-            </a>
-
-            <a href="#" title=""
-               class="text-base font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
-              Top
-            </a>
-          </nav>
-        </div>
 
         <div class="mt-8 space-y-12 sm:mt-12">
           {{ range .Paginator.Pages }}
@@ -95,70 +160,6 @@
         <div class="rounded-lg bg-gray-50 dark:bg-gray-800">
           <div class="p-5 space-y-5">
             <h5 class="text-sm font-bold tracking-wide text-gray-900 uppercase dark:text-white">
-              Who to follow
-            </h5>
-
-            <ul class="space-y-4">
-              <li class="flex items-start gap-2.5">
-                <img class="object-cover w-6 h-6 rounded-full shrink-0"
-                     src="/images/users/bonnie-green.png" alt="">
-                <div class="flex-1 min-w-0">
-                  <p class="text-base font-semibold text-gray-900 truncate dark:text-white">
-                    Bonnie Green
-                  </p>
-                  <p class="text-sm font-normal text-gray-500 truncate dark:text-gray-400">
-                    Web Designer
-                  </p>
-                </div>
-
-                <button type="button"
-                        class="px-3 py-2 text-xs font-medium text-gray-800 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                  Follow
-                </button>
-              </li>
-
-              <li class="flex items-start gap-2.5">
-                <img class="object-cover w-6 h-6 rounded-full shrink-0" src="/images/users/jese-leos.png"
-                     alt="">
-                <div class="flex-1 min-w-0">
-                  <p class="text-base font-semibold text-gray-900 truncate dark:text-white">
-                    Jese Leos
-                  </p>
-                  <p class="text-sm font-normal text-gray-500 truncate dark:text-gray-400">
-                    Web Develoeper
-                  </p>
-                </div>
-
-                <button type="button"
-                        class="px-3 py-2 text-xs font-medium text-gray-800 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                  Follow
-                </button>
-              </li>
-
-              <li class="flex items-start gap-2.5">
-                <img class="object-cover w-6 h-6 rounded-full shrink-0"
-                     src="/images/users/thomas-lean.png" alt="">
-                <div class="flex-1 min-w-0">
-                  <p class="text-base font-semibold text-gray-900 truncate dark:text-white">
-                    Thomas Lean
-                  </p>
-                  <p class="text-sm font-normal text-gray-500 truncate dark:text-gray-400">
-                    CEO at Flowbite
-                  </p>
-                </div>
-
-                <button type="button"
-                        class="px-3 py-2 text-xs font-medium text-gray-800 border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                  Follow
-                </button>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="rounded-lg bg-gray-50 dark:bg-gray-800">
-          <div class="p-5 space-y-5">
-            <h5 class="text-sm font-bold tracking-wide text-gray-900 uppercase dark:text-white">
               Follow us
             </h5>
 
@@ -186,22 +187,6 @@
                     </path>
                   </svg>
                   Facebook
-                </a>
-              </li>
-
-              <li>
-                <a href="#" title=""
-                   class="flex items-center gap-2.5 text-base font-semibold hover:underline text-gray-900 dark:text-white">
-                  <svg class="w-6 h-6 fill-[#111928]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
-                       fill="currentColor">
-                    <path
-                            d="M11.1731 9.79959C11.1731 12.68 8.85817 15.015 6.00267 15.015C3.14717 15.015 0.832031 12.6795 0.832031 9.79959C0.832031 6.91971 3.147 4.58398 6.00267 4.58398C8.85835 4.58398 11.1731 6.91918 11.1731 9.79959Z" />
-                    <path
-                            d="M16.8453 9.7996C16.8453 12.5109 15.6878 14.7097 14.26 14.7097C12.8321 14.7097 11.6746 12.5109 11.6746 9.7996C11.6746 7.08831 12.832 4.8895 14.2598 4.8895C15.6876 4.8895 16.8453 7.08761 16.8453 9.7996Z" />
-                    <path
-                            d="M19.1654 9.79959C19.1654 12.2282 18.7583 14.1983 18.2561 14.1983C17.7539 14.1983 17.347 12.2288 17.347 9.79959C17.347 7.37041 17.754 5.40092 18.2561 5.40092C18.7582 5.40092 19.1654 7.37024 19.1654 9.79959Z" />
-                  </svg>
-                  Medium
                 </a>
               </li>
 
