@@ -16,7 +16,7 @@
                 </option>
                 {{ range $topSection.Sections }}
                 <option value="{{ .RelPermalink }}"
-                        {{ if eq .CurrentSection $sectionPage }}
+                        {{ if eq .CurrentSection $sectionPage.CurrentSection }}
                         selected
                         {{ end }}
                 >
@@ -42,7 +42,7 @@
         {{ range $topSection.Sections }}
         <a href="{{ .RelPermalink }}"
            class="px-5 py-2 text-base font-medium rounded-full dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900
-          {{ if eq .CurrentSection $sectionPage }}
+          {{ if eq .CurrentSection $sectionPage.CurrentSection }}
           text-primary-700 border border-primary-700 hover:bg-primary-50
           {{ else }}
           hover:bg-gray-100
