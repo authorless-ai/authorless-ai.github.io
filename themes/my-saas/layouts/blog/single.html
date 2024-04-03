@@ -24,23 +24,29 @@
                 class="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert mb-4">
             <header class="mb-4 lg:mb-6 not-format">
                 <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">{{ .Title }}</h1>
-                <div class="text-base">
-                    {{ $author := .Params.author | default .Site.Params.author }}
-                    {{ if ne $author .Site.Title }}
-                    <address class="inline">By <a rel="author"
-                                                  class="text-gray-900 no-underline dark:text-white hover:underline"
-                                                  href="#">{{ $author }}</a></address>
-                    in
-                    {{ end }}
-                    <a href="{{ .CurrentSection.RelPermalink }}"
-                          class="text-gray-900 no-underline dark:text-white hover:underline">{{ .CurrentSection.Name
-                    }}</a>
-                    {{ if not .Date.IsZero }}
-                    on
-                    <time pubdate class="uppercase">{{- .Date |
-                        time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-                    </time>
-                    {{ end }}
+                <div class="flex justify-between">
+                    <div class="text-base">
+                        {{ $author := .Params.author | default .Site.Params.author }}
+                        {{ if ne $author .Site.Title }}
+                        <address class="inline">By <a rel="author"
+                                                      class="text-gray-900 no-underline dark:text-white hover:underline"
+                                                      href="#">{{ $author }}</a></address>
+                        in
+                        {{ end }}
+                        <a href="{{ .CurrentSection.RelPermalink }}"
+                           class="text-gray-900 no-underline dark:text-white hover:underline">{{ .CurrentSection.Name
+                            }}</a>
+                        {{ if not .Date.IsZero }}
+                        on
+                        <time pubdate class="uppercase">{{- .Date |
+                            time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                        </time>
+                        {{ end }}
+                    </div>
+
+                    <div class="text-base">
+                        {{ printf "Reading time: %d minutes" .ReadingTime }}
+                    </div>
                 </div>
             </header>
             <div class="flex justify-between items-center">

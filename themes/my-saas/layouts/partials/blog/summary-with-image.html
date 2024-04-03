@@ -30,16 +30,21 @@
         </h2>
 
         <div class="flex items-center gap-3">
-            <div class="text-lg font-medium leading-tight text-gray-900 dark:text-white">
+            <div class="w-full text-lg font-medium leading-tight text-gray-900 dark:text-white">
                 <div>
                     {{ $author := .item.Params.author | default .item.Site.Params.author }}
                     {{ if ne $author .item.Site.Title }}
                         {{ $author }}
                     {{ end }}
                 </div>
-                <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                    Posted on {{ .item.Date |
-                    time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                <div class="flex justify-between">
+                    <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
+                        Posted on {{ .item.Date |
+                        time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                    </div>
+                    <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
+                        {{ printf "Reading time: %d minutes" .item.ReadingTime }}
+                    </div>
                 </div>
             </div>
         </div>
