@@ -1,6 +1,5 @@
 ---
-title: "Ananke: a Hugo Theme"
-description: "The last theme you'll ever need. Maybe."
+title: "AI Marketing Automation"
 faq:
   - q: "What color is the sky?"
     a: "Blue/black"
