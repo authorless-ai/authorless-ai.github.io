@@ -48,7 +48,15 @@
       <div class="flex-1 min-w-0">
 
         <div class="mt-8 space-y-12 sm:mt-12">
-          {{ range .Paginator.Pages }}
+          {{ $paginator := 0 }}
+
+          {{ if eq .CurrentSection .FirstSection }}
+            {{ $paginator = (.Paginate .RegularPagesRecursive).Pages }}
+          {{ else }}
+            {{ $paginator = .Paginator.Pages }}
+          {{ end }}
+
+          {{ range $paginator }}
             {{ .Render "summary" }}
           {{ end }}
         </div>
