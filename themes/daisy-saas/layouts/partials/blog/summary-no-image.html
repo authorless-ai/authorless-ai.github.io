@@ -1,9 +1,4 @@
 <div class="flex flex-col items-start gap-8 xl:flex-row">
-    <div class="relative aspect-[16/9] sm:aspect-[2/1] w-full xl:aspect-[4/3] xl:w-80 lg:shrink-0">
-        <img src="/images/blog/blog-thumbnail-1.png" alt=""
-             class="absolute inset-0 object-cover w-full h-full bg-gray-200 rounded-lg">
-    </div>
-
     <div class="space-y-4 w-full">
         {{ if ne .item.CurrentSection .sectionPage.CurrentSection }}
           <a href="{{ .item.CurrentSection.RelPermalink }}"
@@ -18,33 +13,17 @@
           </a>
         {{ end }}
 
-        <h2 class="text-2xl font-bold leading-tight tracking-tight text-gray-900 dark:text-white">
+        <h2 class="text-2xl font-bold leading-tight tracking-tight text-gray-900 dark:text-white hover:underline">
             <a href="{{ .item.RelPermalink }}" class="hover:underline" title="">
                 {{ .item.Title }}
             </a>
         </h2>
-
-        <div class="flex items-center gap-3">
-            <div class="text-lg font-medium leading-tight text-gray-900 dark:text-white">
-                <div>
-                    {{ .item.Params.author | default .Site.Params.author }}
-                </div>
-                <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                    Posted on {{ .item.Date |
-                    time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-                </div>
-            </div>
-        </div>
 
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
             {{ .item.Description }}
         </p>
 
         <div class="flex items-center justify-between gap-6">
-            <div class="flex items-center gap-4">
-                {{ partial "blog/tags.html" .item }}
-            </div>
-
             <a href="{{ .item.RelPermalink }}" title=""
                class="inline-flex items-center text-base font-semibold leading-tight text-primary-700 hover:underline dark:text-primary-500">
                 Read more

@@ -1,6 +1,31 @@
 {{ define "main" }}
 {{ $sectionPage := . }}
 
+{{ $paginator := 0 }}
+
+{{ if eq .CurrentSection .FirstSection }}
+  {{ $paginator = (.Paginate .RegularPagesRecursive).Pages }}
+{{ else }}
+  {{ $paginator = .Paginator.Pages }}
+{{ end }}
+
+<section class="border-t border-b border-gray-100 bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
+  <div class="max-w-screen-xl px-4 py-8 mx-auto sm:py-16 lg:py-24 pt-20 sm:pt-24 lg:pt-32">
+    <div class="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-20">
+      {{ range first 1 $paginator }}
+        {{ partial "blog/summary-large" (dict "item" . "sectionPage" $sectionPage) }}
+      {{ end }}
+
+      <div class="space-y-8">
+        {{ range (first 4 $paginator) | after 1 }}
+          {{ partial "blog/summary-no-image" (dict "item" . "sectionPage" $sectionPage) }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <section class="bg-white border-b border-gray-100 dark:bg-gray-900 dark:border-gray-800">
   <div class="max-w-screen-xl px-4 py-4 mx-auto ">
     <div class="sm:hidden">
@@ -62,16 +87,8 @@
       <div class="flex-1 min-w-0">
 
         <div class="mt-8 space-y-12 sm:mt-12">
-          {{ $paginator := 0 }}
-
-          {{ if eq .CurrentSection .FirstSection }}
-            {{ $paginator = (.Paginate .RegularPagesRecursive).Pages }}
-          {{ else }}
-            {{ $paginator = .Paginator.Pages }}
-          {{ end }}
-
-          {{ range $paginator }}
-            {{ partial "blog/summary" (dict "item" . "sectionPage" $sectionPage) }}
+          {{ range after 4 $paginator }}
+            {{ partial "blog/summary-with-image" (dict "item" . "sectionPage" $sectionPage) }}
           {{ end }}
         </div>
 
