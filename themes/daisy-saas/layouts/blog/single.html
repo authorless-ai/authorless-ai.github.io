@@ -18,56 +18,64 @@
             </aside>
         </div>
     </div>
-    <article
-            class="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
-        <header class="mb-4 lg:mb-6 not-format">
-            <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">
-                {{ .Title }}</h1>
-            <div class="text-base">
-                <address class="inline">By <a rel="author"
-                                              class="text-gray-900 no-underline dark:text-white hover:underline"
-                                              href="#">{{ .Site.Title }}</a></address>
-                in <a href="#"
-                      class="text-gray-900 no-underline dark:text-white hover:underline">{{ .CurrentSection.Name }}</a>
-                {{ if not .Date.IsZero }}
-                on
-                <time pubdate class="uppercase" datetime="2022-02-08" title="February 8th, 2022">{{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-                </time>
-                {{ end }}
+    <div>
+        <article
+                class="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert mb-4">
+            <header class="mb-4 lg:mb-6 not-format">
+                <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">
+                    {{ .Title }}</h1>
+                <div class="text-base">
+                    <address class="inline">By <a rel="author"
+                                                  class="text-gray-900 no-underline dark:text-white hover:underline"
+                                                  href="#">{{ .Site.Title }}</a></address>
+                    in <a href="#"
+                          class="text-gray-900 no-underline dark:text-white hover:underline">{{ .CurrentSection.Name
+                    }}</a>
+                    {{ if not .Date.IsZero }}
+                    on
+                    <time pubdate class="uppercase" datetime="2022-02-08" title="February 8th, 2022">{{- .Date |
+                        time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
+                    </time>
+                    {{ end }}
+                </div>
+            </header>
+            <div class="flex justify-between items-center">
+                <aside aria-label="Share social media">
+                    <a href="#"
+                       class="inline-flex items-center py-2 px-3 mr-2 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
+                        <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                             fill="currentColor"
+                             viewBox="0 0 8 19">
+                            <path fill-rule="evenodd"
+                                  d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z"
+                                  clip-rule="evenodd"/>
+                        </svg>
+                        Share</a>
+                    <a href="#"
+                       class="inline-flex items-center py-2 px-3 mr-2 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
+                        <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                             viewBox="0 0 20 20">
+                            <path fill="currentColor"
+                                  d="M12.186 8.672 18.743.947h-2.927l-5.005 5.9-4.44-5.9H0l7.434 9.876-6.986 8.23h2.927l5.434-6.4 4.82 6.4H20L12.186 8.672Zm-2.267 2.671L8.544 9.515 3.2 2.42h2.2l4.312 5.719 1.375 1.828 5.731 7.613h-2.2l-4.699-6.237Z"/>
+                        </svg>
+                        Tweet</a>
+                    <a href="#"
+                       class="inline-flex items-center py-2 px-3 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
+                        <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
+                             viewBox="0 0 19 19">
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M11.013 7.962a3.519 3.519 0 0 0-4.975 0l-3.554 3.554a3.518 3.518 0 0 0 4.975 4.975l.461-.46m-.461-4.515a3.518 3.518 0 0 0 4.975 0l3.553-3.554a3.518 3.518 0 0 0-4.974-4.975L10.3 3.7"/>
+                        </svg>
+                        Copy link</a>
+                </aside>
             </div>
-        </header>
-        <div class="flex justify-between items-center">
-            <aside aria-label="Share social media">
-                <a href="#"
-                   class="inline-flex items-center py-2 px-3 mr-2 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                    <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                         viewBox="0 0 8 19">
-                        <path fill-rule="evenodd"
-                              d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z"
-                              clip-rule="evenodd"/>
-                    </svg>
-                    Share</a>
-                <a href="#"
-                   class="inline-flex items-center py-2 px-3 mr-2 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                    <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
-                         viewBox="0 0 20 20">
-                        <path fill="currentColor"
-                              d="M12.186 8.672 18.743.947h-2.927l-5.005 5.9-4.44-5.9H0l7.434 9.876-6.986 8.23h2.927l5.434-6.4 4.82 6.4H20L12.186 8.672Zm-2.267 2.671L8.544 9.515 3.2 2.42h2.2l4.312 5.719 1.375 1.828 5.731 7.613h-2.2l-4.699-6.237Z"/>
-                    </svg>
-                    Tweet</a>
-                <a href="#"
-                   class="inline-flex items-center py-2 px-3 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
-                    <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
-                         viewBox="0 0 19 19">
-                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                              d="M11.013 7.962a3.519 3.519 0 0 0-4.975 0l-3.554 3.554a3.518 3.518 0 0 0 4.975 4.975l.461-.46m-.461-4.515a3.518 3.518 0 0 0 4.975 0l3.553-3.554a3.518 3.518 0 0 0-4.974-4.975L10.3 3.7"/>
-                    </svg>
-                    Copy link</a>
-            </aside>
-        </div>
 
-        {{ .Content }}
-    </article>
+            {{ .Content }}
+
+        </article>
+        {{ partial "blog/tags.html" . }}
+    </div>
+
     <aside class="hidden lg:block lg:w-72" aria-labelledby="sidebar-label">
         <div class="sticky top-20">
             <h3 id="sidebar-label" class="sr-only">Sidebar</h3>
