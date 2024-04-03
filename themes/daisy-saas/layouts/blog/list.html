@@ -28,27 +28,27 @@
 
 <section class="bg-white border-b border-gray-100 dark:bg-gray-900 dark:border-gray-800">
   <div class="max-w-screen-xl px-4 py-4 mx-auto ">
+    {{ $topSection := .Site.GetPage "section" .Section }}
+
     <div class="sm:hidden">
       <label for="category" class="sr-only">
         Select a category
       </label>
       <select id="category"
-              class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
-        <option>
-          Select a category
-        </option>
-        <option value="" selected>
+              class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+        x-data @change="window.location = $event.target.value">
+        <option value="{{ .FirstSection.RelPermalink }}">
           All categories
         </option>
-        <option value="">
-          Video
+        {{ range $topSection.Sections }}
+        <option value="{{ .RelPermalink }}"
+                {{ if eq .CurrentSection $sectionPage }}
+                selected
+                {{ end }}
+        >
+          {{ .LinkTitle }}
         </option>
-        <option value="">
-          Interview
-        </option>
-        <option value="">
-          Marketing
-        </option>
+        {{ end }}
       </select>
     </div>
 
@@ -65,7 +65,6 @@
           All categories
         </a>
 
-        {{ $topSection := .Site.GetPage "section" .Section }}
         {{ range $topSection.Sections }}
         <a href="{{ .RelPermalink }}"
            class="px-5 py-2 text-base font-medium rounded-full dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900
