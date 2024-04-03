@@ -1,1 +1,1 @@
-themes/daisy-saas/tailwind.config.js
+themes/my-saas/tailwind.config.js
