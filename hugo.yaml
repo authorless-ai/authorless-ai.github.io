@@ -30,3 +30,6 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 6
+
+
+paginate: 3
