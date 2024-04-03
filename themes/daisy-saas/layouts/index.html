@@ -8,6 +8,8 @@
 
 {{ partial "index/features.html" . }}
 
-{{ partial "index/faq.html" . }}
+{{ if .Params.faq }}
+    {{ partial "faq.html" . }}
+{{ end }}
 
 {{ end }}

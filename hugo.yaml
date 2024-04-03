@@ -11,6 +11,8 @@ languages:
     languageName: 'English'
     weight: 1
 
+canonifyURLs: true
+
 disableKinds:
   - taxonomy
 

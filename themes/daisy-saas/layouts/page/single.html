@@ -2,4 +2,8 @@
 
 {{ .Content }}
 
+{{ if .Params.faq }}
+    {{ partial "faq.html" . }}
+{{ end }}
+
 {{ end }}
