@@ -12,7 +12,7 @@
 
     <h2 class="text-2xl font-bold leading-tight tracking-tight text-gray-900 dark:text-white">
         <a href="#" class="hover:underline" title="">
-            How to quickly deploy a static website
+            {{ .Title }}
         </a>
     </h2>
 
@@ -21,10 +21,11 @@
              src="/images/users/michael-gough.png" alt="">
         <div class="text-lg font-medium leading-tight text-gray-900 dark:text-white">
             <div>
-                Micheal Gough
+                {{ .Params.author | default .Site.Params.author }}
             </div>
             <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                Posted on Jan 31
+                Posted on {{ .Date |
+                time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
             </div>
         </div>
     </div>

@@ -18,6 +18,7 @@ canonifyURLs: true
 
 disableKinds:
   - taxonomy
+  - term
 
 markup:
   goldmark:
