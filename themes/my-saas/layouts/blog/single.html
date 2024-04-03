@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "blog/section-nav" (dict "item" . "sectionPage" . ) }}
 
-<div class="flex justify-between mx-auto max-w-screen-xl px-4 py-8 sm:py-16 lg:py-24 pt-4 sm:pt-6 lg:pt-10">
+<div class="flex justify-between mx-auto max-w-screen-xl px-4 py-8 sm:pb-16 lg:pb-24 pt-4 sm:pt-6 lg:pt-10">
     <div class="hidden mb-6 xl:block lg:w-52">
         <div class="sticky top-20">
             <aside>
@@ -117,6 +117,9 @@
 {{ end }}
 
 {{ define "page-footer" }}
+
+{{ partial "newsletter" . }}
+
 {{ $related := .Site.RegularPages.Related . | first 4 }}
 {{ with $related }}
 <aside aria-label="Related articles" class="py-8 lg:py-24 bg-gray-50 dark:bg-gray-800 antialiased">
