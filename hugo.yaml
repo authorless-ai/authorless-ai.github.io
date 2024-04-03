@@ -1,0 +1,26 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Authorless'
+theme: 'daisy-saas'
+
+languages:
+  en:
+    contentDir: 'content/en'
+    disabled: false
+    languageCode: 'en-US'
+    languageName: 'English'
+    weight: 1
+
+disableKinds:
+  - taxonomy
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    style: colorful
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
