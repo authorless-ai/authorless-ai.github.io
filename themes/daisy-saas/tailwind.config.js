@@ -55,7 +55,6 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('@tailwindcss/aspect-ratio'),
     require('flowbite/plugin'),
-    require("daisyui"),
   ],
 }
 

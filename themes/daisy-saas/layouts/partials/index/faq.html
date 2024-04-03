@@ -1,28 +1,21 @@
-<section id="faq" class="px-8">
-    <div class="bg-transparent my-[80px] md:my-[120px]">
-        <div class="mx-auto max-w-[1248px] mx-auto">
-            <div class="mx-auto max-w-4xl divide-y divide-white/10"><h2
-                    class="text-4xl font-bold leading-10 tracking-tight  text-center">Frequently asked questions</h2>
-                <dl class="mt-10 space-y-6 divide-y divide-white/10">
-                    {{ range .Params.faq }}
-                    <div class="pt-6" data-headlessui-state="open">
-                        <dt>
-                            <button class="btn-link flex w-full items-start justify-between text-left"
-                                    id="headlessui-disclosure-button-:Rlbe6:" type="button" aria-expanded="true"
-                                    data-headlessui-state="open" aria-controls="headlessui-disclosure-panel-:R15be6:">
-                                <span class="text-lg font-semibold leading-7">{{ .q }}</span><span
-                                    class="ml-6 flex h-7 items-center"><svg xmlns="http://www.w3.org/2000/svg"
-                                                                            fill="none" viewBox="0 0 24 24"
-                                                                            stroke-width="1.5" stroke="currentColor"
-                                                                            aria-hidden="true" class="h-6 w-6"><path
-                                    stroke-linecap="round" stroke-linejoin="round" d="M18 12H6"></path></svg></span>
-                            </button>
-                        </dt>
-                        <dd class="mt-2 pr-12" id="headlessui-disclosure-panel-:R15be6:" data-headlessui-state="open"><p
-                                class="text-lg leading-7 ">{{ .a }}</p></dd>
+<section class="bg-white dark:bg-gray-900">
+    <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 ">
+        <h2 class="mb-6 lg:mb-8 text-3xl lg:text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">Frequently asked questions</h2>
+        <div class="mx-auto max-w-screen-md">
+            <div id="accordion-flush" data-accordion="collapse" data-active-classes="bg-white dark:bg-gray-900 text-gray-900 dark:text-white" data-inactive-classes="text-gray-500 dark:text-gray-400">
+                {{ range $index, $value := .Params.faq }}
+                <h2 id="accordion-flush-heading-{{ $index }}">
+                    <button type="button" class="flex justify-between items-center py-5 w-full font-medium text-left text-gray-900 bg-white border-b border-gray-200 dark:border-gray-700 dark:bg-gray-900 dark:text-white" data-accordion-target="#accordion-flush-body-{{ $index }}" aria-expanded="true" aria-controls="accordion-flush-body-{{ $index }}">
+                        <span class="text-lg font-semibold">{{ $value.q }}</span>
+                        <svg data-accordion-icon="" class="w-6 h-6 rotate-180 shrink-0" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                    </button>
+                </h2>
+                <div id="accordion-flush-body-{{ $index }}" class="" aria-labelledby="accordion-flush-heading-{{ $index }}">
+                    <div class="py-5 border-b border-gray-200 dark:border-gray-700">
+                        <p class="mb-2 text-gray-500 dark:text-gray-400 text-lg">{{ $value.a }}</p>
                     </div>
-                    {{ end }}
-                </dl>
+                </div>
+                {{ end }}
             </div>
         </div>
     </div>
