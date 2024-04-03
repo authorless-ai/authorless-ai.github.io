@@ -27,55 +27,16 @@
 
     <div class="hidden sm:block">
       <nav class="flex flex-wrap items-center gap-3">
-        <a href="#" title=""
+        <a href="{{ .FirstSection.RelPermalink }}" title="{{ .FirstSection.LinkTitle }}"
            class="px-5 py-2 text-base font-medium border rounded-full text-primary-700 border-primary-700 hover:bg-primary-50 dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900">
           All categories
         </a>
 
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Video
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Interview
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Marketing
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          UI/UX
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Tech
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Programming
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Design
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Productivity
-        </a>
-
-        <a href="#" title=""
-           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">
-          Tutorials
-        </a>
+        {{ $topSection := .Site.GetPage "section" .Section }}
+        {{ range $topSection.Sections }}
+        <a href="{{ .RelPermalink }}"
+           class="px-5 py-2 text-base font-medium text-gray-900 border border-transparent rounded-full dark:text-white dark:hover:bg-gray-700 hover:bg-gray-100">{{ .LinkTitle }}</a>
+        {{ end }}
       </nav>
     </div>
   </div>
