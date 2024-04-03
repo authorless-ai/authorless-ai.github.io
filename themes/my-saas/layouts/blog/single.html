@@ -74,6 +74,11 @@
                 </aside>
             </div>
 
+            {{ with .Resources.GetMatch "cover.*" }}
+            <img src="{{ .RelPermalink }}" alt=""
+                 class="inset-0 bg-gray-200 rounded-lg">
+            {{ end }}
+
             {{ .Content }}
 
         </article>
