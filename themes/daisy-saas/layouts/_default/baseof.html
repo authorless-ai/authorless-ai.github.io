@@ -17,7 +17,7 @@
       <meta name="robots" content="noindex, nofollow">
     {{ end }}
 
-    {{ partial "site-style.html" . }}
+    {{ partial "styles.html" . }}
 
     {{ if .Params.canonicalUrl }}
       <link rel="canonical" href="{{ .Params.canonicalUrl }}">
@@ -36,7 +36,7 @@
   </head>
 
   <body>
-    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+    {{ block "header" . }}{{ partial "nav.html" .}}{{ end }}
     <main role="main">
       {{ block "main" . }}{{ end }}
     </main>
