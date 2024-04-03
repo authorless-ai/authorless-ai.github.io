@@ -3,6 +3,9 @@ languageCode: 'en-us'
 title: 'Authorless'
 theme: 'daisy-saas'
 
+params:
+  author: Authorless
+
 languages:
   en:
     contentDir: 'content/en'
