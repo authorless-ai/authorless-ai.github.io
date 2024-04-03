@@ -17,14 +17,12 @@
               </span>
 
         <h2 class="text-2xl font-bold leading-tight tracking-tight text-gray-900 dark:text-white">
-            <a href="#" class="hover:underline" title="">
+            <a href="{{ .RelPermalink }}" class="hover:underline" title="">
                 {{ .Title }}
             </a>
         </h2>
 
         <div class="flex items-center gap-3">
-            <img class="w-8 h-8 rounded-full"
-                 src="/images/users/michael-gough.png" alt="">
             <div class="text-lg font-medium leading-tight text-gray-900 dark:text-white">
                 <div>
                     {{ .Params.author | default .Site.Params.author }}
@@ -47,7 +45,7 @@
                 {{ partial "blog/tags.html" . }}
             </div>
 
-            <a href="#" title=""
+            <a href="{{ .RelPermalink }}" title=""
                class="inline-flex items-center text-base font-semibold leading-tight text-primary-700 hover:underline dark:text-primary-500">
                 Read more
                 <svg aria-hidden="true" class="w-4 h-4 ml-2" fill="currentColor" viewBox="0 0 20 20"
