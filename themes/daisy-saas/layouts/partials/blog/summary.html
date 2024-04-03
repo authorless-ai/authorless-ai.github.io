@@ -5,8 +5,8 @@
     </div>
 
     <div class="space-y-4 w-full">
-        {{ if ne .CurrentSection .FirstSection }}
-          <a href="{{ .CurrentSection.RelPermalink }}"
+        {{ if ne .item.CurrentSection .sectionPage.CurrentSection }}
+          <a href="{{ .item.CurrentSection.RelPermalink }}"
                   class="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300">
             <svg aria-hidden="true" class="w-3 h-3 mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                  fill="currentColor">
@@ -14,38 +14,38 @@
                     d="M12.316 3.051a1 1 0 01.633 1.265l-4 12a1 1 0 11-1.898-.632l4-12a1 1 0 011.265-.633zM5.707 6.293a1 1 0 010 1.414L3.414 10l2.293 2.293a1 1 0 11-1.414 1.414l-3-3a1 1 0 010-1.414l3-3a1 1 0 011.414 0zm8.586 0a1 1 0 011.414 0l3 3a1 1 0 010 1.414l-3 3a1 1 0 11-1.414-1.414L16.586 10l-2.293-2.293a1 1 0 010-1.414z"
                     clip-rule="evenodd"></path>
             </svg>
-            {{ .CurrentSection.Name }}
+            {{ .item.CurrentSection.Name }}
           </a>
         {{ end }}
 
         <h2 class="text-2xl font-bold leading-tight tracking-tight text-gray-900 dark:text-white">
-            <a href="{{ .RelPermalink }}" class="hover:underline" title="">
-                {{ .Title }}
+            <a href="{{ .item.RelPermalink }}" class="hover:underline" title="">
+                {{ .item.Title }}
             </a>
         </h2>
 
         <div class="flex items-center gap-3">
             <div class="text-lg font-medium leading-tight text-gray-900 dark:text-white">
                 <div>
-                    {{ .Params.author | default .Site.Params.author }}
+                    {{ .item.Params.author | default .Site.Params.author }}
                 </div>
                 <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                    Posted on {{ .Date |
+                    Posted on {{ .item.Date |
                     time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
                 </div>
             </div>
         </div>
 
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-            {{ .Description }}
+            {{ .item.Description }}
         </p>
 
         <div class="flex items-center justify-between gap-6">
             <div class="flex items-center gap-4">
-                {{ partial "blog/tags.html" . }}
+                {{ partial "blog/tags.html" .item }}
             </div>
 
-            <a href="{{ .RelPermalink }}" title=""
+            <a href="{{ .item.RelPermalink }}" title=""
                class="inline-flex items-center text-base font-semibold leading-tight text-primary-700 hover:underline dark:text-primary-500">
                 Read more
                 <svg aria-hidden="true" class="w-4 h-4 ml-2" fill="currentColor" viewBox="0 0 20 20"

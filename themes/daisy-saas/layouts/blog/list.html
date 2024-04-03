@@ -56,8 +56,9 @@
             {{ $paginator = .Paginator.Pages }}
           {{ end }}
 
+          {{ $sectionPage := . }}
           {{ range $paginator }}
-            {{ .Render "summary" }}
+            {{ partial "blog/summary" (dict "item" . "sectionPage" $sectionPage) }}
           {{ end }}
         </div>
 
