@@ -27,7 +27,7 @@
                     <address class="inline">By <a rel="author"
                                                   class="text-gray-900 no-underline dark:text-white hover:underline"
                                                   href="#">{{ .Params.author | default .Site.Params.author }}</a></address>
-                    in <a href="#"
+                    in <a href="{{ .CurrentSection.RelPermalink }}"
                           class="text-gray-900 no-underline dark:text-white hover:underline">{{ .CurrentSection.Name
                     }}</a>
                     {{ if not .Date.IsZero }}
