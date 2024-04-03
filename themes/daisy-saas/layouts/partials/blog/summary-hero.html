@@ -1,6 +1,8 @@
 <article>
     <a href="{{ .item.RelPermalink }}" title="">
-        <img class="object-cover w-full rounded-lg" src="/images/hero/blog-image.png" alt="blog image">
+        {{ with .item.Resources.GetMatch "cover.*" }}
+        <img class="object-cover w-full rounded-lg" src="{{ .RelPermalink }}" alt="blog image">
+        {{ end }}
     </a>
 
     <div class="mt-5 space-y-4">
