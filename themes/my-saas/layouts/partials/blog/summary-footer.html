@@ -1,0 +1,16 @@
+{{ $page := . }}
+
+<article class="max-w-xs">
+    {{ with .Resources.GetMatch "cover.*" }}
+    <a href="{{ $page.RelPermalink }}">
+        <img src="{{ .RelPermalink }}" class="mb-5 rounded-lg" alt="Image">
+    </a>
+    {{ end }}
+    <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="mb-4 text-gray-500 dark:text-gray-400">{{ .Description }}</p>
+    <a href="{{ .RelPermalink }}" class="inline-flex items-center font-medium underline underline-offset-4 text-primary-700 dark:text-primary-500 hover:no-underline">
+        {{ printf "Read in %d minutes" .ReadingTime }}
+    </a>
+</article>
