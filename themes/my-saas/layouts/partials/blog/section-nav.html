@@ -1,4 +1,5 @@
 {{ $sectionPage := .sectionPage }}
+{{ $blogIndex := .item.GetPage "blog" }}
 
 <section class="bg-white border-b border-gray-100 dark:bg-gray-900 dark:border-gray-800">
     <div class="max-w-screen-xl px-4 py-4 mx-auto ">
@@ -11,7 +12,7 @@
             <select id="category"
                     class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                     x-data @change="window.location = $event.target.value">
-                <option value="{{ .sectionPage.FirstSection.RelPermalink }}">
+                <option value="{{ $blogIndex.Permalink }}">
                     All categories
                 </option>
                 {{ range $topSection.Sections }}
@@ -28,7 +29,7 @@
 
         <div class="hidden sm:block">
             <nav class="flex flex-wrap items-center gap-3">
-                <a href="{{ .item.FirstSection.RelPermalink }}" title="{{ .item.FirstSection.LinkTitle }}"
+                <a href="{{ $blogIndex.Permalink }}" title="{{ .item.FirstSection.LinkTitle }}"
                    class="px-5 py-2 text-base font-medium rounded-full dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900
           {{ if eq .item.CurrentSection .item.FirstSection }}
           text-primary-700 border border-primary-700 hover:bg-primary-50
