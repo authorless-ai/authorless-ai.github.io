@@ -3,8 +3,11 @@
     <div class="relative aspect-[16/9] sm:aspect-[2/1] w-full xl:aspect-[4/3] xl:w-80 lg:shrink-0">
         {{ with .item.Resources.GetMatch "cover.*" }}
         <a href="{{ $page.RelPermalink }}">
+            {{ with .Resize "x240" }}
             <img src="{{ .RelPermalink }}" alt=""
+                 width="{{ .Width }}" height="{{ .Height }}"
                  class="absolute inset-0 object-cover w-full h-full bg-gray-200 rounded-lg">
+            {{ end }}
         </a>
         {{ end }}
     </div>
