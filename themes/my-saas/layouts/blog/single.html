@@ -97,23 +97,7 @@
     <aside class="hidden lg:block lg:w-72" aria-labelledby="sidebar-label">
         <div class="sticky top-20">
             <h3 id="sidebar-label" class="sr-only">Sidebar</h3>
-            <div class="p-6 mb-6 font-medium text-gray-500 rounded-lg border border-gray-200 dark:border-gray-700 dark:text-gray-400">
-                <h4 class="mb-6 font-bold text-gray-900 uppercase dark:text-white">Recommended topics</h4>
-                <div class="flex flex-wrap">
-                    <a href="#"
-                       class="bg-primary-100 text-primary-800 text-sm font-medium mr-3 px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300 mb-3">Technology</a>
-                    <a href="#"
-                       class="bg-primary-100 text-primary-800 text-sm font-medium mr-3 px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300 mb-3">Money</a>
-                    <a href="#"
-                       class="bg-primary-100 text-primary-800 text-sm font-medium mr-3 px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300 mb-3">Art</a>
-                    <a href="#"
-                       class="bg-primary-100 text-primary-800 text-sm font-medium mr-3 px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300 mb-3">Productivity</a>
-                    <a href="#"
-                       class="bg-primary-100 text-primary-800 text-sm font-medium mr-3 px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300 mb-3">Psychology</a>
-                    <a href="#"
-                       class="bg-primary-100 text-primary-800 text-sm font-medium mr-3 px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300 mb-3">Design</a>
-                </div>
-            </div>
+            {{ partial "blog/tag-cloud" . }}
         </div>
     </aside>
 </div>

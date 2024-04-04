@@ -27,6 +27,7 @@
   </div>
 </section>
 
+{{ if after 4 $paginator }}
 <section class="bg-white dark:bg-gray-900">
   <div class="max-w-screen-xl px-4 py-8 mx-auto sm:pb-16">
     <div class="flex flex-col gap-12 lg:gap-20 md:flex-row md:items-start">
@@ -42,28 +43,7 @@
       </div>
 
       <div class="w-full max-w-xs space-y-8 shrink-0 md:top-20 md:sticky">
-        <div class="rounded-lg bg-gray-50 dark:bg-gray-800">
-          <div class="p-5 space-y-5">
-            <h5 class="text-sm font-bold tracking-wide text-gray-900 uppercase dark:text-white">
-              Recommended topics
-            </h5>
-
-            <div class="flex flex-wrap items-center gap-4">
-            {{ $blogIndex := .GetPage "blog" }}
-            <a href="{{ $blogIndex.Permalink }}"
-               class="px-3 py-0.5 text-sm font-medium text-blue-800 bg-blue-100 rounded-md dark:bg-blue-900 dark:text-blue-300">
-              All
-            </a>
-            {{ range .Site.Taxonomies.tags }}
-              <a href="{{ .Page.Permalink }}"
-                      class="px-3 py-0.5 text-sm font-medium text-blue-800 bg-blue-100 rounded-md dark:bg-blue-900 dark:text-blue-300">
-                {{ .Page.Title }}
-              </a>
-            {{ end }}
-            </div>
-
-          </div>
-        </div>
+        {{ partial "blog/tag-cloud" . }}
 
         <div class="rounded-lg bg-gray-50 dark:bg-gray-800">
           <div class="p-5 space-y-5">
@@ -121,6 +101,7 @@
     </div>
   </div>
 </section>
+{{ end }}
 
 {{ end }}
 
