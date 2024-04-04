@@ -9,6 +9,8 @@
   {{ $paginator = .Paginator.Pages }}
 {{ end }}
 
+{{ partial "blog/section-nav" (dict "item" . "sectionPage" $sectionPage) }}
+
 <section class="border-t border-b border-gray-100 bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
   <div class="max-w-screen-xl px-4 py-8 mx-auto sm:py-16 lg:py-24 pt-20 sm:pt-24 lg:pt-32">
     <div class="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-20">
@@ -24,8 +26,6 @@
     </div>
   </div>
 </section>
-
-{{ partial "blog/section-nav" (dict "item" . "sectionPage" $sectionPage) }}
 
 <section class="bg-white dark:bg-gray-900">
   <div class="max-w-screen-xl px-4 py-8 mx-auto sm:pb-16">
