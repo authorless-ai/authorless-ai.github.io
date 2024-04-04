@@ -81,8 +81,11 @@
             </div>
 
             {{ with .Resources.GetMatch "cover.*" }}
-            <img src="{{ .RelPermalink }}" alt=""
-                 class="inset-0 bg-gray-200 rounded-lg">
+                {{ with .Resize "680x" }}
+                <img src="{{ .RelPermalink }}" alt=""
+                     width="{{ .Width }}" height="{{ .Height }}"
+                     class="inset-0 bg-gray-200 rounded-lg">
+                {{ end }}
             {{ end }}
 
             {{ .Content }}
