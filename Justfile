@@ -1,5 +1,5 @@
 # Run the Hugo dev server
-run:
+runserver:
     hugo server -D --disableFastRender
 
 # Install dependencies
