@@ -14,7 +14,8 @@
             <div class="pt-4 border-t border-gray-200 sm:pt-6 lg:pt-8 dark:border-gray-800">
                 <ul class="space-y-4">
 
-                    <li class="flex items-center gap-2.5">
+                    {{ define "partials/index/inline-overview-tick.html" }}
+                    <li class="flex items-center gap-2.5 {{ if .indented }}pl-3 md:pl-6{{ end }}">
                         <div
                                 class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
                             <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
@@ -26,249 +27,41 @@
                             </svg>
                         </div>
                         <span class="text-base font-medium text-gray-900 dark:text-white">
-                            Set up in only <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">5 minutes</span>
+                            {{ .text | safeHTML }}
                         </span>
                     </li>
+                    {{ end }}
 
-                    <li class="flex items-center gap-2.5">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Understands</span> your company, products and customers
-                        </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `Set up in only <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">5 minutes</span>`) }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Target multiple customer personas and offerings
-                    </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `<span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Understands</span> your company, products and customers`) }}
 
-                    <li class="flex items-center gap-2.5">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                            Creates a <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">content strategy</span> to plan your campaign
-                        </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `Target multiple customer personas and offerings` "indented" "true") }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Suggests content topics
-                    </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `Creates a <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">content strategy</span> to plan your campaign`) }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Customisable content calendar
-                        </span>
-                    </li>
+                    {{ $s := slice "Suggests content topics" "Customisable content calendar" }}
+                    {{ range $s }}
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" .  "indented" "true") }}
+                    {{ end }}
 
-                    <li class="flex items-center gap-2.5">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                            Automates <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">content creation</span>
-                        </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `Automates <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">content creation</span>`) }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Writes in your brand voice
-                    </span>
-                    </li>
+                    {{ $s := slice "Writes in your brand voice" "Creates How-tos, listicles, FAQs, and more" "Creates bite-sized and in-depth content (10,000+ words)" "Highly search-engine optimised output" "Writes in multiple languages" }}
+                    {{ range $s }}
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" .  "indented" "true") }}
+                    {{ end }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Creates How-tos, listicles, FAQs, and more
-                    </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `<span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Automates publishing</span> to Wordpress and social media`) }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Creates bite-sized and in-depth content (10,000+ words)
-                    </span>
-                    </li>
+                    {{ $s := slice "Target Black Friday, Christmas, etc. automatically" "Publish automatically or manually approve first" }}
+                    {{ range $s }}
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" .  "indented" "true") }}
+                    {{ end }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Highly search-engine optimised output
-                    </span>
-                    </li>
+                    {{ partial "partials/index/inline-overview-tick.html" (dict "text" `<span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Set-and-forget mode</span> to automatically post new content
+                    </span>`) }}
 
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Writes in multiple languages
-                    </span>
-                    </li>
-
-                    <li class="flex items-center gap-2.5">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                            <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Automates publishing</span> to Wordpress and social media
-                        </span>
-                    </li>
-
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Target Black Friday, Christmas, etc. automatically
-                        </span>
-                    </li>
-
-                    <li class="flex items-center gap-2.5 pl-3 md:pl-6">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                      Publish automatically or manually approve first
-                    </span>
-                    </li>
-
-                    <li class="flex items-center gap-2.5">
-                        <div
-                                class="inline-flex items-center justify-center w-5 h-5 rounded-full bg-primary-100 text-primary-600 shrink-0 dark:bg-primary-900 dark:text-primary-500">
-                            <svg aria-hidden="true" class="w-3.5 h-3.5" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 20 20"
-                                 fill="currentColor">
-                                <path fill-rule="evenodd"
-                                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                      clip-rule="evenodd"/>
-                            </svg>
-                        </div>
-                        <span class="text-base font-medium text-gray-900 dark:text-white">
-                            <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Set-and-forget mode</span> to automatically post new content
-                        </span>
-                    </li>
                 </ul>
 
                 <h3 class="mt-6 text-xl font-medium text-gray-500 dark:text-gray-400">
