@@ -80,6 +80,10 @@
                 </aside>
             </div>
 
+            {{ if (gt .WordCount 400 ) }}
+                {{ .TableOfContents }}
+            {{ end }}
+
             {{ with .Resources.GetMatch "cover.*" }}
                 {{ with .Resize "680x" }}
                 <img src="{{ .RelPermalink }}" alt=""

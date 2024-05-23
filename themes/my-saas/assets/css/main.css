@@ -9,3 +9,11 @@
     text-decoration: none;
     color: black;
 }
+
+#TableOfContents {
+    @apply text-base my-4 pt-4 pb-6 bg-gray-50 dark:bg-gray-800 border rounded-lg
+}
+
+#TableOfContents ul, #TableOfContents li {
+    @apply my-1 list-none
+}
