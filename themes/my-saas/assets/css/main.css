@@ -11,9 +11,16 @@
 }
 
 #TableOfContents {
-    @apply text-base my-4 pt-4 pb-6 bg-gray-50 dark:bg-gray-800 border rounded-lg
+    @apply text-sm my-4 pt-4 pb-6 pl-4 bg-gray-50 dark:bg-gray-800 border rounded-lg
+}
+
+#TableOfContents::before {
+    content: "Contents";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.25rem;
 }
 
 #TableOfContents ul, #TableOfContents li {
-    @apply my-1 list-none
+    @apply my-1 list-disc pl-0 ml-2
 }
