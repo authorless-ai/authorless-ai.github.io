@@ -1,7 +1,8 @@
 <article>
     <a href="{{ .item.RelPermalink }}" title="">
-        {{ with .item.Resources.GetMatch "cover.*" }}
-            {{ with .Resize "600x" }}
+        {{ $image := .item.Resources.GetMatch "cover.*" }}
+        {{ if $image }}
+            {{ with $image.Resize "600x" }}
             <img class="object-cover w-full rounded-lg" src="{{ .RelPermalink }}"
                  width="{{ .Width }}" height="{{ .Height }}" alt="blog image">
             {{ end }}
@@ -48,6 +49,12 @@
 
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
             {{ .item.Description }}
+
+            <div class="text-base font-normal text-gray-500 dark:text-gray-400">
+            {{ if not $image }}
+                {{ .item.Content | truncate 400 }}
+            {{ end }}
+            </div>
         </p>
 
         <a href="{{ .item.RelPermalink }}" title=""
