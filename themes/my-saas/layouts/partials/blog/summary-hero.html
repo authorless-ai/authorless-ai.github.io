@@ -3,7 +3,7 @@
         {{ $image := .item.Resources.GetMatch "cover.*" }}
         {{ if $image }}
             {{ with $image.Resize "600x" }}
-            <img class="object-cover w-full rounded-lg mb-5" src="{{ .RelPermalink }}"
+            <img class="object-cover w-full rounded-lg mb-8" src="{{ .RelPermalink }}"
                  width="{{ .Width }}" height="{{ .Height }}" alt="blog image">
             {{ end }}
         {{ end }}
