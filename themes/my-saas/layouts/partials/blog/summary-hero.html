@@ -3,13 +3,13 @@
         {{ $image := .item.Resources.GetMatch "cover.*" }}
         {{ if $image }}
             {{ with $image.Resize "600x" }}
-            <img class="object-cover w-full rounded-lg" src="{{ .RelPermalink }}"
+            <img class="object-cover w-full rounded-lg mb-5" src="{{ .RelPermalink }}"
                  width="{{ .Width }}" height="{{ .Height }}" alt="blog image">
             {{ end }}
         {{ end }}
     </a>
 
-    <div class="mt-5 space-y-4">
+    <div class="space-y-4">
         {{/*
         {{ if ne .item.CurrentSection .sectionPage.CurrentSection }}
           <span

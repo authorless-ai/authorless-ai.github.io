@@ -12,7 +12,7 @@
 {{ partial "blog/section-nav" (dict "item" . "sectionPage" $sectionPage) }}
 
 <section class="border-t border-b border-gray-100 bg-gray-50 dark:bg-gray-800 dark:border-gray-700">
-  <div class="max-w-screen-xl px-4 py-8 mx-auto sm:py-16 lg:py-24 pt-20 sm:pt-24 lg:pt-32">
+  <div class="max-w-screen-xl px-4 py-8 mx-auto sm:py-12 lg:py-18">
     <div class="grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-20">
       {{ range first 1 $paginator }}
         {{ partial "blog/summary-hero" (dict "item" . "sectionPage" $sectionPage) }}
@@ -33,7 +33,7 @@
     <div class="flex flex-col gap-12 lg:gap-20 md:flex-row md:items-start">
       <div class="flex-1 min-w-0">
 
-        <div class="mt-8 space-y-12 sm:mt-12">
+        <div class="mt-4 space-y-12">
           {{ range after 4 $paginator }}
             {{ partial "blog/summary-with-image" (dict "item" . "sectionPage" $sectionPage) }}
           {{ end }}
