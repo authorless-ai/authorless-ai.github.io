@@ -4,7 +4,7 @@
     {{ if $image }}
     <div class="relative aspect-[16/9] sm:aspect-[2/1] w-full xl:aspect-[4/3] xl:w-80 lg:shrink-0">
         <a href="{{ $page.RelPermalink }}">
-            {{ with $image.Resize "x240" }}
+            {{ with $image.Resize "x800" }}
             <img src="{{ .RelPermalink }}" alt=""
                  width="{{ .Width }}" height="{{ .Height }}"
                  class="absolute inset-0 object-cover w-full h-full bg-gray-200 rounded-lg">
@@ -60,13 +60,13 @@
             {{ .item.Description }}
         </p>
 
-        <div class="flex items-center justify-between gap-6">
-            <div class="flex items-center gap-4">
+        <div class="items-center justify-between grid grid-cols-3 sm:grid-cols-4 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            <div class="flex items-center gap-4 col-span-2 sm:col-span-3 md:col-span-2 lg:col-span-3">
                 {{ partial "blog/tags.html" .item }}
             </div>
 
             <a href="{{ .item.RelPermalink }}" title=""
-               class="inline-flex items-center text-base font-semibold leading-tight text-primary-700 hover:underline dark:text-primary-500">
+               class="inline-flex items-center justify-end text-base font-semibold leading-tight text-primary-700 hover:underline dark:text-primary-500 columns-1 text-right">
                 Read more
                 <svg aria-hidden="true" class="w-4 h-4 ml-2" fill="currentColor" viewBox="0 0 20 20"
                      xmlns="http://www.w3.org/2000/svg">
