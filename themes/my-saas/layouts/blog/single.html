@@ -20,6 +20,8 @@
         </div>
     </div>
     <div>
+        {{ partial "blog/section-prev-next.html" (dict "context" . "position" "top") }}
+
         <article
                 class="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert mb-4">
             <header class="mb-4 lg:mb-6 not-format">
@@ -100,6 +102,8 @@
 
         </article>
         {{ partial "blog/tags.html" . }}
+
+        {{ partial "blog/section-prev-next.html" (dict "context" . "position" "bottom") }}
     </div>
 
     <aside class="hidden lg:block lg:w-72" aria-labelledby="sidebar-label">

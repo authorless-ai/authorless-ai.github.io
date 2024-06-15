@@ -1,0 +1,20 @@
+{{ $position := .position }}   {{/* Use "top" if requiring a bottom margin, anything else for a top one */}}
+{{ with .context }}
+<nav class="flex justify-between {{ if eq $position "top" }}mb-4{{ else }}mt-4{{ end }}">
+    {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.RelPermalink }}" class="text-gray-900 no-underline dark:text-white hover:underline">
+            &larr; {{ .PrevInSection.Title }}
+        </a>
+    {{ else }}
+        <div></div>
+    {{ end }}
+
+    {{ if .NextInSection }}
+        <a href="{{ .NextInSection.RelPermalink }}" class="text-gray-900 no-underline dark:text-white hover:underline">
+            {{ .NextInSection.Title }} &rarr;
+        </a>
+    {{ else }}
+        <div></div>
+    {{ end }}
+</nav>
+{{ end }}
