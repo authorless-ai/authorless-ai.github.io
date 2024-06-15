@@ -45,7 +45,8 @@
                     </div>
 
                     <div class="text-base">
-                        {{ printf "Reading time: %d minutes" .ReadingTime }}
+                        {{$rt := .ReadingTime}}
+                        Reading time: {{ $rt }} minute{{ if gt $rt 1 }}s{{ end }}
                     </div>
                 </div>
             </header>
@@ -81,7 +82,10 @@
             </div>
 
             {{ if (gt .WordCount 400 ) }}
-                {{ .TableOfContents }}
+                {{ $toc := .TableOfContents }}
+                {{ if (not (eq $toc "<nav id=\"TableOfContents\"></nav>")) }}
+                    {{ $toc }}
+                {{ end }}
             {{ end }}
 
             {{ with .Resources.GetMatch "cover.*" }}
