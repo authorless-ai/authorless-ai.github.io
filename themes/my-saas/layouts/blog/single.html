@@ -101,7 +101,9 @@
             {{ .Content }}
 
         </article>
-        {{ partial "blog/tags.html" . }}
+        <div class="max-w-2xl">
+            {{ partial "blog/tags.html" . }}
+        </div>
 
         {{ partial "blog/section-prev-next.html" (dict "context" . "position" "bottom") }}
     </div>
