@@ -44,46 +44,42 @@
                         (dict "text" `Automates <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">content creation</span>` "indent" false)
                             (dict "text" `Writes in your brand voice` "indent" true)
                             (dict "text" `Creates How-tos, listicles, FAQs, and more` "indent" true)
+                            (dict "text" `Summarises blog posts for social media` "indent" true)
                             (dict "text" `Creates bite-sized and in-depth content (10,000+ words)` "indent" true)
                             (dict "text" `Highly search-engine optimised output` "indent" true)
-                            (dict "text" `Writes in multiple languages` "indent" true)
 
+                        (dict "text" `<span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Enter new markets</span> and <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">increase sales</span> with powerful translation` "indent" false)
+                            (dict "text" `Manage content in your main language` "indent" true)
+                            (dict "text" `Create multiple social media posts per blog post` "indent" true)
+                            (dict "text" `Translate everything into multiple languages` "indent" true)
+
+                        (dict "text" `Supports <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">organisations and teams</span> empower your whole organisation
+                    </span>` "indent" false)
+                    }}
+                    {{/*
                         (dict "text" `<span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Automates publishing</span> to Wordpress and social media` "indent" false)
                             (dict "text" `Target Black Friday, Christmas, etc. automatically` "indent" true)
                             (dict "text" `Publish automatically or manually approve first` "indent" true)
 
                         (dict "text" `<span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">Set-and-forget mode</span> to automatically post new content
                     </span>` "indent" false)
-                    }}
+                    */}}
                     {{ range $s }}
                     {{ partial "partials/index/inline-overview-tick.html" (dict "text" .text  "indented" .indent ) }}
                     {{ end }}
                 </ul>
 
                 <h3 class="mt-6 text-xl font-medium text-gray-500 dark:text-gray-400">
-                    Authorless empowers <span
-                        class="underline underline-offset-3 decoration-4 decoration-yellow-300 dark:decoration-yellow-300">anyone</span> to plan and automate an <span
-                        class="underline underline-offset-3 decoration-4 decoration-yellow-300 dark:decoration-yellow-300">effective content strategy</span>, helping you grow your business
+                    Authorless <span
+                        class="underline underline-offset-3 decoration-4 decoration-yellow-300 dark:decoration-yellow-300">empowers anyone</span> to plan and automate an <span
+                        class="underline underline-offset-3 decoration-4 decoration-yellow-300 dark:decoration-yellow-300">effective content strategy</span>, in <span
+                        class="underline underline-offset-3 decoration-4 decoration-yellow-300 dark:decoration-yellow-300">multiple languages</span> helping you grow your business
                 </h3>
-            </div>
-
-            <div>
-                <a href="#" title=""
-                   class="inline-flex items-center text-base font-medium text-primary-600 hover:underline dark:text-primary-500">
-                    Check out the iOS app features
-                    <svg aria-hidden="true" class="w-5 h-5 ml-1.5" xmlns="http://www.w3.org/2000/svg"
-                         viewBox="0 0 20 20"
-                         fill="currentColor">
-                        <path fill-rule="evenodd"
-                              d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
-                              clip-rule="evenodd"/>
-                    </svg>
-                </a>
             </div>
         </div>
 
         <img class="w-full dark:hidden pt-8 pb-4"
-             src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-dashboard-mockup.svg"
+             src="{{ "/charts.svg" | relURL }}"
              alt="dashboard image">
     </div>
 
@@ -91,10 +87,7 @@
         <div class="grid grid-cols-1 gap-8 mt-6 lg:mt-14 lg:gap-16 lg:grid-cols-2">
             <div class="hidden lg:block">
                 <img class="object-cover w-full dark:hidden"
-                     src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-tabs-1.png"
-                     alt="Feature illustration">
-                <img class="hidden object-cover w-full dark:block"
-                     src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/cta/cta-tabs-2.png"
+                     src="{{ "/charts2.png" | relURL }}"
                      alt="Feature illustration">
             </div>
 
@@ -128,10 +121,10 @@
                 </div>
 
                 <div class="flex items-center gap-4">
-                    <a href="#" title=""
+                    <a href="https://app.authorless.ai/accounts/signup/" title=""
                        class="text-white bg-primary-700 justify-center hover:bg-primary-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                        role="button">
-                        Start building
+                        Start now free
                         <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg"
                              viewBox="0 0 20 20"
                              fill="currentColor">

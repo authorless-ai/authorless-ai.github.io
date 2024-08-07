@@ -19,7 +19,8 @@
                     </svg>
                     {{ .Site.Title }}
                 </a>
-                <p class="my-4 font-light text-gray-500 dark:text-gray-400">Flowbite is a open-source library of over 400+ web components and interactive elements built with the utility classes from Tailwind CSS.</p>
+                <p class="my-4 font-light text-gray-500 dark:text-gray-400">Authorless is an automated content marketing suite perfect for entrepreneurs, teams and agencies. <br/>Write less, do more.</p>
+                {{/*
                 <ul class="flex mt-5 space-x-6">
                     <li>
                         <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400">
@@ -37,7 +38,10 @@
                         </a>
                     </li>
                 </ul>
+                */}}
             </div>
+            <div></div>
+            <div></div>
             <div class="lg:mx-auto">
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
@@ -45,16 +49,11 @@
                         <a href="#" class=" hover:underline">About</a>
                     </li>
                     <li class="mb-4">
-                        <a href="#" class="hover:underline">Careers</a>
-                    </li>
-                    <li class="mb-4">
-                        <a href="#" class="hover:underline">Brand Center</a>
-                    </li>
-                    <li class="mb-4">
                         <a href="#" class="hover:underline">Blog</a>
                     </li>
                 </ul>
             </div>
+            {{/*
             <div class="lg:mx-auto">
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Help center</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
@@ -72,6 +71,7 @@
                     </li>
                 </ul>
             </div>
+            */}}
             <div class="lg:mx-auto">
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
@@ -86,6 +86,7 @@
                     </li>
                 </ul>
             </div>
+            {{/*
             <div class="lg:mx-auto">
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
@@ -103,6 +104,7 @@
                     </li>
                 </ul>
             </div>
+            */}}
         </div>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
         <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}} {{ end }}. All Rights Reserved.</span>
