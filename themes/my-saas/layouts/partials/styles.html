@@ -6,12 +6,12 @@
     | resources.PostCSS
     | resources.ExecuteAsTemplate (printf "tailwind.dev.%s.css" $random) $random
     }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <link rel="stylesheet" type=“text/css” href="{{ $style.RelPermalink }}">
 {{ else }}
     {{
     $style := resources.Get "css/main.css"
         | resources.PostCSS
         | resources.Minify
     }}
-    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <link rel="stylesheet" type=“text/css” href="{{ $style.RelPermalink }}">
 {{ end }}

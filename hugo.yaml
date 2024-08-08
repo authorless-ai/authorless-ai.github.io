@@ -1,5 +1,5 @@
 baseURL: 'https://authorless.ai/'
-relativeURLs: true
+relativeURLs: false
 canonifyURLs: false
 languageCode: 'en-us'
 title: 'Authorless'
