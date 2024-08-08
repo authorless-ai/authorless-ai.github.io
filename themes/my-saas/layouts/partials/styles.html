@@ -1,12 +1,17 @@
-{{ $css := resources.Get "css/main.css" }}
-{{ $css = $css | resources.PostCSS }}
-{{ if hugo.IsProduction }}
-  {{ $css = $css | minify | fingerprint | resources.PostProcess }}
-{{ else }}
+{{ if hugo.IsServer }}
     {{ $seed := "weqklrjfmnk213409ufasdfhnlk3j4bladsfsl" }}
     {{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
-    {{ $style := $css | resources.PostCSS
-      | resources.ExecuteAsTemplate (printf "tailwind.dev.%s.css" $random) $random
-      }}
+    {{
+    $style := resources.Get "css/main.css"
+    | resources.PostCSS
+    | resources.ExecuteAsTemplate (printf "tailwind.dev.%s.css" $random) $random
+    }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{ else }}
+    {{
+    $style := resources.Get "css/main.css"
+        | resources.PostCSS
+        | resources.Minify
+    }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 {{ end }}
-<link href="{{ $css.RelPermalink }}" rel="stylesheet" />

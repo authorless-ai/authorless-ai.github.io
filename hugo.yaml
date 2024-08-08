@@ -1,4 +1,6 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://authorless.ai/'
+relativeURLs: true
+canonifyURLs: false
 languageCode: 'en-us'
 title: 'Authorless'
 theme: 'my-saas'
@@ -19,8 +21,6 @@ languages:
     languageCode: 'fr'
     languageName: 'Français'
     weight: 2
-
-canonifyURLs: true
 
 disableKinds:
   - taxonomy
