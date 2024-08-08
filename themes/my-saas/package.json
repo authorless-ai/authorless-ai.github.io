@@ -32,7 +32,9 @@
  },
  "scripts": {
   "version": "auto-changelog -p --template keepachangelog --commit-limit 0 && git add CHANGELOG.md",
-  "deploy": " cd exampleSite; hugo;"
+  "deploy": " cd exampleSite; hugo;",
+  "build": "hugo && npm run tailwind",
+  "tailwind": "postcss ./assets/css/tailwind.css -o ./static/css/tailwind.css"
  },
  "version": "0.1.0"
 }
