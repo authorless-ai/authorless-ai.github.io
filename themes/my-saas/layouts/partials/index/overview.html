@@ -78,16 +78,18 @@
             </div>
         </div>
 
-        <img class="w-full dark:hidden pt-8 pb-4"
-             src="{{ "/charts.svg" | relURL }}"
-             alt="dashboard image">
+        <img class="w-full dark:hidden pt-8 pb-4" src="/images/charts.svg" alt="Dashboard image">
     </div>
 
     <div class="max-w-screen-xl px-4 pb-4 mx-auto sm:pb-6 lg:pb-8">
         <div class="grid grid-cols-1 gap-8 mt-6 lg:mt-14 lg:gap-16 lg:grid-cols-2">
             <div class="hidden lg:block">
+                {{ $img := resources.Get "images/charts2.png" }}
+                {{ $img600 := $img.Resize "600x" }}
+                {{ $img1200 := $img.Resize "1200x" }}
                 <img class="object-cover w-full dark:hidden"
-                     src="{{ "/charts2.png" | relURL }}"
+                     src="{{ $img600.RelPermalink }}"
+                     srcset="{{ $img600.RelPermalink }} 600w, {{ $img1200.RelPermalink }} 1200w"
                      alt="Feature illustration">
             </div>
 

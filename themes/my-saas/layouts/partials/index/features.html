@@ -24,7 +24,11 @@
             </div>
         </div>
         <div class="w-full flex justify-left md:justify-between items-center gap-[2%]">
-            <img class="w-full rounded-xl" src="{{ "/group.jpg" | relURL }}">
+            {{ $img := resources.Get "images/group.jpg" }}
+            {{ $img600 := $img.Resize "600x" }}
+            {{ $img1200 := $img.Resize "1200x" }}
+            <img class="w-full rounded-xl" src="{{ $img600.RelPermalink }}"
+                     srcset="{{ $img600.RelPermalink }} 600w, {{ $img1200.RelPermalink }} 1200w">
         </div>
     </div>
 </section>

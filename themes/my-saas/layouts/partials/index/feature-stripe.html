@@ -1,6 +1,11 @@
 <section class="bg-slate-50 dark:bg-gray-900 border-y border-slate-200">
   <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl md:grid md:grid-cols-2 xl:gap-16 sm:py-16 lg:px-6 ">
-    <img class="mb-4 w-full h-80 object-cover md:h-auto md:object-center lg:mb-0 rounded-lg" src="{{ "/group2.jpg" | relURL }}" alt="feature image">
+    {{ $img := resources.Get "images/group2.jpg" }}
+    {{ $img600 := $img.Resize "600x" }}
+    {{ $img1200 := $img.Resize "1200x" }}
+    <img class="mb-4 w-full h-80 object-cover md:h-auto md:object-center lg:mb-0 rounded-lg" src="{{ $img600.RelPermalink }}"
+         srcset="{{ $img600.RelPermalink }} 600w, {{ $img1200.RelPermalink }} 1200w"
+         alt="feature image">
     <div class="text-gray-500 dark:text-gray-400 sm:text-lg">
       <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Writes Great Content for You</h2>
       <p class="mb-8 font-normal lg:text-xl">Authorless <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">understands</span> your <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">business and audience</span> to create and publish <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">relevant content</span> to help you <span class="underline underline-offset-3 decoration-4 decoration-blue-400 dark:decoration-blue-600">gain new customers</span></p>
