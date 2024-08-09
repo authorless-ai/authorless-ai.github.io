@@ -86,7 +86,7 @@ title: Contact us
         >
         before you send us your feedback.
       </p>
-      <div id="message" class="hidden"></div>
+
       <div
         class="form-buttons items-center space-y-4 sm:flex sm:space-y-0 sm:space-x-4 justify-end"
       >
@@ -120,6 +120,9 @@ title: Contact us
         </button>
       </div>
     </form>
+    <div id="successMessage" class="hidden max-w-3xl mx-auto p-4 mb-4 text-md text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400" role="alert">
+    </div>
+    <div id="errorMessage" class="hidden max-w-3xl mx-auto p-4 mb-4 text-md text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
   </div>
 </section>
 
@@ -135,7 +138,7 @@ title: Contact us
     })
     .then(function (token) {
       console.log(
-        "reCAPTCHA validated for 'data-widget-uuid=\"3c5279bae0cc4e128c57556e80fab646\"'. Setting input value..."
+        "reCAPTCHA validated. Submitting form..."
       );
       element.value = token;
 
@@ -150,15 +153,18 @@ title: Contact us
       // Handle the response
       xhr.onload = function () {
         var response = JSON.parse(xhr.responseText);
-        var messageDiv = document.getElementById('message');
+        var messageDiv;
 
         if (xhr.status >= 200 && xhr.status < 300) {
           // Success response
           if (response.status === 'success') {
+            messageDiv = document.getElementById('successMessage');
             messageDiv.textContent = response.message;
-            messageDiv.className = 'success'; // Add success styling
+            const contactForm = document.getElementById("contactForm");
+            contactForm.classList.add("hidden");
           } else if (response.status === 'error') {
             // Handle errors
+            messageDiv = document.getElementById('errorMessage');
             messageDiv.textContent = response.message;
             if (response.errors) {
               for (var key in response.errors) {
@@ -167,12 +173,11 @@ title: Contact us
                 }
               }
             }
-            messageDiv.className = 'error'; // Add error styling
           }
         } else {
           // Network or server error
+          messageDiv = document.getElementById('errorMessage');
           messageDiv.textContent = 'An unexpected error occurred. Please try again.';
-          messageDiv.className = 'error'; // Add error styling
         }
 
         messageDiv.classList.remove('hidden'); // Show the message
