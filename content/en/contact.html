@@ -68,7 +68,7 @@ title: Contact us
           name="captcha"
           class="g-recaptcha"
           required_score="None"
-          data-sitekey="6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq"
+          data-sitekey="{{< recaptcha >}}"
           id="id_captcha"
           data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"
           data-callback="onSubmit_3c5279bae0cc4e128c57556e80fab646"
@@ -124,14 +124,14 @@ title: Contact us
     </div>
 </section>
 
-<script src="https://www.google.com/recaptcha/api.js?render=6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq"></script>
+<script src="https://www.google.com/recaptcha/api.js?render={{< recaptcha >}}"></script>
 <script type="text/javascript">
   var element;
 
   function recaptchaFormSubmit(event) {
     event.preventDefault();
 
-    grecaptcha.execute("6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq", {
+    grecaptcha.execute("{{< recaptcha >}}", {
       action: "web_enquiry",
     })
     .then(function (token) {

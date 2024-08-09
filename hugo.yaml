@@ -12,6 +12,7 @@ theme: 'my-saas'
 params:
   author: Authorless
   appUrl: https://app.authorless.ai
+  recaptchaPublicKey: 6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq
 
 languages:
   en:
