@@ -1,3 +1,5 @@
+{{ $contact := .GetPage "contact" }}
+
 <section class="bg-slate-50 dark:bg-gray-900 border-y border-slate-200">
   <div class="gap-8 items-center py-8 px-4 mx-auto max-w-screen-xl md:grid md:grid-cols-2 xl:gap-16 sm:py-16 lg:px-6 ">
     {{ $img := resources.Get "images/group2.jpg" }}
@@ -17,7 +19,7 @@
           <div>
             <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">Content strategy</h3>
             <p class="mb-2 font-normal text-gray-500 dark:text-gray-400">Confused by what content to create? How to mix articles, How-tos, etc? Authorless suggests a content strategy to educate and gain you new customers, <b class="font-semibold text-gray-700">no experience required</b></p>
-            <a href="#" class="inline-flex items-center text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-600">
+            <a href="{{ $contact.Permalink }}" class="inline-flex items-center text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-600">
               Learn more
               <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
             </a>
@@ -30,7 +32,7 @@
           <div>
             <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">Bulk content creation</h3>
             <p class="mb-2 font-normal text-gray-500 dark:text-gray-400"><b class="font-semibold text-gray-700">Save weeks of effort</b> filling content gaps. Generate the content your customers want, highly optimised and in bulk</p>
-            <a href="#" class="inline-flex items-center text-purple-600 hover:text-purple-800 dark:text-purple-500 dark:hover:text-purple-600">
+            <a href="{{ $contact.Permalink }}" class="inline-flex items-center text-purple-600 hover:text-purple-800 dark:text-purple-500 dark:hover:text-purple-600">
               Learn more
               <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
             </a>
@@ -45,7 +47,7 @@
           <div>
             <h3 class="mb-2 text-xl font-bold text-gray-900 dark:text-white">Automate content updates</h3>
             <p class="mb-2 font-normal text-gray-500 dark:text-gray-400"><b class="font-semibold text-gray-700">Rocket up search rankings</b> with frequent content updates. Automatically create and publish new content. Cross-post to social media for <b class="font-semibold text-gray-700">maximum reach</b></p>
-            <a href="#" class="inline-flex items-center text-teal-600 hover:text-teal-800 dark:text-teal-500 dark:hover:text-teal-600">
+            <a href="{{ $contact.Permalink }}" class="inline-flex items-center text-teal-600 hover:text-teal-800 dark:text-teal-500 dark:hover:text-teal-600">
               Learn more
               <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
             </a>
