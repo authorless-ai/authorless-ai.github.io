@@ -1,0 +1,155 @@
+---
+title: Contact us
+---
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="max-w-screen-xl px-4 mx-auto pt-20 sm:pt-24 lg:pt-32">
+    <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
+      <h2
+        class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl dark:text-white"
+      >
+        Designed for business teams like yours
+      </h2>
+      <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">
+        Here at flowbite we focus on markets where technology, innovation, and
+        capital can unlock long-term value and drive economic growth.
+      </p>
+    </div>
+
+    <form method="post" action="{{< appurl >}}/feedback/enquiry" class="default-form">
+      <p>
+        Please use the form below to send us your comments. We read all feedback
+        carefully and may contact you to better understand the comments you
+        submit.
+      </p>
+
+      <p>
+        <label for="id_subject">Subject:</label>
+        <input
+          type="text"
+          name="subject"
+          maxlength="200"
+          required=""
+          id="id_subject"
+        />
+      </p>
+
+      <p>
+        <label for="id_email">Email address:</label>
+        <input
+          type="text"
+          name="email"
+          maxlength="200"
+          aria-describedby="id_email_helptext"
+          id="id_email"
+        />
+
+        <span class="helptext" id="id_email_helptext"
+          >Optional: Please enter your email address so we may contact you if
+          necessary</span
+        >
+      </p>
+
+      <p>
+        <label for="id_body">Message:</label>
+        <textarea
+          name="body"
+          cols="40"
+          rows="10"
+          maxlength="2000"
+          required=""
+          id="id_body"
+        ></textarea>
+
+        <input
+          type="hidden"
+          name="message_type"
+          value="Web enquiry"
+          id="id_message_type"
+        />
+        <script src="https://www.google.com/recaptcha/api.js?render=6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq"></script>
+        <script type="text/javascript">
+          var element;
+          grecaptcha.ready(function () {
+            element = document.querySelector(
+              '.g-recaptcha[data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"]',
+            );
+            element.form.addEventListener("submit", recaptchaFormSubmit);
+          });
+
+          function recaptchaFormSubmit(event) {
+            event.preventDefault();
+
+            grecaptcha
+              .execute("6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq", {
+                action: "web_enquiry",
+              })
+
+              .then(function (token) {
+                console.log(
+                  "reCAPTCHA validated for 'data-widget-uuid=\"3c5279bae0cc4e128c57556e80fab646\"'. Setting input value...",
+                );
+                element.value = token;
+                element.form.submit();
+              });
+          }
+        </script>
+
+        <input
+          type="hidden"
+          name="captcha"
+          class="g-recaptcha"
+          required_score="None"
+          data-sitekey="6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq"
+          id="id_captcha"
+          data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"
+          data-callback="onSubmit_3c5279bae0cc4e128c57556e80fab646"
+          data-size="normal"
+          style=""
+        />
+      </p>
+
+      <p class="text-xs">
+        Please read our
+        <a
+          href="{{< appurl >}}/pages/unsolicited-idea-policy/"
+          class="text-blue-600 dark:text-blue-500 hover:underline"
+          >Unsolicited Idea Submission Policy</a
+        >
+        before you send us your feedback.
+      </p>
+      <div
+        class="form-buttons items-center space-y-4 sm:flex sm:space-y-0 sm:space-x-4 justify-end"
+      >
+        <a
+          href="
+                /
+            "
+          type="button"
+          class="w-full justify-center sm:w-auto text-gray-500 inline-flex items-center bg-white hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-primary-300 rounded-lg border border-gray-200 text-sm font-medium px-5 py-2.5 hover:text-gray-900 focus:z-10 dark:bg-gray-700 dark:text-gray-300 dark:border-gray-500 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-600"
+        >
+          <svg
+            class="mr-1 -ml-1 w-5 h-5"
+            fill="currentColor"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+              clip-rule="evenodd"
+            ></path>
+          </svg>
+          Cancel
+        </a>
+
+        <button
+          type="submit"
+          class="w-full sm:w-auto justify-center text-white inline-flex bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+        >
+          Submit
+        </button>
+      </div>
+    </form>
+  </div>
+</section>

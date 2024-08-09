@@ -11,6 +11,8 @@ theme: 'my-saas'
 
 params:
   author: Authorless
+#  appUrl: https://app.authorless.ai
+  appUrl: http://127.0.0.1:8000
 
 languages:
   en:

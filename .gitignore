@@ -4,3 +4,4 @@ node_modules/*
 .idea/
 _gen/
 ananke/
+hugo_stats.json

@@ -24,3 +24,60 @@
 #TableOfContents ul, #TableOfContents li {
     @apply my-1 list-disc pl-0 ml-2
 }
+
+
+.default-form {
+    @apply py-4 w-full max-w-3xl h-full md:h-auto md:mx-auto;
+}
+
+.default-form p {
+    @apply mb-6;
+}
+
+.default-form div:not([id]) {
+    @apply mb-6;
+}
+
+.default-form div[id] > div {
+    @apply mb-0;
+}
+
+.default-form p:has(+ div:not(.form-buttons)) {
+    margin-bottom: 0;
+}
+
+.default-form legend {
+    @apply block mb-2 text-lg font-semibold text-gray-900 dark:text-white;
+}
+
+.default-form label {
+    @apply block mb-2 text-base font-medium text-gray-900 dark:text-white;
+}
+
+.default-form label:has(input[type=checkbox]) {
+    @apply text-sm;
+}
+
+.default-form .helptext, .formset-help-text, .dj-help-text {
+    @apply mt-1 text-sm font-normal text-gray-500 dark:text-gray-300;
+}
+
+.default-form .errorlist {
+    @apply text-red-500 dark:text-red-200;
+}
+
+.default-form .errorlist.nonfield {
+    @apply mb-4;
+}
+
+.default-form input[type=text], .default-form input[type=password], .default-form input[type=email], .default-form input[type=url], .default-form input[type=number] {
+    @apply bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500;
+}
+
+.default-form select, .select select {
+    @apply bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500;
+}
+
+.default-form textarea {
+    @apply block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500;
+}
