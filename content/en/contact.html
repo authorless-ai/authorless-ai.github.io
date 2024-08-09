@@ -126,8 +126,6 @@ title: Contact us
 
 <script src="https://www.google.com/recaptcha/api.js?render={{< recaptcha >}}"></script>
 <script type="text/javascript">
-  var element;
-
   function recaptchaFormSubmit(event) {
     event.preventDefault();
 
@@ -137,6 +135,9 @@ title: Contact us
     .then(function (token) {
       console.log(
         "reCAPTCHA validated. Submitting form..."
+      );
+      const element = document.querySelector(
+        '.g-recaptcha[data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"]'
       );
       element.value = token;
 
@@ -188,7 +189,7 @@ title: Contact us
 
   document.addEventListener('DOMContentLoaded', function() {
     grecaptcha.ready(function () {
-      element = document.querySelector(
+      const element = document.querySelector(
         '.g-recaptcha[data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"]'
       );
       element.form.addEventListener("submit", recaptchaFormSubmit);
