@@ -12,6 +12,12 @@
     $style := resources.Get "css/main.css"
         | resources.PostCSS
         | resources.Minify
+        | fingerprint
+        | resources.PostProcess
     }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
+    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}"
+      {{ if hugo.IsProduction -}}
+        integrity="{{ $style.Data.Integrity }}"
+      {{- end }}
+    >
 {{ end }}

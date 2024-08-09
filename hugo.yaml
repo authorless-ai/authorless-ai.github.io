@@ -1,6 +1,10 @@
 baseURL: 'https://authorless.ai/'
 relativeURLs: false
 canonifyURLs: false
+
+build:
+  writeStats: true
+
 languageCode: 'en-us'
 title: 'Authorless'
 theme: 'my-saas'
