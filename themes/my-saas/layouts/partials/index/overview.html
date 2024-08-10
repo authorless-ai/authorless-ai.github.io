@@ -35,7 +35,7 @@
                     {{ end }}
 
                     {{ $s := slice
-                        (dict "text" `Fast 5 minute setup` "indent" false)
+                    (dict "text" `5 minute <span class="text-highlight-secondary">fast setup</span>` "indent" false)
                     (dict "text" `Understands your products and customers - <span class="text-highlight-secondary">targetted content</span>` "indent" false)
 
                     (dict "text" `Automates content creation - <span class="text-highlight-secondary">save time</span>` "indent" false)
@@ -109,7 +109,7 @@
                         {{ $s := slice
                         (dict "text" `Marketing best-practices with no experience` "indent" false)
                         (dict "text" `Supports multiple personas and segments` "indent" false)
-                        (dict "text" `Easily experiment to discover what resonates with your market` "indent" false)
+                        (dict "text" `Quickly experiment to find what works for your market` "indent" false)
                         }}
                         {{ range $s }}
                         {{ partial "partials/index/inline-overview-tick.html" (dict "text" .text  "indented" .indent ) }}
