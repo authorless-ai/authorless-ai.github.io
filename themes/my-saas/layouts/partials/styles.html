@@ -3,14 +3,14 @@
     {{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
     {{
     $style := resources.Get "css/main.css"
-    | resources.PostCSS
+    | css.PostCSS
     | resources.ExecuteAsTemplate (printf "tailwind.dev.%s.css" $random) $random
     }}
     <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
 {{ else }}
     {{
     $style := resources.Get "css/main.css"
-        | resources.PostCSS
+        | css.PostCSS
         | resources.Minify
         | fingerprint
         | resources.PostProcess
