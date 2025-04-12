@@ -1,10 +1,9 @@
-@import 'form.css';
+@import './form.css';
 
 /* TailwindCSS base styles */
 /* see https://tailwindcss.com/docs/functions-and-directives#tailwind */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@config "./tailwind.config.js";
 @tailwind variants;
 
 #faq .btn-link {

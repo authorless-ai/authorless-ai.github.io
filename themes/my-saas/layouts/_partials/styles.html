@@ -1,23 +1,19 @@
-{{ if hugo.IsServer }}
-    {{ $seed := "weqklrjfmnk213409ufasdfhnlk3j4bladsfsl" }}
-    {{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
-    {{
-    $style := resources.Get "css/main.css"
-    | css.PostCSS
-    | resources.ExecuteAsTemplate (printf "tailwind.dev.%s.css" $random) $random
-    }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
-{{ else }}
-    {{
-    $style := resources.Get "css/main.css"
-        | css.PostCSS
-        | resources.Minify
-        | fingerprint
-        | resources.PostProcess
-    }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}"
-      {{ if hugo.IsProduction -}}
-        integrity="{{ $style.Data.Integrity }}"
-      {{- end }}
-    >
+{{ with resources.Get "css/main.css" }}
+  {{ $opts := dict
+    "inlineImports" true
+    "optimize" (not hugo.IsDevelopment)
+  }}
+  {{ with . | css.TailwindCSS $opts }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" />
+    {{ else }}
+      {{ with . | minify | fingerprint }}
+        <link
+          rel="stylesheet"
+          href="{{ .RelPermalink }}"
+          integrity="{{ .Data.Integrity }}"
+          crossorigin="anonymous" />
+      {{ end }}
+    {{ end }}
+  {{ end }}
 {{ end }}
