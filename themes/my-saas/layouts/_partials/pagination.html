@@ -21,7 +21,7 @@
   {{- if gt $page.Paginator.TotalPages 1 }}
     <nav aria-label="Page navigation" class="mt-8 sm:mt-12">
       <ul class="flex items-center justify-center -space-x-px pagination-{{ $format }}">
-        {{- partial (printf "partials/inline/pagination/%s" $format) $page }}
+        {{- partial (printf "_partials/inline/pagination/%s" $format) $page }}
       </ul>
     </nav>
   {{- end }}
@@ -31,7 +31,7 @@
 
 {{/* Format: default
 {{/* --------------------------------------------------------------------- */}}
-{{- define "partials/inline/pagination/default" }}
+{{- define "_partials/inline/pagination/default" }}
   {{- with .Paginator }}
     {{- $currentPageNumber := .PageNumber }}
 
@@ -98,7 +98,7 @@
 
 {{/* Format: terse
 {{/* --------------------------------------------------------------------- */}}
-{{- define "partials/inline/pagination/terse" }}
+{{- define "_partials/inline/pagination/terse" }}
   {{- with .Paginator }}
     {{- $currentPageNumber := .PageNumber }}
 
