@@ -1,8 +1,21 @@
 ---
+segment: Dropshippers
 title: "High-Quality Content at Scale, Fast – Dropshippers Love Authorless"
 
 heroDescription: Stop wasting hours on content creation and start driving sales. Authorless empowers dropshippers to generate relevant, engaging content at scale, analyse products and audiences, and automate their marketing efforts. Get content out the door faster than ever before and watch your business grow.
 
+topFeatures: 
+  list:
+    - title: Bulk Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Marketing Strategy
+      description: Effortlessly build a content strategy around your buying journey, no marketing experience required!
+      target: /features/marketing-strategy/      
+    - title: Content Suggestions
+      description: Endless, high-performing content suggestions tailored to your audience
+      target: /features/suggestions/
+      
 feature1:
   title: "Relevant Content at Lightning Speed: Generate High-Volume Content Without the Headache"
   description:

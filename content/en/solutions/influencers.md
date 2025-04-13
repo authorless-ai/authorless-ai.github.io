@@ -1,7 +1,20 @@
 ---
+segment: Influencers
 title: "Unlock Your Influence: Supercharge Your Content Creation with Authorless"
 
 heroDescription: Stop letting content creation be a constant struggle. Authorless empowers influencers to create engaging content that grows your audience, boosts engagement and maximises your impact, all while staying firmly in control.
+
+topFeatures: 
+  list:
+    - title: Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Multi-Platform Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: Content Suggestions
+      description: Endless, high-performing content suggestions tailored to your audience
+      target: /features/suggestions/
 
 feature1:
   title: "Time is Your Most Valuable Asset: Reclaim It with Authorless's Automated Content Creation"
