@@ -43,3 +43,38 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 6
+
+menus:
+  featuresMenu:
+    - name: Translation
+      url: /features/translation
+      weight: 10
+      params:
+        description: "Description of Feature A"
+    - name: Feature B
+      url: /features/b/
+      weight: 20
+      params:
+        description: "Description of Feature B"
+  resourcesMenu:
+    - name: Documentation
+      url: /docs/
+      weight: 10
+      params:
+        description: "Access our comprehensive documentation."
+    - name: Blog
+      url: /blog/
+      weight: 20
+      params:
+        description: "All the latest on our blog."
+  solutionsMenu:
+    - name: Solution A
+      url: /docs/
+      weight: 10
+      params:
+        description: "Access our comprehensive documentation."
+    - name: Solution B
+      url: /support/
+      weight: 20
+      params:
+        description: "Get help and support from our team."
