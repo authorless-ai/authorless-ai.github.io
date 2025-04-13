@@ -98,8 +98,8 @@ menus:
     weight: 20
     params:
       description: "Effortless growth with multi-platform publishing and automation"
-  - name: For Drop Shippers
-    url: /solutions/drop-shippers/
+  - name: For Dropshippers
+    url: /solutions/dropshippers/
     weight: 30
     params:
       description: "Bulk content creation and automated social media campaigns"
