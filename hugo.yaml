@@ -108,7 +108,7 @@ menus:
     weight: 40
     params:
       description: "Amplify mission, engaging stories, effortless scheduling"
-  - name: For Growing Businesses
+  - name: For Businesses
     url: /solutions/businesses/
     weight: 50
     params:

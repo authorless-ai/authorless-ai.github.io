@@ -12,9 +12,9 @@ topFeatures:
     - title: Scheduling
       description: Effortlessly plan and queue your content across multiple platforms for maximum impact
       target: /features/scheduling/
-    - title: Marketing Strategy
-      description: Effortlessly build a content strategy with AI guidance, no marketing experience required!
-      target: /features/marketing-strategy/
+    - title: Content Suggestions
+      description: Endless, high-performing content suggestions tailored to your clients' audiences
+      target: /features/suggestions/
 
 feature1:
   title: "Unlock Efficiency: Streamlined Content Creation for Agencies"

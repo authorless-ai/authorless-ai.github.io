@@ -8,11 +8,11 @@ topFeatures:
     - title: Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance
       target: /features/content-writing/
-    - title: Scheduling
+    - title: Multi-Platform Scheduling
       description: Effortlessly plan and queue your content across multiple platforms for maximum impact
       target: /features/scheduling/
     - title: Marketing Strategy
-      description: Effortlessly build a content strategy with AI guidance, no marketing experience required!
+      description: Build an effective content strategy with AI guidance, no marketing experience required!
       target: /features/marketing-strategy/
 
 feature1:
