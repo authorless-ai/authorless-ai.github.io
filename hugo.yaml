@@ -46,22 +46,22 @@ markup:
 
 menus:
   featuresMenu:
-    - name: Content Writing
+    - name: AI Content Writing
       url: "/features/content-writing/"
       weight: 10
       params:
         description: "Create professional-quality content in minutes, not hours"
-    - name: Scheduling
+    - name: Multi-Platform Scheduling
       url: "/features/scheduling/"
       weight: 20
       params:
         description: "Maintain consistency with automated content scheduling"
-    - name: Publishing
+    - name: Direct Publishing
       url: "/features/publishing/"
       weight: 30
       params:
         description: "Post everywhere with one-click multi-platform publishing"
-    - name: Suggestions
+    - name: AI Content Suggestions
       url: "/features/suggestions/"
       weight: 40
       params:
@@ -71,11 +71,11 @@ menus:
       weight: 50
       params:
         description: "Drive results with automatic customer journey content"
-    - name: Translation
+    - name: AI Content Translation
       url: "/features/translation/"
       weight: 60
       params:
-        description: "Reach global audiences with instant content translation"
+        description: "Reach global audiences with instant AI content translation"
     - name: Built for Teams
       url: "/features/teams/"
       weight: 70

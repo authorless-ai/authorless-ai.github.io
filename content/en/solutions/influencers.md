@@ -6,13 +6,13 @@ heroDescription: Stop letting content creation be a constant struggle. Authorles
 
 topFeatures: 
   list:
-    - title: Content Writing
+    - title: Bulk AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance
       target: /features/content-writing/
     - title: Multi-Platform Scheduling
       description: Effortlessly plan and queue your content across multiple platforms for maximum impact
       target: /features/scheduling/
-    - title: Content Suggestions
+    - title: AI Content Suggestions
       description: Endless, high-performing content suggestions tailored to your audience
       target: /features/suggestions/
 

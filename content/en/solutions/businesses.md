@@ -6,7 +6,7 @@ heroDescription: Stop letting content marketing fall by the wayside. Authorless 
 
 topFeatures: 
   list:
-    - title: Content Writing
+    - title: AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance
       target: /features/content-writing/
     - title: Multi-Platform Scheduling
