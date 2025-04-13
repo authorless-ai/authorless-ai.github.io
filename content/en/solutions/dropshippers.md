@@ -16,8 +16,10 @@ topFeatures:
       description: Endless, high-performing content suggestions tailored to your audience
       target: /features/suggestions/
       
-feature1:
-  title: "Relevant Content at Lightning Speed: Generate High-Volume Content Without the Headache"
+features:
+- title: "Relevant Content at Lightning Speed: Generate High-Volume Content Without the Headache"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
   description:
     - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Authorless allows you to create large volumes of high-quality content in minutes, not hours.
     - Stop sacrificing quality for quantity. Authorless uses AI to generate unique and engaging content that resonates with your target audience, even when creating in bulk.
@@ -32,8 +34,9 @@ feature1:
   footer:
     - Time is your most valuable asset. Authorless helps you make the most of it.
 
-feature2:
-  title: "Laser-Targeted Content: Analyse Products and Audiences for Maximum Impact"
+- title: "Laser-Targeted Content: Analyse Products and Audiences for Maximum Impact"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"  
   description:
     - Are your marketing efforts falling flat because your content isn't relevant? Authorless analyses your products and target audiences to generate content that truly resonates.
     - Understand your customers' needs and pain points, then use Authorless to create content that addresses them directly.

@@ -2,8 +2,10 @@
 title: Reach a Global Audience with Seamless Content Translation by Authorless
 heroDescription: Stop limiting your audience and start speaking the world's languages – effortlessly
 
-feature1:
-  title: Your Voice, Their Language
+features:
+- title: Your Voice, Their Language
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1"   
   description:
     - Authorless understands that building a global brand means reaching customers in their native tongues.
     - That's why we've integrated cutting-edge automatic translation directly into our content creation platform.
@@ -17,8 +19,10 @@ feature1:
       description: AI translation models preserve your unique brand tone.
   footer:
     - Expand your market reach without a dedicated translation team.
-feature2:
-  title: Convert Global Audiences into Paying Customers
+
+- title: Convert Global Audiences into Paying Customers
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"   
   description:
     - Authorless transforms international visitors into loyal customers by speaking their language.
     - Our intelligent translation breaks down barriers that previously limited your revenue potential.

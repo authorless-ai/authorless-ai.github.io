@@ -1,72 +1,74 @@
-<section class="bg-slate-50 dark:bg-gray-900 border-y border-slate-200">
-  <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
-      <!-- Row -->
-      <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
-          <div class="text-gray-500 sm:text-lg dark:text-gray-400">
-              <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ .Params.feature1.title }}</h2>
-              {{ range .Params.feature1.description }}
-                <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
-              {{ end }}
-              <!-- List -->
-              <ul role="list" class="my-7 space-y-5">
-                {{ range .Params.feature1.points }}
-                  <li class="flex space-x-3">
-                      <!-- Icon -->
-                      <svg class="flex-shrink-0 w-5 h-5 mt-1.5 text-primary-600 dark:text-primary-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
-                      <div>
-                        <span class="text-base font-medium leading-tight text-gray-900 dark:text-white">{{ .title }}</span> &ndash;
-                        <span class="text-base font-light leading-tight text-gray-900 dark:text-white">{{ .description }}</span>
-                      </div>
-                  </li>
-                {{ end }}
-              </ul>
-              {{ range .Params.feature1.footer }}
-                <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
-              {{ end }}
-              <div class="flex justify-end">
-                <a href="https://app.authorless.ai/accounts/signup/" class="inline-flex text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-3 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
-                  Start now, free
-                  <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
-                       fill="currentColor">
-                    <path fill-rule="evenodd"
-                          d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
-                          clip-rule="evenodd"/>
-                  </svg>
-                </a>
-              </div>
-          </div>
-          <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png" alt="office feature image">
-      </div>
-  </div>
-</section>
+{{ $features := .context.Params.features }}
+{{ $start := .start | default 0 }}
+{{ $end := .end | default (len $features) }}
 
-<section class="bg-white dark:bg-gray-900">
-  <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
-      <!-- Row -->
-      <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
-          <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png" alt="office feature image 2">
-          <div class="text-gray-500 sm:text-lg dark:text-gray-400">
-              <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ .Params.feature2.title }}</h2>
-              {{ range .Params.feature2.description }}
-                <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
-              {{ end }}
-              <!-- List -->
-              <ul role="list" class="my-7 space-y-5">
-                {{ range .Params.feature2.points }}
-                  <li class="flex space-x-3">
-                      <!-- Icon -->
-                      <svg class="flex-shrink-0 w-5 h-5 mt-1.5 text-primary-600 dark:text-primary-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
-                      <div>
-                        <span class="text-base font-medium leading-tight text-gray-900 dark:text-white">{{ .title }}</span> &ndash;
-                        <span class="text-base font-light leading-tight text-gray-900 dark:text-white">{{ .description }}</span>
-                      </div>
-                  </li>
+{{ $featureSubset := slice }}
+{{ range $i, $feature := $features }}
+    {{ if and (ge $i $start) (lt $i $end) }}
+        {{ $featureSubset = $featureSubset | append $feature }}
+    {{ end }}
+{{ end }}
+
+
+{{ range $index, $feature := $featureSubset }}
+<section class="{{ if eq (mod $index 2) 0 }}bg-slate-50 dark:bg-gray-900 border-y border-slate-200{{ else }}bg-white dark:bg-gray-900{{ end }}">
+    <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
+        <!-- Row -->
+        <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
+            {{ if eq (mod $index 2) 1 }}
+                {{ if $feature.image }}
+                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $feature.image }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
                 {{ end }}
-              </ul>
-              {{ range .Params.feature2.footer }}
-                <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
-              {{ end }}
-          </div>
-      </div>
-  </div>
+            {{ end }}
+
+            <div class="text-gray-500 sm:text-lg dark:text-gray-400">
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ $feature.title }}</h2>
+                {{ with $feature.description }}
+                    {{ range . }}
+                        <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
+                    {{ end }}
+                {{ end }}
+                <!-- List -->
+                {{ with $feature.points }}
+                    <ul role="list" class="my-7 space-y-5">
+                        {{ range . }}
+                            <li class="flex space-x-3">
+                                <!-- Icon -->
+                                <svg class="flex-shrink-0 w-5 h-5 mt-1.5 text-primary-600 dark:text-primary-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                                <div>
+                                    <span class="text-base font-medium leading-tight text-gray-900 dark:text-white">{{ .title }}</span> –
+                                    <span class="text-base font-light leading-tight text-gray-900 dark:text-white">{{ .description }}</span>
+                                </div>
+                            </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+                {{ with $feature.footer }}
+                    {{ range . }}
+                        <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
+                    {{ end }}
+                {{ end }}
+                {{ if eq (mod $index 2) 0 }}
+                    <div class="flex justify-end">
+                        <a href="https://app.authorless.ai/accounts/signup/" class="inline-flex text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-3 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
+                            Start now, free
+                            <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
+                                 fill="currentColor">
+                                <path fill-rule="evenodd"
+                                      d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+                                      clip-rule="evenodd"/>
+                            </svg>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+
+            {{ if eq (mod $index 2) 0 }}
+                {{ if $feature.image }}
+                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $feature.image }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                {{ end }}
+            {{ end }}
+        </div>
+    </div>
 </section>
+{{ end }}

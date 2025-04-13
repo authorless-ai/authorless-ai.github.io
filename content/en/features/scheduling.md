@@ -2,8 +2,10 @@
 title: Streamline Your Content with Authorless Scheduling
 heroDescription: Take control of your content calendar and publish consistently with Authorless's intuitive scheduling features. Stop stressing about deadlines and start seeing results.
 
-feature1:
-  title: "Effortless Scheduling: Plan Your Content with Ease"
+features:
+- title: "Effortless Scheduling: Plan Your Content with Ease"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
   description:
     - Tired of last-minute content scrambles? Authorless's scheduling tools empower you to plan and schedule your blog posts and social media updates in advance.
     - Visualise your content calendar, schedule posts across multiple platforms, and ensure a consistent online presence, all from one centralised location.
@@ -18,8 +20,9 @@ feature1:
   footer:
     - Plan ahead, publish consistently. Authorless makes content scheduling simple and effective.
 
-feature2:
-  title: "Optimise Your Publishing: Reach Your Audience at the Right Time"
+- title: "Optimise Your Publishing: Reach Your Audience at the Right Time"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"    
   description:
     - Scheduling isn't just about planning ahead; it's about optimising your content's reach. Authorless helps you determine the best times to publish for maximum engagement.
     - Analyse past performance, experiment with different posting times, and fine-tune your schedule to reach your target audience when they're most active.

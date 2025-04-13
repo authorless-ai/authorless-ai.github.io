@@ -2,8 +2,10 @@
 title: Manage Multiple Clients with Ease using Authorless
 heroDescription: Streamline your agency workflow with dedicated project spaces. Effortlessly manage content for all your clients from one powerful platform.
 
-feature1:
-  title: "Client Management: Transform Your Agency Workflow with Authorless"
+features:
+- title: "Client Management: Transform Your Agency Workflow with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
   description:
     - Managing content for multiple clients is a logistical challenge that drains your team's resources. Authorless simplifies this with dedicated project spaces for each client.
     - Keep all client settings, brand guidelines, and content strategies neatly organised in separate workspaces, eliminating confusion and improving efficiency.
@@ -18,8 +20,9 @@ feature1:
   footer:
     - Simplify your agency operations. Manage multiple clients without the complexity using Authorless.
 
-feature2:
-  title: "Scalable Solutions: Grow Your Agency with Authorless"
+- title: "Scalable Solutions: Grow Your Agency with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"  
   description:
     - As your agency expands, managing content for a growing client base becomes increasingly challenging. Authorless scales effortlessly with your business, supporting unlimited client projects.
     - Onboard new clients quickly with templated project setups, ensuring consistency while saving precious time during the client acquisition process with Authorless.

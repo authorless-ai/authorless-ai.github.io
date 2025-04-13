@@ -2,8 +2,10 @@
 title: Reclaim Your Time, Amplify Your Content with Authorless
 heroDescription: Stop spending hours on content creation. Generate engaging content faster and publish consistently with Authorless AI.
 
-feature1:
-  title: "Instant Content: Reclaim Your Time with Authorless"
+features:
+- title: "Instant Content: Reclaim Your Time with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
   description:
     - Tired of content creation eating up your day? Authorless dramatically reduces the time you spend on writing and editing.
     - Generate blog posts, social media updates, and more in minutes, freeing you to focus on other critical tasks.
@@ -18,8 +20,9 @@ feature1:
   footer:
     - Time is your most valuable asset. Don't waste it on manual content creation. Use Authorless.
 
-feature2:
-  title: "Consistent Content: Stay Top-of-Mind with Authorless"
+- title: "Consistent Content: Stay Top-of-Mind with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"  
   description:
     - Maintaining a consistent publishing schedule is key to engaging your audience and building brand loyalty. Authorless empowers you to create a steady stream of fresh, relevant content.
     - Never miss a deadline again. Easily plan and schedule your content in advance, ensuring a consistent online presence with Authorless.

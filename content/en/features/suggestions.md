@@ -2,8 +2,10 @@
 title: Unlock Limitless Content Ideas with Authorless AI Suggestions
 heroDescription: Say goodbye to writer's block. Authorless AI Suggestions provide endless inspiration to fuel your content strategy.
 
-feature1:
-  title: "End Writer's Block: Generate Infinite Content Ideas with Authorless"
+features:
+- title: "End Writer's Block: Generate Infinite Content Ideas with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1"   
   description:
     - Staring at a blank page? Authorless banishes writer's block with a constant stream of relevant and engaging content suggestions.
     - Discover fresh angles, trending topics, and untapped opportunities to connect with your audience and drive results.
@@ -18,8 +20,9 @@ feature1:
   footer:
     - Inspiration is always at your fingertips. Let Authorless ignite your content creation.
 
-feature2:
-  title: "Relevant Content: Target the Right Audience with Authorless"
+- title: "Relevant Content: Target the Right Audience with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"    
   description:
     - Stop guessing what your audience wants to see. Authorless analyses your business, products, and target market to deliver hyper-relevant content suggestions.
     - Ensure your content resonates with the people who matter most, attracting new customers and strengthening existing relationships with Authorless.

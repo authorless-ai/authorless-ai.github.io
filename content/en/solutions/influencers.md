@@ -16,8 +16,10 @@ topFeatures:
       description: Endless, high-performing content suggestions tailored to your audience
       target: /features/suggestions/
 
-feature1:
-  title: "Time is Your Most Valuable Asset: Reclaim It with Authorless's Automated Content Creation"
+features:
+- title: "Time is Your Most Valuable Asset: Reclaim It with Authorless's Automated Content Creation"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
   description:
     - Are you constantly juggling content ideas, writing captions, and scheduling posts across multiple platforms? Authorless dramatically reduces the time you spend on these tasks, freeing you up to focus on creating authentic connections with your audience.
     - Say goodbye to late-night scrambles and hello to a streamlined content workflow. Authorless helps you plan ahead, automate your posting schedule, and ensure you always have fresh content ready to go, without sacrificing your personal touch.
@@ -32,8 +34,9 @@ feature1:
   footer:
     - "Your time is precious. Authorless helps you use it wisely, while amplifying your reach and impact."
 
-feature2:
-  title: "Effortless Organisation: Stay Ahead of the Game with a Smart Content Calendar"
+- title: "Effortless Organisation: Stay Ahead of the Game with a Smart Content Calendar"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"
   description:
     - Maintaining a consistent and engaging online presence is crucial for influencers, but it can be difficult when you're balancing collaborations, events, and personal life. Authorless makes it easy to stay organised and on top of your content schedule.
     - Never miss another sponsorship opportunity or trending topic. Authorless helps you plan your content calendar in advance, ensuring you always have relevant content ready to share.

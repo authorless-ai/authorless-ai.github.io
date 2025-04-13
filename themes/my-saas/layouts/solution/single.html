@@ -2,13 +2,15 @@
 <article>
   {{ partial "feature/hero.html" . }}
 
-  {{ partial "feature/two-features.html" . }}
+  {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
   {{ partial "feature/cta.html" . }}
 
   {{ if .Params.topFeatures }}
     {{ partial "solution/feature-list.html" . }}
   {{ end }}
+
+  {{ partial "feature/two-features.html" (dict "context" . "start" 2 "end" (len .Params.features)) }}
 
   {{ partial "solution/feature-cards.html" . }}
 

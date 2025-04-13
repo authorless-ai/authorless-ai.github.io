@@ -2,7 +2,7 @@
 <article>
   {{ partial "feature/hero.html" . }}
 
-  {{ partial "feature/two-features.html" . }}
+  {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
   {{ partial "feature/cta.html" . }}
 

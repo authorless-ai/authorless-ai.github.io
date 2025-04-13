@@ -2,8 +2,10 @@
 title: Collaborate Seamlessly, Maintain Brand Voice with Authorless Teams
 heroDescription: Empower your entire marketing team to create on-brand content whilst maintaining quality control. Scale your content production without sacrificing consistency.
 
-feature1:
-  title: "Team Collaboration: Scale Your Content Production with Authorless"
+features:
+- title: "Team Collaboration: Scale Your Content Production with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1"   
   description:
     - Managing content creation across multiple team members often leads to inconsistent messaging and time-consuming revisions. Authorless Teams solves this challenge.
     - Enable your entire marketing department to contribute to content creation whilst maintaining a consistent brand voice and quality standards.
@@ -18,8 +20,9 @@ feature1:
   footer:
     - Don't let limited resources constrain your content marketing. Scale efficiently with Authorless Teams.
 
-feature2:
-  title: "Brand Consistency: Maintain Quality Control with Authorless"
+- title: "Brand Consistency: Maintain Quality Control with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"    
   description:
     - Worried about maintaining your brand voice when multiple team members create content? Authorless Teams allows managers to set guardrails that ensure consistency.
     - Empower junior staff to create content confidently within pre-defined parameters, reducing the need for extensive reviews and revisions.

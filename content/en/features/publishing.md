@@ -2,8 +2,10 @@
 title: "Seamless Publishing: Connect and Conquer with Authorless"
 heroDescription: Reach your audience where they are. Authorless publishes directly to your favourite social media platforms and blog, simplifying your content distribution.
 
-feature1:
-  title: "Direct Publishing: Effortless Distribution"
+features:
+- title: "Direct Publishing: Effortless Distribution"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1"   
   description:
     - Stop wasting time manually uploading content to multiple platforms. Authorless publishes directly to your blog and social media channels.
     - Connect your accounts and let Authorless handle the distribution, saving you valuable time and effort.
@@ -18,8 +20,9 @@ feature1:
   footer:
     - Publish faster, reach further. Authorless makes content distribution easy.
 
-feature2:
-  title: "Integrated Platforms: Connect Your World"
+- title: "Integrated Platforms: Connect Your World"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"
   description:
     - Authorless seamlessly integrates with your favourite social media platforms and blogging platforms.
     - Connect your accounts in minutes and start publishing content directly from Authorless.

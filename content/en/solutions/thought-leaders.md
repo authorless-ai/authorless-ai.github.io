@@ -15,8 +15,10 @@ topFeatures:
       description: Endless, high-performing content suggestions tailored to your audience
       target: /features/suggestions/
 
-feature1:
-  title: "Time-Saving Content: Hours Back in Your Week with Authorless"
+features:
+- title: "Time-Saving Content: Hours Back in Your Week with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
   description:
     - Tired of LinkedIn content creation eating up your valuable time? Authorless dramatically reduces the hours you spend writing and editing posts.
     - Generate thoughtful LinkedIn updates in minutes, freeing you to focus on what truly matters—your business and expertise.
@@ -31,8 +33,9 @@ feature1:
   footer:
     - Time is your most valuable asset. Don't waste it on manual LinkedIn content creation. Use Authorless.
 
-feature2:
-  title: "Consistent Presence: Build Your LinkedIn Authority Effortlessly with Authorless"
+- title: "Consistent Presence: Build Your LinkedIn Authority Effortlessly with Authorless"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image_alt: "Office Feature Image 2"  
   description:
     - Maintaining a consistent LinkedIn publishing schedule is essential for building thought leadership and reputation. Authorless frees you to create a steady stream of insightful posts without the stress.
     - Never miss another LinkedIn opportunity. Easily plan and schedule your posts in advance, ensuring a consistent presence even during your busiest periods.
