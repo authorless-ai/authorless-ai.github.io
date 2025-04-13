@@ -3,7 +3,7 @@ title: Reach a Global Audience with Seamless Content Translation by Authorless
 heroDescription: Stop limiting your audience and start speaking the world's languages – effortlessly
 
 feature1:
-  title: Your Brand, Their Language
+  title: Your Voice, Their Language
   description:
     - Authorless understands that building a global brand means reaching customers in their native tongues.
     - That's why we've integrated cutting-edge automatic translation directly into our content creation platform.
@@ -18,23 +18,23 @@ feature1:
   footer:
     - Expand your market reach without a dedicated translation team.
 feature2:
-  title: Enter Global Markets with Ease
+  title: Convert Global Audiences into Paying Customers
   description:
-    - Authorless streamlines your entry into diverse global markets.
-    - Our intelligent translation feature handles the complexities, allowing you to focus on your core message.
-    - Reach new customers and expand your brand's influence worldwide.
+    - Authorless transforms international visitors into loyal customers by speaking their language.
+    - Our intelligent translation breaks down barriers that previously limited your revenue potential.
+    - Unlock new markets without the hefty investment in translation teams or agencies.
   points:
-    - title: Target New Audiences
-      description: Connect with customers who prefer to consume content in their native language.
-    - title: Increase Brand Visibility
-      description: Improve your search engine rankings in international markets.
-    - title: Expand Your Reach
-      description: Seamlessly adapt content for diverse cultures and languages.
+    - title: Boost Conversion Rates
+      description: See higher engagement and conversion rates when customers interact with content in their native language.
+    - title: Capture Untapped Revenue
+      description: Access lucrative international markets previously beyond reach due to language barriers.
+    - title: Outperform Local Competition
+      description: Gain competitive advantage over businesses that only operate in a single language.
   footer:
-    - Achieve global success without the traditional barriers.
+    - Watch your sales figures grow as you connect with customers worldwide in their preferred language.
 cta:
-  title: Your Gateway to Global Domination
-  description: Ready to break down language barriers and connect with a world of new customers? Try Authorless today and experience the power of effortless translation!
+  title: Unlock Global Revenue Streams Today with Authorless
+  description: Stop leaving international sales on the table. Start converting global visitors into paying customers with Authorless translation. Try it now and watch your business grow across borders!
 faq:
   - q: "What languages does Authorless support for automatic translation?"
     a:
