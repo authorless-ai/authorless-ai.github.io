@@ -11,8 +11,10 @@
                     </button>
                 </h2>
                 <div id="accordion-flush-body-{{ $index }}" class="" aria-labelledby="accordion-flush-heading-{{ $index }}">
-                    <div class="py-5 border-b border-gray-200 dark:border-gray-700">
-                        <p class="mb-2 text-gray-500 dark:text-gray-400 text-lg">{{ $value.a }}</p>
+                    <div class="pt-3 pb-5 border-b border-gray-200 dark:border-gray-700">
+                      {{ range $value.a }}
+                        <p class="mb-4 text-gray-500 dark:text-gray-400 text-lg">{{ . }}</p>
+                      {{ end }}
                     </div>
                 </div>
                 {{ end }}
