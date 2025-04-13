@@ -13,7 +13,7 @@ topFeatures:
       description: Effortlessly plan and queue your content across multiple platforms for maximum impact
       target: /features/scheduling/
     - title: Marketing strategy
-      description: Effortlessly build a content strategy with AI-powered guidance, no marketing experience required!
+      description: Effortlessly build a content strategy with AI guidance, no marketing experience required!
       target: /features/marketing-strategy/
 
 feature1:
