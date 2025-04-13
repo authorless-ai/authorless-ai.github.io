@@ -6,7 +6,7 @@ heroDescription: Stop wasting hours on content creation and start driving sales.
 
 topFeatures: 
   list:
-    - title: Bulk Content Writing
+    - title: Bulk AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance
       target: /features/content-writing/
     - title: Marketing Strategy

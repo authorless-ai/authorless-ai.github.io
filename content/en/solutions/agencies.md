@@ -12,9 +12,9 @@ topFeatures:
     - title: Scheduling
       description: Effortlessly plan and queue your content across multiple platforms for maximum impact
       target: /features/scheduling/
-    - title: Content Suggestions
-      description: Endless, high-performing content suggestions tailored to your clients' audiences
-      target: /features/suggestions/
+    - title: Multiple Client Projects
+      description: Create separate projects to handle multiple clients and brands with ease
+      target: /features/projects/
 
 feature1:
   title: "Unlock Efficiency: Streamlined Content Creation for Agencies"

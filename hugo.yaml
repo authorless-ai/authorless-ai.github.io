@@ -76,16 +76,16 @@ menus:
       weight: 60
       params:
         description: "Reach global audiences with instant content translation"
-#    - name: Built for Teams
-#      url: "/features/teams/"
-#      weight: 70
-#      params:
-#        description: "Collaborate seamlessly with your team on all your content"
-#    - name: Multiple Brands and Projects
-#      url: "/features/multiple-projects/"
-#      weight: 80
-#      params:
-#        description: "Manage content for multiple brands or projects from a single account"
+    - name: Built for Teams
+      url: "/features/teams/"
+      weight: 70
+      params:
+        description: "Collaborate seamlessly with your team on all your content"
+    - name: Multiple Brands and Projects
+      url: "/features/projects/"
+      weight: 80
+      params:
+        description: "Manage content for multiple brands or projects from a single account"
   resourcesMenu:
     - name: Documentation
       url: /docs/
