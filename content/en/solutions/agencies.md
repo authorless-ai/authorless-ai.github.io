@@ -1,20 +1,8 @@
 ---
-segment: Marketing agencies
+segment: Marketing Agencies
 title: "Empower Your Agency: Scale Content Creation with Authorless AI"
 
 heroDescription: Stop struggling to meet content demands. Authorless empowers agencies to create high-quality, engaging content at scale, freeing up valuable time to focus on strategy, client relationships, and growing your business.
-
-topFeatures:
-  list:
-    - title: Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
-      target: /features/scheduling/
-    - title: Multiple Client Projects
-      description: Create separate projects to handle multiple clients and brands with ease
-      target: /features/projects/
 
 features:
 - title: "Unlock Efficiency: Streamlined Content Creation for Agencies"
@@ -71,6 +59,35 @@ features:
 cta:
   title: Don't Get Left Behind - Transform Your Agency with Authorless Today!
   description: Ready to scale your content creation, maximise efficiency and drive business growth? Try Authorless now and experience the power of AI-driven content marketing for agencies!
+
+topFeatures:
+  list:
+    - title: AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Content Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: Multiple Client Projects
+      description: Create separate projects to handle multiple clients and brands with ease
+      target: /features/projects/
+
+featureCards:
+  title: "Designed for Marketing Agencies Like Yours"
+  description: "More essential Authorless features your agency needs to deliver exceptional content and grow your business"
+  cards:
+  - title: "Buying Journey Strategy"
+    description: "Develop effective content strategies with AI. Generate targeted content aligned with each stage of the customer journey."
+    url: "/features/marketing-strategy/"
+  - title: "Multi-Platform Publishing"
+    description: "Reach your audience everywhere. Seamlessly publish content across all your key platforms with ease."
+    url: "/features/publishing/"
+  - title: "AI Content Suggestions"
+    description: "Unlock your creative potential. Get AI-powered suggestions to spark new content ideas and improve existing ones."
+    url: "/features/suggestions/"
+  - title: "Team Collaboration"
+    description: "Work better, together. Manage users, permissions, and collaborate seamlessly on all projects."
+    url: "/features/teams/"
 
 faq:
   - q: "My agency already has a content creation process. How can Authorless improve it?"

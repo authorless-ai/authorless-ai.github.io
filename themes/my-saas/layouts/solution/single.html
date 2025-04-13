@@ -12,7 +12,9 @@
 
   {{ partial "feature/two-features.html" (dict "context" . "start" 2 "end" (len .Params.features)) }}
 
-  {{ partial "solution/feature-cards.html" . }}
+  {{ if .Params.featureCards }}
+    {{ partial "solution/feature-cards.html" . }}
+  {{ end }}
 
   {{ if .Params.faq }}
     {{ partial "faq.html" . }}
