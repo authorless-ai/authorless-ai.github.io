@@ -1,5 +1,5 @@
 ---
-type: feature
+segment: Marketing agencies
 title: "Empower Your Agency: Scale Content Creation with Authorless AI"
 
 heroDescription: Stop struggling to meet content demands. Authorless empowers agencies to create high-quality, engaging content at scale, freeing up valuable time to focus on strategy, client relationships, and growing your business. 

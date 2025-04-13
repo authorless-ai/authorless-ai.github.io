@@ -1,5 +1,4 @@
 ---
-type: feature
 title: Stress-Free LinkedIn Thought Leadership with Authorless
 heroDescription: Stop spending hours creating LinkedIn posts. Generate engaging thought leadership content faster and publish consistently with Authorless AI.
 

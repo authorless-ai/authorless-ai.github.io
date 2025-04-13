@@ -1,8 +1,20 @@
 ---
-type: feature
+segment: Businesses
 title: "Quick, Easy, Consistent Content. Automate Your Content Calendar with Authorless"
 
 heroDescription: Stop letting content marketing fall by the wayside. Authorless empowers businesses to create consistent, engaging content that drives results, even with limited time and resources. Get an automated content calendar and never miss an important date again.
+
+topFeatures: 
+  list:
+    - title: Content writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: Marketing strategy
+      description: Effortlessly build a content strategy with AI-powered guidance, no marketing experience required!
+      target: /features/marketing-strategy/
 
 feature1:
   title: "Reclaim Your Time: Automated Content Marketing for Busy Business Owners"

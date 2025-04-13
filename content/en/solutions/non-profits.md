@@ -1,5 +1,4 @@
 ---
-type: feature
 title: "Amplify Your Mission with Authorless: Engaging Stories, Effortless Scheduling"
 heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Authorless helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
 
