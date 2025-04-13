@@ -89,32 +89,32 @@ menus:
         description: "All the latest on our blog"
   solutionsMenu:
   - name: For Thought Leaders & Experts
-    url: /thought-leaders/
+    url: /solutions/thought-leaders/
     weight: 10
     params:
       description: "Automate social posts to build authority while you sleep"
   - name: For Influencers & Creators
-    url: /influencers/
+    url: /solutions/influencers/
     weight: 20
     params:
       description: "Effortless growth with multi-platform publishing and automation"
   - name: For Drop Shippers
-    url: /drop-shippers/
+    url: /solutions/drop-shippers/
     weight: 30
     params:
       description: "Bulk content creation and automated social media campaigns"
   - name: For Non-Profits and Charities
-    url: /non-profits/
+    url: /solutions/non-profits/
     weight: 40
     params:
       description: "Amplify mission, engaging stories, effortless scheduling"
   - name: For Growing Businesses
-    url: /businesses/
+    url: /solutions/businesses/
     weight: 50
     params:
       description: "Consistent lead generation with automated strategy and calendar"
   - name: For Marketing Agencies
-    url: /agencies/
+    url: /solutions/agencies/
     weight: 60
     params:
       description: "Deliver results, scale content with efficient AI power"

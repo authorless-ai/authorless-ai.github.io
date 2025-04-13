@@ -11,12 +11,13 @@
   "@fullhuman/postcss-purgecss": "github:fullhuman/postcss-purgecss",
   "@tailwindcss/aspect-ratio": "^0.4.2",
   "@tailwindcss/cli": "^4.1.3",
-  "@tailwindcss/typography": "^0.5.12",
-  "autoprefixer": "^10.4.19",
+  "@tailwindcss/typography": "^0.5.16",
+  "@tailwindcss/postcss": "^4.1.3",
+  "autoprefixer": "^10.4.21",
   "flowbite": "^3.1.2",
   "flowbite-typography": "^1.0.5",
   "postcss": "^8.5.3",
-  "postcss-cli": "^11.0.0",
+  "postcss-cli": "^11.0.1",
   "tailwindcss": "^4.1.3"
  },
  "homepage": "https://github.com/theNewDynamic/gohugo-theme-ananke#readme",
@@ -34,8 +35,5 @@
  "scripts": {
   "version": "auto-changelog -p --template keepachangelog --commit-limit 0 && git add CHANGELOG.md"
  },
- "version": "0.1.0",
- "dependencies": {
-  "@tailwindcss/postcss": "^4.1.3"
- }
+ "version": "0.1.0"
 }
