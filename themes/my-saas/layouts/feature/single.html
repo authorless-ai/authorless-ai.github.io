@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article>
+  {{ partial "feature/hero.html" . }}
+
+
+  <h2>Key Benefits</h2>
+  <ul>
+    {{ range .Params.keyPoints }}
+      <li>{{ . }}</li>
+    {{ end }}
+  </ul>
+
+  <div class="content">
+    {{ .Content }}  <!-- Render the main content (below the front matter) -->
+  </div>
+
+  {{ if .Params.faq }}
+    {{ partial "faq.html" . }}
+  {{ end }}
+
+</article>
+{{ end }}
