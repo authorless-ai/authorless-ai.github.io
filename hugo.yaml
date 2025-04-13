@@ -46,16 +46,36 @@ markup:
 
 menus:
   featuresMenu:
-    - name: Translation
-      url: /features/translation
+    - name: Content Writing
+      url: "/features/content-writing/"
       weight: 10
       params:
-        description: "Description of Feature A"
-    - name: Feature B
-      url: /features/b/
+        description: "Helps you write compelling content"
+    - name: Scheduling
+      url: "/features/scheduling/"
       weight: 20
       params:
-        description: "Description of Feature B"
+        description: "Schedule your content for future publishing"
+    - name: Publishing
+      url: "/features/publishing/"
+      weight: 30
+      params:
+        description: "Seamlessly publish your content to various platforms"
+    - name: Suggestions
+      url: "/features/suggestions/"
+      weight: 40
+      params:
+        description: "Provides AI-powered suggestions to improve your content"
+    - name: Marketing Strategy
+      url: "/features/marketing-strategy/"
+      weight: 50
+      params:
+        description: "Helps you develop an effective marketing strategy"
+    - name: Translation
+      url: "/features/translation/"
+      weight: 60
+      params:
+        description: "Go global with automatic translations"
   resourcesMenu:
     - name: Documentation
       url: /docs/

@@ -2,24 +2,24 @@
 {{ $menu := index .Site.Menus $menuName }}
 
 {{ if $menu }}
-  <div id="{{ $menuName }}-mega-menu"
-       class="hidden mt-1 bg-white border border-gray-100 shadow-md dark:bg-gray-800 dark:border-gray-600">
-    <div
-        class="grid max-w-screen-xl px-4 py-5 mx-auto text-gray-900 dark:text-white sm:grid-cols-2 md:px-6">
-      <ul>
-        {{ range $menu }}
-          <li>
-            <a href="{{ .URL }}" class="block p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
-              <div class="font-semibold">{{ .Name }}</div>
-              {{ if .Params.description }}
-                <span class="text-sm text-gray-500 dark:text-gray-400">{{ .Params.description }}</span>
-              {{ end }}
-            </a>
-          </li>
-        {{ end }}
-      </ul>
-    </div>
+<div id="{{ $menuName }}-mega-menu"
+     class="hidden mt-1 bg-white border border-gray-100 shadow-md dark:bg-gray-800 dark:border-gray-600">
+  <div
+      class="max-w-screen-xl px-4 py-5 mx-auto text-gray-900 dark:text-white md:px-6">
+    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-4">  <!-- Added grid layout -->
+      {{ range $menu }}
+        <li>
+          <a href="{{ .URL }}" class="block p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
+            <div class="font-semibold">{{ .Name }}</div>
+            {{ if .Params.description }}
+              <span class="text-sm text-gray-500 dark:text-gray-400">{{ .Params.description }}</span>
+            {{ end }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
   </div>
+</div>
 {{ else }}
   <!-- Optional: Display a message if the menu doesn't exist -->
   <p>Subnav menu "{{ $menuName }}" not found.</p>
