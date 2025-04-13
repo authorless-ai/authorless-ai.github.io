@@ -4,7 +4,7 @@
 
   {{ partial "feature/two-features.html" . }}
 
-  <section class="bg-white dark:bg-gray-900">
+  <section class="bg-blue-50 dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div class="mx-auto max-w-screen-md text-center">
             <h2 class="mb-4 text-5xl tracking-tight font-extrabold leading-tight text-gray-900 dark:text-white">{{ .Params.cta.title }}</h2>
@@ -25,6 +25,8 @@
   {{ if .Params.faq }}
     {{ partial "faq.html" . }}
   {{ end }}
+
+  {{ partial "newsletter" . }}
 
 </article>
 {{ end }}
