@@ -1,9 +1,9 @@
 ---
-title: Go Global with Seamless Translation
+title: Reach a Global Audience with Seamless Content Translation by Authorless
 heroDescription: Stop limiting your audience and start speaking the world's languages – effortlessly
 
 feature1:
-  title: Speak the World's Language
+  title: Your Brand, Their Language
   description:
     - Authorless understands that building a global brand means reaching customers in their native tongues.
     - That's why we've integrated cutting-edge automatic translation directly into our content creation platform.
