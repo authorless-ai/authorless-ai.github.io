@@ -50,32 +50,32 @@ menus:
       url: "/features/content-writing/"
       weight: 10
       params:
-        description: "Helps you write compelling content"
+        description: "Create professional-quality content in minutes, not hours"
     - name: Scheduling
       url: "/features/scheduling/"
       weight: 20
       params:
-        description: "Schedule your content for future publishing"
+        description: "Maintain consistency with automated content scheduling"
     - name: Publishing
       url: "/features/publishing/"
       weight: 30
       params:
-        description: "Seamlessly publish your content to various platforms"
+        description: "Post everywhere with one-click multi-platform publishing"
     - name: Suggestions
       url: "/features/suggestions/"
       weight: 40
       params:
-        description: "Provides AI-powered suggestions to improve your content"
+        description: "Never run out of ideas with AI-powered content suggestions"
     - name: Marketing Strategy
       url: "/features/marketing-strategy/"
       weight: 50
       params:
-        description: "Helps you develop an effective marketing strategy"
+        description: "Drive results with automatic customer journey content"
     - name: Translation
       url: "/features/translation/"
       weight: 60
       params:
-        description: "Go global with automatic translations"
+        description: "Reach global audiences with instant content translation"
   resourcesMenu:
     - name: Documentation
       url: /docs/
