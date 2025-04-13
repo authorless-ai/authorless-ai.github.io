@@ -7,14 +7,14 @@ feature1:
   description:
     - Tired of content creation eating up your day? Authorless dramatically reduces the time you spend on writing and editing.
     - Generate blog posts, social media updates, and more in minutes, freeing you to focus on other critical tasks.
-    - Stop letting content creation hold you back and start maximizing your productivity with Authorless.
+    - Stop letting content creation hold you back and start maximising your productivity with Authorless.
   points:
     - title: Create Content in Minutes
       description: Reduce content creation time from hours to minutes with Authorless AI assistance.
     - title: Free Up Your Schedule
       description: Reclaim valuable time to focus on strategic business activities with Authorless.
     - title: Boost Your Productivity
-      description: Generate more content in less time, maximizing your overall output with Authorless.
+      description: Generate more content in less time, maximising your overall output with Authorless.
   footer:
     - Time is your most valuable asset. Don't waste it on manual content creation. Use Authorless.
 
@@ -41,41 +41,49 @@ cta:
 faq:
   - q: "How much time can I realistically save using Authorless for my content creation?"
     a:
-      - "Authorless users commonly save several hours per week, and sometimes even days per month. This frees up significant time for other business priorities."
-      - "The exact time savings will depend on your specific content volume and complexity. However, Authorless is designed to streamline your workflow regardless of your specific needs."
+      - "Authorless users typically report saving several hours each week, freeing up valuable time to focus on other important business activities. By automating much of the content creation process, from brainstorming to initial drafting, Authorless allows you to reclaim a significant portion of your day."
+
+      - "The exact time saved will depend on factors such as the volume and complexity of content you produce, but Authorless is designed to streamline your workflow, regardless of your specific needs. You'll be surprised at how much more you can achieve when you're not bogged down by manual content creation."
 
   - q: "How does Authorless help me publish consistently, even when I'm busy?"
     a:
-      - "Authorless provides a content calendar and scheduling system for planning content in advance."
-      - "It enables batch creation of AI-assisted content, scheduling across platforms (blog, social media, email), and automated publishing. This ensures a consistent online presence."
+      - "Authorless makes consistent publishing easy by providing a content calendar and scheduling system. This allows you to plan your content in advance and visualise your publishing schedule, ensuring you never miss a deadline, even when you're juggling multiple priorities."
+
+      - "You can also use Authorless to generate content in batches, scheduling it across various platforms. This automated approach ensures a consistent online presence, even when you're at your busiest."
 
   - q: "Can I still maintain a high level of quality while generating content quickly with Authorless, or will it sound 'robotic'?"
     a:
-      - "Authorless generates high-quality content reflecting your brand voice. You're always in control of the output."
-      - "It offers a strong starting point, but you can review, edit, and refine to align with your brand guidelines. Authorless is an assistant, not a replacement."
+      - "Authorless is designed to help you generate high-quality content that reflects your unique brand voice. The AI provides a solid starting point, producing content that is well-structured, informative, and engaging, saving you significant time on the initial writing process."
+
+      - "You retain complete control over the final output and can easily review, edit, and refine the content to ensure it aligns perfectly with your brand guidelines and meets your quality standards. Think of Authorless as your content creation assistant, providing a strong foundation while allowing you to add your personal touch."
 
   - q: "What if I run out of content ideas or struggle to come up with engaging topics using Authorless? Does it just generate the same old stuff?"
     a:
-      - "Authorless provides content suggestion tools for fresh and relevant topics based on your industry, target audience, and business goals."
-      - "The AI analyzes trends, competitor content, and search engine data to uncover missed opportunities and brainstorm new angles."
+      - "Authorless includes powerful content suggestion tools to help you discover fresh and relevant topics tailored to your specific industry, target audience, and business goals. You'll never have to worry about writer's block again."
 
-  - q: "Is there a free trial of Authorless available so I can experience the time-saving benefits firsthand, and how long does it last?"
+      - "The AI analyses industry trends, competitor content, and search engine data to identify missed opportunities and help you brainstorm new angles. This ensures that you're always creating content that resonates with your audience and drives results."
+
+  - q: "Can I try out Authorless before committing to a subscription?"
     a:
-      - "Yes! Authorless offers a 14-day free trial."
-      - "This allows you to explore features, generate content, and see how it can transform your content marketing. Sign up on our website to activate it."
+      - "Yes! We want you to experience the time-saving and content-generating power of Authorless for yourself. That's why we offer free credits when you sign up, giving you the chance to try out the platform and see how it can transform your content marketing."
+
+      - "These credits allow you to generate real content, explore the platform's features, and get a feel for how Authorless can streamline your workflow. Simply sign up on our website to claim your free credits and start creating!"
 
   - q: "Does Authorless support different content formats, or is it only for blog posts?"
     a:
-      - "Authorless supports a variety of content formats, catering to diverse needs."
-      - "This includes blog posts, social media updates (Facebook, Twitter, LinkedIn, Instagram), email newsletters, website copy, product descriptions, and ad copy. We're continuously adding new formats."
+      - "Authorless can generate various content types to keep your audience engaged. From how-to guides and listicles to tips and tricks, we aim to provide versatile content creation."
+
+      - "Currently, we support blog posts and social media updates, but we're actively working on expanding our content format offerings. We are continuously looking to offer content across a wider range of mediums and styles."
 
   - q: "Does Authorless integrate with my existing marketing tools, such as my social media scheduling platform or email marketing software?"
     a:
-      - "Authorless integrates with popular marketing tools. Examples include Buffer, Hootsuite, and Mailchimp. This streamlines your workflow."
-      - "We're constantly adding new integrations based on user feedback."
+      - "Authorless integrates directly with several key platforms to streamline your workflow and save you even more time. This means you can seamlessly connect Authorless with the tools you already use and love."
 
-  - q: "What kind of customer support does Authorless offer if I run into any issues or have questions?"
+      - "Current integrations include Facebook, X (formerly Twitter), Instagram, LinkedIn, and WordPress, making it easy to schedule and publish content directly to your social media channels and blog. We are constantly evaluating and adding new integrations based on user feedback."
+
+  - q: "What resources are available to help me learn how to use Authorless effectively?"
     a:
-      - "Authorless provides comprehensive customer support."
-      - "This includes a knowledge base, email support, and live chat support during business hours. Our team is ready to assist with any questions."
+      - "Authorless is designed to be intuitive and easy to use, so you can start creating compelling content right away. We believe that powerful tools should be accessible to everyone, regardless of their technical expertise."
+
+      - "To help you get started quickly and confidently, we provide in-app tips and guidance, along with practical examples of how to use Authorless to achieve your content marketing goals. Plus, we're always adding new features and improvements based on user feedback, so the platform is constantly evolving to meet your needs."
 ---
