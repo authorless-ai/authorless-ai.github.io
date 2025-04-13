@@ -51,22 +51,22 @@ features:
   footer:
     - The future of content marketing is here. Authorless empowers your agency to lead the way.
 
-- title: "Integrated Workflow: Seamless Content Management for Agencies"
+- title: "Strategic Content Creation: Drive the Buyer's Journey"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 3"  
   description:
-    - Simplify your content workflow with Authorless AI. From ideation to scheduling, our platform offers a comprehensive solution to streamline your entire content creation process.
-    - "Manage multiple clients and campaigns with ease. Authorless’s project management tools allow you to organise content, audience personas and brand profiles in one centralised location, ensuring consistency and efficiency across all projects."
-    - Free your team to focus on higher-value activities such as strategy development, client communication and business development. Let Authorless handle the content grunt work.
+    - Is your content truly working to convert prospects into customers? Authorless helps you implement the AIDA framework (Attention, Interest, Desire, Action) to create content that guides prospects through the entire buying journey.
+    - Stop producing random content. Generate strategic pieces that serve specific purposes—from building awareness and nurturing interest to driving desire and prompting action.
+    - Create content that actually delivers business results for your clients by focusing on conversion goals rather than simply filling content calendars with generic material.
   points:
-    - title: Manage Multiple Projects Effortlessly
-      description: Organise and track content creation for all your agency clients.
-    - title: Centralised Project Management
-      description: Keep all client data, personas and brand guidelines in one place.
-    - title: Maximise Team Efficiency
-      description: Maximise up your team to focus on strategic activities and client relationships.
+    - title: Conversion-Focused Content
+      description: Move beyond engagement metrics to content that drives actual business outcomes.
+    - title: Full-Funnel Strategy
+      description: Generate appropriate content for every stage of the customer journey.
+    - title: Purposeful Production
+      description: Ensure every piece of content serves a strategic goal in the buyer's journey.
   footer:
-    - Time is your agency's most valuable resource. Authorless helps you make the most of it.
+    - Don't just create content. Create content that moves customers through the buying process and delivers measurable results.
 
 cta:
   title: Don't Get Left Behind - Transform Your Agency with Authorless Today!
