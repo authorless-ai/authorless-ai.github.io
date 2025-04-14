@@ -14,8 +14,37 @@ introFeatures:
     description: Work at a higher level. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
     url: "/features/marketing-strategy/"
 solutionsCards:
-  title: AI Solutions Tailored for You
-  description: Explore Authorless features designed especially for you. Learn how Authorless can save you time and effort now
+  title: AI Solutions for Your Industry
+  description: Discover how Authorless can transform your business, whatever you're working on. Regain valuable time and get ahead
+  cards:
+     - title: For Experts & Thought Leaders
+       description: Save time with automated social posts that build your reputation 24/7
+       url: "/solutions/thought-leaders/"
+       icon: lightbulb
+     - title: For Creators & Influencers
+       description: Grow faster with AI content that works across all your social platforms
+       url: "/solutions/influencers/"
+       icon: star
+     - title: For Dropshippers
+       description: Create product content in bulk and automate your social media marketing
+       url: "/solutions/dropshippers/"
+       icon: truck
+     - title: For Non-Profits
+       description: Share your cause effectively with AI-written stories and scheduled posts
+       url: "/solutions/non-profits/"
+       icon: heart
+     - title: For Businesses
+       description: Generate consistent leads with automated content strategy and scheduling
+       url: "/solutions/businesses/"
+       icon: briefcase
+     - title: For Marketing Agencies
+       description: Serve more clients and deliver better results with powerful AI tools
+       url: "/solutions/agencies/"
+       icon: bullhorn
+    
+featureCards:
+  title: Get More Done, Faster with Authorless
+  description: Supercharge your productivity and achieve your goals with ease. See how Authorless AI can help you get ahead, without the extra effort.
   cards:
   - title: AI Content Writing
     description: Generate high-quality articles, blog posts, and more in minutes with AI.
@@ -40,7 +69,7 @@ solutionsCards:
   - title: Automated Marketing Strategy Content
     description: Drive customer engagement with content designed for each stage of the buyer's journey.
     url: "/features/marketing-strategy/"
-    icon: case
+    icon: briefcase
 
   - title: Instant AI Content Translation
     description: Reach a global audience by translating your content into multiple languages.
