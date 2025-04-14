@@ -106,7 +106,7 @@ features:
   footer:
     - Authorless empowers anyone to plan and automate an effective content strategy, in multiple languages helping you grow your business 
 - title: "Audience-Focussed Content That Delivers"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2" 
   description:
     - Authorless creates detailed customer profiles to understand exactly who you're writing for and what they need to hear.
