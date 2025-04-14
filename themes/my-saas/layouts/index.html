@@ -1,21 +1,21 @@
 {{ define "main" }}
 
-{{ partial "index/hero.html" . }}
+  {{ partial "index/hero.html" . }}
 
-{{ partial "index/features-3-cols-icons.html" . }}
+  {{ partial "index/features-3-cols-icons.html" . }}
 
-{{ partial "index/solution-cols.html" .Params.solutionsCards }}
+  {{ partial "index/solution-cols.html" .Params.solutionsCards }}
 
-{{ partial "index/feature-cards.html" .Params.featureCards }}
+  {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
-{{ partial "index/overview.html" . }}
+  {{ partial "index/feature-cards.html" .Params.featureCards }}
 
-{{ partial "newsletter" . }}
+  {{ partial "index/overview.html" . }}
 
-{{ partial "index/features.html" . }}
+  {{ partial "newsletter" . }}
 
-{{ if .Params.faq }}
-    {{ partial "faq.html" . }}
-{{ end }}
+  {{ if .Params.faq }}
+      {{ partial "faq.html" . }}
+  {{ end }}
 
 {{ end }}

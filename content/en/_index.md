@@ -86,6 +86,27 @@ featureCards:
     url: "/features/projects/"
     icon: folder
 
+features:
+- title: "Your AI Marketing Superpower"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 1" 
+  description:
+    - No marketing experience or time? Authorless delivers expert results. Stop babysitting your blog and stressing your socials. 
+    - Write less, do more. 
+  points:
+    - title: Bulk Content in Minutes
+      description: All your content needs, from blog posts to social media updates, in one place
+    - title: Automated Content Calendar
+      description: Schedule posts in advance and publish direct to important platforms   
+    - title: Audience Insights
+      description: Analyses your brand and audience to build detailed profiles to write relevant content     
+    - title: Endless Content Ideas
+      description: Never run out of things to say with our AI-powered suggestion engine   
+    - title: Content That Actually Works
+      description: Turn readers into customers by targetting every step of the buying journey
+  footer:
+    - Authorless empowers anyone to plan and automate an effective content strategy, in multiple languages helping you grow your business 
+    
 faq:
   - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"
     a:
