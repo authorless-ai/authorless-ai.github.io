@@ -119,6 +119,35 @@ features:
     - title: Content plans that achieve your goals
       description: Easily create series of posts designed to turn readers into paying customers
     
+featureSummary:
+  title: "Secure platform, secure data"
+  description: "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth."
+  features:
+    - iconColor: "primary"
+      title: "Project Management"
+      points:
+        - description: "Unified Contribution Graph"
+        - description: "Org activity graph"
+        - description: "Org dependency insights"
+        - description: "Milestones"
+        - description: "Repo insights"
+    - iconColor: "purple"
+      title: "Collaborative Coding"
+      points:
+        - description: "Dynamic reports and dashboards"
+        - description: "Code review assignments"
+        - description: "Team discussions"
+        - description: "Protected branches"
+        - description: "Draft pull requests"
+    - iconColor: "teal"
+      title: "Enterprise Security"
+      points:
+        - description: "Required reviews"
+        - description: "Dependabot security and"
+        - description: "Dependency graph"
+        - description: "GitHub Advisory Database"
+        - description: "GPG commit signing verification"
+
 faq:
   - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"
     a:
