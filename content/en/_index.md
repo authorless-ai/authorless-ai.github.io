@@ -91,8 +91,7 @@ features:
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
-    - No marketing experience or time? Authorless delivers expert results. Stop babysitting your blog and stressing your socials. 
-    - Write less, do more. 
+    - No marketing experience or time? Authorless handles the heavy lifting. Say goodbye to endless blog edits and social media headaches.
   points:
     - title: Bulk Content in Minutes
       description: All your content needs, from blog posts to social media updates, in one place
@@ -106,6 +105,19 @@ features:
       description: Turn readers into customers by targetting every step of the buying journey
   footer:
     - Authorless empowers anyone to plan and automate an effective content strategy, in multiple languages helping you grow your business 
+- title: "Audience-Focussed Content That Delivers"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image_alt: "Office Feature Image 2" 
+  description:
+    - Authorless creates detailed customer profiles to understand exactly who you're writing for and what they need to hear.
+    - Publish content that drives real business results, regardless of your marketing background.
+  points:
+    - title: Marketing success without prior experience
+      description: Create professional content that follows proven principles, even if you're just starting out
+    - title: Customer profiles that unlock relevance
+      description: Generate content that speaks directly to your audience's specific needs and interests
+    - title: Content plans that achieve your goals
+      description: Easily create series of posts designed to turn readers into paying customers
     
 faq:
   - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"
