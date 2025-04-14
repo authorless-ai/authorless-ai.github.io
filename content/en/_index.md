@@ -120,33 +120,39 @@ features:
       description: Easily create series of posts designed to turn readers into paying customers
     
 featureSummary:
-  title: "Secure platform, secure data"
-  description: "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth."
+  title: "Complete Content Creation & Publishing Suite"
+  description: "Authorless helps businesses scale their content marketing with AI-powered writing, scheduling, and publishing tools that deliver consistent, high-quality content across blogs and social platforms."
   features:
     - iconColor: "primary"
-      title: "Project Management"
+      title: "Content Creation"
+      icon: edit      
       points:
-        - description: "Unified Contribution Graph"
-        - description: "Org activity graph"
-        - description: "Org dependency insights"
-        - description: "Milestones"
-        - description: "Repo insights"
+        - description: "AI-powered content writing"
+        - description: "Multiple content formats (listicles, how-tos, tips and more)"
+        - description: "SEO-optimised blog posts"
+        - description: "Social media content"
+        - description: "Buying journey focus"
+        - description: "Content translation capabilities"
     - iconColor: "purple"
-      title: "Collaborative Coding"
+      title: "Consistency & Strategy"
+      icon: chart
       points:
-        - description: "Dynamic reports and dashboards"
-        - description: "Code review assignments"
-        - description: "Team discussions"
-        - description: "Protected branches"
-        - description: "Draft pull requests"
+        - description: "Brand voice preservation"
+        - description: "Audience profile targeting"
+        - description: "Campaign goal alignment"
+        - description: "Content calendar planning"
+        - description: "Content performance analytics"
+        - description: "AI-driven content suggestions"
     - iconColor: "teal"
-      title: "Enterprise Security"
+      title: "Publishing & Management"
+      icon: upload
       points:
-        - description: "Required reviews"
-        - description: "Dependabot security and"
-        - description: "Dependency graph"
-        - description: "GitHub Advisory Database"
-        - description: "GPG commit signing verification"
+        - description: "Automated content scheduling"
+        - description: "Multi-platform publishing"
+        - description: "Content library management"
+        - description: "Bulk content creation"
+        - description: "Multiple user collaboration"
+        - description: "Multiple campaigns and projects"
 
 faq:
   - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"

@@ -10,9 +10,7 @@
       {{ range $feature := $section.features }}
       <div>
         <div class="flex justify-center items-center mb-4 w-10 h-10 bg-{{ $feature.iconColor }}-100 rounded dark:bg-{{ $feature.iconColor }}-900 lg:h-16 lg:w-16">
-          <svg class="w-5 h-5 text-{{ $feature.iconColor }}-600 dark:text-{{ $feature.iconColor }}-300 lg:w-8 lg:h-8" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-            <path fill-rule="evenodd" d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 0l-2 2a1 1 0 101.414 1.414L8 10.414l1.293 1.293a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
-          </svg>
+          {{ partial "components/icons.html" (dict "icon" $feature.icon "class" (printf "w-5 h-5 text-%s-600 dark:text-%s-300 lg:w-8 lg:h-8" $feature.iconColor $feature.iconColor)) }}
         </div>
         <h3 class="mb-2 text-xl font-bold dark:text-white text-gray-900">{{ $feature.title }}</h3>
         <ul role="list" class="my-6 lg:mb-0 space-y-4">
