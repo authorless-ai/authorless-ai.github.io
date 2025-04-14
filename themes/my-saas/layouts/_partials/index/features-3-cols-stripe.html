@@ -9,7 +9,7 @@
     <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-8 xl:gap-12 md:space-y-0">
       {{ range $feature := $section.features }}
       <div>
-        <div class="flex justify-center items-center mb-4 w-10 h-10 bg-{{ $feature.iconColor }}-100 rounded dark:bg-{{ $feature.iconColor }}-900 lg:h-16 lg:w-16">
+        <div class="hidden md:flex justify-center items-center mb-4 w-10 h-10 bg-{{ $feature.iconColor }}-100 rounded dark:bg-{{ $feature.iconColor }}-900 lg:h-16 lg:w-16">
           {{ partial "components/icons.html" (dict "icon" $feature.icon "class" (printf "w-5 h-5 text-%s-600 dark:text-%s-300 lg:w-8 lg:h-8" $feature.iconColor $feature.iconColor)) }}
         </div>
         <h3 class="mb-2 text-xl font-bold dark:text-white text-gray-900">{{ $feature.title }}</h3>
