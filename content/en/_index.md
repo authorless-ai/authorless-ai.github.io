@@ -1,26 +1,38 @@
 ---
 title: "Automate Content Marketing with AI"
 superTitle: AI Content Marketing Automation
-description: "The fastest, easiest way to create and manage your content marketing. For marketing beginners and experts. Save time and effort now."
+description: "The <b>fastest, easiest way</b> to create and manage your content marketing. For marketing beginners and experts. Save time and effort now."
 youtubeUrl: https://www.youtube.com/embed/_RMM4_Ac2Do
 introFeatures:
-  - title: Write Content in Bulk with AI
+  - title: Write Blogs & Socials with AI
     description: Other tools generate single pages. Authorless writes <b>multiple webpages & social posts</b>. Boost search rankings
     url: "/features/content-writing/"
   - title: Publish & Schedule
     description: Stop copying and pasting. <b>Authorless publishes direct</b> to your website and social media. Boost engagement
     url: "/features/scheduling/"
-  - title: Focus on Strategic Goals
-    description: Work at a higher level. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
+  - title: Proven Marketing Strategy
+    description: Create with purpose. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
     url: "/features/marketing-strategy/"
 solutionsCards:
-  title: AI Solutions for Your Industry
-  description: Discover how Authorless can transform your business, whatever you're working on. Regain valuable time, get organised and get ahead
+  title: AI Content Marketing for Your Industry
+  description: Discover how Authorless can transform your business' marketing, whatever you're working on. Regain valuable time, get organised and get ahead
   cards:
+     - title: For Businesses
+       description: Generate consistent leads with automated content strategy and scheduling
+       url: "/solutions/businesses/"
+       icon: briefcase
+     - title: For Marketing Agencies
+       description: Serve more clients and deliver better results with powerful AI tools
+       url: "/solutions/agencies/"
+       icon: bullhorn    
      - title: For Experts & Thought Leaders
        description: Save time with automated social posts that build your reputation 24/7
        url: "/solutions/thought-leaders/"
        icon: lightbulb
+     - title: For Non-Profits & Charities
+       description: Share your cause effectively with AI-written stories and scheduled posts
+       url: "/solutions/non-profits/"
+       icon: heart       
      - title: For Creators & Influencers
        description: Grow faster with AI content that works across all your social platforms
        url: "/solutions/influencers/"
@@ -29,22 +41,10 @@ solutionsCards:
        description: Create product content in bulk and automate your social media marketing
        url: "/solutions/dropshippers/"
        icon: truck
-     - title: For Non-Profits
-       description: Share your cause effectively with AI-written stories and scheduled posts
-       url: "/solutions/non-profits/"
-       icon: heart
-     - title: For Businesses
-       description: Generate consistent leads with automated content strategy and scheduling
-       url: "/solutions/businesses/"
-       icon: briefcase
-     - title: For Marketing Agencies
-       description: Serve more clients and deliver better results with powerful AI tools
-       url: "/solutions/agencies/"
-       icon: bullhorn
     
 featureCards:
   title: Get More Done, Faster with Authorless
-  description: Supercharge your productivity and achieve your goals with ease. See how Authorless AI can help you get ahead, without the extra effort.
+  description: Supercharge your productivity and achieve your goals with ease. Learn how Authorless can help you get ahead, without extra effort
   cards:
   - title: AI Content Writing
     description: Generate high-quality articles, blog posts, and more in minutes with AI.
