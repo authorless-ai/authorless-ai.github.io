@@ -154,6 +154,10 @@ featureSummary:
         - description: "Team accounts for multiple users"
         - description: "Multiple campaigns and projects"
 
+cta:
+  title: Ready to Start Saving Time on Content?
+  description: Get Authorless and transform your content strategy with AI-powered creation that drives engagement, leads and sales. Get started now!
+
 faq:
   - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"
     a:
