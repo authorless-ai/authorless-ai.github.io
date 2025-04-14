@@ -7,7 +7,7 @@ introFeatures:
   - title: Write Blogs & Socials with AI
     description: Other tools generate single pages. Authorless writes <b>multiple webpages & social posts</b>. Boost search rankings
     url: "/features/content-writing/"
-  - title: Publish & Schedule
+  - title: Schedule & Publish Direct
     description: Stop copying and pasting. <b>Authorless publishes direct</b> to your website and social media. Boost engagement
     url: "/features/scheduling/"
   - title: Proven Marketing Strategy
@@ -66,12 +66,12 @@ featureCards:
     url: "/features/suggestions/"
     icon: lightbulb
 
-  - title: Automated Marketing Strategy Content
+  - title: Automated Marketing Strategy
     description: Drive customer engagement with content designed for each stage of the buyer's journey.
     url: "/features/marketing-strategy/"
     icon: briefcase
 
-  - title: Instant AI Content Translation
+  - title: AI Content Translation
     description: Reach a global audience by translating your content into multiple languages.
     url: "/features/translation/"
     icon: language
@@ -81,8 +81,59 @@ featureCards:
     url: "/features/teams/"
     icon: users
 
-  - title: Manage Multiple Brands & Projects
+  - title: Multiple Brands & Projects
     description: Keep your content organized for multiple brands and projects in a single account.
     url: "/features/projects/"
     icon: folder
+
+faq:
+  - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"
+    a:
+      - "Absolutely. Authorless is specifically designed to reclaim your valuable time. By automating the ideation, writing, scheduling, and even translating of your content, it frees you up to focus on strategic initiatives and growing your business."
+      - "Imagine spending your time on high-impact activities instead of staring at a blank screen. That's the promise of Authorless. Try our free credits and see the difference for yourself."
+
+  - q: "How does Authorless understand my business well enough to write relevant content?"
+    a:
+      - "Authorless analyses your product or business to understand your offerings, target audience, and key messages. It uses this information to generate content that resonates with your ideal customers and drives results."
+      - "The AI-powered engine constantly learns and adapts, ensuring the content it produces becomes increasingly relevant and effective over time. Inputting information will help it create more accurately."
+
+  - q: "Can Authorless really help me reach more people and get better results from my content?"
+    a:
+      - "Definitely. By leveraging the AIDA framework (Attention, Interest, Desire, Action), Authorless helps you create content that guides potential customers through the buying journey, turning them into loyal advocates for your brand."
+      - "The ability to translate your content into multiple languages also opens up new markets and allows you to connect with a global audience. See the effect of content creation immediately."
+
+  - q: "I'm worried AI-generated content will feel robotic and impersonal – how can I be sure it will sound like me?"
+    a:
+      - "Authorless lets you upload a sample of your writing. It analyses this sample to learn your unique brand voice and writing style, ensuring the AI-generated content aligns with your authentic self."
+      - "Think of the AI-generated content as a first draft that already *sounds like you* – a springboard for your own creativity that significantly reduces editing time. With our free credits you can determine if its the right fit."
+
+  - q: "I'm not very tech-savvy – is Authorless easy to use?"
+    a:
+      - "We've designed Authorless to be intuitive and user-friendly, even for those with limited technical experience. The interface is clean, simple, and easy to navigate, so you can start creating high-quality content straight away."
+      - "If you get stuck, there's in-app help available to guide you through every step of the process."
+
+  - q: "I create different kinds of content – can Authorless handle things like 'how-to' guides and listicles?"
+    a:
+      - "Yes! Authorless is versatile and can generate a variety of content types, including 'how-to' guides, listicles, tips, and more. This ensures you can create a diverse and engaging content strategy across your blog and social media channels."
+      - "We're constantly adding new content types to keep you ahead of the curve. Keep your eye out for updates."
+
+  - q: "What if I need to create a load of content at once – can Authorless handle bulk creation?"
+    a:
+      - "Absolutely. Authorless is designed to handle bulk content creation with ease. This saves you time and effort, allowing you to quickly populate your blog and social media channels with valuable content."
+      - "This is especially handy for keeping your social media feeds consistently active."
+
+  - q: "Does Authorless work for my business, even if I'm based outside of the UK?"
+    a:
+      - "Yes, Authorless works globally. A key feature is its translation capabilities, allowing you to write content in your native language and then translate it into multiple other languages, expanding your reach and impact."
+      - "So whether you need British English, American English or any other language, Authorless is built to give you global coverage."
+
+  - q: "Can I try before committing? I'd prefer to see it in action first."
+    a:
+      - "We understand the importance of trying before subscribing. We offer free credits so you can experience Authorless and see the results it delivers."
+      - "Use these credits to explore the platform and determine if it's the right solution for your content marketing needs."
+
+  - q: "Where can I publish my content with Authorless?"
+    a:
+      - "Authorless offers direct publishing and scheduling to your WordPress blog and leading social platforms such as Facebook, Instagram, Twitter, and LinkedIn."
+      - "Expand your reach without juggling multiple tools. Get started with your free credits today."
 ---

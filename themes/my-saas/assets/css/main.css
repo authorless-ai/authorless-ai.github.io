@@ -19,7 +19,7 @@
 }
 
 #TableOfContents {
-    @apply text-sm my-4 pt-4 pb-6 pl-4 bg-gray-50 dark:bg-gray-800 border rounded-lg
+    @apply text-sm my-4 pt-4 pb-6 pl-4 bg-gray-50 dark:bg-gray-800 border border-gray-200 rounded-lg
 }
 
 #TableOfContents::before {
