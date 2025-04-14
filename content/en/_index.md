@@ -44,7 +44,7 @@ solutionsCards:
     
 featureCards:
   title: Get More Done, Faster with Authorless
-  description: Supercharge your productivity and achieve your goals with ease. Learn how Authorless can help you get ahead, without extra effort
+  description: Supercharge your productivity and achieve your goals with ease. Learn how Authorless can help you hit your targets, with minimal effort
   cards:
   - title: AI Content Writing
     description: Generate high-quality articles, blog posts, and more in minutes with AI.
@@ -102,7 +102,7 @@ features:
     - title: Endless Content Ideas
       description: Never run out of things to say with our AI-powered suggestion engine   
     - title: Content That Actually Works
-      description: Turn readers into customers by targetting every step of the buying journey
+      description: Turn readers into customers by targetting every step of the buying journey. Say goodbye to generic AI content
   footer:
     - Authorless empowers anyone to plan and automate an effective content strategy, in multiple languages helping you grow your business 
 - title: "Audience-Focussed Content That Delivers"
@@ -133,7 +133,7 @@ featureSummary:
         - description: "Social media content"
         - description: "Buying journey focus"
         - description: "Content translation capabilities"
-    - iconColor: "purple"
+    - iconColor: "primary"
       title: "Consistency & Strategy"
       icon: chart
       points:
@@ -143,7 +143,7 @@ featureSummary:
         - description: "Content calendar planning"
         - description: "Content performance analytics"
         - description: "AI-driven content suggestions"
-    - iconColor: "teal"
+    - iconColor: "primary"
       title: "Publishing & Management"
       icon: upload
       points:
@@ -151,7 +151,7 @@ featureSummary:
         - description: "Multi-platform publishing"
         - description: "Content library management"
         - description: "Bulk content creation"
-        - description: "Multiple user collaboration"
+        - description: "Team accounts for multiple users"
         - description: "Multiple campaigns and projects"
 
 faq:
