@@ -15,6 +15,7 @@ params:
   recaptchaPublicKey: 6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq
   privacyPolicy: https://app.authorless.ai/pages/legals/privacy-policy/
   mailingListSubscribe: https://app.authorless.ai/feedback/subscribe
+  signupUrl: https://app.authorless.ai/accounts/signup/
 
 languages:
   en:
