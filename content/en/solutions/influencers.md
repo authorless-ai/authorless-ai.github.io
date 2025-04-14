@@ -2,7 +2,7 @@
 segment: Influencers
 title: "Unlock Your Influence: Supercharge Your Content Creation with Authorless"
 
-heroDescription: Stop letting content creation be a constant struggle. Authorless empowers influencers to create engaging content that grows your audience, boosts engagement and maximises your impact, all while staying firmly in control.
+heroDescription: Stop letting content creation be a constant struggle. Authorless helps influencers create engaging content that grows your audience, boosts engagement and maximises your impact, all while keeping you in control.
 
 topFeatures: 
   list:

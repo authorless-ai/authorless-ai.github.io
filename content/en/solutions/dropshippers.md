@@ -2,7 +2,7 @@
 segment: Dropshippers
 title: "High-Quality Content at Scale, Fast – Dropshippers Love Authorless"
 
-heroDescription: Stop wasting hours on content creation and start driving sales. Authorless empowers dropshippers to generate relevant, engaging content at scale, analyse products and audiences, and automate their marketing efforts. Get content out the door faster than ever before and watch your business grow.
+heroDescription: Stop wasting hours on content creation and start driving sales. Generate relevant, engaging content at scale, automate your marketing and grow faster
 
 topFeatures: 
   list:

@@ -2,7 +2,7 @@
 segment: Businesses
 title: "Quick, Easy, Consistent Content. Automate Your Content Calendar with Authorless"
 
-heroDescription: Stop letting content marketing fall by the wayside. Authorless empowers businesses to create consistent, engaging content that drives results, even with limited time and resources. Get an automated content calendar and never miss an important date again.
+heroDescription: Authorless enables businesses to maintain a consistent content marketing strategy, even with limited resources. We create engaging content that drives results, along with an automated calendar to help you stay on track.
 
 topFeatures: 
   list:
