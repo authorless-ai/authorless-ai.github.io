@@ -7,7 +7,7 @@
       <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 md:gap-8 xl:gap-8 md:space-y-0">
         {{ range .cards }}
           <div class="p-6 bg-white rounded shadow dark:bg-gray-800 cursor-pointer hover:bg-gray-50">
-            <a href="{{ .url }}">
+            <a href="{{ .url }}" class="block h-full">
               <div class="flex justify-between items-start">
                 <div class="flex justify-center items-center mb-4 w-10 h-10 rounded bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
                   {{ partial "components/icons.html" (dict "icon" .icon "class" "w-8 h-8 lg:w-6 lg:h-6") }}

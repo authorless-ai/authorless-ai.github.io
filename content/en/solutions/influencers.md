@@ -21,9 +21,8 @@ features:
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
-    - Are you constantly juggling content ideas, writing captions, and scheduling posts across multiple platforms? Authorless dramatically reduces the time you spend on these tasks, freeing you up to focus on creating authentic connections with your audience.
-    - Say goodbye to late-night scrambles and hello to a streamlined content workflow. Authorless helps you plan ahead, automate your posting schedule, and ensure you always have fresh content ready to go, without sacrificing your personal touch.
-    - "Transform content creation from a time-consuming chore into a seamless and efficient process. Let Authorless handle the heavy lifting, so you can focus on what truly matters: building your brand and engaging with your followers."
+    - Stop juggling endless content ideas and chaotic posting schedules! Authorless drastically cuts down the time you spend on these tedious tasks, freeing you to build authentic audience connections and truly focus on your brand.
+    - Say goodbye to late-night scrambles and hello to a streamlined content workflow. Authorless helps you plan ahead and automate your posting schedule. 
   points:
     - title: Multi-Platform Publishing
       description: Easily publish content across all your favourite platforms (Facebook, LinkedIn, Instagram, X and WordPress) from one central location.
