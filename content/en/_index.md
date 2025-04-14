@@ -15,7 +15,7 @@ introFeatures:
     url: "/features/marketing-strategy/"
 solutionsCards:
   title: AI Solutions for Your Industry
-  description: Discover how Authorless can transform your business, whatever you're working on. Regain valuable time and get ahead
+  description: Discover how Authorless can transform your business, whatever you're working on. Regain valuable time, get organised and get ahead
   cards:
      - title: For Experts & Thought Leaders
        description: Save time with automated social posts that build your reputation 24/7
