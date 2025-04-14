@@ -1,6 +1,7 @@
 {{ $features := .context.Params.features }}
 {{ $start := .start | default 0 }}
 {{ $end := .end | default (len $features) }}
+{{ $swapBackgrounds := .swapBackgrounds | default false }}
 
 {{ $featureSubset := slice }}
 {{ range $i, $feature := $features }}
@@ -32,11 +33,16 @@
 
 
 {{ range $index, $feature := $featureSubset }}
-<section class="{{ if eq (mod $index 2) 0 }}bg-slate-50 dark:bg-gray-900 border-y border-slate-200{{ else }}bg-white dark:bg-gray-900{{ end }}">
+{{ $isEven := eq (mod $index 2) 0 }}
+{{ if $swapBackgrounds }}
+    {{ $isEven = not $isEven }}  <!-- Flip the even/odd status -->
+{{ end }}
+
+<section class="{{ if $isEven }}bg-slate-50 dark:bg-gray-900 border-y border-slate-200{{ else }}bg-white dark:bg-gray-900{{ end }}">
     <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
         <!-- Row -->
         <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
-            {{ if eq (mod $index 2) 1 }}
+            {{ if not $isEven }}
                 {{ if $feature.image }}
                     <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $feature.image }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
                 {{ end }}
@@ -58,7 +64,7 @@
                         <p class="mb-8 font-normal lg:text-xl">{{ . }}</p>
                     {{ end }}
                 {{ end }}
-                {{ if eq (mod $index 2) 0 }}
+                {{ if $isEven }}
                     <div class="flex justify-end">
                         <a href="{{ site.Params.signupUrl }}" class="inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
                             Start now, free
@@ -73,7 +79,7 @@
                 {{ end }}
             </div>
 
-            {{ if eq (mod $index 2) 0 }}
+            {{ if $isEven }}
                 {{ if $feature.image }}
                     <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $feature.image }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
                 {{ end }}
