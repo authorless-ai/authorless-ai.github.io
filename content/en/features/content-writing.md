@@ -1,9 +1,9 @@
 ---
-title: Reclaim Your Time, Amplify Your Content with Authorless
-heroDescription: Stop spending hours on content creation. Generate engaging content faster and publish consistently with Authorless AI.
+title: Automate Content and Save Time with Authorless
+heroDescription: Stop spending hours on content creation. Generate engaging content faster and publish consistently with Authorless.
 
 features:
-- title: "Instant Content: Reclaim Your Time with Authorless"
+- title: "Instant Content: Maximise Your Time with Authorless"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
@@ -14,7 +14,7 @@ features:
     - title: Create Content in Minutes
       description: Reduce content creation time from hours to minutes with Authorless AI assistance.
     - title: Free Up Your Schedule
-      description: Reclaim valuable time to focus on strategic business activities with Authorless.
+      description: Regain valuable time to focus on strategic business activities with Authorless.
     - title: Boost Your Productivity
       description: Generate more content in less time, maximising your overall output with Authorless.
   footer:
@@ -38,13 +38,13 @@ features:
     - Consistency is key. Authorless helps you stay top-of-mind with your audience.
 
 cta:
-  title: Start Saving Time and Publishing Regularly Today with Authorless!
-  description: Ready to reclaim your time and maintain a consistent content schedule? Try Authorless now and experience the power of automated content creation!
+  title: Start Saving Time and Publishing Regularly with Authorless Today!
+  description: Ready to transform your workflow and maintain a consistent content schedule? Try Authorless now and experience the time-saving power of automated content creation!
 
 faq:
   - q: "How much time can I realistically save using Authorless for my content creation?"
     a:
-      - "Authorless users typically report saving several hours each week, freeing up valuable time to focus on other important business activities. By automating much of the content creation process, from brainstorming to initial drafting, Authorless allows you to reclaim a significant portion of your day."
+      - "Authorless users typically report saving several hours each week, freeing up valuable time to focus on other important business activities. By automating much of the content creation process, from brainstorming to initial drafting, Authorless frees you up to concentrate on other tasks."
 
       - "The exact time saved will depend on factors such as the volume and complexity of content you produce, but Authorless is designed to streamline your workflow, regardless of your specific needs. You'll be surprised at how much more you can achieve when you're not bogged down by manual content creation."
 
