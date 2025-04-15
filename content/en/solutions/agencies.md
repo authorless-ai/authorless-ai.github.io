@@ -1,5 +1,4 @@
 ---
-segment: Marketing Agencies
 title: "Empower Your Agency: Scale Content Creation with Authorless AI"
 
 heroDescription: Stop struggling to meet content demands. Authorless empowers agencies to create high-quality, engaging content at scale, freeing up valuable time to focus on strategy, client relationships, and growing your business.
@@ -61,6 +60,8 @@ cta:
   description: Ready to scale your content creation, maximise efficiency and drive business growth? Try Authorless now and experience the power of AI-driven content marketing for agencies!
 
 topFeatures:
+  title: Marketing Agencies Love These Authorless Features
+  description: Check out the innovations that will change the way your agency works
   list:
     - title: AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance
@@ -88,6 +89,10 @@ featureCards:
   - title: "Team Collaboration"
     description: "Work better, together. Manage users, permissions, and collaborate seamlessly on all projects."
     url: "/features/teams/"
+
+featureList:
+  title: "AI Content Marketing for Marketing Agencies"
+  description: "Authorless helps marketing agencies scale their content marketing with AI-powered writing, scheduling, and publishing tools that deliver consistent, high-quality content across blogs and social platforms."
 
 faq:
   - q: "My agency already has a content creation process. How can Authorless improve it?"

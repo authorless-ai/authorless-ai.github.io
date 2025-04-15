@@ -1,5 +1,4 @@
 ---
-segment: Non-Profits
 title: "Amplify Your Mission with Authorless: Engaging Stories, Effortless Scheduling"
 heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Authorless helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
 
@@ -43,6 +42,8 @@ cta:
   description: Ready to amplify your mission, engage your supporters, and save valuable time? Try Authorless now and experience effortless content creation that drives real impact! Claim your free credits now!
 
 topFeatures: 
+  title: Non-Profits Love These Authorless Features
+  description: Check out the innovations that will change the way you work  
   list:
     - title: AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance

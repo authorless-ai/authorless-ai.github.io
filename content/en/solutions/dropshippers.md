@@ -1,5 +1,4 @@
 ---
-segment: Dropshippers
 title: "High-Quality Content at Scale, Fast – Dropshippers Love Authorless"
 
 heroDescription: Stop wasting hours on content creation and start driving sales. Generate relevant, engaging content at scale, automate your marketing and grow faster
@@ -43,7 +42,9 @@ cta:
   title: Don't Settle for Generic AI Content – Try Authorless's Targetted Content Today!
   description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Authorless now and experience the power of AI-driven content marketing for dropshippers. Get your free trial credits today!
 
-topFeatures: 
+topFeatures:
+  title: Dropshippers Love These Authorless Features
+  description: Check out the innovations that will change the way you work  
   list:
     - title: Bulk AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance

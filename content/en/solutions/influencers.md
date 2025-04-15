@@ -1,5 +1,4 @@
 ---
-segment: Influencers
 title: "Unlock Your Influence: Supercharge Your Content Creation with Authorless"
 
 heroDescription: Stop letting content creation be a constant struggle. Authorless helps influencers create engaging content that grows your audience, boosts engagement and maximises your impact, all while keeping you in control.
@@ -43,6 +42,8 @@ cta:
   description: Ready to reclaim your time, maintain a consistent online presence, and grow your influence? Try Authorless now and experience effortless content creation that delivers real results, while keeping you firmly in the driver's seat!
 
 topFeatures: 
+  title: Influencers Love These Authorless Features
+  description: Check out the innovations that will change the way you work  
   list:
     - title: Bulk AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance

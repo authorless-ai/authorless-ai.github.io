@@ -1,5 +1,4 @@
 ---
-segment: Thought leaders
 title: Stress-Free LinkedIn Thought Leadership with Authorless
 heroDescription: Stop spending hours creating LinkedIn posts. Generate engaging thought leadership content faster and publish consistently with Authorless AI.
 
@@ -43,6 +42,8 @@ cta:
   description: Ready to reclaim your time and maintain a consistent LinkedIn thought leadership presence? Try Authorless now and experience painless content creation!
 
 topFeatures: 
+  title: Thought Leaders Love These Authorless Features
+  description: Check out the innovations that will change the way you work  
   list:
     - title: Bulk AI Content Writing
       description: Create compelling content quickly and easily with AI-powered assistance
