@@ -38,7 +38,7 @@ features:
     - Efficiency is key. Authorless helps you do more good with less.
 
 cta:
-  title: Transform Your Charity's Communications with Authorless!
+  title: Transform Your Charity's Communications Now!
   description: Ready to amplify your mission, engage your supporters, and save valuable time? Try Authorless now and experience effortless content creation that drives real impact! Claim your free credits now!
 
 topFeatures: 

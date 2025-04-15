@@ -9,7 +9,6 @@ features:
   description:
     - Tired of content creation eating up your day? Authorless dramatically reduces the time you spend on writing and editing.
     - Generate blog posts, social media updates, and more in minutes, freeing you to focus on other critical tasks.
-    
   points:
     - title: Create Content in Minutes
       description: Reduce content creation time from hours to minutes with Authorless AI assistance.
@@ -19,15 +18,15 @@ features:
       description: Generate more content in less time, maximising your overall output 
   footer:
     - Stop letting content creation hold you back and start maximising your productivity 
-- title: "Consistent Content: Stay Top-of-Mind"
+- title: "Publish Consistently and Stay Top-of-Mind"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:
     - Maintaining a consistent publishing schedule is key to engaging your audience and building brand loyalty. 
-    - Never miss a deadline again. Easily plan and schedule your content in advance with a consistent flow of high-quality content.
+    - Never miss a key date again. Easily plan and schedule your content in advance for a consistent flow of high-quality posts.
   points:
     - title: Maintain a Regular Publishing Schedule
-      description: Keep your audience engaged with a consistent flow of fresh content thanks to Authorless.
+      description: Keep your audience engaged with a consistent flow of fresh content 
     - title: Improve Brand Visibility
       description: Increase your online presence and brand awareness with regular posts created 
     - title: Establish Thought Leadership

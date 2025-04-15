@@ -18,7 +18,7 @@ features:
       description: Let Authorless handle the strategy while you focus on your business 
   footer:
     - Stop posting random content and start publishing a content mix that delivers 
-- title: "Guide Your Audience to Act"
+- title: "Guide Your Audience to Action"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:

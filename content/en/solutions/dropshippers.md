@@ -39,7 +39,7 @@ features:
     - Relevance is key to engagement. Authorless ensures your content hits the mark.
 
 cta:
-  title: Don't Settle for Generic AI Content – Try Authorless's Targetted Content Today!
+  title: Don't Settle for Generic AI Content – Try Authorless's Targetted Content Now!
   description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Authorless now and experience the power of AI-driven content marketing for dropshippers. Get your free trial credits today!
 
 topFeatures:

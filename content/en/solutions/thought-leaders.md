@@ -1,9 +1,9 @@
 ---
-title: Stress-Free LinkedIn Thought Leadership with Authorless
+title: AI LinkedIn Posting for Thought Leaders
 heroDescription: Stop spending hours creating LinkedIn posts. Generate engaging thought leadership content faster and publish consistently with Authorless AI.
 
 features:
-- title: "Time-Saving Content: Hours Back in Your Week with Authorless"
+- title: "Stress-Free AI LinkedIn Content"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
@@ -20,7 +20,7 @@ features:
   footer:
     - Time is your most valuable asset. Don't waste it on manual LinkedIn content creation. Use Authorless.
 
-- title: "Consistent Presence: Build Your LinkedIn Authority Effortlessly with Authorless"
+- title: "Consistent Presence: Build Your LinkedIn Authority Effortlessly"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:
@@ -38,7 +38,7 @@ features:
     - Consistency without stress is key. Authorless helps you maintain LinkedIn thought leadership without sacrificing your wellbeing.
 
 cta:
-  title: Say Goodbye to LinkedIn Content Headaches with Authorless!
+  title: Say Goodbye to LinkedIn Content Headaches Now!
   description: Ready to reclaim your time and maintain a consistent LinkedIn thought leadership presence? Try Authorless now and experience painless content creation!
 
 topFeatures: 

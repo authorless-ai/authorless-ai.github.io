@@ -1,40 +1,38 @@
 ---
 title: "Empower Your Agency: Scale Content Creation with Authorless AI"
 
-heroDescription: Stop struggling to meet content demands. Authorless empowers agencies to create high-quality, engaging content at scale, freeing up valuable time to focus on strategy, client relationships, and growing your business.
+heroDescription: Stop struggling to meet content demands. Authorless empowers agencies to create engaging content at scale, freeing you up to grow your business
 
 features:
 - title: "Unlock Efficiency: Streamlined Content Creation for Agencies"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
-    - Are you spending too much time on content creation and not enough on strategic client work? Authorless dramatically reduces the time your team spends writing, publishing and scheduling content across multiple projects.
-    - "Manage multiple clients and campaigns with ease. Authorless’s project management tools allow you to organise content, audience personas and brand profiles in one centralised location, ensuring consistency and efficiency across all projects."
-    - Free your team to focus on higher-value activities such as strategy development, client communication and business development. Let Authorless handle the content grunt work.
+    - Tired of spending too much time on content creation? Authorless dramatically reduces the time your team spends writing, publishing and scheduling content across multiple client projects.
+    - Free your team to focus on strategy development and client relationships while Authorless handles the content grunt work.
   points:
-    - title: Manage Multiple Projects Effortlessly
+    - title: Manage Multiple Projects
       description: Organise and track content creation for all your agency clients.
-    - title: Centralised Project Management
-      description: Keep all client data, personas and brand guidelines in one place.
+    - title: Centralised Management
+      description: Keep client data, personas and brand guidelines in one place.
     - title: Maximise Team Efficiency
-      description: Free up your team to focus on strategic activities and client relationships.
+      description: Focus your team on strategic activities and client relationships.
   footer:
     - Time is your agency's most valuable resource. Authorless helps you make the most of it.
 
-- title: "Scale Your Services: Expand Your Offerings and Grow Your Revenue"
+- title: "Scale Your Services: Expand Your Offerings"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:
-    - Are you struggling to keep up with the growing demand for content marketing services? Authorless allows you to scale your content creation capabilities without adding headcount, boosting your profitability.
-    - Offer a wider range of content marketing services, including blog posts, social media updates and more. Authorless empowers you to meet your clients' diverse needs with ease.
-    - Stay ahead of the competition by embracing the latest AI technology. Authorless gives you a competitive edge, allowing you to deliver exceptional results for your clients.
+    - Scale your content creation capabilities without adding headcount, boosting your profitability and meeting growing client demands.
+    - Offer a wider range of content marketing services while staying ahead of the competition with cutting-edge AI technology.
   points:
     - title: Expand Your Service Portfolio
-      description: Offer a wider range of content marketing solutions to attract new clients.
-    - title: Scale Without Adding Headcount
-      description: Meet growing demand without the expense of hiring additional staff.
+      description: Offer more content marketing solutions to attract new clients.
+    - title: Scale Without Extra Staff
+      description: Meet growing demand without expensive hiring.
     - title: Gain a Competitive Edge
-      description: Stay ahead of the curve with Authorless AI-powered content creation.
+      description: Stay ahead with AI-powered content creation.
   footer:
     - The future of content marketing is here. Authorless empowers your agency to lead the way.
 
@@ -42,21 +40,20 @@ features:
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 3"  
   description:
-    - Is your content truly working to convert prospects into customers? Authorless helps you implement the AIDA framework (Attention, Interest, Desire, Action) to create content that guides prospects through the entire buying journey.
-    - Stop producing random content. Generate strategic pieces that serve specific purposes—from building awareness and nurturing interest to driving desire and prompting action.
-    - Create content that actually delivers business results for your clients by focusing on conversion goals rather than simply filling content calendars with generic material.
+    - Transform content that merely fills calendars into strategic assets that convert prospects into customers through the AIDA (Attention, Interest, Desire, Action) framework.
+    - Generate purposeful content for each stage of the buying journey, delivering measurable business results for your clients.
   points:
     - title: Conversion-Focused Content
-      description: Move beyond engagement metrics to content that drives actual business outcomes.
+      description: Create content that drives actual business outcomes.
     - title: Full-Funnel Strategy
-      description: Generate appropriate content for every stage of the customer journey.
+      description: Generate appropriate content for every customer journey stage.
     - title: Purposeful Production
-      description: Ensure every piece of content serves a strategic goal in the buyer's journey.
+      description: Ensure every piece serves a strategic goal.
   footer:
-    - Don't just create content. Create content that moves customers through the buying process and delivers measurable results.
+    - Don't just create content. Create content that moves customers through the buying process and delivers results.
 
 cta:
-  title: Don't Get Left Behind - Transform Your Agency with Authorless Today!
+  title: Don't Get Left Behind - Transform Your Agency Now!
   description: Ready to scale your content creation, maximise efficiency and drive business growth? Try Authorless now and experience the power of AI-driven content marketing for agencies!
 
 topFeatures:
