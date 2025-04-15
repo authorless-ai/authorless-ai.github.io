@@ -1,16 +1,15 @@
 ---
-title: "High-Quality Content at Scale, Fast – Dropshippers Love Authorless"
+title: "High-Quality Content at Scale, Fast"
 
 heroDescription: Stop wasting hours on content creation and start driving sales. Generate relevant, engaging content at scale, automate your marketing and grow faster
 
 features:
-- title: "Relevant Content at Lightning Speed: Generate High-Volume Content Without the Headache"
+- title: "Relevant Content at Lightning Speed"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
-    - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Authorless allows you to create large volumes of high-quality content in minutes, not hours.
+    - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Authorless allows you to create large volumes of high-quality content in minutes, not weeks.
     - Stop sacrificing quality for quantity. Authorless uses AI to generate unique and engaging content that resonates with your target audience, even when creating in bulk.
-    - "Transform your content marketing from a bottleneck into a competitive advantage. Authorless provides the speed and scale you need to dominate your niche."
   points:
     - title: Rapid Content Generation
       description: Create blog posts and social media updates in minutes.
@@ -19,14 +18,13 @@ features:
     - title: AI-Powered Quality
       description: Ensure engaging and error-free content, even at scale.
   footer:
-    - Time is your most valuable asset. Authorless helps you make the most of it.
+    - Make the most of your time with high-quality content
 
-- title: "Laser-Targeted Content: Analyse Products and Audiences for Maximum Impact"
+- title: "Laser-Targeted Content: Audience and Brand Analysis"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:
     - Are your marketing efforts falling flat because your content isn't relevant? Authorless analyses your products and target audiences to generate content that truly resonates.
-    - Understand your customers' needs and pain points, then use Authorless to create content that addresses them directly.
     - "Turn every piece of content into a selling opportunity. Authorless helps you create content that educates, engages, and ultimately drives conversions."
   points:
     - title: Product Analysis
@@ -36,11 +34,11 @@ features:
     - title: Relevant Content
       description: Create content that speaks directly to your ideal customers.
   footer:
-    - Relevance is key to engagement. Authorless ensures your content hits the mark.
+    - Move faster with relevant content that hits the mark
 
 cta:
-  title: Don't Settle for Generic AI Content – Try Authorless's Targetted Content Now!
-  description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Authorless now and experience the power of AI-driven content marketing for dropshippers. Get your free trial credits today!
+  title: Get Better Content Faster, Now!
+  description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Authorless now and kiss goodbye to generic AI garbage. Get your free trial credits today!
 
 topFeatures:
   title: Dropshippers Love These Authorless Features
@@ -52,7 +50,7 @@ topFeatures:
     - title: Marketing Strategy
       description: Effortlessly build a content strategy around your buying journey, no marketing experience required!
       target: /features/marketing-strategy/      
-    - title: Content Suggestions
+    - title: AI Content Suggestions
       description: Endless, high-performing content suggestions tailored to your audience
       target: /features/suggestions/
       

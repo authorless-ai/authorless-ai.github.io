@@ -1,39 +1,37 @@
 ---
-title: "Amplify Your Mission with Authorless: Engaging Stories, Effortless Scheduling"
+title: "Amplify Your Mission: Engaging Stories, Effortless Scheduling"
 heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Authorless helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
 
 features:
-- title: "Unlock Fundraising Potential: Tell Your Story Effectively"
+- title: "Tell Your Story Effectively"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
   image_alt: "Office Feature Image 1"
   description:
-    - Are you struggling to reach new donors and engage your existing supporters? Authorless enables you to highlight your impact with captivating blog posts and social media updates that resonate with your audience.
+    - Are you struggling to reach new donors and engage existing supporters? Authorless enables you to highlight your impact with captivating content that resonates with your audience.
     - Stop spending precious resources on expensive copywriting. Authorless empowers your team to create stories that move people to action, boosting donations and awareness.
-    - Turn passion into tangible results. Let Authorless help you showcase the difference you're making, securing the support you need to thrive.
   points:
-    - title: Share Your Impactful Stories
+    - title: Share Your Impact
       description: Create compelling narratives that show the real-world impact of your work.
     - title: Increase Donor Engagement
       description: Craft content that resonates with your audience, keeping them connected to your mission.
     - title: Attract New Supporters
-      description: Reach a wider audience with engaging content that showcases your organisation's values and achievements.
+      description: Reach a wider audience with engaging content that showcases your organisation's values.
   footer:
     - Every story matters. Make sure yours is heard with Authorless.
 
-- title: "Save Time & Resources: Effortless Content Creation for Charities"
+- title: "Effortless Content Creation"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"
   image_alt: "Office Feature Image 2"
   description:
     - Time is a charity's most precious resource. Authorless helps you maximise your impact by streamlining your content creation process, freeing up your team to focus on frontline work.
     - From generating blog posts to scheduling social media updates, Authorless handles the heavy lifting, allowing you to maintain a consistent online presence without the overwhelming workload.
-    - Optimise your communications strategy and ensure your message reaches the right people at the right time, without sacrificing valuable staff time.
   points:
-    - title: Streamline Your Content Workflow
+    - title: Streamline Your Workflow
       description: Reduce the time and effort required to create high-quality content.
-    - title: Maintain a Consistent Online Presence
+    - title: Maintain a Consistent Presence
       description: Keep your audience informed and engaged with regular updates and stories.
     - title: Maximise Your Impact
-      description: "Focus your team's energy on the work that matters most: serving your beneficiaries."
+      description: Focus your team's energy on the work that matters most.
   footer:
     - Efficiency is key. Authorless helps you do more good with less.
 

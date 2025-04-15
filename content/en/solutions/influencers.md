@@ -1,10 +1,10 @@
 ---
-title: "Unlock Your Influence: Supercharge Your Content Creation with Authorless"
+title: "Unlock Your Influence: Supercharge Your Content Creation"
 
 heroDescription: Stop letting content creation be a constant struggle. Authorless helps influencers create engaging content that grows your audience, boosts engagement and maximises your impact, all while keeping you in control.
 
 features:
-- title: "Time is Your Most Valuable Asset: Reclaim It with Authorless's Automated Content Creation"
+- title: "Reclaim Your Time: Automated Content Creation"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
@@ -12,21 +12,20 @@ features:
     - Say goodbye to late-night scrambles and hello to a streamlined content workflow. Authorless helps you plan ahead and automate your posting schedule. 
   points:
     - title: Multi-Platform Publishing
-      description: Easily publish content across all your favourite platforms (Facebook, LinkedIn, Instagram, X and WordPress) from one central location.
+      description: Easily publish content across all your favourite platforms from one central location.
     - title: Rapid Content Creation
-      description: Reduce content creation time from hours to minutes with Authorless's AI assistance.
+      description: Reduce content creation time from hours to minutes with AI assistance.
     - title: Stay in Control
       description: Approve every piece of content before it goes live – you're always the voice of your brand.
   footer:
-    - "Your time is precious. Authorless helps you use it wisely, while amplifying your reach and impact."
+    - Your time is precious. Authorless helps you use it wisely, while amplifying your reach and impact.
 
-- title: "Effortless Organisation: Stay Ahead of the Game with a Smart Content Calendar"
+- title: "Smart Content Calendar: Stay Organised and Consistent"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"
   description:
-    - Maintaining a consistent and engaging online presence is crucial for influencers, but it can be difficult when you're balancing collaborations, events, and personal life. Authorless makes it easy to stay organised and on top of your content schedule.
-    - Never miss another sponsorship opportunity or trending topic. Authorless helps you plan your content calendar in advance, ensuring you always have relevant content ready to share.
-    - Boost your engagement and grow your audience with consistent, high-quality content. Authorless helps you stay organised, even when things get hectic, so you can focus on connecting with your followers.
+    - Maintaining a consistent online presence is crucial for influencers, but difficult when balancing collaborations, events, and personal life. Authorless makes it easy to stay on top of your content schedule.
+    - Never miss another sponsorship opportunity or trending topic. Plan your content calendar in advance, ensuring you always have relevant content ready to share.
   points:
     - title: Smart Content Calendar
       description: Plan and schedule your content weeks or even months in advance.
@@ -38,7 +37,7 @@ features:
     - "Organisation is key to success. Authorless helps you stay in control of your content, no matter how busy you are."
 
 cta:
-  title: Stop Letting Content Creation Overwhelm You - Try Authorless Now!
+  title: Start Influencing Stress-Free Now!
   description: Ready to reclaim your time, maintain a consistent online presence, and grow your influence? Try Authorless now and experience effortless content creation that delivers real results, while keeping you firmly in the driver's seat!
 
 topFeatures: 

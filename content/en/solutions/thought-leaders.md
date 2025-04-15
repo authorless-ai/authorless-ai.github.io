@@ -9,30 +9,28 @@ features:
   description:
     - Tired of LinkedIn content creation eating up your valuable time? Authorless dramatically reduces the hours you spend writing and editing posts.
     - Generate thoughtful LinkedIn updates in minutes, freeing you to focus on what truly matters—your business and expertise.
-    - Stop letting LinkedIn content creation headaches hold you back and start maximising your productivity with Authorless.
   points:
     - title: Create LinkedIn Content in Minutes
-      description: Reduce LinkedIn post creation time from hours to minutes with Authorless AI assistance.
-    - title: Reclaim Your Packed Calendar
+      description: Reduce LinkedIn post creation time from hours to minutes with AI assistance.
+    - title: Reclaim Your Calendar
       description: Get hours back in your week to focus on better things.
     - title: End Publishing Worries
       description: Eliminate the frustration of facing a blank page when your LinkedIn audience expects insights.
   footer:
-    - Time is your most valuable asset. Don't waste it on manual LinkedIn content creation. Use Authorless.
+    - Time is your most valuable asset. Don't waste it on manual LinkedIn content creation.
 
-- title: "Consistent Presence: Build Your LinkedIn Authority Effortlessly"
+- title: "Build Your LinkedIn Authority"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:
-    - Maintaining a consistent LinkedIn publishing schedule is essential for building thought leadership and reputation. Authorless frees you to create a steady stream of insightful posts without the hassle.
-    - Never miss another LinkedIn opportunity. Easily plan and schedule your posts in advance, ensuring a consistent presence even during your busiest periods.
-    - Grow your professional network and cement your LinkedIn thought leadership position with regular, high-quality content generated in a fraction of the time.
+    - Maintaining a consistent LinkedIn publishing schedule is essential for building thought leadership. Authorless helps you create a steady stream of insightful posts without the hassle.
+    - Never miss another opportunity. Easily plan and schedule your posts in advance, ensuring a consistent presence even during your busiest periods.
   points:
-    - title: Maintain a Regular LinkedIn Publishing Schedule
+    - title: Maintain Regular Publishing
       description: Keep your audience engaged with a consistent flow of valuable posts without the weekly struggle.
     - title: Improve Your Industry Standing
-      description: Increase your professional visibility and authority with regular LinkedIn insights created with Authorless.
-    - title: Build LinkedIn Thought Leadership That Lasts
+      description: Increase your professional visibility and authority with regular LinkedIn insights
+    - title: Build Lasting Thought Leadership
       description: Position yourself as an expert in your field by consistently sharing valuable content without burning out.
   footer:
     - Consistency without stress is key. Authorless helps you maintain LinkedIn thought leadership without sacrificing your wellbeing.

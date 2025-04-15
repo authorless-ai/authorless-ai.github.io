@@ -8,31 +8,29 @@ features:
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
   image_alt: "Office Feature Image 1"
   description:
-    - Are you constantly struggling to find the time for content marketing? Authorless dramatically reduces the time you spend writing, publishing, and scheduling content, freeing you up to focus on running your business.
-    - Say goodbye to last-minute scrambles and hello to a stress-free content calendar. Authorless helps you plan ahead and automate your content schedule, ensuring you always have fresh content ready to go.
-    - "Turn content marketing from a chore into a powerful growth engine. Let Authorless handle the heavy lifting, so you can focus on what truly matters: serving your customers and growing your business."
+    - Are you constantly struggling to find time for content marketing? Authorless dramatically reduces the time you spend writing, publishing, and scheduling content.
+    - Say goodbye to last-minute scrambles and hello to a stress-free content calendar. Let Authorless handle the heavy lifting so you can focus on growing your business.
   points:
     - title: Automate Your Content Calendar
-      description: Plan and schedule your content weeks or even months in advance.
+      description: Plan and schedule your content weeks or even months in advance
     - title: Save Hours Each Week
-      description: Reduce content creation time from hours to minutes with Authorless AI assistance.
+      description: Reduce content creation time from hours to minutes
     - title: Free Up Your Time
-      description: Reclaim your valuable time and focus on core business activities.
+      description: Regain valuable time to focus on core business activities
   footer:
     - Time is money. Authorless helps you make the most of both.
 
-- title: "Effortless Consistency: Always-On Content Marketing, No Marketing Expertise Required"
+- title: "Effortless Content Marketing, No Expertise Required"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"
   image_alt: "Office Feature Image 2"
   description:
-    - Consistency is key to successful content marketing, but it can be difficult to achieve when you're juggling multiple responsibilities. Authorless makes it easy to maintain a consistent online presence, even if you have no marketing experience.
-    - Never miss another important date or opportunity to connect with your audience. Authorless reminds you of upcoming events and helps you create timely, relevant content that resonates with your customers.
-    - Boost your brand awareness and keep your customers engaged with your business. Authorless helps you consistently share valuable content that attracts new customers and strengthens relationships with existing ones.
+    - Consistency is key to successful content marketing. Authorless makes it easy to maintain a consistent online presence, even if you have no marketing experience.
+    - Never miss another important date or opportunity again. Authorless helps you create timely, relevant content that attracts new customers and strengthens relationships with existing ones.
   points:
-    - title: Maintain a Consistent Online Presence
+    - title: Maintain a Consistent Presence
       description: Keep your audience engaged with regular updates and valuable content.
-    - title: Never Miss an Important Date
-      description: Authorless reminds you of upcoming events and helps you create timely content.
+    - title: Never Miss Important Dates
+      description: Get reminders for upcoming events and create timely content.
     - title: No Marketing Experience Required
       description: Authorless is easy to use, even if you're not a marketing expert.
   footer:
@@ -41,9 +39,8 @@ features:
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
   image_alt: "Office Feature Image 1"
   description:
-    - Stop creating content that doesn't convert. Authorless analyses your business and automatically creates strategic content that guides potential customers through their entire buying journey - from first discovery to final purchase decision.
-    - Transform casual browsers into paying customers with targetted content. Our AI understands what information customers need at each stage of their decision-making process and creates content specifically designed to move them to the next step.
-    - No marketing expertise required. Authorless handles the complex strategy work behind the scenes, so you can focus on serving customers while still benefiting from professional-level marketing content that drives sales.
+    - Stop creating content that doesn't convert. Authorless analyses your business and automatically creates content that guides potential customers through their entire buying journey - from first discovery to final purchase decision.
+    - No marketing expertise required. Authorless handles the complex strategy work behind the scenes. Get professional-level marketing content that drives sales.
   points:
     - title: Targetted Content for Every Stage
       description: Automatically create the right content for awareness, interest, decision, and action phases.
@@ -55,7 +52,7 @@ features:
     - Don't just create content. Create conversions. Authorless turns your content into a sales machine.
     
 cta:
-  title: Stop Falling Behind on Content Marketing - Try Authorless Now!
+  title: Automate Your Content Calendar Now!
   description: Ready to reclaim your time, maintain a consistent online presence, and drive business growth? Try Authorless now and experience effortless content creation that delivers real results!
 
 topFeatures: 
