@@ -22,8 +22,8 @@ const observer = new IntersectionObserver((entries) => {
     }
   });
 }, {
-  // No threshold - we'll use our pixel-based calculation instead
-  threshold: 0.2
+  // Fallback thresholds - we'll use our pixel-based calculation instead
+  threshold: [0.01, 0.05, 0.1, 0.2, 0.5]
 });
 
 // Function to check if section is initially in viewport
