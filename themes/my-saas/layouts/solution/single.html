@@ -2,6 +2,8 @@
 <article>
   {{ partial "feature/hero.html" . }}
 
+  {{ partial "index/features-3-cols-stripe.html" .Site.Data.featurelist }}
+
   {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
   {{ partial "feature/cta.html" . }}
@@ -16,11 +18,11 @@
     {{ partial "solution/feature-cards.html" . }}
   {{ end }}
 
+  {{ partial "newsletter" . }}
+
   {{ if .Params.faq }}
     {{ partial "faq.html" . }}
   {{ end }}
-
-  {{ partial "newsletter" . }}
 
 </article>
 {{ end }}

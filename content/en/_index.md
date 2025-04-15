@@ -119,41 +119,6 @@ features:
     - title: Content plans that achieve your goals
       description: Easily create series of posts designed to turn readers into paying customers
     
-featureSummary:
-  title: "Complete Content Creation & Publishing Suite"
-  description: "Authorless helps businesses scale their content marketing with AI-powered writing, scheduling, and publishing tools that deliver consistent, high-quality content across blogs and social platforms."
-  features:
-    - iconColor: "primary"
-      title: "Content Creation"
-      icon: edit      
-      points:
-        - description: "AI-powered content writing"
-        - description: "Multiple content formats (listicles, how-tos, tips and more)"
-        - description: "SEO-optimised blog posts"
-        - description: "Social media content"
-        - description: "Buying journey focus"
-        - description: "Content translation capabilities"
-    - iconColor: "primary"
-      title: "Consistency & Strategy"
-      icon: chart
-      points:
-        - description: "Brand voice preservation"
-        - description: "Audience profile targeting"
-        - description: "Campaign goal alignment"
-        - description: "Content calendar planning"
-        - description: "Content performance analytics"
-        - description: "AI-driven content suggestions"
-    - iconColor: "primary"
-      title: "Publishing & Management"
-      icon: upload
-      points:
-        - description: "Automated content scheduling"
-        - description: "Multi-platform publishing"
-        - description: "Content library management"
-        - description: "Bulk content creation"
-        - description: "Team accounts for multiple users"
-        - description: "Multiple campaigns and projects"
-
 cta:
   title: Ready to Start Saving Time on Content?
   description: Get Authorless and transform your content strategy with AI-powered creation that drives engagement, leads and sales. Get started now!

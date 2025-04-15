@@ -1,0 +1,33 @@
+title: "AI Content Marketing Features At-A-Glance"
+description: "Authorless helps businesses and individuals scale their content marketing with AI-powered writing, scheduling, and publishing tools that deliver consistent, high-quality content across blogs and social platforms."
+features:
+  - iconColor: "primary"
+    title: "Content Creation"
+    icon: edit
+    points:
+      - description: "AI-powered content writing"
+      - description: "Multiple content formats (listicles, how-tos, tips and more)"
+      - description: "SEO-optimised blog posts"
+      - description: "Social media content"
+      - description: "Buying journey focus"
+      - description: "Content translation capabilities"
+  - iconColor: "primary"
+    title: "Consistency & Strategy"
+    icon: chart
+    points:
+      - description: "Brand voice preservation"
+      - description: "Audience profile targeting"
+      - description: "Campaign goal alignment"
+      - description: "Content calendar planning"
+      - description: "Content performance analytics"
+      - description: "AI-driven content suggestions"
+  - iconColor: "primary"
+    title: "Publishing & Management"
+    icon: upload
+    points:
+      - description: "Automated content scheduling"
+      - description: "Multi-platform publishing"
+      - description: "Content library management"
+      - description: "Bulk content creation"
+      - description: "Team accounts for multiple users"
+      - description: "Multiple campaigns and projects"
