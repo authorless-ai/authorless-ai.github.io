@@ -1,5 +1,5 @@
 ---
-title: Reach a Global Audience with Seamless Content Translation by Authorless
+title: Automatic AI Content Translation for Global Reach
 heroDescription: Stop limiting your audience and start speaking the world's languages – effortlessly
 
 features:
@@ -7,25 +7,23 @@ features:
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1"   
   description:
-    - Authorless understands that building a global brand means reaching customers in their native tongues.
-    - That's why we've integrated cutting-edge automatic translation directly into our content creation platform.
-    - Now, you can develop compelling content in your preferred language and instantly transform it into a multilingual masterpiece, ready to resonate with audiences across the globe.
+    - Speak to customers in their language with cutting-edge automatic translation, and build your global brand. 
+    - Develop compelling content in your preferred language and instantly transform it into 30+ languages for more impact.
   points:
     - title: Write in Your Comfort Zone
-      description: Focus on developing compelling content in the language you know best.
+      description: Develop compelling content in the language you know best
     - title: One-Click Globalisation
-      description: With a simple click of a button, Authorless automatically translates your content.
+      description: With a simple click of a button, Authorless automatically translates your content
     - title: Maintain Your Brand Voice
-      description: AI translation models preserve your unique brand tone.
+      description: AI translation models preserve your unique brand tone
   footer:
-    - Expand your market reach without a dedicated translation team.
+    - Work in global markets without a dedicated translation team
 
 - title: Convert Global Audiences into Paying Customers
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"   
   description:
     - Authorless transforms international visitors into loyal customers by speaking their language.
-    - Our intelligent translation breaks down barriers that previously limited your revenue potential.
     - Unlock new markets without the hefty investment in translation teams or agencies.
   points:
     - title: Boost Conversion Rates
@@ -35,10 +33,10 @@ features:
     - title: Outperform Local Competition
       description: Gain competitive advantage over businesses that only operate in a single language.
   footer:
-    - Watch your sales figures grow as you connect with customers worldwide in their preferred language.
+    - Watch your sales figures grow as you connect with customers worldwide in their preferred language
 cta:
-  title: Unlock Global Revenue Streams Today with Authorless
-  description: Stop leaving international sales on the table. Start converting global visitors into paying customers with Authorless translation. Try it now and watch your business grow across borders!
+  title: Unlock New Global Revenue Streams Now!
+  description: Stop leaving international sales on the table. Start converting global visitors into paying customers with Authorless translation. Try it now and watch your business grow!
 faq:
   - q: "What languages does Authorless support for automatic translation?"
     a:

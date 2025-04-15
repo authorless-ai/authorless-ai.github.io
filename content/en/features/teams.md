@@ -1,44 +1,42 @@
 ---
-title: Collaborate Seamlessly, Maintain Brand Voice with Authorless Teams
-heroDescription: Empower your entire marketing team to create on-brand content whilst maintaining quality control. Scale your content production without sacrificing consistency.
+title: Collaboration and Consistency with Authorless Teams
+heroDescription: Empower your entire marketing team to create on-brand content whilst maintaining quality control. Scale your content production without sacrificing quality.
 
 features:
-- title: "Team Collaboration: Scale Your Content Production with Authorless"
+- title: "Team Collaboration: Scale Your Content Production"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1"   
   description:
     - Managing content creation across multiple team members often leads to inconsistent messaging and time-consuming revisions. Authorless Teams solves this challenge.
-    - Enable your entire marketing department to contribute to content creation whilst maintaining a consistent brand voice and quality standards.
-    - Eliminate bottlenecks by distributing workload across your team, allowing you to produce more high-quality content without adding stress to any single team member.
+    - Enable your whole team to contribute while maintaining a consistent brand voice and quality standards.
   points:
     - title: Collaborative Workspace
-      description: Create, edit and review content together in real-time with your entire team using Authorless.
+      description: Create, edit and review content together in real-time with your entire team 
     - title: Scale Content Production
-      description: Multiply your content output by involving more team members in the creation process with Authorless.
-    - title: Eliminate Bottlenecks
-      description: Remove dependency on individual content creators and spread the workload evenly with Authorless.
+      description: Multiply your content output by involving more team members in the creation process 
+    - title: Approval Workflows
+      description: Stay in control with approval workflows to make sure content remains on-brand
   footer:
-    - Don't let limited resources constrain your content marketing. Scale efficiently with Authorless Teams.
+    - All the benefits of Authorless, for your whole team
 
-- title: "Brand Consistency: Maintain Quality Control with Authorless"
+- title: "Quality Control at Scale"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"    
   description:
     - Worried about maintaining your brand voice when multiple team members create content? Authorless Teams allows managers to set guardrails that ensure consistency.
-    - Empower junior staff to create content confidently within pre-defined parameters, reducing the need for extensive reviews and revisions.
-    - Build trust in your brand through consistent messaging across all channels, regardless of which team member initiated the content.
+    - Empower junior staff to create content confidently within pre-defined parameters for fewer revisions.
   points:
     - title: Set Brand Guidelines
-      description: Configure tone, style and content parameters once, then apply them across all team-created content with Authorless.
+      description: Configure tone, style and content parameters once, then apply them across all team-created content 
     - title: Empower Junior Staff
-      description: Allow less experienced team members to create on-brand content confidently within established guardrails using Authorless.
+      description: Allow less experienced team members to create on-brand content confidently within established guardrails 
     - title: Consistent Brand Voice
-      description: Maintain the same tone and messaging across all content, regardless of which team member created it with Authorless.
+      description: Maintain the same tone and messaging across all content, regardless of which team member created it 
   footer:
-    - Quality control shouldn't be a bottleneck. Authorless Teams ensures consistency without slowing you down.
+    - Quality control shouldn't be a bottleneck. Authorless Teams ensures consistency without slowing you down
 
 cta:
-  title: Empower Your Entire Team to Create On-Brand Content with Authorless!
+  title: Empower Your Entire Team to Create On-Brand Content Now!
   description: Ready to scale your content production whilst maintaining perfect brand consistency? Try Authorless Teams today and transform how your marketing department collaborates!
 
 faq:

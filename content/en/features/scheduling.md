@@ -1,6 +1,6 @@
 ---
-title: Streamline Your Content with Authorless Scheduling
-heroDescription: Take control of your content calendar and publish consistently with Authorless's intuitive scheduling features. Stop stressing about deadlines and start seeing results.
+title: Your Automated Content Calendar For Consistent Publishing
+heroDescription: Take control of your content calendar with Authorless's intuitive scheduling features. Never miss an important date again.
 
 features:
 - title: "Effortless Scheduling: Plan Your Content with Ease"
@@ -9,7 +9,6 @@ features:
   description:
     - Tired of last-minute content scrambles? Authorless's scheduling tools empower you to plan and schedule your blog posts and social media updates in advance.
     - Visualise your content calendar, schedule posts across multiple platforms, and ensure a consistent online presence, all from one centralised location.
-    - Say goodbye to rushed content and hello to a strategic, organised approach to your content marketing.
   points:
     - title: Content Calendar Visualisation
       description: View your entire content schedule at a glance with Authorless's intuitive content calendar.
@@ -18,15 +17,13 @@ features:
     - title: Time-Saving Automation
       description: Pre-schedule content and let Authorless handle the publishing, freeing up your time for other tasks.
   footer:
-    - Plan ahead, publish consistently. Authorless makes content scheduling simple and effective.
-
+    - Say goodbye to rushed content and hello to a strategic, organised approach to your content marketing.
 - title: "Optimise Your Publishing: Reach Your Audience at the Right Time"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"    
   description:
-    - Scheduling isn't just about planning ahead; it's about optimising your content's reach. Authorless helps you determine the best times to publish for maximum engagement.
+    - Scheduling isn't just about planning ahead; it's about optimising your content's reach. 
     - Analyse past performance, experiment with different posting times, and fine-tune your schedule to reach your target audience when they're most active.
-    - Maximise your content's impact and drive better results with data-driven scheduling from Authorless.
   points:
     - title: Analyse Performance Metrics
       description: Track engagement and identify optimal posting times based on past performance.

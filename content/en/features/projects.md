@@ -1,44 +1,41 @@
 ---
-title: Manage Multiple Clients with Ease using Authorless
+title: Manage Multiple Clients with Separate Workspaces
 heroDescription: Streamline your agency workflow with dedicated project spaces. Effortlessly manage content for all your clients from one powerful platform.
 
 features:
-- title: "Client Management: Transform Your Agency Workflow with Authorless"
+- title: "Dedicated Client Project Spaces"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1" 
   description:
-    - Managing content for multiple clients is a logistical challenge that drains your team's resources. Authorless simplifies this with dedicated project spaces for each client.
-    - Keep all client settings, brand guidelines, and content strategies neatly organised in separate workspaces, eliminating confusion and improving efficiency.
-    - Stop juggling between different platforms and start managing all your clients' content needs from one centralised dashboard with Authorless.
+    - Managing content for multiple clients is a logistical challenge. Authorless simplifies this with dedicated project spaces.
+    - Keep all client settings, brand guidelines, and content strategies neatly organised to improve your efficiency.
   points:
     - title: Dedicated Client Workspaces
-      description: Create separate project spaces for each client with unique settings and preferences in Authorless.
+      description: Create separate project spaces for each client with unique settings and preferences 
     - title: Streamlined Agency Workflow
-      description: Eliminate confusion between clients and enhance team productivity with organised workspaces in Authorless.
+      description: Eliminate confusion between clients and enhance team productivity with organised workspaces
     - title: Centralised Management
-      description: Access all client projects from a single dashboard, saving time and reducing administrative overhead with Authorless.
+      description: Access all client projects from a single dashboard, saving time and reducing administrative overhead 
   footer:
     - Simplify your agency operations. Manage multiple clients without the complexity using Authorless.
-
-- title: "Scalable Solutions: Grow Your Agency with Authorless"
+- title: "Scalable Solutions to Grow Your Agency"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"  
   description:
-    - As your agency expands, managing content for a growing client base becomes increasingly challenging. Authorless scales effortlessly with your business, supporting unlimited client projects.
-    - Onboard new clients quickly with templated project setups, ensuring consistency while saving precious time during the client acquisition process with Authorless.
+    - Managing content for a growing client base becomes increasingly challenging. Authorless scales effortlessly with your business, supporting multiple client projects.
     - Maintain quality across all client accounts with customisable brand guidelines and content parameters for each project in Authorless.
   points:
-    - title: Unlimited Client Projects
-      description: Expand your agency without worrying about platform limitations thanks to Authorless's scalable architecture.
+    - title: Multiple Client Projects
+      description: Expand your agency without worrying about platform limitations thanks to Authorless's scalable architecture
     - title: Quick Client Onboarding
-      description: Set up new client workspaces in minutes with reusable templates and workflows in Authorless.
+      description: Set up new client workspaces in minutes with simple wizards
     - title: Consistent Quality Control
-      description: Maintain high standards across all client accounts with customised settings for each project in Authorless.
+      description: Maintain high standards across all client accounts with customised settings for each project 
   footer:
-    - Your agency's growth shouldn't be limited by your tools. Scale confidently with Authorless.
+    - Scale your production confidently with Authorless
 
 cta:
-  title: Revolutionise Your Agency's Content Management Today with Authorless!
+  title: Revolutionise Your Agency's Content Management Today!
   description: Ready to transform how your agency handles multiple client content needs? Try Authorless now and experience the power of organised, efficient multi-project management!
 
 faq:

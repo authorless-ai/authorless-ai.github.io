@@ -1,44 +1,40 @@
 ---
-title: Unlock Limitless Content Ideas with Authorless AI Suggestions
+title: "AI Content Suggestions: Unlock Limitless Ideas"
 heroDescription: Say goodbye to writer's block. Authorless AI Suggestions provide endless inspiration to fuel your content strategy.
 
 features:
-- title: "End Writer's Block: Generate Infinite Content Ideas with Authorless"
+- title: "End Writer's Block: Generate Infinite Content Ideas"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
   image_alt: "Office Feature Image 1"   
   description:
-    - Staring at a blank page? Authorless banishes writer's block with a constant stream of relevant and engaging content suggestions.
-    - Discover fresh angles, trending topics, and untapped opportunities to connect with your audience and drive results.
-    - Stop struggling for inspiration and start creating compelling content that resonates with Authorless.
+    - Staring at a blank page? Authorless banishes writer's block with a constant stream of relevant and engaging suggestions.
+    - Stop struggling for inspiration and start creating compelling content that resonates with your audience.
   points:
     - title: Overcome Writer's Block
       description: Never run out of ideas with Authorless's AI-powered content suggestions.
     - title: Discover Hidden Opportunities
-      description: Uncover trending topics and unmet needs within your industry with Authorless.
+      description: Uncover trending topics and unmet needs within your industry 
     - title: Fuel Your Content Strategy
       description: Generate a constant flow of ideas to keep your content pipeline full and your audience engaged.
   footer:
-    - Inspiration is always at your fingertips. Let Authorless ignite your content creation.
-
-- title: "Relevant Content: Target the Right Audience with Authorless"
+    - Endless inspiration, always at your fingertips.
+- title: "Relevant Content for Your Audience"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
   image_alt: "Office Feature Image 2"    
   description:
     - Stop guessing what your audience wants to see. Authorless analyses your business, products, and target market to deliver hyper-relevant content suggestions.
-    - Ensure your content resonates with the people who matter most, attracting new customers and strengthening existing relationships with Authorless.
-    - Create content that converts by focusing on the topics your audience is actively searching for and interested in with Authorless.
   points:
     - title: Target Your Ideal Customer
       description: Focus your content on the topics most relevant to your target audience, powered by Authorless.
     - title: Drive Engagement and Conversions
-      description: Attract the right attention with content that speaks directly to your audience's needs and interests with Authorless.
+      description: Attract the right attention with content that speaks directly to your audience's needs and interests 
     - title: Improve Content Performance
-      description: Create content that drives results by focusing on topics that are proven to resonate with your audience thanks to Authorless.
+      description: Create content that drives results by focusing on topics that are proven to resonate with your audience 
   footer:
     - Relevance is key to engagement. Authorless helps you create content that connects.
 
 cta:
-  title: Discover Your Next Big Content Idea Today with Authorless!
+  title: Discover Your Next Big Content Idea Now!
   description: Ready to unlock a world of content possibilities and say goodbye to writer's block? Try Authorless now and experience the power of AI-driven inspiration!
 
 faq:
