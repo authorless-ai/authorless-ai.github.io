@@ -23,3 +23,7 @@
   {{ partial "feature/cta.html" .Site.Data.cta }}
 
 {{ end }}
+
+{{ define "scripts" }}
+  <script src="{{ .Site.BaseURL }}js/scroll-reveal.js"></script>
+{{ end }}
