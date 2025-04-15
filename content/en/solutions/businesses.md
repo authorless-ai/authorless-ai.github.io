@@ -79,15 +79,19 @@ featureCards:
   - title: "AI Content Suggestions"
     description: "Unlock your creative potential. Get AI-powered suggestions to spark new content ideas and improve existing ones."
     url: "/features/suggestions/"
+    icon: lightbulb
   - title: "Multi-Platform Publishing"
     description: "Reach your audience everywhere. Seamlessly publish content across all your key platforms with ease."
     url: "/features/publishing/"
+    icon: upload
   - title: "Buying Journey Strategy"
     description: "Develop effective content strategies with AI. Generate targeted content aligned with each stage of the customer journey."
     url: "/features/marketing-strategy/"
+    icon: briefcase
   - title: "Team Collaboration"
     description: "Work better, together. Manage users, permissions, and collaborate seamlessly on all projects."
     url: "/features/teams/"
+    icon: users
 
 faq:
   - q: "I'm too busy to even think about content marketing – how can Authorless help?"

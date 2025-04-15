@@ -80,15 +80,19 @@ featureCards:
   - title: "Buying Journey Strategy"
     description: "Develop effective content strategies with AI. Generate targeted content aligned with each stage of the customer journey."
     url: "/features/marketing-strategy/"
+    icon: briefcase
   - title: "Multi-Platform Publishing"
     description: "Reach your audience everywhere. Seamlessly publish content across all your key platforms with ease."
     url: "/features/publishing/"
+    icon: upload
   - title: "AI Content Suggestions"
     description: "Unlock your creative potential. Get AI-powered suggestions to spark new content ideas and improve existing ones."
     url: "/features/suggestions/"
+    icon: lightbulb
   - title: "Team Collaboration"
     description: "Work better, together. Manage users, permissions, and collaborate seamlessly on all projects."
     url: "/features/teams/"
+    icon: users
 
 featureList:
   title: "AI Content Marketing for Marketing Agencies"
