@@ -49,6 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Always set the transition (after setting initial state)
-    section.style.transition = 'opacity 1s ease-out, transform 0.5s ease-out';
+    section.style.transition = 'opacity 1s ease-in, transform 0.5s ease-out';
   });
 });
