@@ -4,7 +4,7 @@
 
   {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
-  {{ partial "feature/cta.html" . }}
+  {{ partial "feature/cta.html" .Params.cta }}
 
   {{ partial "index/features-3-cols-stripe.html" . }}
 
@@ -13,6 +13,8 @@
   {{ if .Params.faq }}
     {{ partial "faq.html" . }}
   {{ end }}
+
+  {{ partial "feature/cta.html" .Site.Data.cta }}
 
 </article>
 {{ end }}
