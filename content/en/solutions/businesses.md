@@ -4,18 +4,6 @@ title: "Quick, Easy, Consistent Content. Automate Your Content Calendar with Aut
 
 heroDescription: Authorless enables businesses to maintain a consistent content marketing strategy, even with limited resources. We create engaging content that drives results, along with an automated calendar to help you stay on track.
 
-topFeatures: 
-  list:
-    - title: AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
-      target: /features/scheduling/
-    - title: Marketing Strategy
-      description: Build an effective content strategy with AI guidance, no marketing experience required!
-      target: /features/marketing-strategy/
-
 features:
 - title: "Reclaim Your Time: Automated Content Marketing for Busy Business Owners"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
@@ -54,6 +42,18 @@ features:
 cta:
   title: Stop Letting Content Marketing Fall Behind - Try Authorless Today!
   description: Ready to reclaim your time, maintain a consistent online presence, and drive business growth? Try Authorless now and experience effortless content creation that delivers real results!
+
+topFeatures: 
+  list:
+    - title: AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Multi-Platform Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: Marketing Strategy
+      description: Build an effective content strategy with AI guidance, no marketing experience required!
+      target: /features/marketing-strategy/
 
 faq:
   - q: "I'm too busy to even think about content marketing – how can Authorless help?"

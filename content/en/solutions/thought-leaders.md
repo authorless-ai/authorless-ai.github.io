@@ -3,18 +3,6 @@ segment: Thought leaders
 title: Stress-Free LinkedIn Thought Leadership with Authorless
 heroDescription: Stop spending hours creating LinkedIn posts. Generate engaging thought leadership content faster and publish consistently with Authorless AI.
 
-topFeatures: 
-  list:
-    - title: Bulk AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
-      target: /features/scheduling/
-    - title: AI Content Suggestions
-      description: Endless, high-performing content suggestions tailored to your audience
-      target: /features/suggestions/
-
 features:
 - title: "Time-Saving Content: Hours Back in Your Week with Authorless"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
@@ -53,6 +41,18 @@ features:
 cta:
   title: Say Goodbye to LinkedIn Content Headaches with Authorless!
   description: Ready to reclaim your time and maintain a consistent LinkedIn thought leadership presence? Try Authorless now and experience painless content creation!
+
+topFeatures: 
+  list:
+    - title: Bulk AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Multi-Platform Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: AI Content Suggestions
+      description: Endless, high-performing content suggestions tailored to your audience
+      target: /features/suggestions/
 
 faq:
   - q: "How much time can I realistically save using Authorless for my LinkedIn content?"

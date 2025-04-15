@@ -4,18 +4,6 @@ title: "High-Quality Content at Scale, Fast – Dropshippers Love Authorless"
 
 heroDescription: Stop wasting hours on content creation and start driving sales. Generate relevant, engaging content at scale, automate your marketing and grow faster
 
-topFeatures: 
-  list:
-    - title: Bulk AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Marketing Strategy
-      description: Effortlessly build a content strategy around your buying journey, no marketing experience required!
-      target: /features/marketing-strategy/      
-    - title: Content Suggestions
-      description: Endless, high-performing content suggestions tailored to your audience
-      target: /features/suggestions/
-      
 features:
 - title: "Relevant Content at Lightning Speed: Generate High-Volume Content Without the Headache"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
@@ -55,6 +43,18 @@ cta:
   title: Don't Settle for Generic AI Content – Try Authorless's Targetted Content Today!
   description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Authorless now and experience the power of AI-driven content marketing for dropshippers. Get your free trial credits today!
 
+topFeatures: 
+  list:
+    - title: Bulk AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Marketing Strategy
+      description: Effortlessly build a content strategy around your buying journey, no marketing experience required!
+      target: /features/marketing-strategy/      
+    - title: Content Suggestions
+      description: Endless, high-performing content suggestions tailored to your audience
+      target: /features/suggestions/
+      
 faq:
   - q: "I need to create content for dozens of products. Can Authorless handle that?"
     a:

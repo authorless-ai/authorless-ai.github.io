@@ -3,18 +3,6 @@ segment: Non-Profits
 title: "Amplify Your Mission with Authorless: Engaging Stories, Effortless Scheduling"
 heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Authorless helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
 
-topFeatures: 
-  list:
-    - title: AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
-      target: /features/scheduling/
-    - title: Marketing Strategy
-      description: Build an effective content strategy with AI guidance, no marketing experience required!
-      target: /features/marketing-strategy/
-
 features:
 - title: "Unlock Fundraising Potential: Tell Your Story Effectively"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
@@ -53,6 +41,18 @@ features:
 cta:
   title: Transform Your Charity's Communications with Authorless!
   description: Ready to amplify your mission, engage your supporters, and save valuable time? Try Authorless now and experience effortless content creation that drives real impact! Claim your free credits now!
+
+topFeatures: 
+  list:
+    - title: AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Multi-Platform Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: Marketing Strategy
+      description: Build an effective content strategy with AI guidance, no marketing experience required!
+      target: /features/marketing-strategy/
 
 faq:
   - q: "How can Authorless help our non-profit on a limited budget?"

@@ -4,18 +4,6 @@ title: "Unlock Your Influence: Supercharge Your Content Creation with Authorless
 
 heroDescription: Stop letting content creation be a constant struggle. Authorless helps influencers create engaging content that grows your audience, boosts engagement and maximises your impact, all while keeping you in control.
 
-topFeatures: 
-  list:
-    - title: Bulk AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
-      target: /features/scheduling/
-    - title: AI Content Suggestions
-      description: Endless, high-performing content suggestions tailored to your audience
-      target: /features/suggestions/
-
 features:
 - title: "Time is Your Most Valuable Asset: Reclaim It with Authorless's Automated Content Creation"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
@@ -53,6 +41,18 @@ features:
 cta:
   title: Stop Letting Content Creation Overwhelm You - Try Authorless Today!
   description: Ready to reclaim your time, maintain a consistent online presence, and grow your influence? Try Authorless now and experience effortless content creation that delivers real results, while keeping you firmly in the driver's seat!
+
+topFeatures: 
+  list:
+    - title: Bulk AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Multi-Platform Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: AI Content Suggestions
+      description: Endless, high-performing content suggestions tailored to your audience
+      target: /features/suggestions/
 
 faq:
   - q: "I'm already swamped with collaborations and events – how can Authorless possibly help me?"
