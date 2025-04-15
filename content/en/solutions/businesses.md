@@ -37,9 +37,25 @@ features:
       description: Authorless is easy to use, even if you're not a marketing expert.
   footer:
     - Consistency is key. Authorless helps you achieve it effortlessly.
-
+- title: "Full-Funnel Content Strategy: Convert Browsers into Buyers"
+  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
+  image_alt: "Office Feature Image 1"
+  description:
+    - Stop creating content that doesn't convert. Authorless analyses your business and automatically creates strategic content that guides potential customers through their entire buying journey - from first discovery to final purchase decision.
+    - Transform casual browsers into paying customers with targetted content. Our AI understands what information customers need at each stage of their decision-making process and creates content specifically designed to move them to the next step.
+    - No marketing expertise required. Authorless handles the complex strategy work behind the scenes, so you can focus on serving customers while still benefiting from professional-level marketing content that drives sales.
+  points:
+    - title: Targetted Content for Every Stage
+      description: Automatically create the right content for awareness, interest, decision, and action phases.
+    - title: Strategic Conversion Path
+      description: Guide potential customers smoothly from discovery to purchase with connected content.
+    - title: Sales-Focused Content
+      description: Turn content marketing from just "nice to have" into a genuine sales generator.
+  footer:
+    - Don't just create content. Create conversions. Authorless turns your content into a sales machine.
+    
 cta:
-  title: Stop Letting Content Marketing Fall Behind - Try Authorless Today!
+  title: Stop Falling Behind on Content Marketing - Try Authorless Today!
   description: Ready to reclaim your time, maintain a consistent online presence, and drive business growth? Try Authorless now and experience effortless content creation that delivers real results!
 
 topFeatures: 
