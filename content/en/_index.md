@@ -3,6 +3,7 @@ title: "Automate Content Marketing with AI"
 superTitle: AI Content Marketing Automation
 description: "The <b>fastest, easiest way</b> to create and manage your content marketing. For marketing beginners and experts. Save time and effort now."
 youtubeUrl: https://www.youtube.com/embed/_RMM4_Ac2Do
+
 introFeatures:
   - title: Write Blogs & Socials with AI
     description: Other tools generate single pages. Authorless writes <b>multiple webpages & social posts</b>. Boost search rankings
@@ -13,18 +14,19 @@ introFeatures:
   - title: Proven Marketing Strategy
     description: Create with purpose. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
     url: "/features/marketing-strategy/"
+    
 solutionsCards:
   title: AI Content Marketing for Your Industry
   description: Discover how Authorless can transform your business' marketing, whatever you're working on. Regain valuable time, get organised and get ahead
   cards:
-     - title: For Businesses
-       description: Generate consistent leads with automated content strategy and scheduling
-       url: "/solutions/businesses/"
-       icon: briefcase
      - title: For Marketing Agencies
        description: Serve more clients and deliver better results with powerful AI tools
        url: "/solutions/agencies/"
-       icon: bullhorn    
+       icon: bullhorn      
+     - title: For Businesses
+       description: Generate consistent leads with automated content strategy and scheduling
+       url: "/solutions/businesses/"
+       icon: briefcase  
      - title: For Experts & Thought Leaders
        description: Save time with automated social posts that build your reputation 24/7
        url: "/solutions/thought-leaders/"
@@ -43,7 +45,7 @@ solutionsCards:
        icon: truck
     
 featureCards:
-  title: Get More Done, Faster with Authorless
+  title: Get Marketing Done, Faster with Authorless
   description: Supercharge your productivity and achieve your goals with ease. Learn how Authorless can help you hit your targets, with minimal effort
   cards:
   - title: AI Content Writing
@@ -116,9 +118,25 @@ features:
       description: Create professional content that follows proven principles, even if you're just starting out
     - title: Customer profiles that unlock relevance
       description: Generate content that speaks directly to your audience's specific needs and interests
-    - title: Content plans that achieve your goals
+    - title: Campaigns that achieve your goals
       description: Easily create series of posts designed to turn readers into paying customers
-    
+  footer:
+    - Don't just create content. Create conversions. Authorless turns your content into a sales machine.
+
+topFeatures: 
+  title: You'll Love These Authorless Features
+  description: Check out the innovations that will change the way you work  
+  list:
+    - title: AI Content Writing
+      description: Create compelling content quickly and easily with AI-powered assistance
+      target: /features/content-writing/
+    - title: Multi-Platform Scheduling
+      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+      target: /features/scheduling/
+    - title: Marketing Strategy
+      description: Build an effective content strategy with AI guidance, no marketing experience required!
+      target: /features/marketing-strategy/
+
 faq:
   - q: "I'm spending all my time creating content – will Authorless actually give me some time back?"
     a:

@@ -29,5 +29,5 @@ features:
       - description: "Multi-platform publishing"
       - description: "Bulk content creation"
       - description: "Content library management"
-      - description: "Team accounts for multiple users"
       - description: "Multiple campaigns and projects"
+      - description: "Team accounts for multiple users"

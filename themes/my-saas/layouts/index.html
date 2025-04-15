@@ -4,13 +4,15 @@
 
   {{ partial "index/features-3-cols-icons.html" . }}
 
-  {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2 "swapBackgrounds" true) }}
+  {{ partial "index/features-3-cols-stripe.html" . }}
+
+  {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2 "swapBackgrounds" false) }}
 
   {{ partial "index/solution-cols.html" .Params.solutionsCards }}
 
   {{ partial "index/feature-cards.html" .Params.featureCards }}
 
-  {{ partial "index/features-3-cols-stripe.html" . }}
+  {{ partial "solution/feature-list.html" . }}
 
   {{ partial "newsletter" . }}
 
