@@ -5,29 +5,29 @@ features:
     title: "Content Creation"
     icon: edit
     points:
-      - description: "AI-powered content writing"
+      - description: "AI-powered bulk content writing"
       - description: "Multiple content formats (listicles, how-tos, tips and more)"
       - description: "SEO-optimised blog posts"
       - description: "Social media content"
-      - description: "Buying journey focus"
-      - description: "Content translation capabilities"
+      - description: "AI-driven content suggestions"
+      - description: "Content translation"
   - iconColor: "primary"
     title: "Consistency & Strategy"
     icon: chart
     points:
-      - description: "Brand voice preservation"
-      - description: "Audience profile targeting"
-      - description: "Campaign goal alignment"
+      - description: "Buying journey marketing strategy"
+      - description: "Learns your brand voice"
       - description: "Content calendar planning"
-      - description: "Content performance analytics"
-      - description: "AI-driven content suggestions"
+      - description: "Audience profile targeting"
+      - description: "Writing tailored per platform"
+      - description: "Campaign goal alignment"
   - iconColor: "primary"
     title: "Publishing & Management"
     icon: upload
     points:
       - description: "Automated content scheduling"
       - description: "Multi-platform publishing"
-      - description: "Content library management"
       - description: "Bulk content creation"
+      - description: "Content library management"
       - description: "Team accounts for multiple users"
       - description: "Multiple campaigns and projects"

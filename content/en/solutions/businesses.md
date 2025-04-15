@@ -56,6 +56,23 @@ topFeatures:
       description: Build an effective content strategy with AI guidance, no marketing experience required!
       target: /features/marketing-strategy/
 
+featureCards:
+  title: "Designed for Businesses Like Yours"
+  description: "More essential Authorless features your business needs to deliver exceptional content and grow your sales"
+  cards:
+  - title: "AI Content Suggestions"
+    description: "Unlock your creative potential. Get AI-powered suggestions to spark new content ideas and improve existing ones."
+    url: "/features/suggestions/"
+  - title: "Multi-Platform Publishing"
+    description: "Reach your audience everywhere. Seamlessly publish content across all your key platforms with ease."
+    url: "/features/publishing/"
+  - title: "Buying Journey Strategy"
+    description: "Develop effective content strategies with AI. Generate targeted content aligned with each stage of the customer journey."
+    url: "/features/marketing-strategy/"
+  - title: "Team Collaboration"
+    description: "Work better, together. Manage users, permissions, and collaborate seamlessly on all projects."
+    url: "/features/teams/"
+
 faq:
   - q: "I'm too busy to even think about content marketing – how can Authorless help?"
     a:
