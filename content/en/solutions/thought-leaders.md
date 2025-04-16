@@ -17,7 +17,7 @@ features:
     - title: End Publishing Worries
       description: Eliminate the frustration of facing a blank page when your LinkedIn audience expects insights.
   footer:
-    - Time is your most valuable asset. Don't waste it on manual LinkedIn content creation.
+    - Save time with automated LinkedIn content creation
 
 - title: "Build Your LinkedIn Authority"
   image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
@@ -33,7 +33,7 @@ features:
     - title: Build Lasting Thought Leadership
       description: Position yourself as an expert in your field by consistently sharing valuable content without burning out.
   footer:
-    - Consistency without stress is key. Authorless helps you maintain LinkedIn thought leadership without sacrificing your wellbeing.
+    - Finally, LinkedIn thought leadership without the hassle
 
 cta:
   title: Say Goodbye to LinkedIn Content Headaches Now!

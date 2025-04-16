@@ -37,7 +37,7 @@ features:
     - "Organisation is key to success. Authorless helps you stay in control of your content, no matter how busy you are."
 
 cta:
-  title: Start Influencing Stress-Free Now!
+  title: Grow Your Influence Stress-Free Now!
   description: Ready to reclaim your time, maintain a consistent online presence, and grow your influence? Try Authorless now and experience effortless content creation that delivers real results, while keeping you firmly in the driver's seat!
 
 topFeatures: 
