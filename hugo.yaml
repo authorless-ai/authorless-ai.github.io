@@ -99,32 +99,32 @@ menus:
       params:
         description: "All the latest on our blog"
   solutionsMenu:
-    - name: For Marketing Agencies
+    - name: Marketing Agencies
       url: /solutions/agencies/
       weight: 10
       params:
         description: "Deliver results, scale content with efficient AI power"
-    - name: For Businesses
+    - name: Businesses
       url: /solutions/businesses/
       weight: 20
       params:
         description: "Consistent lead generation with automated strategy and calendar"
-    - name: For Thought Leaders & Experts
+    - name: Thought Leaders
       url: /solutions/thought-leaders/
       weight: 30
       params:
         description: "Automate social posts to build authority while you sleep"
-    - name: For Non-Profits and Charities
+    - name: Non-Profits and Charities
       url: /solutions/non-profits/
       weight: 40
       params:
         description: "Amplify mission, engaging stories, effortless scheduling"
-    - name: For Influencers & Creators
+    - name: Influencers & Creators
       url: /solutions/influencers/
       weight: 50
       params:
         description: "Effortless growth with multi-platform publishing and automation"
-    - name: For Dropshippers
+    - name: Dropshippers
       url: /solutions/dropshippers/
       weight: 60
       params:
