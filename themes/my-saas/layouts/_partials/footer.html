@@ -28,14 +28,29 @@
                 </ul>
                 */}}
             </div>
-            <div></div>
-            <div></div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Features</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
+                  {{ range .Site.Menus.featuresmenu }}
                     <li class="mb-4">
-                        <a href="#" class=" hover:underline">About</a>
+                        <a href="{{ .URL }}" class=" hover:underline">{{ .Name }}</a>
                     </li>
+                  {{ end }}
+                </ul>
+            </div>
+            <div class="lg:mx-auto">
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Solutions</h2>
+                <ul class="text-gray-500 dark:text-gray-400">
+                  {{ range .Site.Menus.solutionsmenu }}
+                    <li class="mb-4">
+                        <a href="{{ .URL }}" class=" hover:underline">{{ .Name }}</a>
+                    </li>
+                  {{ end }}
+                </ul>
+            </div>
+            <div class="lg:mx-auto">
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
+                <ul class="text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
                         <a href="#" class="hover:underline">Blog</a>
                     </li>
@@ -92,6 +107,6 @@
             */}}
         </div>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
-        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}} {{ end }}. All Rights Reserved.</span>
+        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. All Rights Reserved.</span>
     </div>
 </footer>
