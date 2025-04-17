@@ -1,7 +1,7 @@
 ---
-title: "Automate Content Marketing with AI"
+title: "Automate Content Marketing: No Experience Required"
 superTitle: AI Content Marketing Automation
-description: "The <b>fastest, easiest way</b> to create and manage your content marketing. For marketing beginners and experts. Save time and effort now."
+description: "The <b>fastest, easiest way</b> to create and manage your content marketing. For marketing beginners and experts. Save time and effort with AI-powered content marketing."
 youtubeUrl: https://www.youtube.com/embed/_RMM4_Ac2Do
 
 introFeatures:
@@ -11,7 +11,7 @@ introFeatures:
   - title: Schedule & Publish Direct
     description: Stop copying and pasting. <b>Authorless publishes direct</b> to your website and social media. Boost engagement
     url: "/features/scheduling/"
-  - title: Proven Marketing Strategy
+  - title: Automated Marketing Strategy
     description: Create with purpose. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
     url: "/features/marketing-strategy/"
     
