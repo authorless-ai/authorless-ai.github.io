@@ -5,7 +5,7 @@ heroDescription: Stop letting content creation be a constant struggle. Authorles
 
 features:
 - title: "Reclaim Your Time: Automated Content Creation"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Stop juggling endless content ideas and chaotic posting schedules! Authorless drastically cuts down the time you spend on these tedious tasks, freeing you to build authentic audience connections and truly focus on your brand.
@@ -21,7 +21,7 @@ features:
     - Your time is precious. Authorless helps you use it wisely, while amplifying your reach and impact.
 
 - title: "Smart Content Calendar: Stay Organised and Consistent"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"
   description:
     - Maintaining a consistent online presence is crucial for influencers, but difficult when balancing collaborations, events, and personal life. Authorless makes it easy to stay on top of your content schedule.

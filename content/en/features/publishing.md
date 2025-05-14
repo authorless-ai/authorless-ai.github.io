@@ -4,7 +4,7 @@ heroDescription: Reach your audience where they are. Authorless publishes direct
 
 features:
 - title: "Direct Publishing: Effortless Distribution"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1"   
   description:
     - Stop wasting time manually uploading content to multiple platforms. Authorless publishes directly to your blog and social media channels.
@@ -19,7 +19,7 @@ features:
   footer:
     - Publish faster, reach further. Authorless makes content distribution easy.
 - title: "Integrated Platforms: Connect Your World"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"
   description:
     - Reach a wider audience and build your brand across multiple channels with ease.

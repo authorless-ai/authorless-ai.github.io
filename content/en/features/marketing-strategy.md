@@ -4,7 +4,7 @@ heroDescription: No marketing degree required. Let Authorless automatically crea
 
 features:
 - title: "Strategic Buying Journey Content"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Not all content delivers results. Authorless automatically creates material that guides your audience through their buying journey, from first initial contact to action.
@@ -19,7 +19,7 @@ features:
   footer:
     - Stop posting random content and start publishing a content mix that delivers 
 - title: "Guide Your Audience to Action"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
     - Catch their eye with attention-grabbing headlines and topics that address their initial problems.

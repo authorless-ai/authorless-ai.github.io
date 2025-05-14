@@ -5,7 +5,7 @@ heroDescription: Stop wasting hours on content creation and start driving sales.
 
 features:
 - title: "Relevant Content at Lightning Speed"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Authorless allows you to create large volumes of high-quality content in minutes, not weeks.
@@ -21,7 +21,7 @@ features:
     - Make the most of your time with high-quality content
 
 - title: "Laser-Targeted Content: Audience and Brand Analysis"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
     - Are your marketing efforts falling flat because your content isn't relevant? Authorless analyses your products and target audiences to generate content that truly resonates.

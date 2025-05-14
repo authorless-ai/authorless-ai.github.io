@@ -4,7 +4,7 @@ heroDescription: Stop spending hours on content creation. Generate engaging cont
 
 features:
 - title: "Instant Content: Maximise Your Time with Authorless"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Tired of content creation eating up your day? Authorless dramatically reduces the time you spend on writing and editing.
@@ -19,7 +19,7 @@ features:
   footer:
     - Stop letting content creation hold you back and start maximising your productivity 
 - title: "Publish Consistently and Stay Top-of-Mind"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
     - Maintaining a consistent publishing schedule is key to engaging your audience and building brand loyalty. 

@@ -4,7 +4,7 @@ heroDescription: Stop limiting your audience and start speaking the world's lang
 
 features:
 - title: Your Voice, Their Language
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1"   
   description:
     - Speak to customers in their language with cutting-edge automatic translation, and build your global brand. 
@@ -20,7 +20,7 @@ features:
     - Work in global markets without a dedicated translation team
 
 - title: Convert Global Audiences into Paying Customers
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"   
   description:
     - Authorless transforms international visitors into loyal customers by speaking their language.

@@ -38,13 +38,31 @@
     {{ $isEven = not $isEven }}  <!-- Flip the even/odd status -->
 {{ end }}
 
+{{ $imageSrc := "" }}
+
+{{ if $feature.image }}
+    {{ if $feature.image | hasPrefix "http" }}
+        {{/* It's an external URL, use it directly */}}
+        {{ $imageSrc = $feature.image }}
+    {{ else }}
+        {{/* It's a local path. Try to get it as a Page Resource first. */}}
+        {{ with $.Page.Resources.GetMatch $feature.image }}
+            {{/* Found as a resource (e.g., in a page bundle) */}}
+            {{ $imageSrc = .RelPermalink }}
+        {{ else }}
+            {{/* Not found as a resource. Assume it's a global path (like from static) */}}
+            {{ $imageSrc = $feature.image | absURL }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
 <section class="{{ if $isEven }}bg-slate-50 dark:bg-gray-900 border-y border-slate-200{{ else }}bg-white dark:bg-gray-900{{ end }}">
     <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
         <!-- Row -->
         <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
             {{ if not $isEven }}
-                {{ if $feature.image }}
-                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $feature.image }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                {{ if $imageSrc }}
+                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
                 {{ end }}
             {{ end }}
 
@@ -80,8 +98,8 @@
             </div>
 
             {{ if $isEven }}
-                {{ if $feature.image }}
-                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $feature.image }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                {{ if $imageSrc }}
+                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
                 {{ end }}
             {{ end }}
         </div>

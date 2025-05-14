@@ -4,7 +4,7 @@ heroDescription: Stop spending hours creating LinkedIn posts. Generate engaging 
 
 features:
 - title: "Stress-Free AI LinkedIn Content"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Tired of LinkedIn content creation eating up your valuable time? Authorless dramatically reduces the hours you spend writing and editing posts.
@@ -20,7 +20,7 @@ features:
     - Save time with automated LinkedIn content creation
 
 - title: "Build Your LinkedIn Authority"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
     - Maintaining a consistent LinkedIn publishing schedule is essential for building thought leadership. Authorless helps you create a steady stream of insightful posts without the hassle.

@@ -5,7 +5,7 @@ heroDescription: Authorless enables businesses to maintain a consistent content 
 
 features:
 - title: "Reclaim Your Time: Automated Content Marketing for Busy Business Owners"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
+  image: "/images/feature-office-1.jpg"
   image_alt: "Office Feature Image 1"
   description:
     - Are you constantly struggling to find time for content marketing? Authorless dramatically reduces the time you spend writing, publishing, and scheduling content.
@@ -21,7 +21,7 @@ features:
     - Time is money. Authorless helps you make the most of both.
 
 - title: "Effortless Content Marketing, No Expertise Required"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"
+  image: "/images/feature-office-2.jpg"
   image_alt: "Office Feature Image 2"
   description:
     - Consistency is key to successful content marketing. Authorless makes it easy to maintain a consistent online presence, even if you have no marketing experience.
@@ -36,7 +36,7 @@ features:
   footer:
     - Consistency is key. Authorless helps you achieve it effortlessly.
 - title: "Full-Funnel Content Strategy: Convert Browsers into Buyers"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
+  image: "/images/feature-office-1.jpg"
   image_alt: "Office Feature Image 1"
   description:
     - Stop creating content that doesn't convert. Authorless analyses your business and automatically creates content that guides potential customers through their entire buying journey - from first discovery to final purchase decision.

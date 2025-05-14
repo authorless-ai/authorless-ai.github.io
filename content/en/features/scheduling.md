@@ -4,7 +4,7 @@ heroDescription: Take control of your content calendar with Authorless's intuiti
 
 features:
 - title: "Effortless Scheduling: Plan Your Content with Ease"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Tired of last-minute content scrambles? Authorless's scheduling tools empower you to plan and schedule your blog posts and social media updates in advance.
@@ -19,7 +19,7 @@ features:
   footer:
     - Say goodbye to rushed content and hello to a strategic, organised approach to your content marketing.
 - title: "Optimise Your Publishing: Reach Your Audience at the Right Time"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"    
   description:
     - Scheduling isn't just about planning ahead; it's about optimising your content's reach. 

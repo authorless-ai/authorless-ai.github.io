@@ -4,7 +4,7 @@ heroDescription: Streamline your agency workflow with dedicated project spaces. 
 
 features:
 - title: "Dedicated Client Project Spaces"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Managing content for multiple clients is a logistical challenge. Authorless simplifies this with dedicated project spaces.
@@ -19,7 +19,7 @@ features:
   footer:
     - Simplify your agency operations. Manage multiple clients without the complexity using Authorless.
 - title: "Scalable Solutions to Grow Your Agency"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
     - Managing content for a growing client base becomes increasingly challenging. Authorless scales effortlessly with your business, supporting multiple client projects.

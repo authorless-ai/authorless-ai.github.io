@@ -5,7 +5,7 @@ heroDescription: Stop struggling to meet content demands. Authorless empowers ag
 
 features:
 - title: "Unlock Efficiency: Streamlined Content Creation for Agencies"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
     - Tired of spending too much time on content creation? Authorless dramatically reduces the time your team spends writing, publishing and scheduling content across multiple client projects.
@@ -21,7 +21,7 @@ features:
     - Time is your agency's most valuable resource. Authorless helps you make the most of it.
 
 - title: "Scale Your Services: Expand Your Offerings"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
     - Scale your content creation capabilities without adding headcount, boosting your profitability and meeting growing client demands.
@@ -37,7 +37,7 @@ features:
     - The future of content marketing is here. Authorless empowers your agency to lead the way.
 
 - title: "Strategic Content Creation: Drive the Buyer's Journey"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 3"  
   description:
     - Transform content that merely fills calendars into strategic assets that convert prospects into customers through the AIDA (Attention, Interest, Desire, Action) framework.

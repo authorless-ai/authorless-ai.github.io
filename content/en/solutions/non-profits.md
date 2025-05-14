@@ -4,7 +4,7 @@ heroDescription: Do more with less. Share your story, connect with supporters, a
 
 features:
 - title: "Tell Your Story Effectively"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"
+  image: "/images/feature-office-1.jpg"
   image_alt: "Office Feature Image 1"
   description:
     - Are you struggling to reach new donors and engage existing supporters? Authorless enables you to highlight your impact with captivating content that resonates with your audience.
@@ -20,7 +20,7 @@ features:
     - Every story matters. Make sure yours is heard with Authorless.
 
 - title: "Effortless Content Creation"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"
+  image: "/images/feature-office-2.jpg"
   image_alt: "Office Feature Image 2"
   description:
     - Time is a charity's most precious resource. Authorless helps you maximise your impact by streamlining your content creation process, freeing up your team to focus on frontline work.

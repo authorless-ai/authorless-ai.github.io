@@ -4,7 +4,7 @@ heroDescription: Empower your entire marketing team to create on-brand content w
 
 features:
 - title: "Team Collaboration: Scale Your Content Production"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-1.png"  
+  image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1"   
   description:
     - Managing content creation across multiple team members often leads to inconsistent messaging and time-consuming revisions. Authorless Teams solves this challenge.
@@ -20,7 +20,7 @@ features:
     - All the benefits of Authorless, for your whole team
 
 - title: "Quality Control at Scale"
-  image: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/features/feature-office-2.png"  
+  image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"    
   description:
     - Worried about maintaining your brand voice when multiple team members create content? Authorless Teams allows managers to set guardrails that ensure consistency.
