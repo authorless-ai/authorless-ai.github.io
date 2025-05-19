@@ -12,7 +12,7 @@ faq:
   - q: "What happens if I run out of AI credits? Can I buy more?"
     a:
     - "Yes, you can! Every Authorless plan gives you a certain amount of AI credits for making content. If you use up your credits before your next bill is due, you can buy more to keep going."
-    - "Buying extra AI credits is easy. Just follow the steps in your account or ask your Authorless contact for help. For example, if you're on the Basic plan, you can buy an extra 500,000 words for $20. Plans with more features offer better deals and bigger credit packs."
+    - "Buying extra AI credits is easy. Just follow the steps in your account or ask your Authorless contact for help. For example, if you're on the Basic plan, you can buy an extra 500,000 words for £20. Plans with more features offer better deals and bigger credit packs."
   - q: "Do my Authorless AI credits roll over to the next month?"
     a:
     - "The AI credits that come with your monthly subscription plan do not roll over to the next month. These credits are meant to be used within your current billing cycle."
@@ -22,15 +22,15 @@ faq:
   yearly: true,
   plans: {
     timeSaver: {
-      monthly: 29,
-      yearly: 22
+      monthly: 25,
+      yearly: 19
     },
     team: {
       monthly: 65,
       yearly: 49
     },
     agency: {
-      monthly: 172,
+      monthly: 180,
       yearly: 129
     }
   }
@@ -68,7 +68,7 @@ faq:
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
           Time saver
         </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'$' + (yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'£' + (yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
           <span x-show="yearly">per month, billed annually</span>
           <span x-show="!yearly">per month, billed monthly</span>
@@ -126,7 +126,7 @@ faq:
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
           Team
         </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'$' + (yearly ? plans.team.yearly : plans.team.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'£' + (yearly ? plans.team.yearly : plans.team.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
             <span x-show="yearly">per month, billed annually</span>
             <span x-show="!yearly">per month, billed monthly</span>
@@ -177,7 +177,7 @@ faq:
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
           Agency
         </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'$' + (yearly ? plans.agency.yearly : plans.agency.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'£' + (yearly ? plans.agency.yearly : plans.agency.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
             <span x-show="yearly">per month, billed annually</span>
             <span x-show="!yearly">per month, billed monthly</span>
@@ -224,11 +224,11 @@ faq:
             <ul role="list" class="mt-2 space-y-2 text-sm text-left text-gray-600 dark:text-gray-400 pl-5">
                 <li class="flex items-center space-x-2">
                     <svg class="flex-shrink-0 w-4 h-4 text-blue-500 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clip-rule="evenodd"></path></svg>
-                    <span>Additional User: $20/month each</span>
+                    <span>Additional User: £20/month each</span>
                 </li>
                 <li class="flex items-center space-x-2">
                     <svg class="flex-shrink-0 w-4 h-4 text-blue-500 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clip-rule="evenodd"></path></svg>
-                    <span>Additional Brand Pack & Social Account Set: $10/month each</span>
+                    <span>Additional Brand Pack & Social Account Set: £10/month each</span>
                 </li>
             </ul>
           </li>
