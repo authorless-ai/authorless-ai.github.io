@@ -2,7 +2,7 @@
 title: "Automate Content Marketing: No Experience Required"
 superTitle: AI Content Marketing Automation
 description: "The <b>fastest, easiest way</b> to create and manage your content marketing. For marketing beginners and experts. Save time and effort with AI-powered content marketing."
-youtubeUrl: https://www.youtube.com/embed/_RMM4_Ac2Do
+youtubeUrl: https://www.youtube.com/embed/oh7H442YqnY
 
 introFeatures:
   - title: Write Blogs & Socials with AI
