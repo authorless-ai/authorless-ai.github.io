@@ -9,6 +9,11 @@ faq:
     a:
     - "Yes, you can upgrade your Authorless plan anytime to get more features, higher credit limits, or other perks that fit what you're doing now."
     - "To upgrade, just contact us. Upgrades usually start right away, and we'll clearly explain any changes to your bill for the current month."
+  - q: "What does 'X AI Words Per Month' mean, and how is my usage calculated?"
+    a:
+    - "The 'AI Words Per Month' stated in your plan (e.g., 100k words) is an estimate of the text content you can produce based on typical usage. Your actual content creation depends on how you use Authorless."
+    - "Your allowance covers all AI-powered features, not just generating text. This includes creating AI images, using AI suggestions, and leveraging our AI editor for various tasks. All these activities consume from your monthly quota."
+    - "For example, if you frequently generate images or extensively use AI tools for suggestions and editing, this will reduce the amount of text content you can produce within your plan's allowance. Your usage is flexible, allowing you to prioritize the AI features most valuable to your workflow."
   - q: "What happens if I run out of AI credits? Can I buy more?"
     a:
     - "Yes, you can! Every Authorless plan gives you a certain amount of AI credits for making content. If you use up your credits before your next bill is due, you can buy more to keep going."
@@ -31,7 +36,7 @@ faq:
     },
     agency: {
       monthly: 180,
-      yearly: 129
+      yearly: 135
     }
   }
 }">
@@ -58,6 +63,7 @@ faq:
           @click="yearly = !yearly">
           Yearly
         </span>
+        <p class="text-red-600">Pay yearly and save 25%</p>
       </div>
     </div>
 
@@ -92,7 +98,7 @@ faq:
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>100k AI Words Per Month</span>
+            <span>100k AI Words Per Month<sup>*</sup></span>
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
@@ -150,7 +156,7 @@ faq:
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>1M AI Words Per Month</span>
+            <span>1M AI Words Per Month<sup>*</sup></span>
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
@@ -201,7 +207,7 @@ faq:
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>4M AI Words Per Month</span>
+            <span>4M AI Words Per Month<sup>*</sup></span>
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
@@ -234,6 +240,7 @@ faq:
           </li>
         </ul>
       </div>
+      <p class="text-xs text-gray-600">* Actual amounts vary by usage</p>
     </div>
   </div>
 </section>
