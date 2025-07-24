@@ -62,7 +62,12 @@
         <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
             {{ if not $isEven }}
                 {{ if $imageSrc }}
-                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                  <div class="rounded-s-xl bg-[size:200%_auto] bg-top-left bg-no-repeat"
+                    {{ with resources.Get "images/bg-swirl.png" }}
+                      style="background-image: url('{{ .RelPermalink }}');"
+                    {{ end }}>
+                    <img class="p-12 hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                  </div>
                 {{ end }}
             {{ end }}
 
@@ -99,7 +104,12 @@
 
             {{ if $isEven }}
                 {{ if $imageSrc }}
-                    <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                  <div class="rounded-e-xl bg-[size:150%_auto] bg-bottom-right bg-no-repeat"
+                    {{ with resources.Get "images/bg-swirl.png" }}
+                      style="background-image: url('{{ .RelPermalink }}');"
+                    {{ end }}>
+                    <img class="p-12 hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                  </div>
                 {{ end }}
             {{ end }}
         </div>

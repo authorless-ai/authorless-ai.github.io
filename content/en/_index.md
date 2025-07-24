@@ -90,8 +90,8 @@ featureCards:
 
 features:
 - title: "Your AI Marketing Superpower"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1" 
+  image: "/images/persona.png"  
+  image_alt: "Persona view" 
   description:
     - No marketing experience or time? Authorless handles the heavy lifting. Say goodbye to endless blog edits and social media headaches.
   points:
@@ -108,8 +108,8 @@ features:
   footer:
     - Authorless empowers anyone to plan and automate an effective content strategy, in multiple languages helping you grow your business 
 - title: "Audience-Focussed Content That Delivers"
-  image: "/images/feature-office-2.jpg"  
-  image_alt: "Office Feature Image 2" 
+  image: "/images/persona.png"  
+  image_alt: "Audience personas" 
   description:
     - Authorless creates detailed customer profiles to understand exactly who you're writing for and what they need to hear.
     - Publish content that drives real business results, regardless of your marketing background.
