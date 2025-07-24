@@ -10,7 +10,7 @@
                 Select a category
             </label>
             <select id="category"
-                    class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+                    class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
                     x-data @change="window.location = $event.target.value">
                 <option value="{{ $blogIndex.Permalink }}">
                     All
@@ -70,7 +70,7 @@
                     {{ range .item.Site.Taxonomies.tags }}
                         {{ $isActive := and (eq .Page.RelPermalink $sectionPage.Page.RelPermalink) (not (eq .Page.RelPermalink "/")) }}
 
-                        <a href="{{ .Page.Permalink }}" class="{{ if $isActive }}bg-blue-100{{ else }}border border-blue-200{{ end }} hover:bg-blue-200 text-blue-800 text-xs font-semibold me-2 px-2.5 py-0.5 rounded-full dark:bg-gray-700 dark:text-blue-400 inline-flex items-center justify-center">{{ .Page.Title }}</a>
+                        <a href="{{ .Page.Permalink }}" class="{{ if $isActive }}bg-primary-100{{ else }}border border-primary-200{{ end }} hover:bg-primary-200 text-primary-800 text-xs font-semibold me-2 px-2.5 py-0.5 rounded-full dark:bg-gray-700 dark:text-primary-400 inline-flex items-center justify-center">{{ .Page.Title }}</a>
                     {{ end }}
                 {{ end }}
             </nav>

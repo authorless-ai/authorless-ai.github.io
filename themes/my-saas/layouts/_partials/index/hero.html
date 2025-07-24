@@ -1,9 +1,15 @@
-<section class="bg-white dark:bg-gray-900">
-    <div class="pt-8 lg:pt-16 px-4 mx-auto max-w-screen-xl">
+<section class="bg-white dark:bg-gray-900 relative">
+    <div class="absolute inset-y-0 left-1/2 w-1/2 bg-cover bg-left bg-no-repeat z-0"
+      {{ with resources.Get "images/bg-blob.png" }}
+        style="background-image: url('{{ .RelPermalink }}');"
+      {{ end }}>
+    </div>
+
+    <div class="pt-8 lg:pt-16 px-4 mx-auto max-w-screen-xl relative z-10">
         <div class="grid gap-8 items-center mb-8 lg:mb-18 lg:gap-12 lg:grid-cols-12">
             <div class="col-span-6 text-center sm:mb-6 lg:text-left lg:mb-0">
               {{ if .Params.superTitle }}
-                <p class="uppercase text-transparent bg-clip-text bg-gradient-to-r from-teal-500 to-blue-800  font-extrabold mb-4 text-base">{{ .Params.superTitle }}</p>
+                <p class="inline uppercase text-transparent bg-clip-text bg-gradient-to-r from-primary-600 via-[#ff33aa] to-[#ffaa00] font-extrabold mb-4 text-base">{{ .Params.superTitle }}</p>
               {{ end }}
 
                 <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl xl:text-6xl dark:text-white">{{ .Title }}</h1>
@@ -20,10 +26,7 @@
                 </svg>
               </a>
             </div>
-            <div class="col-span-6 p-16 bg-cover bg-left bg-no-repeat"
-              {{ with resources.Get "images/bg-blob.png" }}
-                style="background-image: url('{{ .RelPermalink }}');"
-              {{ end }}>
+            <div class="col-span-6 p-16">
                 <iframe class="mx-auto w-full max-w-xl h-64 rounded-lg sm:h-96" src="{{ .Params.youtubeUrl }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
