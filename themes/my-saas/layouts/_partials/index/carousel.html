@@ -1,0 +1,44 @@
+{{ $carouselImages := resources.Match "images/carousel/*" }}
+{{ $sortedImages := sort $carouselImages "RelPermalink" }}
+{{/* Sorts images by their relative permalink */}}
+
+<!-- Outer container for the background gradient image, acting as a section wrapper -->
+<div class="relative">
+  <!-- Background gradient image, positioned absolutely to cover the container -->
+  <img src="{{ "images/bg-gradient.png" | relURL }}" alt="Background Gradient" class="absolute inset-0 w-full max-w-7xl h-1/2 mx-auto object-cover z-0 rounded-xl">
+
+  <!-- Main carousel content wrapper, placed above the background gradient -->
+  <div class="relative z-10 max-w-5xl mx-auto mb-8 pt-[100px] pb-8">
+    <!-- The frame wrapper with blur, background, border-radius, and shadow -->
+    <div class="relative p-4 backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl">
+
+      <!-- Glide.js Carousel Wrapper (no specific Tailwind classes needed here for core functionality, as Glide manages visibility) -->
+      <div class="glide">
+        <!-- Carousel Track (slides go inside this) -->
+        <div class="glide__track overflow-hidden rounded-xl" data-glide-el="track">
+          <ul class="glide__slides">
+            {{ range $index, $image := $sortedImages }}
+            <!-- Each slide item -->
+            <li class="glide__slide">
+                <img src="{{ $image.RelPermalink }}" class="block w-full object-contain" alt="Carousel image {{ add $index 1 }}">
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    new Glide('.glide', {
+      type: 'carousel', // 'carousel' for infinite looping
+      autoplay: 3000,   // Autoplay every 3 seconds (3000 milliseconds)
+      hoverpause: true, // Pause autoplay when hovering over the carousel
+      perView: 1,       // Show one slide at a time
+      animationDuration: 1500, // Duration of the slide transition in milliseconds
+      gap: 0,           // No gap between slides
+    }).mount();
+  });
+</script>

@@ -1,5 +1,11 @@
-<section class="bg-gray-50 dark:bg-gray-900">
-  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+<section class="bg-gray-50 dark:bg-gray-900 relative overflow-hidden">
+  <div class="absolute top-1/2 left-1/2 z-0 bg-no-repeat bg-center"
+    {{ with resources.Get "images/bg-blob.png" }}
+      style="background-image: url('{{ .RelPermalink }}'); width: 100%; height: 60vh; background-size: contain; transform: translate(-50%, -50%) scaleX(-1) scaleY(-1) rotate(30deg);"
+    {{ end }}>
+  </div>
+
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 relative z-10">
       <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
           <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ .title }}</h2>
           <p class="font-light text-gray-500 dark:text-gray-400 sm:text-xl">{{ .description }}</p>

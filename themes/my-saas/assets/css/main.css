@@ -34,7 +34,7 @@
 }
 
 .text-highlight {
-    @apply px-1 text-white bg-blue-600 rounded dark:bg-blue-500
+    @apply px-1 text-white bg-primary-600 rounded dark:bg-primary-500
 }
 
 .text-highlight-secondary {
