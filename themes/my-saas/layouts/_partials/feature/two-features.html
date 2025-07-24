@@ -15,13 +15,11 @@
     <ul role="list" class="my-7 space-y-5">
         {{ range $listItems }}
             <li class="flex space-x-3">
-                <!-- Icon -->
                 <svg class="flex-shrink-0 w-5 h-5 mt-1.5 text-primary-600 dark:text-primary-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
                 <div>
                     <span class="text-base font-medium leading-tight text-gray-700 dark:text-white">{{ .title }}</span> –
                     <span class="text-base font-light leading-tight text-gray-600 dark:text-white">{{ .description }}</span>
 
-					{{/* Render nested list if it exists */}}
 					{{ with .items }}
 						{{ template "feature_list" . }}
 					{{ end }}
@@ -35,22 +33,18 @@
 {{ range $index, $feature := $featureSubset }}
 {{ $isEven := eq (mod $index 2) 0 }}
 {{ if $swapBackgrounds }}
-    {{ $isEven = not $isEven }}  <!-- Flip the even/odd status -->
+    {{ $isEven = not $isEven }}
 {{ end }}
 
 {{ $imageSrc := "" }}
 
 {{ if $feature.image }}
     {{ if $feature.image | hasPrefix "http" }}
-        {{/* It's an external URL, use it directly */}}
         {{ $imageSrc = $feature.image }}
     {{ else }}
-        {{/* It's a local path. Try to get it as a Page Resource first. */}}
         {{ with $.Page.Resources.GetMatch $feature.image }}
-            {{/* Found as a resource (e.g., in a page bundle) */}}
             {{ $imageSrc = .RelPermalink }}
         {{ else }}
-            {{/* Not found as a resource. Assume it's a global path (like from static) */}}
             {{ $imageSrc = $feature.image | absURL }}
         {{ end }}
     {{ end }}
@@ -58,16 +52,17 @@
 
 <section class="{{ if $isEven }}bg-slate-50 dark:bg-gray-900 border-y border-slate-200{{ else }}bg-white dark:bg-gray-900{{ end }}">
     <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
-        <!-- Row -->
         <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
             {{ if not $isEven }}
                 {{ if $imageSrc }}
                   <div class="rounded-s-xl relative overflow-hidden">
                     <img class="absolute inset-0 w-full h-full object-none object-top-left" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
                     <div class="relative z-10 p-12">
-                      <img
-                          class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg border-16 border-solid border-white"
-                          src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                      <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
+                        <img
+                            class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
+                            src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                      </div>
                     </div>
                   </div>
                 {{ end }}
@@ -80,7 +75,6 @@
                         <p class="mb-8 font-light lg:text-xl">{{ . }}</p>
                     {{ end }}
                 {{ end }}
-                <!-- List -->
                 {{ with $feature.points }}
                     {{ template "feature_list" . }}
                 {{ end }}
@@ -109,8 +103,10 @@
                   <div class="rounded-e-xl relative overflow-hidden">
                     <img class="absolute inset-0 w-full h-full object-none object-top-right" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
                     <div class="relative z-10 p-12">
-                      <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg border-16 border-solid border-white"
+                      <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
+                        <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg"
                            src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                      </div>
                     </div>
                   </div>
                 {{ end }}

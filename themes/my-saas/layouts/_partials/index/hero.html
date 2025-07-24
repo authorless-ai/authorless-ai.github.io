@@ -27,7 +27,12 @@
               </a>
             </div>
             <div class="col-span-6 p-16">
-                <iframe class="mx-auto w-full max-w-xl h-64 rounded-lg sm:h-96" src="{{ .Params.youtubeUrl }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
+                <iframe class="mx-auto w-full max-w-xl h-64 rounded-lg sm:h-96" src="{{ .Params.youtubeUrl }}"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe>
+              </div>
             </div>
         </div>
     </div>

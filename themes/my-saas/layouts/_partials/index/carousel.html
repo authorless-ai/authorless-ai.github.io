@@ -5,17 +5,17 @@
 <!-- Outer container for the background gradient image, acting as a section wrapper -->
 <div class="relative">
   <!-- Background gradient image, positioned absolutely to cover the container -->
-  <img src="{{ "images/bg-gradient.png" | relURL }}" alt="Background Gradient" class="absolute inset-0 w-full max-w-7xl h-1/2 mx-auto object-cover z-0 rounded-lg">
+  <img src="{{ "images/bg-gradient.png" | relURL }}" alt="Background Gradient" class="absolute inset-0 w-full max-w-7xl h-1/2 mx-auto object-cover z-0 rounded-xl">
 
   <!-- Main carousel content wrapper, placed above the background gradient -->
   <div class="relative z-10 max-w-5xl mx-auto mb-8 pt-[100px] pb-8">
     <!-- The frame wrapper with blur, background, border-radius, and shadow -->
-    <div class="relative p-4" style="backdrop-filter: blur(54px); background-color: rgba(255, 255, 255, 0.54); border-radius: 32px; box-shadow: rgba(0, 0, 0, 0.08) 0px 8px 32px 0px;">
+    <div class="relative p-4 backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl">
 
       <!-- Glide.js Carousel Wrapper (no specific Tailwind classes needed here for core functionality, as Glide manages visibility) -->
       <div class="glide">
         <!-- Carousel Track (slides go inside this) -->
-        <div class="glide__track overflow-hidden rounded-lg" data-glide-el="track">
+        <div class="glide__track overflow-hidden rounded-xl" data-glide-el="track">
           <ul class="glide__slides">
             {{ range $index, $image := $sortedImages }}
             <!-- Each slide item -->
