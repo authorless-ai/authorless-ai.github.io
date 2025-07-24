@@ -55,7 +55,7 @@
         <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
             {{ if not $isEven }}
                 {{ if $imageSrc }}
-                  <div class="rounded-s-xl relative overflow-hidden">
+                  <div class="hidden lg:block relative rounded-s-xl overflow-hidden">
                     <img class="absolute inset-0 w-full h-full object-none object-top-left" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
                     <div class="relative z-10 p-12">
                       <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
@@ -100,7 +100,7 @@
 
             {{ if $isEven }}
                 {{ if $imageSrc }}
-                  <div class="rounded-e-xl relative overflow-hidden">
+                  <div class="hidden lg:block relative overflow-hidden rounded-e-xl ">
                     <img class="absolute inset-0 w-full h-full object-none object-top-right" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
                     <div class="relative z-10 p-12">
                       <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
