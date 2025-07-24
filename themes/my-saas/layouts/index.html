@@ -26,7 +26,13 @@
 
 {{ end }}
 
+{{ define "styles" }}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glidejs/glide@3.6.0/dist/css/glide.core.min.css">
+{{ end }}
+
 {{ define "scripts" }}
+  <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+
   {{ $js := resources.Get "js/scroll-reveal.js" }}
   {{ $js = $js | fingerprint }}
   <script src="{{ $js.RelPermalink }}"></script>
