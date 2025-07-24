@@ -62,11 +62,13 @@
         <div class="gap-8 items-center lg:grid lg:grid-cols-2 xl:gap-16">
             {{ if not $isEven }}
                 {{ if $imageSrc }}
-                  <div class="rounded-s-xl bg-[size:200%_auto] bg-top-left bg-no-repeat"
-                    {{ with resources.Get "images/bg-swirl.png" }}
-                      style="background-image: url('{{ .RelPermalink }}');"
-                    {{ end }}>
-                    <img class="p-12 hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                  <div class="rounded-s-xl relative overflow-hidden">
+                    <img class="absolute inset-0 w-full h-full object-none object-top-left" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
+                    <div class="relative z-10 p-12">
+                      <img
+                          class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg border-16 border-solid border-white"
+                          src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                    </div>
                   </div>
                 {{ end }}
             {{ end }}
@@ -104,11 +106,12 @@
 
             {{ if $isEven }}
                 {{ if $imageSrc }}
-                  <div class="rounded-e-xl bg-[size:150%_auto] bg-bottom-right bg-no-repeat"
-                    {{ with resources.Get "images/bg-swirl.png" }}
-                      style="background-image: url('{{ .RelPermalink }}');"
-                    {{ end }}>
-                    <img class="p-12 hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg" src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                  <div class="rounded-e-xl relative overflow-hidden">
+                    <img class="absolute inset-0 w-full h-full object-none object-top-right" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
+                    <div class="relative z-10 p-12">
+                      <img class="hidden mb-4 w-full lg:mb-0 lg:flex rounded-lg border-16 border-solid border-white"
+                           src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
+                    </div>
                   </div>
                 {{ end }}
             {{ end }}
