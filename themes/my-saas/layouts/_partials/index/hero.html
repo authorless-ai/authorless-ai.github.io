@@ -20,7 +20,10 @@
                 </svg>
               </a>
             </div>
-            <div class="col-span-6">
+            <div class="col-span-6 p-16 bg-cover bg-left bg-no-repeat"
+              {{ with resources.Get "images/bg-blob.png" }}
+                style="background-image: url('{{ .RelPermalink }}');"
+              {{ end }}>
                 <iframe class="mx-auto w-full max-w-xl h-64 rounded-lg sm:h-96" src="{{ .Params.youtubeUrl }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
