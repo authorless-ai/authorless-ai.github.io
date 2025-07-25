@@ -16,7 +16,7 @@ introFeatures:
     url: "/features/marketing-strategy/"
     
 carousel:
-  title: Create & Publish 70+ Types of Content
+  title: Create & Schedule 70+ Types of Content
   images:
     - small: "images/carousel/1-mega-create-sm.png"
       large: "images/carousel/1-mega-create.png"
@@ -108,7 +108,7 @@ featureCards:
     icon: folder
 
 features:
-- title: "Your AI Marketing Superpower"
+- title: "A Month of Posts in 10 Minutes"
   image: "/images/campaign-options.png"  
   image_alt: "Campaign options" 
   description:
@@ -130,7 +130,7 @@ features:
   image: "/images/persona.png"  
   image_alt: "Audience personas" 
   description:
-    - Authorless creates detailed customer profiles to understand exactly who you're writing for and what they need to hear.
+    - Authorless creates <b>detailed customer profiles</b> to understand exactly who you're writing for and what they need to hear.
     - Publish content that drives real business results, regardless of your marketing background.
   points:
     - title: Marketing success without prior experience
@@ -143,7 +143,7 @@ features:
     - Don't just create content. Create conversions. Authorless turns your content into a sales machine.
 
 topFeatures: 
-  title: You'll Love These Authorless Features
+  title: Better Content, More Conversions  
   description: Check out the innovations that will change the way you work  
   list:
     - title: AI Content Writing
