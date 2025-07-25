@@ -17,6 +17,10 @@ params:
   mailingListSubscribe: https://app.authorless.ai/feedback/subscribe
   signupUrl: https://app.authorless.ai/accounts/signup/
 
+services:
+  googleAnalytics:
+    id: G-2MXX2DWFBQ
+
 languages:
   en:
     contentDir: 'content/en'

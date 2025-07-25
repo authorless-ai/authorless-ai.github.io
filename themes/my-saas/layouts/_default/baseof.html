@@ -31,7 +31,7 @@
     {{- template "_internal/twitter_cards.html" . -}}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      {{ template "_internal/google_analytics.html" . }}
+      {{ partial "google_analytics.html" . }}
     {{ end }}
 
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.7/dist/cdn.min.js"></script>
