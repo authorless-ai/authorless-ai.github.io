@@ -1,16 +1,15 @@
-title: "AI Content Marketing: Our Features"
+title: "AI Content Marketing: Saving You Time"
 description: "Authorless helps you scale your content marketing with AI-powered writing, scheduling, and publishing tools that deliver consistent, high-quality content across blogs and social platforms."
 features:
   - iconColor: "primary"
     title: "Content Creation"
     icon: edit
     points:
-      - description: "<b>70+ types of content</b> (blogs, social posts, scripts, emails and more)"
-      - description: "AI-powered bulk content writing"
-      - description: "Multiple content formats (listicles, how-tos, tips and more)"
-      - description: "SEO-optimised blog posts"
-      - description: "AI-driven content suggestions"
-      - description: "Content translation"
+      - description: "Bulk create <b>70+ types of content</b> (blogs, social posts, emails, images and more)"
+      - description: "Multiple formats (listicles, how-tos, tips and more)"
+      - description: "SEOd content to smash search results"
+      - description: "Infinite AI-driven content suggestions"
+      - description: "AI editor that understands your audience"
   - iconColor: "primary"
     title: "Consistency & Strategy"
     icon: chart
@@ -19,15 +18,15 @@ features:
       - description: "Learns your brand voice"
       - description: "Content calendar planning"
       - description: "Audience profile targeting"
-      - description: "Writing tailored per platform"
+      - description: "Writing tailored per-platform"
       - description: "Campaign goal alignment"
   - iconColor: "primary"
     title: "Publishing & Management"
     icon: upload
     points:
       - description: "Automated content scheduling"
-      - description: "Multi-platform publishing"
+      - description: "Multi-platform blog & social publishing"
       - description: "Bulk content creation"
-      - description: "Content library management"
+      - description: "Media library management"
       - description: "Multiple campaigns and projects"
       - description: "Team accounts for multiple users"
