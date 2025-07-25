@@ -5,8 +5,8 @@ description: "The <b>fastest, easiest way</b> to create and manage your content 
 youtubeUrl: https://www.youtube.com/embed/oh7H442YqnY
 
 introFeatures:
-  - title: Write Blogs & Socials with AI
-    description: Other tools generate single pages. Authorless writes <b>multiple webpages & social posts</b>. Boost search rankings
+  - title: Create 70+ Types of Content
+    description: Other tools generate single posts. Authorless writes <b>over 70 types of content</b>. Boost search rankings
     url: "/features/content-writing/"
   - title: Schedule & Publish Direct
     description: Stop copying and pasting. <b>Authorless publishes direct</b> to your website and social media. Boost engagement
@@ -15,22 +15,24 @@ introFeatures:
     description: Create with purpose. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
     url: "/features/marketing-strategy/"
     
-carouselImages:
-  - small: "images/carousel/1-mega-create-sm.png"
-    large: "images/carousel/1-mega-create.png"
-    alt: "Mega Create interface"
-  - small: "images/carousel/2-wizard-sm.png"
-    large: "images/carousel/2-wizard.png"
-    alt: "Wizard setup process"
-  - small: "images/carousel/3-select-sm.png"
-    large: "images/carousel/3-select.png"
-    alt: "Select options screen"
-  - small: "images/carousel/4-plan-sm.png"
-    large: "images/carousel/4-plan.png"
-    alt: "Plan configuration page"
-  - small: "images/carousel/5-list-sm.png"
-    large: "images/carousel/5-list.png"
-    alt: "List view of items"
+carousel:
+  title: Create & Publish 70+ Types of Content
+  images:
+    - small: "images/carousel/1-mega-create-sm.png"
+      large: "images/carousel/1-mega-create.png"
+      alt: "Mega Create interface"
+    - small: "images/carousel/2-wizard-sm.png"
+      large: "images/carousel/2-wizard.png"
+      alt: "Wizard setup process"
+    - small: "images/carousel/3-select-sm.png"
+      large: "images/carousel/3-select.png"
+      alt: "Select options screen"
+    - small: "images/carousel/4-plan-sm.png"
+      large: "images/carousel/4-plan.png"
+      alt: "Plan configuration page"
+    - small: "images/carousel/5-list-sm.png"
+      large: "images/carousel/5-list.png"
+      alt: "List view of items"
 
 solutionsCards:
   title: AI Content Marketing for Your Industry

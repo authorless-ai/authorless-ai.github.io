@@ -1,13 +1,11 @@
-{{/* The context '.' is now the carouselImages array itself */}}
-{{ $carouselImages := . }}
-
-{{ if not $carouselImages }}
-  {{ warnf "No 'carouselImages' data passed to carousel partial. Please ensure .Params.carouselImages is defined and not empty." }}
+{{ if not .images }}
+  {{ warnf "No 'carousel.images' data passed to carousel partial. Please ensure .Params.carousel.images is defined and not empty." }}
   {{ return }}
 {{ end }}
 
 <!-- Outer container for the background gradient image, acting as a section wrapper -->
 <div class="relative">
+  <h2 class="relative top-12 z-20 max-w-7xl text-5xl tracking-tight font-extrabold leading-tight text-white mx-auto text-center">{{ .title }}</h2>
   <!-- Background gradient image, positioned absolutely to cover the container -->
   <img src="{{ "images/bg-gradient.png" | relURL }}" alt="Background Gradient" class="absolute inset-0 w-full max-w-7xl h-1/2 mx-auto object-cover z-0 rounded-xl">
 
@@ -21,7 +19,7 @@
         <!-- Carousel Track (slides go inside this) -->
         <div class="glide__track overflow-hidden rounded-xl" data-glide-el="track">
           <ul class="glide__slides">
-            {{ range $index, $imageEntry := $carouselImages }}
+            {{ range $index, $imageEntry := .images }}
             {{/* Get the large image resource first - this is mandatory */}}
             {{ $largeImageResource := resources.Get $imageEntry.large }}
 

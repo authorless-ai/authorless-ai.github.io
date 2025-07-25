@@ -1,6 +1,6 @@
 ---
 title: Automate Content and Save Time
-heroDescription: Stop spending hours on content creation. Generate engaging content faster and publish consistently with Authorless
+heroDescription: Stop spending hours on content creation. Generate <b>70+ types of content</b> faster and publish consistently with Authorless
 
 features:
 - title: "Instant Content: Maximise Your Time with Authorless"

@@ -5,10 +5,10 @@ features:
     title: "Content Creation"
     icon: edit
     points:
+      - description: "<b>70+ types of content</b> (blogs, social posts, scripts, emails and more)"
       - description: "AI-powered bulk content writing"
       - description: "Multiple content formats (listicles, how-tos, tips and more)"
       - description: "SEO-optimised blog posts"
-      - description: "Social media content"
       - description: "AI-driven content suggestions"
       - description: "Content translation"
   - iconColor: "primary"
