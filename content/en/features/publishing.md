@@ -4,8 +4,8 @@ heroDescription: Reach your audience where they are. Authorless publishes direct
 
 features:
 - title: "Direct Publishing: Effortless Distribution"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1"   
+  image: "/images/reschedule.png"  
+  image_alt: "Drag to reschedule"   
   description:
     - Stop wasting time manually uploading content to multiple platforms. Authorless publishes directly to your blog and social media channels.
     - Focus on creating great content, not on the tedious task of publishing it.

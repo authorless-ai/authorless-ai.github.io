@@ -4,8 +4,8 @@ heroDescription: Say goodbye to writer's block. Authorless AI Suggestions provid
 
 features:
 - title: "End Writer's Block: Generate Infinite Content Ideas"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1"   
+  image: "/images/blog-wizard.png"  
+  image_alt: "Blog wizard"   
   description:
     - Staring at a blank page? Authorless banishes writer's block with a constant stream of relevant and engaging suggestions.
     - Stop struggling for inspiration and start creating compelling content that resonates with your audience.
@@ -19,8 +19,8 @@ features:
   footer:
     - Endless inspiration, always at your fingertips.
 - title: "Relevant Content for Your Audience"
-  image: "/images/feature-office-2.jpg"  
-  image_alt: "Office Feature Image 2"    
+  image: "/images/persona.png"  
+  image_alt: "Audience personas"    
   description:
     - Stop guessing what your audience wants to see. Authorless analyses your business, products, and target market to deliver hyper-relevant content suggestions.
   points:

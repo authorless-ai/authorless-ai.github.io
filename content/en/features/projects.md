@@ -4,8 +4,8 @@ heroDescription: Streamline your agency workflow with dedicated project spaces. 
 
 features:
 - title: "Dedicated Client Project Spaces"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1" 
+  image: "/images/projects.png"  
+  image_alt: "Projects" 
   description:
     - Managing content for multiple clients is a logistical challenge. Authorless simplifies this with dedicated project spaces.
     - Keep all client settings, brand guidelines, and content strategies neatly organised to improve your efficiency.

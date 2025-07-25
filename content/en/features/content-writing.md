@@ -19,7 +19,7 @@ features:
   footer:
     - Stop letting content creation hold you back and start maximising your productivity 
 - title: "Publish Consistently and Stay Top-of-Mind"
-  image: "/images/create-schedule.png"  
+  image: "/images/schedule.png"  
   image_alt: "Create schedule"  
   description:
     - Maintaining a consistent publishing schedule is key to engaging your audience and building brand loyalty. 

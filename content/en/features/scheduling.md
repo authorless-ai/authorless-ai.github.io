@@ -4,8 +4,8 @@ heroDescription: Take control of your content calendar with Authorless's intuiti
 
 features:
 - title: "Effortless Scheduling: Plan Your Content with Ease"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1" 
+  image: "/images/schedule.png"  
+  image_alt: "Schedule" 
   description:
     - Tired of last-minute content scrambles? Authorless's scheduling tools empower you to plan and schedule your blog posts and social media updates in advance.
     - Visualise your content calendar, schedule posts across multiple platforms, and ensure a consistent online presence, all from one centralised location.
