@@ -51,9 +51,9 @@
 {{ end }}
 
 <section class="{{ if $isEven }}bg-slate-50 dark:bg-gray-900 border-y border-slate-200{{ else }}bg-white dark:bg-gray-900{{ end }}">
-    <div class="py-8 px-4 mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
+    <div class="mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
         <div class="gap-8 items-center md:grid md:grid-cols-2 xl:gap-16">
-            <div class="text-gray-500 sm:text-lg dark:text-gray-400 order-first {{ if $isEven }}md:order-2{{ else }}md:order-1{{ end }}">
+            <div class="py-8 px-4 text-gray-500 sm:text-lg dark:text-gray-400 order-first {{ if $isEven }}md:order-2{{ else }}md:order-1{{ end }}">
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ $feature.title }}</h2>
                 {{ with $feature.description }}
                     {{ range . }}
@@ -84,10 +84,10 @@
             </div>
 
             {{ if $imageSrc }}
-                <div class="relative overflow-hidden order-last mt-6 md:mt-0 {{ if $isEven }}md:order-1{{ else }}md:order-2{{ end }} rounded-xl {{ cond $isEven "md:rounded-e-xl" "md:rounded-s-xl" }}">
+                <div class="relative overflow-hidden order-last mb-6 sm:mx-4 md:mt-0 {{ if $isEven }}md:order-1{{ else }}md:order-2{{ end }} rounded-xl {{ cond $isEven "md:rounded-e-xl" "md:rounded-s-xl" }}">
                     <img class="absolute inset-0 w-full h-full object-none object-top-{{ cond $isEven "right" "left" }}" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
-                    <div class="relative z-10 sm:p-4 md:p-8 lg:p-12">
-                      <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
+                    <div class="relative z-10 sm:p-4 md:p-8">
+                      <div class="sm:backdrop-blur-[54px] bg-white/54 rounded-xl sm:shadow-xl p-4">
                         <img class="flex rounded-lg w-full"
                            src="{{ $imageSrc }}" alt="{{ with $feature.image_alt }}{{ . }}{{ else }}Feature Image{{ end }}">
                       </div>
