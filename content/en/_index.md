@@ -90,8 +90,8 @@ featureCards:
 
 features:
 - title: "Your AI Marketing Superpower"
-  image: "/images/persona.png"  
-  image_alt: "Persona view" 
+  image: "/images/campaign-options.png"  
+  image_alt: "Campaign options" 
   description:
     - No marketing experience or time? Authorless handles the heavy lifting. Say goodbye to endless blog edits and social media headaches.
   points:
