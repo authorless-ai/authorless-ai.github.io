@@ -19,8 +19,8 @@ features:
   footer:
     - Publish faster, reach further. Authorless makes content distribution easy.
 - title: "Integrated Platforms: Connect Your World"
-  image: "/images/feature-office-2.jpg"  
-  image_alt: "Office Feature Image 2"
+  image: "/images/social-icons.png"  
+  image_alt: "Social icons"
   description:
     - Reach a wider audience and build your brand across multiple channels with ease.
   points:
