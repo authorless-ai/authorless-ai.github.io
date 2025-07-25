@@ -19,8 +19,8 @@ features:
   footer:
     - Simplify your agency operations. Manage multiple clients without the complexity using Authorless.
 - title: "Scalable Solutions to Grow Your Agency"
-  image: "/images/feature-office-2.jpg"  
-  image_alt: "Office Feature Image 2"  
+  image: "/images/approve.png"  
+  image_alt: "Quality control"  
   description:
     - Managing content for a growing client base becomes increasingly challenging. Authorless scales effortlessly with your business, supporting multiple client projects.
     - Maintain quality across all client accounts with customisable brand guidelines and content parameters for each project in Authorless.
