@@ -1,6 +1,10 @@
-{{ $carouselImages := resources.Match "images/carousel/*" }}
-{{ $sortedImages := sort $carouselImages "RelPermalink" }}
-{{/* Sorts images by their relative permalink */}}
+{{/* The context '.' is now the carouselImages array itself */}}
+{{ $carouselImages := . }}
+
+{{ if not $carouselImages }}
+  {{ warnf "No 'carouselImages' data passed to carousel partial. Please ensure .Params.carouselImages is defined and not empty." }}
+  {{ return }}
+{{ end }}
 
 <!-- Outer container for the background gradient image, acting as a section wrapper -->
 <div class="relative">
@@ -12,15 +16,41 @@
     <!-- The frame wrapper with blur, background, border-radius, and shadow -->
     <div class="relative p-4 backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl">
 
-      <!-- Glide.js Carousel Wrapper (no specific Tailwind classes needed here for core functionality, as Glide manages visibility) -->
+      <!-- Glide.js Carousel Wrapper -->
       <div class="glide">
         <!-- Carousel Track (slides go inside this) -->
         <div class="glide__track overflow-hidden rounded-xl" data-glide-el="track">
           <ul class="glide__slides">
-            {{ range $index, $image := $sortedImages }}
+            {{ range $index, $imageEntry := $carouselImages }}
+            {{/* Get the large image resource first - this is mandatory */}}
+            {{ $largeImageResource := resources.Get $imageEntry.large }}
+
+            {{ if not $largeImageResource }}
+              {{ errorf "CRITICAL: Large carousel image resource missing for index %d: '%s'. This slide will be skipped." $index $imageEntry.large }}
+              {{ continue }} {{/* Skip to the next item in the loop */}}
+            {{ end }}
+
+            {{/* Try to get the small image resource; it's optional */}}
+            {{ $smallImageResource := resources.Get $imageEntry.small }}
+
+            {{/* Build the srcset string based on whether small image exists */}}
+            {{ $srcset := printf "%s %dw" $largeImageResource.RelPermalink $largeImageResource.Width }}
+            {{ if $smallImageResource }}
+              {{ $srcset = printf "%s %dw, %s" $smallImageResource.RelPermalink $smallImageResource.Width $srcset }}
+            {{ else }}
+              {{ warnf "Optional small carousel image resource missing for index %d: '%s'. Large image will be used for all sizes." $index $imageEntry.small }}
+            {{ end }}
+
             <!-- Each slide item -->
             <li class="glide__slide">
-                <img src="{{ $image.RelPermalink }}" class="block w-full object-contain" alt="Carousel image {{ add $index 1 }}">
+                <img
+                    src="{{ $largeImageResource.RelPermalink }}"
+                    srcset="{{ $srcset }}"
+                    sizes="(max-width: 767px) 100vw, {{ $largeImageResource.Width }}px"
+                    loading="lazy"
+                    class="block w-full object-contain"
+                    alt="{{ $imageEntry.alt | default (printf "Carousel image %d" (add $index 1)) }}"
+                >
             </li>
             {{ end }}
           </ul>
@@ -31,14 +61,26 @@
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    new Glide('.glide', {
-      type: 'carousel', // 'carousel' for infinite looping
-      autoplay: 3000,   // Autoplay every 3 seconds (3000 milliseconds)
-      hoverpause: true, // Pause autoplay when hovering over the carousel
-      perView: 1,       // Show one slide at a time
-      animationDuration: 1500, // Duration of the slide transition in milliseconds
-      gap: 0,           // No gap between slides
-    }).mount();
+  document.addEventListener('DOMContentLoaded', function () {
+    const smBreakpoint = 640; // Tailwind's default 'sm' breakpoint
+    const mediaQuery = `(min-width: ${smBreakpoint}px)`;
+
+    // Check once on load
+    if (window.matchMedia(mediaQuery).matches) {
+      // Screen is wider than smBreakpoint, so initialize Glide
+      new Glide('.glide', {
+        type: 'carousel', // 'carousel' for infinite looping
+        autoplay: 3000,   // Autoplay every 3 seconds (3000 milliseconds)
+        hoverpause: true, // Pause autoplay when hovering over the carousel
+        perView: 1,       // Show one slide at a time
+        animationDuration: 1500, // Duration of the slide transition in milliseconds
+        gap: 0,           // No gap between slides
+      }).mount();
+      console.log("Glide.js initialized for large screens (initial load).");
+    } else {
+      console.log("Glide.js not initialized for small screens (initial load).");
+    }
+    // IMPORTANT: No event listener for 'change' here.
+    // This means Glide will NOT react to window resizes after initial load.
   });
 </script>

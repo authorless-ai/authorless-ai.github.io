@@ -15,6 +15,23 @@ introFeatures:
     description: Create with purpose. Authorless writes for your <b>audience's interests and buying journey</b>. Boost results
     url: "/features/marketing-strategy/"
     
+carouselImages:
+  - small: "images/carousel/1-mega-create-sm.png"
+    large: "images/carousel/1-mega-create.png"
+    alt: "Mega Create interface"
+  - small: "images/carousel/2-wizard-sm.png"
+    large: "images/carousel/2-wizard.png"
+    alt: "Wizard setup process"
+  - small: "images/carousel/3-select-sm.png"
+    large: "images/carousel/3-select.png"
+    alt: "Select options screen"
+  - small: "images/carousel/4-plan-sm.png"
+    large: "images/carousel/4-plan.png"
+    alt: "Plan configuration page"
+  - small: "images/carousel/5-list-sm.png"
+    large: "images/carousel/5-list.png"
+    alt: "List view of items"
+
 solutionsCards:
   title: AI Content Marketing for Your Industry
   description: Discover how Authorless can transform your business' marketing, whatever you're working on. Regain valuable time, get organised and get ahead
