@@ -1,5 +1,5 @@
 {{ $contact := .GetPage "contact" }}
-<footer class="py-2 bg-gray-50 dark:bg-gray-800 border-t border-slate-200">
+<footer class="py-2 bg-gray-50 dark:bg-gray-800 border-t border-slate-200" data-aos="fade-up">
   {{ if .Params.hideNav }}
         <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. All Rights Reserved.</span>
   {{ else }}

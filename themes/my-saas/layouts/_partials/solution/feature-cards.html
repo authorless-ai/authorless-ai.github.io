@@ -12,10 +12,10 @@
         <div class="grid items-center grid-cols-1 gap-12 xl:grid-cols-3 lg:gap-16">
             <!-- First Column: Text content, now on top of the section-level blob -->
             <div class="space-y-4 text-center lg:text-left py-8">
-                <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 xl:text-white sm:text-4xl">
+                <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 xl:text-white sm:text-4xl" data-aos="fade-right">
                     {{ $title }}
                 </h2>
-                <p class="text-gray-900 xl:text-white sm:text-xl mt-4">
+                <p class="text-gray-900 xl:text-white sm:text-xl mt-4" data-aos="fade-right" data-aos-delay="100">
                     {{ $description }}
                 </p>
             </div>
@@ -23,7 +23,7 @@
             <!-- Remaining two columns for feature cards -->
             <div class="grid grid-cols-1 gap-x-8 gap-y-2 xl:col-span-2 sm:grid-cols-2">
                 {{ range $index, $card := $featureCards }}
-                <div class="hover:bg-gray-50 hover:shadow-lg my-4 p-6 rounded rounded-xl cursor-pointer">
+                <div class="hover:bg-gray-50 hover:shadow-lg my-4 p-6 rounded rounded-xl cursor-pointer" data-aos="fade-right" data-aos-delay="{{ mul $index 100 }}">
                   <a href="{{ $card.url }}">
                     <div class="flex items-center justify-center w-12 h-12 rounded-lg bg-primary-100 dark:bg-primary-900">
                         {{ partial "components/icons.html" (dict "icon" $card.icon "class" "w-8 h-8 text-primary-700 dark:text-primary-400") }}
