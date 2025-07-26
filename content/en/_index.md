@@ -6,7 +6,7 @@ youtubeUrl: https://www.youtube.com/embed/oh7H442YqnY
 
 introFeatures:
   - title: Create 70+ Types of Content
-    description: Other tools generate single posts. Authorless writes <b>over 70 types of content</b>. Boost search rankings
+    description: Other tools generate single posts. Authorless writes over 70 types of content. Boost search rankings
     url: "/features/content-writing/"
   - title: Schedule & Publish Direct
     description: Stop copying and pasting. <b>Authorless publishes direct</b> to your website and social media. Boost engagement
