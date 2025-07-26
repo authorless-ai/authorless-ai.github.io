@@ -26,3 +26,9 @@
 
 </article>
 {{ end }}
+
+{{ define "scripts" }}
+  {{ $js := resources.Get "js/scroll-reveal.js" }}
+  {{ $js = $js | fingerprint }}
+  <script src="{{ $js.RelPermalink }}"></script>
+{{ end }}

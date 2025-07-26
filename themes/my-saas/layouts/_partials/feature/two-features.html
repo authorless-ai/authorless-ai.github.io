@@ -5,24 +5,23 @@
 
 {{ $featureSubset := slice }}
 {{ range $i, $feature := $features }}
-    {{ if and (ge $i $start) (lt $i $end) }} {{/* Corrected this line */}}
+    {{ if and (ge $i $start) (lt $i $end) }}
         {{ $featureSubset = $featureSubset | append $feature }}
     {{ end }}
 {{ end }}
 
 {{ define "feature_list" }}
-    {{ $listItems := .listItems }}
-    {{ $isEven := .isEven }}
+    {{ $listItems := . }}
     <ul role="list" class="my-7 space-y-5">
-        {{ range $idx, $item := $listItems }}
-            <li class="flex space-x-3" data-aos="{{ if $isEven }}fade-left{{ else }}fade-right{{ end }}" data-aos-delay="{{ mul $idx 100 }}">
+        {{ range $listItems }}
+            <li class="flex space-x-3">
                 <svg class="flex-shrink-0 w-5 h-5 mt-1.5 text-primary-600 dark:text-primary-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
                 <div>
                     <span class="text-base font-medium leading-tight text-gray-700 dark:text-white">{{ .title }}</span> –
                     <span class="text-base font-light leading-tight text-gray-600 dark:text-white">{{ .description }}</span>
 
 					{{ with .items }}
-						{{ template "feature_list" (dict "listItems" . "isEven" $isEven) }}
+						{{ template "feature_list" . }}
 					{{ end }}
                 </div>
             </li>
@@ -55,23 +54,23 @@
     <div class="mx-auto space-y-12 max-w-screen-xl lg:space-y-20 sm:py-16 lg:px-6">
         <div class="gap-8 items-center md:grid md:grid-cols-2 xl:gap-16">
             <div class="py-8 px-4 text-gray-500 sm:text-lg dark:text-gray-400 order-first {{ if $isEven }}md:order-2{{ else }}md:order-1{{ end }}">
-                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white" {{ if $isEven }}data-aos="fade-left"{{ else }}data-aos="fade-right"{{ end }} data-aos-offset="100">{{ $feature.title }}</h2>
+                <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ $feature.title }}</h2>
                 {{ with $feature.description }}
                     {{ range . }}
-                        <p class="mb-8 font-light lg:text-xl" {{ if $isEven }}data-aos="fade-left"{{ else }}data-aos="fade-right"{{ end }} data-aos-offset="100">{{ . | safeHTML }}</p>
+                        <p class="mb-8 font-light lg:text-xl">{{ . | safeHTML }}</p>
                     {{ end }}
                 {{ end }}
                 {{ with $feature.points }}
-                    {{ template "feature_list" (dict "listItems" . "isEven" $isEven) }}
+                    {{ template "feature_list" . }}
                 {{ end }}
                 {{ with $feature.footer }}
                     {{ range . }}
-                        <p class="mb-8 font-normal lg:text-xl"  {{ if $isEven }}data-aos="fade-left"{{ else }}data-aos="fade-right"{{ end }} data-aos-offset="100">{{ . }}</p>
+                        <p class="mb-8 font-normal lg:text-xl">{{ . }}</p>
                     {{ end }}
                 {{ end }}
                 {{ if $isEven }}
                     <div class="flex justify-end">
-                        <a href="{{ site.Params.signupUrl }}" class="inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800" data-aos="fade-up">
+                        <a href="{{ site.Params.signupUrl }}" class="inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
                             Start free now
                             <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
                                  fill="currentColor">
@@ -85,7 +84,7 @@
             </div>
 
             {{ if $imageSrc }}
-                <div class="relative overflow-hidden order-last mb-6 sm:mx-4 md:mt-0 {{ if $isEven }}md:order-1{{ else }}md:order-2{{ end }} rounded-xl {{ cond $isEven "md:rounded-e-xl" "md:rounded-s-xl" }}" {{ if $isEven }}data-aos="fade-right"{{ else }}data-aos="fade-left"{{ end }} data-aos-delay="200">
+                <div class="relative overflow-hidden order-last mb-6 sm:mx-4 md:mt-0 {{ if $isEven }}md:order-1{{ else }}md:order-2{{ end }} rounded-xl {{ cond $isEven "md:rounded-e-xl" "md:rounded-s-xl" }}">
                     <img class="absolute inset-0 w-full h-full object-none object-top-{{ cond $isEven "right" "left" }}" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
                     <div class="relative z-10 sm:p-4 md:p-8">
                       <div class="sm:backdrop-blur-[54px] bg-white/54 rounded-xl sm:shadow-xl p-4">

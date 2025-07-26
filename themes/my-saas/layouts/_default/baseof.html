@@ -17,7 +17,6 @@
       <meta name="robots" content="noindex, nofollow">
     {{ end }}
 
-    <link href="https://unpkg.com/aos@3.0.0-beta.6/dist/aos.css" rel="stylesheet">
     {{ partial "styles.html" . }}
 
     {{ if .Params.canonicalUrl }}
@@ -36,7 +35,6 @@
     {{ end }}
 
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.7/dist/cdn.min.js"></script>
-    <script src="https://unpkg.com/aos@3.0.0-beta.6/dist/aos.js"></script>
 
     {{ block "styles" . }}{{ end }}
   </head>
@@ -56,15 +54,8 @@
     {{ $cookieJs := resources.Get "js/cookieconsent-config.js" }}
     {{ $cookieJs = $cookieJs | fingerprint }}
     <script src="{{ $cookieJs.RelPermalink }}" type="module"></script>
-    <script>
-      AOS.init({
-        // once: true,
-        offset: 200,
-        duration: 600,
-      });
-    </script>
 
-    {{ block "scripts" . }}{{ end }}
+  {{ block "scripts" . }}{{ end }}
 
   </body>
 </html>
