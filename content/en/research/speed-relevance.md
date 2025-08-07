@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The AI-Powered Demand Engine
 heroDescription: Stop the content bottleneck. Start generating qualified leads. You define the personas and campaign strategy, and our AI engine creates a stream of on-brand, on-target content to fuel your sales funnel.
 
@@ -12,13 +13,15 @@ features:
   - title: Scale Persona-Based Marketing, Instantly
     description: Define your Ideal Customer Profile once. Our platform generates endless variations of content—emails, ads, social posts—that speak directly to their pain points, boosting lead quality.
   - title: Amplify Your Team's Strategic Impact
-    description: Don't just make more content; make more of the *right* content. Our AI focuses on persona-relevance, so every asset works harder to create leads. Free your team from the content treadmill to focus on strategy.
+    description: Don't just make more content; make more of the <b>right</b> content. Our AI focuses on persona-relevance, so every asset works harder to create leads. Free your team from the content treadmill to focus on strategy.
   - title: Test New Verticals in Hours, Not Months
     description: Think you have a new market to target? Define the persona, and our platform will generate a complete starter campaign in minutes. Validate market fit before you commit serious budget.
   footer:
-    - Stop writing. Start growing.
+    - Generic content doesn't convert. Targeted content does.
 
 testimonials:
+  title: What Our Customers Are Saying
+  cards:  
   - title: We hit our MQL target for the first time
     quote: "We are a team of three, but CampaignAmp gives us the output of a team of ten. We set the strategy and the personas, and it delivers a steady stream of high-quality leads. The content bottleneck is officially gone."
     avatar: "https://i.pravatar.cc/150?u=maria_rodriguez"

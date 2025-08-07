@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Master Global Markets with Cultural Intelligence
 heroDescription: Don't just translate your message. Adapt it. Our AI-powered intelligence platform analyzes the cultural DNA of your target markets to ensure your campaigns resonate, persuade, and drive revenue—everywhere.
 
@@ -16,9 +17,11 @@ features:
   - title: Prove the ROI of Cultural Adaptation
     description: Use performance data to see exactly how adapted messages perform against your baseline in each market. Get the concrete analytics you need to justify your international spend and optimize future campaigns.
   footer:
-    - Win the nuance. Master your global markets.
+    - Your local guide to every market
 
 testimonials:
+  title: Our Customers Love Us
+  cards:
   - title: This is our competitive edge in Europe
     quote: "Entering the EU, we were getting killed by local competitors who understood the culture. Culture-IQ gives us that same level of nuance. It's the strategic intelligence layer that allows our global brand to have a local impact."
     avatar: "https://i.pravatar.cc/150?u=elena_petrova"
