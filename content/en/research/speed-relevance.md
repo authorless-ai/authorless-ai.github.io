@@ -1,37 +1,37 @@
 ---
-title: Your Persona-Driven Content Engine
-heroDescription: Set the strategy, and our platform handles the execution. Define your personas and our AI will suggest, write, and publish targeted content for you.
+title: The AI-Powered Demand Engine
+heroDescription: Stop the content bottleneck. Start generating qualified leads. You define the personas and campaign strategy, and our AI engine creates a stream of on-brand, on-target content to fuel your sales funnel.
 
 features:
-- title: "Your Campaign Engine for Demand Generation"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "A user defining a campaign, with the AI suggesting content to fill it." 
+- title: "Turn Content into Sales Opportunities, Faster"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "A campaign calendar being automatically filled with AI-suggested content."
   description:
-    - Stop wasting budget on generic content that misses the mark. You provide the strategic focus by defining buyer personas; our platform ensures every asset it creates speaks directly to that customer's needs.
+    - Connect your strategy to our AI engine and watch your content calendar fill up. We help you scale your output to generate a steady stream of qualified leads.
   points:
-  - title: Stop Wasting Budget on Generic Content
-    description: Define your ideal customer once. Our platform then generates content that speaks their language, resulting in higher-quality leads and better conversion rates.
-  - title: Increase Relevance, Not Just Volume
-    description: Other AI tools create more content, faster. Our persona-driven approach creates the <b>right</b> content. Increase the ROI of every asset by ensuring it's precisely targeted.
-  - title: Enter New Markets with Confidence
-    description: Instantly test a campaign for a new vertical. Our platform generates a suite of targeted content in minutes, allowing you to validate new markets before making major investments.
+  - title: Scale Persona-Based Marketing, Instantly
+    description: Define your Ideal Customer Profile once. Our platform generates endless variations of content—emails, ads, social posts—that speak directly to their pain points, boosting lead quality.
+  - title: Amplify Your Team's Strategic Impact
+    description: Don't just make more content; make more of the *right* content. Our AI focuses on persona-relevance, so every asset works harder to create leads. Free your team from the content treadmill to focus on strategy.
+  - title: Test New Verticals in Hours, Not Months
+    description: Think you have a new market to target? Define the persona, and our platform will generate a complete starter campaign in minutes. Validate market fit before you commit serious budget.
   footer:
-    - The AI-powered way to build a scalable, high-speed demand generation engine.
+    - Stop writing. Start growing.
 
 testimonials:
-  - title: It lets my team focus on strategy
-    quote: "My team creates the campaign strategy and defines the personas. The platform does the heavy lifting of content creation. It's the perfect partnership. Our lead quality has skyrocketed."
-    avatar: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png"
-    name: "Lana Byrd"
+  - title: We hit our MQL target for the first time
+    quote: "We are a team of three, but CampaignAmp gives us the output of a team of ten. We set the strategy and the personas, and it delivers a steady stream of high-quality leads. The content bottleneck is officially gone."
+    avatar: "https://i.pravatar.cc/150?u=maria_rodriguez"
+    name: "Maria Rodriguez"
     role: "VP of Demand Generation"
-  - title: We are moving so much faster now
-    quote: "We lay out our quarterly campaign goals, and the engine starts filling the calendar with suggested content. It's completely changed our velocity and ability to execute."
-    avatar: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
-    name: "Bonnie Green"
-    role: "Chief Revenue Officer"
-  - title: It's like having an infinitely scalable writer
-    quote: "We wanted to test a new vertical. We created the persona and a campaign shell, and within an hour, we had a dozen on-point content ideas written and ready to review."
-    avatar: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/robert-brown.png"
-    name: "Jese Leos"
-    role: "CEO"
+  - title: It's a machine for creating sales opportunities
+    quote: "My job is to ensure our sales team has enough opportunities. CampaignAmp is the engine that creates them. It lets us test more ideas, launch more campaigns, and generate more shots on goal than I ever thought possible."
+    avatar: "https://i.pravatar.cc/150?u=kevin_omalley"
+    name: "Kevin O'Malley"
+    role: "Chief Marketing Officer"
+  - title: "The speed of testing is unreal"
+    quote: "Last week, we had an idea for a new micro-campaign targeting FinTech CROs. Using CampaignAmp, I spun up three new landing pages and five email variations in under an hour. That used to be a two-week project. The agility is a complete game-changer."
+    avatar: "https://i.pravatar.cc/150?u=chloe_kim"
+    name: "Chloe Kim"
+    role: "Senior Growth Manager"
 ---

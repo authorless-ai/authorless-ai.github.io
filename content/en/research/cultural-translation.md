@@ -1,37 +1,37 @@
 ---
-title: Your Engine for Global Revenue
-heroDescription: Culturally adapt your content with insights from academic research. Go beyond simple translation to create messages that are persuasive in any market.
+title: Master Global Markets with Cultural Intelligence
+heroDescription: Don't just translate your message. Adapt it. Our AI-powered intelligence platform analyzes the cultural DNA of your target markets to ensure your campaigns resonate, persuade, and drive revenue—everywhere.
 
 features:
-- title: "Your Engine for Global Expansion"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "A marketing message being adapted with different cultural flags." 
+- title: "The Strategic Advantage for Global Growth"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "A world map with cultural data points highlighting different regions."
   description:
-    - Empower your central team to create globally effective content. Our platform handles the complex work of cultural adaptation so you can expand faster, with less risk and a higher ROI.
+    - Our intelligence layer provides the cultural insight you need to succeed internationally. We empower you to direct a global strategy with local impact.
   points:
-  - title: Empower One Team to Win Globally
-    description: Stop hiring expensive local agencies. Your central team creates the strategy; our platform handles the cultural adaptation, saving you time and money.
-  - title: Increase International Marketing ROI
-    description: Stop running the same ads everywhere. Our platform tailors your core message to each market's values, ensuring your marketing budget is spent effectively, not wasted.
-  - title: Get Actionable Global Analytics
-    description: See which culturally-adapted messages perform best in Germany versus Brazil. Use data to optimize your global funnel and prove ROI on your international spend.
+  - title: Establish Global Brand Control
+    description: Empower your central team to execute global campaigns while maintaining brand consistency. Reduce dependency on costly local agencies and ensure your core message is never lost in translation.
+  - title: Increase Cross-Border Conversion Rates
+    description: Stop wasting budget on generic messaging. Our platform goes beyond simple translation and adapts your core creative to align with local values. Increase resonance and convert more international prospects.
+  - title: Prove the ROI of Cultural Adaptation
+    description: Use performance data to see exactly how adapted messages perform against your baseline in each market. Get the concrete analytics you need to justify your international spend and optimize future campaigns.
   footer:
-    - Speak to every market like a local. De-risk your global expansion and accelerate international growth.
+    - Win the nuance. Master your global markets.
 
 testimonials:
-  - title: Our US team now runs our EU playbook
-    quote: "We don't have a marketing team in Europe. Our team in Austin creates the campaigns, and the platform adapts them for the UK and German markets. The results are better than when we used local contractors."
-    avatar: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
-    name: "Bonnie Green"
-    role: "CRO"
-  - title: It's more than just translation
-    quote: "We used to just translate our ads, and they always fell flat. This is different. It understands cultural nuance. It's like having a local marketing expert for every country we enter, but without the headcount."
-    avatar: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png"
-    name: "Lana Byrd"
-    role: "Head of International Marketing"
-  - title: We're no longer guessing with our budget
-    quote: "The analytics are a game-changer. We saw that a message emphasizing 'efficiency' worked in Germany, while 'innovation' worked in the UK. We can finally allocate our budget with confidence."
-    avatar: "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/robert-brown.png"
-    name: "Jese Leos"
-    role: "CEO"
+  - title: This is our competitive edge in Europe
+    quote: "Entering the EU, we were getting killed by local competitors who understood the culture. Culture-IQ gives us that same level of nuance. It's the strategic intelligence layer that allows our global brand to have a local impact."
+    avatar: "https://i.pravatar.cc/150?u=elena_petrova"
+    name: "Elena Petrova"
+    role: "SVP, Global Brand Strategy"
+  - title: We de-risked our Asia-Pacific expansion
+    quote: "We used Culture-IQ to test three different messaging strategies for our launch in Japan and South Korea. The data showed us which cultural values to emphasize, which saved us millions in ad spend and got us to product-market fit six months ahead of schedule."
+    avatar: "https://i.pravatar.cc/150?u=marcus_thorne"
+    name: "Marcus Thorne"
+    role: "General Manager, APAC"
+  - title: "We make smarter global investments now"
+    quote: "Before, our international budget was a black box. Now, I can see exactly which cultural adaptations are driving growth and why. We allocate capital with confidence. It has transformed how we approach global expansion."
+    avatar: "https://i.pravatar.cc/150?u=aisha_khan"
+    name: "Aisha Khan"
+    role: "Chief Executive Officer"
 ---
