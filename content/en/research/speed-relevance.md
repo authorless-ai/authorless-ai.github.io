@@ -13,10 +13,10 @@ features:
     points:
       - title: Target Pain Points with Surgical Precision
         description: Map your prospects' emotional triggers, decision-making patterns, and behavioral preferences. Our AI creates messages that speak directly to their specific motivations—not generic industry pain points that everyone ignores.
+      - title: Track Which Customer Traits Actually Drive Revenue
+        description: See exactly which psychological triggers, behavioral patterns, and demographic factors convert best. Our platform traces every conversion back to the specific persona traits that influenced the content, so you can double down on what works and eliminate what doesn't.        
       - title: Scale High-Converting Content Across All Channels
         description: One precision profile generates hundreds of content variations. Schedule and auto-publish targeted emails, ads, social posts, and landing pages that maintain message consistency while speaking to each segment's unique psychology.
-      - title: Execute Expert-Level Campaigns with Any Team
-        description: Stop hiring expensive senior marketers for every campaign. Our precision targeting framework guides junior team members through complex persona development and campaign execution, delivering senior-level results without senior-level salaries.
     footer:
       - Precision beats volume. Every time.
 
