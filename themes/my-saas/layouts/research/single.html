@@ -6,8 +6,6 @@
 
   {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
-  {{/* partial "index/features-3-cols-icons.html" . */}}
-
   <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
         <div class="mx-auto max-w-screen-md text-center">
@@ -36,5 +34,5 @@
 {{ end }}
 
 {{ define "site-footer" }}
-  <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. All Rights Reserved.</span>
+  &nbsp;
 {{ end }}
