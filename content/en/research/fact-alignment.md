@@ -2,7 +2,7 @@
 draft: true
 skin: pastel-pop
 title: The Single Source of Truth for Your Revenue Pipeline
-heroDescription: Stop letting inconsistent messaging between Marketing, Sales, and Customer Services kill deals. Our platform aligns your entire funnel by linking all content to a single source of truth. Update a fact once, and it's instantly corrected everywhere.
+heroDescription: Inconsistent messaging kills deals. Our platform lets you update a fact once and see it corrected everywhere, ensuring consistency across the entire customer journey.
 
 features:
   - title: "Align Your Entire Customer Lifecycle"
@@ -10,14 +10,13 @@ features:
     image_alt: "A diagram showing a central fact updating assets for Marketing, Sales, and Customer Success."
     description:
       - Our platform links all revenue content—from marketing campaigns to sales proposals to support docs—to a central Fact Library.
-      - Use a single point of control to align messaging from the first touch to the final renewal.
     points:
-      - title: Consistent Truth Across the Entire Customer Journey
-        description: Update any fact once and it instantly reflects everywhere—marketing campaigns, sales decks, support docs. No more credibility-killing contradictions between what marketing promises, sales commitments, and support delivery.        
+      - title: Instantly Correct and Republish Native Content
+        description: Update a fact in your library, and every asset built on our platform—from marketing emails to sales proposals—is instantly rewritten for your approval.
+      - title: Automatically Flag Stale External Content
+        description: We integrate with your CRM, CMS, and knowledge bases. When a fact changes, we automatically flag every external document that contains the outdated information.
       - title: Deploy Strategic Changes in Minutes, Not Weeks
-        description: Instantly align every team when a price, feature, or competitor talking point changes. Stop the cross-departmental fire drills and give your entire revenue organization the agility to respond to market shifts.
-      - title: Automatically Track and Flag Stale Content Across Your Entire Tech Stack
-        description: Our API integrations connect with your CRM, marketing automation, knowledge base, and content management systems. When a core fact changes, we automatically identify and flag every piece of content that needs updating—whether it's in Salesforce, HubSpot, Confluence, or any other tool in your revenue stack.        
+        description: Instantly align every team when a price or feature changes. Stop the cross-departmental fire drills and give your entire revenue organization the agility to respond to market shifts.
     footer:
       - Align your entire revenue engine—Marketing, Sales, and Customer Success—to accelerate growth.
 

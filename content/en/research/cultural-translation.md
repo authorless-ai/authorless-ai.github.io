@@ -5,21 +5,18 @@ title: Master Global Markets with Cultural Intelligence
 heroDescription: Don't just translate your message. Adapt it. Our AI-powered intelligence platform analyzes the cultural DNA of your target markets to ensure your campaigns resonate, persuade, and drive revenue—everywhere.
 
 features:
-  - title: "The Strategic Advantage for Global Growth"
+  - title: "Power Global Growth with Cultural Adaptation"
     image: "/images/feature-office-1.jpg"
     image_alt: "A world map with cultural data points highlighting different regions."
     description:
-      - Our intelligence layer provides the cultural insight you need to succeed internationally.
       - Backed by academic research, we automatically adapt messages, empowering you to direct a global strategy with local impact.
     points:
-      - title: Establish Global Brand Control
-        description: Empower your central team to execute global campaigns while maintaining brand consistency. Reduce dependency on costly local agencies and ensure your core message is never lost in translation.
-      - title: Increase Cross-Border Conversion Rates
-        description: Stop wasting budget on generic messaging. Our platform goes beyond simple translation and adapts your core creative to align with local values. Increase resonance and convert more international prospects.
-      - title: Prove the ROI of Cultural Adaptation
-        description: Use built-in analytics to track performance across all channels. Get the concrete analytics you need to justify your international spend and optimize future campaigns.
-    footer:
-      - Master the local message. Win the global market.
+      - title: Centralize Control, Cut Local Costs
+        description: Run your entire global strategy from a single platform. Maintain brand consistency while eliminating the time, cost, and complexity of managing local agencies. 
+      - title: Increase Cross-Border Conversions
+        description: Stop wasting budget on generic messaging. Our platform goes beyond simple translation and adapts your core creative to align with local values. 
+      - title: Prove the ROI with Analytics
+        description: Our dashboard shows you exactly what's driving revenue and why. Justify your international budget with concrete data and make smarter investment decisions.
 
 testimonials:
   title: Our Customers Love Us

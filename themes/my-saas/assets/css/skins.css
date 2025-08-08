@@ -222,3 +222,6 @@
 [data-skin="pastel-pop"] a.text-gray-800 { color: var(--color-gray-700) !important; }
 [data-skin="pastel-pop"] [class*="border-"] { border-color: var(--color-gray-600) !important; }
 [data-skin="pastel-pop"] .hover\:bg-gray-50:hover, [data-skin="pastel-pop"] .hover\:bg-gray-100:hover { background-color: #f7e5e9 !important; }
+[data-skin="pastel-pop"] img[src="/images/bg-swirl.png"] {
+  display: none;
+}

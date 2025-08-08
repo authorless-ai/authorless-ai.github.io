@@ -1,22 +1,21 @@
 ---
 draft: true
-title: Your Competitive Edge Engine
-heroDescription: Stop guessing and start winning. Our AI delivers the customer intelligence you need to dominate your market. We pinpoint high-value prospects using psychographics, behaviors, and demographics to create hard-hitting content that turns targets into revenue.
+title: Convert Your Market with Precision-Driven Revenue
+heroDescription: Stop guessing and start winning. Our AI delivers the customer intelligence you need to dominate your market. We pinpoint high-value prospects using psychographics, behaviors, and demographics to create standout content that turns targets into revenue.
 
 features:
-  - title: "Win Your Target Market with Precision-Driven Revenue"
+  - title: Your Competitive Edge Engine
     image: "/images/persona.png"
     image_alt: "A dashboard showing detailed persona profiles with behavioral triggers and content performance metrics."
     description:
-      - Ditch the generic 'buyer personas'. It's time to deploy a precision-targeting framework that crushes conversion goals.
-      - Our AI decodes your customers' psychological drivers, buying patterns, and key demographics to engineer content that delivers results.
+      - Go from generic campaigns to precision-targeted revenue.
     points:
-      - title: Gain a Decisive Competitive Advantage
-        description: Go beyond surface-level pain points. Our AI maps your prospects’ true motivations and decision-making triggers, allowing you to create messages that are impossible to ignore and leave your competition behind.
-      - title: Tie Every Marketing Action to Bottom-Line Results
-        description: See exactly which customer attributes and psychological triggers are making you money. Our platform provides a clear line of sight from content to conversion, proving your ROI and showing you exactly where to double down for maximum impact.
+      - title: Target Core Motivations
+        description: Pinpoint the exact psychological drivers of your prospects to create messaging so resonant, it leaves your competition behind.
       - title: Automate and Scale Your Winning Content
-        description: A single winning profile can generate hundreds of optimized content variations. Automatically schedule and publish targeted emails, ads, social posts, and landing pages that hit the mark every time, freeing you to focus on strategy.
+        description: A single winning profile can generate hundreds of optimized content variations. Automatically schedule and publish targeted emails, ads, social posts, and landing pages that hit the mark every time, freeing you to focus on strategy.        
+      - title: Tie Every Marketing Action to Bottom-Line Results
+        description: See exactly which customer attributes and psychological triggers are driving revenue. Our platform provides a clear line of sight from content to conversion, proving your ROI.
     footer:
       - Precision beats volume. Every time.
 
