@@ -1,40 +1,40 @@
 ---
 draft: true
-title: Your Customer Demand Engine
-heroDescription: Stop the content bottleneck. Start generating qualified leads. You define the personas and campaign strategy, and our AI engine creates a stream of on-brand, on-target content to fuel your sales funnel.
+title: Your Precision Targeting Engine
+heroDescription: Stop spraying content everywhere. Start hitting bullseyes. Our AI uses deep customer intelligence—psychographics, behaviors, and demographics—to create laser-focused content that converts prospects into pipeline.
 
 features:
-  - title: "Turn Content into Sales Opportunities, Faster"
-    image: "/images/feature-office-1.jpg"
-    image_alt: "A campaign calendar being automatically filled with AI-suggested content."
+  - title: "Precision Targeting Drives Pipeline Growth"
+    image: "/images/persona.png"
+    image_alt: "A dashboard showing detailed persona profiles with behavioral triggers and content performance metrics."
     description:
-      - Connect your strategy to our AI engine and watch your content calendar fill up with <b>targeted</b> content.
-      - We help you scale your output to generate a steady stream of qualified leads.
+      - Move beyond generic "buyer personas" to precision-targeting frameworks that drive real conversions.
+      - Our AI analyzes your customers' psychological drivers, behavioral patterns, and demographic markers to create content that hits every time.
     points:
-      - title: Scale Persona-Based Marketing, Instantly
-        description: Define your Ideal Customer Profile once. Our platform generates endless variations of content—emails, ads, social posts—that speak directly to their pain points, boosting lead quality.
-      - title: Eliminate Manual Publishing Bottlenecks
-        description: Schedule and auto-publish across your channels. Supercharge your team to manage more campaigns, test more ideas, and drive more pipeline without drowning in execution.
-      - title: Test New Verticals in Hours, Not Months
-        description: Think you have a new market to target? Define the persona, and our platform will generate a complete starter campaign in minutes. Validate market fit before you commit serious budget.
+      - title: Target Pain Points with Surgical Precision
+        description: Map your prospects' emotional triggers, decision-making patterns, and behavioral preferences. Our AI creates messages that speak directly to their specific motivations—not generic industry pain points that everyone ignores.
+      - title: Scale High-Converting Content Across All Channels
+        description: One precision profile generates hundreds of content variations. Schedule and auto-publish targeted emails, ads, social posts, and landing pages that maintain message consistency while speaking to each segment's unique psychology.
+      - title: Execute Expert-Level Campaigns with Any Team
+        description: Stop hiring expensive senior marketers for every campaign. Our precision targeting framework guides junior team members through complex persona development and campaign execution, delivering senior-level results without senior-level salaries.
     footer:
-      - Generic content doesn't convert. Targeted content does.
+      - Precision beats volume. Every time.
 
 testimonials:
   title: What Our Customers Are Saying
   cards:
-    - title: We hit our MQL target for the first time
-      quote: "We are a team of three, but CampaignAmp gives us the output of a team of ten. We set the strategy and the personas, and it delivers a steady stream of high-quality leads. The content bottleneck is officially gone."
+    - title: Our conversion rates doubled overnight
+      quote: "We went from broad 'marketing manager' personas to precision profiles that included decision-making styles and risk tolerance. The difference in our email open rates and demo requests was immediate. It's like we finally started speaking their language."
       avatar: "https://i.pravatar.cc/150?u=maria_rodriguez"
       name: "Maria Rodriguez"
       role: "VP of Demand Generation"
-    - title: It's a machine for creating sales opportunities
-      quote: "My job is to ensure our sales team has enough opportunities. CampaignAmp is the engine that creates them. It lets us test more ideas, launch more campaigns, and generate more shots on goal than I ever thought possible."
+    - title: We stopped wasting ad spend on the wrong people
+      quote: "Before, we were targeting everyone in our industry. Now we know exactly which behavioral triggers convert and which don't. Our cost-per-lead dropped 60% because we're only targeting prospects who actually fit our psychological profile."
       avatar: "https://i.pravatar.cc/150?u=kevin_omalley"
       name: "Kevin O'Malley"
       role: "Chief Marketing Officer"
-    - title: "The speed of testing is unreal"
-      quote: "Last week, we had an idea for a new micro-campaign targeting FinTech CROs. Using CampaignAmp, I spun up three new landing pages and five email variations in under an hour. That used to be a two-week project. The agility is a complete game-changer."
+    - title: "Finally, content that actually resonates"
+      quote: "I used to create one email for our entire database and hope for the best. Now I have five different versions targeting different personality types and risk profiles. Our click-through rates went from 2% to 8%. The precision is incredible."
       avatar: "https://i.pravatar.cc/150?u=chloe_kim"
       name: "Chloe Kim"
       role: "Senior Growth Manager"
