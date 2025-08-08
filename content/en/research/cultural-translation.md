@@ -8,7 +8,8 @@ features:
   image: "/images/feature-office-1.jpg"
   image_alt: "A world map with cultural data points highlighting different regions."
   description:
-    - Our intelligence layer provides the cultural insight you need to succeed internationally. We empower you to direct a global strategy with local impact.
+    - Our intelligence layer provides the cultural insight you need to succeed internationally. 
+    - Backed by academic research, we automatically adapt messages, empowering you to direct a global strategy with local impact.
   points:
   - title: Establish Global Brand Control
     description: Empower your central team to execute global campaigns while maintaining brand consistency. Reduce dependency on costly local agencies and ensure your core message is never lost in translation.
@@ -17,7 +18,7 @@ features:
   - title: Prove the ROI of Cultural Adaptation
     description: Use performance data to see exactly how adapted messages perform against your baseline in each market. Get the concrete analytics you need to justify your international spend and optimize future campaigns.
   footer:
-    - Your local guide to every market
+    - Master the local message. Win the global market.
 
 testimonials:
   title: Our Customers Love Us

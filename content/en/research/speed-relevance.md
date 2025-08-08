@@ -1,6 +1,6 @@
 ---
 draft: true
-title: The AI-Powered Demand Engine
+title: Your Customer Demand Engine
 heroDescription: Stop the content bottleneck. Start generating qualified leads. You define the personas and campaign strategy, and our AI engine creates a stream of on-brand, on-target content to fuel your sales funnel.
 
 features:
@@ -8,7 +8,8 @@ features:
   image: "/images/feature-office-1.jpg"
   image_alt: "A campaign calendar being automatically filled with AI-suggested content."
   description:
-    - Connect your strategy to our AI engine and watch your content calendar fill up. We help you scale your output to generate a steady stream of qualified leads.
+    - Connect your strategy to our AI engine and watch your content calendar fill up with <b>targeted</b> content.
+    - We help you scale your output to generate a steady stream of qualified leads.
   points:
   - title: Scale Persona-Based Marketing, Instantly
     description: Define your Ideal Customer Profile once. Our platform generates endless variations of content—emails, ads, social posts—that speak directly to their pain points, boosting lead quality.

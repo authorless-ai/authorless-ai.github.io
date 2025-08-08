@@ -1,6 +1,6 @@
 ---
 draft: true
-title: The Single Source of Truth for Your Revenue Engine
+title: The Single Source of Truth for Your Revenue Pipeline
 heroDescription: Stop letting inconsistent messaging between Marketing, Sales, and Customer Services kill deals. Our platform aligns your entire funnel by linking all content to a single source of truth. Update a fact once, and it's instantly corrected everywhere.
 
 features:
@@ -8,7 +8,8 @@ features:
   image: "/images/feature-office-1.jpg"
   image_alt: "A diagram showing a central fact updating assets for Marketing, Sales, and Customer Success."
   description:
-    - Our platform links all revenue content—from marketing campaigns to sales proposals to support docs—to a central Fact Library. This gives you a single point of control to align messaging from the first touch to the final renewal.
+    - Our platform links all revenue content—from marketing campaigns to sales proposals to support docs—to a central Fact Library. 
+    - Use a single point of control to align messaging from the first touch to the final renewal.
   points:
   - title: Align Marketing Messages with Sales Reality
     description: When Marketing updates a product fact or message, it's instantly reflected in every sales deck and proposal. Eliminate the credibility-killing moments when a salesperson is contradicted by the website.
