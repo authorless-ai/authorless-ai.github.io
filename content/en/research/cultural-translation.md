@@ -1,5 +1,6 @@
 ---
 draft: true
+skin: dark
 title: Master Global Markets with Cultural Intelligence
 heroDescription: Don't just translate your message. Adapt it. Our AI-powered intelligence platform analyzes the cultural DNA of your target markets to ensure your campaigns resonate, persuade, and drive revenue—everywhere.
 

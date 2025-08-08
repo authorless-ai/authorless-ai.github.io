@@ -11,7 +11,40 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: {"50":"#eff6ff","100":"#dbeafe","200":"#bfdbfe","300":"#93c5fd","400":"#60a5fa","500":"#3b82f6","600":"#2563eb","700":"#1d4ed8","800":"#1e40af","900":"#1e3a8a","950":"#172554"}
+        primary: {
+          50: 'var(--color-primary-50)',
+          100: 'var(--color-primary-100)',
+          200: 'var(--color-primary-200)',
+          300: 'var(--color-primary-300)',
+          400: 'var(--color-primary-400)',
+          500: 'var(--color-primary-500)',
+          600: 'var(--color-primary-600)',
+          700: 'var(--color-primary-700)', // This is the one you tested
+          800: 'var(--color-primary-800)',
+          900: 'var(--color-primary-900)',
+        },
+        gray: {
+          50: 'var(--color-gray-50)',
+          100: 'var(--color-gray-100)',
+          200: 'var(--color-gray-200)',
+          300: 'var(--color-gray-300)',
+          400: 'var(--color-gray-400)',
+          500: 'var(--color-gray-500)',
+          600: 'var(--color-gray-600)',
+          700: 'var(--color-gray-700)',
+          800: 'var(--color-gray-800)',
+          900: 'var(--color-gray-900)',
+        },
+        slate: {
+            50: 'var(--color-slate-50)',
+            100: 'var(--color-slate-100)',
+            200: 'var(--color-slate-200)',
+        },
+        'brand-secondary': 'var(--gradient-via)',
+        'brand-tertiary': 'var(--gradient-to)',
+        'hero-gradient-from': 'var(--hero-gradient-from)',
+        'hero-gradient-via': 'var(--hero-gradient-via)',
+        'hero-gradient-to': 'var(--hero-gradient-to)',
       }
     },
   },

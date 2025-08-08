@@ -1,5 +1,6 @@
 ---
 draft: true
+skin: pastel-pop
 title: The Single Source of Truth for Your Revenue Pipeline
 heroDescription: Stop letting inconsistent messaging between Marketing, Sales, and Customer Services kill deals. Our platform aligns your entire funnel by linking all content to a single source of truth. Update a fact once, and it's instantly corrected everywhere.
 

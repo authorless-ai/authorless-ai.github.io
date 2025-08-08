@@ -1,7 +1,7 @@
 # Run the Hugo dev server
 runserver:
     -rm -rf public/
-    hugo --config hugo.yaml,hugo.dev.yaml server -D --disableFastRender
+    hugo --config hugo.yaml,hugo.dev.yaml --gc --cleanDestinationDir server -D --disableFastRender
 
 # Build the site
 build:
