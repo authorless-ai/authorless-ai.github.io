@@ -98,6 +98,9 @@
 [data-skin="dark"] .dark\:focus\:ring-gray-800:focus { --tw-ring-color: var(--color-gray-800); }
 [data-skin="dark"] .dark\:focus\:ring-gray-600:focus { --tw-ring-color: var(--color-gray-600); }
 [data-skin="dark"] .dark\:focus\:ring-primary-800:focus { --tw-ring-color: var(--color-primary-800); }
+[data-skin="dark"] #hero .signup-button {
+  display: none;
+}
 
 /* --- FINAL: Indigo Glow Skin (Your Palette, Professional Text) --- */
 [data-skin="indigo-glow"] {
@@ -223,5 +226,8 @@
 [data-skin="pastel-pop"] [class*="border-"] { border-color: var(--color-gray-600) !important; }
 [data-skin="pastel-pop"] .hover\:bg-gray-50:hover, [data-skin="pastel-pop"] .hover\:bg-gray-100:hover { background-color: #f7e5e9 !important; }
 [data-skin="pastel-pop"] img[src="/images/bg-swirl.png"] {
+  display: none;
+}
+[data-skin="pastel-pop"] #hero .signup-button {
   display: none;
 }
