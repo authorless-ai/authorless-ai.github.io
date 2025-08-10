@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Turn Your Competitor's Content Into Your Next Campaign
+title: Instantly Decode Any Competitor's Playbook
 heroDescription: Stop guessing what works. Find a winning article, social post, or landing page from your competitor, and our AI will instantly reverse-engineer their strategy into a set of original content ideas you can use today.
 
 features:
@@ -8,10 +8,10 @@ features:
     image: "/images/competitor-response.png"
     image_alt: "An interface showing a user pasting a URL and getting a list of strategic content angles in response."
     description:
-      - Instantly decode what makes your competitor's content successful and generate a unique, strategic response for your own brand.
+      - Instantly analyse what makes your competitor's content successful and generate a unique, strategic response for your own brand.
     points:
-      - title: Reverse-Engineer Any URL Into a Winning Angle
-        description: Paste the link to a high-performing article or social post. Our AI analyzes it to reveal the core marketing strategy—the hooks, the pain points, and the arguments they use to win customers.
+      - title: Generate an Instant Competitor Strategy Report
+        description: Our AI analyzes any content to generate a concise strategic report. It instantly reveals the core marketing pillars at play—the exact pain points being targeted, the emotional hooks being used, and the hidden assumptions their entire argument is built on.
       - title: Generate Unique "Counter-Content" in Seconds
         description: Don't just copy, counter. Based on the analysis, the system instantly generates several original content ideas for your product, designed to exploit the gaps and weaknesses in your competitor's messaging.
       - title: Stop Guessing and Start Acting on Intelligence
