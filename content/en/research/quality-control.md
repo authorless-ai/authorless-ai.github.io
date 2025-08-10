@@ -1,39 +1,39 @@
 ---
 draft: true
 skin: pastel-pop
-title: Stop Publishing Content That Makes You Look Amateur
-heroDescription: Your content quality swings wildly from brilliant to embarrassing, depending on who created it and what day they had. Our AI ensures every piece meets your highest standards by building quality controls and strategic guidance directly into your workflow.
+title: Ship Every Campaign with Your A-Game
+heroDescription: Stop the strategic drift and inconsistent quality that kills campaigns. Our AI acts as your team's strategy gatekeeper, running a "pre-flight check" on all content to ensure every post, email, and campaign is cohesive, on-brand, and built to win.
 
 features:
-  - title: Your Content Quality Assurance Engine
-    image: "/images/guidance.png"
-    image_alt: "A screen showing AI quality scoring and strategic recommendations before content publication."
+  - title: Your AI Quality Guardian & Strategy Copilot
+    image: "/images/preflight-check.png"
+    image_alt: "An AI dashboard showing a strategic analysis of a planned campaign, highlighting misalignments and weaknesses."
     description:
-      - Eliminate the content lottery with built-in quality controls that ensure consistent standards across your entire team.
+      - Go beyond spellchecking. Get an automated strategic review that ensures your marketing efforts are cohesive and effective before you hit "publish."
     points:
-      - title: Pre-Publish Quality Scoring That Prevents Embarrassing Content
-        description: Get instant feedback on every piece before it goes live. "This headline is too vague," "Add social proof for credibility," or "Your call-to-action is buried." Catch the mistakes that make you look amateur before your audience sees them.        
-      - title: Strategic Campaign Templates Based on Your Actual Winners
-        description: When you create content that drives results, it becomes a blueprint for everyone. Your successful email sequences, ad campaigns, and social posts become reusable templates with built-in strategic guidance. Scale what works, not what sounds good.        
-      - title: Real-Time Coaching That Makes Everyone Think Like Your Best Marketer
-        description: "Get strategic recommendations as you work: \'Risk-averse audiences need more testimonials,' or 'This content type performs better with urgency.' Learn the psychology behind high-converting content while you create it, building expertise with every campaign."
+      - title: Get a Strategic "Pre-Flight Check" on Every Campaign
+        description: Before you launch, the AI analyzes your entire planned campaign—every post, every email. It then gives you a strategic go/no-go analysis, flagging critical issues a human might miss, like a weak call-to-action or a missing value proposition.
+      - title: Enforce Strategic Cohesion, Not Just Brand Voice
+        description: Go beyond simple tone-of-voice. The AI checks if your content is strategically balanced. It will warn you, "This week's campaign over-indexes on 'fear' and never mentions your key 'security' differentiator. The message is unbalanced."
+      - title: Catch "Amateur Hour" Mistakes Before They Go Live
+        description: The system acts as a final gatekeeper against common but costly mistakes. It flags buried CTAs, headlines that don't match the body copy, and social posts that lack a clear purpose, ensuring every asset you ship is professional-grade.
     footer:
-      - Let your whole team work like your top performer.
+      - Stop hoping for quality. Start deploying it.
 testimonials:
   title: What Our Customers Are Saying
   cards:
-    - title: No more cringing at our own content
-      quote: "We used to publish stuff that looked great in draft but fell flat with our audience. The quality scoring catches those issues before they go live. Our content baseline is now higher than our previous peaks were."
+    - title: This has saved us from launching so many broken campaigns
+      quote: "The pre-flight check is a lifesaver. Last week it flagged that our webinar promo emails had a completely different call-to-action than the social posts. It caught a huge, embarrassing mistake before any customer saw it. We would have completely missed that."
       avatar: "https://i.pravatar.cc/150?u=david_park"
       name: "David Park"
       role: "VP of Marketing"
-    - title: Finally found the secret sauce behind our winners
-      quote: "We had campaigns that worked amazingly but could never figure out why. Now those winning elements get built into templates that everyone can use. Our hit rate went from maybe 1 in 10 to 7 in 10."
+    - title: It's like having our best strategist review every single post
+      quote: "Our content used to be all over the place. Now, the AI acts as our strategy copilot, ensuring every piece serves a purpose and aligns with our main goals. Our overall marketing just feels smarter and more connected now."
       avatar: "https://i.pravatar.cc/150?u=jessica_torres"
       name: "Jessica Torres"
       role: "Marketing Operations Manager"
-    - title: I learned strategy by doing, not by guessing
-      quote: "Instead of throwing content at the wall and hoping it sticks, I get real-time coaching on what makes content convert. I understand buyer psychology now in a way I never did before. Every campaign teaches me something new."
+    - title: I finally have confidence when I hit 'publish'
+      quote: "As a junior marketer, I was always terrified of making a mistake. This system is my safety net. It points out where my content is strategically weak and gives me specific suggestions to fix it. It's the best training I've ever had."
       avatar: "https://i.pravatar.cc/150?u=alex_kim"
       name: "Alex Kim"
       role: "Marketing Coordinator"

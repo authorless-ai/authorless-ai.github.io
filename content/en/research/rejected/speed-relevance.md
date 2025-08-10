@@ -1,23 +1,22 @@
 ---
 draft: true
 title: Convert Your Market with Living Customer Intelligence
-heroDescription: Stop guessing and start learning. Our AI creates living personas, generates targeted content for each one, then learns from performance to get smarter. Every campaign teaches the system what converts, making your next content even more precise.
+heroDescription: Stop guessing what converts. Our AI discovers your most profitable customer personas, deploys self-learning campaigns to engage them, and proves what drives revenue with data-driven A/B tests on your key landing pages.
 
 features:
-  - title: Your Self-Learning Content & Revenue Engine
+  - title: Your Self-Learning Revenue Engine
     image: "/images/persona.png"
     image_alt: "A dashboard showing detailed persona profiles with behavioral triggers and content performance metrics."
     description:
       - Living personas that generate, publish, and learn from every piece of content to drive predictable revenue.
     points:
-      - title: A/B Test Persona Traits to Find Your Winners
-        description: Test different psychological profiles, behavioral triggers, and demographic combinations to discover your highest-converting audience segments. Stop guessing which personas work - prove it with data.        
-      - title: Automated Publishing That Learns From Every Campaign
-        description: Your winning personas automatically generate and publish targeted content across channels. Every click, conversion, and revenue dollar feeds back into the system, making your personas smarter and your next batch of content more accurate.        
-      - title: AI Predictions That Turn Content Creation Into a Science
-        description: Watch your system learn that "Risk-averse prospects convert 3x better with testimonials" or "Urgency-driven personas need FOMO messaging." Get AI recommendations for exactly what content to create before you write a word.
-    footer:
-      - "Complete automation: Generate, publish, learn, improve. Repeat."
+      - title: A/B Test Personas to Find Your Most Profitable Audience
+        description: Don't just invent personas, prove them. Test different psychological profiles, pain points, and value propositions against each other to discover which audience segments deliver the most engagement and revenue. Stop wasting budget on the wrong people.
+      - title: Deploy Self-Learning Campaigns That Optimize on Autopilot
+        description: Activate your winning personas. The AI generates and publishes targeted content across your channels, then analyzes the performance of every single post. Every click and conversion makes the system smarter, continuously improving your messaging.
+      - title: Prove What Converts with Landing Page A/B Testing
+        description: Automatically turn your best-performing messages into live A/B tests on your website. The system proposes new headlines and copy based on proven insights, then integrates with your testing tools to give you hard data on what drives conversions.
+
 testimonials:
   title: What Our Customers Are Saying
   cards:
