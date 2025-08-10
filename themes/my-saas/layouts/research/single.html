@@ -16,7 +16,7 @@
             <figure class="p-6 bg-gray-50 rounded dark:bg-gray-800">
                 <blockquote class="text-sm text-gray-500 dark:text-gray-400">
                     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">{{ .title }}</h3>
-                    <p class="my-4">{{ .quote }}</p>
+                    <p class="my-4">{{ .quote|safeHTML }}</p>
                 </blockquote>
                 <figcaption class="flex items-center space-x-3">
                     <img class="w-9 h-9 rounded-full" src="{{ .avatar }}" alt="profile picture for {{ .name }}">
