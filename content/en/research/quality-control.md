@@ -1,6 +1,7 @@
 ---
 draft: true
 skin: pastel-pop
+siteTitle: Qualitist
 title: Ship Every Campaign with Your A-Game
 heroDescription: Stop strategic drift and inconsistent quality. Our AI acts as your team's strategy gatekeeper, running a "pre-flight check" on all content to ensure you're always cohesive, on-brand, and built to win.
 

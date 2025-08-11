@@ -1,5 +1,6 @@
 ---
 draft: true
+siteTitle: Competo
 title: Instantly Decode Any Competitor's Playbook
 heroDescription: Understand the strategies behind your competition. Our analyzer reveals their playbooks, then generates original content to compete.
 

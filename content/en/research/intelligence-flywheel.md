@@ -1,6 +1,7 @@
 ---
 draft: true
 skin: indigo-glow
+siteTitle: FlyWheel
 title: End Guesswork. Win with Data-Driven Messaging.
 heroDescription: Stop wondering what your audience wants to hear. Test your core messages, discover what truly resonates, and build your entire strategy on a foundation of certainty.
 
