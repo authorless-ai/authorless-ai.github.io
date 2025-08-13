@@ -7,7 +7,7 @@ heroDescription: Stop wondering what your audience wants to hear. Test your core
 
 features:
   - title: Your Closed-Loop Audience Intelligence Platform
-    image: "/images/flywheel.png"
+    image: "/images/persona.png"
     image_alt: "A graphic showing a flywheel where targeted tests provide clear data, which feeds into a central intelligence brain, powering a smarter marketing strategy."
     points:
       - title: Validate Your Strategy in Days, Not Months

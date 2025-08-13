@@ -103,7 +103,7 @@
 }
 
 /* --- FINAL: Indigo Glow Skin (Your Palette, Professional Text) --- */
-[data-skin="indigo-glow"] {
+[data-skin="indigo"] {
   /*
     Primary Colors are derived from the Hot Pink (#ef3e9c)
   */
@@ -146,44 +146,44 @@
 /* --- CRITICAL OVERRIDES FOR INDIGO GLOW --- */
 
 /* Force card backgrounds to be the bright purple */
-[data-skin="indigo-glow"] .bg-white,
-[data-skin="indigo-glow"] .dark\:bg-gray-800 {
+[data-skin="indigo"] .bg-white,
+[data-skin="indigo"] .dark\:bg-gray-800 {
   background-color: var(--color-gray-800) !important;
 }
 
 /* Force feature backgrounds to be the deep purple */
-[data-skin="indigo-glow"] .bg-slate-50,
-[data-skin="indigo-glow"] .dark\:bg-gray-900 {
+[data-skin="indigo"] .bg-slate-50,
+[data-skin="indigo"] .dark\:bg-gray-900 {
   background-color: var(--color-gray-900) !important;
 }
 
-[data-skin="indigo-glow"] section.bg-slate-50 {
+[data-skin="indigo"] section.bg-slate-50 {
     background-color: var(--color-gray-800) !important;
 }
 
 /* Force ALL text to be the new light lavender for legibility */
-[data-skin="indigo-glow"] .text-gray-500,
-[data-skin="indigo-glow"] .text-gray-600,
-[data-skin="indigo-glow"] .text-gray-700,
-[data-skin="indigo-glow"] .text-gray-800,
-[data-skin="indigo-glow"] .text-gray-900,
-[data-skin="indigo-glow"] .dark\:text-white,
-[data-skin="indigo-glow"] .dark\:text-gray-400,
-[data-skin="indigo-glow"] span {
+[data-skin="indigo"] .text-gray-500,
+[data-skin="indigo"] .text-gray-600,
+[data-skin="indigo"] .text-gray-700,
+[data-skin="indigo"] .text-gray-800,
+[data-skin="indigo"] .text-gray-900,
+[data-skin="indigo"] .dark\:text-white,
+[data-skin="indigo"] .dark\:text-gray-400,
+[data-skin="indigo"] span {
   color: var(--color-gray-50) !important;
 }
 
 /* Force borders to be the muted blue */
-[data-skin="indigo-glow"] .border-gray-200,
-[data-skin="indigo-glow"] .dark\:border-gray-600,
-[data-skin="indigo-glow"] .dark\:border-gray-700 {
+[data-skin="indigo"] .border-gray-200,
+[data-skin="indigo"] .dark\:border-gray-600,
+[data-skin="indigo"] .dark\:border-gray-700 {
     border-color: var(--color-gray-600) !important;
 }
 
 /* Specific hover overrides */
-[data-skin="indigo-glow"] .dark\:hover\:bg-gray-700:hover,
-[data-skin="indigo-glow"] .hover\:bg-gray-100:hover,
-[data-skin="indigo-glow"] .hover\:bg-gray-50:hover {
+[data-skin="indigo"] .dark\:hover\:bg-gray-700:hover,
+[data-skin="indigo"] .hover\:bg-gray-100:hover,
+[data-skin="indigo"] .hover\:bg-gray-50:hover {
     background-color: var(--color-gray-700) !important;
 }
 
