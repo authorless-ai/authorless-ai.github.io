@@ -1,133 +1,132 @@
 ---
-title: "Quick, Easy, Consistent Content. Automate Your Content Calendar"
+title: "More Content Isn't the Answer. Better Connection Is."
 
-heroDescription: Authorless enables businesses to maintain a consistent content marketing strategy, even with limited resources. We create engaging content that drives results, along with an automated calendar to help you stay on track.
+heroDescription: Your brand is being drowned out by AI slop factories that value volume over value. To hit your marketing goals, you need content that creates a genuine human connection. Authorless is the strategic platform built to turn that connection into measurable ROI.
 
 features:
-- title: "Reclaim Your Time: Automated Content Marketing for Busy Business Owners"
+- title: "Stop Wasting Resources on Content That Fails"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Office Feature Image 1"
+  image_alt: "A marketing team looking at a sales growth chart, not an empty blog post."
   description:
-    - Are you constantly struggling to find time for content marketing? Authorless dramatically reduces the time you spend writing, publishing, and scheduling content.
-    - Say goodbye to last-minute scrambles and hello to a stress-free content calendar. Let Authorless handle the heavy lifting so you can focus on growing your business.
+    - Your team's most valuable asset is its strategic talent. Yet, generic AI tools force them into a low-value editing grind, trying to fix robotic drafts that were doomed from the start.
+    - Authorless is the antidote. By building content on a foundation of human empathy, we generate strategically-sound drafts that free your team to focus on high-impact work that moves the needle.
   points:
-    - title: Automate Your Content Calendar
-      description: Plan and schedule your content weeks or even months in advance
-    - title: Save Hours Each Week
-      description: Reduce content creation time from hours to minutes
-    - title: Free Up Your Time
-      description: Regain valuable time to focus on core business activities
+    - title: Create Content That Actually Converts
+      description: "Stop publishing content that fills a calendar but fails to impact KPIs. Every piece is engineered to build trust and drive results."
+    - title: Eliminate the Low-Value Editing Loop
+      description: "Slash the hours your team wastes fixing robotic text. Get on-brand, on-strategy content, instantly."
+    - title: Elevate Your Team's Strategic Focus
+      description: "Reallocate resources from tedious editing to the high-level strategy that drives real brand growth."
   footer:
-    - Time is money. Authorless helps you make the most of both.
+    - Equip your team to be strategists, not editors for a robot.
 
-- title: "Effortless Content Marketing, No Expertise Required"
+- title: "Deploy a More Sophisticated Strategy, Simply"
   image: "/images/feature-office-2.jpg"
-  image_alt: "Office Feature Image 2"
+  image_alt: "An illustration of a sophisticated marketing funnel."
   description:
-    - Consistency is key to successful content marketing. Authorless makes it easy to maintain a consistent online presence, even if you have no marketing experience.
-    - Never miss another important date or opportunity again. Authorless helps you create timely, relevant content that attracts new customers and strengthens relationships with existing ones.
+    - You know a deep, full-funnel strategy is what works, but the tools at your disposal make it difficult to execute effectively at scale. Slop factories just produce noise.
+    - Authorless makes sophisticated marketing simple. We've encoded proven persuasion frameworks into our AI, allowing your team to easily create content that speaks to specific audience needs at every stage of the buying journey.
   points:
-    - title: Maintain a Consistent Presence
-      description: Keep your audience engaged with regular updates and valuable content.
-    - title: Never Miss Important Dates
-      description: Get reminders for upcoming events and create timely content.
-    - title: No Marketing Experience Required
-      description: Authorless is easy to use, even if you're not a marketing expert.
+    - title: Execute a Professional-Grade Strategy
+      description: "Our AI uses established frameworks to turn your brand's goals into effective, persuasive content."
+    - title: Target Audiences with Precision
+      description: "Move beyond broad-stroke marketing. Create content for specific personas based on their core emotional drivers."
+    - title: Build a Powerful Brand Narrative
+      description: "Ensure every piece of content, from social posts to blog articles, works together to tell a cohesive and compelling story."
   footer:
-    - Consistency is key. Authorless helps you achieve it effortlessly.
-- title: "Full-Funnel Content Strategy: Convert Browsers into Buyers"
-  image: "/images/feature-office-1.jpg"
-  image_alt: "Office Feature Image 1"
-  description:
-    - Stop creating content that doesn't convert. Authorless analyses your business and automatically creates content that guides potential customers through their entire buying journey - from first discovery to final purchase decision.
-    - No marketing expertise required. Authorless handles the complex strategy work behind the scenes. Get professional-level marketing content that drives sales.
-  points:
-    - title: Targetted Content for Every Stage
-      description: Automatically create the right content for awareness, interest, decision, and action phases.
-    - title: Strategic Conversion Path
-      description: Guide potential customers smoothly from discovery to purchase with connected content.
-    - title: Sales-Focused Content
-      description: Turn content marketing from just "nice to have" into a genuine sales generator.
-  footer:
-    - Don't just create content. Create conversions. Authorless turns your content into a sales machine.
-    
-cta:
-  title: Automate Your Content Calendar Now!
-  description: Ready to reclaim your time, maintain a consistent online presence, and drive business growth? Try Authorless now and experience effortless content creation that delivers real results!
+    - Stop guessing what works. Start deploying a smarter strategy that consistently performs.
 
-topFeatures: 
-  title: Businesses Love These Authorless Features
-  description: Check out the innovations that will change the way you work  
+- title: "Turn Human Connection Into Provable ROI"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "A customer happily making a purchase on their phone, reflecting positive ROI."
+  description:
+    - In today's market, connection is the ultimate conversion tool. Robotic content can't connect. It speaks to no one, so no one listens, and it certainly doesn't impact the bottom line.
+    - Authorless is designed to forge that connection. By identifying and addressing what your audience truly cares about, every piece of content becomes a powerful asset for building trust, generating leads, and proving the value of your marketing efforts.
+  points:
+    - title: Speak Directly to Customer Buying Triggers
+      description: "Generate content that addresses the real 'why' behind your audience's purchase decisions."
+    - title: Build a High-Converting Content Funnel
+      description: "Create a predictable path that guides interested prospects to become loyal customers."
+    - title: Justify Your Marketing Spend
+      description: "Transform your content from a line-item expense into a measurable revenue-driver for the business."
+  footer:
+    - Don't just report on activity. Report on revenue.
+
+cta:
+  title: Ready to Drive Growth with Content That Converts?
+  description: "Ditch the content treadmill and the failed promise of 'more is better.' Try Authorless and equip your team with a strategic tool that turns human connection into undeniable business results."
+
+topFeatures:
+  title: "A Toolkit for High-Impact Marketing Teams"
+  description: "Check out the features designed to help your team achieve its most ambitious goals."
   list:
-    - title: AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
-      target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+    - title: Content That Converts
+      description: "Generate persuasive content based on your audience's core emotional drivers and buying journey."
+      target: /features/marketing-strategy/
+    - title: "Automated Strategic Campaigns"
+      description: "Plan and automate entire content funnels that nurture leads and drive sales."
       target: /features/scheduling/
-    - title: Marketing Strategy
-      description: Build an effective content strategy with AI guidance, no marketing experience required!
+    - title: "Accessible Expert-Level Strategy"
+      description: "Deploy a sophisticated marketing plan without needing a large, specialized strategy team."
       target: /features/marketing-strategy/
 
 featureCards:
-  title: "Designed for Businesses Like Yours"
-  description: "More essential Authorless features your business needs to deliver exceptional content and grow your sales"
+  title: "Designed For a Smarter Marketing Approach"
+  description: "More essential Authorless features your team needs to deliver exceptional content and prove its impact."
   cards:
-  - title: "AI Content Suggestions"
-    description: "Unlock your creative potential. Get AI-powered suggestions to spark new content ideas and improve existing ones."
+  - title: "Conversion-Focused Idea Generation"
+    description: "Get AI-powered suggestions for content topics that will resonate deeply and drive strategic goals."
     url: "/features/suggestions/"
     icon: lightbulb
-  - title: "Multi-Platform Publishing"
-    description: "Reach your audience everywhere. Seamlessly publish content across all your key platforms with ease."
+  - title: "Multi-Channel Publishing"
+    description: "Seamlessly publish your strategic content across all the key platforms where your audience lives."
     url: "/features/publishing/"
     icon: upload
-  - title: "Buying Journey Strategy"
-    description: "Develop effective content strategies with AI. Generate targeted content aligned with each stage of the customer journey."
+  - title: "Built-in Funnel Intelligence"
+    description: "Develop effective strategies with an AI that understands how to create content for every stage of the customer journey."
     url: "/features/marketing-strategy/"
     icon: briefcase
-  - title: "Team Collaboration"
-    description: "Work better, together. Manage users, permissions, and collaborate seamlessly on all projects."
+  - title: "Streamlined Team Collaboration"
+    description: "Enable your entire team to create on-brand, strategically-aligned content within a single, controlled platform."
     url: "/features/teams/"
     icon: users
 
 faq:
-  - q: "I'm too busy to even think about content marketing – how can Authorless help?"
+  - q: "You keep mentioning 'AI slop factories'. What exactly do you mean by that?"
     a:
-      - "We understand that with everything else you're managing, content marketing can easily feel overwhelming. Authorless is designed to take that pressure off. It automates key parts of the process – from generating ideas to drafting content and scheduling posts. This means you can significantly reduce the time you spend on content creation."
-      - "Many SMEs have found they save several hours each week by using Authorless, allowing them to focus on customers and growing their business. Consider it your content marketing assistant, helping you stay on top of things without taking over your entire schedule."
+      - "An 'AI slop factory' is any tool that values word count and volume over impact. They operate on simple prompts to churn out generic, robotic text that sounds like it was written by a machine, because it was." 
+      - "This content rarely works: It has little understanding of your brand, no empathy for your audience, and no strategic goal. The result is a messy first draft that creates a new, painful job for you: hours of editing just to make it sound remotely human."
+      - "We built Authorless to be the complete opposite. We believe that effective content starts with human connection, not a simple prompt. Instead of just generating words, our platform first helps you define <b>who</b> you're talking to and <b>what they care about</b>. By building content on this foundation of human strategy, the AI produces messaging that is relevant, resonant, and ready-to-use. It's the difference between creating more noise and creating content that actually converts."  
+  - q: "Our team is swamped. How does this reduce our workload instead of adding to it?"
+    a:
+      - "Authorless attacks the single biggest time-waster in modern content marketing: editing bad AI drafts. Because our content is built on your specific strategy from the start, it drastically reduces that low-value work."
+      - "This frees up your team's bandwidth, allowing them to focus on the high-impact strategic initiatives that they were hired for, making your entire department more efficient and effective."
 
-  - q: "I don't have any marketing experience – is Authorless easy to use?"
+  - q: "We already have a content strategy. How does Authorless fit in?"
     a:
-      - "Absolutely. You don't need a marketing background to use Authorless effectively. We've focused on making it user-friendly and intuitive, so you can get started quickly."
-      - "Authorless provides templates and examples to guide you, and the AI helps you create content that's both engaging and aligned with your brand. We also offer tutorials and support to answer any questions. The goal is to empower you to create great content, regardless of your previous experience."
+      - "That's perfect. Authorless is designed to be the execution engine for your strategy. You already know *who* you want to reach and *what* you want to say. Authorless helps you do it better and faster."
+      - "Use our platform to codify your personas and strategic pillars, then let our AI generate on-brand, on-strategy content at scale. It amplifies your existing strategy, it doesn't replace it."
 
-  - q: "How does Authorless help me stay consistent with my content marketing, especially when things get hectic?"
+  - q: "How can we be sure the AI content will align with our brand voice?"
     a:
-      - "Maintaining consistency is crucial, but it can be challenging when you're juggling multiple priorities. Authorless addresses this with its automated content calendar. You can plan your content in advance and schedule it to publish automatically, even weeks ahead."
-      - "The platform also sends reminders about upcoming events and trending topics, so you can create timely and relevant content. This proactive approach helps you maintain a steady online presence, even when you're particularly busy."
+      - "Because we go deeper than just 'voice.' Generic tools mimic style, which is why they fail. We focus on the core of your brand: the audience you serve and the value you provide."
+      - "By generating content that is foundationally aligned with your brand's strategic purpose, the voice naturally follows. The result is content that feels authentic because it *is* authentic to your strategy."
 
-  - q: "Can Authorless help me come up with fresh ideas for content? I often struggle with what to write about."
+  - q: "How does this help us prove the ROI of our content efforts?"
     a:
-      - "Generating fresh content ideas can be a challenge. Authorless includes tools to suggest topics based on your industry, target audience, and previous content performance."
-      - "These suggestions are carefully chosen to align with your business goals and resonate with your audience. You can also use Authorless to research trends and keywords to help people find your website. You'll have a continuous stream of ideas to work with."
+      - "By creating content that is inherently designed to convert. When your content speaks directly to customer needs and guides them through a buying journey, the impact on leads and sales becomes much clearer."
+      - "You move from reporting on vanity metrics like 'posts published' to reporting on business metrics like 'leads generated from our content funnel,' making it far easier to justify your budget and prove your team's value."
 
-  - q: "Does Authorless integrate with my social media accounts and blog, or will I have to manually copy and paste everything?"
+  - q: "Does Authorless integrate with our existing marketing technology stack?"
     a:
-      - "We understand the need for a smooth workflow. Authorless integrates directly with Facebook, LinkedIn, Instagram, X and WordPress. This allows you to publish and schedule your content directly, without manual copying and pasting."
-      - "The integration also allows you to track the performance of your content, providing insights to help you refine your strategy. We're always working to add more integrations based on user feedback."
+      - "We provide a streamlined publishing workflow. Authorless connects directly with WordPress, Facebook, LinkedIn, Instagram, and X, allowing you to centralize your content scheduling and publishing, simplifying execution and reporting."
 
-  - q: "What types of content can Authorless help me create?"
+  - q: "Can our team try it before committing?"
     a:
-      - "Authorless supports a variety of content formats to help you reach your audience effectively. We create how-tos, tips, listicles, and more, tailored to each platform (Facebook, LinkedIn, Instagram, X, WordPress)."
-      - "We are continuously expanding the range of supported formats to meet evolving content marketing needs."
+      - "Absolutely. We encourage a pilot. Use our free trial credits to run a campaign for one of your key initiatives. Compare the quality, speed, and strategic alignment of the output against your current process."
+      - "We're confident your team will see the value immediately."
 
-  - q: "Does Authorless offer a free trial, so I can see if it's the right fit for my business before committing to a subscription?"
+  - q: "Is this solution cost-effective for our department's budget?"
     a:
-      - "Yes, we do. We want you to be confident that Authorless can benefit your business. We offer free trial credits so you can explore the platform, create content, and see how it saves you time."
-      - "This allows you to evaluate the platform thoroughly before making a decision. You can sign up on our website to claim your free credits."
-
-  - q: "Is Authorless expensive? I'm on a tight budget and need a cost-effective solution."
-    a:
-      - "Authorless offers a range of pricing plans to suit different business sizes and needs. Please see our pricing page for more details."
-      - "Compared to hiring a dedicated marketing agency or freelancer, Authorless can be a very cost-effective solution. It also helps your team be more productive, which can save you money in the long run. Our aim is to provide accessible and effective content marketing solutions."
+      - "Yes. We offer plans designed for business and marketing team budgets. When you calculate the ROI based on man-hours saved, increased content effectiveness, and the potential lift in conversions, Authorless is designed to be a significant net positive for your budget."
 ---
