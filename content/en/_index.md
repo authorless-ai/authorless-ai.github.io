@@ -1,22 +1,22 @@
 ---
 title: "Stop Feeding the Slop Factory. Start Creating Content That Connects."
-superTitle: The End of Robotic AI Content
-description: "Tired of soulless AI drafts that need hours of editing? Authorless is built on a simple premise: <b>real connection drives real results</b>. <br/><br/>We help you go beyond generic slop by targeting your audience's core emotional drivers, so you can stop editing robots and start building a loyal audience."
-youtubeUrl: https://www.youtube.com/embed/oh7H442YqnY
+superTitle: "The End of Robotic AI Content"
+description: "Tired of AI content that sounds robotic and gets ignored? The internet is flooded with low-quality 'slop' that fails to build trust or grow your business. <br/><br/>Authorless is built on a simple, powerful idea: <b>real human connection is what works.</b> We help you create content that makes your audience feel seen, understood, and ready to take the next step."
+youtubeUrl: "https://www.youtube.com/embed/oh7H442YqnY"
 
 introFeatures:
-  - title: Forge Genuine Connections
-    description: "Go beyond generic content. Build a loyal audience by creating messaging that makes your customers feel <b>instantly seen and understood</b>."
+  - title: "Build a Real Connection"
+    description: "Go beyond generic blog posts. Create messaging that builds a genuine bond with your audience, turning casual readers into loyal fans."
     url: "/features/marketing-strategy/"
-  - title: Convert Readers by Resonating
-    description: "Stop shouting into the void. Generate content based on your audience's <b>core emotional drivers</b> to build trust and increase sales."
+  - title: "Turn Readers into Customers"
+    description: "Generic content doesn't persuade. Build the deep trust required to turn an interested reader into a confident buyer."
     url: "/features/marketing-strategy/"
-  - title: Build an Unforgettable Brand
-    description: "Cut through the noise of AI slop. Develop a consistent, human voice that makes your brand <b>memorable and impossible to ignore</b>."
+  - title: "Create a Brand People Remember"
+    description: "Cut through the noise of robotic slop. Develop a consistent, human voice that makes your brand the memorable choice."
     url: "/features/marketing-strategy/"
 
 carousel:
-  title: Generate Content With Purpose, Not Just Prompts
+  title: "A Different Approach: Start with Your Customer"
   images:
     - small: "images/carousel/1-mega-create-sm.png"
       large: "images/carousel/1-mega-create.png"
@@ -35,156 +35,157 @@ carousel:
       alt: "A list of strategically created content"
 
 solutionsCards:
-  title: Emotionally Intelligent AI For Your Industry
-  description: Discover how Authorless can transform your marketing by focusing on human connection, not robotic output.
+  title: "Content That Works, For Every Industry"
+  description: "Discover how Authorless can help you achieve your goals by focusing on quality and connection."
   cards:
      - title: For Marketing Agencies
-       description: Deliver content that gets real client results and stop wasting billable hours editing generic AI drafts.
+       description: "Deliver content that gets real client results and stop wasting billable hours editing generic AI drafts."
        url: "/solutions/agencies/"
        icon: bullhorn
      - title: For Businesses
-       description: Build a loyal customer base with content that connects, converting readers into revenue.
+       description: "Build a loyal customer base with content that connects, turning readers into a source of real growth."
        url: "/solutions/businesses/"
        icon: briefcase
      - title: For Experts & Thought Leaders
-       description: Build your reputation with authentic, insightful content that sounds like you, not a robot.
+       description: "Build your reputation with authentic, insightful content that sounds like you, not a generic robot."
        url: "/solutions/thought-leaders/"
        icon: lightbulb
      - title: For Non-Profits & Charities
-       description: Drive donations and support by sharing your cause with stories that resonate on a human level.
+       description: "Drive donations and support by sharing your cause with stories that resonate on a deep, human level."
        url: "/solutions/non-profits/"
        icon: heart
      - title: For Creators & Influencers
-       description: Grow a passionate following with content that forges a genuine bond, not just chases empty metrics.
+       description: "Grow a passionate following with content that forges a genuine bond, not just chases empty metrics."
        url: "/solutions/influencers/"
        icon: star
      - title: For Dropshippers
-       description: Sell more products with descriptions and posts that tap into customer desires, not just keywords.
+       description: "Sell more products with descriptions and posts that tap into what customers truly desire."
        url: "/solutions/dropshippers/"
        icon: truck
 
 featureCards:
-  title: The Toolkit for Human-Centric Marketing
-  description: Every feature is designed to help you connect with your audience on a deeper level, turning your content into your biggest asset.
+  title: "Your Toolkit for Human-Centric Marketing"
+  description: "Every feature is designed to help you connect with your audience on a deeper level, turning your content into your biggest asset."
   cards:
-  - title: Emotionally-Driven Content
-    description: Our core difference. Generate content based on customer personas and their emotional triggers.
+  - title: "Emotionally-Driven Content"
+    description: "Our core difference. Create content based on what your customers really care about."
     url: "/features/marketing-strategy/"
     icon: edit
 
-  - title: Strategic Scheduling
-    description: Plan and automate your content calendar so your message of connection is always consistent.
+  - title: "Strategic Scheduling"
+    description: "Plan and automate your content calendar so your message of connection is always consistent."
     url: "/features/scheduling/"
     icon: calendar
 
-  - title: Publish Without The Pain
-    description: Send resonant content directly to your platforms without the soul-crushing copy-paste.
+  - title: "Publish Without The Pain"
+    description: "Send resonant content directly to your platforms without the soul-crushing copy-paste."
     url: "/features/publishing/"
     icon: upload
 
-  - title: Ideas That Connect
-    description: Get AI-generated topic suggestions rooted in genuine audience interests, not just keywords.
+  - title: "Ideas That Connect"
+    description: "Get topic suggestions rooted in genuine audience interests, not just generic keywords."
     url: "/features/suggestions/"
     icon: lightbulb
 
-  - title: Build Your Brand Voice
-    description: Ensure every piece of content, from articles to posts, sounds authentic and builds your brand.
+  - title: "Build Your Brand Voice"
+    description: "Ensure every piece of content sounds authentic and strengthens your brand's unique personality."
     url: "/features/marketing-strategy/"
     icon: briefcase
 
-  - title: Connect Globally
-    description: Translate your resonant messages to reach a global audience with the same emotional impact.
+  - title: "Connect Globally"
+    description: "Translate your resonant messages to reach a global audience with the same emotional impact."
     url: "/features/translation/"
     icon: language
 
-  - title: Collaborative Connection
-    description: Empower your entire team to create on-brand, emotionally intelligent content.
+  - title: "Collaborative Connection"
+    description: "Empower your entire team to create on-brand, emotionally intelligent content together."
     url: "/features/teams/"
     icon: users
 
-  - title: Multi-Brand Empathy
-    description: Manage distinct, empathetic marketing strategies for multiple brands from one account.
+  - title: "Multi-Brand Empathy"
+    description: "Manage distinct, empathetic marketing strategies for multiple brands from one account."
     url: "/features/projects/"
     icon: folder
 
 features:
-- title: "The Problem: The AI Slop Factory"
+- title: "The Problem: 'More Content' Isn't Working"
   image: "/images/campaign-options.png"
-  image_alt: "Generic, robotic content options"
+  image_alt: "Generic, robotic content options being ignored."
   description:
-    - You prompt. It writes. You sigh. You spend the next hour trying to edit the soulless, generic text into something usable.
-    - This is the secret failure of most AI tools. They save you 10 minutes of writing only to create 60 minutes of painful editing, and the result still fails to connect.
+    - "AI slop factories operate on a simple, flawed myth: that more content is always better. They produce a high volume of robotic text that all sounds the same."
+    - "But your audience can spot this soulless content instantly. The result? They ignore it. It fails to build trust, fails to persuade, and fails to grow your business."
   points:
-    - title: It's Robotic & Soulless
-      description: The content has no personality, no empathy, and speaks to no one.
-    - title: It Creates More Work
-      description: You waste more time trying to fix bad content than it would take to write it yourself.
-    - title: It Gets No Results
-      description: Generic content is ignored. It doesn't build audiences, create trust, or drive sales.
-    - title: It Damages Your Brand
-      description: Publishing robotic slop makes your brand look cheap and out of touch.
+    - title: "It Sounds Robotic & Untrustworthy"
+      description: "Generic content lacks personality and authority, making your brand feel cheap and unreliable."
+    - title: "It Gets Ignored"
+      description: "In a sea of noise, soulless content is invisible. It doesn't earn your audience's attention or time."
+    - title: "It Fails to Get Customers"
+      description: "You can't build a business on content no one reads. If it doesn't connect, it can't persuade."
+    - title: "It Wastes Your Time"
+      description: "You spend hours trying to edit bad drafts into something usable, only for it to fail anyway."
   footer:
-    - You're not just creating content. You're trying to build a business. It's time to stop using tools that work against you.
-- title: "The Solution: Create with Human Connection"
+    - "You're not just trying to fill a calendar. You're trying to build a business."
+
+- title: "Our Approach: Quality That Connects and Persuades"
   image: "/images/persona.png"
-  image_alt: "Audience personas being used to generate content"
+  image_alt: "Audience personas being used to generate high-quality, targeted content."
   description:
-    - "Authorless is the anti-slop factory. We start with the most important part of marketing: the human you're trying to reach."
-    - By defining your audience and their emotional drivers first, our AI creates content that is relevant, resonant, and ready-to-use from the first draft.
+    - "Authorless is built on a different philosophy entirely. We believe the key to effective marketing isn't volume, it's genuine human connection."
+    - "We start with the most important part of any business: your customer. By understanding who they are and what they care about first, our platform helps you create content that is relevant, resonant, and ready to build real relationships."
   points:
-    - title: Speak Directly to Their Needs
-      description: Generate content based on your audience's core motivations for messaging that lands every time.
-    - title: From First Draft to Final Copy
-      description: Because the content is strategically sound from the start, you slash editing time and publish with confidence.
-    - title: Turn Connection Into Conversion
-      description: When customers feel understood, they trust you. And trust is the foundation of every sale.
-    - title: Build a Brand People Love
-      description: Consistently publishing empathetic content creates a memorable brand that people want to be a part of.
+    - title: "It Feels Human & Builds Trust"
+      description: "Generate content that speaks with an authentic voice, establishing the credibility you need to make a sale."
+    - title: "It Gets Read & Remembered"
+      description: "Create truly valuable and insightful content that cuts through the noise and makes a lasting impression."
+    - title: "It Turns Readers Into Customers"
+      description: "When customers feel understood, they trust you. And that trust is what turns interest into action."
+    - title: "It Saves You From Wasted Effort"
+      description: "Get a strategically-sound draft from the start, so you can focus on growing your business, not editing a robot."
   footer:
-    - Don't just automate words. Automate a winning strategy. Authorless connects you to the heart of your audience.
+    - "Don't just automate words. Automate a strategy that actually works."
 
 topFeatures:
-  title: The Difference is Deeper Connection
-  description: These aren't just features. They're new ways to build a brand that matters.
+  title: "The Difference is a Deeper Connection"
+  description: "These aren't just features. They're new ways to build a brand that matters."
   list:
-    - title: Emotionally-Driven Writing
-      description: Create compelling content rooted in human psychology, not just keywords.
+    - title: "Emotionally-Driven Writing"
+      description: "Create compelling content rooted in human psychology, not just generic keywords."
       target: /features/marketing-strategy/
-    - title: Strategic Automation
-      description: Effortlessly plan and queue content that builds your brand's narrative over time.
+    - title: "Strategic Automation"
+      description: "Effortlessly plan and queue content that builds your brand's story and authority over time."
       target: /features/scheduling/
-    - title: Content That Sells
-      description: Leverage deep audience insights to create content that doesn't just inform, it persuades.
+    - title: "Content That Persuades"
+      description: "Leverage deep audience insights to create content that doesn't just inform—it convinces."
       target: /features/marketing-strategy/
 
 faq:
-  - q: "I'm worried AI-generated content will feel robotic. How are you different?"
+  - q: "What exactly is an 'AI slop factory'?"
     a:
-      - "This is the most important question. Most AI tools are 'slop factories'—they create robotic text you have to fix. We are the opposite. Our entire system is designed to create human connection."
-      - "Instead of just mimicking your writing style, we start with your audience's core emotional drivers. The AI generates content specifically to address those human needs. The result doesn't just *sound* human, it *feels* human, because it's built on real empathy from the start."
+      - "It's any tool that focuses on producing a high quantity of generic, robotic-sounding text. The content sounds like it was written by a machine because it was, and it usually gets ignored."
+      - "This 'slop' rarely works because it has no understanding of your brand and no empathy for your audience. Authorless is the opposite. We focus on quality and human connection to create content that actually gets results."
 
-  - q: "Can Authorless really get me better results than other tools?"
+  - q: "How can this get me better results than other tools?"
     a:
-      - "Yes, because 'results' don't come from producing more words. They come from making a better connection. While other tools help you produce more noise, we help you create a stronger signal."
-      - "By focusing on what drives your customers, you create content that builds trust and guides them through their buying journey, which is the only sustainable way to get better results."
+      - "Because we focus on a better strategy. Slop factories help you make more noise. We help you create a stronger signal that cuts through it."
+      - "When customers feel seen and understood by your content, they begin to trust you. That trust is what leads to sales and long-term loyalty. It's that simple."
 
-  - q: "I spend all my time editing AI content. Will this actually save me time?"
+  - q: "I spend so much time editing AI content. Will this actually save me time?"
     a:
-      - "Authorless is designed to save you *editing* time, which is the most painful and time-consuming part of using AI. Because our output is strategically sound and emotionally relevant from the first draft, the need for heavy editing plummets."
-      - "Imagine getting a draft that's 90% of the way there, instead of 10%. That's the time we give back to you, so you can focus on strategy, not syntax."
+      - "Yes, because it attacks the real problem. The most painful part of using AI is trying to fix bad, robotic drafts. Authorless is designed to eliminate that low-value work."
+      - "Because our content is built on your specific strategy from the start, you get a great draft right away. This frees you up to focus on the things that actually grow your business."
 
-  - q: "How does Authorless understand my audience's emotional drivers?"
+  - q: "How does Authorless understand my audience's emotions?"
     a:
-      - "You guide it. We provide a simple framework where you define your customer personas. You can then select from a list of core human emotional drivers—like the need for security, the desire for belonging, or the quest for status—to guide the AI's content creation."
-      - "It turns you from a prompt engineer into a brand strategist, ensuring the AI is always working towards the right goal."
+      - "It doesn't guess—you guide it. We provide a simple framework where you define your customer. Then, you can select from a list of core human motivators—like the need for security, the desire to belong, or the search for status—to guide the AI."
+      - "This ensures the AI is always working towards the right goal, and turns you into a strategist, not just a prompt-writer."
 
-  - q: "I'm not a marketing expert. Is this too complicated?"
+  - q: "I'm not a marketing expert. Is this too complicated for me?"
     a:
-      - "Not at all. We've made high-level marketing strategy incredibly simple. Instead of needing to know complex theories, you just need to think about who your customer is. Our platform handles the rest, turning that basic human insight into effective content."
-      - "It's designed to make you a better marketer, regardless of your background."
+      - "Not at all. We've taken the principles of great marketing and made them incredibly simple to use. You don't need to know complex theories."
+      - "If you know a little about who your customer is, our platform will help you turn that insight into effective content. It’s designed to make you a better marketer, no matter your background."
 
   - q: "Where can I publish my content with Authorless?"
     a:
-      - "Authorless offers direct publishing and scheduling to your WordPress blog and leading social platforms such as Facebook, Instagram, Twitter, and LinkedIn."
-      - "Expand your reach without juggling multiple tools. Get started with your free credits today."
+      - "Authorless offers direct publishing and scheduling to your WordPress blog and all the leading social platforms, including Facebook, Instagram, Twitter, and LinkedIn."
+      - "This helps you expand your reach without juggling multiple tools. Get started with your free credits today."
 ---
