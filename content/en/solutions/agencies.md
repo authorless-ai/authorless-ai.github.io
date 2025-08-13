@@ -1,83 +1,80 @@
 ---
-title: "Escape the Content Treadmill. Deliver Strategic Value."
-
-heroDescription: The demand for content is relentless, but the generic AI tools on the market force a painful choice between speed and quality. <br/><br/>Authorless is the strategic platform that empowers your agency to deliver both, turning content from a costly production line into a profitable, retainer-winning asset.
+title: "AI Content Built on Audience Understanding, Not Just Keywords."
+heroDescription: "Your agency's greatest asset is its ability to understand people. This is the first AI content platform designed to amplify that strategic expertise, turning your deep audience insights into exceptional content that drives client results, at scale."
 
 features:
-- title: "Reclaim Your Team's Strategic Genius"
+- title: "Codify Your Genius: The Foundation of Quality"
   image: "/images/feature-office-1.jpg"
-  image_alt: "A team of agency strategists collaborating around a whiteboard."
+  image_alt: "A team of agency strategists defining customer personas and emotional drivers."
   description:
-    - Generic AI saddles your best minds with robotic, soul-crushing editing, burning out talent and wasting billable potential. Your team's genius isn't in fixing robotic syntax; it's in strategy and creativity.
-    - |
-      Authorless automates the 90% of grunt work, freeing your team to focus on the 10% that clients truly value: strategic insight, creative direction, and building relationships.
+    - The best work your agency produces comes from a deep understanding of the client's customer. Authorless is the first platform designed to capture and scale that unique strategic insight.
+    - Our framework helps you codify each client's audience—their needs, motivations, and emotional drivers. This becomes the intelligent foundation for every piece of content the AI helps you create.
   points:
-    - title: Empower Your Creatives
-      description: Let your team focus on high-value strategy, not low-value editing.
-    - title: Manage Client Voices with Precision
-      description: Isolate each client's unique brand persona to ensure content is always authentic and on-brand.
-    - title: Reduce Burnout & Increase Efficiency
-      description: Generate first drafts that are 90% ready, slashing non-billable editing time and boosting morale.
+    - title: "Embed Your Strategic Insight"
+      description: "Define each client's unique audience personas and buying triggers to guide the AI's thinking from the start."
+    - title: "Ensure Authentic Brand Voice"
+      description: "Create content that is always true to your client's brand because it's built on their core strategic principles."
+    - title: "Create Content That Connects"
+      description: "Generate messaging that resonates on a human level because it speaks to a customer's real motivations."
   footer:
-    - Stop commoditizing your team's time. Start amplifying their strategic impact.
+    - "This isn't a replacement for your strategy. It's the engine that scales it."
 
-- title: "Differentiate Your Agency in a Sea of Sameness"
+- title: "Achieve Scale Without Sacrificing Excellence"
   image: "/images/feature-office-2.jpg"
-  image_alt: "Agency team presenting winning results that stand out to a happy client."
+  image_alt: "Agency team celebrating a successful client campaign built on effective content."
   description:
-    - When every competitor uses the same generic AI tools, their output becomes an indistinguishable commodity. This is your opportunity to rise above.
-    - |
-      Differentiate your agency by offering what they can't: content built on a deep, empathetic understanding of the end customer. Use Authorless to pitch and win higher-value clients who understand that connection, not just volume, drives results.
+    - The classic agency dilemma is choosing between quality and speed. Scaling up often means compromising the very quality that made you successful.
+    - By starting with a strong strategic foundation, Authorless produces intelligent, on-brand first drafts. This dramatically reduces the time wasted on revisions, freeing your team to focus on the final creative polish that makes the work shine.
   points:
-    - title: Pitch a Superior Service
-      description: Offer a human-centric content strategy that volume-focused competitors simply cannot replicate.
-    - title: Justify Higher Retainers
-      description: Deliver a premium, strategic product that commands a premium price.
-    - title: Become an Indispensable Partner
-      description: Provide results so effective that your clients see you as a core part of their growth engine.
+    - title: "Increase Your Team's True Capacity"
+      description: "Empower your team to produce more high-quality, client-ready content without working longer hours."
+    - title: "Focus on High-Value Creativity"
+      description: "Shift your team's energy from fixing basic drafts to providing the expert refinement clients pay for."
+    - title: "Onboard and Deliver, Faster"
+      description: "Deploy your proven strategies for new clients and begin producing high-quality work from day one."
   footer:
-    - Let your competitors fight over the price of generic content. You can win on the value of genuine connection.
+    - "Finally, you can scale your agency's best work, not its busiest work."
 
-- title: "Deliver Results, Not Just Reports"
+- title: "Deliver the Strategic Value That Retains Clients"
   image: "/images/feature-office-1.jpg"
-  image_alt: "A chart showing upward-trending client conversions and growth."
+  image_alt: "A chart showing an agency's profitable growth driven by client results."
   description:
-    - Clients are tired of seeing content calendars filled with posts that generate zero impact. They want to see the needle move on metrics that matter to their business.
-    - Authorless allows you to build and execute strategies rooted in the emotional drivers of your clients' audiences, transforming content from a line-item expense into a proven revenue driver.
+    - Clients stay with agencies that deliver tangible results. Content built on deep audience understanding is fundamentally more effective at persuading customers and growing a business.
+    - This superior quality becomes your agency's ultimate advantage. It allows you to deliver the clear business impact that justifies higher retainers and builds unshakeable, long-term partnerships.
   points:
-    - title: Drive Measurable Client Growth
-      description: Create content engineered for conversion, not just for clicks or impressions.
-    - title: Connect Activity to ROI
-      description: Clearly demonstrate how your strategic content is impacting leads, sales, and brand loyalty.
-    - title: Secure Long-Term Retainers
-      description: When you consistently deliver tangible business results, you create unshakeable client partnerships.
+    - title: "Differentiate Your Agency's Service"
+      description: "Offer a level of strategic depth and content effectiveness that competitors who rely on keyword-stuffing can't match."
+    - title: "Justify Your Agency's Value"
+      description: "Deliver the tangible business results that make your fees an obvious investment for your clients."
+    - title: "Become an Indispensable Partner"
+      description: "When your work consistently drives a client's growth, your agency becomes a core part of their success."
   footer:
-    - Don't just show your clients a content calendar. Show them a growth chart.
+    - "When you deliver this level of quality at scale, your agency becomes invaluable."
 
 cta:
-  title: Ready to Equip Your Agency with a True Strategic Advantage?
-  description: See how Authorless can help you escape the content commodity trap, empower your team, and deliver the strategic results that grow your agency and your clients' businesses.
+  title: "Ready to Scale Your Agency's Strategic Expertise?"
+  description: "See how Authorless can help you deliver the effective, audience-focused content that grows your clients' businesses and your own."
 
 topFeatures:
-  title: The Toolkit for the Modern Strategic Agency
-  description: Check out the features designed to make your agency a strategic powerhouse, not a content factory.
+  title: "A Toolkit for the Modern Strategic Agency"
+  description: "Check out the features designed to amplify your agency's core strength: understanding audiences."
   list:
-    - title: Multi-Client Persona Management
-      description: Create and manage distinct, empathetic brand and audience profiles for every client in a secure, isolated environment.
-      target: /features/projects/
-    - title: Emotionally-Driven Content Engine
-      description: Go beyond keywords to create content that speaks to your clients' audiences on a human level.
-      target: /features/marketing-strategy/
-    - title: Strategic Publishing & Automation
-      description: Plan and automate content that builds a powerful and cohesive narrative for your clients over time.
-      target: /features/scheduling/
+    - title: "Multi-Client Audience Management"
+      description: "Create and manage distinct, empathetic brand and audience strategies for every client in a secure, isolated environment."
+      target: "/features/projects/"
+    - title: "An AI Engine for Human Connection"
+      description: "Go beyond keywords to generate content that speaks to your clients' audiences on a truly human level."
+      target: "/features/marketing-strategy/"
+    - title: "Automated Strategic Publishing"
+      description: "Plan and deploy content that builds a powerful, cohesive, and effective narrative for your clients over time."
+      target: "/features/scheduling/"
 
 featureCards:
   title: "Designed to Amplify Your Agency's Value"
   description: "More essential Authorless features to help you deliver exceptional results and grow your business."
   cards:
   - title: "Human-Centric Strategy Builder"
-    description: "Develop effective content strategies based on proven frameworks of audience buying journeys and emotional drivers."
+    description: "Develop effective content strategies based on proven frameworks of audience journeys and emotional drivers."
     url: "/features/marketing-strategy/"
     icon: briefcase
   - title: "Streamlined Multi-Platform Delivery"
@@ -85,7 +82,7 @@ featureCards:
     url: "/features/publishing/"
     icon: upload
   - title: "Insightful Idea Generation"
-    description: "Get AI-powered topic suggestions rooted in genuine audience interests, not just robotic keyword stuffing."
+    description: "Get topic suggestions rooted in genuine audience interests, not just robotic keyword stuffing."
     url: "/features/suggestions/"
     icon: lightbulb
   - title: "Seamless Team Collaboration"
@@ -95,44 +92,39 @@ featureCards:
 
 featureList:
   title: "A Strategic AI Partner for Marketing Agencies"
-  description: "Authorless helps agencies escape the grind of robotic drafts and empowers them to deliver what they do best: building brands and connecting with audiences to drive real client results."
+  description: "Authorless helps agencies escape the painful tradeoff between quality and scale, empowering them to deliver their best work, more efficiently, for more clients."
 
 faq:
-  - q: "My clients are wary of AI. How do I position this?"
+  - q: "How is this different from other AI tools?"
     a:
-      - "That's a smart concern, because clients <b>should</b> be wary of the generic AI slop most agencies are starting to use. You position this differently. Explain that you're not outsourcing writing to a robot; you're using a 'strategic intelligence platform' to decode their audience's psychology at scale."
-      - "You're not automating creativity; you're automating the grunt work so your team can spend more time on creativity. The proof is in the results, which will be far superior to what your competitors can produce."
+      - "It starts from a completely different place. Most AI tools start with a keyword, which leads to generic content. Authorless starts with your strategic understanding of the audience—their needs and emotional drivers."
+      - "This 'strategy-first' approach is what results in higher-quality, more effective content that sounds human because it's built on a foundation of human empathy."
 
-  - q: "How do you prevent brand voice contamination between clients?"
+  - q: "How do you keep client strategies from getting mixed up?"
     a:
-      - "This is core to our design. Authorless uses a secure, sandboxed project system. Each of your clients exists in their own isolated environment with their own unique brand voice, audience personas, and strategic rules."
-      - "This makes it impossible for the AI to 'bleed' the style of one client into another. It ensures the content for your enterprise SaaS client never sounds like the content for your D2C fashion brand."
+      - "Our platform is built for the complexity of agency work. Each client is set up in a secure, sandboxed 'Project.' All of their unique audience insights, brand rules, and strategic pillars are completely isolated, ensuring the work is always pure and specific to them."
 
-  - q: "Is this just going to create a new bottleneck of 'fixing' AI content?"
+  - q: "Will this truly save my team time?"
     a:
-      - "No. Authorless is architected to destroy that exact bottleneck. The 'slop factory' tools create that problem because they start with no strategy. We start with deep strategy—personas and emotional drivers."
-      - "This means the first draft is 90% of the way there. Your team's role shifts from painful, from-scratch editing to high-level strategic refinement, which is a far more valuable and enjoyable use of their time."
+      - "Yes, because it eliminates the most time-consuming, low-value task: trying to fix bad, strategically-flawed first drafts. By providing an intelligent, on-strategy draft from the start, your team can focus on refinement and creative execution, which is a much faster and more valuable process."
 
-  - q: "Can this help us find new strategic angles for existing clients?"
+  - q: "Can we use this to find new strategic angles for clients?"
     a:
-      - "Absolutely. It's a powerful tool for strategic brainstorming. By testing different combinations of your client's personas against various emotional drivers, you can rapidly prototype and uncover new messaging angles that can breathe new life into a stale content plan."
+      - "Absolutely. Think of it as a strategic simulator. By pairing your defined customer personas with different emotional drivers or pain points, you can rapidly prototype new messaging and uncover powerful new angles to drive growth for your clients."
 
-  - q: "Does Authorless integrate with our existing toolset?"
+  - q: "How does Authorless fit into our existing workflow?"
     a:
-      - "We focus on a streamlined delivery workflow. Authorless integrates directly with WordPress and the major social media platforms (Facebook, LinkedIn, Instagram, X). This centralizes your publishing and scheduling, simplifying the management of multiple complex client calendars."
+      - "It streamlines your workflow by handling the initial strategic drafting at scale. It integrates directly with WordPress and major social media platforms, allowing you to manage publishing for multiple clients from a single, efficient hub."
 
-  - q: "What kinds of content can we create with this?"
+  - q: "My clients are skeptical of AI-generated content."
     a:
-      - "Authorless supports the variety of strategic formats you need: persuasive blog posts that build authority, emotionally-resonant social campaigns, insightful how-to guides, engaging listicles, and more."
-      - "Every format is an opportunity to execute your core strategy of building a deeper connection for your clients."
+      - "You can confidently tell them this is different. Explain that you use a strategic platform that scales your agency's own expertise. The AI doesn't replace your strategic work; it helps you execute it more effectively. The proof is in the superior quality and effectiveness of the content itself."
 
-  - q: "We need to test this internally before we'd ever use it on a client."
+  - q: "How can we test this before using it with a client?"
     a:
-      - "We 100% agree and expect nothing less. We provide free trial credits specifically for this purpose. Onboard one of your most challenging test clients (or your own agency's marketing)."
-      - "See for yourself how it transforms your workflow and elevates the quality of your output. We're confident the value will be immediately apparent."
+      - "We insist on it. Use the free trial to build out a strategy for one of your clients. See for yourself how building on a foundation of audience understanding results in a dramatically more effective and client-ready first draft. The difference in strategic quality will be clear."
 
-  - q: "How does the pricing scale for an agency?"
+  - q: "How is the pricing structured for an agency?"
     a:
-      - "Our pricing is structured to provide a clear ROI for agencies. When you calculate the cost of your team's time currently spent on low-value editing, or the cost of hiring more writers to scale, Authorless presents a far more profitable path to growth."
-      - "Our goal is to be a profit-center for your agency, not a cost-center."
+      - "Our plans are designed to help you grow profitably. The value isn't just in time saved; it's in the increased capacity to take on more high-value clients and the ability to deliver the superior results that retain them. Our goal is to be a direct contributor to your agency's growth."
 ---

@@ -5,14 +5,14 @@ description: "Tired of AI content that sounds robotic and gets ignored? The inte
 youtubeUrl: "https://www.youtube.com/embed/oh7H442YqnY"
 
 introFeatures:
-  - title: "Build a Real Connection"
-    description: "Go beyond generic blog posts. Create messaging that builds a genuine bond with your audience, turning casual readers into loyal fans."
+  - title: "Content That Feels Personal"
+    description: "Start with a deep understanding of your customer. Create content that speaks directly to their needs, making them feel seen and understood."
     url: "/features/marketing-strategy/"
-  - title: "Turn Readers into Customers"
-    description: "Generic content doesn't persuade. Build the deep trust required to turn an interested reader into a confident buyer."
+  - title: "Persuade, Don't Just Publish"
+    description: "Generic content informs. Resonant content converts. Generate posts and articles built to address core customer motivations, turning readers into buyers."
     url: "/features/marketing-strategy/"
-  - title: "Create a Brand People Remember"
-    description: "Cut through the noise of robotic slop. Develop a consistent, human voice that makes your brand the memorable choice."
+  - title: "Cut Through the Noise"
+    description: "Stop sounding like everyone else. Develop a consistent, memorable voice based on what makes your audience tick, and become the go-to authority in your space."
     url: "/features/marketing-strategy/"
 
 carousel:
