@@ -3,9 +3,16 @@
   {{ return }}
 {{ end }}
 
+<!-- Add a style block to handle the active dot color, since Glide.js adds the class dynamically -->
+<style>
+  .glide__bullet--active {
+    background-color: #9CA3AF; /* Corresponds to Tailwind's gray-400 */
+  }
+</style>
+
 <!-- Outer container for the background gradient image, acting as a section wrapper -->
 <div class="relative">
-  <h2 class="relative top-12 z-1 max-w-7xl text-5xl tracking-tight font-extrabold leading-tight text-white mx-auto text-center">{{ .title }}</h2>
+  <h2 class="relative top-12 z-10 max-w-7xl text-5xl tracking-tight font-extrabold leading-tight text-white mx-auto text-center">{{ .title }}</h2>
   <!-- Background gradient image, positioned absolutely to cover the container -->
   <img src="{{ "images/bg-gradient.png" | relURL }}" alt="Background Gradient" class="absolute inset-0 w-full max-w-7xl h-1/2 mx-auto object-cover z-0 rounded-xl">
 
@@ -20,39 +27,67 @@
         <div class="glide__track overflow-hidden rounded-xl" data-glide-el="track">
           <ul class="glide__slides">
             {{ range $index, $imageEntry := .images }}
-            {{/* Get the large image resource first - this is mandatory */}}
-            {{ $largeImageResource := resources.Get $imageEntry.large }}
+              {{/* Get the large image resource first - this is mandatory */}}
+              {{ $largeImageResource := resources.Get $imageEntry.large }}
 
-            {{ if not $largeImageResource }}
-              {{ errorf "CRITICAL: Large carousel image resource missing for index %d: '%s'. This slide will be skipped." $index $imageEntry.large }}
-              {{ continue }} {{/* Skip to the next item in the loop */}}
-            {{ end }}
+              {{ if not $largeImageResource }}
+                {{ errorf "CRITICAL: Large carousel image resource missing for index %d: '%s'. This slide will be skipped." $index $imageEntry.large }}
+                {{ continue }} {{/* Skip to the next item in the loop */}}
+              {{ end }}
 
-            {{/* Try to get the small image resource; it's optional */}}
-            {{ $smallImageResource := resources.Get $imageEntry.small }}
+              {{/* Try to get the small image resource; it's optional */}}
+              {{ $smallImageResource := resources.Get $imageEntry.small }}
 
-            {{/* Build the srcset string based on whether small image exists */}}
-            {{ $srcset := printf "%s %dw" $largeImageResource.RelPermalink $largeImageResource.Width }}
-            {{ if $smallImageResource }}
-              {{ $srcset = printf "%s %dw, %s" $smallImageResource.RelPermalink $smallImageResource.Width $srcset }}
-            {{ else }}
-              {{ warnf "Optional small carousel image resource missing for index %d: '%s'. Large image will be used for all sizes." $index $imageEntry.small }}
-            {{ end }}
+              {{/* Build the srcset string based on whether small image exists */}}
+              {{ $srcset := printf "%s %dw" $largeImageResource.RelPermalink $largeImageResource.Width }}
+              {{ if $smallImageResource }}
+                {{ $srcset = printf "%s %dw, %s" $smallImageResource.RelPermalink $smallImageResource.Width $srcset }}
+              {{ else }}
+                {{ warnf "Optional small carousel image resource missing for index %d: '%s'. Large image will be used for all sizes." $index $imageEntry.small }}
+              {{ end }}
 
-            <!-- Each slide item -->
-            <li class="glide__slide">
-                <img
-                    src="{{ $largeImageResource.RelPermalink }}"
-                    srcset="{{ $srcset }}"
-                    sizes="(max-width: 767px) 100vw, {{ $largeImageResource.Width }}px"
-                    loading="lazy"
-                    class="block w-full object-contain"
-                    alt="{{ $imageEntry.alt | default (printf "Carousel image %d" (add $index 1)) }}"
-                >
-            </li>
+              <!-- Each slide item -->
+              <li class="glide__slide">
+                  <img
+                      src="{{ $largeImageResource.RelPermalink }}"
+                      srcset="{{ $srcset }}"
+                      sizes="(max-width: 767px) 100vw, {{ $largeImageResource.Width }}px"
+                      loading="lazy"
+                      class="block w-full object-contain"
+                      alt="{{ $imageEntry.alt | default (printf "Carousel image %d" (add $index 1)) }}"
+                  >
+              </li>
             {{ end }}
           </ul>
         </div>
+
+        <!-- Arrows -->
+        <div class="glide__arrows" data-glide-el="controls">
+          <button class="absolute top-0 start-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-glide-dir="<" aria-label="Previous slide">
+            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-gray-400/50 dark:bg-gray-800/30 group-hover:bg-gray-400/75 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+              <svg class="w-4 h-4 text-white dark:text-gray-800 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 1 1 5l4 4"/>
+              </svg>
+              <span class="sr-only">Previous</span>
+            </span>
+          </button>
+          <button class="absolute top-0 end-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-glide-dir=">" aria-label="Next slide">
+            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-gray-400/50 dark:bg-gray-800/30 group-hover:bg-gray-400/75 dark:group-hover:bg-gray-800/60 group-focus:ring-4 group-focus:ring-white dark:group-focus:ring-gray-800/70 group-focus:outline-none">
+              <svg class="w-4 h-4 text-white dark:text-gray-800 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"/>
+              </svg>
+              <span class="sr-only">Next</span>
+            </span>
+          </button>
+        </div>
+
+        <!-- Dots -->
+        <div class="glide__bullets absolute z-30 flex -translate-x-1/2 bottom-5 left-1/2 space-x-3 rtl:space-x-reverse" data-glide-el="controls[nav]">
+          {{ range $index, $imageEntry := .images }}
+            <button class="glide__bullet w-3 h-3 rounded-full bg-gray-400/50" data-glide-dir="={{ $index }}" aria-label="Go to slide {{ add $index 1 }}"></button>
+          {{ end }}
+        </div>
+
       </div>
     </div>
   </div>
@@ -62,23 +97,36 @@
   document.addEventListener('DOMContentLoaded', function () {
     const smBreakpoint = 640; // Tailwind's default 'sm' breakpoint
     const mediaQuery = `(min-width: ${smBreakpoint}px)`;
+    const glideElement = document.querySelector('.glide');
 
-    // Check once on load
-    if (window.matchMedia(mediaQuery).matches) {
-      // Screen is wider than smBreakpoint, so initialize Glide
-      new Glide('.glide', {
-        type: 'carousel', // 'carousel' for infinite looping
-        autoplay: 3000,   // Autoplay every 3 seconds (3000 milliseconds)
-        hoverpause: true, // Pause autoplay when hovering over the carousel
-        perView: 1,       // Show one slide at a time
-        animationDuration: 1500, // Duration of the slide transition in milliseconds
-        gap: 0,           // No gap between slides
-      }).mount();
-      console.log("Glide.js initialized for large screens (initial load).");
-    } else {
-      console.log("Glide.js not initialized for small screens (initial load).");
+    if (glideElement) {
+      const glide = new Glide(glideElement, {
+        type: 'carousel',
+        autoplay: 3000,
+        hoverpause: true,
+        perView: 1,
+        animationDuration: 1500,
+        gap: 0,
+      });
+
+      let isMounted = false;
+
+      function updateGlide() {
+        if (window.matchMedia(mediaQuery).matches) {
+          if (!isMounted) {
+            glide.mount();
+            isMounted = true;
+          }
+        } else {
+          if (isMounted) {
+            glide.destroy();
+            isMounted = false;
+          }
+        }
+      }
+
+      updateGlide(); // Initial check
+      window.addEventListener('resize', updateGlide); // Check on resize
     }
-    // IMPORTANT: No event listener for 'change' here.
-    // This means Glide will NOT react to window resizes after initial load.
   });
 </script>
