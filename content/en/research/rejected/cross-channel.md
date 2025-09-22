@@ -1,4 +1,5 @@
 ---
+rejectionReason: A restatement of the other feedback loop ideas.
 draft: true
 skin: dark
 title: Why Your LinkedIn Posts Convert But Your Emails Don't

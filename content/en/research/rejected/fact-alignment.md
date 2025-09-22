@@ -1,4 +1,5 @@
 ---
+rejectionReason: Unable to compete against established fact management tools. May be an angle for tying into them via an API to do the actual regeneration, but that would confuse my app's value prop
 draft: true
 skin: pastel-pop
 title: The Single Source of Truth for Your Revenue Pipeline

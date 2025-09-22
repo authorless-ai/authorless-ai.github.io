@@ -2,18 +2,18 @@
 draft: true
 skin: dark
 siteTitle: ContentPilot AI
-title: Activate Your Segments with Proven Creative
-heroDescription: Connect your CDP, test creative strategies on your live segments, and get a proven playbook on what content to create. Stop guessing, start proving.
+title: Activate Your Segments with Proven Emotionally-Driven Creative
+heroDescription: Connect your CDP, perform emotional A/B testing on your live segments, and deploy what's proven to work.
 
 features:
   - title: The Strategic Testing Loop
-    image: "/images/strategic-testing-loop.png"
+    image: "/images/persona.png"
     image_alt: "A diagram showing a user-defined hypothesis being tested on a CDP segment, leading to a clear strategic insight."
     description:
-      - Turn your strategic questions into data-backed answers. Connect your data, test your ideas, and deploy what's proven to work.
+#      - Turn your strategic questions into data-backed answers. Connect your data, test your ideas, and deploy what's proven to work.
     points:
       - title: Connect Your CDP & Target a Segment
-        description: Directly integrate with your CDP (Segment, Tealium, etc.) and select the live audience you want to understand—like 'At-Risk Users' or 'High-Intent Leads'.
+#        description: Directly integrate with your CDP (Segment, Tealium, etc.) and select the live audience you want to understand—like 'At-Risk Users' or 'High-Intent Leads'.
       - title: Test Your Creative Hypothesis
         description: You define the strategic experiment (e.g., 'Benefit vs. Fear' messaging). Our AI then generates the multi-platform campaign variations and runs the test to get real performance data.
       - title: Deploy Your Winning Strategy Instantly

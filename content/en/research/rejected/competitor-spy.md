@@ -1,4 +1,5 @@
 ---
+rejectionReason: To do this effectively requires a lot of work (analysing lots of competitor signals). A simple version is possible, but this is a secondary, minor feature not one to draw users from the established players
 draft: true
 title: Steal Your Competitor's Market Share
 heroDescription: While you're guessing, your competitors are converting. Our AI analyzes their winning strategies, finds the gaps in their messaging, and generates the counter-content you need to steal their audience and win the market.

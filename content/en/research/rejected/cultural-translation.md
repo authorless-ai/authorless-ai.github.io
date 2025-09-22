@@ -1,4 +1,5 @@
 ---
+rejectionReason: Few serious marketers would trust AI. So this relies on human oversight. Existing translation platforms already offer this, so it'd be trivial for them to add Hofstede. Thus, no moat.
 draft: true
 skin: dark
 title: Master Global Markets with Cultural Intelligence

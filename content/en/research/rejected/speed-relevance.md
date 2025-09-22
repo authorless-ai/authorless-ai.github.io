@@ -1,4 +1,5 @@
 ---
+rejectionReason: As with the intelligence-flywheel, this makes me compete with existing CDPs. Far better to leverage them.
 draft: true
 title: Convert Your Market with Living Customer Intelligence
 heroDescription: Stop guessing what converts. Our AI discovers your most profitable customer personas, deploys self-learning campaigns to engage them, and proves what drives revenue with data-driven A/B tests on your key landing pages.

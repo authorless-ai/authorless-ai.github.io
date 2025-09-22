@@ -1,4 +1,5 @@
 ---
+rejectionReason: Customer Data Platforms (CDPs) already centralise persona info by centralising from multiple sources. Not something I should try to replicate. A better play is to integrate with them (see content-strategy-engine.md)
 draft: true
 skin: indigo-glow
 siteTitle: FlyWheel
