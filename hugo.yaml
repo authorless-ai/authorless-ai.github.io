@@ -34,6 +34,12 @@ languages:
     languageCode: 'fr'
     languageName: 'Français'
     weight: 2
+  es:
+    contentDir: 'content/es'
+    disabled: false
+    languageCode: 'es'
+    languageName: 'Español'
+    weight: 3
 
 disableKinds:
   - taxonomy
