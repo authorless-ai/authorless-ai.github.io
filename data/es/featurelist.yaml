@@ -1,0 +1,30 @@
+title: "Un Arsenal para una Conexión Auténtica"
+description: "Las herramientas de IA genéricas te dan una lista de características. Nosotros te damos una nueva forma de trabajar. Cada herramienta en Authorless está diseñada para reemplazar la producción robótica con una conexión humana, convirtiendo tu contenido de un pasivo en tu activo más poderoso."
+features:
+  - iconColor: "primary"
+    title: "Motor de Contenido Resonante"
+    icon: edit
+    points:
+      - description: "Crea <b>más de 70 tipos de contenido</b> que hablan directamente a las necesidades de tu audiencia."
+      - description: "Ve más allá de las palabras clave con contenido optimizado tanto para los motores de búsqueda como para la <b>conexión humana</b>."
+      - description: "Obtén ideas de contenido infinitas basadas en lo que a tu audiencia realmente le importa."
+      - description: "Usa nuestro editor de IA para refinar tu mensaje y lograr el máximo impacto emocional."
+      - description: "Crea campañas en masa que consistentemente <b>generan confianza, no solo llenan un calendario</b>."
+  - iconColor: "primary"
+    title: "Estrategia Basada en la Empatía"
+    icon: chart
+    points:
+      - description: "Apunta a los <b>impulsores emocionales</b> centrales y las etapas del viaje de compra de tu audiencia."
+      - description: "Desarrolla una voz de marca verdaderamente auténtica que te distinga de los robots."
+      - description: "Planifica y visualiza tu estrategia de conexión con nuestro calendario de contenido."
+      - description: "Crea perfiles de audiencia profundos que desbloquean mensajes potentes y relevantes."
+      - description: "Alinea cada campaña con un único objetivo: crear una conexión genuina que convierta."
+  - iconColor: "primary"
+    title: "Ejecución sin Esfuerzo"
+    icon: upload
+    points:
+      - description: "Automatiza tu <b>estrategia de conexión</b> con una programación inteligente."
+      - description: "Publica contenido resonante directamente en tu blog y canales sociales."
+      - description: "Gestiona todas tus campañas y marcas centradas en el ser humano en un solo lugar."
+      - description: "Organiza tus activos en una biblioteca de medios central."
+      - description: "Empodera a todo tu equipo para crear contenido consistentemente empático."

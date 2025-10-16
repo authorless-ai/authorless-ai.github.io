@@ -12,7 +12,7 @@
     {{ partial "faq.html" . }}
   {{ end }}
 
-  {{ partial "feature/cta.html" .Site.Data.cta }}
+  {{ partial "feature/cta.html" (index .Site.Data .Site.Language.Lang).cta }}
 
 </article>
 {{ end }}

@@ -1,12 +1,14 @@
 {{ $features := .context.Params.features }}
-{{ $start := .start | default 0 }}
-{{ $end := .end | default (len $features) }}
 {{ $swapBackgrounds := .swapBackgrounds | default false }}
 
 {{ $featureSubset := slice }}
-{{ range $i, $feature := $features }}
-    {{ if and (ge $i $start) (lt $i $end) }}
-        {{ $featureSubset = $featureSubset | append $feature }}
+{{ if $features }}
+    {{ $start := .start | default 0 }}
+    {{ $end := .end | default (len $features) }}
+    {{ range $i, $feature := $features }}
+        {{ if and (ge $i $start) (lt $i $end) }}
+            {{ $featureSubset = $featureSubset | append $feature }}
+        {{ end }}
     {{ end }}
 {{ end }}
 
