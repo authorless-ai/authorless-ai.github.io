@@ -1,19 +1,18 @@
 {{ $menuName := .MenuName }}
 {{ $menu := index .Site.Menus $menuName }}
-{{ $currentLanguage := .Site.Language.Lang }}
 
 {{ if $menu }}
-<div id="{{ $menuName }}-mega-menu"
+<div id="{{ $menuName }}menu-mega-menu"
      class="hidden mt-1 bg-white border border-gray-100 shadow-md dark:bg-gray-800 dark:border-gray-600">
   <div
       class="max-w-screen-xl px-4 py-5 mx-auto text-gray-900 dark:text-white md:px-6 max-h-72 sm:max-h-full overflow-y-auto">
     <ul class="grid grid-cols-1 sm:grid-cols-2 gap-4">  <!-- Added grid layout -->
-      {{ range where $menu "Params.language" $currentLanguage }}
+      {{ range $menu }}
         <li>
-          <a href="{{ .URL }}" class="block p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
-            <div class="font-semibold">{{ .Name }}</div>
+          <a href="{{ .URL | relLangURL }}" class="block p-3 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700">
+            <div class="font-semibold">{{ T .Name }}</div>
             {{ if .Params.description }}
-              <span class="text-sm text-gray-500 dark:text-gray-400">{{ .Params.description }}</span>
+              <span class="text-sm text-gray-500 dark:text-gray-400">{{ T .Params.description }}</span>
             {{ end }}
           </a>
         </li>

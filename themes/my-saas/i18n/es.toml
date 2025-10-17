@@ -1,49 +1,43 @@
-[more]
-other = "Más"
+# Nav
+[features]
+other = "Características"
+[solutions]
+other = "Soluciones"
+[pricing]
+other = "Precios"
+[contact]
+other = "Contacto"
+[login]
+other = "Iniciar Sesión"
+[signup]
+other = "Registrarse"
 
-[allTitle]
-other = "Todos los {{.Title }}"
+[ai_content_writing]
+other = "Escritura de Contenido con IA"
+[multi_platform_scheduling]
+other = "Programación Multiplataforma"
+[direct_publishing]
+other = "Publicación Directa"
+[ai_content_suggestions]
+other = "Sugerencias de Contenido de IA"
+[marketing_strategy]
+other = "Estrategia de Marketing"
+[ai_content_translation]
+other = "Traducción de Contenido con IA"
+[built_for_teams]
+other = "Creado para Equipos"
+[multiple_brands_and_projects]
+other = "Múltiples Marcas y Proyectos"
 
-[recentTitle]
-other = "{{.Title }} recientes"
-
-[readMore]
-other = "Leer más"
-
-[by]
-other = "Por"
-
-[whatsInThis]
-other = "Qué hay en este {{ .Type }}"
-
-[related]
-other = "Relacionado"
-
-[yourName]
-other = "Tu nombre"
-
-[emailAddress]
-other = "Dirección de correo electrónico"
-
-[message]
-other = "Mensaje"
-
-[emailRequiredNote]
-other = "Se requiere una dirección de correo electrónico."
-
-[send]
-other = "Enviar"
-
-[taxonomyPageList]
-other = "A continuación encontrará las páginas asociadas a “{{ .Title }}”"
-
-[readingTime]
-one = "Lectura en un minuto"
-other = "Lectura en {{ .Count }} minutos"
-
-[wordCount]
-one = "Una palabra"
-other = "{{ .Count }} palabras"
-
-[pageTitle]
-other = "{{ .Name }} pagina"
+[marketing_agencies]
+other = "Agencias de Marketing"
+[businesses]
+other = "Empresas"
+[thought_leaders]
+other = "Líderes de Opinión"
+[non_profits_and_charities]
+other = "ONGs y Organizaciones Benéficas"
+[influencers_and_creators]
+other = "Influencers y Creadores"
+[dropshippers]
+other = "Dropshippers"
