@@ -1,0 +1,4 @@
+Watching for changes in /app/{archetypes,content,data,package.json,postcss.config.js,static,tailwind.config.js,themes}
+Watching for config changes in /app/hugo.yaml, /app/themes/my-saas/config.yaml
+Start building sites …
+hugo v0.151.2-a3574f6f70c9b272e3de53cf976018ee3ff16fd1+extended+withdeploy linux/amd64 BuildDate=2025-10-16T16:52:34Z VendorInfo=gohugoio

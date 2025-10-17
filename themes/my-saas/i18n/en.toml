@@ -47,3 +47,30 @@ other = "{{ .Count }} words"
 
 [pageTitle]
 other = "{{ .Name }} page"
+
+[features]
+other = "Features"
+
+[solutions]
+other = "Solutions"
+
+[learn]
+other = "Learn"
+
+[pricing]
+other = "Pricing"
+
+[contactUs]
+other = "Contact us"
+
+[company]
+other = "Company"
+
+[resources]
+other = "Resources"
+
+[allRightsReserved]
+other = "All Rights Reserved"
+
+[faq]
+other = "Frequently Asked Questions"

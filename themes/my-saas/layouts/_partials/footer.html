@@ -32,10 +32,10 @@
                 </ul>
                 */}}
                 <div class="max-w-full sm:max-w-1/2 lg:max-w-full">
-                  <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
+                  <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "company" }}</h2>
                   <ul class="flex lg:flex-col justify-between mt-5 space-x-4 text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
-                      <a href="{{ $contact.Permalink }}" class="hover:underline">Contact Us</a>
+                      <a href="{{ $contact.Permalink }}" class="hover:underline">{{ T "contactUs" }}</a>
                     </li>
                     <li class="mb-4">
                       <a href="{{- .Site.Params.privacyPolicy -}}" class="hover:underline">Privacy Policy</a>
@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Features</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "features" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                   {{ range .Site.Menus.featuresmenu }}
                     <li class="mb-4">
@@ -95,7 +95,7 @@
                 </ul>
             </div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Solutions</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "solutions" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                   {{ range .Site.Menus.solutionsmenu }}
                     <li class="mb-4">
@@ -105,7 +105,7 @@
                 </ul>
             </div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "resources" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
                         <a href="#" class="hover:underline">Blog</a>
@@ -149,7 +149,7 @@
             */}}
         </div>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
-        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. All Rights Reserved.</span>
+        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. {{ T "allRightsReserved" }}</span>
     </div>
   {{ end }}
 </footer>
