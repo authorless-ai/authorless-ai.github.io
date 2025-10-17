@@ -60,82 +60,194 @@ menus:
     - name: AI Content Writing
       url: "/features/content-writing/"
       weight: 10
+      language: en
       params:
         description: "Create professional-quality content in minutes, not hours"
+    - name: Escritura de Contenido con IA
+      url: "/es/features/escritura-de-contenido/"
+      weight: 10
+      language: es
+      params:
+        description: "Crea contenido de calidad profesional en minutos, no en horas"
     - name: Multi-Platform Scheduling
       url: "/features/scheduling/"
       weight: 20
+      language: en
       params:
         description: "Maintain consistency with automated content scheduling"
+    - name: Programación Multiplataforma
+      url: "/es/features/programacion/"
+      weight: 20
+      language: es
+      params:
+        description: "Mantén la consistencia con la programación de contenido automatizada"
     - name: Direct Publishing
       url: "/features/publishing/"
       weight: 30
+      language: en
       params:
         description: "Post everywhere with one-click multi-platform publishing"
+    - name: Publicación Directa
+      url: "/es/features/publicacion/"
+      weight: 30
+      language: es
+      params:
+        description: "Publica en todas partes con un solo clic"
     - name: AI Content Suggestions
       url: "/features/suggestions/"
       weight: 40
+      language: en
       params:
         description: "Never run out of ideas with AI-powered content suggestions"
+    - name: Sugerencias de Contenido de IA
+      url: "/es/features/sugerencias/"
+      weight: 40
+      language: es
+      params:
+        description: "Nunca te quedes sin ideas con las sugerencias de contenido impulsadas por IA"
     - name: Marketing Strategy
       url: "/features/marketing-strategy/"
       weight: 50
+      language: en
       params:
         description: "Drive results with automatic customer journey content"
+    - name: Estrategia de Marketing
+      url: "/es/features/estrategia-de-marketing/"
+      weight: 50
+      language: es
+      params:
+        description: "Impulsa los resultados con contenido automático del viaje del cliente"
     - name: AI Content Translation
       url: "/features/translation/"
       weight: 60
+      language: en
       params:
         description: "Reach global audiences with instant AI content translation"
+    - name: Traducción de Contenido con IA
+      url: "/es/features/traduccion/"
+      weight: 60
+      language: es
+      params:
+        description: "Alcanza audiencias globales con traducción de contenido instantánea con IA"
     - name: Built for Teams
       url: "/features/teams/"
       weight: 70
+      language: en
       params:
         description: "Collaborate seamlessly with your team on all your content"
+    - name: Creado para Equipos
+      url: "/es/features/equipos/"
+      weight: 70
+      language: es
+      params:
+        description: "Colabora sin problemas con tu equipo en todo tu contenido"
     - name: Multiple Brands and Projects
       url: "/features/projects/"
       weight: 80
+      language: en
       params:
         description: "Manage content for multiple brands or projects from a single account"
+    - name: Múltiples Marcas y Proyectos
+      url: "/es/features/proyectos/"
+      weight: 80
+      language: es
+      params:
+        description: "Gestiona contenido para múltiples marcas o proyectos desde una sola cuenta"
   resourcesMenu:
     - name: Documentation
       url: /docs/
       weight: 10
+      language: en
       params:
         description: "Access our comprehensive documentation"
+    - name: Documentación
+      url: /es/docs/
+      weight: 10
+      language: es
+      params:
+        description: "Accede a nuestra completa documentación"
     - name: Blog
       url: /blog/
       weight: 20
+      language: en
       params:
         description: "All the latest on our blog"
+    - name: Blog
+      url: /es/blog/
+      weight: 20
+      language: es
+      params:
+        description: "Todo lo último en nuestro blog"
   solutionsMenu:
     - name: Marketing Agencies
       url: /solutions/agencies/
       weight: 10
+      language: en
       params:
         description: "Deliver results, scale content with efficient AI power"
+    - name: Agencias de Marketing
+      url: /es/solutions/agencias/
+      weight: 10
+      language: es
+      params:
+        description: "Entrega resultados, escala contenido con el poder eficiente de la IA"
     - name: Businesses
       url: /solutions/businesses/
       weight: 20
+      language: en
       params:
         description: "Consistent lead generation with automated strategy and calendar"
+    - name: Empresas
+      url: /es/solutions/empresas/
+      weight: 20
+      language: es
+      params:
+        description: "Generación de leads consistente con estrategia y calendario automatizados"
     - name: Thought Leaders
       url: /solutions/thought-leaders/
       weight: 30
+      language: en
       params:
         description: "Automate social posts to build authority while you sleep"
+    - name: Líderes de Opinión
+      url: /es/solutions/lideres-de-opinion/
+      weight: 30
+      language: es
+      params:
+        description: "Automatiza las publicaciones en redes sociales para construir autoridad mientras duermes"
     - name: Non-Profits and Charities
       url: /solutions/non-profits/
       weight: 40
+      language: en
       params:
         description: "Amplify mission, engaging stories, effortless scheduling"
+    - name: ONGs y Organizaciones Benéficas
+      url: /es/solutions/organizaciones-sin-fines-de-lucro/
+      weight: 40
+      language: es
+      params:
+        description: "Amplifica la misión, historias atractivas, programación sin esfuerzo"
     - name: Influencers & Creators
       url: /solutions/influencers/
       weight: 50
+      language: en
       params:
         description: "Effortless growth with multi-platform publishing and automation"
+    - name: Influencers y Creadores
+      url: /es/solutions/influencers/
+      weight: 50
+      language: es
+      params:
+        description: "Crecimiento sin esfuerzo con publicación multiplataforma y automatización"
     - name: Dropshippers
       url: /solutions/dropshippers/
       weight: 60
+      language: en
       params:
         description: "Bulk content creation and automated social media campaigns"
+    - name: Dropshippers
+      url: /es/solutions/dropshippers/
+      weight: 60
+      language: es
+      params:
+        description: "Creación de contenido en masa y campañas automatizadas en redes sociales"
