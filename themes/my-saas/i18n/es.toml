@@ -61,7 +61,7 @@ other = "Aprender"
 other = "Precios"
 
 [contactUs]
-other = "Contáctenos"
+other = "Contacto"
 
 [company]
 other = "Compañía"
@@ -74,3 +74,21 @@ other = "Todos los derechos reservados"
 
 [faq]
 other = "Preguntas frecuentes"
+
+[learnMore]
+other = "Aprende más"
+
+[signUp]
+other = "Regístrate"
+
+[logIn]
+other = "Iniciar sesión"
+
+[getStarted]
+other = "Empezar"
+
+[submit]
+other = "Enviar"
+
+[cancel]
+other = "Cancelar"
