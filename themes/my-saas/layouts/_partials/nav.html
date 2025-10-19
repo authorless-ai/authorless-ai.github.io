@@ -1,6 +1,6 @@
-{{ $blogIndex := .GetPage "blog" }}
-{{ $pricing := .GetPage "pricing" }}
-{{ $contact := .GetPage "contact" }}
+{{ $blogIndex := .Site.GetPage "blog" }}
+{{ $pricing := .Site.GetPage (.Params.pricingPageName | default "pricing") }}
+{{ $contact := .Site.GetPage (.Params.contactPageName | default "contact") }}
 
 
 <header>

@@ -92,3 +92,24 @@ other = "Enviar"
 
 [cancel]
 other = "Cancelar"
+
+[startNow]
+other = "Empieza ahora"
+
+[startNowFree]
+other = "Empieza ahora &ndash; Gratis"
+
+[joinOurNewsletter]
+other = "Únete a nuestro boletín"
+
+[newsletterDescription]
+other = "Aprende sobre {{ . }}, marketing de contenidos y recibe descuentos exclusivos"
+
+[enterYourEmail]
+other = "Ingresa tu correo electrónico"
+
+[subscribe]
+other = "Suscríbete"
+
+[privacyNotice]
+other = "Nunca vendemos tus datos. Por favor, lee nuestra <a href=\"/es/privacy-policy/\" class=\"hover:underline\">Política de Privacidad</a>."

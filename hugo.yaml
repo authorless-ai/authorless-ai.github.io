@@ -40,6 +40,9 @@ languages:
     languageCode: 'es'
     languageName: 'Español'
     weight: 3
+    params:
+      pricingPageName: "precios"
+      contactPageName: "contacto"
     menus:
       main:
         - name: "Características"

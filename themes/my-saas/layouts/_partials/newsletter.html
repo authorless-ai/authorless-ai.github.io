@@ -3,9 +3,8 @@
         <div
                 class="items-center justify-between gap-8 p-6 text-gray-900 dark:text-white lg:flex md:p-12">
             <div class="w-full lg:flex-1">
-                <h2 class="mb-4 text-3xl font-semibold tracking-tight">Join our newsletter</h2>
-                <p class="text-gray-500 dark:text-gray-400 sm:text-xl">Learn about
-                  {{ .Site.Title }}, content marketing and receive exclusive discounts</p>
+                <h2 class="mb-4 text-3xl font-semibold tracking-tight">{{ T "joinOurNewsletter" }}</h2>
+                <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ T "newsletterDescription" .Site.Title }}</p>
             </div>
 
             <div class="mt-6 lg:mt-0">
@@ -23,16 +22,15 @@
                             </div>
                             <input id="email" name="email"
                                     class="block w-full p-3 pl-10 text-sm text-gray-900 bg-white border border-gray-300 rounded-lg sm:rounded-none sm:rounded-l-lg focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
-                                    placeholder="Enter your email" type="email" required="">
+                                    placeholder="{{ T "enterYourEmail" }}" type="email" required="">
                         </div>
                         <div>
                             <button type="submit"
-                                    class="w-full px-5 py-3 text-sm font-medium text-center text-white border rounded-lg cursor-pointer bg-primary-700 border-primary-700 hover:border-primary-800 sm:rounded-none sm:rounded-r-lg hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:border-primary-600 dark:hover:border-primary-700 dark:focus:ring-primary-800">Subscribe</button>
+                                    class="w-full px-5 py-3 text-sm font-medium text-center text-white border rounded-lg cursor-pointer bg-primary-700 border-primary-700 hover:border-primary-800 sm:rounded-none sm:rounded-r-lg hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:border-primary-600 dark:hover:border-primary-700 dark:focus:ring-primary-800">{{ T "subscribe" }}</button>
                         </div>
                     </div>
 
-                    <div class="text-sm text-left text-gray-500 dark:text-gray-400">We never sell your data.
-                        Please read our <a href="{{- .Site.Params.privacyPolicy -}}" class="hover:underline">Privacy Policy</a>.</div>
+                    <div class="text-sm text-left text-gray-500 dark:text-gray-400">{{ T "privacyNotice" | safeHTML }}</div>
                 </form>
             </div>
         </div>

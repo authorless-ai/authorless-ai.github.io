@@ -43,13 +43,13 @@ topFeatures:
   list:
     - title: Redacción de contenido de IA en masa
       description: Crea contenido atractivo de forma rápida y sencilla con la ayuda de la IA
-      target: /features/content-writing/
+      target: /es/features/escritura-de-contenido/
     - title: Estrategia de marketing
       description: ¡Crea sin esfuerzo una estrategia de contenido en torno a tu viaje de compra, no se requiere experiencia en marketing!
-      target: /features/marketing-strategy/
+      target: /es/features/estrategia-de-marketing/
     - title: Sugerencias de contenido de IA
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
-      target: /features/suggestions/
+      target: /es/features/sugerencias/
 faq:
   - q: "Necesito crear contenido para docenas de productos. ¿Puede Authorless manejar eso?"
     a:

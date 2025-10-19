@@ -42,13 +42,13 @@ topFeatures:
   list:
     - title: Redacción de contenido de IA
       description: Crea contenido atractivo de forma rápida y sencilla con la ayuda de la IA
-      target: /features/content-writing/
+      target: /es/features/escritura-de-contenido/
     - title: Programación multiplataforma
       description: Planifica y pon en cola tu contenido sin esfuerzo en múltiples plataformas para un impacto máximo
-      target: /features/scheduling/
+      target: /es/features/programacion/
     - title: Estrategia de marketing
       description: ¡Crea una estrategia de contenido efectiva con la guía de la IA, no se requiere experiencia en marketing!
-      target: /features/marketing-strategy/
+      target: /es/features/estrategia-de-marketing/
 faq:
   - q: "¿Cómo puede Authorless ayudar a nuestra organización sin fines de lucro con un presupuesto limitado?"
     a:

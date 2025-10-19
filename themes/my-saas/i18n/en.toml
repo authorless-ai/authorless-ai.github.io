@@ -92,3 +92,24 @@ other = "Submit"
 
 [cancel]
 other = "Cancel"
+
+[startNow]
+other = "Start now"
+
+[startNowFree]
+other = "Start now &ndash; Free"
+
+[joinOurNewsletter]
+other = "Join our newsletter"
+
+[newsletterDescription]
+other = "Learn about {{ . }}, content marketing and receive exclusive discounts"
+
+[enterYourEmail]
+other = "Enter your email"
+
+[subscribe]
+other = "Subscribe"
+
+[privacyNotice]
+other = "We never sell your data. Please read our <a href=\"/privacy-policy/\" class=\"hover:underline\">Privacy Policy</a>."

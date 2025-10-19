@@ -46,13 +46,13 @@ topFeatures:
   list:
     - title: Redacción de contenido de IA en masa
       description: Crea contenido atractivo de forma rápida y sencilla con la ayuda de la IA
-      target: /features/content-writing/
+      target: /es/features/escritura-de-contenido/
     - title: Programación multiplataforma
       description: Planifica y pon en cola tu contenido sin esfuerzo en múltiples plataformas para un impacto máximo
-      target: /features/scheduling/
+      target: /es/features/programacion/
     - title: Sugerencias de contenido de IA
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
-      target: /features/suggestions/
+      target: /es/features/sugerencias/
 faq:
   - q: "Ya estoy saturado de colaboraciones y eventos, ¿cómo puede ayudarme Authorless?"
     a:

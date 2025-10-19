@@ -58,32 +58,32 @@ topFeatures:
   list:
     - title: Contenido que convierte
       description: "Genera contenido persuasivo basado en los principales motivadores emocionales y el viaje de compra de tu audiencia."
-      target: /features/marketing-strategy/
+      target: /es/features/estrategia-de-marketing/
     - title: "Campañas estratégicas automatizadas"
       description: "Planifica y automatiza embudos de contenido completos que nutran a los clientes potenciales e impulsen las ventas."
-      target: /features/scheduling/
+      target: /es/features/programacion/
     - title: "Estrategia de nivel experto accesible"
       description: "Implementa un plan de marketing sofisticado sin necesidad de un equipo de estrategia grande y especializado."
-      target: /features/marketing-strategy/
+      target: /es/features/estrategia-de-marketing/
 featureCards:
   title: "Diseñado para un enfoque de marketing más inteligente"
   description: "Más funciones esenciales de Authorless que tu equipo necesita para ofrecer contenido excepcional y demostrar su impacto."
   cards:
   - title: "Generación de ideas centrada en la conversión"
     description: "Obtén sugerencias impulsadas por IA para temas de contenido que resonarán profundamente e impulsarán los objetivos estratégicos."
-    url: "/features/suggestions/"
+    url: "/es/features/sugerencias/"
     icon: lightbulb
   - title: "Publicación multicanal"
     description: "Publica sin problemas tu contenido estratégico en todas las plataformas clave donde vive tu audiencia."
-    url: "/features/publishing/"
+    url: "/es/features/publicacion/"
     icon: upload
   - title: "Inteligencia de embudo incorporada"
     description: "Desarrolla estrategias efectivas con una IA que entiende cómo crear contenido para cada etapa del viaje del cliente."
-    url: "/features/marketing-strategy/"
+    url: "/es/features/estrategia-de-marketing/"
     icon: briefcase
   - title: "Colaboración en equipo optimizada"
     description: "Permite que todo tu equipo cree contenido acorde con la marca y alineado estratégicamente dentro de una única plataforma controlada."
-    url: "/features/teams/"
+    url: "/es/features/equipos/"
     icon: users
 faq:
   - q: "Siguen mencionando las 'fábricas de contenido basura de IA'. ¿A qué se refieren exactamente?"

@@ -58,32 +58,32 @@ topFeatures:
   list:
     - title: "Gestión de audiencias de múltiples clientes"
       description: "Crea y gestiona estrategias de marca y audiencia distintas y empáticas para cada cliente en un entorno seguro y aislado."
-      target: "/features/projects/"
+      target: "/es/features/proyectos/"
     - title: "Un motor de IA para la conexión humana"
       description: "Ve más allá de las palabras clave para generar contenido que hable a las audiencias de tus clientes a un nivel verdaderamente humano."
-      target: "/features/marketing-strategy/"
+      target: "/es/features/estrategia-de-marketing/"
     - title: "Publicación estratégica automatizada"
       description: "Planifica e implementa contenido que construya una narrativa poderosa, cohesiva y efectiva para tus clientes a lo largo del tiempo."
-      target: "/features/scheduling/"
+      target: "/es/features/programacion/"
 featureCards:
   title: "Diseñado para amplificar el valor de tu agencia"
   description: "Más funciones esenciales de Authorless para ayudarte a ofrecer resultados excepcionales y hacer crecer tu negocio."
   cards:
   - title: "Constructor de estrategias centrado en el ser humano"
     description: "Desarrolla estrategias de contenido efectivas basadas en marcos probados de viajes de audiencia y motivadores emocionales."
-    url: "/features/marketing-strategy/"
+    url: "/es/features/estrategia-de-marketing/"
     icon: briefcase
   - title: "Entrega multiplataforma optimizada"
     description: "Publica contenido resonante directamente en los canales del cliente sin el flujo de trabajo de copiar y pegar que acaba con el alma."
-    url: "/features/publishing/"
+    url: "/es/features/publicacion/"
     icon: upload
   - title: "Generación de ideas perspicaces"
     description: "Obtén sugerencias de temas arraigadas en intereses genuinos de la audiencia, no solo en un relleno robótico de palabras clave."
-    url: "/features/suggestions/"
+    url: "/es/features/sugerencias/"
     icon: lightbulb
   - title: "Colaboración en equipo perfecta"
     description: "Capacita a todo tu equipo para que trabaje en conjunto creando contenido de marca y emocionalmente inteligente para cada cliente."
-    url: "/features/teams/"
+    url: "/es/features/equipos/"
     icon: users
 featureList:
   title: "Un socio estratégico de IA para agencias de marketing"
