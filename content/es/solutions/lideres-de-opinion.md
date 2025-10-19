@@ -8,7 +8,8 @@ features:
   image_alt: "Imagen de característica de oficina 1"
   description:
     - ¿Cansado de que la creación de contenido de LinkedIn consuma tu valioso tiempo? Authorless reduce drásticamente las horas que dedicas a escribir y editar publicaciones.
-    - Genera actualizaciones de LinkedIn bien pensadas en minutos, liberándote para que te concentres en lo que realmente importa: tu negocio y tu experiencia.
+    - |
+      Genera actualizaciones de LinkedIn bien pensadas en minutos, liberándote para que te concentres en lo que realmente importa: tu negocio y tu experiencia.
   points:
     - title: Crea contenido de LinkedIn en minutos
       description: Reduce el tiempo de creación de publicaciones de LinkedIn de horas a minutos con la ayuda de la IA.

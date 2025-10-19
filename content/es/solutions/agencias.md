@@ -8,7 +8,8 @@ features:
   image_alt: "Un equipo de estrategas de agencia definiendo perfiles de clientes y motivadores emocionales."
   description:
     - El mejor trabajo que produce tu agencia proviene de una profunda comprensión del cliente del cliente. Authorless es la primera plataforma diseñada para capturar y escalar esa visión estratégica única.
-    - Nuestro marco te ayuda a codificar la audiencia de cada cliente: sus necesidades, motivaciones y motivadores emocionales. Esto se convierte en la base inteligente para cada pieza de contenido que la IA te ayuda a crear.
+    - |
+      Nuestro marco te ayuda a codificar la audiencia de cada cliente: sus necesidades, motivaciones y motivadores emocionales. Esto se convierte en la base inteligente para cada pieza de contenido que la IA te ayuda a crear.
   points:
     - title: "Incorpora tu visión estratégica"
       description: "Define los perfiles de audiencia y los desencadenantes de compra únicos de cada cliente para guiar el pensamiento de la IA desde el principio."

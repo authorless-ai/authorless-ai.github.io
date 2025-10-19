@@ -18,7 +18,7 @@ features:
       description:
         Reduce el tiempo de creación de contenido de horas a minutos con la ayuda de la IA.
     - title: Mantente en control
-      description:
+      description: |
         Aprueba cada pieza de contenido antes de que se publique: siempre eres la voz de tu marca.
   footer:
     - Tu tiempo es precioso. Authorless te ayuda a usarlo sabiamente, mientras amplifica tu alcance e impacto.

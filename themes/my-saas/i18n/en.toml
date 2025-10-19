@@ -74,3 +74,21 @@ other = "All Rights Reserved"
 
 [faq]
 other = "Frequently Asked Questions"
+
+[logIn]
+other = "Log in"
+
+[signUp]
+other = "Sign up"
+
+[learnMore]
+other = "Learn more"
+
+[getStarted]
+other = "Get started"
+
+[submit]
+other = "Submit"
+
+[cancel]
+other = "Cancel"

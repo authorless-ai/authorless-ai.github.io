@@ -40,6 +40,103 @@ languages:
     languageCode: 'es'
     languageName: 'Español'
     weight: 3
+    menus:
+      main:
+        - name: "Características"
+          weight: 10
+          identifier: "features"
+        - name: "Soluciones"
+          weight: 20
+          identifier: "solutions"
+        - name: "Precios"
+          url: "/es/precios/"
+          weight: 30
+        - name: "Contacto"
+          url: "/es/contacto/"
+          weight: 40
+      featuresMenu:
+        - name: "Redacción de contenido con IA"
+          url: "/es/features/escritura-de-contenido/"
+          weight: 10
+          params:
+            description: "Crea contenido de calidad profesional en minutos, no en horas"
+        - name: "Programación multiplataforma"
+          url: "/es/features/programacion/"
+          weight: 20
+          params:
+            description: "Mantén la coherencia con la programación automatizada de contenido"
+        - name: "Publicación directa"
+          url: "/es/features/publicacion/"
+          weight: 30
+          params:
+            description: "Publica en todas partes con la publicación multiplataforma con un solo clic"
+        - name: "Sugerencias de contenido de IA"
+          url: "/es/features/sugerencias/"
+          weight: 40
+          params:
+            description: "Nunca te quedes sin ideas con las sugerencias de contenido impulsadas por IA"
+        - name: "Estrategia de marketing"
+          url: "/es/features/estrategia-de-marketing/"
+          weight: 50
+          params:
+            description: "Impulsa los resultados con el contenido automático del viaje del cliente"
+        - name: "Traducción de contenido con IA"
+          url: "/es/features/traduccion/"
+          weight: 60
+          params:
+            description: "Llega a audiencias globales con la traducción instantánea de contenido con IA"
+        - name: "Creado para equipos"
+          url: "/es/features/equipos/"
+          weight: 70
+          params:
+            description: "Colabora sin problemas con tu equipo en todo tu contenido"
+        - name: "Múltiples marcas y proyectos"
+          url: "/es/features/proyectos/"
+          weight: 80
+          params:
+            description: "Gestiona el contenido de múltiples marcas o proyectos desde una sola cuenta"
+      resourcesMenu:
+        - name: "Documentación"
+          url: /es/docs/
+          weight: 10
+          params:
+            description: "Accede a nuestra completa documentación"
+        - name: "Blog"
+          url: /es/blog/
+          weight: 20
+          params:
+            description: "Todo lo último en nuestro blog"
+      solutionsMenu:
+        - name: "Agencias de marketing"
+          url: /es/solutions/agencias/
+          weight: 10
+          params:
+            description: "Ofrece resultados, escala el contenido con la potencia eficiente de la IA"
+        - name: "Empresas"
+          url: /es/solutions/empresas/
+          weight: 20
+          params:
+            description: "Generación de leads consistente con estrategia y calendario automatizados"
+        - name: "Líderes de opinión"
+          url: /es/solutions/lideres-de-opinion/
+          weight: 30
+          params:
+            description: "Automatiza las publicaciones en redes sociales para construir autoridad mientras duermes"
+        - name: "Organizaciones sin fines de lucro y organizaciones benéficas"
+          url: /es/solutions/organizaciones-sin-fines-de-lucro/
+          weight: 40
+          params:
+            description: "Amplifica la misión, historias atractivas, programación sin esfuerzo"
+        - name: "Influencers y creadores"
+          url: /es/solutions/influencers/
+          weight: 50
+          params:
+            description: "Crecimiento sin esfuerzo con publicación y automatización multiplataforma"
+        - name: "Dropshippers"
+          url: /es/solutions/dropshippers/
+          weight: 60
+          params:
+            description: "Creación de contenido masivo y campañas automatizadas en redes sociales"
 
 disableKinds:
   - taxonomy
