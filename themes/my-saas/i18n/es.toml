@@ -96,6 +96,9 @@ other = "Cancelar"
 [startNow]
 other = "Empieza ahora"
 
+[startFreeNow]
+other = "Empieza gratis ahora"
+
 [startNowFree]
 other = "Empieza ahora &ndash; Gratis"
 

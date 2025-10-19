@@ -10,7 +10,7 @@
       <p class="max-w-screen-md mx-auto mb-6 font-normal text-white dark:text-gray-400 md:text-lg">{{ $cta.description }}</p>
       <a href="{{ site.Params.signupUrl }}"
          class="inline-flex items-center text-primary-700 bg-white hover:text-white hover:bg-primary-700 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
-        {{ T "startNowFree" }}
+        {{ T "startNowFree" | safeHTML }}
         <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
              fill="currentColor">
           <path fill-rule="evenodd"
