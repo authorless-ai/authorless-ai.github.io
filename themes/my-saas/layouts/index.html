@@ -36,4 +36,27 @@
   {{ $js := resources.Get "js/scroll-reveal.js" }}
   {{ $js = $js | fingerprint }}
   <script src="{{ $js.RelPermalink }}"></script>
+
+  <script type="text/javascript">
+  if (window.location.pathname === '/') {
+    const supportedLangs = [{{ range site.Languages }}"{{ .Lang }}",{{ end }}];
+    const defaultLang = "{{ site.Home.Lang }}";
+    const userLang = navigator.language || navigator.userLanguage;
+
+    let targetLang = defaultLang;
+
+    if (supportedLangs.includes(userLang)) {
+      targetLang = userLang;
+    } else {
+      const langPrefix = userLang.split('-')[0];
+      if (supportedLangs.includes(langPrefix)) {
+        targetLang = langPrefix;
+      }
+    }
+
+    if (targetLang !== defaultLang) {
+      window.location.replace(`/${targetLang}/`);
+    }
+  }
+  </script>
 {{ end }}
