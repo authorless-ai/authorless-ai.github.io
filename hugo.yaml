@@ -156,6 +156,19 @@ markup:
     endLevel: 6
 
 menus:
+  main:
+  - name: "Features"
+    weight: 10
+    identifier: "features"
+  - name: "Solutions"
+    weight: 20
+    identifier: "solutions"
+  - name: "Pricing"
+    url: "/pricing/"
+    weight: 30
+  - name: "Contact"
+    url: "/contact/"
+    weight: 40
   featuresMenu:
     - name: AI Content Writing
       url: "/features/content-writing/"
