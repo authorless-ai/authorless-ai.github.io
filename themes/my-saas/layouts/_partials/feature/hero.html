@@ -1,19 +1,60 @@
-<section class="bg-white dark:bg-gray-900" id="hero">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
-        <h1 class="mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">
+<section class="bg-white dark:bg-gray-900 relative" id="hero">
+    <div class="absolute inset-y-0 left-1/2 w-1/2 bg-cover bg-left bg-no-repeat z-0"
+      {{ with resources.Get "images/bg-blob.png" }}
+        style="background-image: url('{{ .RelPermalink }}');"
+      {{ end }}>
+    </div>
+
+  <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-12">
+    {{ if .Params.youtubeUrl }}
+    <div class="grid gap-8 items-center mb-8 lg:mb-18 lg:gap-12 lg:grid-cols-12">
+      <div class="col-span-6 text-center sm:mb-6 lg:text-left lg:mb-0">
+        <h1
+          class="mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl xl:text-6xl dark:text-white">
           {{ .Title }}</h1>
-        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
+        <p
+          class="mx-auto mb-6 max-w-xl font-normal text-gray-500 lg:mx-0 xl:mb-8 md:text-lg xl:text-xl dark:text-gray-400 p-4 lg:p-0 bg-white/50 rounded-lg lg:bg-transparent">
           {{ .Params.heroDescription | safeHTML }}
         </p>
+        <a href="{{ site.Params.signupUrl }}"
+          class="signup-button inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
+          {{ T "startFreeNow" }}
+          <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
+            fill="currentColor">
+            <path fill-rule="evenodd"
+              d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+              clip-rule="evenodd"></path>
+          </svg>
+        </a>
+      </div>
+      <div class="col-span-6 md:p-8 lg:p-12">
+        <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4">
+          <iframe class="mx-auto w-full h-62 max-w-xl aspect-video rounded-lg"
+            src="https://www.youtube.com/embed/{{ .Params.youtubeUrl }}" title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen=""></iframe>
+        </div>
+      </div>
+    </div>
+    {{ else }}
+    <div class="text-center">
+      <h1
+        class="mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">
+        {{ .Title }}</h1>
+      <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
+        {{ .Params.heroDescription | safeHTML }}
+      </p>
       <a href="{{ site.Params.signupUrl }}"
-         class="signup-button inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
+        class="signup-button inline-flex items-center text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-lg px-5 py-2.5 mr-2 mb-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">
         {{ T "startFreeNow" }}
         <svg aria-hidden="true" class="w-5 h-5 ml-2 -mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"
-             fill="currentColor">
+          fill="currentColor">
           <path fill-rule="evenodd"
-                d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
-                clip-rule="evenodd"></path>
+            d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+            clip-rule="evenodd"></path>
         </svg>
       </a>
     </div>
+    {{ end }}
+  </div>
 </section>
