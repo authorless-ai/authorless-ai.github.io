@@ -1,21 +1,21 @@
 {{ define "main" }}
 
-  {{ partial "feature/hero.html" . }}
+{{ partial "feature/hero.html" . }}
 
-  <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-12">
-    {{ .Content }}
-  </div>
+<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-12">
+  {{ .Content }}
+</div>
 
-  {{ partial "index/features-3-cols-icons.html" . }}
+{{ partial "index/features-3-cols-icons.html" . }}
 
-  {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
+{{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 2) }}
 
-  {{ partial "solution/feature-list.html" . }}
+{{ partial "solution/feature-list.html" . }}
 
-  {{ if .Params.faq }}
-      {{ partial "faq.html" . }}
-  {{ end }}
+{{ if .Params.faq }}
+{{ partial "faq.html" . }}
+{{ end }}
 
-  {{ partial "feature/cta.html" (index .Site.Data .Site.Language.Lang).cta }}
+{{ partial "feature/cta.html" (dict "cta" (index .Site.Data .Site.Language.Lang).cta "context" .) }}
 
 {{ end }}
