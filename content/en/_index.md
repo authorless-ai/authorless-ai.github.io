@@ -1,7 +1,9 @@
 ---
 title: "Stop Feeding the Slop Factory. Start Creating Content That Connects."
 superTitle: "The End of Robotic AI Content"
-description: "Tired of AI content that sounds robotic and gets ignored? The internet is flooded with low-quality 'slop' that fails to build trust or grow your business. <br/><br/>Authorless is built on a simple, powerful idea: <b>real human connection is what works.</b> We help you create content that makes your audience feel seen, understood, and ready to take the next step."
+heroDescription: 
+- "Tired of AI content that sounds robotic and gets ignored? The internet is flooded with low-quality 'slop' that fails to build trust or grow your business."
+- "Authorless is built on a simple, powerful idea: <b>real human connection is what works.</b> We help you create content that makes your audience feel seen, understood, and ready to take the next step."
 youtubeUrl: "oh7H442YqnY"
 
 introFeatures:
