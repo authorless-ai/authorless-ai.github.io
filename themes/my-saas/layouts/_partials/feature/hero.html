@@ -1,9 +1,11 @@
 <section class="bg-white dark:bg-gray-900 relative" id="hero">
+  {{ if .Params.youtubeUrl }}  
     <div class="absolute inset-y-0 left-1/2 w-1/2 bg-cover bg-left bg-no-repeat z-0"
       {{ with resources.Get "images/bg-blob.png" }}
         style="background-image: url('{{ .RelPermalink }}');"
       {{ end }}>
     </div>
+  {{ end }}
 
   <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-12">
     {{ if .Params.youtubeUrl }}
