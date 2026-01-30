@@ -28,7 +28,11 @@
         <a href="{{ .url }}">
         {{ end }}
           <h3 class="mb-1 text-lg md:text-xl font-semibold leading-tight text-gray-900 dark:text-white">{{ .title }}</h3>
-          <p class="font-normal text-gray-700 dark:text-gray-400 text-base md:text-lg">{{ .description | safeHTML }}</p>
+          {{ $desc := .description }}
+          {{ $descList := cond (reflect.IsSlice $desc) $desc (slice $desc) }}
+          {{ range $descList }}
+          <p class="font-normal text-gray-700 dark:text-gray-400 text-base md:text-lg mb-4">{{ . | safeHTML }}</p>
+          {{ end }}
 
           {{ if .url }}
           <div class="flex justify-end mt-2">
