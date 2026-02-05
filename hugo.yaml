@@ -15,7 +15,8 @@ params:
   recaptchaPublicKey: 6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq
   privacyPolicy: https://app.authorless.ai/pages/legals/privacy-policy/
   mailingListSubscribe: https://app.authorless.ai/feedback/subscribe
-  signupUrl: https://app.authorless.ai/accounts/signup/
+#  signupUrl: https://app.authorless.ai/accounts/signup/
+  signupUrl: /ea/#contact-form
 
 services:
   googleAnalytics:
@@ -163,9 +164,9 @@ menus:
   - name: "Solutions"
     weight: 20
     identifier: "solutions"
-  # - name: "Pricing"
-  #   url: "/pricing/"
-  #   weight: 30
+  - name: "Pricing"
+    url: "/pricing/"
+    weight: 30
   - name: "Contact"
     url: "/contact/"
     weight: 40

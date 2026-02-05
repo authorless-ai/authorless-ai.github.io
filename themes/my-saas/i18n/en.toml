@@ -79,7 +79,8 @@ other = "Frequently Asked Questions"
 other = "Log in"
 
 [signUp]
-other = "Sign up"
+#other = "Sign up"
+other = "Early access"
 
 [learnMore]
 other = "Learn more"

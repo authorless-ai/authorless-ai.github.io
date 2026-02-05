@@ -79,7 +79,8 @@ other = "Preguntas frecuentes"
 other = "Aprende más"
 
 [signUp]
-other = "Regístrate"
+#other = "Regístrate"
+other = "Acceso temprano"
 
 [logIn]
 other = "Iniciar sesión"
