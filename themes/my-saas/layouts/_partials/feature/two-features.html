@@ -26,7 +26,7 @@
         <div>
             <span class="text-base font-medium leading-tight text-gray-700 dark:text-white">{{ .title }}</span>{{ if
             .description }} – {{ end }}
-            <span class="text-base font-light leading-tight text-gray-600 dark:text-white">{{ .description|safeHTML
+            <span class="text-base leading-tight text-gray-600 dark:text-white">{{ .description|safeHTML
                 }}</span>
 
             {{ with .items }}
@@ -69,7 +69,7 @@
                     }}</h2>
                 {{ with $feature.description }}
                 {{ range . }}
-                <p class="mb-8 font-light lg:text-xl">{{ . | safeHTML }}</p>
+                <p class="mb-8 lg:text-xl">{{ . | safeHTML }}</p>
                 {{ end }}
                 {{ end }}
                 {{ with $feature.points }}

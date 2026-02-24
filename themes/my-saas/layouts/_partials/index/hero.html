@@ -14,7 +14,7 @@
         <p class="inline uppercase text-gray-900 font-extrabold mb-4 text-base">{{ .Params.superTitle }}</p>
         {{ end }}
 
-        <h1 class="mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl xl:text-6xl dark:text-white">{{ .Title }}</h1>
+        <h1 class="logo-font mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl xl:text-6xl dark:text-white">{{ .Title }}</h1>
         {{ $desc := .Params.heroDescription | default .Description }}
         {{ $descList := cond (reflect.IsSlice $desc) $desc (slice $desc) }}
         {{ range $descList }}
@@ -47,7 +47,7 @@
       <p class="inline uppercase text-gray-900 font-extrabold mb-4 text-base">{{ .Params.superTitle }}</p>
       {{ end }}
 
-      <h1 class="mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">{{ .Title }}</h1>
+      <h1 class="logo-font mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">{{ .Title }}</h1>
       {{ $desc := .Params.heroDescription | default .Description }}
       {{ $descList := cond (reflect.IsSlice $desc) $desc (slice $desc) }}
       {{ range $descList }}
