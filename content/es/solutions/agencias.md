@@ -7,7 +7,7 @@ features:
   image: "/images/feature-office-1.jpg"
   image_alt: "Un equipo de estrategas de agencia definiendo perfiles de clientes y motivadores emocionales."
   description:
-    - El mejor trabajo que produce tu agencia proviene de una profunda comprensión del cliente del cliente. Authorless es la primera plataforma diseñada para capturar y escalar esa visión estratégica única.
+    - El mejor trabajo que produce tu agencia proviene de una profunda comprensión del cliente del cliente. Bazam es la primera plataforma diseñada para capturar y escalar esa visión estratégica única.
     - |
       Nuestro marco te ayuda a codificar la audiencia de cada cliente: sus necesidades, motivaciones y motivadores emocionales. Esto se convierte en la base inteligente para cada pieza de contenido que la IA te ayuda a crear.
   points:
@@ -24,7 +24,7 @@ features:
   image_alt: "Equipo de la agencia celebrando una exitosa campaña de cliente basada en contenido efectivo."
   description:
     - El dilema clásico de la agencia es elegir entre calidad y velocidad. Aumentar la escala a menudo significa comprometer la misma calidad que te hizo exitoso.
-    - Al comenzar con una base estratégica sólida, Authorless produce borradores iniciales inteligentes y acordes con la marca. Esto reduce drásticamente el tiempo perdido en revisiones, liberando a tu equipo para que se concentre en el pulido creativo final que hace que el trabajo brille.
+    - Al comenzar con una base estratégica sólida, Bazam produce borradores iniciales inteligentes y acordes con la marca. Esto reduce drásticamente el tiempo perdido en revisiones, liberando a tu equipo para que se concentre en el pulido creativo final que hace que el trabajo brille.
   points:
     - title: "Aumenta la verdadera capacidad de tu equipo"
       description: "Capacita a tu equipo para producir más contenido de alta calidad y listo para el cliente sin trabajar más horas."
@@ -51,7 +51,7 @@ features:
     - "Cuando entregas este nivel de calidad a escala, tu agencia se vuelve invaluable."
 cta:
   title: "¿Listo para escalar la experiencia estratégica de tu agencia?"
-  description: "Descubre cómo Authorless puede ayudarte a ofrecer el contenido efectivo y centrado en la audiencia que hace crecer los negocios de tus clientes y el tuyo."
+  description: "Descubre cómo Bazam puede ayudarte a ofrecer el contenido efectivo y centrado en la audiencia que hace crecer los negocios de tus clientes y el tuyo."
 topFeatures:
   title: "Un conjunto de herramientas para la agencia estratégica moderna"
   description: "Echa un vistazo a las funciones diseñadas para amplificar la principal fortaleza de tu agencia: comprender a las audiencias."
@@ -67,7 +67,7 @@ topFeatures:
       target: "/es/features/programacion/"
 featureCards:
   title: "Diseñado para amplificar el valor de tu agencia"
-  description: "Más funciones esenciales de Authorless para ayudarte a ofrecer resultados excepcionales y hacer crecer tu negocio."
+  description: "Más funciones esenciales de Bazam para ayudarte a ofrecer resultados excepcionales y hacer crecer tu negocio."
   cards:
   - title: "Constructor de estrategias centrado en el ser humano"
     description: "Desarrolla estrategias de contenido efectivas basadas en marcos probados de viajes de audiencia y motivadores emocionales."
@@ -87,11 +87,11 @@ featureCards:
     icon: users
 featureList:
   title: "Un socio estratégico de IA para agencias de marketing"
-  description: "Authorless ayuda a las agencias a escapar del doloroso dilema entre calidad y escala, capacitándolas para ofrecer su mejor trabajo, de manera más eficiente, para más clientes."
+  description: "Bazam ayuda a las agencias a escapar del doloroso dilema entre calidad y escala, capacitándolas para ofrecer su mejor trabajo, de manera más eficiente, para más clientes."
 faq:
   - q: "¿En qué se diferencia esto de otras herramientas de IA?"
     a:
-      - "Comienza desde un lugar completamente diferente. La mayoría de las herramientas de IA comienzan con una palabra clave, lo que conduce a contenido genérico. Authorless comienza con tu comprensión estratégica de la audiencia: sus necesidades y motivadores emocionales."
+      - "Comienza desde un lugar completamente diferente. La mayoría de las herramientas de IA comienzan con una palabra clave, lo que conduce a contenido genérico. Bazam comienza con tu comprensión estratégica de la audiencia: sus necesidades y motivadores emocionales."
       - "Este enfoque de 'la estrategia primero' es lo que da como resultado un contenido de mayor calidad y más efectivo que suena humano porque está construido sobre una base de empatía humana."
   - q: "¿Cómo evitan que las estrategias de los clientes se mezclen?"
     a:
@@ -102,7 +102,7 @@ faq:
   - q: "¿Podemos usar esto para encontrar nuevos ángulos estratégicos para los clientes?"
     a:
       - "Absolutamente. Piénsalo como un simulador estratégico. Al combinar tus perfiles de cliente definidos con diferentes motivadores emocionales o puntos débiles, puedes crear prototipos rápidos de nuevos mensajes y descubrir nuevos ángulos poderosos para impulsar el crecimiento de tus clientes."
-  - q: "¿Cómo encaja Authorless en nuestro flujo de trabajo actual?"
+  - q: "¿Cómo encaja Bazam en nuestro flujo de trabajo actual?"
     a:
       - "Optimiza tu flujo de trabajo al encargarse de la redacción estratégica inicial a escala. Se integra directamente con WordPress y las principales plataformas de redes sociales, lo que te permite gestionar la publicación para múltiples clientes desde un único y eficiente centro."
   - q: "Mis clientes son escépticos con el contenido generado por IA."

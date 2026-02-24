@@ -1,7 +1,7 @@
 ---
 title: "Más contenido no es la respuesta. Una mejor conexión sí lo es."
 
-heroDescription: Tu marca está siendo ahogada por fábricas de contenido basura de IA que valoran el volumen por encima del valor. Para alcanzar tus objetivos de marketing, necesitas contenido que cree una conexión humana genuina. Authorless es la plataforma estratégica creada para convertir esa conexión en un ROI medible.
+heroDescription: Tu marca está siendo ahogada por fábricas de contenido basura de IA que valoran el volumen por encima del valor. Para alcanzar tus objetivos de marketing, necesitas contenido que cree una conexión humana genuina. Bazam es la plataforma estratégica creada para convertir esa conexión en un ROI medible.
 
 features:
 - title: "Deja de malgastar recursos en contenido que fracasa"
@@ -9,7 +9,7 @@ features:
   image_alt: "Un equipo de marketing mirando un gráfico de crecimiento de ventas, no una publicación de blog vacía."
   description:
     - El activo más valioso de tu equipo es su talento estratégico. Sin embargo, las herramientas genéricas de IA los obligan a una rutina de edición de bajo valor, tratando de arreglar borradores robóticos que estaban condenados desde el principio.
-    - Authorless es el antídoto. Al construir contenido sobre una base de empatía humana, generamos borradores estratégicamente sólidos que liberan a tu equipo para que se concentre en un trabajo de alto impacto que marque la diferencia.
+    - Bazam es el antídoto. Al construir contenido sobre una base de empatía humana, generamos borradores estratégicamente sólidos que liberan a tu equipo para que se concentre en un trabajo de alto impacto que marque la diferencia.
   points:
     - title: Crea contenido que realmente convierta
       description: "Deja de publicar contenido que llena un calendario pero no impacta en los KPI. Cada pieza está diseñada para generar confianza e impulsar resultados."
@@ -24,7 +24,7 @@ features:
   image_alt: "Una ilustración de un embudo de marketing sofisticado."
   description:
     - Sabes que una estrategia profunda y de embudo completo es lo que funciona, pero las herramientas a tu disposición dificultan su ejecución eficaz a escala. Las fábricas de contenido basura solo producen ruido.
-    - Authorless simplifica el marketing sofisticado. Hemos codificado marcos de persuasión probados en nuestra IA, lo que permite a tu equipo crear fácilmente contenido que responda a las necesidades específicas de la audiencia en cada etapa del viaje de compra.
+    - Bazam simplifica el marketing sofisticado. Hemos codificado marcos de persuasión probados en nuestra IA, lo que permite a tu equipo crear fácilmente contenido que responda a las necesidades específicas de la audiencia en cada etapa del viaje de compra.
   points:
     - title: Ejecuta una estrategia de nivel profesional
       description: "Nuestra IA utiliza marcos establecidos para convertir los objetivos de tu marca en contenido efectivo y persuasivo."
@@ -39,7 +39,7 @@ features:
   image_alt: "Un cliente comprando felizmente en su teléfono, lo que refleja un ROI positivo."
   description:
     - En el mercado actual, la conexión es la herramienta de conversión definitiva. El contenido robótico no puede conectar. No le habla a nadie, así que nadie escucha y, desde luego, no tiene un impacto en los resultados.
-    - Authorless está diseñado para forjar esa conexión. Al identificar y abordar lo que realmente le importa a tu audiencia, cada pieza de contenido se convierte en un activo poderoso para generar confianza, generar clientes potenciales y demostrar el valor de tus esfuerzos de marketing.
+    - Bazam está diseñado para forjar esa conexión. Al identificar y abordar lo que realmente le importa a tu audiencia, cada pieza de contenido se convierte en un activo poderoso para generar confianza, generar clientes potenciales y demostrar el valor de tus esfuerzos de marketing.
   points:
     - title: Habla directamente a los desencadenantes de compra del cliente
       description: "Genera contenido que aborde el verdadero 'porqué' detrás de las decisiones de compra de tu audiencia."
@@ -51,7 +51,7 @@ features:
     - No te limites a informar sobre la actividad. Informa sobre los ingresos.
 cta:
   title: ¿Listo para impulsar el crecimiento con contenido que convierte?
-  description: "Abandona la rutina del contenido y la promesa fallida de 'más es mejor'. Prueba Authorless y equipa a tu equipo con una herramienta estratégica que convierte la conexión humana en resultados comerciales innegables."
+  description: "Abandona la rutina del contenido y la promesa fallida de 'más es mejor'. Prueba Bazam y equipa a tu equipo con una herramienta estratégica que convierte la conexión humana en resultados comerciales innegables."
 topFeatures:
   title: "Un conjunto de herramientas para equipos de marketing de alto impacto"
   description: "Echa un vistazo a las funciones diseñadas para ayudar a tu equipo a alcanzar sus objetivos más ambiciosos."
@@ -67,7 +67,7 @@ topFeatures:
       target: /es/features/estrategia-de-marketing/
 featureCards:
   title: "Diseñado para un enfoque de marketing más inteligente"
-  description: "Más funciones esenciales de Authorless que tu equipo necesita para ofrecer contenido excepcional y demostrar su impacto."
+  description: "Más funciones esenciales de Bazam que tu equipo necesita para ofrecer contenido excepcional y demostrar su impacto."
   cards:
   - title: "Generación de ideas centrada en la conversión"
     description: "Obtén sugerencias impulsadas por IA para temas de contenido que resonarán profundamente e impulsarán los objetivos estratégicos."
@@ -90,14 +90,14 @@ faq:
     a:
       - "Una 'fábrica de contenido basura de IA' es cualquier herramienta que valora el recuento de palabras y el volumen por encima del impacto. Operan con indicaciones simples para producir texto genérico y robótico que suena como si lo hubiera escrito una máquina, porque así fue."
       - "Este contenido rara vez funciona: tiene poca comprensión de tu marca, ninguna empatía por tu audiencia y ningún objetivo estratégico. El resultado es un primer borrador desordenado que te crea un nuevo y doloroso trabajo: horas de edición solo para que suene remotamente humano."
-      - "Creamos Authorless para que fuera todo lo contrario. Creemos que el contenido efectivo comienza con la conexión humana, no con una simple indicación. En lugar de solo generar palabras, nuestra plataforma primero te ayuda a definir a <b>quién</b> te diriges y <b>qué les importa</b>. Al construir contenido sobre esta base de estrategia humana, la IA produce mensajes que son relevantes, resonantes y listos para usar. Es la diferencia entre crear más ruido y crear contenido que realmente convierte."
+      - "Creamos Bazam para que fuera todo lo contrario. Creemos que el contenido efectivo comienza con la conexión humana, no con una simple indicación. En lugar de solo generar palabras, nuestra plataforma primero te ayuda a definir a <b>quién</b> te diriges y <b>qué les importa</b>. Al construir contenido sobre esta base de estrategia humana, la IA produce mensajes que son relevantes, resonantes y listos para usar. Es la diferencia entre crear más ruido y crear contenido que realmente convierte."
   - q: "Nuestro equipo está saturado. ¿Cómo reduce esto nuestra carga de trabajo en lugar de aumentarla?"
     a:
-      - "Authorless ataca el mayor derroche de tiempo en el marketing de contenidos moderno: la edición de malos borradores de IA. Debido a que nuestro contenido se basa en tu estrategia específica desde el principio, reduce drásticamente ese trabajo de bajo valor."
+      - "Bazam ataca el mayor derroche de tiempo en el marketing de contenidos moderno: la edición de malos borradores de IA. Debido a que nuestro contenido se basa en tu estrategia específica desde el principio, reduce drásticamente ese trabajo de bajo valor."
       - "Esto libera el ancho de banda de tu equipo, permitiéndoles centrarse en las iniciativas estratégicas de alto impacto para las que fueron contratados, haciendo que todo tu departamento sea más eficiente y efectivo."
-  - q: "Ya tenemos una estrategia de contenido. ¿Cómo encaja Authorless?"
+  - q: "Ya tenemos una estrategia de contenido. ¿Cómo encaja Bazam?"
     a:
-      - "Eso es perfecto. Authorless está diseñado para ser el motor de ejecución de tu estrategia. Ya sabes a *quién* quieres llegar y *qué* quieres decir. Authorless te ayuda a hacerlo mejor y más rápido."
+      - "Eso es perfecto. Bazam está diseñado para ser el motor de ejecución de tu estrategia. Ya sabes a *quién* quieres llegar y *qué* quieres decir. Bazam te ayuda a hacerlo mejor y más rápido."
       - "Utiliza nuestra plataforma para codificar tus perfiles y pilares estratégicos, y luego deja que nuestra IA genere contenido acorde con la marca y la estrategia a escala. Amplifica tu estrategia existente, no la reemplaza."
   - q: "¿Cómo podemos estar seguros de que el contenido de la IA se alineará con la voz de nuestra marca?"
     a:
@@ -107,14 +107,14 @@ faq:
     a:
       - "Creando contenido que está inherentemente diseñado para convertir. Cuando tu contenido habla directamente de las necesidades del cliente y los guía a través de un viaje de compra, el impacto en los clientes potenciales y las ventas se vuelve mucho más claro."
       - "Pasas de informar sobre métricas de vanidad como 'publicaciones publicadas' a informar sobre métricas comerciales como 'clientes potenciales generados a partir de nuestro embudo de contenido', lo que facilita mucho la justificación de tu presupuesto y la demostración del valor de tu equipo."
-  - q: "¿Se integra Authorless con nuestra pila de tecnología de marketing existente?"
+  - q: "¿Se integra Bazam con nuestra pila de tecnología de marketing existente?"
     a:
-      - "Ofrecemos un flujo de trabajo de publicación optimizado. Authorless se conecta directamente con WordPress, Facebook, LinkedIn, Instagram y X, lo que te permite centralizar la programación y publicación de tu contenido, simplificando la ejecución y la generación de informes."
+      - "Ofrecemos un flujo de trabajo de publicación optimizado. Bazam se conecta directamente con WordPress, Facebook, LinkedIn, Instagram y X, lo que te permite centralizar la programación y publicación de tu contenido, simplificando la ejecución y la generación de informes."
   - q: "¿Puede nuestro equipo probarlo antes de comprometerse?"
     a:
       - "Absolutamente. Fomentamos una prueba piloto. Utiliza nuestros créditos de prueba gratuitos para ejecutar una campaña para una de tus iniciativas clave. Compara la calidad, la velocidad y la alineación estratégica de los resultados con tu proceso actual."
       - "Estamos seguros de que tu equipo verá el valor de inmediato."
   - q: "¿Es esta solución rentable para el presupuesto de nuestro departamento?"
     a:
-      - "Sí. Ofrecemos planes diseñados para los presupuestos de los equipos de negocios y marketing. Cuando calculas el ROI en función de las horas de trabajo ahorradas, el aumento de la efectividad del contenido y el posible aumento de las conversiones, Authorless está diseñado para ser un neto positivo significativo para tu presupuesto."
+      - "Sí. Ofrecemos planes diseñados para los presupuestos de los equipos de negocios y marketing. Cuando calculas el ROI en función de las horas de trabajo ahorradas, el aumento de la efectividad del contenido y el posible aumento de las conversiones, Bazam está diseñado para ser un neto positivo significativo para tu presupuesto."
 ---

@@ -1,14 +1,14 @@
 ---
 title: "Amplify Your Mission: Engaging Stories, Effortless Scheduling"
-heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Authorless helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
+heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Bazam helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
 
 features:
 - title: "Tell Your Story Effectively"
   image: "/images/feature-office-1.jpg"
   image_alt: "Office Feature Image 1"
   description:
-    - Are you struggling to reach new donors and engage existing supporters? Authorless enables you to highlight your impact with captivating content that resonates with your audience.
-    - Stop spending precious resources on expensive copywriting. Authorless empowers your team to create stories that move people to action, boosting donations and awareness.
+    - Are you struggling to reach new donors and engage existing supporters? Bazam enables you to highlight your impact with captivating content that resonates with your audience.
+    - Stop spending precious resources on expensive copywriting. Bazam empowers your team to create stories that move people to action, boosting donations and awareness.
   points:
     - title: Share Your Impact
       description: Create compelling narratives that show the real-world impact of your work.
@@ -17,14 +17,14 @@ features:
     - title: Attract New Supporters
       description: Reach a wider audience with engaging content that showcases your organisation's values.
   footer:
-    - Every story matters. Make sure yours is heard with Authorless.
+    - Every story matters. Make sure yours is heard with Bazam.
 
 - title: "Effortless Content Creation"
   image: "/images/feature-office-2.jpg"
   image_alt: "Office Feature Image 2"
   description:
-    - Time is a charity's most precious resource. Authorless helps you maximise your impact by streamlining your content creation process, freeing up your team to focus on frontline work.
-    - From generating blog posts to scheduling social media updates, Authorless handles the heavy lifting, allowing you to maintain a consistent online presence without the overwhelming workload.
+    - Time is a charity's most precious resource. Bazam helps you maximise your impact by streamlining your content creation process, freeing up your team to focus on frontline work.
+    - From generating blog posts to scheduling social media updates, Bazam handles the heavy lifting, allowing you to maintain a consistent online presence without the overwhelming workload.
   points:
     - title: Streamline Your Workflow
       description: Reduce the time and effort required to create high-quality content.
@@ -33,14 +33,14 @@ features:
     - title: Maximise Your Impact
       description: Focus your team's energy on the work that matters most.
   footer:
-    - Efficiency is key. Authorless helps you do more good with less.
+    - Efficiency is key. Bazam helps you do more good with less.
 
 cta:
   title: Transform Your Charity's Communications Now!
-  description: Ready to amplify your mission, engage your supporters, and save valuable time? Try Authorless now and experience effortless content creation that drives real impact! Claim your free credits now!
+  description: Ready to amplify your mission, engage your supporters, and save valuable time? Try Bazam now and experience effortless content creation that drives real impact! Claim your free credits now!
 
 topFeatures: 
-  title: Non-Profits Love These Authorless Features
+  title: Non-Profits Love These Bazam Features
   description: Check out the innovations that will change the way you work  
   list:
     - title: AI Content Writing
@@ -54,43 +54,43 @@ topFeatures:
       target: /features/marketing-strategy/
 
 faq:
-  - q: "How can Authorless help our non-profit on a limited budget?"
+  - q: "How can Bazam help our non-profit on a limited budget?"
     a:
-      - "Authorless significantly reduces the need for costly copywriters and marketing agencies. By automating the content creation process, it empowers your team to generate high-quality blog posts and social media updates in-house, saving you money and resources."
-      - "With Authorless, you can create a consistent stream of engaging content that attracts new donors and strengthens relationships with existing supporters, ultimately helping you reach your fundraising goals more efficiently."
+      - "Bazam significantly reduces the need for costly copywriters and marketing agencies. By automating the content creation process, it empowers your team to generate high-quality blog posts and social media updates in-house, saving you money and resources."
+      - "With Bazam, you can create a consistent stream of engaging content that attracts new donors and strengthens relationships with existing supporters, ultimately helping you reach your fundraising goals more efficiently."
 
-  - q: "We're a small team – how much time can Authorless actually save us?"
+  - q: "We're a small team – how much time can Bazam actually save us?"
     a:
-      - "Small teams often struggle to balance fundraising, service delivery and marketing. Authorless alleviates the pressure by streamlining your content workflow. You can expect to save several hours each week on content creation, freeing up your team to focus on their core responsibilities."
+      - "Small teams often struggle to balance fundraising, service delivery and marketing. Bazam alleviates the pressure by streamlining your content workflow. You can expect to save several hours each week on content creation, freeing up your team to focus on their core responsibilities."
       - "Many non-profits find they can create a week's worth of social media updates in a fraction of the time, allowing them to maintain a consistent online presence without sacrificing valuable staff hours."
 
-  - q: "Will the content generated by Authorless sound authentic and reflect our organisation's voice?"
+  - q: "Will the content generated by Bazam sound authentic and reflect our organisation's voice?"
     a:
-      - "Authorless is designed to help you tell your story in a way that resonates with your audience. The AI provides a solid starting point, generating content that captures your perspective and values, while saving you time on the initial writing process."
-      - "You retain complete control over the final output and can easily review, edit and refine the content to ensure it aligns perfectly with your brand voice. Think of Authorless as your content creation assistant, handling the time-consuming initial draft while allowing you to add your unique touch."
+      - "Bazam is designed to help you tell your story in a way that resonates with your audience. The AI provides a solid starting point, generating content that captures your perspective and values, while saving you time on the initial writing process."
+      - "You retain complete control over the final output and can easily review, edit and refine the content to ensure it aligns perfectly with your brand voice. Think of Bazam as your content creation assistant, handling the time-consuming initial draft while allowing you to add your unique touch."
 
-  - q: "We struggle to come up with fresh ideas for content – can Authorless help?"
+  - q: "We struggle to come up with fresh ideas for content – can Bazam help?"
     a:
-      - "Yes! Authorless includes powerful content suggestion tools to help you discover fresh and relevant topics tailored to your organisation's mission and activities. You'll never face the anxiety of a blank page again."
+      - "Yes! Bazam includes powerful content suggestion tools to help you discover fresh and relevant topics tailored to your organisation's mission and activities. You'll never face the anxiety of a blank page again."
       - "The AI analyses current trends, social media engagement patterns and the needs of your target audience to identify opportunities for you to share your expertise and impact. This ensures that you're always creating content that resonates with your supporters."
 
-  - q: "Can we try Authorless before committing to a subscription to see if it actually works for us?"
+  - q: "Can we try Bazam before committing to a subscription to see if it actually works for us?"
     a:
       - "Absolutely! We understand the importance of making informed decisions, especially for non-profits. That's why we offer free trial credits when you sign up, giving you the chance to try out the platform and see how it can transform your communications strategy."
-      - "These credits allow you to generate real blog posts and social media updates, explore the platform's features and get a feel for how Authorless can streamline your content creation process. Simply sign up on our website to claim your free trial credits and start creating impactful content today!"
+      - "These credits allow you to generate real blog posts and social media updates, explore the platform's features and get a feel for how Bazam can streamline your content creation process. Simply sign up on our website to claim your free trial credits and start creating impactful content today!"
 
-  - q: "Can Authorless create different types of content, like blog posts and social media updates?"
+  - q: "Can Bazam create different types of content, like blog posts and social media updates?"
     a:
-      - "Yes! Authorless supports a variety of content types, including blog posts, social media updates and even email newsletters (although only blog and socials are written for, for now). This allows you to create a comprehensive communications strategy that reaches your audience on multiple platforms."
+      - "Yes! Bazam supports a variety of content types, including blog posts, social media updates and even email newsletters (although only blog and socials are written for, for now). This allows you to create a comprehensive communications strategy that reaches your audience on multiple platforms."
       - "We're constantly expanding our content format offerings to include more specialised content types, ensuring you always have the tools you need to tell your story effectively."
 
-  - q: "Does Authorless support multiple languages? We work with international communities."
+  - q: "Does Bazam support multiple languages? We work with international communities."
     a:
-      - "Yes! Authorless supports translations. You can work in your own language and translate into different ones. This allows you to tailor content to the people in their own language"
+      - "Yes! Bazam supports translations. You can work in your own language and translate into different ones. This allows you to tailor content to the people in their own language"
       - "This is essential when working with international communities"
 
-  - q: "Our team isn't very tech-savvy – is Authorless easy to use?"
+  - q: "Our team isn't very tech-savvy – is Bazam easy to use?"
     a:
-      - "Authorless is designed to be intuitive and easy to use, regardless of your technical expertise. We believe that powerful tools should empower you, not overwhelm you."
-      - "We provide clear guidance, along with practical examples of how to use Authorless to achieve your communications goals. You'll be surprised at how quickly you can start creating impactful content that drives real results."
+      - "Bazam is designed to be intuitive and easy to use, regardless of your technical expertise. We believe that powerful tools should empower you, not overwhelm you."
+      - "We provide clear guidance, along with practical examples of how to use Bazam to achieve your communications goals. You'll be surprised at how quickly you can start creating impactful content that drives real results."
 ---

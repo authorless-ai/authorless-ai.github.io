@@ -1,7 +1,7 @@
 ---
 title: "Deja de alimentar a la fábrica de bazofia. Empieza a crear contenido que conecte."
 superTitle: "El fin del contenido robótico de IA"
-description: "¿Cansado del contenido de IA que suena robótico y es ignorado? Internet está inundado de 'bazofia' de baja calidad que no logra generar confianza ni hacer crecer tu negocio. <br/><br/>Authorless se basa en una idea simple y poderosa: <b>la conexión humana real es lo que funciona.</b> Te ayudamos a crear contenido que hace que tu audiencia se sienta vista, comprendida y lista para dar el siguiente paso."
+description: "¿Cansado del contenido de IA que suena robótico y es ignorado? Internet está inundado de 'bazofia' de baja calidad que no logra generar confianza ni hacer crecer tu negocio. <br/><br/>Bazam se basa en una idea simple y poderosa: <b>la conexión humana real es lo que funciona.</b> Te ayudamos a crear contenido que hace que tu audiencia se sienta vista, comprendida y lista para dar el siguiente paso."
 youtubeUrl: "https://www.youtube.com/embed/oh7H442YqnY"
 
 introFeatures:
@@ -36,7 +36,7 @@ carousel:
 
 solutionsCards:
   title: "Contenido que funciona, para cada industria"
-  description: "Descubre cómo Authorless puede ayudarte a alcanzar tus objetivos centrándose en la calidad y la conexión."
+  description: "Descubre cómo Bazam puede ayudarte a alcanzar tus objetivos centrándose en la calidad y la conexión."
   cards:
      - title: "Para agencias de marketing"
        description: "Entrega contenido que obtenga resultados reales para los clientes y deja de desperdiciar horas facturables editando borradores genéricos de IA."
@@ -130,7 +130,7 @@ features:
   image: "/images/persona.png"
   image_alt: "Personas de la audiencia que se utilizan para generar contenido de alta calidad y dirigido."
   description:
-    - "Authorless se basa en una filosofía completamente diferente. Creemos que la clave para un marketing eficaz no es el volumen, es la conexión humana genuina."
+    - "Bazam se basa en una filosofía completamente diferente. Creemos que la clave para un marketing eficaz no es el volumen, es la conexión humana genuina."
     - "Comenzamos con la parte más importante de cualquier negocio: tu cliente. Al comprender quiénes son y qué les importa primero, nuestra plataforma te ayuda a crear contenido que es relevante, resonante y está listo para construir relaciones reales."
   points:
     - title: "Se siente humano y genera confianza"
@@ -162,7 +162,7 @@ faq:
   - q: "¿Qué es exactamente una 'fábrica de bazofia de IA'?"
     a:
       - "Es cualquier herramienta que se centra en producir una gran cantidad de texto genérico y de sonido robótico. El contenido suena como si hubiera sido escrito por una máquina porque lo fue, y generalmente se ignora."
-      - "Esta 'bazofia' rara vez funciona porque no tiene conocimiento de tu marca ni empatía por tu audiencia. Authorless es todo lo contrario. Nos centramos en la calidad y la conexión humana para crear contenido que realmente obtiene resultados."
+      - "Esta 'bazofia' rara vez funciona porque no tiene conocimiento de tu marca ni empatía por tu audiencia. Bazam es todo lo contrario. Nos centramos en la calidad y la conexión humana para crear contenido que realmente obtiene resultados."
 
   - q: "¿Cómo puede esto darme mejores resultados que otras herramientas?"
     a:
@@ -171,10 +171,10 @@ faq:
 
   - q: "Paso mucho tiempo editando contenido de IA. ¿Esto realmente me ahorrará tiempo?"
     a:
-      - "Sí, porque ataca el problema real. La parte más dolorosa de usar IA es tratar de arreglar borradores malos y robóticos. Authorless está diseñado para eliminar ese trabajo de bajo valor."
+      - "Sí, porque ataca el problema real. La parte más dolorosa de usar IA es tratar de arreglar borradores malos y robóticos. Bazam está diseñado para eliminar ese trabajo de bajo valor."
       - "Debido a que nuestro contenido se basa en tu estrategia específica desde el principio, obtienes un gran borrador de inmediato. Esto te libera para que te concentres en las cosas que realmente hacen crecer tu negocio."
 
-  - q: "¿Cómo entiende Authorless las emociones de mi audiencia?"
+  - q: "¿Cómo entiende Bazam las emociones de mi audiencia?"
     a:
       - "No adivina, tú lo guías. Proporcionamos un marco simple donde defines a tu cliente. Luego, puedes seleccionar de una lista de motivadores humanos centrales, como la necesidad de seguridad, el deseo de pertenencia o la búsqueda de estatus, para guiar a la IA."
       - "Esto garantiza que la IA siempre trabaje hacia el objetivo correcto y te convierte en un estratega, no solo en un escritor de instrucciones."
@@ -184,8 +184,8 @@ faq:
       - "Para nada. Hemos tomado los principios del gran marketing y los hemos hecho increíblemente fáciles de usar. No necesitas conocer teorías complejas."
       - "Si sabes un poco sobre quién es tu cliente, nuestra plataforma te ayudará a convertir esa información en contenido eficaz. Está diseñada para convertirte en un mejor comercializador, sin importar tu experiencia."
 
-  - q: "¿Dónde puedo publicar mi contenido con Authorless?"
+  - q: "¿Dónde puedo publicar mi contenido con Bazam?"
     a:
-      - "Authorless ofrece publicación y programación directa en tu blog de WordPress y en todas las principales plataformas sociales, incluidas Facebook, Instagram, Twitter y LinkedIn."
+      - "Bazam ofrece publicación y programación directa en tu blog de WordPress y en todas las principales plataformas sociales, incluidas Facebook, Instagram, Twitter y LinkedIn."
       - "Esto te ayuda a ampliar tu alcance sin tener que hacer malabarismos con múltiples herramientas. Comienza hoy mismo con tus créditos gratuitos."
 ---

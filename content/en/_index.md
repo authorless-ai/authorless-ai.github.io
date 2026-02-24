@@ -3,7 +3,7 @@ title: "Stop Feeding the Slop Factory. Start Creating Content That Connects."
 superTitle: "The End of Robotic AI Content"
 heroDescription: 
 - "Tired of AI content that sounds robotic and gets ignored? The internet is flooded with low-quality 'slop' that fails to build trust or grow your business."
-- "Authorless is built on a simple, powerful idea: <b>real human connection is what works.</b> We help you create content that makes your audience feel seen, understood, and ready to take the next step."
+- "Bazam is built on a simple, powerful idea: <b>real human connection is what works.</b> We help you create content that makes your audience feel seen, understood, and ready to take the next step."
 youtubeUrl: "oh7H442YqnY"
 
 introFeatures:
@@ -38,7 +38,7 @@ carousel:
 
 solutionsCards:
   title: "Content That Works, For Every Industry"
-  description: "Discover how Authorless can help you achieve your goals by focusing on quality and connection."
+  description: "Discover how Bazam can help you achieve your goals by focusing on quality and connection."
   cards:
      - title: For Marketing Agencies
        description: "Deliver content that gets real client results and stop wasting billable hours editing generic AI drafts."
@@ -132,7 +132,7 @@ features:
   image: "/images/persona.png"
   image_alt: "Audience personas being used to generate high-quality, targeted content."
   description:
-    - "Authorless is built on a different philosophy entirely. We believe the key to effective marketing isn't volume, it's genuine human connection."
+    - "Bazam is built on a different philosophy entirely. We believe the key to effective marketing isn't volume, it's genuine human connection."
     - "We start with the most important part of any business: your customer. By understanding who they are and what they care about first, our platform helps you create content that is relevant, resonant, and ready to build real relationships."
   points:
     - title: "It Feels Human & Builds Trust"
@@ -164,7 +164,7 @@ faq:
   - q: "What exactly is an 'AI slop factory'?"
     a:
       - "It's any tool that focuses on producing a high quantity of generic, robotic-sounding text. The content sounds like it was written by a machine because it was, and it usually gets ignored."
-      - "This 'slop' rarely works because it has no understanding of your brand and no empathy for your audience. Authorless is the opposite. We focus on quality and human connection to create content that actually gets results."
+      - "This 'slop' rarely works because it has no understanding of your brand and no empathy for your audience. Bazam is the opposite. We focus on quality and human connection to create content that actually gets results."
 
   - q: "How can this get me better results than other tools?"
     a:
@@ -173,10 +173,10 @@ faq:
 
   - q: "I spend so much time editing AI content. Will this actually save me time?"
     a:
-      - "Yes, because it attacks the real problem. The most painful part of using AI is trying to fix bad, robotic drafts. Authorless is designed to eliminate that low-value work."
+      - "Yes, because it attacks the real problem. The most painful part of using AI is trying to fix bad, robotic drafts. Bazam is designed to eliminate that low-value work."
       - "Because our content is built on your specific strategy from the start, you get a great draft right away. This frees you up to focus on the things that actually grow your business."
 
-  - q: "How does Authorless understand my audience's emotions?"
+  - q: "How does Bazam understand my audience's emotions?"
     a:
       - "It doesn't guess—you guide it. We provide a simple framework where you define your customer. Then, you can select from a list of core human motivators—like the need for security, the desire to belong, or the search for status—to guide the AI."
       - "This ensures the AI is always working towards the right goal, and turns you into a strategist, not just a prompt-writer."
@@ -186,8 +186,8 @@ faq:
       - "Not at all. We've taken the principles of great marketing and made them incredibly simple to use. You don't need to know complex theories."
       - "If you know a little about who your customer is, our platform will help you turn that insight into effective content. It’s designed to make you a better marketer, no matter your background."
 
-  - q: "Where can I publish my content with Authorless?"
+  - q: "Where can I publish my content with Bazam?"
     a:
-      - "Authorless offers direct publishing and scheduling to your WordPress blog and all the leading social platforms, including Facebook, Instagram, Twitter, and LinkedIn."
+      - "Bazam offers direct publishing and scheduling to your WordPress blog and all the leading social platforms, including Facebook, Instagram, Twitter, and LinkedIn."
       - "This helps you expand your reach without juggling multiple tools. Get started with your free credits today."
 ---

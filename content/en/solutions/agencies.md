@@ -7,7 +7,7 @@ features:
   image: "/images/feature-office-1.jpg"
   image_alt: "A team of agency strategists defining customer personas and emotional drivers."
   description:
-    - The best work your agency produces comes from a deep understanding of the client's customer. Authorless is the first platform designed to capture and scale that unique strategic insight.
+    - The best work your agency produces comes from a deep understanding of the client's customer. Bazam is the first platform designed to capture and scale that unique strategic insight.
     - Our framework helps you codify each client's audience—their needs, motivations, and emotional drivers. This becomes the intelligent foundation for every piece of content the AI helps you create.
   points:
     - title: "Embed Your Strategic Insight"
@@ -24,7 +24,7 @@ features:
   image_alt: "Agency team celebrating a successful client campaign built on effective content."
   description:
     - The classic agency dilemma is choosing between quality and speed. Scaling up often means compromising the very quality that made you successful.
-    - By starting with a strong strategic foundation, Authorless produces intelligent, on-brand first drafts. This dramatically reduces the time wasted on revisions, freeing your team to focus on the final creative polish that makes the work shine.
+    - By starting with a strong strategic foundation, Bazam produces intelligent, on-brand first drafts. This dramatically reduces the time wasted on revisions, freeing your team to focus on the final creative polish that makes the work shine.
   points:
     - title: "Increase Your Team's True Capacity"
       description: "Empower your team to produce more high-quality, client-ready content without working longer hours."
@@ -53,7 +53,7 @@ features:
 
 cta:
   title: "Ready to Scale Your Agency's Strategic Expertise?"
-  description: "See how Authorless can help you deliver the effective, audience-focused content that grows your clients' businesses and your own."
+  description: "See how Bazam can help you deliver the effective, audience-focused content that grows your clients' businesses and your own."
 
 topFeatures:
   title: "A Toolkit for the Modern Strategic Agency"
@@ -71,7 +71,7 @@ topFeatures:
 
 featureCards:
   title: "Designed to Amplify Your Agency's Value"
-  description: "More essential Authorless features to help you deliver exceptional results and grow your business."
+  description: "More essential Bazam features to help you deliver exceptional results and grow your business."
   cards:
   - title: "Human-Centric Strategy Builder"
     description: "Develop effective content strategies based on proven frameworks of audience journeys and emotional drivers."
@@ -92,12 +92,12 @@ featureCards:
 
 featureList:
   title: "A Strategic AI Partner for Marketing Agencies"
-  description: "Authorless helps agencies escape the painful tradeoff between quality and scale, empowering them to deliver their best work, more efficiently, for more clients."
+  description: "Bazam helps agencies escape the painful tradeoff between quality and scale, empowering them to deliver their best work, more efficiently, for more clients."
 
 faq:
   - q: "How is this different from other AI tools?"
     a:
-      - "It starts from a completely different place. Most AI tools start with a keyword, which leads to generic content. Authorless starts with your strategic understanding of the audience—their needs and emotional drivers."
+      - "It starts from a completely different place. Most AI tools start with a keyword, which leads to generic content. Bazam starts with your strategic understanding of the audience—their needs and emotional drivers."
       - "This 'strategy-first' approach is what results in higher-quality, more effective content that sounds human because it's built on a foundation of human empathy."
 
   - q: "How do you keep client strategies from getting mixed up?"
@@ -112,7 +112,7 @@ faq:
     a:
       - "Absolutely. Think of it as a strategic simulator. By pairing your defined customer personas with different emotional drivers or pain points, you can rapidly prototype new messaging and uncover powerful new angles to drive growth for your clients."
 
-  - q: "How does Authorless fit into our existing workflow?"
+  - q: "How does Bazam fit into our existing workflow?"
     a:
       - "It streamlines your workflow by handling the initial strategic drafting at scale. It integrates directly with WordPress and major social media platforms, allowing you to manage publishing for multiple clients from a single, efficient hub."
 

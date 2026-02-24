@@ -1,7 +1,7 @@
 ---
 title: "More Content Isn't the Answer. Better Connection Is."
 
-heroDescription: Your brand is being drowned out by AI slop factories that value volume over value. To hit your marketing goals, you need content that creates a genuine human connection. Authorless is the strategic platform built to turn that connection into measurable ROI.
+heroDescription: Your brand is being drowned out by AI slop factories that value volume over value. To hit your marketing goals, you need content that creates a genuine human connection. Bazam is the strategic platform built to turn that connection into measurable ROI.
 
 features:
 - title: "Stop Wasting Resources on Content That Fails"
@@ -9,7 +9,7 @@ features:
   image_alt: "A marketing team looking at a sales growth chart, not an empty blog post."
   description:
     - Your team's most valuable asset is its strategic talent. Yet, generic AI tools force them into a low-value editing grind, trying to fix robotic drafts that were doomed from the start.
-    - Authorless is the antidote. By building content on a foundation of human empathy, we generate strategically-sound drafts that free your team to focus on high-impact work that moves the needle.
+    - Bazam is the antidote. By building content on a foundation of human empathy, we generate strategically-sound drafts that free your team to focus on high-impact work that moves the needle.
   points:
     - title: Create Content That Actually Converts
       description: "Stop publishing content that fills a calendar but fails to impact KPIs. Every piece is engineered to build trust and drive results."
@@ -25,7 +25,7 @@ features:
   image_alt: "An illustration of a sophisticated marketing funnel."
   description:
     - You know a deep, full-funnel strategy is what works, but the tools at your disposal make it difficult to execute effectively at scale. Slop factories just produce noise.
-    - Authorless makes sophisticated marketing simple. We've encoded proven persuasion frameworks into our AI, allowing your team to easily create content that speaks to specific audience needs at every stage of the buying journey.
+    - Bazam makes sophisticated marketing simple. We've encoded proven persuasion frameworks into our AI, allowing your team to easily create content that speaks to specific audience needs at every stage of the buying journey.
   points:
     - title: Execute a Professional-Grade Strategy
       description: "Our AI uses established frameworks to turn your brand's goals into effective, persuasive content."
@@ -41,7 +41,7 @@ features:
   image_alt: "A customer happily making a purchase on their phone, reflecting positive ROI."
   description:
     - In today's market, connection is the ultimate conversion tool. Robotic content can't connect. It speaks to no one, so no one listens, and it certainly doesn't impact the bottom line.
-    - Authorless is designed to forge that connection. By identifying and addressing what your audience truly cares about, every piece of content becomes a powerful asset for building trust, generating leads, and proving the value of your marketing efforts.
+    - Bazam is designed to forge that connection. By identifying and addressing what your audience truly cares about, every piece of content becomes a powerful asset for building trust, generating leads, and proving the value of your marketing efforts.
   points:
     - title: Speak Directly to Customer Buying Triggers
       description: "Generate content that addresses the real 'why' behind your audience's purchase decisions."
@@ -54,7 +54,7 @@ features:
 
 cta:
   title: Ready to Drive Growth with Content That Converts?
-  description: "Ditch the content treadmill and the failed promise of 'more is better.' Try Authorless and equip your team with a strategic tool that turns human connection into undeniable business results."
+  description: "Ditch the content treadmill and the failed promise of 'more is better.' Try Bazam and equip your team with a strategic tool that turns human connection into undeniable business results."
 
 topFeatures:
   title: "A Toolkit for High-Impact Marketing Teams"
@@ -72,7 +72,7 @@ topFeatures:
 
 featureCards:
   title: "Designed For a Smarter Marketing Approach"
-  description: "More essential Authorless features your team needs to deliver exceptional content and prove its impact."
+  description: "More essential Bazam features your team needs to deliver exceptional content and prove its impact."
   cards:
   - title: "Conversion-Focused Idea Generation"
     description: "Get AI-powered suggestions for content topics that will resonate deeply and drive strategic goals."
@@ -96,15 +96,15 @@ faq:
     a:
       - "An 'AI slop factory' is any tool that values word count and volume over impact. They operate on simple prompts to churn out generic, robotic text that sounds like it was written by a machine, because it was." 
       - "This content rarely works: It has little understanding of your brand, no empathy for your audience, and no strategic goal. The result is a messy first draft that creates a new, painful job for you: hours of editing just to make it sound remotely human."
-      - "We built Authorless to be the complete opposite. We believe that effective content starts with human connection, not a simple prompt. Instead of just generating words, our platform first helps you define <b>who</b> you're talking to and <b>what they care about</b>. By building content on this foundation of human strategy, the AI produces messaging that is relevant, resonant, and ready-to-use. It's the difference between creating more noise and creating content that actually converts."  
+      - "We built Bazam to be the complete opposite. We believe that effective content starts with human connection, not a simple prompt. Instead of just generating words, our platform first helps you define <b>who</b> you're talking to and <b>what they care about</b>. By building content on this foundation of human strategy, the AI produces messaging that is relevant, resonant, and ready-to-use. It's the difference between creating more noise and creating content that actually converts."  
   - q: "Our team is swamped. How does this reduce our workload instead of adding to it?"
     a:
-      - "Authorless attacks the single biggest time-waster in modern content marketing: editing bad AI drafts. Because our content is built on your specific strategy from the start, it drastically reduces that low-value work."
+      - "Bazam attacks the single biggest time-waster in modern content marketing: editing bad AI drafts. Because our content is built on your specific strategy from the start, it drastically reduces that low-value work."
       - "This frees up your team's bandwidth, allowing them to focus on the high-impact strategic initiatives that they were hired for, making your entire department more efficient and effective."
 
-  - q: "We already have a content strategy. How does Authorless fit in?"
+  - q: "We already have a content strategy. How does Bazam fit in?"
     a:
-      - "That's perfect. Authorless is designed to be the execution engine for your strategy. You already know *who* you want to reach and *what* you want to say. Authorless helps you do it better and faster."
+      - "That's perfect. Bazam is designed to be the execution engine for your strategy. You already know *who* you want to reach and *what* you want to say. Bazam helps you do it better and faster."
       - "Use our platform to codify your personas and strategic pillars, then let our AI generate on-brand, on-strategy content at scale. It amplifies your existing strategy, it doesn't replace it."
 
   - q: "How can we be sure the AI content will align with our brand voice?"
@@ -117,9 +117,9 @@ faq:
       - "By creating content that is inherently designed to convert. When your content speaks directly to customer needs and guides them through a buying journey, the impact on leads and sales becomes much clearer."
       - "You move from reporting on vanity metrics like 'posts published' to reporting on business metrics like 'leads generated from our content funnel,' making it far easier to justify your budget and prove your team's value."
 
-  - q: "Does Authorless integrate with our existing marketing technology stack?"
+  - q: "Does Bazam integrate with our existing marketing technology stack?"
     a:
-      - "We provide a streamlined publishing workflow. Authorless connects directly with WordPress, Facebook, LinkedIn, Instagram, and X, allowing you to centralize your content scheduling and publishing, simplifying execution and reporting."
+      - "We provide a streamlined publishing workflow. Bazam connects directly with WordPress, Facebook, LinkedIn, Instagram, and X, allowing you to centralize your content scheduling and publishing, simplifying execution and reporting."
 
   - q: "Can our team try it before committing?"
     a:
@@ -128,5 +128,5 @@ faq:
 
   - q: "Is this solution cost-effective for our department's budget?"
     a:
-      - "Yes. We offer plans designed for business and marketing team budgets. When you calculate the ROI based on man-hours saved, increased content effectiveness, and the potential lift in conversions, Authorless is designed to be a significant net positive for your budget."
+      - "Yes. We offer plans designed for business and marketing team budgets. When you calculate the ROI based on man-hours saved, increased content effectiveness, and the potential lift in conversions, Bazam is designed to be a significant net positive for your budget."
 ---

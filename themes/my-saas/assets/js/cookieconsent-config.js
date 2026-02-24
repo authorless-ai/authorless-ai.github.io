@@ -32,7 +32,7 @@ CookieConsent.run({
                     acceptAllBtn: "Accept all",
                     acceptNecessaryBtn: "Reject all",
                     showPreferencesBtn: "Manage preferences",
-                    footer: "<a href=\"https://app.authorless.ai/pages/legals/privacy-policy/\">Privacy Policy</a>\n<a href=\"https://app.authorless.ai/pages/legals/terms/\">Terms and conditions</a>"
+                    footer: "<a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\">Privacy Policy</a>\n<a href=\"https://app.bazam.ai/pages/legals/terms/\">Terms and conditions</a>"
                 },
                 preferencesModal: {
                     title: "Consent Preferences Center",
@@ -58,7 +58,7 @@ CookieConsent.run({
                         },
                         {
                             title: "More information",
-                            description: "For any query in relation to our policy on cookies and your choices, please visit our <a class=\"cc__link\" href=\"https://app.authorless.ai/pages/legals/privacy-policy/\">Privacy Policy</a> or <a class=\"cc__link\" href=\"https://app.authorless.ai/pages/legals/terms/\">Terms and Conditions</a> page."
+                            description: "For any query in relation to our policy on cookies and your choices, please visit our <a class=\"cc__link\" href=\"https://app.bazam.ai/pages/legals/privacy-policy/\">Privacy Policy</a> or <a class=\"cc__link\" href=\"https://app.bazam.ai/pages/legals/terms/\">Terms and Conditions</a> page."
                         }
                     ]
                 }

@@ -8,8 +8,8 @@ features:
   image: "/images/feature-office-1.jpg"  
   image_alt: "Office Feature Image 1" 
   description:
-    - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Authorless allows you to create large volumes of high-quality content in minutes, not weeks.
-    - Stop sacrificing quality for quantity. Authorless uses AI to generate unique and engaging content that resonates with your target audience, even when creating in bulk.
+    - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Bazam allows you to create large volumes of high-quality content in minutes, not weeks.
+    - Stop sacrificing quality for quantity. Bazam uses AI to generate unique and engaging content that resonates with your target audience, even when creating in bulk.
   points:
     - title: Rapid Content Generation
       description: Create blog posts and social media updates in minutes.
@@ -24,11 +24,11 @@ features:
   image: "/images/feature-office-2.jpg"  
   image_alt: "Office Feature Image 2"  
   description:
-    - Are your marketing efforts falling flat because your content isn't relevant? Authorless analyses your products and target audiences to generate content that truly resonates.
-    - "Turn every piece of content into a selling opportunity. Authorless helps you create content that educates, engages, and ultimately drives conversions."
+    - Are your marketing efforts falling flat because your content isn't relevant? Bazam analyses your products and target audiences to generate content that truly resonates.
+    - "Turn every piece of content into a selling opportunity. Bazam helps you create content that educates, engages, and ultimately drives conversions."
   points:
     - title: Product Analysis
-      description: Authorless understands your products and their key features.
+      description: Bazam understands your products and their key features.
     - title: Audience Insights
       description: Identify your target audience's needs and preferences.
     - title: Relevant Content
@@ -38,10 +38,10 @@ features:
 
 cta:
   title: Get Better Content Faster, Now!
-  description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Authorless now and kiss goodbye to generic AI garbage. Get your free trial credits today!
+  description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Bazam now and kiss goodbye to generic AI garbage. Get your free trial credits today!
 
 topFeatures:
-  title: Dropshippers Love These Authorless Features
+  title: Dropshippers Love These Bazam Features
   description: Check out the innovations that will change the way you work  
   list:
     - title: Bulk AI Content Writing
@@ -55,42 +55,42 @@ topFeatures:
       target: /features/suggestions/
       
 faq:
-  - q: "I need to create content for dozens of products. Can Authorless handle that?"
+  - q: "I need to create content for dozens of products. Can Bazam handle that?"
     a:
-      - "Absolutely. Authorless is designed for high-volume content creation. You can input information about multiple products and generate content in bulk."
+      - "Absolutely. Bazam is designed for high-volume content creation. You can input information about multiple products and generate content in bulk."
       - "The AI ensures that each piece of content is unique and relevant to the specific product and target audience."
 
-  - q: "I'm not a marketing expert. Can Authorless help me create effective content?"
+  - q: "I'm not a marketing expert. Can Bazam help me create effective content?"
     a:
-      - "Yes, definitely. You don't need to be a marketing expert to use Authorless. The AI handles the marketing 'know-how' for you."
-      - "Authorless uses proven frameworks like AIDA (Attention, Interest, Desire, Action) to create content that drives conversions. It also provides suggestions and templates to guide you."
+      - "Yes, definitely. You don't need to be a marketing expert to use Bazam. The AI handles the marketing 'know-how' for you."
+      - "Bazam uses proven frameworks like AIDA (Attention, Interest, Desire, Action) to create content that drives conversions. It also provides suggestions and templates to guide you."
 
-  - q: "How can Authorless help me understand my target audience better?"
+  - q: "How can Bazam help me understand my target audience better?"
     a:
-      - "Authorless can analyse your target audience based on demographics, interests, and online behaviour."
+      - "Bazam can analyse your target audience based on demographics, interests, and online behaviour."
       - "This analysis helps you understand their needs and pain points, allowing you to create content that resonates with them and drives engagement."
 
-  - q: "What kind of content can Authorless create for dropshipping businesses?"
+  - q: "What kind of content can Bazam create for dropshipping businesses?"
     a:
-      - "Authorless can create a variety of content types that are ideal for dropshipping, including product descriptions, blog posts, social media updates, how-to guides, and listicles."
+      - "Bazam can create a variety of content types that are ideal for dropshipping, including product descriptions, blog posts, social media updates, how-to guides, and listicles."
       - "All content is optimised for search engines (SEO) to help you attract more traffic to your online store."
 
-  - q: "Can Authorless help me stay consistent with my content posting schedule?"
+  - q: "Can Bazam help me stay consistent with my content posting schedule?"
     a:
-      - "Yes. Authorless includes a built-in content calendar that allows you to schedule your content in advance."
+      - "Yes. Bazam includes a built-in content calendar that allows you to schedule your content in advance."
       - "You can plan your content for weeks or even months ahead, ensuring a consistent online presence and freeing up your time."
 
-  - q: "My customers are located in different countries. Can Authorless help me create content in multiple languages?"
+  - q: "My customers are located in different countries. Can Bazam help me create content in multiple languages?"
     a:
-      - "Yes, Authorless supports translation into multiple languages. You can create content in your native language and then automatically translate it to reach a global audience."
+      - "Yes, Bazam supports translation into multiple languages. You can create content in your native language and then automatically translate it to reach a global audience."
       - "This feature is essential for dropshippers who want to expand their reach and increase their sales potential."
 
-  - q: "Does Authorless offer integrations with my social media platforms?"
+  - q: "Does Bazam offer integrations with my social media platforms?"
     a:
-      - "Yes, Authorless integrates directly with popular social media platforms. This allows you to publish and schedule your content directly without having to manually copy and paste."
+      - "Yes, Bazam integrates directly with popular social media platforms. This allows you to publish and schedule your content directly without having to manually copy and paste."
       - "This saves you time and simplifies your content marketing workflow."
 
-  - q: "Does Authorless offer a free trial so I can see if it's a good fit for my dropshipping business?"
+  - q: "Does Bazam offer a free trial so I can see if it's a good fit for my dropshipping business?"
     a:
       - "Yes, we offer free trial credits so you can explore the platform and see how it can benefit your business."
       - "This allows you to test the features and see the results for yourself before committing to a subscription."
