@@ -2,7 +2,7 @@
 title: "Deja de alimentar a la fábrica de bazofia. Empieza a crear contenido que conecte."
 superTitle: "El fin del contenido robótico de IA"
 description: "¿Cansado del contenido de IA que suena robótico y es ignorado? Internet está inundado de 'bazofia' de baja calidad que no logra generar confianza ni hacer crecer tu negocio. <br/><br/>Bazam se basa en una idea simple y poderosa: <b>la conexión humana real es lo que funciona.</b> Te ayudamos a crear contenido que hace que tu audiencia se sienta vista, comprendida y lista para dar el siguiente paso."
-youtubeUrl: "https://www.youtube.com/embed/oh7H442YqnY"
+youtubeUrl: "4iu6ap8dJbU"
 
 introFeatures:
   - title: "Contenido que se siente personal"

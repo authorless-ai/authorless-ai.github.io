@@ -4,7 +4,7 @@ superTitle: "The End of Robotic AI Content"
 heroDescription: 
 - "Tired of AI content that sounds robotic and gets ignored? The internet is flooded with low-quality 'slop' that fails to build trust or grow your business."
 - "Bazam is built on a simple, powerful idea: <b>real human connection is what works.</b> We help you create content that makes your audience feel seen, understood, and ready to take the next step."
-youtubeUrl: "oh7H442YqnY"
+youtubeUrl: "4iu6ap8dJbU"
 
 introFeatures:
   - title: "Content That Feels Personal"
