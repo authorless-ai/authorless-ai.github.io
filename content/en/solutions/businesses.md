@@ -96,6 +96,31 @@ featureCards:
 featureList:
   title: "A Smarter Way to Do Content Marketing"
   description: "Bazam gives growing businesses the power of a full marketing department — at a fraction of the cost."
+  features:
+    - iconColor: "primary"
+      title: "Content on Demand"
+      icon: edit
+      points:
+        - description: "Ask the agent to write <b>blog posts, social updates, and campaigns</b> — it drafts, you approve."
+        - description: "Create a <b>full month of content in 30 minutes</b> — no writing skill required."
+        - description: "Content is tailored to your <b>brand voice, audience, and business goals</b>."
+        - description: "Product launch? Event? <b>Jump in any time</b> for a quick, on-brand draft."
+    - iconColor: "primary"
+      title: "Strategy Without the Strategist"
+      icon: chart
+      points:
+        - description: "Define your audience and goals once — the agent creates <b>strategically aligned content</b> automatically."
+        - description: "No marketing degree needed — Bazam handles the <b>content mix and targeting</b>."
+        - description: "Track <b>what's working and what's not</b> with plain-English performance summaries."
+        - description: "The agent <b>suggests topics</b> based on what's performing — so you double down on winners."
+    - iconColor: "primary"
+      title: "Publish Everywhere"
+      icon: upload
+      points:
+        - description: "Schedule and publish to <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok</b>."
+        - description: "Maintain a <b>consistent online presence</b> even when you're busy running the business."
+        - description: "Professional-quality output that makes your business <b>look like it has a marketing team</b>."
+        - description: "Transparent, <b>credit-based pricing</b> — no surprise bills, no per-channel fees."
 
 faq:
   - q: "How do I do marketing for my business when I know nothing about marketing?"

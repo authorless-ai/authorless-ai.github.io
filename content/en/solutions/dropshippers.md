@@ -72,6 +72,35 @@ topFeatures:
       description: "Reach global markets with automated content translation across all your products."
       target: /features/translation/
 
+featureList:
+  title: "Bulk Content That Doesn't Look or Feel Like Bulk Content"
+  description: "Generate unique product descriptions, social campaigns, and ad copy for your entire catalogue — each piece targeted at your audience and optimised for conversions."
+  features:
+    - iconColor: "primary"
+      title: "Product Content at Scale"
+      icon: edit
+      points:
+        - description: "Generate <b>unique descriptions for 50+ products</b> in a single session."
+        - description: "Each description is <b>tailored to the product</b> — no copy-paste, no templates."
+        - description: "Upload product specs and the agent writes <b>benefit-led, conversion-focused copy</b>."
+        - description: "Create <b>multiple variations</b> per product for A/B testing."
+    - iconColor: "primary"
+      title: "Audience-Targeted Selling"
+      icon: chart
+      points:
+        - description: "Define customer personas — <b>pain points, desires, buying triggers</b> — and content speaks to them."
+        - description: "Content sells <b>benefits, not features</b> — what the product does for the customer."
+        - description: "Platform-native ad copy for <b>Instagram, Facebook, TikTok, and more</b>."
+        - description: "Seasonal campaigns — <b>Black Friday, holiday, launch</b> — across your entire catalogue."
+    - iconColor: "primary"
+      title: "International Reach"
+      icon: upload
+      points:
+        - description: "Translate product content into <b>50+ languages</b> to sell in new markets."
+        - description: "Each translation preserves <b>your brand voice and product specifics</b>."
+        - description: "Publish directly to <b>your store, social channels, and ad platforms</b>."
+        - description: "At this volume, AI is <b>dramatically cheaper</b> than any copywriter or agency."
+
 faq:
   - q: "How do I make my dropshipping store stand out from competitors?"
     a:

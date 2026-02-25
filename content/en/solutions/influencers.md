@@ -55,6 +55,35 @@ topFeatures:
       description: "Never run out of ideas. The agent suggests topics and angles based on your niche and audience."
       target: /features/suggestions/
 
+featureList:
+  title: "Create More. Burn Out Less. Stay Authentically You."
+  description: "Bazam handles the production grind so you can focus on the creative work that builds your audience — without sacrificing consistency or your authentic voice."
+  features:
+    - iconColor: "primary"
+      title: "Multi-Platform Production"
+      icon: edit
+      points:
+        - description: "One idea becomes <b>platform-ready versions for LinkedIn, Instagram, X, YouTube, TikTok, and your blog</b>."
+        - description: "Each version is <b>adapted to the platform's format</b> — not one-size-fits-all."
+        - description: "Batch-create a <b>full month of content in one session</b> — no daily scrambles."
+        - description: "Repurpose talks, podcasts, and videos into <b>written content across every channel</b>."
+    - iconColor: "primary"
+      title: "Your Voice, Amplified"
+      icon: chart
+      points:
+        - description: "Define your voice — <b>tone, style, personality</b> — and every piece sounds like you."
+        - description: "Sponsored content blends <b>brand messaging with your authentic style</b> seamlessly."
+        - description: "Audience never sees <b>generic AI content</b> — they see your perspective, your insights."
+        - description: "The agent learns <b>your niche and audience</b> to suggest topics that resonate."
+    - iconColor: "primary"
+      title: "Consistency Without the Grind"
+      icon: upload
+      points:
+        - description: "Schedule content <b>weeks in advance</b> — your audience sees a creator who's always on."
+        - description: "Publish to <b>every platform from one dashboard</b> — no more logging into five apps."
+        - description: "Track <b>which topics and formats</b> your audience engages with most."
+        - description: "Spend your time on <b>engagement and community</b> — the work AI can't do for you."
+
 faq:
   - q: "How do I avoid content creator burnout?"
     a:

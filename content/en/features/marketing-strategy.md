@@ -34,6 +34,35 @@ features:
   footer:
     - Every business needs customers at different stages. Bazam ensures you're speaking to all of them effectively.
 
+featureList:
+  title: "Built-In Strategy So Every Piece of Content Pulls Its Weight"
+  description: "No marketing degree required. Bazam automatically creates the right mix of content to guide your audience from first discovery to paying customer."
+  features:
+    - iconColor: "primary"
+      title: "Strategic Content Mix"
+      icon: chart
+      points:
+        - description: "Automatically balance <b>awareness, consideration, and conversion content</b> across your calendar."
+        - description: "Each piece is labelled with its <b>strategic purpose</b> so you know exactly what it's doing."
+        - description: "Content aligns with the <b>AIDA buying journey</b> — Attention, Interest, Desire, Action."
+        - description: "No more random posting — every piece <b>serves a specific goal</b> in your marketing funnel."
+    - iconColor: "primary"
+      title: "Audience-Driven Targeting"
+      icon: users
+      points:
+        - description: "Build <b>detailed audience personas</b> with demographics, motivations, and buying behaviour."
+        - description: "Content speaks directly to <b>your customers' pain points and desires</b>."
+        - description: "Reach different segments with <b>tailored messaging</b> — prospects, existing customers, and partners."
+        - description: "The agent suggests topics based on <b>what your audience actually needs to hear</b>."
+    - iconColor: "primary"
+      title: "Measure What Matters"
+      icon: upload
+      points:
+        - description: "Track <b>engagement, reach, clicks, and follower growth</b> across every channel."
+        - description: "See which content types and topics <b>drive the best results</b>."
+        - description: "Ask the agent for a <b>plain-English performance summary</b> — no dashboard diving."
+        - description: "Double down on what works, <b>stop guessing</b>, and let the data guide your strategy."
+
 cta:
   title: Start Creating Result-Driven Content Now!
   description: Ready to publish content that actually works for your business? Try Bazam now and let our automatic strategy system do the marketing thinking for you!

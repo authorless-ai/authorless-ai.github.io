@@ -55,6 +55,35 @@ topFeatures:
       description: "Never run out of ideas. The agent suggests topics based on your expertise and audience interests."
       target: /features/suggestions/
 
+featureList:
+  title: "Build Authority Without Content Becoming a Second Job"
+  description: "Maintain a powerful, consistent content presence across every platform — with the production work handled by your AI agent."
+  features:
+    - iconColor: "primary"
+      title: "Expertise to Content, Fast"
+      icon: edit
+      points:
+        - description: "Share talking points or topics and the agent <b>drafts a full month of posts and articles</b>."
+        - description: "Upload <b>conference talks, notes, and transcripts</b> — the agent turns them into weeks of content."
+        - description: "One idea becomes a <b>LinkedIn post, blog article, tweet thread, and more</b>."
+        - description: "Content sounds like <b>your best writing</b> — not generic AI filler."
+    - iconColor: "primary"
+      title: "Your Voice, Your Brand"
+      icon: chart
+      points:
+        - description: "Define your <b>tone, style, and personality</b> — the agent applies it to everything."
+        - description: "Content reflects your <b>genuine expertise and perspective</b>, not boilerplate advice."
+        - description: "Consistent voice across <b>LinkedIn, your blog, and every social platform</b>."
+        - description: "The agent suggests topics based on <b>your niche and audience interests</b>."
+    - iconColor: "primary"
+      title: "Consistent Authority"
+      icon: upload
+      points:
+        - description: "Publish <b>weekly across all platforms</b> without content creation becoming your calendar."
+        - description: "Batch and schedule <b>a month's content in one sitting</b> — 15 minutes, done."
+        - description: "Track what <b>resonates with your audience</b> and do more of it."
+        - description: "Stay <b>top-of-mind in your industry</b> with a steady stream of insightful content."
+
 faq:
   - q: "How do I build thought leadership without spending hours writing?"
     a:

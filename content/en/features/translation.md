@@ -34,6 +34,35 @@ features:
       description: Gain competitive advantage over businesses that only operate in a single language.
   footer:
     - Watch your sales figures grow as you connect with customers worldwide in their preferred language
+featureList:
+  title: "Speak Every Language. Sound Like Yourself."
+  description: "Translate your marketing content into 50+ languages with one click — preserving your brand voice, tone, and intent in every market."
+  features:
+    - iconColor: "primary"
+      title: "One-Click Translation"
+      icon: edit
+      points:
+        - description: "Translate <b>blog posts, social content, and ad copy</b> into 50+ languages instantly."
+        - description: "Write in your <b>comfort language</b> — the AI handles everything else."
+        - description: "Each translation is <b>unique content, not a duplicate</b> — safe for SEO."
+        - description: "Batch-translate <b>your entire content library</b> to enter new markets fast."
+    - iconColor: "primary"
+      title: "Brand Voice in Every Language"
+      icon: chart
+      points:
+        - description: "AI preserves your <b>tone, style, and sentence structure</b> — not just word meanings."
+        - description: "Content sounds like <b>native marketing copy</b>, not a flat translation."
+        - description: "Your <b>brand personality comes through</b> whether you're speaking English, Spanish, or Japanese."
+        - description: "Review and edit translations <b>before publishing</b> — you stay in control."
+    - iconColor: "primary"
+      title: "Global Revenue, Local Cost"
+      icon: upload
+      points:
+        - description: "Professional translation costs <b>£0.10–0.20 per word</b>. AI translation is included in your plan."
+        - description: "Reach <b>international customers in their own language</b> — where they're most likely to buy."
+        - description: "Manage translations <b>per language</b> — review, edit, and publish each version independently."
+        - description: "Combine with audience personas to create <b>market-specific content</b> that resonates locally."
+
 cta:
   title: Unlock New Global Revenue Streams Now!
   description: Stop leaving international sales on the table. Start converting global visitors into paying customers with Bazam translation. Try it now and watch your business grow!

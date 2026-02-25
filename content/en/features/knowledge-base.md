@@ -37,6 +37,35 @@ features:
   footer:
     - "Think of it as your brand's brain. The agent thinks with it every time it creates."
 
+featureList:
+  title: "Give Your AI the Context It Needs to Get It Right"
+  description: "Upload your brand docs, product specs, and key materials once. The agent draws on all of it — every time — so your content is accurate, specific, and deeply informed."
+  features:
+    - iconColor: "primary"
+      title: "Upload Everything"
+      icon: folder
+      points:
+        - description: "Add <b>PDFs, documents, presentations, web pages, and raw text</b> — anything that helps the agent understand your brand."
+        - description: "Index <b>your website, competitor pages, and industry articles</b> by pasting URLs."
+        - description: "Upload once, <b>benefit forever</b> — the agent references your materials in every conversation."
+        - description: "Organise knowledge by <b>client or project</b> to keep brand contexts fully isolated."
+    - iconColor: "primary"
+      title: "Smarter Content Output"
+      icon: edit
+      points:
+        - description: "Content cites <b>real product specs, pricing, and positioning</b> — not generic AI guesswork."
+        - description: "Press releases reference your <b>actual reports and financials</b> for accuracy."
+        - description: "FAQs and support content draw on your <b>existing documentation</b>."
+        - description: "The more you feed the agent, the <b>richer and more detailed</b> every piece of content becomes."
+    - iconColor: "primary"
+      title: "Persistent Brand Intelligence"
+      icon: chart
+      points:
+        - description: "Your data <b>stays private</b> and is never used to train models."
+        - description: "Knowledge persists <b>across every conversation</b> — no re-briefing, no copy-pasting."
+        - description: "New team members get <b>instant context</b> — the agent already knows everything about the brand."
+        - description: "Combine knowledge base with <b>brand voice and audience personas</b> for maximum content quality."
+
 cta:
   title: "Give Your Agent the Context It Deserves"
   description: "The difference between generic AI content and content that sounds like you? Context. Start building your knowledge base and see the difference immediately."

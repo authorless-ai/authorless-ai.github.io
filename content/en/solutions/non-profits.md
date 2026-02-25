@@ -72,6 +72,35 @@ topFeatures:
       description: "Upload reports and documents. The agent draws on them to create accurate, detailed content about your work."
       target: /features/knowledge-base/
 
+featureList:
+  title: "Give Your Mission the Voice It Deserves"
+  description: "Bazam helps small teams create powerful donor communications, impact stories, and awareness campaigns — without a marketing budget or dedicated comms staff."
+  features:
+    - iconColor: "primary"
+      title: "Impact Storytelling"
+      icon: edit
+      points:
+        - description: "Turn <b>programme reports and outcome data</b> into compelling stories that inspire action."
+        - description: "Create <b>donor appeals, volunteer calls, and partner updates</b> — each with the right tone."
+        - description: "Upload impact data once and the agent <b>draws on it for every piece of content</b>."
+        - description: "Fundraising campaigns that show donors <b>exactly where their money goes</b>."
+    - iconColor: "primary"
+      title: "Anyone Can Be the Marketer"
+      icon: users
+      points:
+        - description: "Any staff member or <b>volunteer creates content through conversation</b> — no training needed."
+        - description: "Brand voice settings ensure <b>consistent messaging</b> no matter who's creating."
+        - description: "Type <b>'write a post about our mentoring programme'</b> and get a polished, on-mission draft."
+        - description: "Translate content to <b>reach communities and supporters in other languages</b>."
+    - iconColor: "primary"
+      title: "Maximum Impact, Minimum Budget"
+      icon: chart
+      points:
+        - description: "One subscription replaces the need for <b>copywriters, agencies, and dedicated marketing staff</b>."
+        - description: "Schedule and publish across <b>all social channels and your blog</b> from one place."
+        - description: "Maintain a <b>consistent publishing schedule</b> without adding to anyone's workload."
+        - description: "Every penny saved on communications is a penny <b>spent on your mission</b>."
+
 faq:
   - q: "How do non-profits do marketing without a marketing budget?"
     a:

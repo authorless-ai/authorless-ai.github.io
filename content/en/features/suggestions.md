@@ -33,6 +33,35 @@ features:
   footer:
     - Relevance is key to engagement. Bazam helps you create content that connects.
 
+featureList:
+  title: "Never Run Out of Content Ideas Again"
+  description: "Bazam analyses your business, audience, and industry to suggest targeted content topics — so you always know what to create next."
+  features:
+    - iconColor: "primary"
+      title: "Endless Inspiration"
+      icon: edit
+      points:
+        - description: "Get <b>fresh topic suggestions</b> based on your business, audience personas, and industry trends."
+        - description: "Request new batches <b>whenever you're planning</b> — monthly, quarterly, or on demand."
+        - description: "Suggestions consider <b>what you've already published</b> to keep your calendar fresh."
+        - description: "Never stare at a <b>blank page again</b> — every session starts with ready ideas."
+    - iconColor: "primary"
+      title: "Strategically Targeted Topics"
+      icon: chart
+      points:
+        - description: "Topics map to <b>every stage of the buying journey</b> — awareness, consideration, conversion."
+        - description: "Suggestions target your <b>specific audience's pain points and interests</b>."
+        - description: "Identify <b>content gaps</b> — topics your audience needs that you haven't covered yet."
+        - description: "Suggestions adapt to <b>seasonal trends, product launches, and campaigns</b>."
+    - iconColor: "primary"
+      title: "From Idea to Published Post"
+      icon: upload
+      points:
+        - description: "Click a suggestion and <b>expand it into a full draft</b> — headline, structure, and body."
+        - description: "Generate ideas across formats — <b>blog posts, social updates, videos, email newsletters</b>."
+        - description: "Approve suggestions and the agent <b>creates, schedules, and publishes</b> automatically."
+        - description: "Create content for <b>multiple languages</b> from a single set of topic ideas."
+
 cta:
   title: Discover Your Next Big Content Idea Now!
   description: Ready to unlock a world of content possibilities and say goodbye to writer's block? Try Bazam now and experience the power of AI-driven inspiration!

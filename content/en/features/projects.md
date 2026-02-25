@@ -34,6 +34,35 @@ features:
   footer:
     - Scale your production confidently with Bazam
 
+featureList:
+  title: "Every Client. Their Own Space. One Dashboard."
+  description: "Manage content for multiple clients without the chaos — each project gets its own brand voice, audience, knowledge base, and content calendar."
+  features:
+    - iconColor: "primary"
+      title: "Isolated Client Workspaces"
+      icon: folder
+      points:
+        - description: "Each client gets a <b>completely separate project</b> with its own settings and content."
+        - description: "Brand voice, audience personas, and knowledge base are <b>fully isolated</b> — zero cross-contamination."
+        - description: "Even <b>competing brands</b> can be managed in the same account without risk."
+        - description: "Switch between clients <b>with a click</b> — no logging in and out."
+    - iconColor: "primary"
+      title: "Scale Without Limits"
+      icon: chart
+      points:
+        - description: "Add new clients <b>in minutes</b> — define brand voice, upload docs, start creating."
+        - description: "No <b>per-client pricing</b> — allocate credits where they're needed most."
+        - description: "Each project scales independently — <b>no platform limitations</b> as you grow."
+        - description: "Content history, scheduled posts, and settings <b>persist through team changes</b>."
+    - iconColor: "primary"
+      title: "Team Access Control"
+      icon: users
+      points:
+        - description: "Assign team members to <b>specific projects</b> with granular permissions."
+        - description: "Account managers only see <b>their own clients</b> — clean separation."
+        - description: "Approval workflows ensure <b>quality control</b> before anything goes live."
+        - description: "Adjust access <b>at any time</b> as your team changes."
+
 cta:
   title: Revolutionise Your Agency's Content Management Today!
   description: Ready to transform how your agency handles multiple client content needs? Try Bazam now and experience the power of organised, efficient multi-project management!

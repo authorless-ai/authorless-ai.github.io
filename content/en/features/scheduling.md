@@ -34,6 +34,35 @@ features:
   footer:
     - Get your content seen by the right people, at the right time. Bazam helps you optimise your publishing strategy.
 
+featureList:
+  title: "Plan Once. Publish on Autopilot."
+  description: "Batch-schedule a full month of content across every platform in one sitting. Your content calendar runs itself while you focus on your business."
+  features:
+    - iconColor: "primary"
+      title: "Visual Content Calendar"
+      icon: calendar
+      points:
+        - description: "See your <b>entire publishing schedule at a glance</b> — blog, social, every channel."
+        - description: "<b>Drag and drop</b> to reschedule posts without losing any content."
+        - description: "Colour-coded by platform and status — <b>drafts, approved, scheduled, published</b>."
+        - description: "Plan weeks or months ahead — <b>no spreadsheets, no sticky notes</b>."
+    - iconColor: "primary"
+      title: "Cross-Platform Scheduling"
+      icon: upload
+      points:
+        - description: "Schedule to <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok</b> simultaneously."
+        - description: "Set <b>different posting times per platform</b> — LinkedIn mornings, Instagram evenings, TikTok weekends."
+        - description: "Batch-schedule a <b>full month of content in one session</b> — creation to calendar in minutes."
+        - description: "Recurring events? <b>Duplicate and adjust</b> — no starting from scratch."
+    - iconColor: "primary"
+      title: "Smart Timing & Approval"
+      icon: chart
+      points:
+        - description: "Track engagement to find <b>your audience's optimal posting times</b>."
+        - description: "Approval workflows ensure posts are <b>reviewed before they're queued</b>."
+        - description: "Content gets <b>automatically published at the scheduled time</b> — no manual intervention."
+        - description: "Experiment with timing and <b>let the data tell you what works</b>."
+
 cta:
   title: "Schedule Success: Start Your Free Bazam Trial Today!"
   description: Ready to take control of your content schedule and unlock the power of consistent publishing? Sign up for a free trial of Bazam and experience the benefits firsthand!

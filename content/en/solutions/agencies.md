@@ -94,6 +94,31 @@ featureCards:
 featureList:
   title: "A Force Multiplier for Marketing Agencies"
   description: "Bazam helps agencies scale execution without scaling headcount — so your team can focus on the strategy and relationships that win new business."
+  features:
+    - iconColor: "primary"
+      title: "Scale Client Accounts"
+      icon: users
+      points:
+        - description: "Each account manager handles <b>more clients</b> because the agent handles content production."
+        - description: "New client onboarding takes <b>minutes, not weeks</b> — upload docs, define voice, start creating."
+        - description: "<b>Isolated project spaces</b> keep every client's brand, voice, and data completely separate."
+        - description: "Take on <b>content retainers profitably</b> — the agent does the heavy lifting."
+    - iconColor: "primary"
+      title: "Instant Team Knowledge"
+      icon: folder
+      points:
+        - description: "New hires ask the agent about a client and get a <b>full briefing in minutes</b>."
+        - description: "Brand voice, audience, campaign history — <b>all accessible through conversation</b>."
+        - description: "Client knowledge <b>never walks out the door</b> when staff change."
+        - description: "Junior staff produce <b>senior-quality output</b> because the agent enforces brand context."
+    - iconColor: "primary"
+      title: "Centralised Reporting"
+      icon: chart
+      points:
+        - description: "Pull <b>any client's performance summary</b> in seconds — no spreadsheet wrangling."
+        - description: "Track <b>engagement, reach, and growth</b> across all channels in one dashboard."
+        - description: "Ask the agent to <b>summarise weekly performance</b> in plain English."
+        - description: "Free senior talent from reporting to focus on <b>strategy and client relationships</b>."
 
 faq:
   - q: "How do I take on more agency clients without hiring more staff?"

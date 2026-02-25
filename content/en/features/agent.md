@@ -37,6 +37,35 @@ features:
   footer:
     - "Revolutionise your marketing. Starting now."
 
+featureList:
+  title: "One Agent. Every Marketing Task. Zero Context-Switching."
+  description: "Your AI marketing agent replaces the patchwork of tools, templates, and tabs — handling content creation, publishing, analytics, and strategy in a single conversation."
+  features:
+    - iconColor: "primary"
+      title: "Conversational Content Creation"
+      icon: edit
+      points:
+        - description: "Tell the agent what you need in <b>plain language</b> — no prompts, templates, or marketing jargon required."
+        - description: "Create <b>blog posts, social campaigns, press releases, and ad copy</b> through natural conversation."
+        - description: "Repurpose content across formats — turn a blog post into a social series with a single request."
+        - description: "Bulk-create content for <b>multiple campaigns and clients</b> simultaneously."
+    - iconColor: "primary"
+      title: "Brand-Aware Intelligence"
+      icon: chart
+      points:
+        - description: "The agent <b>remembers your brand</b> — voice, audience, products, and strategy — across every conversation."
+        - description: "Draw on your <b>knowledge base</b> of docs, URLs, and product info for accurate, detailed content."
+        - description: "Maintain <b>separate brand contexts</b> for multiple clients — each fully isolated."
+        - description: "Get <b>strategic topic suggestions</b> based on your audience personas and business goals."
+    - iconColor: "primary"
+      title: "Autonomous Execution"
+      icon: upload
+      points:
+        - description: "<b>Schedule and publish</b> directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok."
+        - description: "Ask for a <b>performance summary</b> instead of logging into five platforms."
+        - description: "Track <b>engagement, reach, and growth</b> across every channel in one conversation."
+        - description: "Collaborate with your team using <b>role-based access</b> and approval workflows."
+
 cta:
   title: "Ready to Meet Your New Teammate?"
   description: "Stop switching between tools and start having a conversation with your marketing department. Try Bazam free and see the agent in action."

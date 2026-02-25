@@ -33,6 +33,35 @@ features:
   footer:
     - Connect your accounts, expand your reach. Bazam puts your content everywhere it needs to be.
 
+featureList:
+  title: "Create It Here. Publish It Everywhere."
+  description: "Stop logging into five platforms. Bazam publishes your content directly to every channel — blog and social — from a single dashboard."
+  features:
+    - iconColor: "primary"
+      title: "All Your Channels, One Place"
+      icon: upload
+      points:
+        - description: "Publish directly to <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok</b>."
+        - description: "Each post is automatically <b>formatted for the platform's requirements</b> — character limits, image specs, everything."
+        - description: "Connect new accounts in minutes — <b>no technical setup</b> required."
+        - description: "Add more platforms as your presence grows — <b>no per-channel fees</b>."
+    - iconColor: "primary"
+      title: "From One Idea to Every Platform"
+      icon: edit
+      points:
+        - description: "Create content once and <b>adapt it for each channel</b> automatically — no manual reformatting."
+        - description: "A blog post becomes a <b>LinkedIn article, tweet thread, and Instagram caption</b> in seconds."
+        - description: "Platform-native formatting means your content <b>looks right everywhere</b>."
+        - description: "Cross-post or customise per channel — <b>your choice, every time</b>."
+    - iconColor: "primary"
+      title: "Publish With Confidence"
+      icon: chart
+      points:
+        - description: "Preview posts <b>before they go live</b> on each platform."
+        - description: "Approval workflows ensure <b>nothing publishes without sign-off</b>."
+        - description: "Track <b>what's been published, what's queued, and what's in draft</b> at a glance."
+        - description: "Full publishing history so you always know <b>what went out and when</b>."
+
 cta:
   title: "Reach a Global Audience: Start Your Free Bazam Trial Today!"
   description: Ready to simplify your content distribution and reach a wider audience? Sign up for a free trial of Bazam and experience the power of seamless publishing!

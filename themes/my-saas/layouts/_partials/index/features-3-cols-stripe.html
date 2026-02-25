@@ -1,11 +1,13 @@
 {{ $data := (index .Site.Data .Site.Language.Lang).featurelist }}
 
+{{ $features := $data.features }}
 {{ $title := $data.title }}
 {{ $description := $data.description }}
 
 {{ with .Page.Params.featureList }}
-  {{ $title = .title }}
-  {{ $description = .description }}
+  {{ with .title }}{{ $title = . }}{{ end }}
+  {{ with .description }}{{ $description = . }}{{ end }}
+  {{ with .features }}{{ $features = . }}{{ end }}
 {{ end }}
 
 <section class="bg-white dark:bg-gray-900">
@@ -15,7 +17,7 @@
       <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ $description }}</p>
     </div>
     <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-8 xl:gap-12 md:space-y-0">
-      {{ range $feature := $data.features }}
+      {{ range $feature := $features }}
       <div>
         <div class="hidden md:flex justify-center items-center mb-4 w-10 h-10 bg-{{ $feature.iconColor }}-100 rounded dark:bg-{{ $feature.iconColor }}-900 lg:h-16 lg:w-16">
           {{ partial "components/icons.html" (dict "icon" $feature.icon "class" (printf "w-5 h-5 text-%s-600 dark:text-%s-300 lg:w-8 lg:h-8" $feature.iconColor $feature.iconColor)) }}

@@ -35,6 +35,35 @@ features:
   footer:
     - Quality control shouldn't be a bottleneck. Bazam Teams ensures consistency without slowing you down
 
+featureList:
+  title: "Scale Your Team's Content Output Without Sacrificing Quality"
+  description: "Empower every team member to create on-brand content through conversation — with approval workflows, role-based access, and consistent brand voice built in."
+  features:
+    - iconColor: "primary"
+      title: "Collaborative Content Creation"
+      icon: users
+      points:
+        - description: "Every team member creates content by <b>chatting with the agent</b> — no training required."
+        - description: "Junior staff produce <b>senior-quality output</b> because the agent enforces brand guidelines."
+        - description: "The more people creating, the <b>more content you produce</b> — without quality dropping."
+        - description: "Team members work in <b>their preferred language</b> — ideal for global teams."
+    - iconColor: "primary"
+      title: "Consistent Brand Voice"
+      icon: edit
+      points:
+        - description: "Set <b>tone, style, formality, and custom guidelines</b> once — applied to every piece automatically."
+        - description: "The same brand voice no matter <b>who on your team is creating</b>."
+        - description: "Multiple brands? Each gets <b>its own isolated voice settings</b>."
+        - description: "New hires are productive <b>from day one</b> — the agent already knows the brand."
+    - iconColor: "primary"
+      title: "Approval & Access Control"
+      icon: chart
+      points:
+        - description: "Content gets <b>queued for review</b> before publishing — nothing goes live without sign-off."
+        - description: "Assign <b>roles and permissions</b> — admins, editors, creators — each with appropriate access."
+        - description: "Organise work across <b>departments, brands, or clients</b> with separate projects."
+        - description: "Full <b>audit trail</b> of who created, reviewed, and published each piece."
+
 cta:
   title: Empower Your Entire Team to Create On-Brand Content Now!
   description: Ready to scale your content production whilst maintaining perfect brand consistency? Try Bazam Teams today and transform how your marketing department collaborates!

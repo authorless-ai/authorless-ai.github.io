@@ -34,6 +34,35 @@ features:
   footer:
     - Consistency is key. Bazam helps you stay top-of-mind with your audience.
 
+featureList:
+  title: "AI Content Writing That Sounds Like You, Not a Robot"
+  description: "Create blog posts, social updates, press releases, and ad copy in your brand voice — faster than any writer, cheaper than any agency."
+  features:
+    - iconColor: "primary"
+      title: "Write Anything, Instantly"
+      icon: edit
+      points:
+        - description: "Generate <b>blog posts, social campaigns, press releases, and ad copy</b> in minutes, not days."
+        - description: "Create <b>70+ types of marketing content</b> — all tailored to your brand voice and audience."
+        - description: "Bulk-create a <b>full month of content</b> in a single session — no more daily scrambles."
+        - description: "Repurpose one piece into <b>multiple formats</b> — blog to social series, article to email newsletter."
+    - iconColor: "primary"
+      title: "On-Brand, Every Time"
+      icon: chart
+      points:
+        - description: "Every piece follows your <b>brand voice, tone, and style guidelines</b> automatically."
+        - description: "Content is informed by your <b>product knowledge, audience personas, and company data</b>."
+        - description: "AI writes from <b>your facts and materials</b> — not generic training data."
+        - description: "Consistent quality whether <b>one person or ten</b> are creating content."
+    - iconColor: "primary"
+      title: "From Draft to Published"
+      icon: upload
+      points:
+        - description: "Create, review, and <b>publish directly</b> to your blog and social channels from one place."
+        - description: "Schedule content across <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok</b>."
+        - description: "Built-in <b>approval workflows</b> so nothing goes live without sign-off."
+        - description: "Translate finished content into <b>50+ languages</b> for international reach."
+
 cta:
   title: Start Saving Time and Publishing Regularly Now!
   description: Ready to transform your workflow and maintain a consistent content schedule? Try Bazam now and experience the time-saving power of automated content creation!
