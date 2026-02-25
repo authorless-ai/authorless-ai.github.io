@@ -98,44 +98,43 @@ featureList:
   description: "Bazam gives growing businesses the power of a full marketing department — at a fraction of the cost."
 
 faq:
-  - q: "How can a small business do content marketing without a marketing team?"
+  - q: "How do I do marketing for my business when I know nothing about marketing?"
     a:
-      - "Bazam's AI agent handles the work a marketing team would do — creating content, scheduling across platforms, tracking performance, and suggesting strategy. You review and approve; the agent handles everything else."
-      - "Most business owners spend half an hour a month on marketing with Bazam. No marketing experience required."
+      - "You don't need to. Bazam's AI agent guides you through setting up your brand and audience, then handles the content creation, scheduling, and publishing. Tell it what you need in plain language — 'write social posts about our services' — and it does the rest."
 
-  - q: "What is the best AI marketing tool for small businesses?"
+  - q: "I'm too busy running my business to do marketing. What do I do?"
     a:
-      - "The best tool for small businesses combines content creation, scheduling, publishing, and analytics in one place — without requiring marketing expertise. Bazam does all of this through a conversational AI agent that learns your brand."
+      - "Spend 30 minutes a month with Bazam. The agent creates a month of content in your brand voice. You quickly review, approve, and it handles scheduling and publishing across all your platforms. Marketing runs on autopilot while you run your business."
 
-  - q: "How is Bazam different from ChatGPT for business marketing?"
+  - q: "Is hiring a marketing agency worth it for a small business?"
     a:
-      - "ChatGPT is a general chatbot. It knows nothing about your brand, forgets everything between sessions, and can't schedule, publish, or track performance. Bazam is a complete marketing platform with an agent that remembers your brand voice, audience, and goals permanently."
+      - "For strategy and creative direction — sometimes. For content production — usually not. An agency retainer costs £2,000–10,000/month for what an AI agent does in minutes. Most small businesses need consistent execution, not expensive strategy decks."
 
-  - q: "Do I need marketing experience to use AI for my business?"
+  - q: "How do small businesses compete with bigger companies online?"
     a:
-      - "No. Bazam guides you through setting up your brand voice and audience personas. From there, you just tell the agent what you need — 'Write a month of social posts about our services' — and it handles the rest."
+      - "By showing up consistently. Bigger companies have bigger teams, but one person with an AI agent can match their content output across every platform. Small businesses that publish regularly outperform larger competitors who are sporadic."
 
-  - q: "How much time does AI content marketing take each month?"
+  - q: "How do I get more customers through online marketing?"
     a:
-      - "Most business owners spend half an hour per month planning and approving content. The agent creates it, schedules it across platforms, and publishes automatically. Beyond that, jump in any time for quick requests — a product announcement, event promotion, or timely post."
+      - "Publish consistently, speak to your audience's problems, and be present on the platforms they use. Bazam creates targeted content from your brand voice and audience personas, then publishes across all your channels — building visibility that drives leads."
 
-  - q: "What types of marketing content can AI create for my business?"
+  - q: "I hate doing marketing. Is there an easier way?"
     a:
-      - "Blog posts, social media campaigns, press releases, email newsletters, ad copy, product descriptions, and more. Each piece is tailored to your brand voice and target audience."
+      - "Yes. Stop thinking of marketing as something you 'do' and start treating it as a conversation. Tell Bazam's agent what your business does, who you serve, and it handles the rest — creating, scheduling, and publishing content you'd be proud of."
 
-  - q: "Will AI-generated content sound like my brand?"
+  - q: "How do I make my small business look professional online?"
     a:
-      - "Yes. You define your brand voice through tone settings and custom guidelines. The agent uses these every time it creates content. Add documents and product info to your knowledge base and the output gets even more specific."
+      - "Consistent, well-written content across all your channels. Bazam creates professional marketing content in your brand voice and publishes it on schedule. Your online presence looks like you have a marketing team — because now, you do."
 
-  - q: "How much does AI marketing cost compared to an agency?"
+  - q: "Should I do my own marketing or hire someone?"
     a:
-      - "An agency retainer runs £2,000–10,000+ per month. A freelance writer charges £200–500 per blog post. A full-time hire costs £30,000–60,000+ per year. Bazam gives you all of that capability for a fraction of the cost."
+      - "An AI agent gives you a third option. You don't need to become a marketer, and you don't need to pay agency rates. Bazam handles the production work; you just review and approve. It's faster than DIY and cheaper than hiring."
 
-  - q: "How do I measure the ROI of content marketing?"
+  - q: "What should a small business post on social media?"
     a:
-      - "Bazam tracks engagement, reach, clicks, and follower growth across every connected channel. Ask the agent 'How did this month's content perform?' and get a plain-English summary. Over time, you'll see which topics and platforms drive the best results."
+      - "Content that helps your audience. Tips, behind-the-scenes, customer stories, industry insights, and product updates — all in your brand voice. Bazam's agent suggests topics based on your business and audience, then creates the posts for you."
 
-  - q: "How do I create a content strategy for my small business?"
+  - q: "How do I know if my marketing is actually working?"
     a:
-      - "Start by defining your audience and brand voice in Bazam. The agent can then suggest content topics, campaign angles, and posting schedules based on your industry and goals. You don't need to be a strategist — the agent handles the planning."
+      - "Bazam tracks engagement, reach, clicks, and follower growth across all connected channels. Ask the agent 'how did we do this month?' and get a plain-English answer. Over time, you see what's working and do more of it."
 ---

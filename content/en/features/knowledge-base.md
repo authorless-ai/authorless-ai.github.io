@@ -1,0 +1,83 @@
+---
+title: "Your Knowledge Base: Everything Your Agent Needs to Know"
+heroDescription: "Upload docs, product pages, URLs, and brand guidelines. Your AI agent draws on all of it to create content that's <b>accurate, detailed, and deeply informed</b> — from day one."
+
+features:
+- title: "Feed It Once. Benefit Forever."
+  image: "/images/feature-office-1.jpg"
+  image_alt: "Uploading documents and URLs into the knowledge base."
+  description:
+    - "Here's what real conversations with your agent look like when it has context."
+  points:
+    - title: "'Write a blog post about our premium range'"
+      description: "The agent pulls product specs, pricing, and positioning from your uploaded catalogue. No briefing needed."
+    - title: "'Draft a press release about our Q4 results'"
+      description: "It references your uploaded reports and financial summaries for accuracy. You review facts, not write them."
+    - title: "'Create social content for our new partnership'"
+      description: "The agent already knows who you are, what you do, and how you talk about it. The partnership announcement lands on-brand first time."
+    - title: "'Answer FAQs for our support page'"
+      description: "It draws on your product docs and existing content to generate accurate, on-voice answers."
+  footer:
+    - "Context is everything. Give your agent context and watch the quality transform."
+
+- title: "Your Brand's Entire Brain, In One Place"
+  image: "/images/feature-office-2.jpg"
+  image_alt: "Different content types being added to the knowledge base."
+  description:
+    - "Anything your team would need to read before writing about your brand."
+  points:
+    - title: "Documents"
+      description: "PDFs, Word docs, presentations — product specs, brand guidelines, research reports, case studies. Upload and forget."
+    - title: "Web Pages"
+      description: "Paste URLs and the agent indexes the content. Your website, competitor pages, industry articles — all fair game."
+    - title: "Raw Text"
+      description: "Paste in meeting notes, strategy docs, or talking points. Anything that helps the agent understand your world."
+    - title: "Everything Compounds"
+      description: "The more you feed it, the richer the output. Early content gets better as you add more context over time."
+  footer:
+    - "Think of it as your brand's brain. The agent thinks with it every time it creates."
+
+cta:
+  title: "Give Your Agent the Context It Deserves"
+  description: "The difference between generic AI content and content that sounds like you? Context. Start building your knowledge base and see the difference immediately."
+
+faq:
+  - q: "What is a knowledge base in content marketing?"
+    a:
+      - "A knowledge base is a centralised collection of everything your AI agent needs to know about your brand — product specs, brand guidelines, case studies, competitor info, key messaging, and industry context. Think of it as onboarding materials for a marketing hire who never forgets anything."
+      - "In Bazam, your knowledge base feeds directly into every piece of content the agent creates, ensuring accuracy and depth."
+
+  - q: "How do I stop AI from writing generic content?"
+    a:
+      - "Give it context. The reason AI content sounds generic is because generic tools have no information about your brand, products, or audience. Bazam's knowledge base solves this — upload your documents, product info, and brand guidelines, and the agent creates content that's specific and informed."
+
+  - q: "How do I train AI on my brand?"
+    a:
+      - "Upload your brand guidelines, product catalogues, case studies, and any key documents to Bazam's knowledge base. Define your brand voice settings and audience personas. The agent now has persistent context — it references all of this every time it creates content."
+      - "No actual 'training' happens. Your data stays private and is never used to train models. The agent simply reads and references your materials."
+
+  - q: "What information should I give an AI content tool?"
+    a:
+      - "Anything you'd give a new marketing hire: product specs and pricing, brand guidelines, case studies, customer testimonials, competitor comparisons, industry reports, key messaging documents, and past campaign examples. The more context the agent has, the better every piece of content."
+
+  - q: "How does a knowledge base improve AI content quality?"
+    a:
+      - "Without a knowledge base, AI generates from general training data — technically correct but lacking the specifics that build credibility. With a knowledge base, the agent references your actual products, pricing, case studies, and positioning."
+      - "The result is content that reads like it was written by someone who genuinely knows your business."
+
+  - q: "Is it better to use a knowledge base or detailed prompts?"
+    a:
+      - "Knowledge base, every time. Detailed prompts need repeating in every conversation and get lost between sessions. A knowledge base is persistent — upload it once and the agent draws on it automatically. You still guide the agent with simple instructions, but the deep context is always there."
+
+  - q: "How do I make AI content more accurate and factual?"
+    a:
+      - "Feed the AI your source material. Upload product docs, specifications, reports, and brand guidelines to Bazam's knowledge base. The agent references these directly when creating content, ensuring facts, figures, and claims match your actual materials."
+
+  - q: "Can I use a knowledge base for competitive intelligence in content?"
+    a:
+      - "Yes. Add competitor websites, industry reports, and market research to your knowledge base. The agent can reference competitive positioning and market trends when suggesting topics, drafting comparison content, or creating strategically informed campaigns."
+
+  - q: "How do I create product-specific marketing content with AI?"
+    a:
+      - "Upload your product catalogue, specs, and pricing to the knowledge base. Then ask the agent to create content about any product — it pulls the specific details automatically. No copy-pasting product info into prompts. No briefing documents. Just 'write a blog post about our premium range' and it already knows what that means."
+---

@@ -42,47 +42,43 @@ cta:
   description: "Stop switching between tools and start having a conversation with your marketing department. Try Bazam free and see the agent in action."
 
 faq:
-  - q: "What is an AI marketing agent?"
+  - q: "Can AI replace my marketing team?"
     a:
-      - "An AI marketing agent is autonomous software that handles marketing tasks through natural conversation. You tell it what you need — content, analytics, campaign ideas — and it executes. No menus, no forms, no prompt engineering."
-      - "Bazam's agent maintains persistent knowledge of your brand, audience, and campaign history, so every interaction builds on the last."
+      - "For content production — yes. An AI agent creates, schedules, publishes, and reports faster and cheaper than any hire. For strategy, brand decisions, and creative direction — you still need humans. Bazam handles the execution so your team focuses on the thinking."
 
-  - q: "How is an AI marketing agent different from ChatGPT?"
+  - q: "How do I stop AI from hallucinating facts in my content?"
     a:
-      - "ChatGPT is a general-purpose chatbot. It knows nothing about your brand, forgets everything between sessions, and can't schedule posts, pull analytics, or manage a content calendar."
-      - "Bazam's agent has persistent context — your brand voice, audience personas, knowledge base, and campaign history. It creates, schedules, publishes, and reports. It's a marketing platform, not a text generator."
+      - "Give it your own source material. Bazam's knowledge base lets you upload product docs, brand guidelines, and company information. The agent references these directly, so it writes from your facts — not from its imagination."
 
-  - q: "Should I hire a marketer or use an AI marketing agent?"
+  - q: "Is AI-generated content detectable?"
     a:
-      - "They complement each other. An AI agent handles execution at scale — content creation, scheduling, reporting, ideation — faster and cheaper than any hire. Humans handle strategy, creative direction, and brand decisions."
-      - "For teams without dedicated marketing staff, the agent fills that gap entirely. For larger teams, it multiplies what each person can deliver."
+      - "Generic AI content is detectable because it sounds generic. Content created with proper brand context — your voice, your audience, your product details — reads like professional marketing copy because it IS professional marketing copy, just produced faster."
 
-  - q: "How do I use AI to create marketing content?"
+  - q: "How do I make AI write in my brand voice?"
     a:
-      - "Set up your brand voice and audience personas, upload key documents to your knowledge base, then start asking the agent to create content. 'Write a LinkedIn campaign about our product launch' or 'Give me 10 blog ideas for Q2' — it handles the rest."
-      - "The agent creates drafts for you to review, approve, and publish across all your channels."
+      - "Define your voice in Bazam — tone, formality, style, and custom guidelines. Upload brand documents and examples to the knowledge base. The agent applies all of this every time it creates content. The result sounds like your best writer, not a robot."
 
-  - q: "Is my marketing data secure with an AI agent?"
+  - q: "Is ChatGPT good enough for business marketing?"
     a:
-      - "Yes. Each project is completely isolated — your brand voice, audience personas, knowledge base, and content are never shared with or visible to other users. We never use your content to train our models."
+      - "For the occasional blog draft, maybe. For a real content operation — no. ChatGPT forgets everything between sessions, knows nothing about your brand, and can't schedule, publish, or track anything. Bazam is a marketing platform with persistent brand knowledge."
 
-  - q: "What can an AI marketing agent actually do?"
+  - q: "How do I use AI for marketing without learning prompt engineering?"
     a:
-      - "Create blog posts, social media campaigns, press releases, ad copy, and product descriptions. Schedule and publish across all major platforms. Pull performance analytics and summarise results. Brainstorm campaign ideas and suggest content topics. Translate content into 50+ languages."
+      - "Talk to it like a colleague. 'Write me a blog post about our new product' or 'How did Instagram perform last week?' — no special syntax needed. Bazam's agent is designed for natural conversation, not prompt crafting."
 
-  - q: "Do I need marketing experience to use an AI agent?"
+  - q: "Can AI understand my specific business?"
     a:
-      - "No. The agent is designed for natural conversation. Ask it what you need the same way you'd ask a colleague. The platform guides you through setting up your brand voice and audience — no marketing expertise required."
+      - "Yes — if you give it the context. Upload your product docs, brand guidelines, and key materials to Bazam's knowledge base. Define your audience personas. The agent now has a deep understanding of your business that persists across every conversation."
 
-  - q: "Can an AI agent manage multiple brands?"
+  - q: "How do I automate social media content creation?"
     a:
-      - "Yes. Each brand or client lives in a completely separate project with its own voice, audience personas, knowledge base, and content calendar. The agent never cross-references between projects."
+      - "Tell the agent what you need — a month of social posts, a product launch campaign, weekly tips — and it creates platform-specific content in your brand voice. Schedule it all from one dashboard. You review and approve; publishing is automatic."
 
-  - q: "How much does an AI marketing agent cost?"
+  - q: "What's the difference between an AI writing tool and an AI marketing agent?"
     a:
-      - "Significantly less than a marketing hire (£30,000+/year), freelancer (£200-500/post), or agency retainer (£2,000-10,000/month). Bazam plans include the AI agent, unlimited content creation, scheduling, publishing, and analytics. See our pricing page for details."
+      - "An AI writing tool generates text. An AI marketing agent creates content, schedules it, publishes across platforms, pulls analytics, suggests strategy, and remembers everything about your brand. It's the difference between a typewriter and a marketing department."
 
-  - q: "Can I try an AI marketing agent for free?"
+  - q: "How much does an AI marketing agent cost vs a freelancer?"
     a:
-      - "Yes. Sign up and you'll receive free credits to try the agent, create content, and explore the platform. No credit card required."
+      - "A freelance content writer charges £200–500 per blog post. An agency retainer runs £2,000–10,000/month. A marketing hire costs £30,000–60,000+/year. Bazam gives you all of that capability — creation, scheduling, publishing, analytics — for a fraction of the cost."
 ---

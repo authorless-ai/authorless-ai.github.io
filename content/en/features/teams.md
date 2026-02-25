@@ -40,57 +40,39 @@ cta:
   description: Ready to scale your content production whilst maintaining perfect brand consistency? Try Bazam Teams today and transform how your marketing department collaborates!
 
 faq:
-  - q: "How many team members can I add to my Bazam account?"
+  - q: "How do I keep brand consistency when multiple people create content?"
     a:
-      - "Bazam Teams supports organisations of all sizes, from small businesses with just a few team members to large enterprises with extensive marketing departments. Our flexible plans allow you to add as many users as needed to match your specific requirements."
+      - "Set your brand voice once — tone, style, formality, and guidelines. The agent applies these to every piece of content regardless of who on your team creates it. Your team contributes; the brand voice stays consistent automatically."
 
-      - "Each team member receives their own login credentials whilst working within the same content ecosystem, ensuring seamless collaboration whilst maintaining individual accountability for contributions."
-
-  - q: "How does Bazam ensure brand consistency when multiple people are creating content?"
+  - q: "How do I stop junior staff from publishing off-brand content?"
     a:
-      - "Bazam Teams features a robust permissions system that allows administrators or brand managers to establish guardrails for content creation. These guardrails can include tone of voice guidelines, approved messaging, brand terminology, and even restricted topics."
+      - "Set up approval workflows. Content created by junior team members gets queued for review before publishing. Seniors review and approve within the platform — nothing goes live without sign-off."
 
-      - "Once these parameters are set, all content created by team members automatically aligns with your brand standards. Administrators can also implement approval workflows for added quality assurance, ensuring nothing goes live without proper review."
-
-  - q: "Can I assign different roles and permissions to various team members in Bazam?"
+  - q: "How do I give different team members different permissions?"
     a:
-      - "Absolutely. Bazam Teams offers comprehensive role management, allowing you to assign specific permissions based on team members' responsibilities. This means you can designate administrators who configure project settings, editors who review content, and content creators who work within established guidelines."
+      - "Assign roles — administrators configure settings, editors review content, creators work within established guidelines. Each person gets the access level they need, nothing more. Adjust permissions at any time."
 
-      - "This hierarchical permission structure ensures that junior staff can contribute productively without the risk of unintentionally altering brand parameters or publishing unapproved content, streamlining your workflow whilst maintaining quality control."
-
-  - q: "How does the review and approval process work in Bazam Teams?"
+  - q: "How does content approval work in a team?"
     a:
-      - "Bazam Teams includes a flexible approval workflow that adapts to your organisation's needs. Content created by team members can be automatically queued for review by designated approvers before scheduling or publication."
+      - "Content gets queued for designated approvers before it's scheduled or published. Approvers get notified, review in-platform, and approve or request changes. No email chains, no meetings — just a streamlined review process."
 
-      - "Approvers receive notifications when content is ready for review and can provide feedback directly within the platform. This streamlined process eliminates the need for back-and-forth emails or meetings, significantly accelerating your content production timeline whilst ensuring quality standards are maintained."
-
-  - q: "Can different teams within my organisation have their own separate projects in Bazam?"
+  - q: "Can different departments have their own content spaces?"
     a:
-      - "Yes, Bazam Teams supports multiple projects, each with its own distinct settings, team members, and content libraries. This is particularly useful for organisations with different departments, brands, or client accounts that require separate content strategies."
+      - "Yes. Create separate projects for each department, brand, or client — each with its own voice, audience, and content calendar. Team members can be assigned to multiple projects with different permission levels."
 
-      - "Team members can be assigned to multiple projects if needed, with different permission levels for each. This structure provides the perfect balance between collaboration and separation, ensuring team members only have access to the projects relevant to their role."
-
-#  - q: "Does Bazam Teams include analytics that show which team members are contributing most actively?"
-#    a:
-#      - "Bazam Teams features comprehensive performance analytics that track individual and team contributions to your content marketing efforts. These insights allow managers to identify top performers, balance workloads more effectively, and provide targeted support where needed."
-#
-#      - "The platform also provides productivity metrics showing content creation volume, revision rates, and approval times, helping you optimise your team's workflow and recognise exceptional contributions to your content marketing success."
-
-  - q: "How does Bazam handle content suggestions and improvements in a team environment?"
+  - q: "How do I scale content production across a team?"
     a:
-      - "When working in teams, Bazam's AI suggestions are even more powerful. The system learns from the content patterns of all team members, providing increasingly refined recommendations that align with your collective brand voice."
+      - "Add team members and let them create content through conversation with the agent. Brand voice settings ensure consistency. Approval workflows ensure quality. The more people you add, the more content you produce — without sacrificing quality."
 
-#      - "Team members can also share successful content templates and formats with each other through the platform's content library, creating a virtuous cycle of improvement and knowledge sharing that elevates your entire team's content quality."
-
-  - q: "We have team members who work in different languages. Can Bazam Teams support multilingual content creation?"
+  - q: "We have a multilingual team. Can everyone work in their own language?"
     a:
-      - "Bazam fully supports multilingual teams and content creation. Team members can work in their preferred language, whilst the platform's translation capabilities ensure everyone can collaborate effectively regardless of language barriers."
+      - "Yes. Team members work in their preferred language. The platform's translation features let you create and manage content across languages while maintaining consistent messaging. Ideal for global teams and international marketing."
 
-      - "This feature is particularly valuable for global organisations or those targeting international markets, as it allows you to create localised content efficiently whilst maintaining consistent messaging across all languages and regions."
-
-  - q: "Can we try Bazam Teams before committing to a subscription for our entire organisation?"
+  - q: "How many people can use Bazam on one account?"
     a:
-      - "Yes! We understand that implementing a new platform across your team is a significant decision. That's why we offer free trial credits when you sign up, allowing you and your team to experience the collaborative power of Bazam firsthand."
+      - "As many as your plan supports — from small teams to large organisations. Each team member gets their own login and works within the same content ecosystem. See our pricing page for team size options."
 
-      - "During your trial period, you can add team members, configure brand guidelines, and create real content together, giving you a comprehensive understanding of how Bazam Teams can transform your content marketing process. Simply sign up on our website to claim your free team credits and start collaborating!"
+  - q: "How do I get my whole team using AI for content creation?"
+    a:
+      - "Sign up, add your team members, and set up your brand voice. The agent works through natural conversation — no training required. Most teams are productive within the first session."
 ---

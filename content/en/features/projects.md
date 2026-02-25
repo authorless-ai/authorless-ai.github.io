@@ -39,56 +39,39 @@ cta:
   description: Ready to transform how your agency handles multiple client content needs? Try Bazam now and experience the power of organised, efficient multi-project management!
 
 faq:
-  - q: "How many client projects can I manage with Bazam?"
+  - q: "How do I manage content for multiple clients without mixing them up?"
     a:
-      - "Bazam supports unlimited client projects, allowing your agency to scale without constraints. Whether you're managing content for five clients or fifty, our platform can accommodate your growing business needs with ease."
+      - "Each client gets a completely separate project in Bazam — their own brand voice, audience personas, knowledge base, and content calendar. The agent never cross-references between projects. Your team switches between clients with a click."
 
-      - "Each client project maintains its own separate workspace, settings, and content library, ensuring that you can keep all client work neatly organised no matter how many accounts you're juggling. Bazam is designed to grow alongside your agency."
-
-  - q: "How does Bazam help maintain different brand voices across multiple client projects?"
+  - q: "How do I keep each client's brand voice consistent?"
     a:
-      - "Bazam allows you to create and store unique brand voice settings for each client project. You can define tone, style, vocabulary preferences, and content parameters that align with each client's specific brand identity."
+      - "Define each client's voice settings once — tone, style, formality, and custom guidelines. Every piece of content the agent creates for that client automatically follows these settings, no matter which team member is working on it."
 
-      - "These settings are automatically applied when generating content for that particular client, ensuring consistency across all materials. Your team can easily switch between client projects without worrying about voice confusion, making it simple to produce authentic content that genuinely represents each brand."
-
-  - q: "Can different team members have access to specific client projects, or does everyone see all projects?"
+  - q: "Can I control which team members see which clients?"
     a:
-      - "Bazam offers granular permission settings, allowing you to control exactly which team members have access to each client project. This means you can assign specific account managers to particular clients, ensuring they only see relevant information."
+      - "Yes. Assign team members to specific projects with granular permissions. Account managers only see their clients. Adjust access any time as your team changes."
 
-      - "This feature is particularly valuable for larger agencies with dedicated client teams or when working with sensitive information. You can adjust these permissions at any time as your team structure evolves or as client requirements change."
-
-  - q: "How does billing work for multiple projects? Do I need to pay separately for each client?"
+  - q: "How does pricing work for multiple client projects?"
     a:
-      - "Bazam offers flexible agency pricing that scales with your business. Rather than charging per client, we provide content generation credits that can be used across all your projects, giving you the freedom to allocate resources where they're needed most."
+      - "Bazam provides content generation credits that work across all your projects. You're not charged per client — allocate your credits where they're needed most. See our pricing page for current plans."
 
-      - "This approach means you're not locked into rigid per-client fees and can distribute your content creation capacity dynamically as client demands fluctuate. For specific pricing details and to find the right plan for your agency's unique needs, please visit our pricing page."
-
-  - q: "How does Bazam help agencies share knowledge and best practices across client accounts?"
+  - q: "How do I stop clients' content from getting mixed up?"
     a:
-      - "While each client project is maintained separately, Bazam makes it easy for your team to apply consistent methodologies across accounts. Your agency team members can access successful approaches from one client and implement similar strategies for others."
+      - "Every project is a completely isolated workspace. Brand guidelines, knowledge base documents, audience personas, and content are all separated. Even if you manage competing brands, there's zero risk of cross-contamination."
 
-      - "This knowledge sharing is particularly valuable for maintaining quality standards across your client portfolio whilst still respecting the unique needs of each brand. It empowers your team to work more efficiently by leveraging institutional knowledge across all client relationships."
-
-  - q: "How do the multiple project spaces in Bazam help agencies with client confidentiality and information separation?"
+  - q: "How do I onboard a new client quickly?"
     a:
-    - "Bazam treats each client project as a completely isolated workspace, ensuring that sensitive information, brand guidelines, and content strategies remain strictly separated between clients. This separation is crucial for maintaining client confidentiality, particularly when managing competing brands."
-    - "The compartmentalised structure prevents cross-contamination of client information and ensures that proprietary strategies and content remain secure. This robust separation gives agencies peace of mind when handling multiple clients with varying confidentiality requirements, building trust and reinforcing professional standards."
+      - "Create a new project, define their brand voice and audience, upload key documents to the knowledge base. The agent instantly has the context it needs to start producing on-brand content. New client setup takes minutes, not days."
 
-#  - q: "Can I import existing client content into Bazam to maintain continuity?"
-#    a:
-#      - "Yes, Bazam supports seamless importing of existing client content. You can upload previous blog posts, social media content, and other materials to establish continuity and help the AI understand each client's established voice and content history."
-#
-#      - "This historical content serves as valuable context for the AI, resulting in more authentic output that aligns with what your clients have published previously. It also creates a comprehensive content library for each client that your team can reference."
-
-  - q: "What if I need to transfer a client project to a different account manager? Is this process complicated?"
+  - q: "What happens when I move a client to a different account manager?"
     a:
-      - "Transferring client projects between team members is straightforward with Bazam. Simply adjust the permission settings to grant access to the new account manager and revoke access from the previous one if necessary."
+      - "Adjust permissions — grant access to the new manager, revoke from the old one. All client settings, content history, and scheduled publications stay intact. Zero disruption."
 
-      - "All client settings, content history, and scheduled publications remain intact during the transfer, ensuring a smooth transition with no disruption to your content operations. This makes team reorganisations and staff changes much less stressful for your agency."
-
-  - q: "How does Bazam help maintain consistency across all client projects while still respecting their individual brand identities?"
+  - q: "How do I maintain quality across all my clients?"
     a:
-      - "Bazam strikes the perfect balance between consistency and customisation through its two-tiered approach. At the agency level, you can establish quality standards and workflows that apply across all clients, ensuring consistent processes."
+      - "Quality comes from context. Each project has its own brand voice, audience, and knowledge base that the agent uses for every piece of content. Your team reviews and approves everything. The agent handles production; your people maintain the quality bar."
 
-      - "Simultaneously, each client project maintains its own unique brand settings, content parameters, and publishing schedules. This dual structure allows you to uphold your agency's quality standards while honouring and reinforcing each client's distinct brand identity."
+  - q: "Can my team share successful approaches between client projects?"
+    a:
+      - "Yes. While client data is isolated, your team members can apply successful methodologies from one client to another. Platform workflows and best practices transfer naturally as your team learns what works."
 ---

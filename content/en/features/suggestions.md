@@ -38,57 +38,39 @@ cta:
   description: Ready to unlock a world of content possibilities and say goodbye to writer's block? Try Bazam now and experience the power of AI-driven inspiration!
 
 faq:
-  - q: "How does Bazam generate content suggestions that are relevant to my business?"
+  - q: "How do I come up with content ideas for my business?"
     a:
-      - "Bazam analyses key information about your business, industry, and target audience to generate highly relevant content suggestions. The AI examines your existing content, business description, and target keywords to understand your unique position in the market."
-      
-      - "This contextual understanding allows Bazam to suggest topics that align with your business objectives and resonate with your specific audience. Unlike generic suggestion tools, Bazam tailors its recommendations to your particular niche, ensuring that every piece of content you create serves a strategic purpose."
+      - "Ask the agent. Based on your business, audience, and industry, Bazam suggests topics you hadn't considered — from trending angles to evergreen guides. You pick the ones that resonate and the agent creates the content."
 
-  - q: "Can Bazam help me create content that follows the buyer's journey using the AIDA framework?"
+  - q: "How do I create content for different stages of the buyer journey?"
     a:
-      - "Absolutely! Bazam excels at generating suggestions that map to different stages of the AIDA framework—Attention, Interest, Desire, and Action. This helps you create a balanced content strategy that guides potential customers through their buying journey."
-      
-      - "For example, Bazam might suggest attention-grabbing headlines for top-of-funnel content, detailed comparison articles to build interest, case studies to create desire, and compelling call-to-action focused content to drive conversion. This structured approach ensures you're creating content with clear strategic intent rather than publishing random articles."
+      - "Bazam maps suggestions to the AIDA framework — Attention, Interest, Desire, Action. It suggests attention-grabbing headlines for new audiences, educational guides for prospects, case studies for consideration, and conversion-focused content for ready buyers."
 
-  - q: "How does Bazam keep its content suggestions fresh and up-to-date?"
+  - q: "How do I stop my content from getting repetitive?"
     a:
-      - "Bazam generates suggestions based on a comprehensive understanding of your industry and audience needs. The AI analyses patterns and trends to identify topics that are likely to resonate with your target audience."
-      
-      - "When you request new suggestions, Bazam considers your existing content to avoid repetition and ensures a fresh perspective. This approach helps you maintain a diverse content calendar filled with relevant, engaging topics that continually provide value to your audience."
+      - "Bazam tracks what you've already published and avoids suggesting duplicates. Each new batch of suggestions considers your existing content to keep your calendar fresh and your audience engaged with genuinely new angles."
 
-  - q: "Can I get content suggestions for different types of content formats using Bazam?"
+  - q: "What type of content should I create for my audience?"
     a:
-      - "Yes! Bazam provides suggestions across various content formats to keep your content strategy diverse and engaging. The AI can recommend ideas specifically suited for how-to guides, listicles, tips and tricks, comparison articles, case studies, and more."
-      
-      - "Currently, these suggestions can be implemented for blog posts and social media updates. We're constantly working to expand our content format offerings to provide even more versatility in your content creation process."
+      - "That depends on your audience's needs. Bazam analyses your business and target personas to suggest specific formats — how-to guides, listicles, comparison articles, tips, case studies — matched to what will resonate with your specific audience."
 
-  - q: "Will Bazam suggest multilingual content ideas if I need to reach audiences in different languages?"
+  - q: "How do I create content for different languages and markets?"
     a:
-      - "Yes, Bazam supports multilingual content creation. You can work in your preferred language and then translate your content into different languages to reach broader audiences."
-      
-      - "The AI can suggest content ideas that will work well across cultures and languages, helping you maintain a consistent global content strategy. This feature is particularly valuable for businesses looking to expand their reach into international markets without creating entirely separate content strategies."
+      - "Start with suggestions in your language, create the content, then translate it into 50+ languages. The agent can suggest topics that work well across cultures, so your content resonates globally."
 
-  - q: "How do I implement the content suggestions that Bazam provides?"
+  - q: "How do I turn a content idea into an actual post?"
     a:
-      - "Implementing Bazam suggestions is seamless and straightforward. Once you receive a suggestion that resonates with your goals, you can simply click on it to generate a full piece of content based on that idea."
-      
-      - "Bazam will then build out the content structure, provide an engaging headline, and create the content body following best practices for your selected format. You maintain complete control to edit, refine, or expand upon the generated content before publishing it to your chosen platforms."
+      - "Click the suggestion. Bazam's agent expands it into a complete piece — headline, structure, and full content body in your brand voice. You review, edit if needed, and publish. One click from idea to draft."
 
-  - q: "Can I request suggestions for specific campaigns or seasonal content needs?"
+  - q: "How do I plan content for a product launch or seasonal campaign?"
     a:
-      - "Absolutely! Bazam allows you to specify parameters for your content suggestions, including campaign themes, seasonal relevance, or specific business objectives. This ensures the suggestions you receive are aligned with your current marketing priorities."
-      
-      - "For example, you might request holiday-themed content ideas for an upcoming promotion, thought leadership topics for a new product launch, or educational content focused on addressing common customer pain points. This flexibility makes Bazam an invaluable tool for supporting your broader marketing strategy."
+      - "Tell the agent your campaign theme, launch date, or seasonal focus. It generates a targeted set of content ideas — pre-launch teasers, launch announcements, follow-up content — all aligned with your timeline and goals."
 
-  - q: "How many content suggestions can I get with Bazam, and how often should I request new ones?"
+  - q: "How do I find content gaps in my marketing?"
     a:
-      - "With Bazam, you can generate fresh batches of content suggestions whenever you need inspiration. Many users find it beneficial to request new suggestions when planning their content calendar for the upcoming month or quarter."
-      
-      - "The number of suggestions you can generate depends on your subscription plan and available credits. New users can explore this feature with the free trial credits we offer, giving you the opportunity to experience firsthand how Bazam can transform your content ideation process."
+      - "Bazam compares what you've published against what your audience needs. It identifies topics you're missing — stages of the buyer journey you're not covering, questions your audience is asking that you haven't addressed."
 
-  - q: "Can Bazam help me identify content gaps in my existing strategy?"
+  - q: "How many content ideas does Bazam generate?"
     a:
-      - "Yes! One of the most valuable aspects of Bazam is its ability to identify content opportunities you might be missing. The AI analyses your existing content and compares it against potential topics that could resonate with your audience."
-      
-      - "This gap analysis helps you discover untapped content areas that could drive engagement and conversions. Many users find that Bazam suggests topics they hadn't considered but that perfectly complement their content strategy and business objectives."
+      - "As many as you need. Request a new batch whenever you're planning content for the month or quarter. The agent generates fresh suggestions each time, based on your evolving business and audience data."
 ---

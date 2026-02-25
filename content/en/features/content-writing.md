@@ -39,51 +39,35 @@ cta:
   description: Ready to transform your workflow and maintain a consistent content schedule? Try Bazam now and experience the time-saving power of automated content creation!
 
 faq:
-  - q: "How much time can I realistically save using Bazam for my content creation?"
+  - q: "How do I write marketing content when I'm not a writer?"
     a:
-      - "Bazam users typically report saving several hours each week, freeing up valuable time to focus on other important business activities. By automating much of the content creation process, from brainstorming to initial drafting, Bazam frees you up to concentrate on other tasks."
+      - "You don't write it — the AI agent does. Tell Bazam what you need in plain language and it creates blog posts, social media updates, and marketing copy in your brand voice. You review and approve. No writing skill required."
 
-      - "The exact time saved will depend on factors such as the volume and complexity of content you produce, but Bazam is designed to streamline your workflow, regardless of your specific needs. You'll be surprised at how much more you can achieve when you're not bogged down by manual content creation."
-
-  - q: "How does Bazam help me publish consistently, even when I'm busy?"
+  - q: "Will AI-written content hurt my brand?"
     a:
-      - "Bazam makes consistent publishing easy by providing a content calendar and scheduling system. This allows you to plan your content in advance and visualise your publishing schedule, ensuring you never miss a deadline, even when you're juggling multiple priorities."
+      - "Only if the AI has no context. Generic AI produces generic content. Bazam's agent works from your brand voice, audience personas, and knowledge base — so the output is specific, informed, and sounds like your best writer. You always review before publishing."
 
-      - "You can also use Bazam to generate content in batches, scheduling it across various platforms. This automated approach ensures a consistent online presence, even when you're at your busiest."
-
-  - q: "Can I still maintain a high level of quality while generating content quickly with Bazam, or will it sound 'robotic'?"
+  - q: "How do I create a month of content quickly?"
     a:
-      - "Bazam is designed to help you generate high-quality content that reflects your unique brand voice. The AI provides a solid starting point, producing content that is well-structured, informative, and engaging, saving you significant time on the initial writing process."
+      - "Ask the agent. One session creates blog posts and social updates for the entire month. You review, approve, and schedule. Most teams go from blank calendar to fully scheduled in under 30 minutes."
 
-      - "You retain complete control over the final output and can easily review, edit, and refine the content to ensure it aligns perfectly with your brand guidelines and meets your quality standards. Think of Bazam as your content creation assistant, providing a strong foundation while allowing you to add your personal touch."
-
-  - q: "What if I run out of content ideas or struggle to come up with engaging topics using Bazam? Does it just generate the same old stuff?"
+  - q: "What types of marketing content can AI write?"
     a:
-      - "Bazam includes powerful content suggestion tools to help you discover fresh and relevant topics tailored to your specific industry, target audience, and business goals. You'll never have to worry about writer's block again."
+      - "Blog posts, social media updates, press releases, ad copy, product descriptions, email newsletters, and more. Each piece is tailored to your brand voice and target audience — not templated or generic."
 
-      - "The AI analyses industry trends, competitor content, and search engine data to identify missed opportunities and help you brainstorm new angles. This ensures that you're always creating content that resonates with your audience and drives results."
-
-  - q: "Can I try out Bazam before committing to a subscription?"
+  - q: "Is AI content as good as a professional writer?"
     a:
-      - "Yes! We want you to experience the time-saving and content-generating power of Bazam for yourself. That's why we offer free credits when you sign up, giving you the chance to try out the platform and see how it can transform your content marketing."
+      - "When the AI has proper context — your brand voice, audience, and product knowledge — the output is comparable to a professional writer. And it produces in minutes what a writer delivers in days. You still shape the direction and approve every piece."
 
-      - "These credits allow you to generate real content, explore the platform's features, and get a feel for how Bazam can streamline your workflow. Simply sign up on our website to claim your free credits and start creating!"
-
-  - q: "Does Bazam support different content formats, or is it only for blog posts?"
+  - q: "How do I stop running out of content ideas?"
     a:
-      - "Bazam can generate various content types to keep your audience engaged. From how-to guides and listicles to tips and tricks, we aim to provide versatile content creation."
+      - "Ask the agent to suggest topics based on your business, audience, and industry. It generates content ideas you hadn't considered — from trending topics to evergreen guides. Writer's block stops being a problem."
 
-      - "Currently, we support blog posts and social media updates, but we're actively working on expanding our content format offerings. We are continuously looking to offer content across a wider range of mediums and styles."
-
-  - q: "Does Bazam integrate with my existing marketing tools, such as my social media scheduling platform or email marketing software?"
+  - q: "How do I keep my blog and social media consistent?"
     a:
-      - "Bazam integrates directly with several key platforms to streamline your workflow and save you even more time. This means you can seamlessly connect Bazam with the tools you already use and love."
+      - "Batch your content creation. Create everything in one sitting, schedule it across platforms, and let Bazam publish automatically. Consistency comes from systems, not willpower."
 
-      - "Current integrations include Facebook, X (formerly Twitter), Instagram, LinkedIn, and WordPress, making it easy to schedule and publish content directly to your social media channels and blog. We are constantly evaluating and adding new integrations based on user feedback."
-
-  - q: "What resources are available to help me learn how to use Bazam effectively?"
+  - q: "Is it cheaper to use AI or hire a content writer?"
     a:
-      - "Bazam is designed to be intuitive and easy to use, so you can start creating compelling content right away. We believe that powerful tools should be accessible to everyone, regardless of their technical expertise."
-
-      - "To help you get started quickly and confidently, we provide in-app tips and guidance, along with practical examples of how to use Bazam to achieve your content marketing goals. Plus, we're always adding new features and improvements based on user feedback, so the platform is constantly evolving to meet your needs."
+      - "AI is significantly cheaper at any volume. A freelance writer charges £200–500 per blog post. Bazam creates unlimited content for a flat monthly subscription. For businesses publishing regularly, the savings are immediate and substantial."
 ---

@@ -173,49 +173,43 @@ topFeatures:
       target: /features/teams/
 
 faq:
-  - q: "What is AI content marketing?"
+  - q: "How do I do content marketing without a marketing team?"
     a:
-      - "AI content marketing uses artificial intelligence to create, schedule, publish, and optimise marketing content. Instead of hiring writers, designers, and social media managers, an AI agent handles the production while you focus on strategy and brand direction."
-      - "Bazam takes this further with a persistent AI agent that learns your brand voice, audience, and goals — so content improves over time rather than starting from scratch every session."
+      - "Use an AI agent that handles the work a team would do. Bazam creates content, schedules it across platforms, publishes automatically, and tracks performance — all through a simple conversation. You review and approve; the agent handles everything else."
 
-  - q: "How do I automate my content marketing?"
+  - q: "Is content marketing too expensive for small businesses?"
     a:
-      - "With Bazam, you tell the AI agent what you need — a month of social posts, a blog series, a campaign — and it creates, schedules, and publishes across all your channels. You review and approve; the rest is hands-off."
-      - "Most teams set up their brand voice and audience personas once, then spend one session a month creating and approving content for the weeks ahead."
+      - "It used to be. A freelance writer charges £200–500 per blog post. An agency retainer runs £2,000–10,000 per month. A marketing hire costs £30,000–60,000+ per year. Bazam gives you content creation, scheduling, publishing, and analytics for a fraction of any of those."
 
-  - q: "What is the best AI tool for content marketing?"
+  - q: "How do I post on social media consistently?"
     a:
-      - "The best AI content marketing tool should do more than generate text. It should understand your brand, know your audience, schedule and publish across platforms, track performance, and get smarter over time."
-      - "Bazam combines all of this in a single conversational agent. No prompt engineering, no switching between tools — just tell it what you need."
+      - "Batch it. Create a month of content in one sitting and schedule it across all platforms. Bazam's AI agent drafts everything in your brand voice, you review and approve, and it publishes on autopilot. Consistency without daily effort."
 
-  - q: "How much does AI content marketing cost compared to hiring?"
+  - q: "Can AI actually write good marketing content?"
     a:
-      - "A full-time marketing hire costs £30,000–60,000+ per year. A freelance content writer charges £200–500 per blog post. An agency retainer runs £2,000–10,000 per month."
-      - "Bazam gives you content creation, scheduling, publishing, and analytics for a fraction of those costs. Check our pricing page for current plans."
+      - "Yes — when it has context. The difference between bad AI content and great AI content is what the AI knows about your brand. Bazam's agent works from your brand voice, audience personas, and knowledge base, so the output is specific and informed, not generic filler."
 
-  - q: "Can AI create content that sounds like my brand?"
+  - q: "How do I compete with bigger brands online?"
     a:
-      - "Yes — if the AI has context. Generic tools like ChatGPT produce generic output because they know nothing about you. Bazam's agent works from your defined brand voice, audience personas, and knowledge base, producing content that's on-brand from the start."
-      - "You always review and approve before anything goes live."
+      - "Bigger brands have bigger teams producing more content across more channels. An AI agent levels the playing field — one person with Bazam can produce the same volume and quality of content as a team of five."
 
-  - q: "Which social media platforms can I publish to with Bazam?"
+  - q: "Is ChatGPT good enough for marketing?"
     a:
-      - "Bazam publishes directly to WordPress, Facebook, Instagram (posts, stories, and reels), LinkedIn, X/Twitter, YouTube, and TikTok. Content is automatically formatted for each platform's requirements."
+      - "ChatGPT is a general chatbot. It knows nothing about your brand, forgets everything between sessions, and can't schedule, publish, or track performance. For occasional drafts it's fine. For a real content operation, you need a platform that remembers your brand and handles the full workflow."
 
-  - q: "Can I manage multiple brands or clients in one tool?"
+  - q: "How do I create a content calendar quickly?"
     a:
-      - "Yes. Each brand or client lives in a separate project with its own brand voice, audience personas, knowledge base, and content calendar. Data stays completely isolated between projects."
+      - "Ask the agent. Tell it your themes, goals, or upcoming events and it generates a full content calendar with posts scheduled across all your platforms. You review, adjust, and approve — your month is sorted in minutes."
 
-  - q: "How do I get started with AI content marketing?"
+  - q: "Do I need a marketing agency?"
     a:
-      - "Sign up for a free account at Bazam, define your brand voice and audience, and start asking the agent to create content. Most teams are producing real content within 30 minutes of signing up."
+      - "For strategy, creative direction, and brand positioning — an agency can add real value. For content production, scheduling, publishing, and reporting — an AI agent does the same work faster and cheaper. Most teams find they need strategy help, not production help."
 
-  - q: "How does AI content marketing track performance?"
+  - q: "How do I measure content marketing ROI?"
     a:
-      - "Bazam pulls engagement, reach, clicks, and follower growth from all connected channels into a single dashboard. You can also ask the agent to summarise performance in plain English — no spreadsheets or manual exports."
+      - "Bazam tracks engagement, reach, clicks, and follower growth across every connected channel. Ask the agent 'how did this month perform?' and get a plain-English summary. Over time, you see which topics and platforms actually drive results."
 
-  - q: "Is AI-generated content good enough for professional marketing?"
+  - q: "How do I manage content across multiple social media platforms?"
     a:
-      - "When given proper context — brand voice, audience data, product knowledge — AI-generated content is indistinguishable from professionally written content. The key difference between good and bad AI content is the context behind it."
-      - "Bazam's knowledge base and brand voice tools ensure the agent always has that context."
+      - "Create once, distribute everywhere. Bazam's agent adapts your content for each platform's format, length, and audience, then publishes directly to WordPress, LinkedIn, Instagram, Facebook, X, YouTube, and TikTok."
 ---

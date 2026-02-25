@@ -56,39 +56,39 @@ topFeatures:
       target: /features/suggestions/
 
 faq:
-  - q: "Can AI create thought leadership content?"
+  - q: "How do I build thought leadership without spending hours writing?"
     a:
-      - "AI handles the production — drafting, formatting, scheduling — while you supply the expertise and perspective. The result is consistent publishing without spending hours writing. Bazam's voice settings ensure everything sounds like you, not a bot."
+      - "Batch it. With Bazam, you create a month of posts in one sitting. The AI agent drafts everything from your topics and voice settings. You review, refine, and queue. Your audience sees weekly insights; you spent 30 minutes."
 
-  - q: "How do I build thought leadership on LinkedIn?"
+  - q: "I'm too busy to post on LinkedIn consistently. What do I do?"
     a:
-      - "Consistency and depth. Publishing regularly keeps you visible. Mixing long-form articles with shorter commentary shows range. Bazam creates and schedules LinkedIn-specific content in your voice — you batch a month's worth in one sitting."
+      - "Schedule it in advance. Tell Bazam's agent your topics for the month, and it creates and schedules LinkedIn posts, articles, and commentary. You spend a single session reviewing and approving — then LinkedIn runs on autopilot."
 
-  - q: "How do I stay consistent on social media as a busy professional?"
+  - q: "Should I hire a ghostwriter or use AI for thought leadership?"
     a:
-      - "Batch your content. With Bazam, you create a full month of posts in one session. The agent drafts everything based on your topics and voice. You review, approve, and queue. Your audience sees daily insights; you spent 15 minutes."
+      - "A good ghostwriter costs £500–2,000+ per article and requires extensive briefing. An AI agent that already knows your voice, expertise, and audience produces similar output instantly. You still shape every idea — the agent just handles the writing."
 
-  - q: "What is the best content strategy for thought leaders?"
+  - q: "How do I turn my expertise into content?"
     a:
-      - "Share your genuine expertise regularly across LinkedIn, your blog, and social channels. Focus on insights only you can offer — not generic advice. Bazam handles the production so you can focus on having the ideas worth sharing."
+      - "Start with what you already know. Your daily client conversations, industry observations, and professional opinions are all content. Tell Bazam's agent what you think about a topic and it turns your perspective into polished posts, articles, and threads."
 
-  - q: "Will AI-generated content sound authentic to my voice?"
+  - q: "How do I grow my LinkedIn following?"
     a:
-      - "Yes. Bazam includes detailed voice configuration — tone, formality, style, and custom guidelines. The agent applies these to everything it creates. You always review before publishing, so nothing goes out that isn't you."
+      - "Post consistently with genuine insights — not motivational quotes. Bazam helps you publish regularly in your authentic voice across LinkedIn and other platforms. Consistent, substantive content builds followers faster than sporadic bursts of activity."
 
-  - q: "How do I automate my LinkedIn content?"
+  - q: "What should consultants post on social media?"
     a:
-      - "Define your topics and voice in Bazam, then ask the agent to create and schedule LinkedIn posts, articles, and commentary. It produces a steady stream of content tailored to LinkedIn's professional audience. You review and approve."
+      - "Share your genuine expertise. Client lessons (anonymised), industry predictions, contrarian takes, practical frameworks, and behind-the-scenes insights. Bazam's agent creates all of this in your voice — you just select the topics."
 
-  - q: "How do I repurpose content across platforms?"
+  - q: "How do I repurpose a conference talk into content?"
     a:
-      - "Ask the agent to take one piece of content and adapt it for each platform. A blog post becomes a LinkedIn article, a Twitter thread, an Instagram carousel, and a short video script — all matching each platform's format and audience."
+      - "Upload your slides, notes, or transcript to Bazam's knowledge base. Ask the agent to turn it into blog posts, LinkedIn articles, social threads, and short-form video scripts. One keynote becomes weeks of content across every platform."
 
-  - q: "How do personal branding experts create content at scale?"
+  - q: "How do I build a personal brand without being on social media all day?"
     a:
-      - "They use systems that maintain their voice while handling production. Bazam's agent learns your brand voice, expertise areas, and audience — then creates content that builds your authority across every platform without you writing every word."
+      - "Systems, not effort. Create content in batches, schedule it across platforms, and let it run. Bazam handles the production and publishing — your personal brand grows while you focus on actual work. 30 minutes a month is enough."
 
-  - q: "How do I build authority online without spending all day on social media?"
+  - q: "How do I stay relevant and visible in my industry?"
     a:
-      - "Use Bazam to batch-create content monthly. The agent drafts everything from your topics and voice settings. Schedule it across platforms and your audience sees you consistently — while you spend your time on client work, speaking, and developing your expertise."
+      - "Publish regularly. The professionals who stay top-of-mind are the ones who show up consistently with real insights. Bazam ensures you publish weekly across all your channels without content creation becoming a second job."
 ---

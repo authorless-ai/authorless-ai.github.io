@@ -96,47 +96,43 @@ featureList:
   description: "Bazam helps agencies scale execution without scaling headcount — so your team can focus on the strategy and relationships that win new business."
 
 faq:
-  - q: "Can AI handle content marketing for agencies?"
+  - q: "How do I take on more agency clients without hiring more staff?"
     a:
-      - "Yes — when the AI has proper context. Generic tools produce generic output. Bazam's agent works from each client's brand voice, audience personas, and knowledge base, so the output is specific, on-strategy, and ready for client review."
-      - "Most agencies find the agent handles 80-90% of execution, freeing senior staff for the strategy and client work that wins new business."
+      - "Give your team an AI agent that handles content production. One junior with Bazam produces what previously took two or three people. Your team focuses on strategy and client relationships while the agent handles drafting, formatting, and publishing."
 
-  - q: "How do agencies scale content production without hiring?"
+  - q: "Why does client reporting take so long?"
     a:
-      - "Bazam lets each team member produce significantly more content by handling drafting, formatting, and publishing. One junior with the agent can produce what previously required two or three people."
-      - "Combined with centralised analytics and instant client onboarding, your team takes on more accounts without new headcount."
+      - "Because you're manually logging into five platforms, exporting data, and pasting it into spreadsheets. Bazam pulls all channel metrics into one dashboard. Ask the agent to summarise any client's performance and you get a plain-English answer in seconds."
 
-  - q: "What is the best AI content tool for marketing agencies?"
+  - q: "How do I onboard new agency clients faster?"
     a:
-      - "The best tool for agencies needs client isolation, persistent brand context, and team collaboration. Without client isolation, brands get mixed up. Without persistent context, every brief starts from scratch. Without team features, you can't scale."
-      - "Bazam is built for all three. Each client gets a separate project with their own brand voice, audience, and knowledge base. Your team creates content through conversation, and the agent ensures consistency."
+      - "Upload the client's brand guidelines, product info, and key documents to their project in Bazam. The agent instantly has full context. New team members can ask it 'What's the brand voice for this client?' instead of spending weeks reading scattered briefs."
 
-  - q: "How do I manage multiple client brands in one platform?"
+  - q: "How do I fix the content bottleneck at my agency?"
     a:
-      - "Each client lives in a separate, isolated project within your Bazam account. Brand voice, audience personas, knowledge base, and content calendar are all kept completely separate. The agent never cross-references between clients."
+      - "The bottleneck is usually senior staff reviewing or creating first drafts. With Bazam, the AI agent creates drafts from the client's brand context. Seniors review and refine instead of writing from scratch. The production capacity of your team instantly multiplies."
 
-  - q: "How can AI help with agency client onboarding?"
+  - q: "How do I keep content quality consistent across multiple clients?"
     a:
-      - "New hires ask the agent about any client: 'What's the brand voice for Client X?', 'Who's their target audience?', 'What campaigns have we run recently?'. They get accurate answers immediately instead of weeks of shadowing and reading scattered briefs."
+      - "Isolate each client in their own project with dedicated brand voice, audience personas, and knowledge base. The agent draws on this context for every piece of content. Quality stays consistent because the context stays consistent — even when different team members are producing."
 
-  - q: "How do agencies automate reporting for clients?"
+  - q: "How do I reduce overhead at a marketing agency?"
     a:
-      - "Ask the agent to summarise any client's performance across all connected channels. Instead of spending hours logging into five platforms and copying numbers into spreadsheets, you get a plain-English summary in seconds."
+      - "Automate the production work. Content drafting, scheduling, publishing, and reporting eat most of your team's hours. Bazam handles all four, so your team delivers more client work without new hires, office space, or management overhead."
 
-  - q: "How do you maintain content quality across multiple clients?"
+  - q: "How do agencies win more clients?"
     a:
-      - "Quality comes from context. Each client project has its own brand voice, audience personas, and knowledge base. The agent draws on all of this every time it creates content — whether it's the first post or the five-hundredth."
-      - "Your team still reviews and approves everything. The agent handles the heavy lifting; your people maintain the quality bar."
+      - "Agencies win clients with great strategy and results. They lose clients from slow delivery and inconsistency. When your team has the capacity to deliver faster and more consistently — because an AI agent handles production — you win more and retain better."
 
-  - q: "How much does AI content marketing cost for agencies?"
+  - q: "Can junior staff produce senior-quality marketing content?"
     a:
-      - "Far less than the alternative. The cost of hiring additional writers, onboarding delays, and reporting overhead adds up fast. Bazam lets your existing team handle more clients with higher margins. See our pricing page for current plans."
+      - "Yes — with the right context. When the AI agent has the client's brand voice, audience, and knowledge base, even junior team members produce on-strategy content through conversation. Seniors review and approve rather than write from scratch."
 
-  - q: "Can an agency use AI and still deliver premium work?"
+  - q: "Should my agency focus on strategy or content production?"
     a:
-      - "Yes. The agent handles first drafts and production work at scale. Your senior team focuses on strategy, creative direction, and client relationships — the work that actually commands premium rates."
+      - "Strategy. That's where agencies add unique value and command premium rates. Content production is increasingly commoditised — let AI handle the execution while your humans own the thinking, positioning, and client relationships."
 
-  - q: "How do agencies use AI for content strategy?"
+  - q: "What AI tools are other marketing agencies using?"
     a:
-      - "The agent can brainstorm campaign angles, suggest content topics based on audience data, and identify what's performing across channels. It gives your strategy team data-backed starting points instead of blank pages."
+      - "Smart agencies use AI for content production, not just ideation. The ones pulling ahead use platforms like Bazam that maintain persistent client context — brand voice, audience, and knowledge base — so the AI output is actually usable, not just a generic first draft."
 ---

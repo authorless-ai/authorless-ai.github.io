@@ -39,57 +39,39 @@ cta:
   description: Ready to publish content that actually works for your business? Try Bazam now and let our automatic strategy system do the marketing thinking for you!
 
 faq:
-  - q: "I don't know anything about marketing strategies or 'buying journeys'. Can I still use Bazam effectively?"
+  - q: "I don't have a marketing strategy. Where do I start?"
     a:
-      - "Absolutely! Bazam was specifically designed for business owners who are experts in their field but not in marketing. The system automatically handles all the strategic thinking for you, so you don't need to learn marketing concepts or terminology."
-      
-      - "Simply tell Bazam about your business and goals, and the system will create a balanced mix of content that guides potential customers from first discovering your business to taking action. It's like having a marketing strategist built into your content creation tool."
+      - "With Bazam, you don't need one. Tell the agent about your business and audience and it automatically creates content that guides potential customers from first discovering you to taking action. The strategy is built in — no marketing degree required."
 
-  - q: "What do you mean by 'buying journey' and why does it matter for my business content?"
+  - q: "What should I be posting about?"
     a:
-      - "The buying journey simply refers to the steps people take before becoming your customer. Think of it as a path: first they become aware of a problem, then they research potential solutions, next they consider options, and finally they decide to take action."
-      
-      - "Without creating content for each stage of this journey, you might be missing opportunities to connect with potential customers. For example, if you only create content about your products' features, you'll miss people who don't yet realise they have a problem you can solve. Bazam automatically creates the right balance of content for each stage, ensuring you're connecting with people wherever they are in their journey."
+      - "A mix of content that serves different purposes: attention-grabbing posts for new audiences, educational content that builds trust, and action-focused content that drives leads. Bazam automatically balances this mix based on your business and audience."
 
-  - q: "How does Bazam know what type of content to create for my specific business?"
+  - q: "I'm posting content but nothing is happening. What am I doing wrong?"
     a:
-      - "When you set up Bazam, the system gathers important information about your business, products/services, target audience, and goals. This creates a foundation for understanding what your potential customers need at each stage of their journey."
-      
-      - "Based on this information, Bazam automatically determines what mix of attention-grabbing, educational, desire-building, and action-focused content will work best for your specific situation. The system then generates appropriate topics, headlines, and content that align with this strategy—all without requiring you to understand marketing concepts."
+      - "Probably posting random content with no strategic intent. Every piece should serve a purpose — attracting new people, educating prospects, or driving action. Bazam labels each piece with its strategic purpose so you know exactly what it's doing and why."
 
-  - q: "Can you give examples of the different types of content Bazam will create for my business?"
+  - q: "How do I turn content into actual customers?"
     a:
-      - "Certainly! For the attention stage, Bazam might create blog posts addressing common problems your audience faces or eye-catching social media posts highlighting industry statistics relevant to your customers."
-      
-      - "For building interest, the system could generate educational content explaining concepts related to your business, comparison articles, or 'how-to' guides that showcase your expertise. To create desire, Bazam might produce (factual) customer success stories or detailed benefits articles. Finally, for action-stage content, the system would create compelling product spotlights, or direct invitations to contact your business. All this happens automatically, based on your business information."
+      - "Create content for every stage of the buying journey. Bazam automatically creates content that catches attention, builds interest, creates desire, and drives action — so you're speaking to potential customers wherever they are in their decision-making."
 
-  - q: "What kind of results can I expect from using Bazam's automatic strategy system?"
+  - q: "How often should a small business post content?"
     a:
-      - "While specific results vary by business, our users typically report increased engagement across their content, more qualified enquiries, and improved conversion rates. This happens because the content Bazam creates addresses potential customers' needs at every stage of their decision-making process."
-      
-      - "Rather than random content that might resonate with only some of your audience, Bazam creates a strategic mix that works together to move people toward becoming customers. Many users also report saving considerable time they would have spent trying to figure out what content to create, allowing them to focus on other aspects of their business."
+      - "Aim for 1–2 blog posts per week and 3–5 social posts per week. Consistency matters more than volume. Bazam handles both the strategy and creation, so maintaining this frequency only takes a single session per month."
 
-  - q: "How often should I publish content created using the automatic strategy feature?"
+  - q: "Should I focus on my blog or social media?"
     a:
-      - "Consistency is key to building audience relationships, but the exact frequency depends on your business type and resources. Most small businesses find that publishing 1-2 blog posts per week and 3-5 social media posts per week strikes a good balance."
-      
-      - "Bazam makes achieving this consistency easier by handling both the strategy and content creation. You can use the scheduling feature to queue up content in advance, ensuring a steady flow of strategic content even during your busiest periods. Remember, it's better to publish quality content consistently than to publish frequently but irregularly."
+      - "Both — they serve different purposes. Blog content drives organic search traffic. Social media builds engagement and awareness. Bazam creates content for both, automatically adapting the format, length, and tone for each channel."
 
-  - q: "Will the automatic strategy work for both my blog and social media channels?"
+  - q: "I sell different products. Do I need different content strategies?"
     a:
-      - "Yes! Bazam adapts its strategic approach for different publishing channels. For blogs, the system creates more detailed content that thoroughly addresses each stage of the buying journey, while for social media, it creates shorter, more engaging posts that still serve strategic purposes."
-      
-      - "This multi-channel approach ensures your content strategy works as a cohesive whole across all your platforms. Bazam automatically adjusts the content format, length, and tone to suit each channel while maintaining the strategic purpose of guiding potential customers through their buying journey."
+      - "Bazam handles this for you. Tell it about all your products and services and it creates a balanced content mix that covers everything — without you needing to manage separate strategies or content calendars."
 
-  - q: "Do I need to create separate strategies for different products or services my business offers?"
+  - q: "How do I know what content is actually working?"
     a:
-      - "Bazam handles this complexity for you. During setup, you can input information about your different products or services, and the system will automatically create a balanced content strategy that covers all aspects of your business."
-      
-      - "The automatic strategy feature ensures proper coverage across your offerings while maintaining a cohesive brand voice. This is particularly valuable for businesses with multiple product lines or service categories, as creating separate manual strategies for each would be time-consuming and complex."
+      - "Bazam tracks engagement across all your channels and labels each piece with its strategic purpose. Ask the agent which content types and topics are driving the best results, and focus on what works."
 
-  - q: "Can I see what stage of the buying journey each piece of content is targeting?"
+  - q: "What is a content marketing funnel?"
     a:
-      - "Yes! Bazam clearly labels each piece of content with its strategic purpose, so you'll know whether it's designed to grab attention, build interest, create desire, or drive action. This transparency helps you understand the 'why' behind each content suggestion."
-      
-      - "This insight is valuable even if you're not familiar with marketing concepts, as it helps you appreciate how different content pieces work together as part of a larger strategy. Many users report that this feature actually helps them develop a better intuitive understanding of content marketing over time, without requiring formal study."
+      - "It's the journey people take from discovering your business to becoming a customer. Each stage needs different content — awareness content at the top, educational content in the middle, and conversion content at the bottom. Bazam creates the right mix automatically."
 ---

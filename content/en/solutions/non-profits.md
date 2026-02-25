@@ -73,39 +73,39 @@ topFeatures:
       target: /features/knowledge-base/
 
 faq:
-  - q: "How can a non-profit do content marketing on a limited budget?"
+  - q: "How do non-profits do marketing without a marketing budget?"
     a:
-      - "Bazam's AI agent creates on-brand content at a fraction of the cost of hiring a copywriter or agency. Your team focuses on the mission; the agent handles the marketing. One subscription replaces the need for dedicated marketing staff."
+      - "You don't need a budget for a copywriter or agency. Bazam's AI agent creates on-brand content for a fraction of what you'd pay for any of those. One subscription replaces the need for dedicated marketing staff — so every penny stays focused on your mission."
 
-  - q: "What is the best marketing tool for non-profits?"
+  - q: "We don't have a marketing person. How do we tell our story?"
     a:
-      - "The best tool for non-profits needs to be affordable, easy to use without marketing experience, and capable of producing mission-authentic content. Bazam's agent learns your organisation's voice and cause, so even volunteers can create professional marketing content through simple conversation."
+      - "Anyone on your team can use Bazam — even volunteers. The agent works through natural conversation. 'Write a post about our weekend food drive' is enough. Your brand voice and mission settings ensure everything stays authentic, regardless of who's creating it."
 
-  - q: "How can AI help with non-profit storytelling?"
+  - q: "How do I write a compelling fundraising appeal?"
     a:
-      - "Upload your programme reports, beneficiary data, and impact metrics to the knowledge base. The agent transforms raw numbers and outcomes into compelling human stories for social media, newsletters, and donor updates."
+      - "Lead with impact, not need. Upload your programme data and results to Bazam's knowledge base. The agent creates appeals that show donors exactly what their money does — turning numbers into human stories that motivate giving."
 
-  - q: "How can non-profits improve donor communications?"
+  - q: "How do I keep donors engaged between campaigns?"
     a:
-      - "Use the agent to create regular donor updates, impact reports, and fundraising appeals. Feed it your latest results and it creates communications that show donors exactly where their money goes — in your organisation's authentic voice."
+      - "Regular updates showing where their money went. Use the agent to create monthly donor communications — impact stories, programme updates, beneficiary spotlights. Consistent communication builds trust and drives repeat donations."
 
-  - q: "Can volunteers create marketing content without training?"
+  - q: "How do I make our non-profit more visible online?"
     a:
-      - "Yes. The agent works through natural conversation — no marketing jargon or technical knowledge needed. 'Write a social post about our weekend food drive' is all it takes. The brand voice settings ensure everything stays on-mission regardless of who creates it."
+      - "Publish consistently across social media and your blog. Most non-profits post sporadically because they don't have the resources for regular content. Bazam's agent creates and schedules a full month of content in one sitting — your online presence runs itself."
 
-  - q: "How do non-profits create social media content consistently?"
+  - q: "How do I get volunteers to help with marketing?"
     a:
-      - "Batch it. Ask the agent to create a month of social content in one sitting. It draws on your mission, recent activities, and impact data to create posts that tell your story. Schedule everything in advance and your social presence runs itself."
+      - "Give them a tool that doesn't need training. Bazam's agent works through plain conversation — no marketing jargon, no design skills needed. The brand voice settings ensure everything stays on-mission no matter who creates it."
 
-  - q: "Can AI help non-profits with fundraising campaigns?"
+  - q: "How do non-profits tell impact stories effectively?"
     a:
-      - "Yes. The agent can create fundraising appeals, event promotions, campaign landing page copy, and donor outreach content — all tailored to your cause, audience, and campaign goals."
+      - "Upload your programme reports, outcomes data, and beneficiary information to the knowledge base. The agent transforms raw numbers into human stories for social media, newsletters, and annual reports — the stories that inspire donors and supporters."
 
-  - q: "How do non-profits translate content for international communities?"
+  - q: "How do I reach international supporters and communities?"
     a:
-      - "Bazam includes automatic translation into 50+ languages. Create content in your language and translate it to reach international supporters, beneficiary communities, and global donors."
+      - "Create your content in your language and translate it into 50+ languages with Bazam. Reach international donors, diaspora communities, and beneficiary populations in their own language."
 
-  - q: "Can Bazam help with grant applications and impact reports?"
+  - q: "How do I write the narrative sections of grant applications?"
     a:
-      - "The agent can draft the narrative sections of donor reports and impact summaries based on data in your knowledge base. While grant applications need specific formatting, the agent handles the storytelling that brings your impact to life."
+      - "Upload your programme data and impact metrics to the knowledge base. The agent drafts narrative sections that bring your impact to life — the storytelling that turns data into a compelling case for funding."
 ---

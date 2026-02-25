@@ -39,43 +39,35 @@ cta:
   description: Ready to take control of your content schedule and unlock the power of consistent publishing? Sign up for a free trial of Bazam and experience the benefits firsthand!
 
 faq:
-  - q: "How does Bazam's scheduling feature actually help me save time, compared to scheduling natively on each social platform?"
+  - q: "How do I schedule social media posts across all platforms at once?"
     a:
-      - "Bazam saves you significant time by consolidating your entire content scheduling workflow into a single, unified platform. Instead of logging into each social media platform individually, and then also managing a separate blog publishing system, you can plan, schedule, and publish content across all your channels from one centralised location."
-      - "This streamlined approach eliminates the need to switch between multiple tabs and interfaces, reducing the risk of errors and saving you valuable minutes for each piece of content you schedule. Over time, these minutes add up to hours, freeing you to focus on other crucial business tasks."
+      - "Create your content in Bazam, then schedule it across all connected platforms from one dashboard. Set different times for each platform if needed. No more logging into five apps separately."
 
-  - q: "Can I schedule content for different social media platforms simultaneously, and can I customise the message for each platform?"
+  - q: "When is the best time to post on each social media platform?"
     a:
-      - "Yes, Bazam allows you to schedule posts for different social media platforms simultaneously. You can tailor the message for each platform to suit its specific audience and formatting guidelines. This ensures that your content is optimised for each channel and resonates effectively with your target audience."
-      - "For example, you might create a shorter, more concise version of your content for X (formerly Twitter), and a longer, more detailed version for LinkedIn. Bazam makes it easy to adapt your content for different platforms while maintaining a consistent brand message."
+      - "It depends on your audience. Bazam tracks engagement from your published content and helps you identify when your followers are most active. Test different posting times and let the data tell you what works."
 
-  - q: "How can Bazam help me determine the best times to schedule my content for optimal engagement?"
+  - q: "How do I reschedule content without losing it?"
     a:
-      - "Bazam can analyse your audience engagement data from previously published content to suggest optimal posting times. By tracking metrics such as likes, shares, comments, and website traffic, Bazam identifies patterns in your audience's online behaviour. It determines when your followers are most active and receptive to your content."
-      - "You can use these insights to schedule your content for maximum reach and impact. By publishing when your audience is most engaged, you increase the chances of your content being seen, shared, and acted upon, driving better results for your content marketing efforts."
+      - "Drag and drop. Move any post to a new date or time directly on the content calendar. Edit the content, change the platform, or adjust the timing — everything stays saved."
 
-  - q: "Can I reschedule or edit scheduled posts easily if my plans change or I need to update the content?"
+  - q: "How do I batch-schedule a month of content?"
     a:
-      - "Yes, you can easily reschedule or edit scheduled posts directly from the intuitive content calendar. Simply drag and drop the post to a new date or time, or click on the post to make any necessary changes to the content, captions, or images."
-      - "This flexibility ensures that you can adapt your content schedule to changing circumstances, such as breaking news, competitor activity, or unexpected events. You can also use the editing features to refine your content based on feedback or new insights, ensuring that it's always relevant and engaging."
+      - "Create content in bulk using the AI agent, then schedule each piece across your platforms from the content calendar. Most teams schedule a full month in a single session — no spreadsheets or external tools needed."
 
-  - q: "I often create content in batches. Does Bazam support bulk scheduling or importing content from a spreadsheet?"
+  - q: "How do I get my team to approve content before it's published?"
     a:
-      - "Bazam currently supports creating content in batches, allowing you to generate multiple blog posts or social media updates at once using its AI-powered tools. However, direct support for bulk *scheduling* via CSV upload or spreadsheet import is a feature under consideration for future development."
-      - "While you can't yet upload a CSV to schedule hundreds of posts at once, you can significantly streamline the creation process by generating content in bulk with Bazam AI and then scheduling each piece individually within the intuitive content calendar. Keep an eye on our updates for upcoming features that will further streamline this process!"
+      - "Set up approval workflows. Content created by your team gets queued for review before publishing. Approvers get notified, review within the platform, and approve or request changes — no email chains."
 
-  - q: "Does Bazam offer any collaboration features for scheduling content with my team, such as assigning tasks or approving content before it's published?"
+  - q: "How do I schedule recurring posts for regular events?"
     a:
-      - "Bazam allows for user roles and permissions, enabling your team to collaborate on content creation within the platform. Different team members can be assigned specific roles, such as content creator, editor, or approver, with varying levels of access to the platform's features."
-      - "This helps to ensure that all content is reviewed and approved before it's published, maintaining quality and consistency across your channels. While dedicated task assignment features are planned for future releases, the current user roles and permissions provide a solid foundation for team collaboration on content scheduling."
+      - "Duplicate an existing scheduled post and adjust the dates. For regular promotions or events, reuse and update previous content rather than starting from scratch each time."
 
-  - q: "Are there limits to how far in advance I can schedule content, and what happens if I want to schedule content for a recurring event or promotion?"
+  - q: "Can I schedule blog posts and social media from the same place?"
     a:
-      - "While technically there's no 'hard' limit to how far in advance you can schedule content, we recommend scheduling no further than a year in advance. This allows for maximum flexibility and the ability to adapt to changing trends, unforeseen circumstances, or shifts in your marketing strategy. It also helps prevent content from becoming outdated or irrelevant before it's published."
-      - "For recurring events or promotions, you can easily duplicate existing scheduled posts and adjust the dates and times as needed. This saves you the effort of creating new posts from scratch for each occurrence. You can also use the content editing features to update the content with the latest information or promotions."
+      - "Yes. Bazam schedules and publishes to WordPress for blog content and to all major social platforms — Facebook, Instagram, LinkedIn, X, YouTube, TikTok. One calendar, one dashboard."
 
-  - q: "Can I schedule different types of content, such as blog posts and social media updates, and integrate Bazam with my existing marketing tools?"
+  - q: "How far in advance can I schedule content?"
     a:
-      - "Yes, Bazam is designed to handle various content formats, including blog posts, social media updates, and other content types you might create. You can seamlessly schedule each type of content using the same intuitive content calendar and scheduling tools."
-      - "Bazam also integrates directly with several key platforms to streamline your workflow and save you even more time. Current integrations include Facebook, X (formerly Twitter), Instagram, LinkedIn, and WordPress, making it easy to schedule and publish content directly to your social media channels and blog. We are constantly evaluating and adding new integrations based on user feedback."
+      - "As far as you need — though we recommend no more than a year ahead. Content stays fresher and more relevant when scheduled in monthly batches rather than queued too far out."
 ---
