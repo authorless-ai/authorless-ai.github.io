@@ -1,97 +1,99 @@
 ---
-title: "High-Quality Content at Scale, Fast"
-
-heroDescription: Stop wasting hours on content creation and start driving sales. Generate relevant, engaging content at scale, automate your marketing and grow faster
+title: "Content at Scale. Products That Sell Themselves."
+heroDescription: "Bazam's AI agent creates product descriptions, social campaigns, and blog content in bulk — tailored to your audience and optimised for conversions. Move faster than your competition."
 
 features:
-- title: "Relevant Content at Lightning Speed"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1" 
+- title: "The Dropshipping Content Problem"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "A product catalogue with missing and inconsistent content."
   description:
-    - Are you struggling to keep up with the content demands of a fast-paced dropshipping business? Bazam allows you to create large volumes of high-quality content in minutes, not weeks.
-    - Stop sacrificing quality for quantity. Bazam uses AI to generate unique and engaging content that resonates with your target audience, even when creating in bulk.
+    - "You can source products fast. Creating content for them is the bottleneck."
   points:
-    - title: Rapid Content Generation
-      description: Create blog posts and social media updates in minutes.
-    - title: Bulk Content Creation
-      description: Generate multiple pieces of content simultaneously.
-    - title: AI-Powered Quality
-      description: Ensure engaging and error-free content, even at scale.
+    - title: "Too Many Products, Not Enough Content"
+      description: "Each product needs unique descriptions, social posts, and ad copy. Doing this manually doesn't scale."
+    - title: "Generic AI Content Doesn't Convert"
+      description: "AI-generated descriptions all sound the same — bland, featureless, and written for nobody in particular. Customers scroll past content that doesn't speak to them."
+    - title: "No Time for Strategy"
+      description: "You're so busy listing products and managing logistics that marketing strategy falls by the wayside."
+    - title: "No Way to Test What Works"
+      description: "You don't know which products or angles resonate with your audience because you can't produce enough variations to test."
   footer:
-    - Make the most of your time with high-quality content
+    - "You need bulk content that doesn't look or feel like bulk content."
 
-- title: "Laser-Targeted Content: Audience and Brand Analysis"
-  image: "/images/feature-office-2.jpg"  
-  image_alt: "Office Feature Image 2"  
+- title: "How Bulk Content Actually Works"
+  image: "/images/feature-office-2.jpg"
+  image_alt: "A pipeline of product content being generated at scale."
   description:
-    - Are your marketing efforts falling flat because your content isn't relevant? Bazam analyses your products and target audiences to generate content that truly resonates.
-    - "Turn every piece of content into a selling opportunity. Bazam helps you create content that educates, engages, and ultimately drives conversions."
+    - "Here's the pipeline from product catalogue to published content."
   points:
-    - title: Product Analysis
-      description: Bazam understands your products and their key features.
-    - title: Audience Insights
-      description: Identify your target audience's needs and preferences.
-    - title: Relevant Content
-      description: Create content that speaks directly to your ideal customers.
+    - title: "Feed the Agent Your Products"
+      description: "Upload product details — names, descriptions, features, images. The agent learns your catalogue."
+    - title: "Define Your Audience"
+      description: "Build customer personas — who they are, what they care about, and what makes them buy. The agent writes to those triggers."
+    - title: "Generate in Bulk"
+      description: "Ask 'Create descriptions and social posts for these 50 products' and get unique, targeted content for each one."
+    - title: "Review and Publish"
+      description: "Browse the batch, edit anything that needs adjusting, and publish directly to your store and social channels."
   footer:
-    - Move faster with relevant content that hits the mark
+    - "50 products, 50 unique descriptions. Created in minutes, not weeks."
+
+- title: "Content That Sells, Not Just Fills"
+  image: "/images/feature-office-2.jpg"
+  image_alt: "Audience-targeted product content compared to generic copy."
+  description:
+    - "The difference between content that fills a page and content that fills a shopping cart."
+  points:
+    - title: "Benefit-Led Copy"
+      description: "The agent writes about what the product does for the customer, not just what it is. Features become benefits, specs become selling points."
+    - title: "Platform-Native Ads"
+      description: "Social campaigns are formatted for each platform — Instagram carousels, Facebook ads, X posts — not one-size-fits-all."
+    - title: "Seasonal Campaigns"
+      description: "Ask the agent to create Black Friday, holiday, or launch campaigns for your entire catalogue. Coordinated content across channels."
+    - title: "International Reach"
+      description: "Translate product content and campaigns into multiple languages to reach new markets without hiring translators."
+  footer:
+    - "When your content is as good as your pricing, you win."
 
 cta:
-  title: Get Better Content Faster, Now!
-  description: Ready to generate high-volume, laser-targeted content at lightning speed? Try Bazam now and kiss goodbye to generic AI garbage. Get your free trial credits today!
+  title: "Ready to Scale Your Content Operation?"
+  description: "Stop choosing between volume and quality. Bazam's AI agent creates targeted, persuasive content for all your products — in minutes, not weeks."
 
 topFeatures:
-  title: Dropshippers Love These Bazam Features
-  description: Check out the innovations that will change the way you work  
+  title: "Why Dropshippers Choose Bazam"
+  description: "Tools built for speed, volume, and conversions."
   list:
-    - title: Bulk AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
+    - title: "Bulk AI Content Writing"
+      description: "Generate unique descriptions, social posts, and ad copy for your entire catalogue at once."
       target: /features/content-writing/
-    - title: Marketing Strategy
-      description: Effortlessly build a content strategy around your buying journey, no marketing experience required!
-      target: /features/marketing-strategy/      
-    - title: AI Content Suggestions
-      description: Endless, high-performing content suggestions tailored to your audience
-      target: /features/suggestions/
-      
+    - title: "Marketing Strategy"
+      description: "Define your audience and buying journey. The agent creates content that converts — not just fills space."
+      target: /features/marketing-strategy/
+    - title: "Multi-Language Support"
+      description: "Reach global markets with automated content translation across all your products."
+      target: /features/translation/
+
 faq:
-  - q: "I need to create content for dozens of products. Can Bazam handle that?"
+  - q: "Can I create content for dozens of products at once?"
     a:
-      - "Absolutely. Bazam is designed for high-volume content creation. You can input information about multiple products and generate content in bulk."
-      - "The AI ensures that each piece of content is unique and relevant to the specific product and target audience."
+      - "Yes. Bazam is designed for high-volume content creation. You can input product information and generate unique, targeted content for each one in bulk."
 
-  - q: "I'm not a marketing expert. Can Bazam help me create effective content?"
+  - q: "Will the content be unique for each product?"
     a:
-      - "Yes, definitely. You don't need to be a marketing expert to use Bazam. The AI handles the marketing 'know-how' for you."
-      - "Bazam uses proven frameworks like AIDA (Attention, Interest, Desire, Action) to create content that drives conversions. It also provides suggestions and templates to guide you."
+      - "Yes. The agent creates individually tailored content for each product based on its features, your brand voice, and your target audience. No copy-paste templates."
 
-  - q: "How can Bazam help me understand my target audience better?"
+  - q: "I'm not a marketing expert. Can Bazam help me target the right audience?"
     a:
-      - "Bazam can analyse your target audience based on demographics, interests, and online behaviour."
-      - "This analysis helps you understand their needs and pain points, allowing you to create content that resonates with them and drives engagement."
+      - "Absolutely. Bazam includes tools to define your customer personas — demographics, motivations, and buying triggers. The agent uses these to create content that resonates with the right people."
 
-  - q: "What kind of content can Bazam create for dropshipping businesses?"
+  - q: "Can I publish to social media directly?"
     a:
-      - "Bazam can create a variety of content types that are ideal for dropshipping, including product descriptions, blog posts, social media updates, how-to guides, and listicles."
-      - "All content is optimised for search engines (SEO) to help you attract more traffic to your online store."
+      - "Yes. Bazam integrates with Facebook, Instagram, LinkedIn, X, and more. You can schedule and publish directly from the platform."
 
-  - q: "Can Bazam help me stay consistent with my content posting schedule?"
+  - q: "Does Bazam support multiple languages?"
     a:
-      - "Yes. Bazam includes a built-in content calendar that allows you to schedule your content in advance."
-      - "You can plan your content for weeks or even months ahead, ensuring a consistent online presence and freeing up your time."
+      - "Yes. Create content in your language and translate it automatically to reach customers in any market."
 
-  - q: "My customers are located in different countries. Can Bazam help me create content in multiple languages?"
+  - q: "Can I try it before committing?"
     a:
-      - "Yes, Bazam supports translation into multiple languages. You can create content in your native language and then automatically translate it to reach a global audience."
-      - "This feature is essential for dropshippers who want to expand their reach and increase their sales potential."
-
-  - q: "Does Bazam offer integrations with my social media platforms?"
-    a:
-      - "Yes, Bazam integrates directly with popular social media platforms. This allows you to publish and schedule your content directly without having to manually copy and paste."
-      - "This saves you time and simplifies your content marketing workflow."
-
-  - q: "Does Bazam offer a free trial so I can see if it's a good fit for my dropshipping business?"
-    a:
-      - "Yes, we offer free trial credits so you can explore the platform and see how it can benefit your business."
-      - "This allows you to test the features and see the results for yourself before committing to a subscription."
+      - "Yes — we offer free trial credits when you sign up. Test the bulk content creation features and see the quality for yourself."
 ---

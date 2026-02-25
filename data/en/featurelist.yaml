@@ -6,7 +6,7 @@ features:
     icon: edit
     points:
       - description: "Ask the agent to <b>write blog posts, social campaigns, press releases, and ad copy</b> — all on-brand."
-      - description: "Publish directly to <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube, TikTok, and Squarespace</b>."
+      - description: "Publish directly to <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok</b>."
       - description: "Schedule and queue content across channels with a <b>visual content calendar</b>."
       - description: "Repurpose existing content into new formats — turn a blog post into a social series automatically."
       - description: "Bulk-create content for multiple clients and campaigns simultaneously."

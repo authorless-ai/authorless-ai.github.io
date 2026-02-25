@@ -1,130 +1,125 @@
 ---
-title: "AI Content Built on Audience Understanding, Not Just Keywords."
-heroDescription: "Your agency's greatest asset is its ability to understand people. This is the first AI content platform designed to amplify that strategic expertise, turning your deep audience insights into exceptional content that drives client results, at scale."
+title: "An AI Teammate That Knows Every Client's Brand."
+heroDescription: "Run more accounts without more headcount. Bazam's AI agent creates content, pulls analytics, onboards new staff, and manages campaigns — all through a conversation. Your team focuses on strategy, the agent handles execution."
 
 features:
-- title: "Codify Your Genius: The Foundation of Quality"
+- title: "The Agency Challenge"
   image: "/images/feature-office-1.jpg"
-  image_alt: "A team of agency strategists defining customer personas and emotional drivers."
+  image_alt: "An agency team stretched across multiple client accounts."
   description:
-    - The best work your agency produces comes from a deep understanding of the client's customer. Bazam is the first platform designed to capture and scale that unique strategic insight.
-    - Our framework helps you codify each client's audience—their needs, motivations, and emotional drivers. This becomes the intelligent foundation for every piece of content the AI helps you create.
+    - "Every agency hits the same ceiling. Here's what it looks like."
   points:
-    - title: "Embed Your Strategic Insight"
-      description: "Define each client's unique audience personas and buying triggers to guide the AI's thinking from the start."
-    - title: "Ensure Authentic Brand Voice"
-      description: "Create content that is always true to your client's brand because it's built on their core strategic principles."
-    - title: "Create Content That Connects"
-      description: "Generate messaging that resonates on a human level because it speaks to a customer's real motivations."
+    - title: "Client Knowledge Lives in People's Heads"
+      description: "Brand guidelines, audience insights, and campaign history are scattered across docs, Slack, and memories. When someone leaves, their accounts stall."
+    - title: "Onboarding Takes Weeks"
+      description: "New hires shadow senior staff, read scattered briefs, and still make mistakes. It's expensive and slow."
+    - title: "Content Eats Your Strategy Time"
+      description: "Clients ask you to deliver content even when your value is strategic. Saying yes pulls senior talent off the work that wins new business."
+    - title: "Reporting is a Time Sink"
+      description: "Building a weekly client update means logging into five platforms and copying numbers into a spreadsheet. Every. Single. Week."
   footer:
-    - "This isn't a replacement for your strategy. It's the engine that scales it."
+    - "You don't need more junior hires. You need a smarter teammate."
 
-- title: "Achieve Scale Without Sacrificing Excellence"
+- title: "A Day With the Agent"
   image: "/images/feature-office-2.jpg"
-  image_alt: "Agency team celebrating a successful client campaign built on effective content."
+  image_alt: "An agency team using the AI agent across their daily workflows."
   description:
-    - The classic agency dilemma is choosing between quality and speed. Scaling up often means compromising the very quality that made you successful.
-    - By starting with a strong strategic foundation, Bazam produces intelligent, on-brand first drafts. This dramatically reduces the time wasted on revisions, freeing your team to focus on the final creative polish that makes the work shine.
+    - "Here's what your team's workflow looks like with Bazam in the mix."
   points:
-    - title: "Increase Your Team's True Capacity"
-      description: "Empower your team to produce more high-quality, client-ready content without working longer hours."
-    - title: "Focus on High-Value Creativity"
-      description: "Shift your team's energy from fixing basic drafts to providing the expert refinement clients pay for."
-    - title: "Onboard and Deliver, Faster"
-      description: "Deploy your proven strategies for new clients and begin producing high-quality work from day one."
+    - title: "9am: New hire asks the agent about Client X"
+      description: "Gets a full briefing on brand voice, audience personas, recent campaigns, and content guidelines — in minutes, not weeks."
+    - title: "10am: Junior creates a month of social content"
+      description: "Tells the agent 'Draft 20 LinkedIn posts for Client Y's Q2 campaign.' A senior gives the batch a quick review and approves."
+    - title: "2pm: Account manager pulls a performance summary"
+      description: "Asks 'How did Client Z perform last week?' and gets a clear summary across all channels — no spreadsheets."
+    - title: "4pm: Strategy lead brainstorms campaign ideas"
+      description: "Asks for 10 campaign angles based on Client X's audience motivations. Each client's brand data stays completely isolated."
   footer:
-    - "Finally, you can scale your agency's best work, not its busiest work."
+    - "Your team does in hours what used to take days."
 
-- title: "Deliver the Strategic Value That Retains Clients"
+- title: "What Changes on Your P&L"
   image: "/images/feature-office-1.jpg"
-  image_alt: "A chart showing an agency's profitable growth driven by client results."
+  image_alt: "Agency growth metrics showing increased capacity."
   description:
-    - Clients stay with agencies that deliver tangible results. Content built on deep audience understanding is fundamentally more effective at persuading customers and growing a business.
-    - This superior quality becomes your agency's ultimate advantage. It allows you to deliver the clear business impact that justifies higher retainers and builds unshakeable, long-term partnerships.
+    - "Bazam doesn't just save time — it changes your agency's unit economics."
   points:
-    - title: "Differentiate Your Agency's Service"
-      description: "Offer a level of strategic depth and content effectiveness that competitors who rely on keyword-stuffing can't match."
-    - title: "Justify Your Agency's Value"
-      description: "Deliver the tangible business results that make your fees an obvious investment for your clients."
-    - title: "Become an Indispensable Partner"
-      description: "When your work consistently drives a client's growth, your agency becomes a core part of their success."
+    - title: "More Accounts, Same Team"
+      description: "The agent handles content production and reporting, so each account manager can support more clients."
+    - title: "Faster Revenue from New Clients"
+      description: "Onboarding that used to take weeks now takes hours. You start delivering — and billing — sooner."
+    - title: "Say Yes to Content Requests"
+      description: "Content retainers become profitable instead of a drain on senior talent. The agent does the heavy lifting."
   footer:
-    - "When you deliver this level of quality at scale, your agency becomes invaluable."
+    - "When execution costs less, every client relationship becomes more profitable."
 
 cta:
-  title: "Ready to Scale Your Agency's Strategic Expertise?"
-  description: "See how Bazam can help you deliver the effective, audience-focused content that grows your clients' businesses and your own."
+  title: "Ready to Give Your Agency Superpowers?"
+  description: "See how Bazam's AI agent can help you run more client accounts, onboard new staff faster, and deliver exceptional content — without scaling your team."
 
 topFeatures:
-  title: "A Toolkit for the Modern Strategic Agency"
-  description: "Check out the features designed to amplify your agency's core strength: understanding audiences."
+  title: "Why Agencies Choose Bazam"
+  description: "The AI agent isn't just a feature — it's a new way to run your agency."
   list:
-    - title: "Multi-Client Audience Management"
-      description: "Create and manage distinct, empathetic brand and audience strategies for every client in a secure, isolated environment."
-      target: "/features/projects/"
-    - title: "An AI Engine for Human Connection"
-      description: "Go beyond keywords to generate content that speaks to your clients' audiences on a truly human level."
+    - title: "Instant Client Onboarding"
+      description: "New hires chat with the agent to learn brand voice, audience, and campaign history. Productive from day one."
       target: "/features/marketing-strategy/"
-    - title: "Automated Strategic Publishing"
-      description: "Plan and deploy content that builds a powerful, cohesive, and effective narrative for your clients over time."
-      target: "/features/scheduling/"
+    - title: "Multi-Client Management"
+      description: "Each client gets isolated brand voice, audiences, knowledge base, and content calendar — all in one account."
+      target: "/features/projects/"
+    - title: "Scale Without Hiring"
+      description: "Take on more accounts without more headcount. The agent handles content and reporting."
+      target: "/features/teams/"
 
 featureCards:
-  title: "Designed to Amplify Your Agency's Value"
-  description: "More essential Bazam features to help you deliver exceptional results and grow your business."
+  title: "Built for the Way Agencies Work"
+  description: "Every feature designed to multiply your team's output — not replace them."
   cards:
-  - title: "Human-Centric Strategy Builder"
-    description: "Develop effective content strategies based on proven frameworks of audience journeys and emotional drivers."
+  - title: "AI Content Creation"
+    description: "Blog posts, social campaigns, press releases — the agent writes it all, tailored to each client's voice and audience."
+    url: "/features/content-writing/"
+    icon: edit
+  - title: "Centralised Analytics"
+    description: "Track every client's engagement, reach, and growth across all channels in one dashboard. No more spreadsheet wrangling."
     url: "/features/marketing-strategy/"
-    icon: briefcase
-  - title: "Streamlined Multi-Platform Delivery"
-    description: "Publish resonant content directly to client channels without the soul-crushing copy-paste workflow."
-    url: "/features/publishing/"
-    icon: upload
-  - title: "Insightful Idea Generation"
-    description: "Get topic suggestions rooted in genuine audience interests, not just robotic keyword stuffing."
-    url: "/features/suggestions/"
-    icon: lightbulb
-  - title: "Seamless Team Collaboration"
-    description: "Empower your entire team to work together creating on-brand, emotionally intelligent content for every client."
+    icon: chart
+  - title: "Knowledge Base"
+    description: "Upload client docs, brand guidelines, and product info. The agent draws on all of it when creating content."
+    url: "/features/content-writing/"
+    icon: folder
+  - title: "Team Collaboration"
+    description: "Role-based permissions, approval workflows, and project-based organisation for multi-client management."
     url: "/features/teams/"
     icon: users
 
 featureList:
-  title: "A Strategic AI Partner for Marketing Agencies"
-  description: "Bazam helps agencies escape the painful tradeoff between quality and scale, empowering them to deliver their best work, more efficiently, for more clients."
+  title: "A Force Multiplier for Marketing Agencies"
+  description: "Bazam helps agencies scale execution without scaling headcount — so your team can focus on the strategy and relationships that win new business."
 
 faq:
-  - q: "How is this different from other AI tools?"
+  - q: "How does the AI agent help with onboarding new staff?"
     a:
-      - "It starts from a completely different place. Most AI tools start with a keyword, which leads to generic content. Bazam starts with your strategic understanding of the audience—their needs and emotional drivers."
-      - "This 'strategy-first' approach is what results in higher-quality, more effective content that sounds human because it's built on a foundation of human empathy."
+      - "New hires can ask the agent anything about a client: 'What's the brand voice for Client X?', 'Who's their target audience?', 'What campaigns have we run recently?'. They get accurate, contextual answers immediately."
+      - "Instead of weeks of shadowing and reading through scattered briefs, new team members can be productive within hours."
+
+  - q: "We're a strategy agency — we don't really want to do content. How does Bazam help?"
+    a:
+      - "This is exactly the problem Bazam solves. Many agencies get asked by clients to deliver content even when their real value is strategic. The agent lets you say 'yes' to content requests without diverting senior staff."
+      - "You brief the agent, it creates the content, your team does a quick review, and it's published. The quality bar stays high because the agent is working from your strategy and brand intelligence."
+
+  - q: "How much time can we actually save on reporting?"
+    a:
+      - "Agencies typically spend 2–4 hours per week per client assembling performance reports from multiple platforms. Bazam's centralised dashboard pulls all channel metrics — engagement, reach, clicks, follower growth — into a single view."
+      - "You can also ask the agent to summarise performance for you. Instead of exporting CSVs, you get a conversation."
 
   - q: "How do you keep client strategies from getting mixed up?"
     a:
-      - "Our platform is built for the complexity of agency work. Each client is set up in a secure, sandboxed 'Project.' All of their unique audience insights, brand rules, and strategic pillars are completely isolated, ensuring the work is always pure and specific to them."
+      - "Each client is set up in a secure, isolated project. All of their brand voice, audience insights, knowledge base, and campaign history are completely separated, ensuring the work is always specific to them."
 
-  - q: "Will this truly save my team time?"
+  - q: "Can the agent handle multiple content types?"
     a:
-      - "Yes, because it eliminates the most time-consuming, low-value task: trying to fix bad, strategically-flawed first drafts. By providing an intelligent, on-strategy draft from the start, your team can focus on refinement and creative execution, which is a much faster and more valuable process."
-
-  - q: "Can we use this to find new strategic angles for clients?"
-    a:
-      - "Absolutely. Think of it as a strategic simulator. By pairing your defined customer personas with different emotional drivers or pain points, you can rapidly prototype new messaging and uncover powerful new angles to drive growth for your clients."
-
-  - q: "How does Bazam fit into our existing workflow?"
-    a:
-      - "It streamlines your workflow by handling the initial strategic drafting at scale. It integrates directly with WordPress and major social media platforms, allowing you to manage publishing for multiple clients from a single, efficient hub."
-
-  - q: "My clients are skeptical of AI-generated content."
-    a:
-      - "You can confidently tell them this is different. Explain that you use a strategic platform that scales your agency's own expertise. The AI doesn't replace your strategic work; it helps you execute it more effectively. The proof is in the superior quality and effectiveness of the content itself."
-
-  - q: "How can we test this before using it with a client?"
-    a:
-      - "We insist on it. Use the free trial to build out a strategy for one of your clients. See for yourself how building on a foundation of audience understanding results in a dramatically more effective and client-ready first draft. The difference in strategic quality will be clear."
+      - "Yes. The agent can create blog posts, social media campaigns, press releases, ad copy, and more — all tailored to each client's voice and audience. It can also repurpose content across formats automatically."
 
   - q: "How is the pricing structured for an agency?"
     a:
-      - "Our plans are designed to help you grow profitably. The value isn't just in time saved; it's in the increased capacity to take on more high-value clients and the ability to deliver the superior results that retain them. Our goal is to be a direct contributor to your agency's growth."
+      - "Our plans are designed to help you grow profitably. The value isn't just in time saved; it's in the increased capacity to take on more client accounts and the ability to deliver the superior results that retain them."
 ---

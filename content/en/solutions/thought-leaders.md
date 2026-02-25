@@ -1,104 +1,79 @@
 ---
-title: AI LinkedIn Posting for Thought Leaders
-heroDescription: Stop spending hours creating LinkedIn posts. Generate engaging thought leadership content faster and publish consistently with Bazam AI.
+title: "Build Your Authority — Without Spending Your Day Writing."
+heroDescription: "Bazam's AI agent creates a steady stream of insightful content in your voice, schedules it across platforms, and keeps your audience engaged — while you focus on the work that makes you an expert."
 
 features:
-- title: "Stress-Free AI LinkedIn Content"
-  image: "/images/feature-office-1.jpg"  
-  image_alt: "Office Feature Image 1" 
+- title: "The Expert's Dilemma"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "A thought leader with too much expertise and too little time to share it."
   description:
-    - Tired of LinkedIn content creation eating up your valuable time? Bazam dramatically reduces the hours you spend writing and editing posts.
-    - Generate thoughtful LinkedIn updates in minutes, freeing you to focus on what truly matters—your business and expertise.
+    - "You have the insights. Getting them out into the world is the problem."
   points:
-    - title: Create LinkedIn Content in Minutes
-      description: Reduce LinkedIn post creation time from hours to minutes with AI assistance.
-    - title: Reclaim Your Calendar
-      description: Get hours back in your week to focus on better things.
-    - title: End Publishing Worries
-      description: Eliminate the frustration of facing a blank page when your LinkedIn audience expects insights.
+    - title: "No Time to Write"
+      description: "Your expertise is in your domain, not content production. Writing competes with client work, speaking, and actually doing the things that make you credible."
+    - title: "Inconsistent Publishing"
+      description: "You post in bursts when inspiration hits, then go silent for weeks. Your audience forgets you exist."
+    - title: "Generic AI Undermines You"
+      description: "Off-the-shelf AI tools produce bland content that could have been written by anyone. It doesn't build authority — it erodes it."
+    - title: "No Creative Spark"
+      description: "When you do sit down to write, the blank page wins. Generating fresh angles on your own topics is exhausting."
   footer:
-    - Save time with automated LinkedIn content creation
+    - "Your ideas deserve to be heard. You just need a better way to get them out."
 
-- title: "Build Your LinkedIn Authority"
-  image: "/images/feature-office-2.jpg"  
-  image_alt: "Office Feature Image 2"  
+- title: "The 15-Minute Content Month"
+  image: "/images/feature-office-2.jpg"
+  image_alt: "A content queue filled with scheduled thought leadership posts."
   description:
-    - Maintaining a consistent LinkedIn publishing schedule is essential for building thought leadership. Bazam helps you create a steady stream of insightful posts without the hassle.
-    - Never miss another opportunity. Easily plan and schedule your posts in advance, ensuring a consistent presence even during your busiest periods.
+    - "Here's what consistent publishing actually looks like with Bazam."
   points:
-    - title: Maintain Regular Publishing
-      description: Keep your audience engaged with a consistent flow of valuable posts without the weekly struggle.
-    - title: Improve Your Industry Standing
-      description: Increase your professional visibility and authority with regular LinkedIn insights
-    - title: Build Lasting Thought Leadership
-      description: Position yourself as an expert in your field by consistently sharing valuable content without burning out.
+    - title: "Start With an Idea — Or Don't"
+      description: "Share a few talking points or topics for the month. Or ask the agent to suggest ideas based on your expertise and audience interests."
+    - title: "Review, Don't Write"
+      description: "The agent drafts a full month of posts and articles. You read, tweak a sentence or two, and approve. Most people spend more time choosing an image."
+    - title: "Platform-Specific Versions"
+      description: "One idea becomes a LinkedIn post, a blog article, and a tweet thread. Each adapted to the platform's format and audience."
+    - title: "Schedule and Move On"
+      description: "Queue a month's content in one sitting. Your audience sees consistent insights; you see an empty to-do list."
   footer:
-    - Finally, LinkedIn thought leadership without the hassle
+    - "Authority is built with consistency. Bazam makes consistency effortless."
 
 cta:
-  title: Say Goodbye to LinkedIn Content Headaches Now!
-  description: Ready to reclaim your time and maintain a consistent LinkedIn thought leadership presence? Try Bazam now and experience painless content creation!
+  title: "Ready to Build Your Authority on Autopilot?"
+  description: "Get a steady stream of insightful, on-brand content without spending hours writing. Bazam's AI agent handles the production — you provide the expertise."
 
-topFeatures: 
-  title: Thought Leaders Love These Bazam Features
-  description: Check out the innovations that will change the way you work  
+topFeatures:
+  title: "Why Thought Leaders Choose Bazam"
+  description: "Everything you need to maintain a powerful, consistent content presence."
   list:
-    - title: Bulk AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
+    - title: "AI Content Writing"
+      description: "Create compelling LinkedIn posts, blog articles, and social content in minutes — in your authentic voice."
       target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+    - title: "Multi-Platform Scheduling"
+      description: "Plan and queue content across LinkedIn, your blog, and social platforms weeks in advance."
       target: /features/scheduling/
-    - title: AI Content Suggestions
-      description: Endless, high-performing content suggestions tailored to your audience
+    - title: "Content Suggestions"
+      description: "Never run out of ideas. The agent suggests topics based on your expertise and audience interests."
       target: /features/suggestions/
 
 faq:
-  - q: "How much time can I realistically save using Bazam for my LinkedIn content?"
+  - q: "Will the content actually sound like me?"
     a:
-      - "Bazam users typically report saving 4-6 hours each week on LinkedIn content alone, freeing up valuable time to focus on client work and business growth. By automating the LinkedIn content creation process, from idea generation to initial drafting, Bazam allows you to reclaim a significant portion of your week."
+      - "Yes. Bazam includes tools to define your voice — tone, formality, style, and custom guidelines. The agent uses these every time it creates content. It won't sound like generic AI; it'll sound like you on a good writing day."
+      - "You always review and approve before publishing, so nothing goes out that doesn't meet your standards."
 
-      - "Many thought leaders find they can create a week's worth of LinkedIn posts in under 15 minutes with Bazam, compared to the several hours it would typically take. You'll be surprised at how much more you can achieve when you're not worrying about LinkedIn content creation deadlines."
-
-  - q: "How does Bazam help me maintain LinkedIn thought leadership, even during extremely busy periods?"
+  - q: "How much time can I realistically save?"
     a:
-      - "Bazam takes the pain out of LinkedIn content creation with its content calendar and scheduling system. This allows you to plan your LinkedIn presence in advance and visualise your publishing schedule, ensuring you never miss an opportunity to share your expertise, even during your most hectic weeks."
+      - "Most thought leaders report creating a week's worth of content in under 15 minutes with Bazam, compared to several hours of writing and editing. The agent handles the first draft — you just refine and approve."
 
-      - "You can use Bazam to generate LinkedIn posts in batches during quieter periods, scheduling them strategically across your timeline. This approach ensures a consistent thought leadership presence without the ongoing stress of weekly content creation."
-
-  - q: "Will my LinkedIn content still sound authentic using Bazam, or will my audience notice it's AI-generated?"
+  - q: "I'm not very tech-savvy. Is this complicated?"
     a:
-      - "Bazam is designed to help you generate high-quality LinkedIn content that reflects your unique voice and expertise. The AI provides a solid starting point, producing posts that capture your perspective while saving you significant time on the initial writing process."
+      - "Not at all. Bazam is designed to be intuitive. You chat with the agent in plain language — 'Write a LinkedIn post about why X matters' — and it does the rest. No complex setup or technical knowledge required."
 
-      - "You retain complete control over the final output and can easily review, edit, and refine the content to ensure it aligns perfectly with your thought leadership position. Think of Bazam as your LinkedIn content assistant, handling the time-consuming initial draft while allowing you to add your unique insights."
-
-  - q: "What if I run out of ideas for LinkedIn posts or struggle with thought leadership topics?"
+  - q: "Does it publish directly to LinkedIn?"
     a:
-      - "Bazam includes powerful content suggestion tools to help you discover fresh and relevant LinkedIn topics tailored to your industry expertise, eliminating the stress of constant ideation. You'll never face the dread of a blank page again."
+      - "Yes. Bazam integrates directly with LinkedIn, WordPress, Facebook, Instagram, X, and more. You can schedule and publish from a single dashboard."
 
-      - "The AI analyses industry trends, thought leadership gaps, and LinkedIn engagement patterns to identify opportunities for your expertise to shine. This ensures that you're always creating content that resonates with your professional network and enhances your thought leadership position."
-
-  - q: "Can I try Bazam before committing to see if it really makes LinkedIn content creation easier?"
+  - q: "Can I try it before committing?"
     a:
-      - "Yes! We want you to experience the hassle-free, time-saving power of Bazam for yourself. That's why we offer free trial credits when you sign up, giving you the chance to try out the platform and see how it can transform your approach to LinkedIn thought leadership."
-
-      - "These credits allow you to generate real LinkedIn posts, explore the platform's features, and get a feel for how Bazam can simplify content creation. Simply sign up on our website to claim your free trial credits and start creating painless LinkedIn content!"
-
-  - q: "Does Bazam support different LinkedIn content formats, or just basic posts?"
-    a:
-      - "Bazam can generate various LinkedIn content types to maintain your thought leadership position. From insightful analyses and how-to advice to industry observations and professional tips, we provide versatile LinkedIn content creation."
-
-      - "Currently, we support both short-form LinkedIn updates and longer-form LinkedIn articles to enhance your thought leadership presence. We're actively working on expanding our content format offerings to include more specialised LinkedIn content types."
-
-  - q: "Does Bazam integrate directly with LinkedIn to publish my thought leadership content?"
-    a:
-      - "Bazam integrates directly with LinkedIn to streamline your workflow and remove publishing headaches. This means you can seamlessly connect Bazam with your LinkedIn profile for a smooth content pipeline."
-
-      - "The integration allows you to schedule and publish posts directly to LinkedIn, making it easy to maintain your thought leadership presence without the weekly stress of manual posting. We're constantly improving our LinkedIn integration based on user feedback."
-
-  - q: "What if I'm not tech-savvy? Is Bazam complicated to use for my LinkedIn content?"
-    a:
-      - "Bazam is designed to be intuitive and easy to use, so you can start creating hassle-free LinkedIn content right away. We believe that powerful tools should make life easier, not harder—regardless of your technical expertise."
-
-      - "To help you get started quickly and confidently, we provide simple in-app guidance, along with practical examples of how to use Bazam to achieve your LinkedIn thought leadership goals. The platform removes technical hurdles while delivering professional-quality content for your LinkedIn presence."
+      - "Yes — we offer free trial credits when you sign up. Create some real content, see how it sounds, and decide if it works for you."
 ---

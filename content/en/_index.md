@@ -1,20 +1,34 @@
 ---
 title: "Your Virtual Marketing Department. Powered by AI."
-superTitle: "The Future of Agency Efficiency"
+superTitle: "Meet Your AI Marketing Agent"
 heroDescription:
-  - "Meet the AI agent that knows your clients' brands inside out. Ask it to create content, pull analytics, brainstorm campaigns, research competitors, or onboard new staff — all through a single conversation."
-  - "Bazam gives marketing agencies an <b>always-on, brand-aware teammate</b> that handles the work you'd rather not do manually, so your team can focus on what they do best: strategy."
+  - "An autonomous AI agent that knows your brand inside out. Ask it to create content, pull analytics, brainstorm campaigns, research competitors, or brief new team members — all through a single conversation."
+  - "Bazam gives your team an <b>always-on, brand-aware teammate</b> that handles the work you'd rather not do manually — so you can focus on what actually grows your business."
 youtubeUrl: "4iu6ap8dJbU"
 
+segmentPills:
+  - title: "For Agencies"
+    url: "/solutions/agencies/"
+  - title: "For Businesses"
+    url: "/solutions/businesses/"
+  - title: "For Thought Leaders"
+    url: "/solutions/thought-leaders/"
+  - title: "For Non-Profits"
+    url: "/solutions/non-profits/"
+  - title: "For Creators"
+    url: "/solutions/influencers/"
+  - title: "For Dropshippers"
+    url: "/solutions/dropshippers/"
+
 introFeatures:
-  - title: "Upskill Juniors Instantly"
-    description: "New hires chat with the agent to learn brand voice, audience personas, campaign history, and content guidelines — cutting onboarding from weeks to hours."
-    url: "/features/marketing-strategy/"
-  - title: "Content Without the Overhead"
-    description: "Agencies focused on strategy still get asked to deliver content. The agent creates on-brand posts, articles, and campaigns in minutes, without pulling senior staff off high-value work."
+  - title: "Content at the Speed of Conversation"
+    description: "Tell the agent what you need — blog posts, social campaigns, press releases — and get on-brand drafts in minutes, not days."
     url: "/features/content-writing/"
-  - title: "Save Hours on Reporting"
-    description: "Stop logging into five platforms to build a client update. The centralised dashboard rolls up engagement, reach, and growth metrics across every channel in one view."
+  - title: "Your Brand Intelligence, Always On"
+    description: "The agent absorbs your brand voice, audience personas, knowledge base, and campaign history. Anyone on your team can access it instantly through a chat."
+    url: "/features/marketing-strategy/"
+  - title: "Every Channel, One Dashboard"
+    description: "Track engagement, reach, and growth across all your platforms in a single view. Ask the agent for a summary instead of logging into five tools."
     url: "/features/marketing-strategy/"
 
 carousel:
@@ -38,7 +52,7 @@ carousel:
 
 solutionsCards:
   title: "Built for the Teams That Need It Most"
-  description: "Bazam is designed for the people who manage content at scale — and need to do it faster, smarter, and with fewer resources."
+  description: "Bazam is designed for people who manage content at scale — and need to do it faster, smarter, and with fewer resources."
   cards:
      - title: For Marketing Agencies
        description: "Run more client accounts without more headcount. The AI agent handles content and reporting so your team can focus on winning new business."
@@ -70,7 +84,7 @@ featureCards:
   description: "One AI agent, one conversation — with the full power of a marketing department behind it."
   cards:
   - title: "AI Content Creation"
-    description: "Blog posts, social updates, press releases, ad copy — the agent writes it all, tailored to each client's voice and audience."
+    description: "Blog posts, social updates, press releases, ad copy — the agent writes it all, tailored to your brand voice and audience."
     url: "/features/content-writing/"
     icon: edit
 
@@ -80,7 +94,7 @@ featureCards:
     icon: calendar
 
   - title: "Multi-Platform Publishing"
-    description: "Publish directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, TikTok, and Squarespace from one place."
+    description: "Publish directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok from one place."
     url: "/features/publishing/"
     icon: upload
 
@@ -105,89 +119,85 @@ featureCards:
     icon: language
 
   - title: "Team Collaboration"
-    description: "Manage multiple clients, brands, and team members with granular permissions and project-based organisation."
+    description: "Manage multiple brands and team members with granular permissions and project-based organisation."
     url: "/features/teams/"
     icon: users
 
 features:
-- title: "The Agency Problem: Too Many Tools, Too Little Time"
+- title: "What You Can Ask It"
   image: "/images/campaign-options.png"
-  image_alt: "Agencies juggling multiple platforms and siloed workflows."
+  image_alt: "An AI agent responding to natural language requests about marketing."
   description:
-    - "Your team is drowning in tabs. One tool for scheduling, another for analytics, another for writing, another for approvals. Client knowledge lives in people's heads, and when someone leaves, it goes with them."
-    - "Onboarding a new hire takes weeks. Producing content for a client you'd rather just advise pulls your best people off strategy. And assembling a cross-channel performance report still takes half a day."
+    - "The Bazam agent works through conversation. Here's what a typical interaction looks like."
   points:
-    - title: "Siloed Knowledge"
-      description: "Brand guidelines, audience insights, and campaign history are scattered across docs, Slack, and people's memories."
-    - title: "Slow Onboarding"
-      description: "New staff need weeks of shadowing before they can confidently create content for a client."
-    - title: "Content as a Burden"
-      description: "Strategy-focused agencies still get asked to deliver content — and it pulls senior talent off higher-value work."
-    - title: "Reporting Overhead"
-      description: "Building a weekly client update means logging into five different platforms and copying numbers into a spreadsheet."
+    - title: "'Write a LinkedIn campaign for our spring launch'"
+      description: "The agent creates a series of posts tailored to your audience, voice, and campaign goals — ready for review."
+    - title: "'How did last month's content perform?'"
+      description: "It pulls engagement, reach, and growth data across all your connected channels and summarises the highlights."
+    - title: "'Give me 10 blog ideas about sustainability for our B2B audience'"
+      description: "It draws on your brand positioning, audience personas, and knowledge base to suggest relevant, strategic topics."
+    - title: "'What's our brand voice for Client X?'"
+      description: "New team members get instant, accurate answers about any brand — voice, audience, campaign history — without asking a colleague."
   footer:
-    - "You don't need more tools. You need a smarter teammate."
+    - "One conversation replaces five tools and a dozen browser tabs."
 
-- title: "The Bazam Agent: One Conversation, Everything You Need"
+- title: "How It Learns Your Brand"
   image: "/images/persona.png"
-  image_alt: "An AI agent that understands your brand and manages your marketing."
+  image_alt: "Brand voice configuration and audience persona builder."
   description:
-    - "Bazam puts an autonomous AI agent at the centre of your workflow. It knows your clients' brands, audiences, and goals — and it can create content, pull analytics, brainstorm campaigns, research topics, and manage your content calendar, all through a natural conversation."
-    - "New hires can chat with the agent to instantly understand a client's brand voice, audience personas, and content history. Your team can ask it for campaign ideas, and it will research, draft, and queue content — ready for a quick review before publishing."
+    - "The agent isn't guessing. It works from a structured foundation you build once and refine over time."
   points:
-    - title: "Instant Brand Knowledge"
-      description: "The agent absorbs your knowledge base, brand guidelines, and audience data — so anyone on the team can access it through a chat."
-    - title: "Onboard in Hours, Not Weeks"
-      description: "New staff ask the agent about clients, campaigns, and brand voice. No more shadowing — they're productive from day one."
-    - title: "Content on Demand"
-      description: "Ask the agent to create a month's worth of social posts, a blog series, or a press release. It drafts, you approve."
-    - title: "Analytics at a Glance"
-      description: "Ask 'How did last week's campaign perform?' and get a clear answer pulled from real engagement data across all channels."
+    - title: "Brand Voice"
+      description: "Configure tone, formality, and style with sliders and custom guidelines. The agent applies these to every piece of content it creates."
+    - title: "Audience Personas"
+      description: "Define who you're talking to — demographics, motivations, pain points, buying behaviour. Content is shaped by who's reading it."
+    - title: "Knowledge Base"
+      description: "Upload documents, paste text, or import URLs. The agent references this material for accuracy and depth."
+    - title: "Campaign History"
+      description: "The more you use Bazam, the more context the agent has — past campaigns, performance data, and content patterns."
   footer:
-    - "Stop switching between tools. Start having a conversation with your marketing department."
+    - "Better inputs, better outputs. The agent gets sharper the more you use it."
 
 topFeatures:
-  title: "Why Agencies Choose Bazam"
+  title: "Why Teams Choose Bazam"
   description: "The AI agent isn't just a feature — it's a new way to run your content operation."
   list:
     - title: "Autonomous AI Agent"
       description: "Create content, pull reports, brainstorm ideas, and manage campaigns — all through a single, intelligent conversation."
       target: /features/content-writing/
-    - title: "Centralised Client Intelligence"
+    - title: "Centralised Intelligence"
       description: "Brand voice, audience data, knowledge base, and campaign history — accessible to your whole team, instantly."
       target: /features/marketing-strategy/
     - title: "Scale Without Hiring"
-      description: "Take on more clients without proportionally scaling your team. The agent handles the heavy lifting."
+      description: "Take on more work without proportionally growing your team. The agent handles the heavy lifting."
       target: /features/teams/
 
 faq:
   - q: "What exactly is the AI agent?"
     a:
-      - "It's an autonomous AI teammate that lives inside Bazam. You interact with it through a natural chat interface — ask it to create content, look up analytics, brainstorm campaign ideas, or explain a client's brand voice."
-      - "Think of it as a junior marketer who has read every document, studied every brand guideline, and memorised every campaign you've ever run — available 24/7."
+      - "It's an autonomous AI teammate that lives inside Bazam. You interact with it through a natural chat interface — ask it to create content, look up analytics, brainstorm campaign ideas, or explain your brand voice."
+      - "Think of it as a team member who has read every document, studied every brand guideline, and memorised every campaign you've ever run — available 24/7."
 
-  - q: "How does this help with onboarding new staff?"
+  - q: "Can it actually create content, or just suggest ideas?"
     a:
-      - "New hires can ask the agent anything about a client: 'What's the brand voice for Client X?', 'Who's their target audience?', 'What campaigns have we run recently?'. They get accurate, contextual answers immediately."
-      - "Instead of weeks of shadowing and reading through scattered briefs, new team members can be productive within hours."
-
-  - q: "Can the agent actually create content, or just suggest ideas?"
-    a:
-      - "Both. The agent can write full blog posts, social media campaigns, press releases, ad copy, and more — all tailored to the client's brand voice, audience, and campaign goals."
+      - "Both. The agent can write full blog posts, social media campaigns, press releases, ad copy, and more — all tailored to your brand voice, audience, and campaign goals."
       - "It can also brainstorm campaign ideas, suggest content topics based on your strategy, and repurpose existing content into new formats."
 
-  - q: "We're a strategy agency — we don't really want to do content. How does Bazam help?"
+  - q: "How does the agent know about my brand?"
     a:
-      - "This is exactly the problem Bazam solves. Many agencies get asked by clients to deliver content even when their real value is strategic. The agent lets you say 'yes' to content requests without diverting senior staff."
-      - "You brief the agent, it creates the content, your team does a quick review, and it's published. The quality bar stays high because the agent is working from your strategy and brand intelligence."
+      - "You teach it. Bazam includes tools to define your brand voice, build audience personas, and upload a knowledge base of documents, URLs, and product information. The agent draws on all of this when creating content."
+      - "It also learns from your campaign history and goals, so the more you use it, the more context it has to work with."
 
-  - q: "How much time can we actually save on reporting?"
+  - q: "Which platforms can I publish to?"
     a:
-      - "Agencies we work with typically spend 2–4 hours per week per client assembling performance reports from multiple platforms. Bazam's centralised dashboard pulls all channel metrics — engagement, reach, clicks, follower growth — into a single view."
-      - "You can also ask the agent to summarise performance for you. Instead of exporting CSVs, you get a conversation."
-
-  - q: "Where can we publish content with Bazam?"
-    a:
-      - "Bazam offers direct publishing and scheduling to WordPress, Facebook, Instagram (posts, stories, and reels), LinkedIn, X/Twitter, YouTube, TikTok, and Squarespace."
+      - "Bazam offers direct publishing and scheduling to WordPress, Facebook, Instagram (posts, stories, and reels), LinkedIn, X/Twitter, YouTube, and TikTok."
       - "Content is automatically formatted to meet each platform's requirements, so you don't need to resize images or trim copy manually."
+
+  - q: "Can I use this for multiple brands or clients?"
+    a:
+      - "Yes. Bazam supports multiple projects within a single account, each with their own brand voice, audiences, knowledge base, and content calendar. Perfect for agencies managing multiple clients or businesses with several brands."
+
+  - q: "What about analytics and reporting?"
+    a:
+      - "Bazam pulls engagement, reach, clicks, and follower growth data from all connected channels into a single dashboard. You can also ask the agent to summarise performance for you — no spreadsheets required."
 ---

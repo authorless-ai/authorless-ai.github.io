@@ -1,96 +1,95 @@
 ---
-title: "Amplify Your Mission: Engaging Stories, Effortless Scheduling"
-heroDescription: Do more with less. Share your story, connect with supporters, and drive impact. Bazam helps non-profits and charities create compelling content that inspires action, without breaking the bank or your team.
+title: "Amplify Your Mission — Without Stretching Your Team."
+heroDescription: "Bazam's AI agent helps small teams create compelling content that drives donations and awareness — so you can spend your time on the cause, not the content calendar."
 
 features:
-- title: "Tell Your Story Effectively"
+- title: "The Non-Profit Reality"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Office Feature Image 1"
+  image_alt: "A small non-profit team stretched across too many responsibilities."
   description:
-    - Are you struggling to reach new donors and engage existing supporters? Bazam enables you to highlight your impact with captivating content that resonates with your audience.
-    - Stop spending precious resources on expensive copywriting. Bazam empowers your team to create stories that move people to action, boosting donations and awareness.
+    - "Your impact is powerful. Your communications don't reflect it."
   points:
-    - title: Share Your Impact
-      description: Create compelling narratives that show the real-world impact of your work.
-    - title: Increase Donor Engagement
-      description: Craft content that resonates with your audience, keeping them connected to your mission.
-    - title: Attract New Supporters
-      description: Reach a wider audience with engaging content that showcases your organisation's values.
+    - title: "No Dedicated Marketing Staff"
+      description: "Your team wears too many hats. Content creation competes with programme delivery, fundraising, and admin."
+    - title: "Budget Won't Stretch to an Agency"
+      description: "Every dollar spent on marketing is a dollar not spent on your mission. Agencies and freelancers are expensive."
+    - title: "Inconsistent Storytelling"
+      description: "You publish when someone has time, not as part of a plan. Donors and supporters hear from you sporadically."
+    - title: "Multiple Audiences, One Tired Team"
+      description: "Donors, volunteers, beneficiaries, partners — each needs different messaging. Tailoring content for all of them is overwhelming."
   footer:
-    - Every story matters. Make sure yours is heard with Bazam.
+    - "Your mission deserves to be heard. Now it can be — without hiring a marketing team."
 
-- title: "Effortless Content Creation"
+- title: "Turning Impact Into Stories"
   image: "/images/feature-office-2.jpg"
-  image_alt: "Office Feature Image 2"
+  image_alt: "Transforming programme data into compelling narratives."
   description:
-    - Time is a charity's most precious resource. Bazam helps you maximise your impact by streamlining your content creation process, freeing up your team to focus on frontline work.
-    - From generating blog posts to scheduling social media updates, Bazam handles the heavy lifting, allowing you to maintain a consistent online presence without the overwhelming workload.
+    - "Your knowledge base turns raw data and reports into the kind of stories that move people to act."
   points:
-    - title: Streamline Your Workflow
-      description: Reduce the time and effort required to create high-quality content.
-    - title: Maintain a Consistent Presence
-      description: Keep your audience informed and engaged with regular updates and stories.
-    - title: Maximise Your Impact
-      description: Focus your team's energy on the work that matters most.
+    - title: "Upload Your Impact Reports"
+      description: "Annual reports, programme evaluations, case studies — the agent draws on this material to create accurate, specific content."
+    - title: "Tailor Content to Each Audience"
+      description: "Donors get impact stories. Volunteers get calls to action. Partners get programme updates. The agent adapts tone and focus for each."
+    - title: "Fundraising Appeals"
+      description: "'Create a social campaign for our year-end giving push.' The agent drafts posts that connect your mission to donor motivations."
+    - title: "Event Promotion"
+      description: "The agent creates event announcements, reminder sequences, and follow-up content — tailored to your audience and channels."
   footer:
-    - Efficiency is key. Bazam helps you do more good with less.
+    - "Your impact deserves to be communicated as powerfully as it's delivered."
+
+- title: "How Any Team Member Can Use It"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "A non-technical team member chatting with the AI agent."
+  description:
+    - "Your programme coordinator doesn't need to be a marketer. Here's what using Bazam looks like."
+  points:
+    - title: "Plain Language, Real Results"
+      description: "Type 'Write a Facebook post about our new mentoring programme' and get a polished, on-brand draft ready for review."
+    - title: "Consistent Voice Across Staff"
+      description: "No matter who on your team talks to the agent, the output matches your organisation's voice and brand guidelines."
+    - title: "Review and Approve"
+      description: "Every piece of content goes through your team before publishing. The agent drafts, your people approve."
+    - title: "Multilingual Outreach"
+      description: "Create content in one language and translate it to reach communities and supporters in other markets."
+  footer:
+    - "Stop choosing between your programmes and your communications. Do both."
 
 cta:
-  title: Transform Your Charity's Communications Now!
-  description: Ready to amplify your mission, engage your supporters, and save valuable time? Try Bazam now and experience effortless content creation that drives real impact! Claim your free credits now!
+  title: "Ready to Amplify Your Impact?"
+  description: "Give your mission the voice it deserves. Bazam's AI agent helps small teams create powerful content that drives donations and awareness."
 
-topFeatures: 
-  title: Non-Profits Love These Bazam Features
-  description: Check out the innovations that will change the way you work  
+topFeatures:
+  title: "Why Non-Profits Choose Bazam"
+  description: "Communications tools designed for teams that need to do more with less."
   list:
-    - title: AI Content Writing
-      description: Create compelling content quickly and easily with AI-powered assistance
+    - title: "AI Content Writing"
+      description: "Create compelling impact stories, donor updates, and social content in minutes — no copywriter needed."
       target: /features/content-writing/
-    - title: Multi-Platform Scheduling
-      description: Effortlessly plan and queue your content across multiple platforms for maximum impact
+    - title: "Multi-Platform Scheduling"
+      description: "Plan and queue content across all your channels weeks in advance. Stay consistent without the stress."
       target: /features/scheduling/
-    - title: Marketing Strategy
-      description: Build an effective content strategy with AI guidance, no marketing experience required!
-      target: /features/marketing-strategy/
+    - title: "Knowledge Base"
+      description: "Upload reports and documents. The agent draws on them to create accurate, detailed content about your work."
+      target: /features/content-writing/
 
 faq:
-  - q: "How can Bazam help our non-profit on a limited budget?"
+  - q: "How can Bazam help on our limited budget?"
     a:
-      - "Bazam significantly reduces the need for costly copywriters and marketing agencies. By automating the content creation process, it empowers your team to generate high-quality blog posts and social media updates in-house, saving you money and resources."
-      - "With Bazam, you can create a consistent stream of engaging content that attracts new donors and strengthens relationships with existing supporters, ultimately helping you reach your fundraising goals more efficiently."
+      - "Bazam replaces the need for expensive copywriters or agencies. The AI agent creates on-brand content in-house, so every dollar stays focused on your mission. It's a fraction of the cost of a hire."
 
-  - q: "We're a small team – how much time can Bazam actually save us?"
+  - q: "We're a small team — how much time can this actually save?"
     a:
-      - "Small teams often struggle to balance fundraising, service delivery and marketing. Bazam alleviates the pressure by streamlining your content workflow. You can expect to save several hours each week on content creation, freeing up your team to focus on their core responsibilities."
-      - "Many non-profits find they can create a week's worth of social media updates in a fraction of the time, allowing them to maintain a consistent online presence without sacrificing valuable staff hours."
+      - "Most small teams save several hours per week on content creation. You can create a week's worth of social updates in minutes, and the agent handles scheduling and publishing for you."
 
-  - q: "Will the content generated by Bazam sound authentic and reflect our organisation's voice?"
+  - q: "Will the content sound authentic to our mission?"
     a:
-      - "Bazam is designed to help you tell your story in a way that resonates with your audience. The AI provides a solid starting point, generating content that captures your perspective and values, while saving you time on the initial writing process."
-      - "You retain complete control over the final output and can easily review, edit and refine the content to ensure it aligns perfectly with your brand voice. Think of Bazam as your content creation assistant, handling the time-consuming initial draft while allowing you to add your unique touch."
+      - "Yes. You define your organisation's voice and mission, and the agent uses these every time. You always review before publishing — nothing goes out that doesn't meet your standards."
 
-  - q: "We struggle to come up with fresh ideas for content – can Bazam help?"
+  - q: "Can we use it for donor communications and fundraising?"
     a:
-      - "Yes! Bazam includes powerful content suggestion tools to help you discover fresh and relevant topics tailored to your organisation's mission and activities. You'll never face the anxiety of a blank page again."
-      - "The AI analyses current trends, social media engagement patterns and the needs of your target audience to identify opportunities for you to share your expertise and impact. This ensures that you're always creating content that resonates with your supporters."
+      - "Absolutely. The agent can create impact stories, fundraising appeals, event promotions, and regular donor updates — all tailored to your cause and audience."
 
-  - q: "Can we try Bazam before committing to a subscription to see if it actually works for us?"
+  - q: "Does Bazam support multiple languages?"
     a:
-      - "Absolutely! We understand the importance of making informed decisions, especially for non-profits. That's why we offer free trial credits when you sign up, giving you the chance to try out the platform and see how it can transform your communications strategy."
-      - "These credits allow you to generate real blog posts and social media updates, explore the platform's features and get a feel for how Bazam can streamline your content creation process. Simply sign up on our website to claim your free trial credits and start creating impactful content today!"
-
-  - q: "Can Bazam create different types of content, like blog posts and social media updates?"
-    a:
-      - "Yes! Bazam supports a variety of content types, including blog posts, social media updates and even email newsletters (although only blog and socials are written for, for now). This allows you to create a comprehensive communications strategy that reaches your audience on multiple platforms."
-      - "We're constantly expanding our content format offerings to include more specialised content types, ensuring you always have the tools you need to tell your story effectively."
-
-  - q: "Does Bazam support multiple languages? We work with international communities."
-    a:
-      - "Yes! Bazam supports translations. You can work in your own language and translate into different ones. This allows you to tailor content to the people in their own language"
-      - "This is essential when working with international communities"
-
-  - q: "Our team isn't very tech-savvy – is Bazam easy to use?"
-    a:
-      - "Bazam is designed to be intuitive and easy to use, regardless of your technical expertise. We believe that powerful tools should empower you, not overwhelm you."
-      - "We provide clear guidance, along with practical examples of how to use Bazam to achieve your communications goals. You'll be surprised at how quickly you can start creating impactful content that drives real results."
+      - "Yes. You can create content in your language and automatically translate it to reach international communities and supporters."
 ---

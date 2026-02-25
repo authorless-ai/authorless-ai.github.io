@@ -1,132 +1,121 @@
 ---
-title: "More Content Isn't the Answer. Better Connection Is."
-
-heroDescription: Your brand is being drowned out by AI slop factories that value volume over value. To hit your marketing goals, you need content that creates a genuine human connection. Bazam is the strategic platform built to turn that connection into measurable ROI.
+title: "A Full Marketing Team — Without the Full Marketing Team."
+heroDescription: "Bazam's AI agent creates, schedules, and publishes your content — on-brand and on-strategy. You get a professional content operation without the cost and complexity of building a marketing department."
 
 features:
-- title: "Stop Wasting Resources on Content That Fails"
+- title: "The Small Business Marketing Trap"
   image: "/images/feature-office-1.jpg"
-  image_alt: "A marketing team looking at a sales growth chart, not an empty blog post."
+  image_alt: "A business owner juggling marketing with everything else."
   description:
-    - Your team's most valuable asset is its strategic talent. Yet, generic AI tools force them into a low-value editing grind, trying to fix robotic drafts that were doomed from the start.
-    - Bazam is the antidote. By building content on a foundation of human empathy, we generate strategically-sound drafts that free your team to focus on high-impact work that moves the needle.
+    - "You know content marketing works. Here's why it's not working for you yet."
   points:
-    - title: Create Content That Actually Converts
-      description: "Stop publishing content that fills a calendar but fails to impact KPIs. Every piece is engineered to build trust and drive results."
-    - title: Eliminate the Low-Value Editing Loop
-      description: "Slash the hours your team wastes fixing robotic text. Get on-brand, on-strategy content, instantly."
-    - title: Elevate Your Team's Strategic Focus
-      description: "Reallocate resources from tedious editing to the high-level strategy that drives real brand growth."
+    - title: "No Dedicated Marketing Staff"
+      description: "You're wearing too many hats. Marketing competes with product, sales, and operations for your attention."
+    - title: "Inconsistent Output"
+      description: "Content goes out in bursts — when someone has time — not as part of a consistent, strategic plan."
+    - title: "Freelancers Don't Know Your Brand"
+      description: "They need constant briefing, quality varies wildly, and they're never as invested in your business as you are."
+    - title: "Can't Measure What's Working"
+      description: "Data lives across five platforms. You publish content but can't tell what's actually driving results."
+    - title: "Don't Know Where to Start"
+      description: "Content strategy, audience personas, brand voice — it all sounds important, but nobody on your team has the marketing background to set it up."
   footer:
-    - Equip your team to be strategists, not editors for a robot.
+    - "You don't need to hire a marketing team. You need one that already exists."
 
-- title: "Deploy a More Sophisticated Strategy, Simply"
+- title: "What Running on Bazam Looks Like"
   image: "/images/feature-office-2.jpg"
-  image_alt: "An illustration of a sophisticated marketing funnel."
+  image_alt: "A content calendar filled with scheduled posts across multiple channels."
   description:
-    - You know a deep, full-funnel strategy is what works, but the tools at your disposal make it difficult to execute effectively at scale. Slop factories just produce noise.
-    - Bazam makes sophisticated marketing simple. We've encoded proven persuasion frameworks into our AI, allowing your team to easily create content that speaks to specific audience needs at every stage of the buying journey.
+    - "No marketing expertise needed. Here's what your month looks like with Bazam handling your content."
   points:
-    - title: Execute a Professional-Grade Strategy
-      description: "Our AI uses established frameworks to turn your brand's goals into effective, persuasive content."
-    - title: Target Audiences with Precision
-      description: "Move beyond broad-stroke marketing. Create content for specific personas based on their core emotional drivers."
-    - title: Build a Powerful Brand Narrative
-      description: "Ensure every piece of content, from social posts to blog articles, works together to tell a cohesive and compelling story."
+    - title: "Start of the Month: Plan Your Content"
+      description: "Ask the agent 'Create a month of social posts and 4 blog articles about [topics].' Review and approve in one sitting."
+    - title: "Mid-Month: Check Performance"
+      description: "Ask 'How is this month's content performing?' and get a plain-English summary with the numbers that matter."
+    - title: "Next Month: Refine and Repeat"
+      description: "The agent suggests topics based on what performed well. Approve the next batch and your calendar is full again."
+    - title: "Anytime: Timely Updates"
+      description: "Product launch? Industry news? Event announcement? Jump in and ask the agent for a quick draft whenever you need one."
   footer:
-    - Stop guessing what works. Start deploying a smarter strategy that consistently performs.
+    - "Professional content marketing in one session a month — plus the odd quick request."
 
-- title: "Turn Human Connection Into Provable ROI"
+- title: "The Bottom Line"
   image: "/images/feature-office-1.jpg"
-  image_alt: "A customer happily making a purchase on their phone, reflecting positive ROI."
+  image_alt: "Business growth enabled by consistent marketing."
   description:
-    - In today's market, connection is the ultimate conversion tool. Robotic content can't connect. It speaks to no one, so no one listens, and it certainly doesn't impact the bottom line.
-    - Bazam is designed to forge that connection. By identifying and addressing what your audience truly cares about, every piece of content becomes a powerful asset for building trust, generating leads, and proving the value of your marketing efforts.
+    - "What changes when your marketing actually runs consistently."
   points:
-    - title: Speak Directly to Customer Buying Triggers
-      description: "Generate content that addresses the real 'why' behind your audience's purchase decisions."
-    - title: Build a High-Converting Content Funnel
-      description: "Create a predictable path that guides interested prospects to become loyal customers."
-    - title: Justify Your Marketing Spend
-      description: "Transform your content from a line-item expense into a measurable revenue-driver for the business."
+    - title: "Agency-Quality Output Without the Retainer"
+      description: "On-brand content, strategic scheduling, and real analytics — at a fraction of what an agency or full-time hire costs."
+    - title: "Consistent Presence Builds Trust"
+      description: "Customers engage with brands that show up regularly. Bazam makes sure you do — even when you're busy running the business."
+    - title: "Data-Driven Decisions"
+      description: "See what content drives engagement and leads. Stop guessing, start doubling down on what works."
   footer:
-    - Don't just report on activity. Report on revenue.
+    - "When marketing runs itself, you can focus on what actually grows the business."
 
 cta:
-  title: Ready to Drive Growth with Content That Converts?
-  description: "Ditch the content treadmill and the failed promise of 'more is better.' Try Bazam and equip your team with a strategic tool that turns human connection into undeniable business results."
+  title: "Ready to Give Your Business a Marketing Superpower?"
+  description: "Get a professional content operation running in hours, not months. Bazam's AI agent handles the work so you can focus on growing your business."
 
 topFeatures:
-  title: "A Toolkit for High-Impact Marketing Teams"
-  description: "Check out the features designed to help your team achieve its most ambitious goals."
+  title: "Why Businesses Choose Bazam"
+  description: "Everything you need to run a professional content operation — without hiring for it."
   list:
-    - title: Content That Converts
-      description: "Generate persuasive content based on your audience's core emotional drivers and buying journey."
+    - title: "Content on Demand"
+      description: "Ask the agent to create blogs, social posts, and campaigns. It drafts, you approve, it publishes."
+      target: /features/content-writing/
+    - title: "Strategy Built In"
+      description: "Define your audience and goals once. The agent creates content that aligns with your strategy automatically."
       target: /features/marketing-strategy/
-    - title: "Automated Strategic Campaigns"
-      description: "Plan and automate entire content funnels that nurture leads and drive sales."
-      target: /features/scheduling/
-    - title: "Accessible Expert-Level Strategy"
-      description: "Deploy a sophisticated marketing plan without needing a large, specialized strategy team."
-      target: /features/marketing-strategy/
+    - title: "Publish Everywhere"
+      description: "WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok — all from one place."
+      target: /features/publishing/
 
 featureCards:
-  title: "Designed For a Smarter Marketing Approach"
-  description: "More essential Bazam features your team needs to deliver exceptional content and prove its impact."
+  title: "Your Complete Marketing Toolkit"
+  description: "Everything a growing business needs to compete with companies that have full marketing departments."
   cards:
-  - title: "Conversion-Focused Idea Generation"
-    description: "Get AI-powered suggestions for content topics that will resonate deeply and drive strategic goals."
-    url: "/features/suggestions/"
-    icon: lightbulb
-  - title: "Multi-Channel Publishing"
-    description: "Seamlessly publish your strategic content across all the key platforms where your audience lives."
-    url: "/features/publishing/"
-    icon: upload
-  - title: "Built-in Funnel Intelligence"
-    description: "Develop effective strategies with an AI that understands how to create content for every stage of the customer journey."
+  - title: "AI Content Creation"
+    description: "Blog posts, social updates, press releases, ad copy — the agent writes it all, tailored to your brand."
+    url: "/features/content-writing/"
+    icon: edit
+  - title: "Scheduling & Calendar"
+    description: "Plan and queue content across channels. Maintain a consistent presence without the daily effort."
+    url: "/features/scheduling/"
+    icon: calendar
+  - title: "Analytics Dashboard"
+    description: "Track what's working across all your channels in one view. Make data-driven decisions about your content."
+    url: "/features/marketing-strategy/"
+    icon: chart
+  - title: "Brand Voice & Strategy"
+    description: "Define your voice, audience, and goals. The agent ensures every piece of content stays on-brand."
     url: "/features/marketing-strategy/"
     icon: briefcase
-  - title: "Streamlined Team Collaboration"
-    description: "Enable your entire team to create on-brand, strategically-aligned content within a single, controlled platform."
-    url: "/features/teams/"
-    icon: users
+
+featureList:
+  title: "A Smarter Way to Do Content Marketing"
+  description: "Bazam gives growing businesses the power of a full marketing department — at a fraction of the cost."
 
 faq:
-  - q: "You keep mentioning 'AI slop factories'. What exactly do you mean by that?"
+  - q: "I don't have a content strategy. Can Bazam help?"
     a:
-      - "An 'AI slop factory' is any tool that values word count and volume over impact. They operate on simple prompts to churn out generic, robotic text that sounds like it was written by a machine, because it was." 
-      - "This content rarely works: It has little understanding of your brand, no empathy for your audience, and no strategic goal. The result is a messy first draft that creates a new, painful job for you: hours of editing just to make it sound remotely human."
-      - "We built Bazam to be the complete opposite. We believe that effective content starts with human connection, not a simple prompt. Instead of just generating words, our platform first helps you define <b>who</b> you're talking to and <b>what they care about</b>. By building content on this foundation of human strategy, the AI produces messaging that is relevant, resonant, and ready-to-use. It's the difference between creating more noise and creating content that actually converts."  
-  - q: "Our team is swamped. How does this reduce our workload instead of adding to it?"
-    a:
-      - "Bazam attacks the single biggest time-waster in modern content marketing: editing bad AI drafts. Because our content is built on your specific strategy from the start, it drastically reduces that low-value work."
-      - "This frees up your team's bandwidth, allowing them to focus on the high-impact strategic initiatives that they were hired for, making your entire department more efficient and effective."
+      - "Yes. Bazam includes tools to define your brand voice, build audience personas, and set campaign goals. The agent then creates content that aligns with this strategy, so you're not just publishing random posts."
+      - "You don't need marketing expertise — the platform guides you through setting up the foundations."
 
-  - q: "We already have a content strategy. How does Bazam fit in?"
+  - q: "How is this different from ChatGPT or other AI writing tools?"
     a:
-      - "That's perfect. Bazam is designed to be the execution engine for your strategy. You already know *who* you want to reach and *what* you want to say. Bazam helps you do it better and faster."
-      - "Use our platform to codify your personas and strategic pillars, then let our AI generate on-brand, on-strategy content at scale. It amplifies your existing strategy, it doesn't replace it."
+      - "ChatGPT is a general-purpose tool. Bazam is a purpose-built marketing platform with an agent that knows your brand, audience, and goals persistently. It also schedules, publishes, and tracks analytics — things a general AI tool can't do."
 
-  - q: "How can we be sure the AI content will align with our brand voice?"
+  - q: "Can I use this for multiple products or brands?"
     a:
-      - "Because we go deeper than just 'voice.' Generic tools mimic style, which is why they fail. We focus on the core of your brand: the audience you serve and the value you provide."
-      - "By generating content that is foundationally aligned with your brand's strategic purpose, the voice naturally follows. The result is content that feels authentic because it *is* authentic to your strategy."
+      - "Yes. Bazam supports multiple projects within a single account, each with their own brand voice, audiences, knowledge base, and content calendar."
 
-  - q: "How does this help us prove the ROI of our content efforts?"
+  - q: "Will the content actually sound like my brand?"
     a:
-      - "By creating content that is inherently designed to convert. When your content speaks directly to customer needs and guides them through a buying journey, the impact on leads and sales becomes much clearer."
-      - "You move from reporting on vanity metrics like 'posts published' to reporting on business metrics like 'leads generated from our content funnel,' making it far easier to justify your budget and prove your team's value."
+      - "Yes. You define your brand voice through configurable tone settings and custom guidelines. The agent uses these every time it creates content. The more context you give it — knowledge base, past campaigns, audience personas — the better it gets."
 
-  - q: "Does Bazam integrate with our existing marketing technology stack?"
+  - q: "How much does it cost compared to an agency or freelancer?"
     a:
-      - "We provide a streamlined publishing workflow. Bazam connects directly with WordPress, Facebook, LinkedIn, Instagram, and X, allowing you to centralize your content scheduling and publishing, simplifying execution and reporting."
-
-  - q: "Can our team try it before committing?"
-    a:
-      - "Absolutely. We encourage a pilot. Use our free trial credits to run a campaign for one of your key initiatives. Compare the quality, speed, and strategic alignment of the output against your current process."
-      - "We're confident your team will see the value immediately."
-
-  - q: "Is this solution cost-effective for our department's budget?"
-    a:
-      - "Yes. We offer plans designed for business and marketing team budgets. When you calculate the ROI based on man-hours saved, increased content effectiveness, and the potential lift in conversions, Bazam is designed to be a significant net positive for your budget."
+      - "Significantly less. An agency retainer or full-time hire costs thousands per month. Bazam gives you consistent, on-brand content creation, scheduling, publishing, and analytics for a fraction of that. Check our pricing page for details."
 ---
