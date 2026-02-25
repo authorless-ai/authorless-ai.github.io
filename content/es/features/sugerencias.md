@@ -33,6 +33,35 @@ features:
   footer:
     - La relevancia es clave para la participación. Bazam te ayuda a crear contenido que conecte.
 
+featureList:
+  title: "No Te Quedes Sin Ideas de Contenido Nunca Más"
+  description: "Bazam analiza tu negocio, audiencia e industria para sugerir temas de contenido estratégicos — para que siempre sepas qué crear a continuación."
+  features:
+    - iconColor: "primary"
+      title: "Inspiración Sin Fin"
+      icon: edit
+      points:
+        - description: "Obtén <b>sugerencias de temas frescos</b> basadas en tu negocio, personas de audiencia y tendencias del sector."
+        - description: "Solicita nuevos lotes <b>siempre que estés planificando</b> — mensual, trimestral o bajo demanda."
+        - description: "Las sugerencias consideran <b>lo que ya has publicado</b> para mantener tu calendario fresco."
+        - description: "Nunca más mires una <b>página en blanco</b> — cada sesión empieza con ideas listas."
+    - iconColor: "primary"
+      title: "Temas Estratégicamente Orientados"
+      icon: chart
+      points:
+        - description: "Los temas cubren <b>cada etapa del recorrido de compra</b> — reconocimiento, consideración, conversión."
+        - description: "Las sugerencias apuntan a los <b>puntos de dolor e intereses específicos de tu audiencia</b>."
+        - description: "Identifica <b>huecos de contenido</b> — temas que tu audiencia necesita y que aún no has cubierto."
+        - description: "Las sugerencias se adaptan a <b>tendencias estacionales, lanzamientos de producto y campañas</b>."
+    - iconColor: "primary"
+      title: "De Idea a Post Publicado"
+      icon: upload
+      points:
+        - description: "Haz clic en una sugerencia y <b>expándela en un borrador completo</b> — título, estructura y cuerpo."
+        - description: "Genera ideas en diferentes formatos — <b>blogs, posts sociales, vídeos, newsletters</b>."
+        - description: "Aprueba sugerencias y el agente <b>crea, programa y publica</b> automáticamente."
+        - description: "Crea contenido en <b>múltiples idiomas</b> a partir de un único conjunto de ideas."
+
 cta:
   title: ¡Descubre tu próxima gran idea de contenido ahora!
   description: ¿Listo para desbloquear un mundo de posibilidades de contenido y decir adiós al bloqueo del escritor? ¡Prueba Bazam ahora y experimenta el poder de la inspiración impulsada por la IA!

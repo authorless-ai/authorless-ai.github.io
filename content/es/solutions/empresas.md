@@ -85,6 +85,35 @@ featureCards:
     description: "Permite que todo tu equipo cree contenido acorde con la marca y alineado estratégicamente dentro de una única plataforma controlada."
     url: "/es/features/equipos/"
     icon: users
+featureList:
+  title: "Una Forma Más Inteligente de Hacer Marketing de Contenidos"
+  description: "Bazam le da a los negocios en crecimiento el poder de un departamento de marketing completo — a una fracción del coste."
+  features:
+    - iconColor: "primary"
+      title: "Contenido Bajo Demanda"
+      icon: edit
+      points:
+        - description: "Pide al agente que escriba <b>blogs, posts sociales y campañas</b> — él redacta, tú apruebas."
+        - description: "Crea <b>un mes completo de contenido en 30 minutos</b> — sin necesidad de saber escribir."
+        - description: "El contenido se adapta a tu <b>voz de marca, audiencia y objetivos de negocio</b>."
+        - description: "¿Lanzamiento de producto? ¿Evento? <b>Pide al agente un borrador</b> rápido y fiel a tu marca en cualquier momento."
+    - iconColor: "primary"
+      title: "Estrategia Sin Estratega"
+      icon: chart
+      points:
+        - description: "Define tu audiencia y objetivos una vez — el agente crea <b>contenido estratégicamente alineado</b> automáticamente."
+        - description: "Sin necesidad de título en marketing — Bazam gestiona la <b>mezcla de contenido y segmentación</b>."
+        - description: "Monitoriza <b>qué funciona y qué no</b> con resúmenes de rendimiento en lenguaje sencillo."
+        - description: "El agente <b>sugiere temas</b> basándose en lo que rinde — para que dupliques las apuestas ganadoras."
+    - iconColor: "primary"
+      title: "Publica en Todas Partes"
+      icon: upload
+      points:
+        - description: "Programa y publica en <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok</b>."
+        - description: "Mantén una <b>presencia online constante</b> incluso cuando estés ocupado con tu negocio."
+        - description: "Resultados de calidad profesional que hacen que tu negocio <b>parezca tener un equipo de marketing</b>."
+        - description: "Precios transparentes <b>basados en créditos</b> — sin sorpresas, sin cargos por canal."
+
 faq:
   - q: "¿Cómo hago marketing cuando no sé nada de marketing?"
     a:

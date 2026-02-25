@@ -34,6 +34,35 @@ features:
   footer:
     - Escala tu producción con confianza con Bazam.
 
+featureList:
+  title: "Cada Cliente. Su Propio Espacio. Un Solo Panel."
+  description: "Gestiona el contenido de múltiples clientes sin caos — cada proyecto tiene su propia voz de marca, audiencia, base de conocimiento y calendario de contenido."
+  features:
+    - iconColor: "primary"
+      title: "Espacios de Trabajo Aislados"
+      icon: folder
+      points:
+        - description: "Cada cliente tiene un <b>proyecto completamente separado</b> con sus propios ajustes y contenido."
+        - description: "Voz de marca, personas de audiencia y base de conocimiento están <b>totalmente aislados</b> — cero contaminación cruzada."
+        - description: "Incluso <b>marcas competidoras</b> pueden gestionarse en la misma cuenta sin riesgo."
+        - description: "Cambia entre clientes <b>con un clic</b> — sin entrar y salir de cuentas."
+    - iconColor: "primary"
+      title: "Escala Sin Límites"
+      icon: chart
+      points:
+        - description: "Añade nuevos clientes <b>en minutos</b> — define voz de marca, sube documentos, empieza a crear."
+        - description: "Sin <b>cobro por cliente</b> — asigna créditos donde más se necesiten."
+        - description: "Cada proyecto escala de forma independiente — <b>sin limitaciones de plataforma</b> al crecer."
+        - description: "Historial de contenido, publicaciones programadas y ajustes <b>persisten ante cambios de equipo</b>."
+    - iconColor: "primary"
+      title: "Control de Acceso por Equipos"
+      icon: users
+      points:
+        - description: "Asigna miembros del equipo a <b>proyectos específicos</b> con permisos granulares."
+        - description: "Los gestores de cuentas solo ven <b>sus propios clientes</b> — separación limpia."
+        - description: "Los flujos de aprobación garantizan <b>control de calidad</b> antes de que nada se publique."
+        - description: "Ajusta el acceso <b>en cualquier momento</b> cuando cambie tu equipo."
+
 cta:
   title: ¡Revoluciona la gestión de contenidos de tu agencia hoy mismo!
   description: ¿Listo para transformar la forma en que tu agencia gestiona las necesidades de contenido de varios clientes? ¡Prueba Bazam ahora y experimenta el poder de la gestión de múltiples proyectos organizada y eficiente!

@@ -37,6 +37,35 @@ features:
   footer:
     - "Revoluciona tu marketing. Empezando ahora."
 
+featureList:
+  title: "Un Agente. Cada Tarea de Marketing. Cero Cambios de Herramientas."
+  description: "Tu agente de marketing con IA reemplaza el mosaico de herramientas, plantillas y pestañas — gestionando la creación de contenido, publicación, analíticas y estrategia en una sola conversación."
+  features:
+    - iconColor: "primary"
+      title: "Creación de Contenido Conversacional"
+      icon: edit
+      points:
+        - description: "Dile al agente lo que necesitas en <b>lenguaje natural</b> — sin prompts, plantillas ni jerga de marketing."
+        - description: "Crea <b>blogs, campañas sociales, comunicados de prensa y textos publicitarios</b> a través de conversación."
+        - description: "Reutiliza contenido en diferentes formatos — convierte un blog en una serie social con una sola petición."
+        - description: "Crea contenido en lote para <b>múltiples campañas y clientes</b> simultáneamente."
+    - iconColor: "primary"
+      title: "Inteligencia Consciente de Marca"
+      icon: chart
+      points:
+        - description: "El agente <b>recuerda tu marca</b> — voz, audiencia, productos y estrategia — en cada conversación."
+        - description: "Se basa en tu <b>base de conocimiento</b> de documentos, URLs e información de producto para contenido preciso."
+        - description: "Mantén <b>contextos de marca separados</b> para múltiples clientes — cada uno completamente aislado."
+        - description: "Obtén <b>sugerencias estratégicas de temas</b> basadas en tus personas de audiencia y objetivos de negocio."
+    - iconColor: "primary"
+      title: "Ejecución Autónoma"
+      icon: upload
+      points:
+        - description: "<b>Programa y publica</b> directamente en WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok."
+        - description: "Pide un <b>resumen de rendimiento</b> en lugar de entrar en cinco plataformas."
+        - description: "Rastrea <b>engagement, alcance y crecimiento</b> en todos los canales en una sola conversación."
+        - description: "Colabora con tu equipo usando <b>control de acceso por roles</b> y flujos de aprobación."
+
 cta:
   title: "¿Listo para conocer a tu nuevo compañero de equipo?"
   description: "Deja de saltar entre herramientas y empieza una conversación con tu departamento de marketing. Prueba Bazam gratis y descubre al agente en acción."

@@ -50,6 +50,35 @@ topFeatures:
     - title: Sugerencias de contenido de IA
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
       target: /es/features/sugerencias/
+featureList:
+  title: "Construye Autoridad Sin Que el Contenido Sea un Segundo Trabajo"
+  description: "Mantén una presencia de contenido potente y consistente en todas las plataformas — con el trabajo de producción gestionado por tu agente de IA."
+  features:
+    - iconColor: "primary"
+      title: "De Expertise a Contenido, Rápido"
+      icon: edit
+      points:
+        - description: "Comparte temas y el agente <b>redacta un mes completo de posts y artículos</b>."
+        - description: "Sube <b>charlas, notas y transcripciones</b> — el agente las convierte en semanas de contenido."
+        - description: "Una idea se convierte en <b>un post de LinkedIn, un artículo de blog, un hilo de tweets y más</b>."
+        - description: "El contenido suena como <b>tu mejor escritura</b> — no como relleno genérico de IA."
+    - iconColor: "primary"
+      title: "Tu Voz, Tu Marca"
+      icon: chart
+      points:
+        - description: "Define tu <b>tono, estilo y personalidad</b> — el agente lo aplica a todo."
+        - description: "El contenido refleja tu <b>expertise y perspectiva genuinos</b>, no consejos genéricos."
+        - description: "Voz consistente en <b>LinkedIn, tu blog y todas las plataformas sociales</b>."
+        - description: "El agente sugiere temas basándose en <b>tu nicho y los intereses de tu audiencia</b>."
+    - iconColor: "primary"
+      title: "Autoridad Consistente"
+      icon: upload
+      points:
+        - description: "Publica <b>semanalmente en todas las plataformas</b> sin que la creación de contenido domine tu agenda."
+        - description: "Crea en lote y programa <b>un mes de contenido en una sola sesión</b> — 15 minutos y listo."
+        - description: "Rastrea qué <b>conecta con tu audiencia</b> y haz más de eso."
+        - description: "Mantente <b>presente en tu industria</b> con un flujo constante de contenido perspicaz."
+
 faq:
   - q: "¿Cómo construyo liderazgo de opinión sin pasarme horas escribiendo?"
     a:

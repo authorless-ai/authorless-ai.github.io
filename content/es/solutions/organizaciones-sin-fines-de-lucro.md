@@ -49,6 +49,35 @@ topFeatures:
     - title: Estrategia de marketing
       description: ¡Crea una estrategia de contenido efectiva con la guía de la IA, no se requiere experiencia en marketing!
       target: /es/features/estrategia-de-marketing/
+featureList:
+  title: "Dale a Tu Misión la Voz Que Merece"
+  description: "Bazam ayuda a equipos pequeños a crear comunicaciones potentes para donantes, historias de impacto y campañas de concienciación — sin presupuesto de marketing ni personal de comunicación dedicado."
+  features:
+    - iconColor: "primary"
+      title: "Narrativa de Impacto"
+      icon: edit
+      points:
+        - description: "Convierte <b>informes de programa y datos de resultados</b> en historias que inspiran a actuar."
+        - description: "Crea <b>llamamientos a donantes, convocatorias de voluntarios y actualizaciones para socios</b> — cada uno con el tono adecuado."
+        - description: "Sube datos de impacto una vez y el agente <b>se basa en ellos para cada pieza de contenido</b>."
+        - description: "Campañas de recaudación que muestran a los donantes <b>exactamente a dónde va su dinero</b>."
+    - iconColor: "primary"
+      title: "Cualquiera Puede Ser el Comunicador"
+      icon: users
+      points:
+        - description: "Cualquier miembro del equipo o <b>voluntario crea contenido mediante conversación</b> — sin formación necesaria."
+        - description: "Los ajustes de voz de marca aseguran <b>mensajes consistentes</b> sin importar quién cree."
+        - description: "Escribe <b>'haz un post sobre nuestro programa de mentoría'</b> y obtén un borrador profesional y alineado con la misión."
+        - description: "Traduce contenido para <b>llegar a comunidades y colaboradores en otros idiomas</b>."
+    - iconColor: "primary"
+      title: "Máximo Impacto, Mínimo Presupuesto"
+      icon: chart
+      points:
+        - description: "Una suscripción reemplaza la necesidad de <b>redactores, agencias y personal de marketing dedicado</b>."
+        - description: "Programa y publica en <b>todos los canales sociales y tu blog</b> desde un solo lugar."
+        - description: "Mantén un <b>calendario de publicación constante</b> sin añadir carga de trabajo a nadie."
+        - description: "Cada céntimo ahorrado en comunicación es un céntimo <b>invertido en tu misión</b>."
+
 faq:
   - q: "¿Cómo hace marketing una ONG sin presupuesto para marketing?"
     a:

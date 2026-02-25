@@ -34,6 +34,35 @@ features:
   footer:
     - La consistencia es clave. Bazam te ayuda a mantenerte en la mente de tu audiencia.
 
+featureList:
+  title: "Escritura de Contenido con IA Que Suena a Ti, No a un Robot"
+  description: "Crea blogs, posts sociales, comunicados de prensa y textos publicitarios con tu voz de marca — más rápido que cualquier redactor, más barato que cualquier agencia."
+  features:
+    - iconColor: "primary"
+      title: "Escribe Lo Que Sea, Al Instante"
+      icon: edit
+      points:
+        - description: "Genera <b>blogs, campañas sociales, comunicados de prensa y textos publicitarios</b> en minutos, no días."
+        - description: "Crea <b>más de 70 tipos de contenido de marketing</b> — todos adaptados a tu voz de marca y audiencia."
+        - description: "Crea en lote un <b>mes completo de contenido</b> en una sola sesión — sin más apuros diarios."
+        - description: "Reutiliza una pieza en <b>múltiples formatos</b> — de blog a serie social, de artículo a newsletter."
+    - iconColor: "primary"
+      title: "Fiel a Tu Marca, Siempre"
+      icon: chart
+      points:
+        - description: "Cada pieza sigue tus <b>directrices de voz, tono y estilo de marca</b> automáticamente."
+        - description: "El contenido se nutre de tu <b>conocimiento de producto, personas de audiencia y datos de empresa</b>."
+        - description: "La IA escribe desde <b>tus datos y materiales</b> — no desde datos de entrenamiento genéricos."
+        - description: "Calidad consistente tanto si <b>una persona como diez</b> están creando contenido."
+    - iconColor: "primary"
+      title: "Del Borrador a Publicado"
+      icon: upload
+      points:
+        - description: "Crea, revisa y <b>publica directamente</b> en tu blog y canales sociales desde un solo lugar."
+        - description: "Programa contenido en <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok</b>."
+        - description: "<b>Flujos de aprobación</b> integrados para que nada se publique sin revisión."
+        - description: "Traduce el contenido terminado a <b>más de 50 idiomas</b> para alcance internacional."
+
 cta:
   title: ¡Comienza a ahorrar tiempo y a publicar regularmente ahora!
   description: ¿Listo para transformar tu flujo de trabajo y mantener un cronograma de contenido constante? ¡Prueba Bazam ahora y experimenta el poder de ahorro de tiempo de la creación de contenido automatizada!

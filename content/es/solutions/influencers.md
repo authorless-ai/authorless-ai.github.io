@@ -53,6 +53,35 @@ topFeatures:
     - title: Sugerencias de contenido de IA
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
       target: /es/features/sugerencias/
+featureList:
+  title: "Crea Más. Quémate Menos. Sigue Siendo Auténticamente Tú."
+  description: "Bazam se encarga del trabajo repetitivo para que puedas centrarte en el trabajo creativo que construye tu audiencia — sin sacrificar consistencia ni tu voz auténtica."
+  features:
+    - iconColor: "primary"
+      title: "Producción Multiplataforma"
+      icon: edit
+      points:
+        - description: "Una idea se convierte en <b>versiones listas para LinkedIn, Instagram, X, YouTube, TikTok y tu blog</b>."
+        - description: "Cada versión se <b>adapta al formato de la plataforma</b> — no es una talla única."
+        - description: "Crea en lote un <b>mes completo de contenido en una sola sesión</b> — sin agobios diarios."
+        - description: "Reutiliza charlas, podcasts y vídeos en <b>contenido escrito en todos los canales</b>."
+    - iconColor: "primary"
+      title: "Tu Voz, Amplificada"
+      icon: chart
+      points:
+        - description: "Define tu voz — <b>tono, estilo, personalidad</b> — y cada pieza suena a ti."
+        - description: "El contenido patrocinado mezcla <b>el mensaje de marca con tu estilo auténtico</b> de forma natural."
+        - description: "Tu audiencia nunca ve <b>contenido genérico de IA</b> — ve tu perspectiva, tus ideas."
+        - description: "El agente aprende <b>tu nicho y audiencia</b> para sugerir temas que conecten."
+    - iconColor: "primary"
+      title: "Consistencia Sin el Desgaste"
+      icon: upload
+      points:
+        - description: "Programa contenido <b>con semanas de antelación</b> — tu audiencia ve a un creador que siempre está activo."
+        - description: "Publica en <b>todas las plataformas desde un solo panel</b> — sin entrar en cinco apps."
+        - description: "Rastrea <b>qué temas y formatos</b> generan más engagement en tu audiencia."
+        - description: "Dedica tu tiempo al <b>engagement y la comunidad</b> — el trabajo que la IA no puede hacer por ti."
+
 faq:
   - q: "¿Cómo evito el burnout como creador de contenido?"
     a:

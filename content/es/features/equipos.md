@@ -34,6 +34,35 @@ features:
   footer:
     - El control de calidad no debería ser un cuello de botella. Bazam Teams garantiza la consistencia sin ralentizarte.
 
+featureList:
+  title: "Escala la Producción de Tu Equipo Sin Sacrificar Calidad"
+  description: "Permite que cada miembro del equipo cree contenido fiel a la marca a través de conversación — con flujos de aprobación, acceso por roles y voz de marca consistente integrados."
+  features:
+    - iconColor: "primary"
+      title: "Creación de Contenido Colaborativa"
+      icon: users
+      points:
+        - description: "Cada miembro del equipo crea contenido <b>conversando con el agente</b> — sin formación necesaria."
+        - description: "El personal junior produce <b>resultados de nivel senior</b> porque el agente aplica las directrices de marca."
+        - description: "Cuantas más personas crean, <b>más contenido produces</b> — sin que la calidad baje."
+        - description: "Los miembros del equipo trabajan en <b>su idioma preferido</b> — ideal para equipos globales."
+    - iconColor: "primary"
+      title: "Voz de Marca Consistente"
+      icon: edit
+      points:
+        - description: "Define <b>tono, estilo, formalidad y directrices personalizadas</b> una vez — se aplican a cada pieza automáticamente."
+        - description: "La misma voz de marca sin importar <b>quién del equipo esté creando</b>."
+        - description: "¿Múltiples marcas? Cada una tiene <b>sus propios ajustes de voz aislados</b>."
+        - description: "Los nuevos empleados son productivos <b>desde el primer día</b> — el agente ya conoce la marca."
+    - iconColor: "primary"
+      title: "Aprobación y Control de Acceso"
+      icon: chart
+      points:
+        - description: "El contenido se <b>pone en cola para revisión</b> antes de publicar — nada sale sin aprobación."
+        - description: "Asigna <b>roles y permisos</b> — administradores, editores, creadores — cada uno con el acceso apropiado."
+        - description: "Organiza el trabajo entre <b>departamentos, marcas o clientes</b> con proyectos separados."
+        - description: "<b>Registro completo</b> de quién creó, revisó y publicó cada pieza."
+
 cta:
   title: ¡Capacita a todo tu equipo para crear contenido de marca ahora!
   description: ¿Listo para escalar tu producción de contenido mientras mantienes una perfecta consistencia de marca? ¡Prueba Bazam Teams hoy y transforma la forma en que colabora tu departamento de marketing!

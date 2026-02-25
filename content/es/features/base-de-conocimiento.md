@@ -37,6 +37,35 @@ features:
   footer:
     - "Piensa en ello como el cerebro de tu marca. El agente piensa con él cada vez que crea."
 
+featureList:
+  title: "Dale a Tu IA el Contexto Que Necesita Para Acertar"
+  description: "Sube tus documentos de marca, especificaciones de producto y materiales clave una vez. El agente se basa en todo ello — cada vez — para que tu contenido sea preciso, específico y profundamente informado."
+  features:
+    - iconColor: "primary"
+      title: "Sube Todo"
+      icon: folder
+      points:
+        - description: "Añade <b>PDFs, documentos, presentaciones, páginas web y texto sin formato</b> — todo lo que ayude al agente a comprender tu marca."
+        - description: "Indexa <b>tu web, páginas de competidores y artículos del sector</b> pegando URLs."
+        - description: "Sube una vez, <b>benefíciate para siempre</b> — el agente referencia tus materiales en cada conversación."
+        - description: "Organiza el conocimiento por <b>cliente o proyecto</b> para mantener los contextos de marca aislados."
+    - iconColor: "primary"
+      title: "Contenido Más Inteligente"
+      icon: edit
+      points:
+        - description: "El contenido cita <b>especificaciones reales de producto, precios y posicionamiento</b> — sin adivinanzas de IA."
+        - description: "Los comunicados de prensa referencian tus <b>informes y datos financieros reales</b>."
+        - description: "Las FAQs y contenido de soporte se basan en tu <b>documentación existente</b>."
+        - description: "Cuanto más alimentas al agente, <b>más rico y detallado</b> será cada pieza de contenido."
+    - iconColor: "primary"
+      title: "Inteligencia de Marca Persistente"
+      icon: chart
+      points:
+        - description: "Tus datos <b>permanecen privados</b> y nunca se usan para entrenar modelos."
+        - description: "El conocimiento persiste <b>en cada conversación</b> — sin volver a informar, sin copiar y pegar."
+        - description: "Los nuevos miembros del equipo obtienen <b>contexto inmediato</b> — el agente ya sabe todo sobre la marca."
+        - description: "Combina la base de conocimiento con <b>voz de marca y personas de audiencia</b> para máxima calidad."
+
 cta:
   title: "Dale a tu Agente el Contexto que Merece"
   description: "La diferencia entre contenido genérico de IA y contenido que suena como tú es el contexto. Empieza a construir tu base de conocimiento y nota la diferencia de inmediato."

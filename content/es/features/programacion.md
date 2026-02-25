@@ -34,6 +34,35 @@ features:
   footer:
     - Haz que tu contenido sea visto por las personas adecuadas, en el momento adecuado. Bazam te ayuda a optimizar tu estrategia de publicación.
 
+featureList:
+  title: "Planifica Una Vez. Publica en Piloto Automático."
+  description: "Programa un mes completo de contenido en todas las plataformas en una sola sesión. Tu calendario de contenido funciona solo mientras te centras en tu negocio."
+  features:
+    - iconColor: "primary"
+      title: "Calendario de Contenido Visual"
+      icon: calendar
+      points:
+        - description: "Ve todo tu <b>cronograma de publicación de un vistazo</b> — blog, redes sociales, todos los canales."
+        - description: "<b>Arrastra y suelta</b> para reprogramar publicaciones sin perder contenido."
+        - description: "Codificado por colores según plataforma y estado — <b>borradores, aprobados, programados, publicados</b>."
+        - description: "Planifica semanas o meses por adelantado — <b>sin hojas de cálculo, sin notas adhesivas</b>."
+    - iconColor: "primary"
+      title: "Programación Multiplataforma"
+      icon: upload
+      points:
+        - description: "Programa en <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok</b> simultáneamente."
+        - description: "Establece <b>horarios diferentes por plataforma</b> — LinkedIn por la mañana, Instagram por la noche, TikTok los fines de semana."
+        - description: "Programa en lote un <b>mes completo de contenido en una sola sesión</b> — de la creación al calendario en minutos."
+        - description: "¿Eventos recurrentes? <b>Duplica y ajusta</b> — sin empezar de cero."
+    - iconColor: "primary"
+      title: "Horarios Inteligentes y Aprobación"
+      icon: chart
+      points:
+        - description: "Rastrea el engagement para encontrar <b>los horarios óptimos de publicación de tu audiencia</b>."
+        - description: "Los flujos de aprobación aseguran que las publicaciones sean <b>revisadas antes de programarlas</b>."
+        - description: "El contenido se <b>publica automáticamente a la hora programada</b> — sin intervención manual."
+        - description: "Experimenta con horarios y <b>deja que los datos te digan qué funciona</b>."
+
 cta:
   title: "Programa el éxito: ¡comienza tu prueba gratuita de Bazam hoy!"
   description: ¿Listo para tomar el control de tu calendario de contenido y desbloquear el poder de la publicación consistente? ¡Regístrate para una prueba gratuita de Bazam y experimenta los beneficios de primera mano!

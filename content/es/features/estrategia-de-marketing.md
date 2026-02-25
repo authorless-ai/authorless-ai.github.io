@@ -34,6 +34,35 @@ features:
   footer:
     - Todas las empresas necesitan clientes en diferentes etapas. Bazam se asegura de que te dirijas a todos ellos de manera efectiva.
 
+featureList:
+  title: "Estrategia Integrada Para Que Cada Pieza de Contenido Rinda"
+  description: "Sin necesidad de título en marketing. Bazam crea automáticamente la mezcla correcta de contenido para guiar a tu audiencia desde el descubrimiento hasta la compra."
+  features:
+    - iconColor: "primary"
+      title: "Mezcla Estratégica de Contenido"
+      icon: chart
+      points:
+        - description: "Equilibra automáticamente <b>contenido de reconocimiento, consideración y conversión</b> en tu calendario."
+        - description: "Cada pieza está etiquetada con su <b>propósito estratégico</b> para que sepas exactamente qué hace."
+        - description: "El contenido se alinea con el <b>recorrido de compra AIDA</b> — Atención, Interés, Deseo, Acción."
+        - description: "Nada de publicar sin rumbo — cada pieza <b>cumple un objetivo específico</b> en tu embudo de marketing."
+    - iconColor: "primary"
+      title: "Segmentación Basada en Audiencia"
+      icon: users
+      points:
+        - description: "Crea <b>personas de audiencia detalladas</b> con datos demográficos, motivaciones y comportamiento de compra."
+        - description: "El contenido habla directamente a los <b>puntos de dolor y deseos de tus clientes</b>."
+        - description: "Llega a diferentes segmentos con <b>mensajes personalizados</b> — prospectos, clientes actuales y partners."
+        - description: "El agente sugiere temas basándose en <b>lo que tu audiencia realmente necesita escuchar</b>."
+    - iconColor: "primary"
+      title: "Mide Lo Que Importa"
+      icon: upload
+      points:
+        - description: "Rastrea <b>engagement, alcance, clics y crecimiento de seguidores</b> en todos los canales."
+        - description: "Descubre qué tipos de contenido y temas <b>generan mejores resultados</b>."
+        - description: "Pide al agente un <b>resumen de rendimiento en lenguaje sencillo</b> — sin sumergirte en dashboards."
+        - description: "Apuesta por lo que funciona, <b>deja de adivinar</b> y deja que los datos guíen tu estrategia."
+
 cta:
   title: ¡Comienza a crear contenido orientado a resultados ahora!
   description: ¿Listo para publicar contenido que realmente funcione para tu negocio? ¡Prueba Bazam ahora y deja que nuestro sistema de estrategia automática se encargue del pensamiento de marketing por ti!

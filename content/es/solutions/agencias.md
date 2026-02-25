@@ -88,6 +88,31 @@ featureCards:
 featureList:
   title: "Un socio estratégico de IA para agencias de marketing"
   description: "Bazam ayuda a las agencias a escapar del doloroso dilema entre calidad y escala, capacitándolas para ofrecer su mejor trabajo, de manera más eficiente, para más clientes."
+  features:
+    - iconColor: "primary"
+      title: "Escala Cuentas de Clientes"
+      icon: users
+      points:
+        - description: "Cada gestor de cuentas maneja <b>más clientes</b> porque el agente se encarga de la producción de contenido."
+        - description: "La incorporación de nuevos clientes lleva <b>minutos, no semanas</b> — sube documentos, define voz, empieza a crear."
+        - description: "<b>Espacios de proyecto aislados</b> mantienen la marca, voz y datos de cada cliente completamente separados."
+        - description: "Acepta <b>retainers de contenido con rentabilidad</b> — el agente hace el trabajo pesado."
+    - iconColor: "primary"
+      title: "Conocimiento de Equipo Instantáneo"
+      icon: folder
+      points:
+        - description: "Los nuevos empleados preguntan al agente sobre un cliente y obtienen un <b>briefing completo en minutos</b>."
+        - description: "Voz de marca, audiencia, historial de campañas — <b>todo accesible mediante conversación</b>."
+        - description: "El conocimiento del cliente <b>nunca se pierde</b> cuando el personal cambia."
+        - description: "El personal junior produce <b>resultados de nivel senior</b> porque el agente aplica el contexto de marca."
+    - iconColor: "primary"
+      title: "Reporting Centralizado"
+      icon: chart
+      points:
+        - description: "Obtén el <b>resumen de rendimiento de cualquier cliente</b> en segundos — sin hojas de cálculo."
+        - description: "Rastrea <b>engagement, alcance y crecimiento</b> en todos los canales en un solo panel."
+        - description: "Pide al agente que <b>resuma el rendimiento semanal</b> en lenguaje sencillo."
+        - description: "Libera al talento senior del reporting para centrarse en <b>estrategia y relaciones</b>."
 faq:
   - q: "¿Cómo asumo más clientes en la agencia sin contratar más gente?"
     a:

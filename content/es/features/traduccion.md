@@ -33,6 +33,35 @@ features:
       description: Obtén una ventaja competitiva sobre las empresas que solo operan en un solo idioma.
   footer:
     - Observa cómo crecen tus cifras de ventas a medida que te conectas con clientes de todo el mundo en su idioma preferido.
+featureList:
+  title: "Habla Todos los Idiomas. Suena Como Tú."
+  description: "Traduce tu contenido de marketing a más de 50 idiomas con un solo clic — preservando tu voz de marca, tono e intención en cada mercado."
+  features:
+    - iconColor: "primary"
+      title: "Traducción con Un Clic"
+      icon: edit
+      points:
+        - description: "Traduce <b>blogs, contenido social y textos publicitarios</b> a más de 50 idiomas al instante."
+        - description: "Escribe en tu <b>idioma habitual</b> — la IA se encarga del resto."
+        - description: "Cada traducción es <b>contenido único, no un duplicado</b> — seguro para SEO."
+        - description: "Traduce en lote <b>toda tu biblioteca de contenido</b> para entrar en nuevos mercados rápidamente."
+    - iconColor: "primary"
+      title: "Voz de Marca en Cada Idioma"
+      icon: chart
+      points:
+        - description: "La IA preserva tu <b>tono, estilo y estructura de frases</b> — no solo el significado de las palabras."
+        - description: "El contenido suena como <b>copy de marketing nativo</b>, no como una traducción plana."
+        - description: "Tu <b>personalidad de marca se transmite</b> hables en inglés, español o japonés."
+        - description: "Revisa y edita las traducciones <b>antes de publicar</b> — tú mantienes el control."
+    - iconColor: "primary"
+      title: "Ingresos Globales, Coste Local"
+      icon: upload
+      points:
+        - description: "La traducción profesional cuesta <b>0,10–0,20 € por palabra</b>. La traducción con IA está incluida en tu plan."
+        - description: "Llega a <b>clientes internacionales en su propio idioma</b> — donde es más probable que compren."
+        - description: "Gestiona traducciones <b>por idioma</b> — revisa, edita y publica cada versión de forma independiente."
+        - description: "Combina con personas de audiencia para crear <b>contenido específico para cada mercado</b> que resuene localmente."
+
 cta:
   title: ¡Desbloquea nuevas fuentes de ingresos globales ahora!
   description: Deja de dejar las ventas internacionales sobre la mesa. Comienza a convertir a los visitantes globales en clientes de pago con la traducción de Bazam. ¡Pruébalo ahora y observa cómo crece tu negocio!

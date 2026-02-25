@@ -33,6 +33,35 @@ features:
   footer:
     - Conecta tus cuentas, amplía tu alcance. Bazam pone tu contenido en todas partes donde necesita estar.
 
+featureList:
+  title: "Créalo Aquí. Publícalo en Todas Partes."
+  description: "Deja de entrar en cinco plataformas. Bazam publica tu contenido directamente en todos los canales — blog y redes sociales — desde un solo panel."
+  features:
+    - iconColor: "primary"
+      title: "Todos Tus Canales, Un Solo Lugar"
+      icon: upload
+      points:
+        - description: "Publica directamente en <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok</b>."
+        - description: "Cada publicación se <b>formatea automáticamente para los requisitos de la plataforma</b> — límites de caracteres, especificaciones de imagen, todo."
+        - description: "Conecta nuevas cuentas en minutos — <b>sin configuración técnica</b>."
+        - description: "Añade más plataformas a medida que creces — <b>sin cargos por canal</b>."
+    - iconColor: "primary"
+      title: "De Una Idea a Todas las Plataformas"
+      icon: edit
+      points:
+        - description: "Crea contenido una vez y <b>adáptalo para cada canal</b> automáticamente — sin reformateo manual."
+        - description: "Un blog se convierte en un <b>artículo de LinkedIn, un hilo de tweets y un caption de Instagram</b> en segundos."
+        - description: "El formato nativo de cada plataforma hace que tu contenido <b>se vea bien en todas partes</b>."
+        - description: "Publica en todos los canales o personaliza por plataforma — <b>tú eliges, siempre</b>."
+    - iconColor: "primary"
+      title: "Publica con Confianza"
+      icon: chart
+      points:
+        - description: "Previsualiza publicaciones <b>antes de que salgan</b> en cada plataforma."
+        - description: "Los flujos de aprobación aseguran que <b>nada se publique sin revisión</b>."
+        - description: "Rastrea <b>qué se ha publicado, qué está en cola y qué está en borrador</b> de un vistazo."
+        - description: "Historial completo de publicaciones para saber siempre <b>qué salió y cuándo</b>."
+
 cta:
   title: "¡Llega a una audiencia global: comienza tu prueba gratuita de Bazam hoy!"
   description: ¿Listo para simplificar la distribución de tu contenido y llegar a una audiencia más amplia? ¡Regístrate para una prueba gratuita de Bazam y experimenta el poder de la publicación sin problemas!

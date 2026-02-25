@@ -50,6 +50,35 @@ topFeatures:
     - title: Sugerencias de contenido de IA
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
       target: /es/features/sugerencias/
+featureList:
+  title: "Contenido en Volumen Que No Parece Ni Se Siente Como Volumen"
+  description: "Genera descripciones de producto únicas, campañas sociales y textos publicitarios para todo tu catálogo — cada pieza orientada a tu audiencia y optimizada para conversiones."
+  features:
+    - iconColor: "primary"
+      title: "Contenido de Producto a Escala"
+      icon: edit
+      points:
+        - description: "Genera <b>descripciones únicas para más de 50 productos</b> en una sola sesión."
+        - description: "Cada descripción está <b>adaptada al producto</b> — sin copiar y pegar, sin plantillas."
+        - description: "Sube las especificaciones y el agente escribe <b>textos centrados en beneficios que convierten</b>."
+        - description: "Crea <b>múltiples variaciones</b> por producto para testing A/B."
+    - iconColor: "primary"
+      title: "Venta Orientada a la Audiencia"
+      icon: chart
+      points:
+        - description: "Define personas de cliente — <b>puntos de dolor, deseos, disparadores de compra</b> — y el contenido les habla."
+        - description: "El contenido vende <b>beneficios, no características</b> — qué hace el producto por el cliente."
+        - description: "Textos publicitarios nativos para <b>Instagram, Facebook, TikTok y más</b>."
+        - description: "Campañas estacionales — <b>Black Friday, festividades, lanzamientos</b> — para todo tu catálogo."
+    - iconColor: "primary"
+      title: "Alcance Internacional"
+      icon: upload
+      points:
+        - description: "Traduce contenido de producto a <b>más de 50 idiomas</b> para vender en nuevos mercados."
+        - description: "Cada traducción preserva <b>tu voz de marca y los detalles del producto</b>."
+        - description: "Publica directamente en <b>tu tienda, canales sociales y plataformas de anuncios</b>."
+        - description: "A este volumen, la IA es <b>drásticamente más barata</b> que cualquier redactor o agencia."
+
 faq:
   - q: "¿Cómo destaco mi tienda de dropshipping frente a miles de competidores?"
     a:
