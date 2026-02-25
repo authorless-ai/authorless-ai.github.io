@@ -38,32 +38,39 @@ cta:
   description: Ready to simplify your content distribution and reach a wider audience? Sign up for a free trial of Bazam and experience the power of seamless publishing!
 
 faq:
-  - q: "Which platforms does Bazam directly publish to?"
+  - q: "Which social media platforms does Bazam publish to?"
     a:
-      - "Bazam currently publishes directly to Facebook, X (formerly Twitter), Instagram, LinkedIn, and WordPress. We're continually evaluating and adding new integrations based on user feedback, so keep an eye out for future updates!"
-      - "This allows you to manage your core social media presence and blog content from a single platform, saving you the hassle of individually logging into each site to publish. We aim to be a one-stop shop for all your content distribution needs."
+      - "Bazam publishes directly to Facebook, X (formerly Twitter), Instagram (posts, stories, and reels), LinkedIn, YouTube, TikTok, and WordPress. All from a single dashboard."
 
-  - q: "How do I connect my social media and blog accounts to Bazam?"
+  - q: "How do I connect my social media accounts to Bazam?"
     a:
-      - "Connecting your accounts is simple and straightforward. You'll be guided through the process of authorising Bazam to access your accounts the first time you try to publish content."
-      - "Simply follow our prompts to log into each platform and grant Bazam permission to publish on your behalf. The process is secure and encrypted, and you can revoke access at any time."
+      - "Follow the prompts to log into each platform and grant Bazam permission to publish on your behalf. The process is secure, encrypted, and takes under a minute per account. You can revoke access at any time."
 
-  - q: "Can I schedule posts to publish at different times on different platforms?"
+  - q: "Can I schedule posts at different times for each platform?"
     a:
-      - "Yes! Bazam's scheduling feature allows you to specify different publishing times for each platform you connect. This lets you tailor your content schedule to suit the unique audience behaviour and engagement patterns of each channel."
-      - "For example, you might schedule a post to go live on Facebook during peak hours for engagement on that platform, and schedule the same post to appear on X (formerly Twitter) at a different time when your X followers are most active."
+      - "Yes. Bazam lets you specify different publishing times for each platform, so you can post when each audience is most active. Schedule a LinkedIn post for Tuesday morning and an Instagram reel for Thursday evening — all from one place."
 
-  - q: "If I make changes to a post within Bazam, will those changes automatically be reflected on the platforms where it's already been published?"
+  - q: "How do I automate content publishing across multiple platforms?"
     a:
-      - "No, changes made to a post within Bazam *after* it has already been published to a platform will not automatically be reflected on that platform. This is due to how most platforms handle content updates."
-      - "However, you can easily update the content directly on the platform itself (e.g., edit a Facebook post on Facebook). You could then create a new post (or duplicate the existing one within Bazam) and schedule that to push out a new version."
+      - "Create your content in Bazam (or let the AI agent create it), then schedule it across all your connected platforms. Set dates and times for each, and Bazam publishes automatically. No manual uploading required."
 
-  - q: "Does Bazam support publishing different content formats (e.g., images, videos, links) to different platforms?"
+  - q: "What is the best tool for publishing to multiple social media platforms?"
     a:
-    - "Bazam currently supports publishing images directly to different platforms, allowing you to visually enhance your posts."
+      - "The best tool combines content creation and publishing in one place. Most scheduling tools require you to create content elsewhere and then upload it. Bazam's AI agent creates the content AND publishes it — one tool, end to end."
 
-  - q: "Is there a limit to the number of accounts I can connect to Bazam?"
+  - q: "Does Bazam automatically format content for each platform?"
     a:
-      - "The number of accounts you can connect depends on your Bazam subscription plan. Our free trial offers a limited number of connections, while our paid plans offer more flexibility to connect all your social media and blog accounts."
-      - "We designed our pricing tiers to accommodate businesses of all sizes, from individual entrepreneurs to large enterprises. You can easily upgrade your plan as your needs grow."
+      - "Yes. Content is automatically adapted to meet each platform's requirements — character limits, image dimensions, and format specifications. You don't need to manually resize or trim anything."
+
+  - q: "How many social media accounts can I connect?"
+    a:
+      - "The number depends on your subscription plan. Paid plans offer generous account limits that scale with your needs. See our pricing page for details."
+
+  - q: "Can I publish blog posts and social media from the same tool?"
+    a:
+      - "Yes. Bazam publishes to WordPress for blog content and to all major social platforms for social media — all from the same dashboard. Create a blog post and its social promotion in one session."
+
+  - q: "What happens if I edit a post after it's been published?"
+    a:
+      - "Edits made in Bazam after publishing won't automatically update the live post on the platform. You'd need to edit directly on the platform or create a new version in Bazam and republish."
 ---

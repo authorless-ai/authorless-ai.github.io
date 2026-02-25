@@ -105,6 +105,11 @@ languages:
           weight: 80
           params:
             description: "Gestiona el contenido de múltiples marcas o proyectos desde una sola cuenta"
+        - name: "Base de Conocimiento"
+          url: "/es/features/base-de-conocimiento/"
+          weight: 85
+          params:
+            description: "Sube documentos, URLs e información de productos — tu agente los utiliza para crear contenido preciso"
       resourcesMenu:
         - name: "Documentación"
           url: /es/docs/
@@ -222,6 +227,11 @@ menus:
       weight: 80
       params:
         description: "Manage content for multiple brands or projects from a single account"
+    - name: Knowledge Base
+      url: "/features/knowledge-base/"
+      weight: 85
+      params:
+        description: "Upload docs, URLs, and product info — your agent draws on all of it"
   resourcesMenu:
     - name: Documentation
       url: /docs/

@@ -38,33 +38,39 @@ cta:
   title: Unlock New Global Revenue Streams Now!
   description: Stop leaving international sales on the table. Start converting global visitors into paying customers with Bazam translation. Try it now and watch your business grow!
 faq:
-  - q: "What languages does Bazam support for automatic translation?"
+  - q: "How many languages does Bazam translate content into?"
     a:
-      - "Bazam is committed to helping you reach a global audience. Our automatic translation feature currently supports a wide array of languages, exceeding 50 different options and growing consistently. These include widely spoken languages such as Spanish, French, German, Chinese (both Mandarin and Cantonese), Japanese, Portuguese, Russian, and Arabic, alongside numerous others covering various regions and linguistic backgrounds."
+      - "50+ languages and growing. This includes all major commercial languages — Spanish, French, German, Chinese, Japanese, Portuguese, Russian, Arabic — plus dozens of regional languages."
 
-      - "Our language selection is carefully curated based on market demand and the availability of high-quality translation models. We prioritise languages with significant online presence and growing economies to maximise your reach and impact. If you require a language that isn't currently supported, please don't hesitate to contact our support team. We're always looking to expand our language offerings based on user needs."
-
-  - q: "How accurate is the automatic translation?"
+  - q: "How accurate is AI content translation?"
     a:
-      - "Bazam uses cutting-edge, AI-powered translation models that are constantly being refined, delivering highly accurate translations across a wide range of languages. These models are trained on vast datasets of text and linguistic information, allowing them to understand context, nuance, and even idiomatic expressions. This leads to translations that are exceptionally good for marketing and creative content."
+      - "Bazam's translation models are trained on vast datasets of marketing and creative content, delivering translations that capture context, nuance, and idiomatic expressions. You can always edit the translation before publishing to ensure it's exactly right."
 
-      - "While our AI delivers outstanding results, we also empower you to refine the output to ensure it perfectly reflects your brand. That's why Bazam allows you to easily edit and polish the translated content before publishing, guaranteeing it resonates with your target audience."
-
-  - q: "Can I edit the translated content before publishing?"
+  - q: "Can AI preserve my brand voice when translating?"
     a:
-      - "Absolutely! Bazam puts you in control of the final content that goes live. Our platform provides a seamless and intuitive editing environment, allowing you to effortlessly review and modify any automatically translated content. We understand that maintaining brand consistency and ensuring accuracy are crucial, and we've built the platform to support you."
+      - "Yes. Bazam's translation models analyse your original content's tone, style, and sentence structure, then replicate these in the translated version. The result is content that sounds like your brand in every language — not a flat, literal translation."
 
-      - "The editing interface allows you to make direct changes to the translated text within Bazam. You can adjust wording, refine sentence structure, and ensure that the content aligns perfectly with your brand voice and style guidelines. Our platform even supports collaborative editing, enabling your team to work together to perfect the translations."
-
-  - q: "Does Bazam preserve my brand's tone and voice during translation?"
+  - q: "What is multilingual content marketing?"
     a:
-      - "Yes, Bazam is designed to maintain your brand's unique tone and voice as closely as possible during the translation process. We understand that consistent messaging is crucial for building brand recognition and trust, and we've integrated advanced AI technologies to help achieve this across different languages. Our AI models are trained to recognise stylistic elements and nuances in your original content and replicate them in the translated versions."
+      - "Multilingual content marketing means creating and distributing marketing content in multiple languages to reach international audiences. Instead of hiring translators for each market, Bazam lets you create content once and translate it instantly."
 
-      - "Our system analyses the language you use, identifying elements such as sentence structure and word choice. It then uses this information to guide the translation, ensuring that the translated content reflects your brand's personality. While our AI achieves impressive results, you always have the final say and can fine-tune the translated content to your exact requirements."
-
-  - q: "Is there an extra cost for using the automatic translation feature?"
+  - q: "How do I reach international customers with content marketing?"
     a:
-      - "The automatic translation feature within Bazam is included as part of our subscription plans, with availability depending on the specific plan you choose. Our Starter plan offers a translation allowance to let you experience the feature. The Pro plan unlocks a significant increase in translation volume, ideal for businesses targeting a few key international markets."
+      - "Create your content in your preferred language, then use Bazam's one-click translation to produce versions in every language your customers speak. Each translation is automatically adapted for the target audience while maintaining your brand voice."
 
-      - "For full details of the features included in each plan, including translation capabilities and allowances, please visit our pricing page. We aim to be transparent with our pricing, allowing you to select the plan that best suits your needs. Enterprise clients may also be eligible for custom plans with tailored translation allowances."
+  - q: "Does content translation cost extra with Bazam?"
+    a:
+      - "Translation is included in all Bazam subscription plans. Each plan includes a generous translation allowance. See our pricing page for details."
+
+  - q: "Can I edit translated content before publishing?"
+    a:
+      - "Yes. Every translation is fully editable within Bazam. Review, refine, and publish when you're satisfied. Your team can collaborate on translations before anything goes live."
+
+  - q: "Is AI translation good enough for marketing content?"
+    a:
+      - "Modern AI translation models produce marketing-quality translations that capture tone, intent, and cultural context — far beyond word-for-word translation. For most businesses, AI translation delivers results comparable to professional translators, at a fraction of the cost and time."
+
+  - q: "How do I create SEO content in multiple languages?"
+    a:
+      - "Create your content in your primary language with SEO best practices, then translate it with Bazam. The translation preserves your keyword intent and content structure while adapting naturally to the target language."
 ---

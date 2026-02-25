@@ -22,7 +22,7 @@ features:
   footer:
     - "You don't need to hire a marketing team. You need one that already exists."
 
-- title: "One Afternoon a Month. Fully Loaded Content Calendar."
+- title: "Half an Hour a Month. Fully Loaded Content Calendar."
   image: "/images/feature-office-2.jpg"
   image_alt: "A content calendar filled with scheduled posts across multiple channels."
   description:
@@ -98,24 +98,44 @@ featureList:
   description: "Bazam gives growing businesses the power of a full marketing department — at a fraction of the cost."
 
 faq:
-  - q: "I don't have a content strategy. Can Bazam help?"
+  - q: "How can a small business do content marketing without a marketing team?"
     a:
-      - "Yes. Bazam includes tools to define your brand voice, build audience personas, and set campaign goals. The agent then creates content that aligns with this strategy, so you're not just publishing random posts."
-      - "You don't need marketing expertise — the platform guides you through setting up the foundations."
+      - "Bazam's AI agent handles the work a marketing team would do — creating content, scheduling across platforms, tracking performance, and suggesting strategy. You review and approve; the agent handles everything else."
+      - "Most business owners spend half an hour a month on marketing with Bazam. No marketing experience required."
 
-  - q: "How is this different from ChatGPT or other AI writing tools?"
+  - q: "What is the best AI marketing tool for small businesses?"
     a:
-      - "ChatGPT is a general-purpose tool. Bazam is a purpose-built marketing platform with an agent that knows your brand, audience, and goals persistently. It also schedules, publishes, and tracks analytics — things a general AI tool can't do."
+      - "The best tool for small businesses combines content creation, scheduling, publishing, and analytics in one place — without requiring marketing expertise. Bazam does all of this through a conversational AI agent that learns your brand."
 
-  - q: "Can I use this for multiple products or brands?"
+  - q: "How is Bazam different from ChatGPT for business marketing?"
     a:
-      - "Yes. Bazam supports multiple projects within a single account, each with their own brand voice, audiences, knowledge base, and content calendar."
+      - "ChatGPT is a general chatbot. It knows nothing about your brand, forgets everything between sessions, and can't schedule, publish, or track performance. Bazam is a complete marketing platform with an agent that remembers your brand voice, audience, and goals permanently."
 
-  - q: "Will the content actually sound like my brand?"
+  - q: "Do I need marketing experience to use AI for my business?"
     a:
-      - "Yes. You define your brand voice through configurable tone settings and custom guidelines. The agent uses these every time it creates content. The more context you give it — knowledge base, past campaigns, audience personas — the better it gets."
+      - "No. Bazam guides you through setting up your brand voice and audience personas. From there, you just tell the agent what you need — 'Write a month of social posts about our services' — and it handles the rest."
 
-  - q: "How much does it cost compared to an agency or freelancer?"
+  - q: "How much time does AI content marketing take each month?"
     a:
-      - "Significantly less. An agency retainer or full-time hire costs thousands per month. Bazam gives you consistent, on-brand content creation, scheduling, publishing, and analytics for a fraction of that. Check our pricing page for details."
+      - "Most business owners spend half an hour per month planning and approving content. The agent creates it, schedules it across platforms, and publishes automatically. Beyond that, jump in any time for quick requests — a product announcement, event promotion, or timely post."
+
+  - q: "What types of marketing content can AI create for my business?"
+    a:
+      - "Blog posts, social media campaigns, press releases, email newsletters, ad copy, product descriptions, and more. Each piece is tailored to your brand voice and target audience."
+
+  - q: "Will AI-generated content sound like my brand?"
+    a:
+      - "Yes. You define your brand voice through tone settings and custom guidelines. The agent uses these every time it creates content. Add documents and product info to your knowledge base and the output gets even more specific."
+
+  - q: "How much does AI marketing cost compared to an agency?"
+    a:
+      - "An agency retainer runs £2,000–10,000+ per month. A freelance writer charges £200–500 per blog post. A full-time hire costs £30,000–60,000+ per year. Bazam gives you all of that capability for a fraction of the cost."
+
+  - q: "How do I measure the ROI of content marketing?"
+    a:
+      - "Bazam tracks engagement, reach, clicks, and follower growth across every connected channel. Ask the agent 'How did this month's content perform?' and get a plain-English summary. Over time, you'll see which topics and platforms drive the best results."
+
+  - q: "How do I create a content strategy for my small business?"
+    a:
+      - "Start by defining your audience and brand voice in Bazam. The agent can then suggest content topics, campaign angles, and posting schedules based on your industry and goals. You don't need to be a strategist — the agent handles the planning."
 ---

@@ -56,23 +56,39 @@ topFeatures:
       target: /features/suggestions/
 
 faq:
-  - q: "Will the content sound like me, or like generic AI?"
+  - q: "What is the best AI content creation tool for influencers?"
     a:
-      - "Like you. Bazam includes tools to define your personal voice — tone, style, formality, and custom guidelines. The agent uses these every time. You always review before publishing."
+      - "The best tool for influencers learns your voice, adapts content across platforms, and handles scheduling and publishing. Bazam does all three — you create one piece of content and the agent adapts it for every platform's format and audience."
 
-  - q: "Can I repurpose content across platforms?"
+  - q: "How do content creators manage multiple social media platforms?"
     a:
-      - "Yes — this is one of Bazam's biggest strengths. Share one piece of content and the agent adapts it for each platform's format, length, and audience expectations."
+      - "Most creators either burn out trying to create unique content for each platform, or post on one and ignore the rest. Bazam's agent takes one piece of content and adapts it for every platform — matching format, length, and tone automatically."
 
-  - q: "How much time will this save me?"
+  - q: "Can AI help influencers grow their audience?"
     a:
-      - "Most creators report creating a full week's content across all platforms in under 20 minutes. The agent handles drafting, formatting, and scheduling — you just review and approve."
+      - "AI handles the parts that slow you down — drafting, repurposing, scheduling, cross-posting. When you publish consistently across every platform without burning out, audience growth follows. Bazam also suggests content ideas based on your niche and what's resonating."
 
-  - q: "Does it publish directly to my social accounts?"
+  - q: "How do I save time creating content as an influencer?"
     a:
-      - "Yes. Bazam integrates directly with Instagram, LinkedIn, X, Facebook, YouTube, TikTok, and WordPress."
+      - "Batch your content. Ask the agent to create a month's worth of posts in one sitting. It drafts everything in your voice, adapted for each platform. You review, approve, and queue. The rest is automated."
 
-  - q: "Can I try it for free?"
+  - q: "Will AI-generated content still sound like me?"
     a:
-      - "Yes — we offer free trial credits when you sign up. Create some real content and see if Bazam is the right fit before committing."
+      - "Yes. Bazam includes detailed voice settings — tone, style, formality, and custom guidelines. The agent applies these to everything it creates. Your audience can't tell the difference because the voice is genuinely yours."
+
+  - q: "How do influencers plan a content calendar?"
+    a:
+      - "Tell the agent your themes, upcoming events, or campaign goals for the month. It generates a full content calendar with posts scheduled across all your platforms. You review, adjust, and approve — your month is sorted."
+
+  - q: "Can I use AI for brand deal and sponsored content?"
+    a:
+      - "Yes. Add the brand's guidelines and key messages to your knowledge base. The agent creates sponsored content that satisfies the brief while still sounding authentically like you."
+
+  - q: "How do I repurpose content across social media platforms?"
+    a:
+      - "Ask the agent to take one piece of content and adapt it for each platform. A YouTube script becomes an Instagram reel caption, a Twitter thread, and a LinkedIn post — each matching the platform's expectations."
+
+  - q: "What platforms does Bazam publish to for creators?"
+    a:
+      - "Instagram (posts, stories, reels), LinkedIn, X/Twitter, Facebook, YouTube, TikTok, and WordPress. Schedule and publish everything from one place."
 ---

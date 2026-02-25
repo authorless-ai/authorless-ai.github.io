@@ -56,24 +56,39 @@ topFeatures:
       target: /features/suggestions/
 
 faq:
-  - q: "Will the content actually sound like me?"
+  - q: "Can AI create thought leadership content?"
     a:
-      - "Yes. Bazam includes tools to define your voice — tone, formality, style, and custom guidelines. The agent uses these every time it creates content. It won't sound like generic AI; it'll sound like you on a good writing day."
-      - "You always review and approve before publishing, so nothing goes out that doesn't meet your standards."
+      - "AI handles the production — drafting, formatting, scheduling — while you supply the expertise and perspective. The result is consistent publishing without spending hours writing. Bazam's voice settings ensure everything sounds like you, not a bot."
 
-  - q: "How much time can I realistically save?"
+  - q: "How do I build thought leadership on LinkedIn?"
     a:
-      - "Most thought leaders report creating a week's worth of content in under 15 minutes with Bazam, compared to several hours of writing and editing. The agent handles the first draft — you just refine and approve."
+      - "Consistency and depth. Publishing regularly keeps you visible. Mixing long-form articles with shorter commentary shows range. Bazam creates and schedules LinkedIn-specific content in your voice — you batch a month's worth in one sitting."
 
-  - q: "I'm not very tech-savvy. Is this complicated?"
+  - q: "How do I stay consistent on social media as a busy professional?"
     a:
-      - "Not at all. Bazam is designed to be intuitive. You chat with the agent in plain language — 'Write a LinkedIn post about why X matters' — and it does the rest. No complex setup or technical knowledge required."
+      - "Batch your content. With Bazam, you create a full month of posts in one session. The agent drafts everything based on your topics and voice. You review, approve, and queue. Your audience sees daily insights; you spent 15 minutes."
 
-  - q: "Does it publish directly to LinkedIn?"
+  - q: "What is the best content strategy for thought leaders?"
     a:
-      - "Yes. Bazam integrates directly with LinkedIn, WordPress, Facebook, Instagram, X, and more. You can schedule and publish from a single dashboard."
+      - "Share your genuine expertise regularly across LinkedIn, your blog, and social channels. Focus on insights only you can offer — not generic advice. Bazam handles the production so you can focus on having the ideas worth sharing."
 
-  - q: "Can I try it before committing?"
+  - q: "Will AI-generated content sound authentic to my voice?"
     a:
-      - "Yes — we offer free trial credits when you sign up. Create some real content, see how it sounds, and decide if it works for you."
+      - "Yes. Bazam includes detailed voice configuration — tone, formality, style, and custom guidelines. The agent applies these to everything it creates. You always review before publishing, so nothing goes out that isn't you."
+
+  - q: "How do I automate my LinkedIn content?"
+    a:
+      - "Define your topics and voice in Bazam, then ask the agent to create and schedule LinkedIn posts, articles, and commentary. It produces a steady stream of content tailored to LinkedIn's professional audience. You review and approve."
+
+  - q: "How do I repurpose content across platforms?"
+    a:
+      - "Ask the agent to take one piece of content and adapt it for each platform. A blog post becomes a LinkedIn article, a Twitter thread, an Instagram carousel, and a short video script — all matching each platform's format and audience."
+
+  - q: "How do personal branding experts create content at scale?"
+    a:
+      - "They use systems that maintain their voice while handling production. Bazam's agent learns your brand voice, expertise areas, and audience — then creates content that builds your authority across every platform without you writing every word."
+
+  - q: "How do I build authority online without spending all day on social media?"
+    a:
+      - "Use Bazam to batch-create content monthly. The agent drafts everything from your topics and voice settings. Schedule it across platforms and your audience sees you consistently — while you spend your time on client work, speaking, and developing your expertise."
 ---

@@ -73,27 +73,43 @@ topFeatures:
       target: /features/translation/
 
 faq:
-  - q: "Can I create content for dozens of products at once?"
+  - q: "How can AI help with dropshipping product descriptions?"
     a:
-      - "Yes. Bazam is designed for high-volume content creation. You can input product information and generate unique, targeted content for each one in bulk."
+      - "Dropshipping demands unique content for dozens or hundreds of products. Bazam's agent creates individually tailored descriptions based on each product's features, your brand voice, and your target audience — no templates, no copy-paste."
 
-  - q: "Will the content be unique for each product?"
+  - q: "How do I write product descriptions that convert?"
     a:
-      - "Yes. The agent creates individually tailored content for each product based on its features, your brand voice, and your target audience. No copy-paste templates."
+      - "Conversion comes from speaking to your customer's motivations. Define your audience personas in Bazam — their pain points, desires, and buying triggers — and the agent creates descriptions that address what matters to them, not just list features."
 
-  - q: "I'm not a marketing expert. Can Bazam help me target the right audience?"
+  - q: "Can I create content for hundreds of products at once?"
     a:
-      - "Absolutely. Bazam includes tools to define your customer personas — demographics, motivations, and buying triggers. The agent uses these to create content that resonates with the right people."
+      - "Yes. Bazam is built for high-volume content creation. Input your product information and generate unique, targeted descriptions, social posts, and ad copy for each product in bulk — minutes, not weeks."
 
-  - q: "Can I publish to social media directly?"
+  - q: "How do I scale content when I add new products weekly?"
     a:
-      - "Yes. Bazam integrates with Facebook, Instagram, LinkedIn, X, and more. You can schedule and publish directly from the platform."
+      - "Add product information to your knowledge base and ask the agent to generate content in bulk. Whether it's 5 new products or 50, you get unique descriptions, social posts, and ad copy for each one immediately."
 
-  - q: "Does Bazam support multiple languages?"
+  - q: "What is the best AI tool for ecommerce content?"
     a:
-      - "Yes. Create content in your language and translate it automatically to reach customers in any market."
+      - "The best tool creates product-specific content at scale while maintaining your brand voice and targeting your audience. Bazam's agent does this through conversation — tell it what you need and it produces unique, conversion-focused content for every product."
 
-  - q: "Can I try it before committing?"
+  - q: "How do I target the right audience for my dropshipping products?"
     a:
-      - "Yes — we offer free trial credits when you sign up. Test the bulk content creation features and see the quality for yourself."
+      - "Bazam includes tools to define customer personas — demographics, motivations, and buying triggers. The agent uses these to create content that speaks directly to your ideal customer, not a generic audience."
+
+  - q: "Can I A/B test different product descriptions?"
+    a:
+      - "Yes. Ask the agent to generate multiple versions of the same product description — different angles, tones, or audience targets. Test them across your channels and see what drives the most conversions."
+
+  - q: "Does Bazam support multi-language ecommerce content?"
+    a:
+      - "Yes. Create product content in your language and translate it into 50+ languages to reach customers in any market. Each translation maintains your brand voice and product specifics."
+
+  - q: "Is AI or a copywriter better for ecommerce product content?"
+    a:
+      - "At scale, AI wins. A copywriter can produce 5-10 unique descriptions per day. Bazam's agent can produce 50+ in a single session — each tailored to the product and audience. For a dropshipping business adding products weekly, the maths speaks for itself."
+
+  - q: "How do I create social media content for my dropshipping products?"
+    a:
+      - "Ask the agent to create social posts for any product or collection. It generates platform-specific content — Instagram captions, Facebook ads, TikTok scripts — targeted at your audience personas. Schedule and publish directly from Bazam."
 ---
