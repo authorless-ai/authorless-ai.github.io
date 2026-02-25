@@ -70,13 +70,9 @@ title: Contacto
           type="hidden"
           name="captcha"
           class="g-recaptcha"
-          required_score="None"
           data-sitekey="{{< recaptcha >}}"
           id="id_captcha"
-          data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"
-          data-callback="onSubmit_3c5279bae0cc4e128c57556e80fab646"
           data-size="normal"
-          style=""
         />
       </p>
 
@@ -139,9 +135,7 @@ title: Contacto
       console.log(
         "reCAPTCHA validated. Submitting form..."
       );
-      const element = document.querySelector(
-        '.g-recaptcha[data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"]'
-      );
+      const element = document.getElementById('id_captcha');
       element.value = token;
 
       var form = element.form;
@@ -192,9 +186,7 @@ title: Contacto
 
   document.addEventListener('DOMContentLoaded', function() {
     grecaptcha.ready(function () {
-      const element = document.querySelector(
-        '.g-recaptcha[data-widget-uuid="3c5279bae0cc4e128c57556e80fab646"]'
-      );
+      const element = document.getElementById('id_captcha');
       element.form.addEventListener("submit", recaptchaFormSubmit);
     });
   });

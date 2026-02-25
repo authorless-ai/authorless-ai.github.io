@@ -12,7 +12,7 @@ theme: 'my-saas'
 params:
   author: Bazam
   appUrl: https://app.bazam.ai
-  recaptchaPublicKey: 6Lf5CQ0qAAAAAHhXYC7rLEnkTZLIGpeP8nnYsVzq
+  recaptchaPublicKey: 6LenXWAsAAAAAIkP88QQKb2IKeKbhRgTh7XfDR7L
   privacyPolicy: https://app.bazam.ai/pages/legals/privacy-policy/
   termsUrl: https://app.bazam.ai/pages/legals/terms/
   mailingListSubscribe: https://app.bazam.ai/feedback/subscribe
