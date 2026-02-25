@@ -128,14 +128,14 @@ features:
   image: "/images/campaign-options.png"
   image_alt: "An AI agent handling content creation, scheduling, publishing, analytics, and strategy in one conversation."
   description:
-    - "Every day, your team copies content into a scheduling tool, checks stats in a dashboard, opens a separate app to publish, and searches 'content ideas for…'. Bazam handles all of it in one place — through conversation."
+    - "Every day, your team copies content into a scheduling tool, checks stats across multiple dashboards, opens a separate app to publish, and searches 'content ideas for…'. Bazam handles all of it in one place."
   points:
     - title: "Stop copy-pasting into your scheduler"
       description: "Create content and schedule it in the same conversation. No exporting, no reformatting, no switching tabs."
     - title: "Stop logging into every platform to publish"
       description: "Bazam publishes directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok. One click, every channel."
     - title: "Stop scraping stats from five dashboards"
-      description: "Ask the agent 'how did this week perform?' and get a plain-English summary across every connected channel."
+      description: "One centralised analytics dashboard for every connected channel. Engagement, reach, growth — all in one view, or ask the agent for a summary."
     - title: "Stop searching for content ideas"
       description: "The agent suggests topics based on your brand, audience, and what's already working — not generic keyword lists."
   footer:
@@ -152,13 +152,13 @@ features:
     - title: "Scheduling Tool — £99–249/month"
       description: "Hootsuite, Buffer, Later — they schedule posts, but can't create them. Another login, another subscription."
     - title: "Analytics Dashboard — £249–499/month per seat"
-      description: "Sprout Social, Iconosquare, Metricool — just to see how your content performed. Bazam pulls the same data in a single conversation."
+      description: "Sprout Social, Iconosquare, Metricool — just to see how your content performed. Bazam has a built-in analytics dashboard across every channel."
     - title: "Strategy & SEO Tool — £110–400/month"
       description: "SEMrush, Ahrefs, Moz — expensive tools that most teams barely scratch the surface of. Bazam has strategy built in."
     - title: "Publishing Platform — hours/week"
       description: "Logging into six platforms individually. Copy-pasting, reformatting, uploading. Time you'll never get back."
   footer:
-    - "That's £500–1,200+/month in subscriptions — before anyone's created a single post. Bazam starts at a fraction of that."
+    - "That's £500–1,200+/month in subscriptions — before anyone's created a single post. Bazam starts at a fraction of that. <a href='/pricing/' class='text-primary-600 hover:underline font-semibold'>Explore plans →</a>"
 
 - title: "The Future of Marketing Is Already Here"
   image: "/images/persona.png"

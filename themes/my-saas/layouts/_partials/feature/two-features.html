@@ -77,7 +77,7 @@
                 {{ end }}
                 {{ with $feature.footer }}
                 {{ range . }}
-                <p class="mb-8 font-normal lg:text-xl">{{ . }}</p>
+                <p class="mb-8 font-normal lg:text-xl">{{ . | safeHTML }}</p>
                 {{ end }}
                 {{ end }}
                 {{ if $isEven }}
