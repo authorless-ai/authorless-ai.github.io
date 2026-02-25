@@ -108,41 +108,58 @@ featureCards:
     icon: folder
 
 features:
-- title: "El problema: 'más contenido' no está funcionando"
+- title: "Cinco Herramientas de Marketing Que No Volverás a Abrir"
   image: "/images/campaign-options.png"
-  image_alt: "Opciones de contenido genéricas y robóticas que se ignoran."
+  image_alt: "Un agente de IA gestionando creación de contenido, programación, publicación, analíticas y estrategia en un solo lugar."
   description:
-    - "Las fábricas de bazofia de IA operan con un mito simple y erróneo: que más contenido siempre es mejor. Producen un gran volumen de texto robótico que suena igual."
-    - "Pero tu audiencia puede detectar este contenido sin alma al instante. ¿El resultado? Lo ignoran. No logra generar confianza, no persuade y no hace crecer tu negocio."
+    - "Cada día, tu equipo copia contenido en una herramienta de programación, revisa estadísticas en múltiples paneles, abre otra app para publicar y busca 'ideas de contenido para…'. Bazam lo gestiona todo en un solo lugar."
   points:
-    - title: "Suena robótico y poco confiable"
-      description: "El contenido genérico carece de personalidad y autoridad, lo que hace que tu marca se sienta barata y poco fiable."
-    - title: "Es ignorado"
-      description: "En un mar de ruido, el contenido sin alma es invisible. No se gana la atención ni el tiempo de tu audiencia."
-    - title: "No consigue clientes"
-      description: "No puedes construir un negocio con contenido que nadie lee. Si no conecta, no puede persuadir."
-    - title: "Te hace perder el tiempo"
-      description: "Pasas horas tratando de editar borradores malos para convertirlos en algo utilizable, solo para que fracase de todos modos."
+    - title: "Deja de copiar y pegar en tu programador"
+      description: "Crea contenido y prográmalo en la misma conversación. Sin exportar, sin reformatear, sin cambiar de pestaña."
+    - title: "Deja de entrar en cada plataforma para publicar"
+      description: "Bazam publica directamente en WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok. Un clic, todos los canales."
+    - title: "Deja de rascar datos de cinco paneles"
+      description: "Un panel de analíticas centralizado para todos tus canales. Engagement, alcance, crecimiento — todo en una vista, o pide al agente un resumen."
+    - title: "Deja de buscar ideas de contenido"
+      description: "El agente sugiere temas basándose en tu marca, audiencia y lo que ya funciona — no listas genéricas de palabras clave."
   footer:
-    - "No solo estás tratando de llenar un calendario. Estás tratando de construir un negocio."
+    - "Una sola plataforma. Cada tarea de marketing. Sin más saltar entre pestañas."
 
-- title: "Nuestro enfoque: calidad que conecta y persuade"
-  image: "/images/persona.png"
-  image_alt: "Personas de la audiencia que se utilizan para generar contenido de alta calidad y dirigido."
+- title: "Ahorra 500–1.200 €/Mes en Herramientas de Marketing Que Ya No Necesitas"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "Suscripciones a herramientas de marketing reemplazadas por una sola plataforma."
   description:
-    - "Bazam se basa en una filosofía completamente diferente. Creemos que la clave para un marketing eficaz no es el volumen, es la conexión humana genuina."
-    - "Comenzamos con la parte más importante de cualquier negocio: tu cliente. Al comprender quiénes son y qué les importa primero, nuestra plataforma te ayuda a crear contenido que es relevante, resonante y está listo para construir relaciones reales."
+    - "Esto es lo que cuestan esas cinco herramientas — y lo que estás a punto de dejar de pagar."
   points:
-    - title: "Se siente humano y genera confianza"
-      description: "Genera contenido que hable con una voz auténtica, estableciendo la credibilidad que necesitas para realizar una venta."
-    - title: "Se lee y se recuerda"
-      description: "Crea contenido verdaderamente valioso y perspicaz que atraviese el ruido y deje una impresión duradera."
-    - title: "Convierte a los lectores en clientes"
-      description: "Cuando los clientes se sienten comprendidos, confían en ti. Y esa confianza es lo que convierte el interés en acción."
-    - title: "Te ahorra esfuerzos desperdiciados"
-      description: "Obtén un borrador estratégicamente sólido desde el principio, para que puedas concentrarte en hacer crecer tu negocio, no en editar un robot."
+    - title: "Herramienta de Escritura IA — 39–69 €/mes"
+      description: "Jasper, Copy.ai, ChatGPT Plus — herramientas genéricas que no están diseñadas para marketing y no pueden publicar, programar ni medir nada."
+    - title: "Herramienta de Programación — 99–249 €/mes"
+      description: "Hootsuite, Buffer, Later — programan publicaciones, pero no las crean. Otro login, otra suscripción."
+    - title: "Panel de Analíticas — 249–499 €/mes por usuario"
+      description: "Sprout Social, Iconosquare, Metricool — solo para ver cómo rindió tu contenido. Bazam tiene un panel de analíticas integrado en todos los canales."
+    - title: "Herramienta de Estrategia y SEO — 110–400 €/mes"
+      description: "SEMrush, Ahrefs, Moz — herramientas caras que la mayoría apenas usa. Bazam tiene la estrategia integrada desde el primer día."
+    - title: "Plataforma de Publicación — horas/semana"
+      description: "Entrar en seis plataformas individualmente. Copiar y pegar, reformatear, subir. Tiempo que nunca recuperarás."
   footer:
-    - "No solo automatices palabras. Automatiza una estrategia que realmente funcione."
+    - "Eso son 500–1.200+ €/mes en suscripciones — antes de haber creado una sola publicación. Bazam empieza a una fracción de eso. <a href='/es/precios/' class='text-primary-600 hover:underline font-semibold'>Explorar planes →</a>"
+
+- title: "El Futuro del Marketing Ya Está Aquí"
+  image: "/images/persona.png"
+  image_alt: "Resultados de marketing acelerándose con un agente de IA."
+  description:
+    - "Los equipos pequeños están a punto de superar en marketing a empresas diez veces más grandes. Un agente de IA que conoce tu marca, crea tu contenido y gestiona tu publicación — eso no es un lujo. Es una ventaja injusta."
+  points:
+    - title: "Más Rápido"
+      description: "Un mes de contenido en una sola sesión. Ideas de campaña en segundos. Informes al instante. Sin esperar a nadie."
+    - title: "Más Inteligente"
+      description: "Cada pieza de contenido se basa en los datos de tu audiencia, tu posicionamiento de marca y lo que ya funciona. Sin más adivinanzas."
+    - title: "Más Barato"
+      description: "La producción de un equipo de marketing completo a una fracción del coste. Sin agencias, sin freelancers, sin nuevas contrataciones."
+    - title: "Siempre Activo"
+      description: "No se toma vacaciones, ni olvida un briefing, ni necesita incorporación. Tu marketing funciona estés en la oficina o no."
+  footer:
+    - "Tu competencia sigue contratando. Tú acabas de desplegar un departamento de marketing entero."
 
 topFeatures:
   title: "La diferencia es una conexión más profunda"
