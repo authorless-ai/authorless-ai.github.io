@@ -61,7 +61,7 @@ topFeatures:
       target: "/es/features/proyectos/"
     - title: "Un motor de IA para la conexión humana"
       description: "Ve más allá de las palabras clave para generar contenido que hable a las audiencias de tus clientes a un nivel verdaderamente humano."
-      target: "/es/features/estrategia-de-marketing/"
+      target: "/es/features/base-de-conocimiento/"
     - title: "Publicación estratégica automatizada"
       description: "Planifica e implementa contenido que construya una narrativa poderosa, cohesiva y efectiva para tus clientes a lo largo del tiempo."
       target: "/es/features/programacion/"

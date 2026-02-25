@@ -7,13 +7,13 @@ youtubeUrl: "4iu6ap8dJbU"
 introFeatures:
   - title: "Contenido que se siente personal"
     description: "Comienza con una comprensión profunda de tu cliente. Crea contenido que hable directamente de sus necesidades, haciéndolos sentir vistos y comprendidos."
-    url: "/es/features/estrategia-de-marketing/"
+    url: "/es/features/escritura-de-contenido/"
   - title: "Persuade, no solo publiques"
     description: "El contenido genérico informa. El contenido resonante convierte. Genera publicaciones y artículos creados para abordar las motivaciones centrales de los clientes, convirtiendo a los lectores en compradores."
     url: "/es/features/estrategia-de-marketing/"
   - title: "Atraviesa el ruido"
     description: "Deja de sonar como todos los demás. Desarrolla una voz consistente y memorable basada en lo que motiva a tu audiencia y conviértete en la autoridad de referencia en tu sector."
-    url: "/es/features/estrategia-de-marketing/"
+    url: "/es/features/agente/"
 
 carousel:
   title: "Un enfoque diferente: empieza con tu cliente"
@@ -167,13 +167,13 @@ topFeatures:
   list:
     - title: "Escritura impulsada por las emociones"
       description: "Crea contenido convincente basado en la psicología humana, no solo en palabras clave genéricas."
-      target: /es/features/estrategia-de-marketing/
+      target: /es/features/agente/
     - title: "Automatización estratégica"
       description: "Planifica y pone en cola sin esfuerzo contenido que construye la historia y la autoridad de tu marca a lo largo del tiempo."
       target: /es/features/programacion/
     - title: "Contenido que persuade"
       description: "Aprovecha los profundos conocimientos de la audiencia para crear contenido que no solo informa, sino que convence."
-      target: /es/features/estrategia-de-marketing/
+      target: /es/features/base-de-conocimiento/
 
 faq:
   - q: "¿Cómo hago marketing de contenidos si no tengo un equipo de marketing?"

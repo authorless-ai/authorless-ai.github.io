@@ -62,7 +62,7 @@ topFeatures:
   list:
     - title: "Instant Client Onboarding"
       description: "New hires chat with the agent to learn brand voice, audience, and campaign history. Productive from day one."
-      target: "/features/marketing-strategy/"
+      target: "/features/knowledge-base/"
     - title: "Multi-Client Management"
       description: "Each client gets isolated brand voice, audiences, knowledge base, and content calendar — all in one account."
       target: "/features/projects/"
@@ -80,7 +80,7 @@ featureCards:
     icon: edit
   - title: "Centralised Analytics"
     description: "Track every client's engagement, reach, and growth across all channels in one dashboard. No more spreadsheet wrangling."
-    url: "/features/marketing-strategy/"
+    url: "/features/agent/"
     icon: chart
   - title: "Knowledge Base"
     description: "Upload client docs, brand guidelines, and product info. The agent draws on all of it when creating content."

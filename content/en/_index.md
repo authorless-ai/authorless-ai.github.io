@@ -29,7 +29,7 @@ introFeatures:
     url: "/features/marketing-strategy/"
   - title: "Every Channel, One Dashboard"
     description: "Track engagement, reach, and growth across all your platforms in a single view. Ask the agent for a summary instead of logging into five tools."
-    url: "/features/marketing-strategy/"
+    url: "/features/agent/"
 
 carousel:
   title: "See It in Action"
@@ -100,7 +100,7 @@ featureCards:
 
   - title: "Analytics Dashboard"
     description: "Track engagement, reach, clicks, and follower growth across all channels in one centralised view. No more spreadsheet wrangling."
-    url: "/features/marketing-strategy/"
+    url: "/features/agent/"
     icon: chart
 
   - title: "Brand Voice & Strategy"
@@ -183,10 +183,10 @@ topFeatures:
   list:
     - title: "Autonomous AI Agent"
       description: "Create content, pull reports, brainstorm ideas, and manage campaigns — all through a single, intelligent conversation."
-      target: /features/content-writing/
+      target: /features/agent/
     - title: "Centralised Intelligence"
       description: "Brand voice, audience data, knowledge base, and campaign history — accessible to your whole team, instantly."
-      target: /features/marketing-strategy/
+      target: /features/knowledge-base/
     - title: "Scale Without Hiring"
       description: "Take on more work without proportionally growing your team. The agent handles the heavy lifting."
       target: /features/teams/

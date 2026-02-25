@@ -86,7 +86,7 @@ featureCards:
     icon: calendar
   - title: "Analytics Dashboard"
     description: "Track what's working across all your channels in one view. Make data-driven decisions about your content."
-    url: "/features/marketing-strategy/"
+    url: "/features/agent/"
     icon: chart
   - title: "Brand Voice & Strategy"
     description: "Define your voice, audience, and goals. The agent ensures every piece of content stays on-brand."
