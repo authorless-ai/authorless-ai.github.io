@@ -124,28 +124,47 @@ featureCards:
     icon: users
 
 features:
-- title: "What You Can Ask It"
+- title: "Five Marketing Tools You'll Never Open Again"
   image: "/images/campaign-options.png"
-  image_alt: "An AI agent responding to natural language requests about marketing."
+  image_alt: "An AI agent handling content creation, scheduling, publishing, analytics, and strategy in one conversation."
   description:
-    - "The Bazam agent works through conversation. Here's what a typical interaction looks like."
+    - "Every day, your team copies content into a scheduling tool, checks stats in a dashboard, opens a separate app to publish, and searches 'content ideas for…'. Bazam handles all of it in one place — through conversation."
   points:
-    - title: "'Write a LinkedIn campaign for our spring launch'"
-      description: "The agent creates a series of posts tailored to your audience, voice, and campaign goals — ready for review."
-    - title: "'How did last month's content perform?'"
-      description: "It pulls engagement, reach, and growth data across all your connected channels and summarises the highlights."
-    - title: "'Give me 10 blog ideas about sustainability for our B2B audience'"
-      description: "It draws on your brand positioning, audience personas, and knowledge base to suggest relevant, strategic topics."
-    - title: "'What's our brand voice for Client X?'"
-      description: "New team members get instant, accurate answers about any brand — voice, audience, campaign history — without asking a colleague."
+    - title: "Stop copy-pasting into your scheduler"
+      description: "Create content and schedule it in the same conversation. No exporting, no reformatting, no switching tabs."
+    - title: "Stop logging into every platform to publish"
+      description: "Bazam publishes directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok. One click, every channel."
+    - title: "Stop scraping stats from five dashboards"
+      description: "Ask the agent 'how did this week perform?' and get a plain-English summary across every connected channel."
+    - title: "Stop searching for content ideas"
+      description: "The agent suggests topics based on your brand, audience, and what's already working — not generic keyword lists."
   footer:
-    - "One conversation replaces five tools and a dozen browser tabs."
+    - "One conversation. Every marketing task. No more tab-hopping."
+
+- title: "Save £500–1,200/Month on Marketing Tools You No Longer Need"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "Marketing tool subscriptions being replaced by a single platform."
+  description:
+    - "Here's what those five tools actually cost — and what you're about to stop paying for."
+  points:
+    - title: "AI Writing Tool — £39–69/month"
+      description: "Jasper, Copy.ai, ChatGPT Plus — generic tools that aren't built for marketers and can't publish, schedule, or track a thing."
+    - title: "Scheduling Tool — £99–249/month"
+      description: "Hootsuite, Buffer, Later — they schedule posts, but can't create them. Another login, another subscription."
+    - title: "Analytics Dashboard — £249–499/month per seat"
+      description: "Sprout Social, Iconosquare, Metricool — just to see how your content performed. Bazam pulls the same data in a single conversation."
+    - title: "Strategy & SEO Tool — £110–400/month"
+      description: "SEMrush, Ahrefs, Moz — expensive tools that most teams barely scratch the surface of. Bazam has strategy built in."
+    - title: "Publishing Platform — hours/week"
+      description: "Logging into six platforms individually. Copy-pasting, reformatting, uploading. Time you'll never get back."
+  footer:
+    - "That's £500–1,200+/month in subscriptions — before anyone's created a single post. Bazam starts at a fraction of that."
 
 - title: "The Future of Marketing Is Already Here"
   image: "/images/persona.png"
   image_alt: "Marketing results accelerating with an AI agent."
   description:
-    - "While everyone else is juggling freelancers, agencies, and half a dozen tools — you're having a single conversation and getting it all done. Content, strategy, analytics, publishing. One agent. One conversation."
+    - "Small teams are about to out-market companies ten times their size. An AI agent that knows your brand, creates your content, and runs your publishing — that's not a nice-to-have. It's an unfair advantage."
   points:
     - title: "Faster"
       description: "A month of content in a single session. Campaign ideas in seconds. Reports pulled instantly. No more waiting on anyone."
