@@ -1,5 +1,5 @@
 ---
-title: Automate Content and Save Time
+title: A Month of Content in 30 Minutes
 heroDescription: Stop spending hours on content creation. Generate <b>70+ types of content</b> faster and publish consistently with Bazam
 
 features:
