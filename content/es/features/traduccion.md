@@ -37,24 +37,39 @@ cta:
   title: ¡Desbloquea nuevas fuentes de ingresos globales ahora!
   description: Deja de dejar las ventas internacionales sobre la mesa. Comienza a convertir a los visitantes globales en clientes de pago con la traducción de Bazam. ¡Pruébalo ahora y observa cómo crece tu negocio!
 faq:
-  - q: "¿Qué idiomas admite Bazam para la traducción automática?"
+  - q: "¿Cómo hago marketing en otros países si no hablo sus idiomas?"
     a:
-      - "Bazam se compromete a ayudarte a llegar a una audiencia global. Nuestra función de traducción automática admite actualmente una amplia gama de idiomas, superando las 50 opciones diferentes y creciendo constantemente. Estos incluyen idiomas muy hablados como español, francés, alemán, chino (tanto mandarín como cantonés), japonés, portugués, ruso y árabe, junto con muchos otros que cubren diversas regiones y antecedentes lingüísticos."
-      - "Nuestra selección de idiomas se selecciona cuidadosamente en función de la demanda del mercado y la disponibilidad de modelos de traducción de alta calidad. Priorizamos los idiomas con una presencia online significativa y economías en crecimiento para maximizar tu alcance e impacto. Si necesitas un idioma que no sea compatible actualmente, no dudes en ponerte en contacto con nuestro equipo de soporte. Siempre estamos buscando ampliar nuestra oferta de idiomas en función de las necesidades de los usuarios."
-  - q: "¿Qué tan precisa es la traducción automática?"
+      - "Crea contenido en tu idioma y Bazam lo traduce a más de 50 idiomas automáticamente. No necesitas traductores ni equipos locales. Tu mensaje llega a mercados internacionales manteniendo tu voz de marca."
+
+  - q: "¿Es la traducción con IA suficientemente buena para marketing?"
     a:
-      - "Bazam utiliza modelos de traducción de vanguardia impulsados por IA que se refinan constantemente, ofreciendo traducciones de alta precisión en una amplia gama de idiomas. Estos modelos se entrenan con vastos conjuntos de datos de texto e información lingüística, lo que les permite comprender el contexto, los matices e incluso las expresiones idiomáticas. Esto conduce a traducciones que son excepcionalmente buenas para el marketing y el contenido creativo."
-      - "Si bien nuestra IA ofrece resultados sobresalientes, también te damos el poder de refinar el resultado para asegurarte de que refleje perfectamente tu marca. Es por eso que Bazam te permite editar y pulir fácilmente el contenido traducido antes de publicarlo, garantizando que resuene con tu público objetivo."
-  - q: "¿Puedo editar el contenido traducido antes de publicarlo?"
+      - "Para la mayoría del contenido de marketing, sí. Los modelos de IA actuales manejan matices y tono con precisión. Siempre puedes editar la traducción antes de publicar, pero la mayoría de usuarios la usan directamente."
+
+  - q: "¿Cuántos idiomas soporta Bazam?"
     a:
-      - "¡Absolutamente! Bazam te pone en control del contenido final que se publica. Nuestra plataforma proporciona un entorno de edición intuitivo y sin problemas, que te permite revisar y modificar sin esfuerzo cualquier contenido traducido automáticamente. Entendemos que mantener la consistencia de la marca y garantizar la precisión son cruciales, y hemos creado la plataforma para apoyarte."
-      - "La interfaz de edición te permite realizar cambios directos en el texto traducido dentro de Bazam. Puedes ajustar la redacción, refinar la estructura de las oraciones y asegurarte de que el contenido se alinee perfectamente con la voz y las pautas de estilo de tu marca. Nuestra plataforma incluso admite la edición colaborativa, lo que permite a tu equipo trabajar en conjunto para perfeccionar las traducciones."
-  - q: "¿Bazam preserva el tono y la voz de mi marca durante la traducción?"
+      - "Más de 50, incluyendo español, francés, alemán, portugués, chino, japonés, árabe, coreano y muchos más. Consulta la lista completa en la plataforma."
+
+  - q: "¿La traducción mantiene mi tono de marca?"
     a:
-      - "Sí, Bazam está diseñado para mantener el tono y la voz únicos de tu marca lo más fielmente posible durante el proceso de traducción. Entendemos que la mensajería consistente es crucial para construir el reconocimiento y la confianza de la marca, y hemos integrado tecnologías avanzadas de IA para ayudar a lograr esto en diferentes idiomas. Nuestros modelos de IA están entrenados para reconocer elementos estilísticos y matices en tu contenido original y replicarlos en las versiones traducidas."
-      - "Nuestro sistema analiza el lenguaje que utilizas, identificando elementos como la estructura de las oraciones y la elección de palabras. Luego, utiliza esta información para guiar la traducción, asegurando que el contenido traducido refleje la personalidad de tu marca. Si bien nuestra IA logra resultados impresionantes, siempre tienes la última palabra y puedes ajustar el contenido traducido a tus requisitos exactos."
-  - q: "¿Hay un costo adicional por usar la función de traducción automática?"
+      - "Sí. La IA analiza el estilo y tono de tu contenido original y los replica en el idioma de destino. El resultado mantiene la personalidad de tu marca, no suena a diccionario automático."
+
+  - q: "¿Puedo editar las traducciones antes de publicar?"
     a:
-      - "La función de traducción automática dentro de Bazam se incluye como parte de nuestros planes de suscripción, y la disponibilidad depende del plan específico que elijas. Nuestro plan Starter ofrece una asignación de traducción para que puedas experimentar la función. El plan Pro desbloquea un aumento significativo en el volumen de traducción, ideal para empresas que se dirigen a algunos mercados internacionales clave."
-      - "Para obtener todos los detalles de las funciones incluidas en cada plan, incluidas las capacidades y asignaciones de traducción, visita nuestra página de precios. Nuestro objetivo es ser transparentes con nuestros precios, permitiéndote seleccionar el plan que mejor se adapte a tus necesidades. Los clientes empresariales también pueden ser elegibles para planes personalizados con asignaciones de traducción a medida."
+      - "Por supuesto. Revisa y modifica cualquier traducción directamente en el editor. Si tienes hablantes nativos en tu equipo, pueden pulir detalles antes de publicar."
+
+  - q: "¿Cuánto más barato es traducir con IA que con una agencia?"
+    a:
+      - "Mucho. Una agencia de traducción cobra por palabra y por idioma — traducir un blog a 5 idiomas puede costar cientos de euros. Con Bazam, la traducción está incluida en tu suscripción."
+
+  - q: "¿Cómo entro en un nuevo mercado internacional con mi contenido?"
+    a:
+      - "Crea tu contenido normalmente, tradúcelo a los idiomas que necesites y publícalo directamente en las plataformas locales. Bazam te permite probar mercados internacionales sin inversión adicional."
+
+  - q: "¿Puedo traducir contenido ya publicado?"
+    a:
+      - "Sí. Selecciona cualquier contenido existente y tradúcelo a nuevos idiomas. Ideal para expandir el alcance de contenido que ya funciona bien en tu mercado principal."
+
+  - q: "¿Necesito crear estrategias de contenido separadas para cada país?"
+    a:
+      - "No necesariamente. Empieza traduciendo tu mejor contenido y mide los resultados. Muchas empresas descubren que un contenido bien traducido funciona en múltiples mercados sin cambios significativos."
 ---

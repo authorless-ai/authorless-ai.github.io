@@ -159,33 +159,43 @@ topFeatures:
       target: /es/features/estrategia-de-marketing/
 
 faq:
-  - q: "¿Qué es exactamente una 'fábrica de bazofia de IA'?"
+  - q: "¿Cómo hago marketing de contenidos si no tengo un equipo de marketing?"
     a:
-      - "Es cualquier herramienta que se centra en producir una gran cantidad de texto genérico y de sonido robótico. El contenido suena como si hubiera sido escrito por una máquina porque lo fue, y generalmente se ignora."
-      - "Esta 'bazofia' rara vez funciona porque no tiene conocimiento de tu marca ni empatía por tu audiencia. Bazam es todo lo contrario. Nos centramos en la calidad y la conexión humana para crear contenido que realmente obtiene resultados."
+      - "Bazam reemplaza la necesidad de un equipo entero. Un agente de IA crea tu contenido, lo programa, lo publica y mide los resultados — todo desde una sola conversación. Tú lo diriges; él ejecuta."
 
-  - q: "¿Cómo puede esto darme mejores resultados que otras herramientas?"
+  - q: "¿Es el marketing de contenidos demasiado caro para una pyme?"
     a:
-      - "Porque nos centramos en una mejor estrategia. Las fábricas de bazofia te ayudan a hacer más ruido. Te ayudamos a crear una señal más fuerte que lo atraviese."
-      - "Cuando los clientes se sienten vistos y comprendidos por tu contenido, comienzan a confiar en ti. Esa confianza es la que conduce a las ventas y la lealtad a largo plazo. Es así de simple."
+      - "No con Bazam. Contratar redactores, agencias o un equipo interno cuesta miles al mes. Bazam te da contenido ilimitado — blogs, redes sociales, newsletters — por una suscripción mensual fija."
 
-  - q: "Paso mucho tiempo editando contenido de IA. ¿Esto realmente me ahorrará tiempo?"
+  - q: "¿Se nota que el contenido está hecho con IA?"
     a:
-      - "Sí, porque ataca el problema real. La parte más dolorosa de usar IA es tratar de arreglar borradores malos y robóticos. Bazam está diseñado para eliminar ese trabajo de bajo valor."
-      - "Debido a que nuestro contenido se basa en tu estrategia específica desde el principio, obtienes un gran borrador de inmediato. Esto te libera para que te concentres en las cosas que realmente hacen crecer tu negocio."
+      - "Si la IA no tiene contexto, sí. Por eso la mayoría del contenido de IA suena a robot. Bazam trabaja con tu voz de marca, tus productos, tu audiencia y una base de conocimiento propia, así que el contenido suena a ti, no a una máquina."
 
-  - q: "¿Cómo entiende Bazam las emociones de mi audiencia?"
+  - q: "¿Cómo mantengo la constancia publicando contenido?"
     a:
-      - "No adivina, tú lo guías. Proporcionamos un marco simple donde defines a tu cliente. Luego, puedes seleccionar de una lista de motivadores humanos centrales, como la necesidad de seguridad, el deseo de pertenencia o la búsqueda de estatus, para guiar a la IA."
-      - "Esto garantiza que la IA siempre trabaje hacia el objetivo correcto y te convierte en un estratega, no solo en un escritor de instrucciones."
+      - "Con un sistema que se encargue de todo. Crea el contenido del mes en una sola sesión, prográmalo y deja que Bazam lo publique automáticamente. La constancia viene de tener un sistema, no de fuerza de voluntad."
 
-  - q: "No soy un experto en marketing. ¿Es esto demasiado complicado para mí?"
+  - q: "¿Es una pérdida de tiempo hacer marketing de contenidos?"
     a:
-      - "Para nada. Hemos tomado los principios del gran marketing y los hemos hecho increíblemente fáciles de usar. No necesitas conocer teorías complejas."
-      - "Si sabes un poco sobre quién es tu cliente, nuestra plataforma te ayudará a convertir esa información en contenido eficaz. Está diseñada para convertirte en un mejor comercializador, sin importar tu experiencia."
+      - "Solo si lo haces sin estrategia. Publicar al azar no funciona. Cuando cada pieza de contenido tiene un propósito — atraer atención, educar o generar ventas — el contenido se convierte en tu mejor vendedor, funcionando las 24 horas."
 
-  - q: "¿Dónde puedo publicar mi contenido con Bazam?"
+  - q: "No sé nada de marketing. ¿Puedo usar esto?"
     a:
-      - "Bazam ofrece publicación y programación directa en tu blog de WordPress y en todas las principales plataformas sociales, incluidas Facebook, Instagram, Twitter y LinkedIn."
-      - "Esto te ayuda a ampliar tu alcance sin tener que hacer malabarismos con múltiples herramientas. Comienza hoy mismo con tus créditos gratuitos."
+      - "Sí. Bazam se diseñó para dueños de negocio, no para expertos en marketing. La estrategia está integrada en la plataforma. Cuéntale al agente sobre tu negocio y audiencia, y él se encarga del enfoque estratégico automáticamente."
+
+  - q: "¿Cuántos tipos de contenido puede crear Bazam?"
+    a:
+      - "Más de 70 — blogs, posts para redes sociales, newsletters, comunicados de prensa, descripciones de producto, textos para anuncios y mucho más. Todo adaptado a la voz de tu marca y optimizado para cada plataforma."
+
+  - q: "¿Cómo funciona la publicación desde Bazam?"
+    a:
+      - "Bazam se conecta directamente con WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok. Programa y publica desde un solo panel. Sin copiar y pegar, sin iniciar sesión en cinco apps distintas."
+
+  - q: "¿Puedo lanzar mi marketing en otros idiomas?"
+    a:
+      - "Sí. Crea contenido en tu idioma y tradúcelo a más de 50 idiomas con un clic. La traducción mantiene tu voz de marca, así que entras en nuevos mercados sin empezar de cero."
+
+  - q: "¿Cómo empiezo con Bazam?"
+    a:
+      - "Regístrate gratis, define tu marca y audiencia, y empieza a crear contenido. Sin contratos, sin compromisos. Pruébalo con créditos gratuitos y comprueba la diferencia tú mismo."
 ---

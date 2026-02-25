@@ -1,5 +1,5 @@
 ---
-title: Automatiza el contenido y ahorra tiempo
+title: Un mes de contenido en 30 minutos
 heroDescription: Deja de pasar horas en la creación de contenido. Genera <b>más de 70 tipos de contenido</b> más rápido y publica de forma consistente con Bazam
 
 features:
@@ -39,36 +39,35 @@ cta:
   description: ¿Listo para transformar tu flujo de trabajo y mantener un cronograma de contenido constante? ¡Prueba Bazam ahora y experimenta el poder de ahorro de tiempo de la creación de contenido automatizada!
 
 faq:
-  - q: "¿Cuánto tiempo puedo ahorrar de manera realista usando Bazam para mi creación de contenido?"
+  - q: "¿Cómo escribo contenido de marketing si no soy redactor?"
     a:
-      - "Los usuarios de Bazam suelen informar que ahorran varias horas cada semana, lo que les libera un tiempo valioso para centrarse en otras actividades comerciales importantes. Al automatizar gran parte del proceso de creación de contenido, desde la lluvia de ideas hasta el borrador inicial, Bazam te libera para que te concentres en otras tareas."
-      - "El tiempo exacto que se ahorra dependerá de factores como el volumen y la complejidad del contenido que produzcas, pero Bazam está diseñado para optimizar tu flujo de trabajo, independientemente de tus necesidades específicas. Te sorprenderá todo lo que puedes lograr cuando no estás atascado en la creación manual de contenido."
-  - q: "¿Cómo me ayuda Bazam a publicar de forma consistente, incluso cuando estoy ocupado?"
+      - "Tú no lo escribes — lo hace el agente de IA. Dile a Bazam qué necesitas en lenguaje sencillo y él crea blogs, posts para redes sociales y textos de marketing con tu voz de marca. Tú revisas y apruebas. No necesitas saber escribir."
+
+  - q: "¿El contenido hecho con IA dañará mi marca?"
     a:
-      - "Bazam facilita la publicación constante al proporcionar un calendario de contenido y un sistema de programación. Esto te permite planificar tu contenido con antelación y visualizar tu cronograma de publicación, asegurando que nunca te pierdas una fecha límite, incluso cuando estás haciendo malabarismos con múltiples prioridades."
-      - "También puedes usar Bazam para generar contenido en lotes, programándolo en varias plataformas. Este enfoque automatizado garantiza una presencia online constante, incluso cuando estás más ocupado."
-  - q: "¿Puedo seguir manteniendo un alto nivel de calidad mientras genero contenido rápidamente con Bazam, o sonará 'robótico'?"
+      - "Solo si la IA no tiene contexto. El contenido genérico de IA suena genérico. El agente de Bazam trabaja con tu voz de marca, tus personas de audiencia y tu base de conocimiento — así que el resultado es específico, informado y suena como tu mejor redactor. Siempre revisas antes de publicar."
+
+  - q: "¿Cómo creo un mes entero de contenido rápidamente?"
     a:
-      - "Bazam está diseñado para ayudarte a generar contenido de alta calidad que refleje la voz única de tu marca. La IA proporciona un punto de partida sólido, produciendo contenido bien estructurado, informativo y atractivo, lo que te ahorra un tiempo significativo en el proceso de redacción inicial."
-      - "Mantienes el control total sobre el resultado final y puedes revisar, editar y refinar fácilmente el contenido para asegurarte de que se alinee perfectamente con las directrices de tu marca y cumpla con tus estándares de calidad. Piensa en Bazam como tu asistente de creación de contenido, que te proporciona una base sólida mientras te permite añadir tu toque personal."
-  - q: "¿Qué pasa si me quedo sin ideas de contenido o tengo dificultades para encontrar temas atractivos con Bazam? ¿Solo genera lo mismo de siempre?"
+      - "Pídele al agente. Una sola sesión crea blogs y publicaciones sociales para todo el mes. Revisas, apruebas y programas. La mayoría de los equipos pasan de calendario vacío a completamente programado en menos de 30 minutos."
+
+  - q: "¿Qué tipos de contenido de marketing puede escribir la IA?"
     a:
-      - "Bazam incluye potentes herramientas de sugerencia de contenido para ayudarte a descubrir temas nuevos y relevantes adaptados a tu industria, público objetivo y objetivos comerciales específicos. Nunca más tendrás que preocuparte por el bloqueo del escritor."
-      - "La IA analiza las tendencias de la industria, el contenido de la competencia y los datos de los motores de búsqueda para identificar oportunidades perdidas y ayudarte a generar nuevas ideas. Esto garantiza que siempre estés creando contenido que resuene con tu audiencia y genere resultados."
-  - q: "¿Puedo probar Bazam antes de comprometerme con una suscripción?"
+      - "Blogs, posts para redes sociales, comunicados de prensa, textos publicitarios, descripciones de producto, newsletters y más. Cada pieza se adapta a tu voz de marca y audiencia — nada genérico ni de plantilla."
+
+  - q: "¿Es el contenido de IA tan bueno como el de un redactor profesional?"
     a:
-      - "¡Sí! Queremos que experimentes por ti mismo el poder de ahorro de tiempo y generación de contenido de Bazam. Es por eso que ofrecemos créditos gratuitos cuando te registras, dándote la oportunidad de probar la plataforma y ver cómo puede transformar tu marketing de contenidos."
-      - "Estos créditos te permiten generar contenido real, explorar las funciones de la plataforma y tener una idea de cómo Bazam puede optimizar tu flujo de trabajo. ¡Simplemente regístrate en nuestro sitio web para reclamar tus créditos gratuitos y comenzar a crear!"
-  - q: "¿Bazam admite diferentes formatos de contenido o es solo para publicaciones de blog?"
+      - "Cuando la IA tiene contexto completo — tu voz de marca, audiencia y conocimiento de producto — el resultado es comparable al de un profesional. Y produce en minutos lo que un redactor tarda días. Tú sigues dando la dirección y aprobando cada pieza."
+
+  - q: "¿Cómo dejo de quedarme sin ideas de contenido?"
     a:
-      - "Bazam puede generar varios tipos de contenido para mantener a tu audiencia comprometida. Desde guías prácticas y listas hasta consejos y trucos, nuestro objetivo es proporcionar una creación de contenido versátil."
-      - "Actualmente, admitimos publicaciones de blog y actualizaciones de redes sociales, but we're actively working on expanding our content format offerings. We are continuously looking to offer content across a wider range of mediums and styles."
-  - q: "¿Se integra Bazam con mis herramientas de marketing existentes, como mi plataforma de programación de redes sociales o mi software de marketing por correo electrónico?"
+      - "Pídele al agente que sugiera temas basados en tu negocio, audiencia e industria. Genera ideas que no se te habían ocurrido — desde temas de tendencia hasta guías perennes. El bloqueo creativo deja de ser un problema."
+
+  - q: "¿Cómo mantengo mi blog y redes sociales al día?"
     a:
-      - "Bazam se integra directamente con varias plataformas clave para optimizar tu flujo de trabajo y ahorrarte aún más tiempo. Esto significa que puedes conectar Bazam sin problemas con las herramientas que ya usas y te encantan."
-      - "Las integraciones actuales incluyen Facebook, X (anteriormente Twitter), Instagram, LinkedIn y WordPress, lo que facilita la programación y publicación de contenido directamente en tus canales de redes sociales y blog. Evaluamos y añadimos constantemente nuevas integraciones en función de los comentarios de los usuarios."
-  - q: "¿Qué recursos están disponibles para ayudarme a aprender a usar Bazam de manera efectiva?"
+      - "Crea contenido por lotes. Genera todo en una sola sesión, prográmalo en todas las plataformas y deja que Bazam publique automáticamente. La constancia viene de tener un sistema, no de fuerza de voluntad."
+
+  - q: "¿Es más barato usar IA o contratar un redactor?"
     a:
-      - "Bazam está diseñado para ser intuitivo y fácil de usar, por lo que puedes comenzar a crear contenido atractivo de inmediato. Creemos que las herramientas potentes deben ser accesibles para todos, independientemente de su experiencia técnica."
-      - "Para ayudarte a comenzar de manera rápida y segura, proporcionamos consejos y orientación en la aplicación, junto con ejemplos prácticos de cómo usar Bazam para alcanzar tus objetivos de marketing de contenidos. Además, siempre estamos añadiendo nuevas funciones y mejoras basadas en los comentarios de los usuarios, por lo que la plataforma evoluciona constantemente para satisfacer tus necesidades."
+      - "La IA es significativamente más barata a cualquier volumen. Un redactor freelance cobra entre 200 y 500 € por blog. Bazam crea contenido ilimitado por una suscripción mensual fija. Para negocios que publican regularmente, el ahorro es inmediato y sustancial."
 ---

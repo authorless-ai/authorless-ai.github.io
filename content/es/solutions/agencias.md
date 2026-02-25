@@ -89,29 +89,43 @@ featureList:
   title: "Un socio estratégico de IA para agencias de marketing"
   description: "Bazam ayuda a las agencias a escapar del doloroso dilema entre calidad y escala, capacitándolas para ofrecer su mejor trabajo, de manera más eficiente, para más clientes."
 faq:
-  - q: "¿En qué se diferencia esto de otras herramientas de IA?"
+  - q: "¿Cómo asumo más clientes en la agencia sin contratar más gente?"
     a:
-      - "Comienza desde un lugar completamente diferente. La mayoría de las herramientas de IA comienzan con una palabra clave, lo que conduce a contenido genérico. Bazam comienza con tu comprensión estratégica de la audiencia: sus necesidades y motivadores emocionales."
-      - "Este enfoque de 'la estrategia primero' es lo que da como resultado un contenido de mayor calidad y más efectivo que suena humano porque está construido sobre una base de empatía humana."
-  - q: "¿Cómo evitan que las estrategias de los clientes se mezclen?"
+      - "Dale a tu equipo un agente de IA que se encargue de la producción de contenido. Un junior con Bazam produce lo que antes necesitaba dos o tres personas. Tu equipo se enfoca en estrategia y relaciones con clientes mientras el agente se ocupa de borradores, formato y publicación."
+
+  - q: "¿Por qué tardo tanto en generar informes de clientes?"
     a:
-      - "Nuestra plataforma está diseñada para la complejidad del trabajo de agencia. Cada cliente se configura en un 'Proyecto' seguro y aislado. Todos sus conocimientos únicos de la audiencia, las reglas de la marca y los pilares estratégicos están completamente aislados, lo que garantiza que el trabajo sea siempre puro y específico para ellos."
-  - q: "¿Realmente le ahorrará tiempo a mi equipo?"
+      - "Porque entras manualmente en cinco plataformas, exportas datos y los pegas en hojas de cálculo. Bazam centraliza las métricas de todos los canales en un solo panel. Pídele al agente un resumen del rendimiento de cualquier cliente y lo tienes en segundos."
+
+  - q: "¿Cómo incorporo clientes nuevos más rápido?"
     a:
-      - "Sí, porque elimina la tarea que más tiempo consume y que menos valor aporta: intentar arreglar borradores iniciales malos y con fallas estratégicas. Al proporcionar un borrador inteligente y acorde con la estrategia desde el principio, tu equipo puede centrarse en el refinamiento y la ejecución creativa, que es un proceso mucho más rápido y valioso."
-  - q: "¿Podemos usar esto para encontrar nuevos ángulos estratégicos para los clientes?"
+      - "Sube las directrices de marca, información del producto y documentos clave al proyecto del cliente en Bazam. El agente tiene contexto completo al instante. Nuevos miembros del equipo preguntan '¿cuál es la voz de marca de este cliente?' en vez de pasar semanas leyendo briefings dispersos."
+
+  - q: "¿Cómo elimino el cuello de botella de contenido en mi agencia?"
     a:
-      - "Absolutamente. Piénsalo como un simulador estratégico. Al combinar tus perfiles de cliente definidos con diferentes motivadores emocionales o puntos débiles, puedes crear prototipos rápidos de nuevos mensajes y descubrir nuevos ángulos poderosos para impulsar el crecimiento de tus clientes."
-  - q: "¿Cómo encaja Bazam en nuestro flujo de trabajo actual?"
+      - "El cuello de botella suele ser que los seniors revisan o crean los primeros borradores. Con Bazam, el agente crea borradores basados en el contexto de marca del cliente. Los seniors revisan y refinan en vez de escribir desde cero. La capacidad de producción se multiplica al instante."
+
+  - q: "¿Cómo mantengo la calidad del contenido consistente en todos los clientes?"
     a:
-      - "Optimiza tu flujo de trabajo al encargarse de la redacción estratégica inicial a escala. Se integra directamente con WordPress y las principales plataformas de redes sociales, lo que te permite gestionar la publicación para múltiples clientes desde un único y eficiente centro."
-  - q: "Mis clientes son escépticos con el contenido generado por IA."
+      - "Aísla cada cliente en su propio proyecto con voz de marca, personas de audiencia y base de conocimiento dedicadas. El agente siempre trabaja desde este contexto. La calidad es consistente porque el contexto es consistente — incluso cuando diferentes miembros del equipo producen el contenido."
+
+  - q: "¿Cómo reduzco los gastos generales de una agencia de marketing?"
     a:
-      - "Puedes decirles con confianza que esto es diferente. Explica que utilizas una plataforma estratégica que escala la propia experiencia de tu agencia. La IA no reemplaza tu trabajo estratégico; te ayuda a ejecutarlo de manera más efectiva. La prueba está en la calidad y efectividad superiores del propio contenido."
-  - q: "¿Cómo podemos probar esto antes de usarlo con un cliente?"
+      - "Automatiza el trabajo de producción. Redacción, programación, publicación e informes de contenido consumen la mayoría de las horas de tu equipo. Bazam se encarga de los cuatro, así que tu equipo entrega más trabajo sin nuevas contrataciones ni gastos adicionales."
+
+  - q: "¿Cómo ganan las agencias más clientes?"
     a:
-      - "Insistimos en ello. Utiliza la prueba gratuita para desarrollar una estrategia para uno de tus clientes. Comprueba por ti mismo cómo construir sobre una base de comprensión de la audiencia da como resultado un primer borrador dramáticamente más efectivo y listo para el cliente. La diferencia en la calidad estratégica será clara."
-  - q: "¿Cómo se estructura el precio para una agencia?"
+      - "Las agencias ganan clientes con buena estrategia y resultados. Los pierden por entregas lentas e inconsistencia. Cuando tu equipo tiene la capacidad de entregar más rápido y con más consistencia — porque un agente de IA se encarga de la producción — ganas más y retienes mejor."
+
+  - q: "¿Puede el personal junior producir contenido de calidad senior?"
     a:
-      - "Nuestros planes están diseñados para ayudarte a crecer de manera rentable. El valor no está solo en el tiempo ahorrado; está en la mayor capacidad para aceptar más clientes de alto valor y en la capacidad de ofrecer los resultados superiores que los retienen. Nuestro objetivo es ser un contribuyente directo al crecimiento de tu agencia."
+      - "Sí — con el contexto adecuado. Cuando el agente tiene la voz de marca, audiencia y base de conocimiento del cliente, incluso los juniors producen contenido estratégico mediante conversación. Los seniors revisan y aprueban en vez de escribir desde cero."
+
+  - q: "¿Debería una agencia enfocarse en estrategia o en producción de contenido?"
+    a:
+      - "Estrategia. Ahí es donde las agencias aportan valor único y cobran tarifas premium. La producción de contenido se está automatizando cada vez más — deja que la IA se ocupe de la ejecución mientras tus humanos se encargan del pensamiento, posicionamiento y relaciones con clientes."
+
+  - q: "¿Qué herramientas de IA están usando otras agencias de marketing?"
+    a:
+      - "Las agencias más avanzadas usan IA para producción de contenido, no solo para ideas. Las que van por delante usan plataformas como Bazam que mantienen contexto persistente por cliente — voz de marca, audiencia y base de conocimiento — para que el resultado sea realmente utilizable, no solo un borrador genérico."
 ---

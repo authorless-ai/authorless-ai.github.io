@@ -86,35 +86,43 @@ featureCards:
     url: "/es/features/equipos/"
     icon: users
 faq:
-  - q: "Siguen mencionando las 'fábricas de contenido basura de IA'. ¿A qué se refieren exactamente?"
+  - q: "¿Cómo hago marketing cuando no sé nada de marketing?"
     a:
-      - "Una 'fábrica de contenido basura de IA' es cualquier herramienta que valora el recuento de palabras y el volumen por encima del impacto. Operan con indicaciones simples para producir texto genérico y robótico que suena como si lo hubiera escrito una máquina, porque así fue."
-      - "Este contenido rara vez funciona: tiene poca comprensión de tu marca, ninguna empatía por tu audiencia y ningún objetivo estratégico. El resultado es un primer borrador desordenado que te crea un nuevo y doloroso trabajo: horas de edición solo para que suene remotamente humano."
-      - "Creamos Bazam para que fuera todo lo contrario. Creemos que el contenido efectivo comienza con la conexión humana, no con una simple indicación. En lugar de solo generar palabras, nuestra plataforma primero te ayuda a definir a <b>quién</b> te diriges y <b>qué les importa</b>. Al construir contenido sobre esta base de estrategia humana, la IA produce mensajes que son relevantes, resonantes y listos para usar. Es la diferencia entre crear más ruido y crear contenido que realmente convierte."
-  - q: "Nuestro equipo está saturado. ¿Cómo reduce esto nuestra carga de trabajo en lugar de aumentarla?"
+      - "No necesitas saberlo. Bazam tiene la estrategia integrada. Define tu audiencia y productos, y el agente de IA se encarga del enfoque estratégico — qué contenido crear, para quién y en qué orden. Tú aportas el conocimiento de tu negocio; Bazam aporta el marketing."
+
+  - q: "Un autónomo no tiene tiempo para marketing de contenidos. ¿Cómo lo resuelvo?"
     a:
-      - "Bazam ataca el mayor derroche de tiempo en el marketing de contenidos moderno: la edición de malos borradores de IA. Debido a que nuestro contenido se basa en tu estrategia específica desde el principio, reduce drásticamente ese trabajo de bajo valor."
-      - "Esto libera el ancho de banda de tu equipo, permitiéndoles centrarse en las iniciativas estratégicas de alto impacto para las que fueron contratados, haciendo que todo tu departamento sea más eficiente y efectivo."
-  - q: "Ya tenemos una estrategia de contenido. ¿Cómo encaja Bazam?"
+      - "Automatizando la ejecución. Una sesión de 30 minutos con el agente crea un mes completo de contenido — blogs, redes sociales, emails. Programa y olvídate. Tu marketing funciona mientras tú trabajas en tu negocio."
+
+  - q: "¿Funciona el marketing de contenidos para una pyme?"
     a:
-      - "Eso es perfecto. Bazam está diseñado para ser el motor de ejecución de tu estrategia. Ya sabes a *quién* quieres llegar y *qué* quieres decir. Bazam te ayuda a hacerlo mejor y más rápido."
-      - "Utiliza nuestra plataforma para codificar tus perfiles y pilares estratégicos, y luego deja que nuestra IA genere contenido acorde con la marca y la estrategia a escala. Amplifica tu estrategia existente, no la reemplaza."
-  - q: "¿Cómo podemos estar seguros de que el contenido de la IA se alineará con la voz de nuestra marca?"
+      - "Sí — especialmente para pymes. El contenido se posiciona en buscadores las 24 horas, atrae clientes potenciales y construye autoridad sin un presupuesto publicitario continuo. Las pymes que publican consistentemente superan a competidores más grandes que solo hacen publicidad pagada."
+
+  - q: "¿Puede la IA escribir contenido de marketing tan bueno como el de una persona?"
     a:
-      - "Porque vamos más allá de la simple 'voz'. Las herramientas genéricas imitan el estilo, por eso fracasan. Nos centramos en el núcleo de tu marca: la audiencia a la que sirves y el valor que proporcionas."
-      - "Al generar contenido que está fundamentalmente alineado con el propósito estratégico de tu marca, la voz sigue de forma natural. El resultado es un contenido que se siente auténtico porque *es* auténtico para tu estrategia."
-  - q: "¿Cómo nos ayuda esto a demostrar el ROI de nuestros esfuerzos de contenido?"
+      - "Con el contexto adecuado, sí. La diferencia entre contenido de IA genérico y contenido profesional es el contexto. Bazam trabaja con tu voz de marca, tu audiencia y tu conocimiento de producto — así que el resultado suena a ti, no a una máquina."
+
+  - q: "Ya paso demasiado tiempo editando contenido de IA. ¿Esto es diferente?"
     a:
-      - "Creando contenido que está inherentemente diseñado para convertir. Cuando tu contenido habla directamente de las necesidades del cliente y los guía a través de un viaje de compra, el impacto en los clientes potenciales y las ventas se vuelve mucho más claro."
-      - "Pasas de informar sobre métricas de vanidad como 'publicaciones publicadas' a informar sobre métricas comerciales como 'clientes potenciales generados a partir de nuestro embudo de contenido', lo que facilita mucho la justificación de tu presupuesto y la demostración del valor de tu equipo."
-  - q: "¿Se integra Bazam con nuestra pila de tecnología de marketing existente?"
+      - "Sí. El problema con las herramientas genéricas es que no conocen tu marca, así que los borradores necesitan horas de edición. Bazam construye el contenido sobre tu estrategia desde el principio, así que obtienes borradores útiles a la primera."
+
+  - q: "No soy un escritor. ¿Cómo creo contenido para mi negocio?"
     a:
-      - "Ofrecemos un flujo de trabajo de publicación optimizado. Bazam se conecta directamente con WordPress, Facebook, LinkedIn, Instagram y X, lo que te permite centralizar la programación y publicación de tu contenido, simplificando la ejecución y la generación de informes."
-  - q: "¿Puede nuestro equipo probarlo antes de comprometerse?"
+      - "Habla con el agente como si fuera un colega. Dile 'escríbeme un blog sobre nuestro nuevo servicio' o 'necesito posts para redes sobre nuestra oferta de verano'. Sin fórmulas, sin prompts. Conversación natural."
+
+  - q: "¿El marketing de contenidos realmente genera ventas?"
     a:
-      - "Absolutamente. Fomentamos una prueba piloto. Utiliza nuestros créditos de prueba gratuitos para ejecutar una campaña para una de tus iniciativas clave. Compara la calidad, la velocidad y la alineación estratégica de los resultados con tu proceso actual."
-      - "Estamos seguros de que tu equipo verá el valor de inmediato."
-  - q: "¿Es esta solución rentable para el presupuesto de nuestro departamento?"
+      - "Cuando está bien hecho, sí. Contenido aleatorio no vende. Contenido estratégico — diseñado para abordar lo que le importa al cliente en cada etapa de su decisión de compra — convierte lectores en clientes. Bazam se encarga de esa estrategia por ti."
+
+  - q: "¿Cómo justifico el gasto en marketing de contenidos?"
     a:
-      - "Sí. Ofrecemos planes diseñados para los presupuestos de los equipos de negocios y marketing. Cuando calculas el ROI en función de las horas de trabajo ahorradas, el aumento de la efectividad del contenido y el posible aumento de las conversiones, Bazam está diseñado para ser un neto positivo significativo para tu presupuesto."
+      - "Porque es más barato que la alternativa. Un redactor freelance cobra 200-500 € por blog. Una agencia cuesta 2.000-10.000 € al mes. Un empleado de marketing, 30.000-60.000 € al año. Bazam te da toda esa capacidad por una fracción del coste."
+
+  - q: "¿Bazam se integra con las herramientas que ya uso?"
+    a:
+      - "Bazam publica directamente en WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok. Programa y publica desde un solo panel — sin copiar y pegar entre plataformas."
+
+  - q: "¿Puedo probarlo antes de comprometerme?"
+    a:
+      - "Sí. Regístrate gratis y usa los créditos de prueba para crear contenido real. Sin tarjeta de crédito, sin compromiso. Comprueba la diferencia tú mismo."
 ---

@@ -54,36 +54,39 @@ topFeatures:
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
       target: /es/features/sugerencias/
 faq:
-  - q: "Ya estoy saturado de colaboraciones y eventos, ¿cómo puede ayudarme Bazam?"
+  - q: "¿Cómo evito el burnout como creador de contenido?"
     a:
-      - "Entendemos que tu agenda está repleta. Bazam está diseñado para aliviar la presión de la creación de contenido. Automatiza partes clave del proceso, desde la generación de ideas hasta la redacción de borradores y la programación de contenido. Esto reduce significativamente el tiempo que dedicas a estas tareas."
-      - "Muchos influencers han descubierto que ahorran varias horas a la semana usando Bazam, lo que les permite centrarse en crear contenido auténtico y relacionarse con sus seguidores. Considéralo tu asistente de creación de contenido, que te ayuda a mantenerte al día con todo sin apoderarse de toda tu agenda."
-  - q: "Soy muy particular con la voz de mi marca, ¿Bazam me obligará a sonar genérico?"
+      - "Automatizando la parte más agotadora: la producción. Pídele al agente de IA que cree posts, ideas y calendarios por ti. Tú te enfocas en construir conexiones reales con tu audiencia mientras la IA se encarga de los borradores."
+
+  - q: "¿Cómo publico constantemente cuando mi agenda cambia cada semana?"
     a:
-      - "Absolutamente no. Bazam es una herramienta para ayudarte, no para reemplazarte. Mantienes un control total sobre la voz y los mensajes de tu marca. El contenido generado por IA es un punto de partida; puedes editarlo, refinarlo y personalizarlo para que coincida con tu estilo único."
-      - "La plataforma aprende de tu contenido existente para comprender mejor tu voz con el tiempo. Además, siempre tienes la última palabra sobre lo que se publica. Bazam te permite ser más eficiente sin comprometer tu autenticidad."
-  - q: "¿Cómo me ayuda Bazam a ser constante, especialmente cuando mi agenda cambia constantemente?"
+      - "Genera contenido por lotes cuando tengas tiempo y prográmalo con semanas de antelación. Bazam publica automáticamente incluso cuando estás en eventos, colaboraciones o simplemente necesitas desconectar."
+
+  - q: "¿La IA hará que mi contenido pierda autenticidad?"
     a:
-      - "Mantener la consistencia es crucial, pero puede ser un desafío con un ajetreado estilo de vida de influencer. Bazam aborda esto con su calendario de contenido automatizado. Puedes planificar tu contenido con antelación y programarlo para que se publique automáticamente, incluso con semanas de antelación."
-      - "La plataforma también envía recordatorios sobre los próximos eventos y temas de tendencia, para que puedas crear contenido oportuno y relevante. Este enfoque proactivo te ayuda a mantener una presencia online constante, incluso cuando estás particularmente ocupado. También puedes reprogramar las publicaciones sobre la marcha si tu agenda cambia."
-  - q: "¿Puede Bazam ayudarme a encontrar nuevas ideas para el contenido? A veces siento que me estoy quedando sin inspiración."
+      - "No — porque tú tienes el control total. La IA crea borradores basados en tu voz y estilo, pero tú revisas y apruebas cada pieza. Piénsalo como un asistente que escribe por ti, no que te reemplaza."
+
+  - q: "¿Cómo encuentro ideas frescas cuando siento que ya lo he publicado todo?"
     a:
-      - "Generar nuevas ideas de contenido puede ser un desafío. Bazam incluye herramientas para sugerir temas basados en tu nicho, público objetivo y rendimiento de contenido anterior."
-      - "Estas sugerencias se eligen cuidadosamente para que se alineen con tu marca y resuenen con tus seguidores. También puedes usar Bazam para investigar temas y palabras clave de tendencia para ayudar a que tu contenido sea descubierto. Tendrás un flujo continuo de ideas con las que trabajar."
-  - q: "¿Se integra Bazam con mis cuentas de redes sociales y mi blog, o tendré que copiar y pegar todo manualmente?"
+      - "El agente sugiere temas basados en tu nicho, audiencia y tendencias actuales. Ideas que no se te habrían ocurrido, adaptadas a lo que funciona con tus seguidores."
+
+  - q: "¿Bazam se conecta con mis redes sociales?"
     a:
-      - "Entendemos la necesidad de un flujo de trabajo fluido. Bazam se integra directamente con Facebook, LinkedIn, Instagram, X y WordPress. Esto te permite publicar y programar tu contenido directamente, sin tener que copiar y pegar manualmente."
-      - "La integración también te permite realizar un seguimiento del rendimiento de tu contenido, proporcionando información para ayudarte a refinar tu estrategia. Siempre estamos trabajando para agregar más integraciones basadas en los comentarios de los usuarios."
-  - q: "¿Qué tipos de contenido puede ayudarme a crear Bazam?"
+      - "Sí. Publica directamente en Instagram, TikTok, YouTube, Facebook, LinkedIn, X y WordPress desde un solo panel. Sin copiar y pegar entre apps."
+
+  - q: "¿Qué tipos de contenido puede crear?"
     a:
-      - "Bazam admite una variedad de formatos de contenido para ayudarte a llegar a tu audiencia de manera efectiva. Creamos guías prácticas, consejos, listas y más, adaptados a cada plataforma (Facebook, LinkedIn, Instagram, X, WordPress)."
-      - "Ampliamos continuamente la gama de formatos compatibles para satisfacer las cambiantes necesidades de marketing de contenidos."
-  - q: "¿Bazam ofrece una prueba gratuita para que pueda ver si es la opción adecuada para mi marca de influencer antes de comprometerme con una suscripción?"
+      - "Posts para todas las redes, blogs, guías prácticas, listas, consejos y más. Cada pieza se adapta al formato y tono de la plataforma de destino."
+
+  - q: "¿Puedo mantener mi voz personal usando IA?"
     a:
-      - "Sí, así es. Queremos que estés seguro de que Bazam puede beneficiar a tu marca. Ofrecemos créditos de prueba gratuitos para que puedas explorar la plataforma, crear contenido y ver cómo te ahorra tiempo."
-      - "Esto te permite evaluar la plataforma a fondo antes de tomar una decisión. Puedes registrarte en nuestro sitio web para reclamar tus créditos gratuitos."
-  - q: "¿Es caro Bazam? Tengo un presupuesto ajustado y necesito una solución rentable."
+      - "Sí. Define tu tono, estilo y personalidad en Bazam. La IA escribe desde ese contexto, así que suena como tú. Con el tiempo, el agente captura mejor tu estilo cuanto más lo uses."
+
+  - q: "¿Bazam es asequible para creadores que empiezan?"
     a:
-      - "Bazam ofrece una gama de planes de precios que se adaptan a diferentes tamaños y necesidades de negocio. Consulta nuestra página de precios para obtener más detalles."
-      - "En comparación con la contratación de un administrador de redes sociales dedicado, Bazam puede ser una solución muy rentable. También ayuda a tu equipo a ser más productivo, lo que puede ahorrarte dinero a largo plazo. Nuestro objetivo es proporcionar soluciones de marketing de contenidos accesibles y eficaces."
+      - "Sí. Comparado con contratar un gestor de redes sociales, Bazam es muchísimo más económico. Y te ahorra horas cada semana que puedes invertir en crear contenido premium o descansar."
+
+  - q: "¿Puedo probarlo gratis antes de pagar?"
+    a:
+      - "Sí. Regístrate y obtén créditos de prueba gratuitos. Crea contenido real, explora la plataforma y decide si es lo que necesitas."
 ---

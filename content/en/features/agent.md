@@ -44,7 +44,8 @@ cta:
 faq:
   - q: "Can AI replace my marketing team?"
     a:
-      - "For content production — yes. An AI agent creates, schedules, publishes, and reports faster and cheaper than any hire. For strategy, brand decisions, and creative direction — you still need humans. Bazam handles the execution so your team focuses on the thinking."
+      - "It depends on your budget and expectations. For most businesses, Bazam can fully replace content production — an AI agent creates, schedules, publishes, and reports faster and cheaper than any hire. If you're a larger brand or a particularly demanding client who needs bespoke, hand-crafted copy, a human writer may still be the better fit for certain pieces — but even then, Bazam's AI editor will dramatically speed them up."
+      - "Where you still need humans is strategy, brand decisions, and creative direction. AI is exceptional at execution but it doesn't set your vision. Bazam handles the heavy lifting so your team — whether that's one person or twenty — spends their time on the thinking that actually moves the needle."
 
   - q: "How do I stop AI from hallucinating facts in my content?"
     a:

@@ -51,36 +51,43 @@ topFeatures:
       description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
       target: /es/features/sugerencias/
 faq:
-  - q: "Necesito crear contenido para docenas de productos. ¿Puede Bazam manejar eso?"
+  - q: "¿Cómo destaco mi tienda de dropshipping frente a miles de competidores?"
     a:
-      - "Absolutamente. Bazam está diseñado para la creación de contenido de gran volumen. Puedes introducir información sobre múltiples productos y generar contenido en masa."
-      - "La IA se asegura de que cada pieza de contenido sea única y relevante para el producto específico y el público objetivo."
-  - q: "No soy un experto en marketing. ¿Puede Bazam ayudarme a crear contenido efectivo?"
+      - "Con contenido que conecte con lo que tus clientes realmente quieren, no descripciones genéricas de producto. Bazam crea contenido basado en las motivaciones de tu audiencia — seguridad, estatus, comodidad — para que tu marca se sienta diferente aunque vendas productos similares."
+
+  - q: "Necesito contenido para docenas de productos. ¿Puede la IA con eso?"
     a:
-      - "Sí, definitivamente. No necesitas ser un experto en marketing para usar Bazam. La IA se encarga de los conocimientos de marketing por ti."
-      - "Bazam utiliza marcos probados como AIDA (Atención, Interés, Deseo, Acción) para crear contenido que impulse las conversiones. También proporciona sugerencias y plantillas para guiarte."
-  - q: "¿Cómo puede Bazam ayudarme a entender mejor a mi público objetivo?"
+      - "Sí. Bazam está diseñado para creación de contenido a gran volumen. Introduce información sobre múltiples productos y genera contenido en masa. Cada pieza es única y relevante para el producto y audiencia específicos."
+
+  - q: "No sé nada de marketing. ¿Puedo crear contenido que venda?"
     a:
-      - "Bazam puede analizar a tu público objetivo en función de la demografía, los intereses y el comportamiento online."
-      - "Este análisis te ayuda a comprender sus necesidades y puntos débiles, lo que te permite crear contenido que resuene con ellos e impulse la participación."
-  - q: "¿Qué tipo de contenido puede crear Bazam para los negocios de dropshipping?"
+      - "Sí. No necesitas ser experto en marketing. Bazam usa marcos como AIDA para crear contenido que impulse conversiones automáticamente. La estrategia viene integrada — tú solo aportas el conocimiento de tus productos."
+
+  - q: "¿Cómo creo contenido para redes sociales que genere ventas?"
     a:
-      - "Bazam puede crear una variedad de tipos de contenido que son ideales para el dropshipping, incluidas descripciones de productos, publicaciones de blog, actualizaciones de redes sociales, guías prácticas y listas."
-      - "Todo el contenido está optimizado para los motores de búsqueda (SEO) para ayudarte a atraer más tráfico a tu tienda online."
-  - q: "¿Puede Bazam ayudarme a ser consistente con mi calendario de publicación de contenido?"
+      - "Pídele al agente contenido enfocado en las motivaciones de compra de tu audiencia. El agente crea publicaciones que no solo informan, sino que persuaden — tocando los puntos que convierten navegantes en compradores."
+
+  - q: "¿Cómo publico consistentemente si estoy solo gestionando todo el negocio?"
     a:
-      - "Sí. Bazam incluye un calendario de contenido integrado que te permite programar tu contenido con antelación."
-      - "Puedes planificar tu contenido para semanas o incluso meses, asegurando una presencia online consistente y liberando tu tiempo."
-  - q: "Mis clientes se encuentran en diferentes países. ¿Puede Bazam ayudarme a crear contenido en varios idiomas?"
+      - "Genera contenido por lotes en una sesión y programa todo el mes. Bazam publica automáticamente mientras tú te ocupas de proveedores, pedidos y servicio al cliente."
+
+  - q: "¿Cómo entiendo mejor a mi público objetivo?"
     a:
-      - "Sí, Bazam admite la traducción a varios idiomas. Puedes crear contenido en tu idioma nativo y luego traducirlo automáticamente para llegar a una audiencia global."
-      - "Esta característica es esencial para los dropshippers que desean ampliar su alcance y aumentar su potencial de ventas."
-  - q: "¿Bazam ofrece integraciones con mis plataformas de redes sociales?"
+      - "Bazam analiza tu audiencia basándose en demografía, intereses y comportamiento. Define tus personas de audiencia y el agente crea contenido que habla directamente a lo que les importa."
+
+  - q: "Mis clientes están en diferentes países. ¿Puedo crear contenido en varios idiomas?"
     a:
-      - "Sí, Bazam se integra directamente con las plataformas de redes sociales populares. Esto te permite publicar y programar tu contenido directamente sin tener que copiar y pegar manualmente."
-      - "Esto te ahorra tiempo y simplifica tu flujo de trabajo de marketing de contenidos."
-  - q: "¿Bazam ofrece una prueba gratuita para que pueda ver si es una buena opción para mi negocio de dropshipping?"
+      - "Sí. Crea contenido en tu idioma y tradúcelo a más de 50 idiomas con un clic. Ideal para dropshippers que quieren expandir su alcance internacional."
+
+  - q: "¿Bazam se conecta con mis redes sociales?"
     a:
-      - "Sí, ofrecemos créditos de prueba gratuitos para que puedas explorar la plataforma y ver cómo puede beneficiar a tu negocio."
-      - "Esto te permite probar las características y ver los resultados por ti mismo antes de comprometerte con una suscripción."
+      - "Sí. Publica directamente en Facebook, Instagram, LinkedIn, X, YouTube, TikTok y WordPress. Sin copiar y pegar — todo desde un solo panel."
+
+  - q: "¿Qué tipos de contenido puede crear para dropshipping?"
+    a:
+      - "Descripciones de producto, blogs, posts para redes sociales, guías de compra, comparativas, listas y más. Todo optimizado para SEO para atraer tráfico a tu tienda."
+
+  - q: "¿Puedo probarlo gratis?"
+    a:
+      - "Sí. Regístrate y obtén créditos de prueba gratuitos. Crea contenido real para tu tienda y comprueba la diferencia antes de comprometerte."
 ---

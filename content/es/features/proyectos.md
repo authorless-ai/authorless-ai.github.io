@@ -41,39 +41,37 @@ cta:
 faq:
   - q: "¿Cuántos proyectos de clientes puedo gestionar con Bazam?"
     a:
-      - "Bazam admite un número ilimitado de proyectos de clientes, lo que permite a tu agencia escalar sin restricciones. Tanto si gestionas el contenido de cinco clientes como de cincuenta, nuestra plataforma puede adaptarse a las crecientes necesidades de tu negocio con facilidad."
-      - "Cada proyecto de cliente mantiene su propio espacio de trabajo, ajustes y biblioteca de contenido separados, lo que garantiza que puedas mantener todo el trabajo de los clientes perfectamente organizado sin importar cuántas cuentas estés gestionando. Bazam está diseñado para crecer junto a tu agencia."
-  - q: "¿Cómo ayuda Bazam a mantener diferentes voces de marca en varios proyectos de clientes?"
+      - "Ilimitados. Cada cliente tiene su propio espacio aislado con ajustes, biblioteca de contenido y calendario independientes. Tanto si gestionas cinco clientes como cincuenta, la plataforma escala contigo."
+
+  - q: "¿Cómo mantengo la voz de marca de cada cliente sin mezclarlas?"
     a:
-      - "Bazam te permite crear y almacenar ajustes de voz de marca únicos para cada proyecto de cliente. Puedes definir el tono, el estilo, las preferencias de vocabulario y los parámetros de contenido que se alineen con la identidad de marca específica de cada cliente."
-      - "Estos ajustes se aplican automáticamente al generar contenido para ese cliente en particular, lo que garantiza la coherencia en todos los materiales. Tu equipo puede cambiar fácilmente entre proyectos de clientes sin preocuparse por la confusión de la voz, lo que facilita la producción de contenido auténtico que represente genuinamente a cada marca."
-  - q: "¿Pueden diferentes miembros del equipo tener acceso a proyectos de clientes específicos, o todos ven todos los proyectos?"
+      - "Cada proyecto tiene su propia voz de marca, personas de audiencia y base de conocimiento. El agente de IA solo accede al contexto de ese proyecto cuando crea contenido. No hay contaminación cruzada entre clientes."
+
+  - q: "¿Puedo controlar qué miembros del equipo ven cada proyecto?"
     a:
-      - "Bazam ofrece ajustes de permisos granulares, lo que te permite controlar exactamente qué miembros del equipo tienen acceso a cada proyecto de cliente. Esto significa que puedes asignar gestores de cuentas específicos a clientes concretos, asegurando que solo vean la información relevante."
-      - "Esta función es especialmente valiosa para las agencias más grandes con equipos de clientes dedicados o cuando se trabaja con información sensible. Puedes ajustar estos permisos en cualquier momento a medida que evolucione la estructura de tu equipo o cambien los requisitos del cliente."
-  - q: "¿Cómo funciona la facturación para varios proyectos? ¿Tengo que pagar por separado por cada cliente?"
+      - "Sí. Asigna permisos granulares por proyecto — cada persona solo ve los clientes que le corresponden. Especialmente importante cuando gestionas marcas competidoras o información sensible."
+
+  - q: "¿Cómo funciona la facturación con múltiples proyectos?"
     a:
-      - "Bazam ofrece precios de agencia flexibles que se adaptan a tu negocio. En lugar de cobrar por cliente, ofrecemos créditos de generación de contenido que se pueden utilizar en todos tus proyectos, dándote la libertad de asignar los recursos donde más se necesiten."
-      - "Este enfoque significa que no estás sujeto a rígidas tarifas por cliente y puedes distribuir tu capacidad de creación de contenido de forma dinámica a medida que fluctúen las demandas de los clientes. Para obtener detalles específicos sobre los precios y encontrar el plan adecuado para las necesidades únicas de tu agencia, visita nuestra página de precios."
-  - q: "¿Cómo ayuda Bazam a las agencias a compartir conocimientos y mejores prácticas entre las cuentas de los clientes?"
+      - "No pagamos por cliente. Tu plan incluye créditos de generación de contenido que distribuyes como quieras entre todos tus proyectos. Más flexibilidad, menos costes fijos por cuenta."
+
+  - q: "¿Cómo incorporo un cliente nuevo rápidamente?"
     a:
-      - "Aunque cada proyecto de cliente se mantiene por separado, Bazam facilita que tu equipo aplique metodologías coherentes en todas las cuentas. Los miembros de tu equipo de agencia pueden acceder a los enfoques exitosos de un cliente e implementar estrategias similares para otros."
-      - "Este intercambio de conocimientos es especialmente valioso para mantener los estándares de calidad en toda tu cartera de clientes, respetando al mismo tiempo las necesidades únicas de cada marca. Permite a tu equipo trabajar de manera más eficiente aprovechando el conocimiento institucional en todas las relaciones con los clientes."
-  - q: "¿Cómo ayudan los múltiples espacios de proyectos de Bazam a las agencias con la confidencialidad del cliente y la separación de la información?"
+      - "Crea un proyecto, sube las directrices de marca y documentos clave, define la audiencia y el agente ya tiene todo el contexto. Nuevos miembros del equipo pueden preguntar al agente '¿cuál es la voz de marca de este cliente?' en lugar de leer carpetas de documentos."
+
+  - q: "¿Cómo transfiero un proyecto de un gestor a otro?"
     a:
-    - "Bazam trata cada proyecto de cliente como un espacio de trabajo completamente aislado, asegurando que la información sensible, las directrices de la marca y las estrategias de contenido permanezcan estrictamente separadas entre los clientes. Esta separación es crucial para mantener la confidencialidad del cliente, especialmente cuando se gestionan marcas competidoras."
-    - "La estructura compartimentada evita la contaminación cruzada de la información del cliente y garantiza que las estrategias y el contenido patentados permanezcan seguros. Esta sólida separación da a las agencias la tranquilidad de gestionar múltiples clientes con diferentes requisitos de confidencialidad, generando confianza y reforzando los estándares profesionales."
-#  - q: "¿Puedo importar contenido de cliente existente a Bazam para mantener la continuidad?"
-#    a:
-#      - "Sí, Bazam admite la importación sin problemas de contenido de cliente existente. Puedes subir publicaciones de blog anteriores, contenido de redes sociales y otros materiales para establecer la continuidad y ayudar a la IA a comprender la voz y el historial de contenido establecidos de cada cliente."
-#
-#      - "Este contenido histórico sirve como un contexto valioso para la IA, lo que da como resultado una producción más auténtica que se alinea con lo que tus clientes han publicado anteriormente. También crea una biblioteca de contenido completa para cada cliente que tu equipo puede consultar."
-  - q: "¿Qué pasa si necesito transferir un proyecto de cliente a un gestor de cuentas diferente? ¿Es complicado este proceso?"
+      - "Ajusta los permisos — da acceso al nuevo gestor y revoca el del anterior. Todo el historial, ajustes y publicaciones programadas se mantienen intactos. Sin interrupciones."
+
+  - q: "¿Están los datos de cada cliente realmente separados?"
     a:
-      - "Transferir proyectos de clientes entre miembros del equipo es sencillo con Bazam. Simplemente ajusta los permisos para conceder acceso al nuevo gestor de cuentas y revocar el acceso del anterior si es necesario."
-      - "Todos los ajustes del cliente, el historial de contenido y las publicaciones programadas permanecen intactos durante la transferencia, lo que garantiza una transición fluida sin interrupciones en tus operaciones de contenido. Esto hace que las reorganizaciones del equipo y los cambios de personal sean mucho menos estresantes para tu agencia."
-  - q: "¿Cómo ayuda Bazam a mantener la coherencia en todos los proyectos de los clientes respetando al mismo tiempo sus identidades de marca individuales?"
+      - "Completamente. Cada proyecto es un espacio de trabajo aislado. Las estrategias, contenido e información de un cliente nunca se cruzan con las de otro. Crucial para la confidencialidad cuando gestionas marcas competidoras."
+
+  - q: "¿Puedo compartir conocimientos y buenas prácticas entre cuentas de clientes?"
     a:
-      - "Bazam logra el equilibrio perfecto entre coherencia y personalización a través de su enfoque de dos niveles. A nivel de agencia, puedes establecer estándares de calidad y flujos de trabajo que se apliquen a todos los clientes, garantizando procesos coherentes."
-      - "Al mismo tiempo, cada proyecto de cliente mantiene sus propios ajustes de marca, parámetros de contenido y calendarios de publicación únicos. Esta estructura dual te permite mantener los estándares de calidad de tu agencia al tiempo que honras y refuerzas la identidad de marca distintiva de cada cliente."
+      - "Sí. Aunque los datos están aislados, tu equipo puede aplicar metodologías consistentes entre cuentas. Identifica lo que funciona con un cliente e implementa enfoques similares para otros."
+
+  - q: "¿Cómo mantengo los estándares de calidad en todos los proyectos?"
+    a:
+      - "Bazam funciona a dos niveles: estándares de calidad y flujos de trabajo a nivel de agencia, y ajustes de marca y contenido independientes por cliente. Control centralizado con ejecución personalizada."
 ---

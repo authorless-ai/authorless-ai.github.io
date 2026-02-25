@@ -50,36 +50,39 @@ topFeatures:
       description: ¡Crea una estrategia de contenido efectiva con la guía de la IA, no se requiere experiencia en marketing!
       target: /es/features/estrategia-de-marketing/
 faq:
-  - q: "¿Cómo puede Bazam ayudar a nuestra organización sin fines de lucro con un presupuesto limitado?"
+  - q: "¿Cómo hace marketing una ONG sin presupuesto para marketing?"
     a:
-      - "Bazam reduce significativamente la necesidad de costosos redactores publicitarios y agencias de marketing. Al automatizar el proceso de creación de contenido, capacita a tu equipo para generar publicaciones de blog y actualizaciones de redes sociales de alta calidad internamente, ahorrándote dinero y recursos."
-      - "Con Bazam, puedes crear un flujo constante de contenido atractivo que atraiga a nuevos donantes y fortalezca las relaciones con los seguidores existentes, lo que en última instancia te ayudará a alcanzar tus objetivos de recaudación de fondos de manera más eficiente."
-  - q: "Somos un equipo pequeño, ¿cuánto tiempo puede ahorrarnos realmente Bazam?"
+      - "Automatizando lo que un equipo entero haría. Un agente de IA crea tu contenido, lo programa y lo publica — por una fracción de lo que costaría un redactor. Cada euro se queda en tu misión, no en honorarios de agencia."
+
+  - q: "Somos un equipo pequeño. ¿Cuánto tiempo nos ahorra realmente?"
     a:
-      - "Los equipos pequeños a menudo tienen dificultades para equilibrar la recaudación de fondos, la prestación de servicios y el marketing. Bazam alivia la presión al optimizar tu flujo de trabajo de contenido. Puedes esperar ahorrar varias horas cada semana en la creación de contenido, liberando a tu equipo para que se concentre en sus responsabilidades principales."
-      - "Muchas organizaciones sin fines de lucro descubren que pueden crear las actualizaciones de redes sociales de una semana en una fracción del tiempo, lo que les permite mantener una presencia online constante sin sacrificar valiosas horas de personal."
-  - q: "¿El contenido generado por Bazam sonará auténtico y reflejará la voz de nuestra organización?"
+      - "La mayoría de las ONG crean las actualizaciones de la semana en una fracción del tiempo habitual. Tiempo que se libera para lo que realmente importa: tu trabajo de primera línea."
+
+  - q: "¿El contenido sonará auténtico o a robot genérico?"
     a:
-      - "Bazam está diseñado para ayudarte a contar tu historia de una manera que resuene con tu audiencia. La IA proporciona un punto de partida sólido, generando contenido que captura tu perspectiva y valores, mientras te ahorra tiempo en el proceso de redacción inicial."
-      - "Mantienes un control total sobre el resultado final y puedes revisar, editar y refinar fácilmente el contenido para asegurarte de que se alinee perfectamente con la voz de tu marca. Piensa en Bazam como tu asistente de creación de contenido, que se encarga del lento borrador inicial mientras te permite agregar tu toque único."
-  - q: "Tenemos dificultades para encontrar nuevas ideas para el contenido, ¿puede ayudarnos Bazam?"
+      - "Sonará como tu organización. Define tu voz, misión y valores en Bazam, y la IA escribe desde ese contexto. Siempre revisas y apruebas antes de publicar — tu historia, contada a tu manera."
+
+  - q: "¿Cómo conseguimos que más gente done a nuestra causa?"
     a:
-      - "¡Sí! Bazam incluye potentes herramientas de sugerencia de contenido para ayudarte a descubrir temas nuevos y relevantes adaptados a la misión y las actividades de tu organización. Nunca más te enfrentarás a la ansiedad de una página en blanco."
-      - "La IA analiza las tendencias actuales, los patrones de participación en las redes sociales y las necesidades de tu público objetivo para identificar oportunidades para que compartas tu experiencia e impacto. Esto garantiza que siempre estés creando contenido que resuene con tus seguidores."
-  - q: "¿Podemos probar Bazam antes de comprometernos con una suscripción para ver si realmente funciona para nosotros?"
+      - "Con historias que conecten emocionalmente. Bazam crea contenido diseñado para resonar con lo que motiva a tus donantes — porque parte de su comprensión, no de palabras genéricas. Contenido que conmueve genera más donaciones que contenido que informa."
+
+  - q: "¿Nos quedamos sin ideas de qué comunicar?"
     a:
-      - "¡Absolutamente! Entendemos la importancia de tomar decisiones informadas, especialmente para las organizaciones sin fines de lucro. Es por eso que ofrecemos créditos de prueba gratuitos cuando te registras, dándote la oportunidad de probar la plataforma y ver cómo puede transformar tu estrategia de comunicaciones."
-      - "Estos créditos te permiten generar publicaciones de blog y actualizaciones de redes sociales reales, explorar las funciones de la plataforma y tener una idea de cómo Bazam puede optimizar tu proceso de creación de contenido. ¡Simplemente regístrate en nuestro sitio web para reclamar tus créditos de prueba gratuitos y comenzar a crear contenido impactante hoy mismo!"
-  - q: "¿Puede Bazam crear diferentes tipos de contenido, como publicaciones de blog y actualizaciones de redes sociales?"
+      - "El agente sugiere temas basados en tu misión, actividades y audiencia. Historias de impacto, actualizaciones de programas, llamadas a la acción — las ideas llegan a ti para que dejes de mirar una pantalla en blanco."
+
+  - q: "¿Funciona para comunicar en varios idiomas?"
     a:
-      - "¡Sí! Bazam admite una variedad de tipos de contenido, incluidas publicaciones de blog, actualizaciones de redes sociales e incluso boletines informativos por correo electrónico (aunque por ahora solo se escriben para blogs y redes sociales). Esto te permite crear una estrategia de comunicaciones integral que llegue a tu audiencia en múltiples plataformas."
-      - "Ampliamos constantemente nuestra oferta de formatos de contenido para incluir tipos de contenido más especializados, asegurando que siempre tengas las herramientas que necesitas para contar tu historia de manera efectiva."
-  - q: "¿Bazam admite varios idiomas? Trabajamos con comunidades internacionales."
+      - "Sí. Crea contenido en tu idioma y tradúcelo a más de 50 idiomas con un clic. Esencial para organizaciones que trabajan con comunidades internacionales."
+
+  - q: "¿Qué tipos de contenido puede crear?"
     a:
-      - "¡Sí! Bazam admite traducciones. Puedes trabajar en tu propio idioma y traducir a otros diferentes. Esto te permite adaptar el contenido a las personas en su propio idioma."
-      - "Esto es esencial cuando se trabaja con comunidades internacionales."
-  - q: "Nuestro equipo no es muy experto en tecnología, ¿es fácil de usar Bazam?"
+      - "Blogs, publicaciones para redes sociales, newsletters, comunicados de prensa y más. Todo adaptado a la voz de tu organización y a las plataformas donde está tu audiencia."
+
+  - q: "Nuestro equipo no es muy técnico. ¿Es fácil de usar?"
     a:
-      - "Bazam está diseñado para ser intuitivo y fácil de usar, independientemente de tu experiencia técnica. Creemos que las herramientas potentes deben empoderarte, no abrumarte."
-      - "Ofrecemos una guía clara, junto con ejemplos prácticos de cómo usar Bazam para alcanzar tus objetivos de comunicación. Te sorprenderá lo rápido que puedes empezar a crear contenido impactante que genere resultados reales."
+      - "Muy fácil. Habla con el agente como si fuera un compañero de trabajo — 'escribe un post sobre nuestra campaña de verano' — y listo. Sin curvas de aprendizaje complicadas."
+
+  - q: "¿Podemos probarlo antes de comprometernos?"
+    a:
+      - "Sí. Regístrate gratis y usa los créditos de prueba para crear contenido real para tu organización. Sin tarjeta de crédito, sin compromiso."
 ---
