@@ -20,7 +20,7 @@ features:
   footer:
     - "Your mission deserves to be heard. Now it can be — without hiring a marketing team."
 
-- title: "Turning Impact Into Stories"
+- title: "Your Mission, Amplified"
   image: "/images/feature-office-2.jpg"
   image_alt: "Transforming programme data into compelling narratives."
   description:
@@ -37,7 +37,7 @@ features:
   footer:
     - "Your impact deserves to be communicated as powerfully as it's delivered."
 
-- title: "How Any Team Member Can Use It"
+- title: "Everyone on Your Team Becomes a Marketer"
   image: "/images/feature-office-1.jpg"
   image_alt: "A non-technical team member chatting with the AI agent."
   description:

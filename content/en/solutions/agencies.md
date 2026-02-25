@@ -20,7 +20,7 @@ features:
   footer:
     - "You don't need more junior hires. You need a smarter teammate."
 
-- title: "A Day With the Agent"
+- title: "Your Team Just Got Superpowers"
   image: "/images/feature-office-2.jpg"
   image_alt: "An agency team using the AI agent across their daily workflows."
   description:
@@ -37,7 +37,7 @@ features:
   footer:
     - "Your team does in hours what used to take days."
 
-- title: "What Changes on Your P&L"
+- title: "More Clients. Same Team. Bigger Margins."
   image: "/images/feature-office-1.jpg"
   image_alt: "Agency growth metrics showing increased capacity."
   description:
@@ -53,7 +53,7 @@ features:
     - "When execution costs less, every client relationship becomes more profitable."
 
 cta:
-  title: "Ready to Give Your Agency Superpowers?"
+  title: "Ready to Scale Without Hiring?"
   description: "See how Bazam's AI agent can help you run more client accounts, onboard new staff faster, and deliver exceptional content — without scaling your team."
 
 topFeatures:

@@ -20,7 +20,7 @@ features:
   footer:
     - "You need bulk content that doesn't look or feel like bulk content."
 
-- title: "How Bulk Content Actually Works"
+- title: "50 Products. Unique Content. One Conversation."
   image: "/images/feature-office-2.jpg"
   image_alt: "A pipeline of product content being generated at scale."
   description:
@@ -37,7 +37,7 @@ features:
   footer:
     - "50 products, 50 unique descriptions. Created in minutes, not weeks."
 
-- title: "Content That Sells, Not Just Fills"
+- title: "Content That Converts, Not Just Fills"
   image: "/images/feature-office-2.jpg"
   image_alt: "Audience-targeted product content compared to generic copy."
   description:

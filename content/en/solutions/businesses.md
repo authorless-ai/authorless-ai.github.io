@@ -22,7 +22,7 @@ features:
   footer:
     - "You don't need to hire a marketing team. You need one that already exists."
 
-- title: "What Running on Bazam Looks Like"
+- title: "One Afternoon a Month. Fully Loaded Content Calendar."
   image: "/images/feature-office-2.jpg"
   image_alt: "A content calendar filled with scheduled posts across multiple channels."
   description:
@@ -39,7 +39,7 @@ features:
   footer:
     - "Professional content marketing in one session a month — plus the odd quick request."
 
-- title: "The Bottom Line"
+- title: "Punch Above Your Weight"
   image: "/images/feature-office-1.jpg"
   image_alt: "Business growth enabled by consistent marketing."
   description:
@@ -55,7 +55,7 @@ features:
     - "When marketing runs itself, you can focus on what actually grows the business."
 
 cta:
-  title: "Ready to Give Your Business a Marketing Superpower?"
+  title: "Ready to Run Marketing Like the Big Players?"
   description: "Get a professional content operation running in hours, not months. Bazam's AI agent handles the work so you can focus on growing your business."
 
 topFeatures:

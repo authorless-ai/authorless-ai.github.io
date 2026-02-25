@@ -20,7 +20,7 @@ features:
   footer:
     - "You shouldn't have to choose between being creative and being consistent."
 
-- title: "What Using Bazam Looks Like"
+- title: "Create Once. Dominate Every Platform."
   image: "/images/feature-office-2.jpg"
   image_alt: "A creator's content workflow with an AI agent."
   description:
