@@ -39,7 +39,7 @@ features:
 
 cta:
   title: "Ready to Scale Your Content Without the Burnout?"
-  description: "Let the AI agent handle production while you focus on being creative. Bazam helps you stay consistent across every platform — in your authentic voice."
+  description: "Let your AI agent handle production while you focus on being creative. Bazam helps you stay consistent across every platform — in your authentic voice."
 
 topFeatures:
   title: "Why Creators Choose Bazam"

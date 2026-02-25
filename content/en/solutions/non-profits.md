@@ -75,7 +75,7 @@ topFeatures:
 faq:
   - q: "How can Bazam help on our limited budget?"
     a:
-      - "Bazam replaces the need for expensive copywriters or agencies. The AI agent creates on-brand content in-house, so every dollar stays focused on your mission. It's a fraction of the cost of a hire."
+      - "Bazam replaces the need for expensive copywriters or agencies. Your AI agent creates on-brand content in-house, so every dollar stays focused on your mission. It's a fraction of the cost of a hire."
 
   - q: "We're a small team — how much time can this actually save?"
     a:

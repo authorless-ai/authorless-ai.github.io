@@ -60,6 +60,11 @@ languages:
           url: "/es/contacto/"
           weight: 40
       featuresMenu:
+        - name: "El Agente IA"
+          url: "/es/features/agente/"
+          weight: 5
+          params:
+            description: "Tu compañero de marketing siempre disponible — crea, estrategia y analiza a través de conversación"
         - name: "Redacción de contenido con IA"
           url: "/es/features/escritura-de-contenido/"
           weight: 10
@@ -172,6 +177,11 @@ menus:
     url: "/contact/"
     weight: 40
   featuresMenu:
+    - name: Your AI Agent
+      url: "/features/agent/"
+      weight: 5
+      params:
+        description: "Your always-on marketing teammate — create, strategise, and analyse through conversation"
     - name: AI Content Writing
       url: "/features/content-writing/"
       weight: 10

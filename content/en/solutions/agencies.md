@@ -41,7 +41,7 @@ features:
   image: "/images/feature-office-1.jpg"
   image_alt: "Agency growth metrics showing increased capacity."
   description:
-    - "Bazam doesn't just save time — it changes your agency's unit economics."
+    - "Bazam changes your agency's unit economics."
   points:
     - title: "More Accounts, Same Team"
       description: "The agent handles content production and reporting, so each account manager can support more clients."
@@ -58,7 +58,7 @@ cta:
 
 topFeatures:
   title: "Why Agencies Choose Bazam"
-  description: "The AI agent isn't just a feature — it's a new way to run your agency."
+  description: "A new way to run your agency."
   list:
     - title: "Instant Client Onboarding"
       description: "New hires chat with the agent to learn brand voice, audience, and campaign history. Productive from day one."
