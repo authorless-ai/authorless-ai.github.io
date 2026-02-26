@@ -5,3 +5,4 @@ node_modules/*
 _gen/
 ananke/
 hugo_stats.json
+/features.md
