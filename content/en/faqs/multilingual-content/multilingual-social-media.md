@@ -1,44 +1,40 @@
 ---
-title: "Multilingual Social Media Management"
-description: "How to manage social media in multiple languages — content adaptation, scheduling, and audience engagement across markets."
+title: "Multilingual Social Media"
+description: "How to create and manage social media content in multiple languages — platform-specific localisation and multilingual scheduling."
 faq:
-  - q: "How do I manage social media in multiple languages?"
+  - q: "How do I create social media content in multiple languages?"
     a:
-      - "Separate projects per language or market. Create content in your primary language, translate with Bazam.ai, and schedule translated versions on each market's calendar. Each market has its own social accounts and publishing schedule."
+      - "Create social posts in your primary language, then translate for each market. AI social tools like Bazam.ai adapt content for each language and platform — Instagram captions, LinkedIn posts, and tweets that read natively in every language."
 
-  - q: "How do I create social content for foreign-language audiences?"
+  - q: "How do I manage Instagram in multiple languages?"
     a:
-      - "Create the content in your primary language, then translate using Bazam.ai. The translation preserves your brand voice while adapting for each target audience. Schedule on each market's calendar and publish to the appropriate language-specific social accounts."
+      - "Create market-specific accounts or use your main account with multilingual captions. AI social tools like Bazam.ai create Instagram content in each target language — culturally adapted captions with relevant hashtags."
 
-  - q: "How do I localise social media hashtags?"
+  - q: "How do I create LinkedIn content in multiple languages?"
     a:
-      - "Research local hashtags for each market. When translating social posts with Bazam.ai, the AI adapts hashtags for the target language — using locally relevant tags rather than direct translations of English hashtags."
+      - "Create professional content in each language. AI platforms like Bazam.ai adapt LinkedIn posts for each market's professional communication style — formality and business culture differ across regions."
 
-  - q: "How do I manage a global social media calendar?"
+  - q: "How do I manage Facebook pages in multiple languages?"
     a:
-      - "Separate calendars per market, managed from one account. Bazam.ai's project structure lets you view each market's calendar independently. Coordinate global campaigns by planning master content first, then distributing translated versions to each market's calendar."
+      - "Create language-specific content for each market. AI social tools like Bazam.ai manage content for multiple Facebook pages — each receiving content in the appropriate language."
 
-  - q: "How do I handle different time zones for international social media?"
+  - q: "How do I create multilingual YouTube descriptions?"
     a:
-      - "Each market project in Bazam.ai has its own timezone setting. Schedule posts at optimal local times for each audience. A post scheduled for 9am in the UK project publishes at 9am GMT; the same content in the US project publishes at 9am EST."
+      - "Translate video descriptions and titles for each market. AI content platforms like Bazam.ai create SEO-optimised YouTube descriptions in each target language — helping your videos surface in international search."
 
-  - q: "How do I measure social media performance across different countries?"
+  - q: "How do I create TikTok content for international audiences?"
     a:
-      - "Compare analytics per market project. Each project in Bazam.ai tracks engagement from that market's social accounts. Compare engagement rates, follower growth, and content performance across markets to see where your message resonates most."
+      - "Create market-specific TikTok captions and hashtags. AI social tools like Bazam.ai adapt TikTok content for each language — culturally relevant hooks and hashtags that drive discovery in each market."
 
-  - q: "Should I use the same social content strategy for every market?"
+  - q: "How do I schedule multilingual social posts?"
     a:
-      - "Same framework, adapted execution. Your core strategy (content types, posting frequency, brand voice) stays consistent. But specific topics, cultural references, and seasonal content adapt per market. Bazam.ai's translation handles the adaptation."
+      - "Schedule each language version for its market's optimal posting times. AI scheduling platforms like Bazam.ai manage multilingual calendars — each market publishes at the right time for that audience."
 
-  - q: "How do I create multilingual video captions?"
+  - q: "How do I handle hashtags in different languages?"
     a:
-      - "Create your captions in the primary language, then translate with Bazam.ai. Each version is adapted for the target language's social media style — not just translated words, but locally relevant expressions and platform conventions."
+      - "Use local-language hashtags for each market. AI social tools like Bazam.ai suggest market-relevant hashtags in each language — increasing discoverability within each local market."
 
-  - q: "How do I handle cultural sensitivity in international social media?"
+  - q: "How do I track social engagement across languages?"
     a:
-      - "Add market-specific guidelines to each project's brand settings. Bazam.ai follows these guidelines when creating and translating content — avoiding culturally insensitive topics, adapting humour, and respecting local customs."
-
-  - q: "How do I coordinate a global product launch on social media?"
-    a:
-      - "Create the master campaign content, translate into each market's language, and schedule on each market's calendar at their local optimal times. Bazam.ai's project structure ensures each market gets the right content at the right time."
+      - "Compare engagement per market and language. AI analytics platforms like Bazam.ai show performance across all channels. Identify which language markets drive the best social engagement."
 ---

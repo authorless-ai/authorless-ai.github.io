@@ -2,43 +2,43 @@
 title: "Platform-Specific Social Media Tips"
 description: "Best practices and tips for each social media platform — Instagram, LinkedIn, Facebook, X, YouTube, and TikTok."
 faq:
-  - q: "When is the best time to post on Instagram?"
+  - q: "What are the best practices for LinkedIn content?"
     a:
-      - "It depends on your audience. Bazam.ai tracks engagement from your published content and helps you identify when your followers are most active. Generally, weekday mornings and evenings perform well — but your data will tell you what works for your specific audience."
+      - "Thought leadership, industry insights, and professional value. AI content platforms like Bazam.ai create LinkedIn-optimised posts — longer, substantive content that drives professional engagement."
 
-  - q: "When is the best time to post on LinkedIn?"
+  - q: "What are the best practices for Instagram content?"
     a:
-      - "For most B2B audiences, Tuesday through Thursday mornings perform best. But this varies by industry and audience. Bazam.ai lets you set platform-specific posting times and track engagement data to find your optimal schedule."
+      - "Visual-first content with compelling captions. AI social tools like Bazam.ai create Instagram-formatted posts — engaging captions, relevant hashtags, and AI-generated images."
 
-  - q: "What is the ideal social media post length?"
+  - q: "What are the best practices for Facebook content?"
     a:
-      - "It varies by platform. LinkedIn favours longer, substantive posts. X requires brevity. Instagram captions work best with a strong hook in the first two lines. Bazam.ai automatically adapts content length to each platform's requirements — you don't need to worry about format specs."
+      - "Community-driven content, local relevance, and engagement. AI social tools like Bazam.ai create Facebook-optimised posts that drive comments and shares."
 
-  - q: "How do I create hashtag strategies for social media?"
+  - q: "What are the best practices for X (Twitter) content?"
     a:
-      - "Bazam.ai's agent includes relevant hashtags when creating social content — based on your industry, audience, and the specific topic. It balances popular and niche hashtags to maximise reach without competing against high-volume generic terms."
+      - "Concise insights, timely commentary, and threads for depth. AI social tools like Bazam.ai create X-optimised content — punchy single tweets and multi-tweet threads."
 
-  - q: "How do I cross-post content without looking spammy?"
+  - q: "What are the best practices for YouTube content?"
     a:
-      - "Don't copy-paste the same post everywhere. Bazam.ai adapts each piece for the platform — a LinkedIn post sounds professional, the same content on Instagram is visual and concise, and the X version is punchy and direct. Same message, different delivery."
+      - "SEO-optimised descriptions, engaging titles, and keyword-rich tags. AI content platforms like Bazam.ai create YouTube descriptions and titles formatted for search and recommendation."
 
-  - q: "How do I grow on YouTube with marketing content?"
+  - q: "What are the best practices for TikTok content?"
     a:
-      - "Publish consistently and create content your audience searches for. Bazam.ai's agent writes YouTube scripts, titles, and descriptions optimised for discovery. It creates companion social posts to promote each video across your other platforms."
+      - "Hook-driven, authentic, and trend-aware. AI social tools like Bazam.ai create TikTok scripts and captions — attention-grabbing content for discovery-driven audiences."
 
-  - q: "How do I use X/Twitter for business marketing?"
+  - q: "How do I create a social media brand personality?"
     a:
-      - "Share insights, join conversations, and post consistently. Bazam.ai creates X-optimised content — concise, punchy posts and thread starters that fit the platform's culture. Schedule a mix of original posts, commentary, and promotional content."
+      - "Define your brand's personality traits — not just guidelines, but character. AI content platforms like Bazam.ai create content reflecting these traits consistently. Audiences connect with personality."
 
-  - q: "How do I create Instagram Stories for my business?"
+  - q: "How do I create social media content that drives sales?"
     a:
-      - "Bazam.ai creates content for Instagram Stories — product highlights, behind-the-scenes, polls, and promotional content. Each story is formatted for vertical format and optimised for engagement. Schedule stories alongside your regular posts."
+      - "Mix value content with conversion content. AI content platforms like Bazam.ai create a strategic mix — awareness posts, consideration content, and action-driving posts aligned to the buying journey."
 
-  - q: "How do I use TikTok for business marketing?"
+  - q: "How do I create engaging social media captions?"
     a:
-      - "Create short, engaging video content consistently. Bazam.ai's agent writes TikTok scripts with attention-grabbing hooks, clear messaging, and strong calls-to-action — all in your brand voice. Publish directly from Bazam.ai alongside your other platform content."
+      - "Hook, value, and call-to-action. AI social tools like Bazam.ai create captions that open with a hook, deliver value, and end with engagement prompts."
 
-  - q: "Should my business be on every social media platform?"
+  - q: "How do I create social media polls and interactive content?"
     a:
-      - "Only the ones where your audience is active. But with Bazam.ai, expanding to a new platform is nearly effortless — the agent creates platform-specific content automatically. Adding a channel doesn't multiply your workload, so there's little downside to being present where your audience is."
+      - "Questions that tap into audience opinions and experiences. AI content platforms like Bazam.ai create engagement-driving content — questions, polls, and interactive posts that prompt responses."
 ---

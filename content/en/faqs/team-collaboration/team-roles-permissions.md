@@ -2,51 +2,43 @@
 title: "Team Roles, Permissions & Organisation"
 description: "How to structure team roles and permissions for efficient, secure content collaboration."
 faq:
-  - q: "What team roles does Bazam.ai support?"
+  - q: "What team roles exist in content marketing platforms?"
     a:
-      - "Bazam.ai supports admin, editor, and contributor roles. Admins manage brand settings, billing, and team access. Editors review and publish content. Contributors create content through the agent. Each role has appropriate permissions."
+      - "Typically admin, editor, and contributor. AI marketing platforms like Bazam.ai support role-based access — admins manage settings, editors review and approve, contributors create content."
 
-  - q: "How do marketing teams manage content permissions?"
+  - q: "How do I set up team permissions?"
     a:
-      - "Use role-based access controls. In Bazam.ai, admins manage brand settings, billing, and team access. Editors review and publish content. Contributors create through the AI agent but can't publish directly. Approval workflows ensure nothing goes live without the right sign-off — quality control without bottlenecks."
+      - "Assign roles matching your team structure. AI marketing platforms like Bazam.ai offer project-specific permissions — each team member has appropriate access for their responsibilities."
 
-  - q: "How do I prevent team members from publishing without approval?"
+  - q: "How do I prevent content from being published without approval?"
     a:
-      - "Set up approval workflows. Contributors create content but can't publish directly. Editors and admins review and approve before anything goes live. This ensures quality control without slowing down content production."
+      - "Approval workflows. AI content platforms like Bazam.ai require authorised approval before any content goes live. Contributors create; editors or admins approve."
 
-  - q: "How do I manage team access to sensitive brand information?"
+  - q: "How do I organise a large content team?"
     a:
-      - "Bazam.ai's role-based permissions control who can access brand settings, knowledge base documents, and publishing channels. Assign roles appropriate to each team member's responsibility — contributors don't need access to billing or brand configuration."
+      - "Define clear roles and assign to specific projects. AI marketing platforms like Bazam.ai support team organisation — project assignments, role-based access, and clear accountability."
 
-  - q: "Can freelancers use Bazam.ai alongside my team?"
+  - q: "How do I give clients limited access to our content platform?"
     a:
-      - "Yes. Invite freelancers with contributor access. They create content through Bazam.ai's agent using your brand voice and knowledge base — producing on-brand work without extensive briefing. Your team reviews and approves."
+      - "Restricted permissions. AI marketing platforms like Bazam.ai let you grant view-only or comment-only access to clients — they see content without being able to change settings."
 
-  - q: "How do I give freelancers access to my marketing tools?"
+  - q: "How do I manage intern and junior access?"
     a:
-      - "In Bazam.ai, invite freelancers with contributor-level access. They create content through the AI agent using your brand voice and knowledge base — producing on-brand work without extensive briefing documents. Your team reviews and approves before publishing. Freelancers work within your system without seeing billing or brand configuration."
+      - "Contributor role with limited permissions. AI content platforms like Bazam.ai let juniors create content within brand guardrails — approval workflows ensure quality review."
 
-  - q: "How do I track who created which content?"
+  - q: "How do I structure permissions for multi-brand teams?"
     a:
-      - "Bazam.ai tracks content ownership — who created it, who edited it, and who approved it. The full content lifecycle is attributed to the responsible team members."
+      - "Per-project permissions. AI marketing platforms like Bazam.ai assign team members to specific brand projects — they only see and access the brands they're responsible for."
 
-  - q: "How do I manage an international marketing team?"
+  - q: "How do I track team member activity?"
     a:
-      - "Bazam.ai supports multi-language content creation and team collaboration across time zones. Team members anywhere in the world create content in the same brand voice. The content calendar handles timezone differences for scheduling."
+      - "Activity tracking. AI marketing platforms like Bazam.ai show who created, reviewed, approved, and published each piece — full accountability."
 
-  - q: "How does Bazam.ai handle billing for teams?"
+  - q: "How do I create content review workflows?"
     a:
-      - "Bazam.ai offers team subscriptions with credit-based pricing. Your team shares a credit pool — each piece of content uses credits. Auto top-up ensures you never run out. Manage billing from the admin dashboard."
+      - "Define approval stages and assign reviewers. AI content platforms like Bazam.ai support multi-level approval — content flows through your configured review chain."
 
-  - q: "Can I see my team's content creation activity?"
+  - q: "How do I manage seasonal or temporary team members?"
     a:
-      - "Yes. Bazam.ai tracks team activity — content created, content in review, content published, and team member contributions. Admins see the full picture of team productivity."
-
-  - q: "How do I structure my marketing team around AI?"
-    a:
-      - "AI handles production; humans handle strategy. Use Bazam.ai to restructure your team — juniors handle content creation through the agent, mid-level staff manage campaigns and review content, and seniors focus on strategy and client relationships."
-
-  - q: "Can I set up different workflows for different content types?"
-    a:
-      - "Yes. Configure approval workflows per content type or campaign. Blog posts might require senior approval while social posts need only editorial review. The workflow adapts to your team's quality control requirements."
+      - "Add and remove easily. AI marketing platforms like Bazam.ai let you add temporary team members with appropriate permissions and remove them when the project ends."
 ---

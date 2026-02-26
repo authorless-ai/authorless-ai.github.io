@@ -26,6 +26,7 @@
 
   {{ partial "feature/cta.html" (index .Site.Data .Site.Language.Lang).cta }}
 
+  {{ partial "json-ld-website.html" . }}
 {{ end }}
 
 {{ define "styles" }}

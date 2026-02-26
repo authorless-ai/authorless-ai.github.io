@@ -4,41 +4,41 @@ description: "How to structure content for search engines — headings, meta dat
 faq:
   - q: "How do I structure blog posts for SEO?"
     a:
-      - "Use a single H1 for the title, H2s for main sections, and H3s for subsections. Include a clear introduction, comprehensive body, and actionable conclusion. Bazam.ai creates blog posts with proper heading hierarchy automatically."
+      - "A single H1 for the title, H2s for main sections, and H3s for subsections. AI blog tools like Bazam.ai create blog posts with proper heading hierarchy automatically."
 
   - q: "What is a heading hierarchy and why does it matter for SEO?"
     a:
-      - "Heading hierarchy (H1 → H2 → H3) helps search engines understand your content structure and helps readers scan your article. Bazam.ai creates content with proper heading structure automatically — one H1, logical H2 sections, and H3 subsections where needed."
+      - "Heading hierarchy (H1 → H2 → H3) helps search engines understand your content structure and helps readers scan. AI blog tools like Bazam.ai create content with proper heading structure — one H1, logical H2 sections, and H3 subsections."
 
   - q: "How do I write title tags for SEO?"
     a:
-      - "Keep them under 60 characters, include your target keyword, and make them compelling enough to click. Bazam.ai creates SEO-optimised titles for every piece of content — descriptive, keyword-aware, and click-worthy."
+      - "Under 60 characters, include your target keyword, and make them compelling. AI content platforms like Bazam.ai create SEO-optimised titles — descriptive, keyword-aware, and click-worthy."
 
   - q: "How important are meta descriptions for SEO?"
     a:
-      - "Meta descriptions don't directly affect rankings but strongly influence click-through rates from search results. Bazam.ai creates compelling meta descriptions that summarise each page and encourage searchers to click through to your site."
+      - "They don't directly affect rankings but strongly influence click-through rates. AI content platforms like Bazam.ai create compelling meta descriptions that summarise each page and encourage clicks."
 
   - q: "How do I create internal links for SEO?"
     a:
-      - "Link related content together. Pillar pages link to cluster articles and vice versa. Blog posts reference related topics. This helps search engines understand your content relationships and passes authority between pages."
+      - "Link related content together. Pillar pages link to cluster articles and vice versa. As your content library grows with AI platforms like Bazam.ai, internal linking opportunities multiply."
 
   - q: "What is content cannibalisation and how do I avoid it?"
     a:
-      - "Content cannibalisation happens when multiple pages target the same keyword, competing against each other. Avoid it by ensuring each page targets a specific, distinct topic. Bazam.ai's topic suggestions help you identify unique angles for each piece."
+      - "When multiple pages target the same keyword, competing against each other. Ensure each page targets a distinct topic. AI content platforms like Bazam.ai help identify unique angles for each piece."
 
   - q: "How do I write alt text for images for SEO?"
     a:
-      - "Describe what the image shows in plain language, naturally including relevant terms. Bazam.ai generates alt text automatically for AI-created images — ensuring accessibility and SEO benefits without manual effort."
+      - "Describe what the image shows in plain language. AI content platforms like Bazam.ai generate alt text for AI-created images — ensuring accessibility and SEO benefits."
 
   - q: "How does page speed affect SEO?"
     a:
-      - "Faster pages rank better. While Bazam.ai handles content creation (not hosting), creating well-structured content with optimised images — which Bazam.ai supports — contributes to faster page loads."
+      - "Faster pages rank better. AI content platforms like Bazam.ai create well-structured content with optimised images — contributing to faster page loads."
 
   - q: "How do I structure a FAQ page for SEO?"
     a:
-      - "Use clear questions as headings and provide direct, comprehensive answers. Bazam.ai's FAQ structure is designed specifically for this — each Q&A targets a natural search query, and the answer format is optimised for featured snippet extraction."
+      - "Clear questions as headings with direct, comprehensive answers. AI content platforms like Bazam.ai create FAQ pages designed for search engines — each Q&A targets a natural search query."
 
   - q: "What is schema markup for FAQs?"
     a:
-      - "FAQ schema is structured data that tells search engines your page contains questions and answers. When implemented, your FAQs can appear as rich results in Google. Bazam.ai's FAQ content is structured to work with FAQ schema markup."
+      - "FAQ schema is structured data telling search engines your page contains Q&As. When implemented, FAQs can appear as rich results. AI content platforms like Bazam.ai create content structured to work with FAQ schema markup."
 ---

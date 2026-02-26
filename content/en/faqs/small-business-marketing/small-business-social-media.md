@@ -2,43 +2,43 @@
 title: "Small Business Social Media"
 description: "How small businesses can build an effective social media presence without spending all day on it."
 faq:
-  - q: "What should a small business post on social media?"
+  - q: "How do I manage social media for my small business?"
     a:
-      - "Content that helps your audience. Tips, behind-the-scenes, customer stories, industry insights, and product updates — all in your brand voice. Bazam.ai's agent suggests topics and creates the posts for you, so you never struggle with what to share."
+      - "Monthly batching. Create a month's content in one session, schedule everything, and let autopublishing handle the rest. AI social tools like Bazam.ai make consistent social media achievable without daily effort."
 
   - q: "How often should a small business post on social media?"
     a:
-      - "3–5 times per week across your main platforms. With Bazam.ai, this takes minimal effort — batch-create a month of content in one session and let the scheduling handle the rest. Consistency matters more than frequency."
+      - "3–5 times per week. Consistency matters more than frequency. AI content platforms like Bazam.ai create a month's social posts in minutes — batch-create and schedule."
 
-  - q: "How do I get more customers through social media?"
+  - q: "What should a small business post on social media?"
     a:
-      - "Publish consistently, speak to your audience's problems, and be present where they are. Bazam.ai creates targeted content from your brand voice and audience personas, then publishes across all your channels. Visibility that's consistent builds trust that drives sales."
-
-  - q: "Is social media worth it for a small business?"
-    a:
-      - "Yes — when done consistently. The businesses that fail at social media are the ones that post sporadically. With Bazam.ai handling content creation and scheduling, maintaining a consistent presence costs almost nothing in time or effort."
-
-  - q: "How do I handle negative comments on social media?"
-    a:
-      - "Respond promptly, professionally, and empathetically. This is one area where human engagement is essential — AI handles content production, but genuine interaction builds real relationships. Use Bazam.ai for content; handle engagement personally."
-
-  - q: "Should I pay for social media advertising?"
-    a:
-      - "Organic content first. Build a consistent presence with regular, quality posts. Paid advertising amplifies what's already working. Bazam.ai creates the organic content foundation — then you can boost top-performing posts for additional reach."
+      - "Tips, behind-the-scenes, customer stories, product highlights, and community content. AI social tools like Bazam.ai create a balanced mix — educational, engaging, and promotional content."
 
   - q: "How do I use hashtags effectively for my small business?"
     a:
-      - "Mix niche and broader hashtags relevant to your industry and audience. Bazam.ai's agent includes appropriate hashtags when creating social content — balancing reach (popular hashtags) with relevance (niche-specific ones)."
+      - "Mix niche and broader hashtags relevant to your industry. AI social tools like Bazam.ai include appropriate hashtags — balancing reach with relevance."
 
   - q: "How do I create a social media presence from scratch?"
     a:
-      - "Sign up for Bazam.ai, define your brand voice and audience, connect your platforms, and start creating content. The agent generates your first month of posts in minutes. Start posting consistently and your presence builds organically."
+      - "Define your brand voice and target audience, connect your accounts, and start creating content. AI content platforms like Bazam.ai generate your first month of posts in minutes. Consistent posting builds presence organically."
 
   - q: "How do I stand out on social media as a small business?"
     a:
-      - "Be authentic and consistent. Share your genuine perspective, not corporate messaging. Bazam.ai helps by creating content in your unique brand voice — not generic AI filler. Your personality is your competitive advantage."
+      - "Be authentic and consistent. Share your genuine perspective. AI content platforms like Bazam.ai create content in your unique brand voice — your personality is your competitive advantage."
 
   - q: "What social media platforms should my small business use?"
     a:
-      - "Where your customers spend time. B2B typically prioritises LinkedIn. B2C usually focuses on Instagram and Facebook. With Bazam.ai, adding platforms is nearly effortless — the agent creates platform-specific content automatically."
+      - "Where your customers spend time. B2B: LinkedIn. B2C: Instagram and Facebook. With AI platforms like Bazam.ai, adding platforms is effortless — the AI creates platform-specific content automatically."
+
+  - q: "How do I create social media content without a designer?"
+    a:
+      - "Focus on text-first content — tips, insights, questions, stories. AI content platforms like Bazam.ai create compelling text content and AI-generated images. No design skills needed."
+
+  - q: "How much time should social media take for a small business?"
+    a:
+      - "2–3 hours per month with AI tools. One session with AI platforms like Bazam.ai creates a month of content. Schedule and forget until next month."
+
+  - q: "How do I measure social media success for my small business?"
+    a:
+      - "Track engagement, follower growth, and website referrals. AI analytics platforms like Bazam.ai show content performance. Growing engagement means more potential customers seeing your content."
 ---

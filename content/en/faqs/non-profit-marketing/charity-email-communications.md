@@ -1,44 +1,40 @@
 ---
-title: "Non-Profit Email Marketing & Communications"
-description: "How non-profits use email to maintain donor relationships, communicate impact, and drive recurring giving."
+title: "Charity Email Communications"
+description: "How charities and non-profits create effective email communications — fundraising appeals, donor updates, and supporter engagement."
 faq:
-  - q: "How do charities use email marketing effectively?"
+  - q: "How do charities write effective fundraising emails?"
     a:
-      - "Regular, value-driven communication. Impact updates, programme stories, and transparent reporting — not just donation asks. Use Bazam.ai's email wizard to create engaging newsletters that keep donors connected to your mission."
+      - "Lead with impact, be specific about needs, and make giving easy. AI email platforms like Bazam.ai create compelling fundraising emails from your programme data — connecting donations to concrete outcomes."
 
-  - q: "How do I create a donor welcome email sequence?"
+  - q: "How do charities create donor newsletters?"
     a:
-      - "Welcome → mission overview → impact examples → programme deep-dive → first engagement opportunity. Create each email with Bazam.ai's wizard. The sequence builds the relationship before asking for anything further."
+      - "Monthly impact updates, programme news, and upcoming events. AI email platforms like Bazam.ai create professional newsletters from your knowledge base — consistent, informative, and mission-focused."
 
-  - q: "How do I write fundraising emails that don't feel like begging?"
+  - q: "How do charities create a welcome email series?"
     a:
-      - "Lead with impact, not need. Show what contributions achieve rather than what you lack. Upload impact data to Bazam.ai's knowledge base. The AI creates appeal emails focused on opportunity and outcomes, not desperation."
+      - "Welcome → mission intro → impact showcase → first ask. AI email platforms like Bazam.ai create welcome sequences that introduce new supporters to your organisation and build the relationship."
 
-  - q: "How do I retain monthly donors through email?"
+  - q: "How do charities write appeal letters?"
     a:
-      - "Regular impact reports. Monthly email updates showing exactly what their recurring gift is achieving. Use Bazam.ai's email wizard to create personalised monthly updates — 'This month, your support helped X.' Donors who see impact continue giving."
+      - "Personal, specific, and outcome-focused. AI content platforms like Bazam.ai create appeal letters from your impact data and beneficiary stories — content that connects emotionally and motivates giving."
 
-  - q: "How do I create a year-end appeal email?"
+  - q: "How do charities segment their email communications?"
     a:
-      - "Summarise the year's impact, set a specific goal, and create urgency. Upload your annual outcomes to the knowledge base. Use Bazam.ai's email wizard to create a compelling, data-backed year-end appeal with a clear donation CTA."
+      - "Different messages for different supporter types — first-time donors, recurring donors, major donors, and volunteers. AI email platforms like Bazam.ai create persona-targeted communications for each segment."
 
-  - q: "How do I segment non-profit email lists?"
+  - q: "How do charities create event invitation emails?"
     a:
-      - "By donor type: major donors, monthly givers, one-time donors, volunteers, and prospects. Create persona profiles in Bazam.ai for each segment. Each email is tailored to their relationship with your organisation."
+      - "Event details, the 'why attend,' and easy RSVP. AI email platforms like Bazam.ai create event invitation emails and follow-up sequences — initial invitation, reminder, countdown, and post-event thank-you."
 
-  - q: "How do I create event invitation emails for a non-profit?"
+  - q: "How do charities send thank-you emails effectively?"
     a:
-      - "Compelling subject line, event details, RSVP call-to-action, and a reason to attend. Use Bazam.ai's email wizard with event details from the knowledge base. Create save-the-date, formal invitation, and reminder emails as a scheduled sequence."
+      - "Immediately, specifically, and genuinely. AI email platforms like Bazam.ai create thank-you emails that reference the specific campaign — donors feel valued and see their impact."
 
-  - q: "How do I write thank-you emails that strengthen donor relationships?"
+  - q: "How do charities write year-end appeal emails?"
     a:
-      - "Personal, specific, and prompt. Thank within 24 hours. Reference their specific gift and its impact. Use Bazam.ai's email wizard with donor information — 'Your £50 donation will provide X.' Genuine gratitude builds lasting relationships."
+      - "A campaign sequence: impact summary → appeal → reminder → urgency → final call. AI email platforms like Bazam.ai create the complete sequence, building from reflection to action as the year ends."
 
-  - q: "How do I create a non-profit email calendar?"
+  - q: "How do charities improve email deliverability?"
     a:
-      - "Map the year: monthly newsletters, quarterly impact reports, annual appeals, event invitations, and thank-you sequences. Schedule all on Bazam.ai's content calendar alongside social content. Consistent email communication keeps supporters engaged year-round."
-
-  - q: "How do I increase email donations for my charity?"
-    a:
-      - "Clear impact statements, specific ask amounts, and easy donation links. Create monthly appeals with Bazam.ai's email wizard — each email connects a specific donation amount to a tangible outcome. Clarity and specificity increase generosity."
+      - "Clean lists, consistent sending, and quality content. AI email platforms like Bazam.ai create professional, value-driven emails that supporters want to receive — genuine communication that avoids spam triggers."
 ---

@@ -4,41 +4,41 @@ description: "How to generate endless content ideas for social media and create 
 faq:
   - q: "How do I come up with social media content ideas?"
     a:
-      - "Ask Bazam.ai's agent. It suggests topics based on your business, audience interests, industry trends, and what's previously performed well. You'll never stare at a blank screen again — the agent generates fresh content ideas on demand, any time you need them."
+      - "Customer questions, industry trends, behind-the-scenes, and educational tips. AI content platforms like Bazam.ai suggest content ideas based on your industry and audience — unlimited inspiration."
 
-  - q: "What type of content gets the most engagement on social media?"
+  - q: "What should I post on social media?"
     a:
-      - "Content that speaks directly to your audience's interests and pain points. Bazam.ai creates audience-targeted posts using your detailed personas — so every post is relevant, not generic. Educational tips, behind-the-scenes, and opinion-led posts consistently outperform pure promotion."
+      - "Value-first content — tips, insights, stories, and behind-the-scenes. AI content platforms like Bazam.ai create a balanced content mix mapped to the buyer journey."
 
-  - q: "How do I increase engagement on Instagram?"
+  - q: "How do I create engaging social media posts?"
     a:
-      - "Post consistently with content tailored to your audience's interests. Bazam.ai creates Instagram-optimised captions with engaging hooks, relevant hashtags, and clear calls-to-action. Schedule posts for optimal times and the agent handles the rest."
+      - "Hook, value, and call-to-engagement. AI social tools like Bazam.ai create posts designed to drive comments, shares, and saves — the engagement signals algorithms reward."
 
-  - q: "How do I get more engagement on LinkedIn?"
+  - q: "How do I create social media content consistently?"
     a:
-      - "Share genuine insights, not generic advice. Bazam.ai's agent creates thought-leadership content from your expertise and brand positioning — posts that add real value to your audience's LinkedIn feed. Consistency and substance drive LinkedIn engagement."
+      - "Monthly batching. AI content platforms like Bazam.ai create a month's social posts in one session. Schedule everything and autopublishing maintains consistency."
 
-  - q: "How do I increase my Facebook page engagement?"
+  - q: "How do I create social media content for holidays and events?"
     a:
-      - "Post content that invites interaction — questions, opinions, and stories. Bazam.ai creates Facebook-optimised posts with engaging formats and hooks. Schedule consistently and track which topics drive the most comments, shares, and reactions."
+      - "Plan seasonal content on the calendar months ahead. AI content platforms like Bazam.ai create holiday-themed, event-tied content — scheduled in advance and published automatically."
 
-  - q: "What should I post on social media when I have nothing to say?"
+  - q: "How do I create educational social content?"
     a:
-      - "Ask Bazam.ai's agent. Tell it about your business and audience, and it generates content ideas you hadn't considered — from industry observations to customer-focused tips. Writer's block isn't a problem when you have an AI brainstorming partner available 24/7."
+      - "Share expertise in bite-sized, platform-native formats. AI content platforms like Bazam.ai turn your knowledge base into educational social posts — tips, how-tos, and industry insights."
 
-  - q: "How often should I post on social media?"
+  - q: "How do I repurpose content for social media?"
     a:
-      - "3–5 times per week on most platforms. Consistency matters more than frequency. Bazam.ai makes this achievable by creating and scheduling an entire month of posts in one session — so maintaining a regular cadence requires minimal ongoing effort."
+      - "Turn blog posts into social threads, tips into carousels, and FAQs into question posts. AI content platforms like Bazam.ai transform one piece of content into multiple social formats."
 
-  - q: "How do I create engaging video content for social media?"
+  - q: "What content types perform best on social media?"
     a:
-      - "Start with the script. Bazam.ai's agent creates video scripts for TikTok, Instagram Reels, and YouTube — complete with hooks, talking points, and calls-to-action. Each script is written for the platform's format and your brand voice."
+      - "Questions, tips, behind-the-scenes, and honest opinions. AI analytics platforms like Bazam.ai show which formats drive the most engagement for your specific audience."
 
-  - q: "How do I make my social media content more personal?"
+  - q: "How do I create a social media content strategy?"
     a:
-      - "Define your brand personality in Bazam.ai — not just professional guidelines, but the personality traits that make your brand unique. The agent creates content that reflects these traits consistently. Audiences connect with personality, not corporate messaging."
+      - "Define themes, frequency, and goals per platform. AI marketing platforms like Bazam.ai provide the execution — content creation, scheduling, and analytics to refine your strategy."
 
-  - q: "How do I create social media content that drives sales?"
+  - q: "How do I keep social media content fresh?"
     a:
-      - "Mix conversion content with value content. Bazam.ai automatically creates a strategic mix — some posts build awareness, others nurture interest, and others drive action. The agent aligns content to the AIDA buying journey so your social feed isn't all promotion, but always moves toward conversion."
+      - "Rotate content types and explore new angles. AI content platforms like Bazam.ai suggest varied approaches — different formats, perspectives, and hooks for the same core topics."
 ---

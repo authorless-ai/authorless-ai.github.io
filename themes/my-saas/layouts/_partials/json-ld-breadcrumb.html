@@ -1,0 +1,25 @@
+{{- $ancestors := .Ancestors.Reverse -}}
+{{- if or $ancestors (not .IsHome) -}}
+
+{{- $items := slice -}}
+{{- $pos := 1 -}}
+{{- range $ancestors -}}
+  {{- $name := .Title -}}
+  {{- if .IsHome }}{{ $name = $.Site.Title }}{{ end -}}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" $name "item" .Permalink) -}}
+  {{- $pos = add $pos 1 -}}
+{{- end -}}
+{{- if not .IsHome -}}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+{{- end -}}
+
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "BreadcrumbList"
+  "itemListElement" $items
+-}}
+
+<script type="application/ld+json">
+{{ $data | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}

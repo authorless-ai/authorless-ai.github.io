@@ -4,41 +4,41 @@ description: "How marketing teams manage content production — roles, permissio
 faq:
   - q: "How do I get my whole team creating content?"
     a:
-      - "Give them access to an AI content tool with built-in brand guardrails. In Bazam.ai, add team members and assign them to projects. They create content by chatting with the AI agent or using writing wizards — the brand voice settings ensure everything stays on-brand regardless of who creates it."
+      - "Give them access to an AI content tool with brand guardrails. AI content platforms like Bazam.ai let team members create content through guided wizards — brand voice settings ensure everything stays on-brand regardless of who creates it."
 
   - q: "How do I organise my marketing team's content workflow?"
     a:
-      - "Define roles: creators produce content, editors review it, admins manage settings. Bazam.ai's permission system matches this — assign roles with appropriate access levels. Content flows from creation → review → approval → scheduling → publishing in a clear, trackable pipeline."
+      - "Define roles: creators produce, editors review, admins manage. AI content platforms like Bazam.ai match this with role-based permissions. Content flows from creation → review → approval → scheduling → publishing."
 
   - q: "How do I control who can publish content?"
     a:
-      - "Set role-based permissions. In Bazam.ai, only authorised roles (editors, admins) can approve and publish content. Contributors create and submit, but can't push live. Nothing reaches your audience without going through your configured approval chain."
+      - "Role-based permissions. AI content platforms like Bazam.ai ensure only authorised roles can approve and publish. Contributors create and submit; nothing reaches your audience without approval."
 
   - q: "How do I onboard new team members to our content workflow?"
     a:
-      - "Add them to Bazam.ai, assign their role and projects, and they're productive immediately. The brand voice settings and knowledge base are already configured — new team members produce on-brand content from their first session. No weeks of training needed."
+      - "Add them to the platform and assign their role. AI marketing platforms like Bazam.ai have pre-configured brand voice and knowledge base. New team members produce on-brand content immediately."
 
   - q: "How do I prevent different team members from duplicating content?"
     a:
-      - "Use the shared content calendar. Everyone on the team sees the same schedule — which topics are covered, which dates are filled, and which platforms have posts queued. The calendar prevents accidental duplication because the full picture is always visible."
+      - "Shared content calendar. AI marketing platforms like Bazam.ai show the same schedule to everyone — which topics are covered, which dates are filled, and which platforms have posts queued."
 
   - q: "How do I manage content for different clients in a team?"
     a:
-      - "Separate projects for each client. In Bazam.ai, every client has an isolated workspace with its own brand voice, knowledge base, and calendar. Assign team members to specific client projects — they only see the clients they're responsible for."
+      - "Separate projects per client. AI marketing platforms like Bazam.ai isolate each client's brand voice, knowledge base, and calendar. Assign team members to specific client projects."
 
   - q: "How do I let my team work independently without losing quality?"
     a:
-      - "Brand settings plus approval workflows. Bazam.ai enforces your brand voice automatically on every piece. Then your approval process catches anything that needs adjustment. Teams work independently with confidence — quality is systematically maintained, not individually policed."
+      - "Brand settings plus approval workflows. AI content platforms like Bazam.ai enforce brand voice automatically. Approval catches anything that needs adjustment."
 
   - q: "How do I split marketing responsibilities across a team?"
     a:
-      - "By platform, content type, or client — whatever matches your team structure. In Bazam.ai, assign team members to the projects or campaigns they own. The content calendar shows who's responsible for what. Permissions ensure each person has the access they need."
+      - "By platform, content type, or client. AI marketing platforms like Bazam.ai support flexible team structures — assign members to projects or campaigns. The calendar shows who's responsible for what."
 
   - q: "How many people can use one content marketing platform?"
     a:
-      - "As many as your plan supports. Bazam.ai scales from solopreneurs to large teams — each member gets their own login and works within the same content ecosystem. See the pricing page for team size options per plan."
+      - "As many as your plan supports. AI marketing platforms like Bazam.ai scale from solopreneurs to large teams — each member gets their own login within the same content ecosystem."
 
   - q: "How do I track what each team member has created?"
     a:
-      - "Bazam.ai maintains a full history — who created each piece, who reviewed it, who approved it, and when. The audit trail provides complete accountability. Useful for performance reviews, client billing, and quality assurance."
+      - "Full activity history. AI marketing platforms like Bazam.ai record who created, reviewed, approved, and published each piece — complete accountability for performance reviews and quality assurance."
 ---

@@ -1,0 +1,17 @@
+{{- $logo := resources.Get "images/logo.png" -}}
+
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "name" .Site.Title
+  "url" .Site.BaseURL
+-}}
+
+{{- with $logo -}}
+  {{- $logoObj := dict "@type" "ImageObject" "url" (printf "%s%s" (strings.TrimRight "/" $.Site.BaseURL) .RelPermalink) -}}
+  {{- $data = merge $data (dict "logo" $logoObj) -}}
+{{- end -}}
+
+<script type="application/ld+json">
+{{ $data | jsonify (dict "indent" "  ") | safeJS }}
+</script>

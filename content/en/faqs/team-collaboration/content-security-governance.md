@@ -2,43 +2,43 @@
 title: "Content Security & Governance"
 description: "How to manage content security, compliance, and governance — permissions, audit trails, and brand protection."
 faq:
-  - q: "How do I prevent unauthorised content from being published?"
+  - q: "How do I control who can publish content?"
     a:
-      - "Role-based permissions and approval workflows. In Bazam.ai, only editors and admins can publish. Contributors create and submit — content must be approved before scheduling. The permission system enforces governance by design."
+      - "Role-based permissions. AI marketing platforms like Bazam.ai assign roles — admins publish, editors approve, contributors create. Content flows through approval chains before going live."
 
-  - q: "How do I create an audit trail for published content?"
+  - q: "How do I create an audit trail for content?"
     a:
-      - "Bazam.ai tracks who created each piece, who reviewed it, who approved it, and when it was published. For regulated industries or compliance requirements, the complete content history is available for auditing."
+      - "AI marketing platforms like Bazam.ai track who created, edited, approved, and published every piece of content. Full history provides accountability and compliance evidence."
 
-  - q: "How do I ensure content meets compliance requirements?"
+  - q: "How do I prevent unauthorised content publishing?"
     a:
-      - "Add compliance guidelines to your brand settings — required disclosures, prohibited claims, regulatory language. Approval workflows add a human compliance check before any content publishes. Built-in guardrails plus human review."
+      - "Approval workflows. AI content platforms like Bazam.ai require approval before content can be published. Only authorised roles can push content live."
 
-  - q: "How do I protect my brand from content disasters?"
+  - q: "How do I protect brand consistency?"
     a:
-      - "Prevention through process. Brand voice settings prevent off-brand content. Approval workflows prevent unapproved publishing. The combination of AI guardrails and human review catches problems before they reach the public."
+      - "Brand voice settings plus approval workflows. AI content platforms like Bazam.ai enforce voice automatically. Approval catches any exceptions before publishing."
 
-  - q: "How do I manage content permissions for different team members?"
+  - q: "How do I manage content compliance?"
     a:
-      - "Assign roles per project. Admins see everything; editors manage review and publishing; contributors create and submit. Each person accesses only what they need. No contributor accidentally publishes to a client account."
+      - "Approval chains ensure review before publishing. AI content platforms like Bazam.ai support multi-level approval workflows — content passes through designated reviewers."
+
+  - q: "How do I manage content access for temporary team members?"
+    a:
+      - "Add with limited permissions, remove when done. AI marketing platforms like Bazam.ai support role-based access — temporary team members see only what they need."
+
+  - q: "How do I back up my content?"
+    a:
+      - "AI marketing platforms like Bazam.ai store all content in the cloud. Your content library, knowledge base, and publishing history are maintained and accessible."
 
   - q: "How do I manage content for regulated industries?"
     a:
-      - "Add regulatory requirements to brand settings and approval workflows. Financial disclosures, health disclaimers, and legal requirements are embedded in the content creation and review process. Compliance is systematic, not optional."
+      - "Multi-level approval workflows ensure compliance review. AI content platforms like Bazam.ai support approval chains — legal, compliance, and marketing review before publishing."
 
-  - q: "How do I control what AI can and cannot say in content?"
+  - q: "How do I handle content deletion and archiving?"
     a:
-      - "Brand voice settings include negative instructions — things to avoid, tones to never use, claims to never make. Bazam.ai respects these boundaries. Combined with human approval, content stays within defined limits."
+      - "Archive rather than delete. AI content platforms like Bazam.ai maintain content history — nothing is permanently lost. Archived content remains accessible for reference."
 
-  - q: "How do I recover from a content mistake?"
+  - q: "How do I manage brand assets securely?"
     a:
-      - "Identify the published mistake, create a corrected version, and republish immediately. Use Bazam.ai's audit trail to understand what went wrong — where in the process the error slipped through. Update the workflow to prevent recurrence."
-
-  - q: "How do I separate client content securely?"
-    a:
-      - "Project-level isolation. Each client's content, brand settings, knowledge base, and publishing channels are fully isolated in their own project. No data crosses between projects. Security is structural, not procedural."
-
-  - q: "How do I set up content governance for a growing team?"
-    a:
-      - "Define roles, configure approval workflows, and set brand guardrails before the team grows. Bazam.ai scales governance with the team — new members inherit the existing structure. Governance is established once and maintained automatically."
+      - "Centralised media library with access controls. AI marketing platforms like Bazam.ai store brand assets with permission-based access — the right people access the right assets."
 ---

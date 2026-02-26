@@ -29,10 +29,21 @@
       <link rel="canonical" href="{{ .Permalink }}">
     {{ end }}
 
+    {{- partial "hreflang.html" . -}}
+
+    {{- if not .Params.images -}}
+      {{- $logo := resources.Get "images/logo.png" -}}
+      {{- with $logo -}}
+        <meta property="og:image" content="{{ printf "%s%s" (strings.TrimRight "/" $.Site.BaseURL) .RelPermalink }}">
+      {{- end -}}
+    {{- end -}}
+
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
+    {{- partial "json-ld-org.html" . -}}
+    {{- partial "json-ld-breadcrumb.html" . -}}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
       {{ partial "google_analytics.html" . }}

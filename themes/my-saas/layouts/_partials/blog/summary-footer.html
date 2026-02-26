@@ -4,7 +4,7 @@
     {{ $image := .Resources.GetMatch "cover.*" }}
     {{ if $image }}
     <a href="{{ $page.RelPermalink }}">
-        <img src="{{ $image.RelPermalink }}" class="mb-5 rounded-lg" alt="Image">
+        <img src="{{ $image.RelPermalink }}" class="mb-5 rounded-lg" alt="{{ $page.Title }}">
     </a>
     {{ end }}
     <h2 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">

@@ -1,0 +1,32 @@
+{{- $author := .Params.author | default .Site.Params.author -}}
+{{- $logo := resources.Get "images/logo.png" -}}
+{{- $desc := .Description -}}
+{{- if not $desc }}{{ $desc = .Summary | plainify }}{{ end -}}
+
+{{- $publisher := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL -}}
+{{- with $logo -}}
+  {{- $logoObj := dict "@type" "ImageObject" "url" (printf "%s%s" (strings.TrimRight "/" $.Site.BaseURL) .RelPermalink) -}}
+  {{- $publisher = merge $publisher (dict "logo" $logoObj) -}}
+{{- end -}}
+
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "description" $desc
+  "url" .Permalink
+  "wordCount" .WordCount
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "author" (dict "@type" "Organization" "name" $author "url" .Site.BaseURL)
+  "publisher" $publisher
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+-}}
+
+{{- with .Resources.GetMatch "cover.*" -}}
+  {{- $data = merge $data (dict "image" .Permalink) -}}
+{{- end -}}
+
+<script type="application/ld+json">
+{{ $data | jsonify (dict "indent" "  ") | safeJS }}
+</script>

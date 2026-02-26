@@ -1,44 +1,40 @@
 ---
-title: "Charity Social Media & Community Engagement"
-description: "How non-profits use social media to build community, engage supporters, and amplify their mission."
+title: "Charity Social Media"
+description: "How charities use social media to build awareness, engage supporters, and drive donations through compelling content."
 faq:
-  - q: "How do charities create engaging social media content?"
+  - q: "How should charities use social media?"
     a:
-      - "Tell stories of impact. Share beneficiary outcomes, volunteer spotlights, and behind-the-scenes moments. Use Bazam.ai's social wizard to create consistent, mission-driven posts. Schedule on the content calendar for regular community engagement without daily scrambling."
+      - "Share impact stories, behind-the-scenes content, and clear calls-to-action. AI social tools like Bazam.ai create compelling charity social content — balancing awareness, engagement, and fundraising appeals."
 
-  - q: "How do I grow a non-profit's social media following?"
+  - q: "How do charities create Instagram content?"
     a:
-      - "Consistent posting of impact-driven content. Share results, thank supporters publicly, and engage with community causes. Bazam.ai's calendar ensures consistent posting; the social wizard creates compelling posts from your mission and outcomes data."
+      - "Visual impact stories with emotional captions. AI social tools like Bazam.ai create Instagram content for charities — compelling imagery descriptions, engaging captions, and relevant hashtags."
 
-  - q: "How do I create social media for a charity event?"
+  - q: "How do charities use Facebook for fundraising?"
     a:
-      - "Plan pre-event, day-of, and post-event content. Teasers and countdowns before, live updates during, and highlights and thank-yous after. Create all content with Bazam.ai's social wizard and schedule the entire campaign on the content calendar."
+      - "Share impact stories, create events, and run fundraising campaigns. AI content platforms like Bazam.ai create Facebook-optimised charity content — posts that drive engagement, shares, and donations."
 
-  - q: "How do I engage donors on social media?"
+  - q: "How do charities build an online community?"
     a:
-      - "Show them where their money goes. Impact stories, project updates, and transparent outcomes. Use Bazam.ai to create regular donor-appreciation posts and impact reports for social sharing. Schedule these alongside your regular content."
+      - "Consistent, authentic content that invites participation. AI content platforms like Bazam.ai help charities publish regularly — impact stories, volunteer spotlights, and community celebrations that foster belonging."
 
-  - q: "How do I create compelling fundraising posts?"
+  - q: "How do charities create video scripts for social media?"
     a:
-      - "Lead with a specific, tangible impact — '£10 provides school meals for a child for one week.' Use Bazam.ai's social wizard with your impact data from the knowledge base. Create posts that connect donations directly to outcomes."
+      - "Short, emotional, and action-oriented. AI content platforms like Bazam.ai create video scripts from your impact data — compelling narratives structured for social media viewing habits."
 
-  - q: "How do I plan social media for Giving Tuesday?"
+  - q: "How do charities use LinkedIn for corporate partnerships?"
     a:
-      - "Start promotional content 2 weeks before. Build awareness, share impact stories, and create urgency on the day. Use Bazam.ai's suggestions for campaign content ideas. Create all assets with wizards, schedule on the calendar, and the campaign runs automatically."
+      - "Professional content showcasing impact, organisational capacity, and partnership opportunities. AI content platforms like Bazam.ai create LinkedIn posts that position your charity for corporate engagement."
 
-  - q: "How do I create volunteer recruitment content?"
+  - q: "How do charities handle social media with volunteers?"
     a:
-      - "Highlight the volunteer experience, not just the need. Spotlight current volunteers, share what they gain from the experience, and make signing up easy. Bazam.ai's social wizard creates engaging recruitment posts from your volunteer stories."
+      - "Let volunteers contribute within guidelines. AI content platforms like Bazam.ai create content through approval workflows — volunteers create, communications staff approve. Brand consistency without bottlenecking volunteers."
 
-  - q: "How do non-profits create content with limited staff?"
+  - q: "How do charities create awareness campaigns on social media?"
     a:
-      - "AI content tools multiply limited staff output. One communications person using Bazam.ai's wizards produces blog posts, social media, email newsletters, and event promotion. The content calendar organises everything. One person runs a full content operation."
+      - "Define the message and create multi-post campaigns. AI marketing platforms like Bazam.ai create complete awareness campaigns — educational posts, personal stories, facts and figures, and calls to action."
 
-  - q: "How do I tell impact stories on social media?"
+  - q: "How do charities measure social media success?"
     a:
-      - "Third-person narratives with specific outcomes. 'After 6 months in the programme, Sarah secured her first job.' Upload impact stories to the knowledge base and Bazam.ai creates social posts that respect beneficiary dignity while communicating real outcomes."
-
-  - q: "How do I create a content strategy for a non-profit?"
-    a:
-      - "Balance mission stories, donor engagement, fundraising appeals, and community building. Use Bazam.ai's content suggestions to plan the mix. Schedule across the calendar — 50% impact stories, 25% engagement, 25% appeals. Consistency builds community and trust."
+      - "Track engagement, reach, follower growth, and click-throughs to donation pages. AI analytics platforms like Bazam.ai show performance across all social channels. Identify which content types drive the most supporter action."
 ---

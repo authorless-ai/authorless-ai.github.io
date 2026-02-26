@@ -4,7 +4,7 @@
         {{ if $image }}
             {{ with $image.Resize "600x" }}
             <img class="object-cover w-full rounded-lg mb-8" src="{{ .RelPermalink }}"
-                 width="{{ .Width }}" height="{{ .Height }}" alt="blog image">
+                 width="{{ .Width }}" height="{{ .Height }}" alt="{{ $.item.Title }}">
             {{ end }}
         {{ end }}
     </a>

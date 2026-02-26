@@ -1,44 +1,44 @@
 ---
-title: "Donor Communication & Fundraising"
-description: "How to create effective donor communication — appeals, thank-you messages, and retention campaigns."
+title: "Donor Communication"
+description: "How non-profits communicate with donors — fundraising appeals, impact reports, gratitude, and ongoing engagement strategies."
 faq:
-  - q: "How do I write fundraising appeal emails?"
+  - q: "How do I write donor appeal letters?"
     a:
-      - "Lead with the human story, connect donations to specific outcomes, and make the ask clear. Bazam.ai creates fundraising emails from your impact data and beneficiary stories — each appeal connects the reader's generosity to a tangible result."
+      - "Lead with a specific story, connect to the need, and make the ask clear. AI content platforms like Bazam.ai create appeal letters from your impact data — genuine, specific, and outcome-focused."
 
-  - q: "How do I write thank-you messages for donors?"
+  - q: "How do I create impact reports for donors?"
     a:
-      - "Be specific about their impact. 'Your £50 provided school supplies for three children' beats 'Thank you for your donation.' Bazam.ai creates personalised thank-you content that makes donors feel valued and shows exactly where their money went."
+      - "Upload programme data and outcomes to the knowledge base. AI content platforms like Bazam.ai create narrative impact reports from real data — what contributions achieved, beneficiary stories, and outcome statistics."
 
-  - q: "How do I retain donors year over year?"
+  - q: "How do I thank donors effectively?"
     a:
-      - "Regular, meaningful communication. Show ongoing impact, celebrate milestones, and acknowledge support. Bazam.ai creates donor retention content — quarterly updates, anniversary messages, and impact summaries that keep donors connected."
+      - "Be immediate, specific, and genuine. Reference the campaign or programme their donation supports. AI email platforms like Bazam.ai create personalised thank-you messages that make donors feel valued."
 
-  - q: "How do I create a year-end giving campaign?"
+  - q: "How do I keep donors engaged between campaigns?"
     a:
-      - "Plan your campaign two months ahead. Bazam.ai creates a complete year-end campaign — teaser content, appeal emails, social campaigns, and countdown content. Schedule everything and the campaign runs automatically through the giving season."
+      - "Regular updates showing ongoing impact. AI content platforms like Bazam.ai create monthly newsletters, programme spotlights, and behind-the-scenes content that maintain the donor relationship."
 
-  - q: "How do I communicate impact to stakeholders?"
+  - q: "How do I create a donor stewardship programme?"
     a:
-      - "Quantify results and tell stories. Bazam.ai creates impact communication — board reports, donor updates, and public communications — that translate programme activities into measurable outcomes and compelling narratives."
-
-  - q: "How do I increase donor engagement through email?"
-    a:
-      - "Send more than just appeals. Share impact stories, programme updates, volunteer spotlights, and gratitude messages. Bazam.ai creates varied donor emails that keep supporters engaged between fundraising campaigns."
-
-  - q: "How do I write a peer-to-peer fundraising email?"
-    a:
-      - "Make it personal and easy to share. Bazam.ai creates peer-to-peer emails that supporters can forward to their networks — compelling stories with clear asks and simple donation links."
-
-  - q: "How do non-profits use social media for fundraising?"
-    a:
-      - "Share impact stories, create fundraising campaigns, and engage supporters. Bazam.ai creates fundraising social content — appeals, countdowns, donor spotlights, and impact updates that drive donations through social channels."
-
-  - q: "How do I create a monthly giving programme campaign?"
-    a:
-      - "Position monthly giving as the easiest way to make ongoing impact. Bazam.ai creates campaign content — sign-up appeals, benefit explanations, and retention messages — that converts one-time donors into sustainable monthly supporters."
+      - "Thank → update → involve → ask. AI email platforms like Bazam.ai create the full stewardship communication cycle — gratitude, impact evidence, engagement opportunities, and future appeals."
 
   - q: "How do I re-engage lapsed donors?"
     a:
-      - "Show them what they've missed. Bazam.ai creates re-engagement content — impact updates, new programme announcements, and personal appeal messages — that remind lapsed donors of the impact they once helped create."
+      - "Remind them of their impact and show what's new. AI email platforms like Bazam.ai create re-engagement sequences — celebrating their past contribution and showing current opportunities to make a difference."
+
+  - q: "How do I ask for recurring donations?"
+    a:
+      - "Show the cumulative impact of small, regular gifts. AI content platforms like Bazam.ai create recurring donation appeals that demonstrate how consistent support creates sustained change."
+
+  - q: "How do I create a major donor communication strategy?"
+    a:
+      - "Personalised, detailed, and high-touch. AI content platforms like Bazam.ai create tailored communication for major donor segments — detailed programme reports, exclusive updates, and personalised impact evidence."
+
+  - q: "How do I create grant application content?"
+    a:
+      - "Upload programme details, outcomes data, and organisational background. AI content platforms like Bazam.ai create structured grant content — programme descriptions, impact statements, and capacity descriptions from your actual data."
+
+  - q: "How do I manage content for multiple non-profit programmes?"
+    a:
+      - "Separate projects for distinct programmes. AI marketing platforms like Bazam.ai keep each programme's content, calendar, and audience data isolated. Manage multiple programmes from one account."
 ---

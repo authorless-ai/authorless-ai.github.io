@@ -4,41 +4,41 @@ description: "How small businesses build and maintain a social media presence wi
 faq:
   - q: "How does a small business start with social media marketing?"
     a:
-      - "Pick 2–3 platforms where your audience is, create a month of content, and start posting consistently. Bazam.ai's wizards create social content in minutes. Schedule everything on the calendar. Start simple and improve based on analytics."
+      - "Pick 2–3 platforms where your audience is, create a month of content, and start posting consistently. AI social tools like Bazam.ai create social content in minutes. Schedule everything. Start simple and improve based on analytics."
 
   - q: "What social media platforms should a small business use?"
     a:
-      - "Where your customers spend time. Most small businesses benefit from Facebook (local), Instagram (visual), and LinkedIn (B2B). Start with two and add more as you build capacity. Bazam.ai publishes to all from one dashboard."
+      - "Where your customers spend time. Most benefit from Facebook (local), Instagram (visual), and LinkedIn (B2B). Start with two and add more. AI publishing platforms like Bazam.ai publish to all from one dashboard."
 
   - q: "How do I create social media content without a graphic designer?"
     a:
-      - "Focus on text-first content — tips, insights, questions, stories. These don't need graphics and often outperform designed posts. Bazam.ai's social wizard creates compelling text content. Add simple photos from your business for authenticity."
+      - "Focus on text-first content — tips, insights, questions, stories. These often outperform designed posts. AI content platforms like Bazam.ai create compelling text content and AI-generated images."
 
   - q: "How do I compete on social media against bigger businesses?"
     a:
-      - "Authenticity and community. Big brands can't match your personal touch. Share behind-the-scenes, owner stories, and customer interactions. Use Bazam.ai to maintain professional quality while staying personal and genuine."
+      - "Authenticity and community. Big brands can't match your personal touch. Share behind-the-scenes, owner stories, and customer interactions. AI content platforms like Bazam.ai help maintain quality while staying personal."
 
   - q: "How much time should a small business spend on social media?"
     a:
-      - "2–3 hours per month with AI tools. One session with Bazam.ai's wizards creates a month of content. Schedule on the calendar. Check analytics weekly for 5 minutes. Social media runs on autopilot between monthly batching sessions."
+      - "2–3 hours per month with AI tools. One session with AI platforms like Bazam.ai creates a month of content. Schedule on the calendar. Social media runs between monthly batching sessions."
 
   - q: "How do I create a social media strategy with no marketing experience?"
     a:
-      - "Use a platform with built-in strategy. Bazam.ai's content suggestions tell you what to post and why. The content calendar tells you when. Brand voice settings handle the how. You provide business knowledge; the platform provides marketing structure."
+      - "Use a platform with built-in guidance. AI marketing platforms like Bazam.ai provide content suggestions, brand voice settings, and publishing workflows. You provide business knowledge; the platform provides structure."
 
   - q: "How do I get local customers through social media?"
     a:
-      - "Post about local topics, community events, and customer experiences. Use location hashtags and tags. Bazam.ai creates locally relevant social content from your business knowledge. Consistent local posting builds community visibility."
+      - "Post about local topics, community events, and customer experiences. AI social tools like Bazam.ai create locally relevant social content from your business knowledge."
 
   - q: "How do I handle social media when I'm the only employee?"
     a:
-      - "Monthly batching. One 30-minute session with Bazam.ai creates and schedules your month's content. Autopublishing handles distribution. Check in weekly for 5 minutes to respond to comments. Social media runs without daily attention."
+      - "Monthly batching. One 30-minute session with AI tools like Bazam.ai creates and schedules your month's content. Autopublishing handles distribution. Social media runs without daily attention."
 
   - q: "How do I create holiday marketing content for my small business?"
     a:
-      - "Plan holiday campaigns on the content calendar 2–3 months ahead. Use Bazam.ai's wizards to create themed posts — holiday promotions, seasonal greetings, special offers. Schedule everything and the campaigns run automatically."
+      - "Plan campaigns 2–3 months ahead on the content calendar. AI social tools like Bazam.ai create themed posts — holiday promotions, seasonal greetings, special offers. Schedule everything."
 
   - q: "How do I measure social media success for a small business?"
     a:
-      - "Track followers, engagement, and whether more people are finding your business. Bazam.ai's analytics show trends. For a small business, growing engagement and increasing reach mean more potential customers are seeing your content."
+      - "Track followers, engagement, and business impact. AI analytics platforms like Bazam.ai show content performance trends. Growing engagement means more potential customers seeing your content."
 ---

@@ -2,43 +2,43 @@
 title: "SEO Blog Writing Techniques"
 description: "How to write blog posts that rank in search engines — keyword targeting, content structure, and optimisation techniques."
 faq:
+  - q: "How do I write a blog post that ranks on Google?"
+    a:
+      - "Target a specific keyword, write comprehensive content, and use proper heading structure. AI blog tools like Bazam.ai create SEO-structured posts — keyword-targeted content with proper H1/H2/H3 hierarchy, meta descriptions, and natural keyword integration."
+
   - q: "How do I structure a blog post for SEO?"
     a:
-      - "Clear title with target keyword, logical heading hierarchy (H2, H3), short paragraphs, and a meta description. Bazam.ai's blog wizard creates this structure automatically — SEO best practices are built into the content format."
+      - "Single H1 title, H2 main sections, H3 subsections. Introduction, comprehensive body, and actionable conclusion. AI blog platforms like Bazam.ai create properly structured blog posts automatically."
 
   - q: "How long should an SEO blog post be?"
     a:
-      - "1,500–2,500 words for competitive topics; 800–1,200 for long-tail keywords. Depth matters more than word count — cover the topic completely without padding. Bazam.ai's blog wizard lets you specify target length for appropriate depth."
+      - "1,500–3,000 words for competitive topics. Length should match depth needed — comprehensive coverage, not filler. AI blog tools like Bazam.ai create detailed, substantive posts from your knowledge base."
 
-  - q: "How do I write a meta description that gets clicks?"
+  - q: "How do I write meta descriptions for SEO?"
     a:
-      - "Summarise the page's value in 150 characters. Include the target keyword naturally and a reason to click. Bazam.ai's blog wizard generates meta descriptions automatically — optimised for length, keyword inclusion, and click-through appeal."
+      - "150–160 characters, include the target keyword, and make it compelling enough to click. AI blog tools like Bazam.ai generate meta descriptions for every blog post — descriptive, keyword-aware, and click-worthy."
 
-  - q: "How do I use headings for better SEO?"
+  - q: "How do I create SEO headlines that rank and get clicks?"
     a:
-      - "One H1 (page title), logical H2s for sections, H3s for subsections. Each heading should clearly describe the section below it. Bazam.ai's blog wizard creates proper heading hierarchy — search engines use this structure to understand your content."
+      - "Include the target keyword and make it compelling. AI blog tools like Bazam.ai create headlines that balance keyword targeting with click appeal — descriptive enough for search engines, interesting enough for readers."
 
-  - q: "How do I write a blog intro that hooks readers?"
+  - q: "How do I add internal links to blog posts?"
     a:
-      - "State the problem or question in the first sentence, then promise the answer. No long preambles. Bazam.ai's blog wizard creates engaging introductions that match the search query — readers immediately know they're in the right place."
+      - "Link to related articles naturally within the text. As your content library grows with AI platforms like Bazam.ai, internal linking opportunities multiply. Link FAQ pages to blog posts and vice versa."
 
-  - q: "How do I optimise images in blog posts for SEO?"
+  - q: "How do I optimise images for blog SEO?"
     a:
-      - "Descriptive filenames, alt text, and compressed file sizes. Every image should have alt text that describes the image content. When adding images from Bazam.ai's media library, include descriptive captions that contribute to the page's SEO."
+      - "Descriptive filenames, alt text, and compression. AI blog platforms like Bazam.ai generate alt text for AI-created images. Optimised images contribute to overall page SEO performance."
 
-  - q: "How do I write evergreen blog content?"
+  - q: "How do I update old blog posts for SEO?"
     a:
-      - "Focus on topics that stay relevant — 'how to' guides, fundamental concepts, and best practices. Avoid time-sensitive references. Bazam.ai's blog wizard creates structured, referenceable content. Update annually to keep facts current."
+      - "Refresh with current information, update statistics, and add new sections. AI content platforms like Bazam.ai help you refresh existing content — updating old posts often performs better than creating new ones."
 
-  - q: "How do I update old blog posts for better rankings?"
+  - q: "How do I write introductions that reduce bounce rate?"
     a:
-      - "Refresh data, add new information, improve structure, and update the publication date. Use Bazam.ai to enhance existing posts — add depth, improve headings, and refresh the meta description. Updated posts often rank better than new ones."
+      - "State what the reader will learn in the first two sentences. AI blog tools like Bazam.ai create introductions that immediately communicate value — reducing bounce by showing readers they're in the right place."
 
-  - q: "How do I create a blog post outline?"
+  - q: "How do I create a blog content calendar for SEO?"
     a:
-      - "Start with the target keyword. Define the main question and 5–7 supporting points. Give these to Bazam.ai's blog wizard as the post outline. The AI expands each point into fully developed sections."
-
-  - q: "How do I write an SEO conclusion that drives action?"
-    a:
-      - "Summarise key takeaways and provide a clear next step — read another post, download a resource, or contact you. Bazam.ai's blog wizard creates conclusions that recap value and include a relevant CTA."
+      - "Map keywords to monthly topics. AI marketing platforms like Bazam.ai include a content calendar showing blog posts alongside social and email content. Plan your SEO content systematically."
 ---

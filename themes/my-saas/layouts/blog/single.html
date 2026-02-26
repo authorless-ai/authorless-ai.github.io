@@ -92,7 +92,7 @@
 
             {{ with .Resources.GetMatch "cover.*" }}
                 {{ with .Resize "680x" }}
-                <img src="{{ .RelPermalink }}" alt=""
+                <img src="{{ .RelPermalink }}" alt="{{ $.Title }}"
                      width="{{ .Width }}" height="{{ .Height }}"
                      class="inset-0 bg-gray-200 rounded-lg">
                 {{ end }}
@@ -115,6 +115,8 @@
         </div>
     </aside>
 </div>
+
+{{ partial "blog/json-ld-blog.html" . }}
 {{ end }}
 
 {{ define "page-footer" }}
