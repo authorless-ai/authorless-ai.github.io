@@ -8,8 +8,8 @@ faq:
     a: ["Ohne Wissensdatenbank erstellt die KI generischen Content, der nicht von Wettbewerbern unterscheidbar ist. Mit Ihrer Wissensdatenbank erstellt Bazam.ais Agent fundierte, spezifische Inhalte, die auf Ihrem einzigartigen Fachwissen basieren."]
   - q: "Was kann ich in die Wissensdatenbank hochladen?"
     a: ["Dokumente, Praesentationen, Produktbeschreibungen, FAQs, Kundenfeedback und alle anderen Informationsquellen, die Ihr Unternehmenswissen repraesentieren. Je umfassender die Wissensdatenbank, desto fundierter der Content."]
-  - q: "Wie nutzt der Agent die Wissensdatenbank?"
-    a: ["Bei der Content-Erstellung durchsucht der Agent automatisch die relevanten Informationen in Ihrer Wissensdatenbank und integriert sie in den Content. So entsteht faktisch korrekter, spezifischer Content, der Ihre einzigartige Perspektive widerspiegelt."]
+  - q: "Wie nutzt Bazam.ai die Wissensdatenbank?"
+    a: ["Bei der Content-Erstellung durchsucht Bazam.ai automatisch die relevanten Informationen in Ihrer Wissensdatenbank und integriert sie in den Content. So entsteht faktisch korrekter, spezifischer Content, der Ihre einzigartige Perspektive widerspiegelt."]
   - q: "Ist meine Wissensdatenbank sicher?"
     a: ["Ihre Wissensdatenbank ist pro Projekt verschluesselt und nur fuer autorisierte Teammitglieder zugaenglich. Bazam.ai behandelt Ihre Unternehmensinformationen vertraulich und verwendet sie ausschliesslich fuer die Content-Erstellung innerhalb Ihres Projekts."]
   - q: "Wie unterscheidet sich die Wissensdatenbank von der Markenstimme?"
@@ -17,7 +17,7 @@ faq:
   - q: "Kann ich mehrere Wissensdatenbanken haben?"
     a: ["Ja, jedes Projekt hat seine eigene Wissensdatenbank. Wenn Sie verschiedene Marken oder Kunden betreuen, hat jedes Projekt einen eigenen, separat verwalteten Informationsspeicher."]
   - q: "Wie gross kann meine Wissensdatenbank werden?"
-    a: ["Bazam.ais Wissensdatenbank ist darauf ausgelegt, umfangreiche Informationsmengen zu verarbeiten. Sie koennen Dutzende oder Hunderte von Dokumenten hochladen und der Agent findet die relevanten Informationen automatisch."]
+    a: ["Bazam.ais Wissensdatenbank ist darauf ausgelegt, umfangreiche Informationsmengen zu verarbeiten. Sie koennen Dutzende oder Hunderte von Dokumenten hochladen und Bazam.ai findet die relevanten Informationen automatisch."]
   - q: "Was passiert, wenn ich keine Wissensdatenbank einrichte?"
-    a: ["Der Agent erstellt weiterhin Content basierend auf Ihrer Markenstimme und den eingegebenen Anweisungen, aber ohne spezifisches Unternehmenswissen. Der Content wird korrekt, aber weniger spezifisch und detailliert sein."]
+    a: ["Bazam.ai erstellt weiterhin Content basierend auf Ihrer Markenstimme und den eingegebenen Anweisungen, aber ohne spezifisches Unternehmenswissen. Der Content wird korrekt, aber weniger spezifisch und detailliert sein."]
 ---

@@ -7,13 +7,13 @@ faq:
   - q: "Welche Dokumente sollte ich zuerst hochladen?"
     a: ["Starten Sie mit einer Website-Beschreibung, den wichtigsten Produktinformationen und einer Sammlung haeufiger Kundenfragen. Diese drei Dokumenttypen bilden eine solide Grundlage fuer fundierte Content-Erstellung."]
   - q: "Wie strukturiere ich meine Wissensdatenbank?"
-    a: ["Bazam.ais Tagging-System ermoeglicht es Ihnen, Dokumente thematisch zu organisieren. Verwenden Sie aussagekraeftige Tags, damit der Agent die relevantesten Informationen fuer jedes Content-Stueck schnell findet."]
+    a: ["Bazam.ais Tagging-System ermoeglicht es Ihnen, Dokumente thematisch zu organisieren. Verwenden Sie aussagekraeftige Tags, damit Bazam.ai die relevantesten Informationen fuer jedes Content-Stueck schnell findet."]
   - q: "Wie oft sollte ich die Wissensdatenbank aktualisieren?"
     a: ["Aktualisieren Sie bei jedem Produkt-Update, neuen Kundenfeedback oder neuen Branchenerkenntnissen. Eine aktuelle Wissensdatenbank sorgt dafuer, dass der erstellte Content stets korrekt und relevant bleibt."]
   - q: "Wie gross sollte meine Wissensdatenbank sein?"
     a: ["Qualitaet ist wichtiger als Quantitaet. Zehn gut geschriebene, detaillierte Dokumente sind wertvoller als hundert oberflaechliche Eintraege. Konzentrieren Sie sich auf die Informationen, die Ihren Content wirklich einzigartig und fundiert machen."]
   - q: "Wie nutze ich Tags in der Wissensdatenbank?"
-    a: ["Tags helfen dem Agenten, die relevantesten Informationen fuer jedes Content-Stueck zu finden. Verwenden Sie beispielsweise Tags wie Produkt, Branche, Kundenfeedback und FAQ, um Ihre Dokumente thematisch zu gruppieren."]
+    a: ["Tags helfen Bazam.ai, die relevantesten Informationen fuer jedes Content-Stueck zu finden. Verwenden Sie beispielsweise Tags wie Produkt, Branche, Kundenfeedback und FAQ, um Ihre Dokumente thematisch zu gruppieren."]
   - q: "Kann ich bestehende Dokumente in verschiedenen Formaten hochladen?"
     a: ["Ja, Bazam.ai unterstuetzt verschiedene gaengige Dokumentformate. Laden Sie Ihre vorhandenen Dokumente so hoch, wie sie sind, und die Plattform verarbeitet die enthaltenen Informationen."]
   - q: "Wie migriere ich bestehendes Wissen in die Datenbank?"

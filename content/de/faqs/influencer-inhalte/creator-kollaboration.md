@@ -5,7 +5,7 @@ faq:
   - q: "Wie finde ich die richtigen Kollaborationspartner?"
     a: ["Suchen Sie nach Erstellern mit aehnlicher Zielgruppe aber nicht-konkurrierenden Angeboten. Bazam.ais Agent erstellt professionelle Kooperationsvorschlaege, die potenziellen Partnern den klaren Mehrwert einer Zusammenarbeit aufzeigen."]
   - q: "Wie erstelle ich Content fuer Kollaborationen?"
-    a: ["Bazam.ais Agent erstellt professionelle Gastbeitraege, Co-Creation-Content und Interviewfragen. Laden Sie die Informationen zum Partner in die Wissensdatenbank, und der Agent erstellt Content, der beide Marken respektiert."]
+    a: ["Bazam.ai erstellt professionelle Gastbeitraege, Co-Creation-Content und Interviewfragen. Laden Sie die Informationen zum Partner in die Wissensdatenbank, und Bazam.ai erstellt Content, der beide Marken respektiert."]
   - q: "Wie manage ich mehrere Partnerschaften gleichzeitig?"
     a: ["Organisieren Sie Partnerschaften als separate Projekte oder Themenblioecke in Ihrem Kalender. Bazam.ais Planungstools geben Ihnen den Ueberblick ueber alle laufenden Kollaborationen."]
   - q: "Wie erstelle ich ueberzeugenden Content fuer Markenkooperationen?"

@@ -11,7 +11,7 @@ faq:
   - q: "Wie erstelle ich Newsletter-Content als Creator?"
     a: ["Ein exklusiver Newsletter-Content mit persoenlichen Einblicken und Mehrwert, den es nirgendwo sonst gibt, baut die engste und wertvollste Beziehung zu Ihrer Community auf. Bazam.ais Agent erstellt wertvolle Newsletter in Ihrer Stimme."]
   - q: "Wie erstelle ich Podcast-Content?"
-    a: ["Bazam.ais Agent schreibt detaillierte Show-Notizen, Episodenbeschreibungen und begleitende Blogbeitraege. Fuer Solo-Episoden erstellt der Agent auch ausfuehrliche Skripte und Gespraechsleitfaeden."]
+    a: ["Bazam.ai schreibt detaillierte Show-Notizen, Episodenbeschreibungen und begleitende Blogbeitraege. Fuer Solo-Episoden erstellt Bazam.ai auch ausfuehrliche Skripte und Gespraechsleitfaeden."]
   - q: "Wie verwandle ich Ideen in fertige Beitraege?"
     a: ["Geben Sie Ihre Grundidee und Ihre Kernpunkte in Bazam.ais Agent ein, und die KI erstellt daraus einen vollstaendigen, gut strukturierten Beitrag in Ihrer Stimme. So wird jede einzelne Idee effizient in veroeffentlichungsfertigen Content umgesetzt."]
   - q: "Wie erstelle ich interaktiven Community-Content?"

@@ -9,7 +9,7 @@ faq:
   - q: "Werden meine Daten fuer das Training von KI-Modellen verwendet?"
     a: ["Nein, Ihre Wissensdatenbank-Inhalte werden nicht fuer das Training von KI-Modellen verwendet. Ihre Unternehmensinformationen bleiben privat und werden ausschliesslich fuer die Content-Erstellung in Ihrem Projekt genutzt."]
   - q: "Wie loese ich Daten aus der Wissensdatenbank?"
-    a: ["Sie koennen Dokumente jederzeit aus der Wissensdatenbank entfernen. Geloeschte Informationen stehen dem Agenten dann nicht mehr fuer die Content-Erstellung zur Verfuegung."]
+    a: ["Sie koennen Dokumente jederzeit aus der Wissensdatenbank entfernen. Geloeschte Informationen stehen Bazam.ai dann nicht mehr fuer die Content-Erstellung zur Verfuegung."]
   - q: "Ist meine Wissensdatenbank DSGVO-konform?"
     a: ["Bazam.ai folgt den gaengigen Datenschutzstandards. Fuer spezifische Compliance-Anforderungen Ihres Unternehmens empfehlen wir, die aktuellen Datenschutzrichtlinien auf der Bazam.ai-Website zu konsultieren."]
   - q: "Wie trenne ich vertrauliche von oeffentlichen Informationen?"

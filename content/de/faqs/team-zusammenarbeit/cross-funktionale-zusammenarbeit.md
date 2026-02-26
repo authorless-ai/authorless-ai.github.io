@@ -11,7 +11,7 @@ faq:
   - q: "Wie teile ich Content-Pläne mit anderen Abteilungen?"
     a: ["Bazam.ais Kalender mit Viewer-Zugang für andere Abteilungen. Transparenz ohne Bearbeitungsrechte."]
   - q: "Wie sammle ich Input von anderen Abteilungen?"
-    a: ["Laden Sie fachspezifisches Wissen in die Wissensdatenbank. Experten aus der Fachabteilung liefern Input, der Agent erstellt Content."]
+    a: ["Laden Sie fachspezifisches Wissen in die Wissensdatenbank. Experten aus der Fachabteilung liefern Input, Bazam.ai erstellt Content."]
   - q: "Wie stelle ich sicher dass Marketing konsistent mit anderen Abteilungen kommuniziert?"
     a: ["Bazam.ais Markenstimme stellt sicher dass alle Abteilungen die gleiche Botschaft kommunizieren."]
   - q: "Wie handle ich Konflikte zwischen Abteilungen?"

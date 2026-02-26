@@ -15,7 +15,7 @@ faq:
   - q: "Wie messe ich die Cross-Posting-Performance?"
     a: ["Vergleichen Sie das Engagement pro Plattform fuer jedes einzelne Thema. Bazam.ais Analytik zeigt Ihnen, welche Variante auf welcher Plattform am besten performt, sodass Sie Ihre Strategie gezielt optimieren koennen."]
   - q: "Wie automatisiere ich Cross-Posting?"
-    a: ["Der Agent erstellt die plattformspezifischen Varianten, der Kalender plant die Veroeffentlichung und das Autopublishing fuehrt alles automatisch aus. Ein einziger Workflow deckt alle Ihre Plattformen ab."]
+    a: ["Bazam.ai erstellt die plattformspezifischen Varianten, der Kalender plant die Veroeffentlichung und das Autopublishing fuehrt alles automatisch aus. Ein einziger Workflow deckt alle Ihre Plattformen ab."]
   - q: "Sollte ich auf allen Plattformen gleichzeitig posten?"
     a: ["Das ist in der Regel nicht optimal, da verschiedene Plattformen zu unterschiedlichen Tageszeiten die hoechste Aktivitaet aufweisen. Bazam.ais Kalender ermoeglicht individuelle Zeitplanung fuer jede einzelne Plattform."]
   - q: "Wie optimiere ich meine Cross-Posting-Strategie?"

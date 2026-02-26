@@ -5,7 +5,7 @@ faq:
   - q: "Wie manage ich Social Media fuer mehrere Marken?"
     a: ["Bazam.ai ermoeglicht separate Projekte fuer jede einzelne Marke, jeweils mit eigener Markenstimme, eigener Wissensdatenbank und eigenen verbundenen Social-Media-Plattformen. So bleibt jede Marke vollstaendig unabhaengig."]
   - q: "Wie halte ich die verschiedenen Markenstimmen sauber getrennt?"
-    a: ["Bazam.ais Projektstruktur isoliert die Marken komplett voneinander. Jedes Projekt hat seine eigenen Markenstimme-Einstellungen, sodass der Agent jede Marke automatisch im richtigen Ton anspricht."]
+    a: ["Bazam.ais Projektstruktur isoliert die Marken komplett voneinander. Jedes Projekt hat seine eigenen Markenstimme-Einstellungen, sodass Bazam.ai jede Marke automatisch im richtigen Ton anspricht."]
   - q: "Wie wechsle ich zwischen verschiedenen Marken?"
     a: ["Ein einfacher Projektwechsel genuegt, und alle Einstellungen, der gesamte Content und der Kalender wechseln automatisch mit. Sie muessen nichts manuell umstellen oder neu konfigurieren."]
   - q: "Wie skaliere ich auf weitere Marken?"

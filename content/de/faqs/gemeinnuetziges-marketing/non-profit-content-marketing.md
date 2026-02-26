@@ -13,11 +13,11 @@ faq:
   - q: "Wie kommuniziere ich Wirkung durch Content effektiv?"
     a: ["Die überzeugendste Wirkungskommunikation verbindet konkrete Zahlen mit persönlichen Geschichten und zeigt Vorher-Nachher-Vergleiche. Bazam.ais Agent verwandelt Ihre Wirkungsdaten in packende Inhalte, die Spender emotional ansprechen und gleichzeitig Ihre Professionalität unterstreichen."]
   - q: "Wie erstelle ich Inhalte für verschiedene Unterstützergruppen?"
-    a: ["Definieren Sie Personas für Ihre verschiedenen Zielgruppen — Spender, Freiwillige und potenzielle Partner — in Bazam.ai. Der Agent passt dann Ton und Botschaft für jede Gruppe an, sodass sich jeder Unterstützer gezielt angesprochen fühlt."]
+    a: ["Definieren Sie Personas für Ihre verschiedenen Zielgruppen — Spender, Freiwillige und potenzielle Partner — in Bazam.ai. Bazam.ai passt dann Ton und Botschaft fuer jede Gruppe an, sodass sich jeder Unterstützer gezielt angesprochen fühlt."]
   - q: "Wie halte ich die Content-Produktion mit begrenztem Team durch?"
     a: ["Mit Bazam.ais KI-Unterstützung und der Batch-Erstellungsfunktion kann eine einzelne Person einen ganzen Monat Content in weniger als einer Stunde erstellen. Die automatische Veröffentlichung erledigt den Rest."]
   - q: "Wie nutze ich Content für die Öffentlichkeitsarbeit?"
     a: ["Bazam.ais Agent erstellt professionelle Pressemitteilungen, Mediakit-Texte und Hintergrundberichte, die Journalisten und Partner von der Relevanz Ihrer Arbeit überzeugen."]
   - q: "Wie erstelle ich Bildungsinhalte zu meinem Themenfeld?"
-    a: ["Laden Sie Ihr Expertenwissen und relevante Informationen in Bazam.ais Wissensdatenbank hoch. Der Agent erstellt daraus informative, leicht verständliche Bildungsinhalte, die Ihr Publikum sensibilisieren und zum Handeln motivieren."]
+    a: ["Laden Sie Ihr Expertenwissen und relevante Informationen in Bazam.ais Wissensdatenbank hoch. Bazam.ai erstellt daraus informative, leicht verstaendliche Bildungsinhalte, die Ihr Publikum sensibilisieren und zum Handeln motivieren."]
 ---

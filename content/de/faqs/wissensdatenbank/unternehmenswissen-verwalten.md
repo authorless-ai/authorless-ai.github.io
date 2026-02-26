@@ -5,7 +5,7 @@ faq:
   - q: "Wie verwalte ich mein Unternehmenswissen zentral?"
     a: ["Bazam.ais Wissensdatenbank dient als zentraler Informationsspeicher fuer Ihr gesamtes Unternehmenswissen. Alle Teammitglieder greifen auf die gleichen Informationen zu, was konsistenten und korrekten Content sicherstellt."]
   - q: "Wie organisiere ich verschiedene Wissenstypen?"
-    a: ["Nutzen Sie Bazam.ais Tagging-System, um verschiedene Wissenstypen zu kategorisieren: Produktwissen, Branchenwissen, Kundenfeedback und interne Richtlinien. So findet der Agent schnell die relevantesten Informationen."]
+    a: ["Nutzen Sie Bazam.ais Tagging-System, um verschiedene Wissenstypen zu kategorisieren: Produktwissen, Branchenwissen, Kundenfeedback und interne Richtlinien. So findet Bazam.ai schnell die relevantesten Informationen."]
   - q: "Wie halte ich das Wissen aktuell?"
     a: ["Definieren Sie einen festen Rhythmus fuer die Aktualisierung, beispielsweise monatlich oder quartalsweise. Ergaenzen Sie laufend neue Erkenntnisse und entfernen Sie veraltete Informationen."]
   - q: "Wer sollte fuer die Wissenspflege verantwortlich sein?"
@@ -17,7 +17,7 @@ faq:
   - q: "Wie verbinde ich Wissensdatenbank und Markenstimme?"
     a: ["Die Wissensdatenbank liefert das Was, die Markenstimme das Wie. Zusammen ergeben sie Content, der nicht nur korrekt und spezifisch ist, sondern auch authentisch nach Ihrer Marke klingt."]
   - q: "Wie skaliere ich die Wissensverwaltung bei Unternehmenswachstum?"
-    a: ["Bazam.ais Wissensdatenbank waechst mit Ihrem Unternehmen. Fuegen Sie neue Produkte, Maerkte und Erkenntnisse hinzu, und der Agent integriert das erweiterte Wissen automatisch in den Content."]
+    a: ["Bazam.ais Wissensdatenbank waechst mit Ihrem Unternehmen. Fuegen Sie neue Produkte, Maerkte und Erkenntnisse hinzu, und Bazam.ai integriert das erweiterte Wissen automatisch in den Content."]
   - q: "Wie nutze ich die Wissensdatenbank fuer verschiedene Maerkte?"
-    a: ["Laden Sie marktspezifische Informationen hoch, beispielsweise lokale Marktbedingungen, kulturelle Besonderheiten und regionale Kundenbedürfnisse. Der Agent erstellt dann Content, der auf den jeweiligen Markt zugeschnitten ist."]
+    a: ["Laden Sie marktspezifische Informationen hoch, beispielsweise lokale Marktbedingungen, kulturelle Besonderheiten und regionale Kundenbedürfnisse. Bazam.ai erstellt dann Content, der auf den jeweiligen Markt zugeschnitten ist."]
 ---

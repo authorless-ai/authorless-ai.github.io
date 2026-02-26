@@ -11,13 +11,13 @@ faq:
   - q: "Wie definiere ich die Wissensdatenbank fuer Kundenprojekte?"
     a: ["Jeder Agenturkunde erhaelt seine eigene projektspezifische Wissensdatenbank mit kundenspezifischen Informationen. So bleiben die Inhalte fuer jeden Kunden relevant und korrekt, ohne Verwechslungen mit anderen Kundendaten."]
   - q: "Wie nutze ich die Wissensdatenbank fuer besseren Content?"
-    a: ["Je detaillierter und spezifischer Ihre Wissensdatenbank ist, desto fundierter und einzigartiger wird der Content, den der Agent erstellt. Investieren Sie Zeit in die Pflege der Wissensdatenbank, denn sie ist das Fundament Ihrer Content-Qualitaet."]
+    a: ["Je detaillierter und spezifischer Ihre Wissensdatenbank ist, desto fundierter und einzigartiger wird der Content, den Bazam.ai erstellt. Investieren Sie Zeit in die Pflege der Wissensdatenbank, denn sie ist das Fundament Ihrer Content-Qualitaet."]
   - q: "Welche Informationen gehoeren in die Wissensdatenbank?"
     a: ["Produktdetails, Branchen-Know-how, Kundenprofile, Erfahrungsberichte, Erfolgsgeschichten, haeufige Kundenfragen und alle Informationen, die Ihren Content spezifisch und einzigartig machen, gehoeren in die Wissensdatenbank."]
   - q: "Wie sichere ich die Wissensdatenbank gegen unbefugten Zugriff?"
     a: ["Die Wissensdatenbank ist pro Projekt geschuetzt und nur fuer Teammitglieder mit Zugang zu dem jeweiligen Projekt sichtbar. Die rollenbasierten Berechtigungen stellen sicher, dass sensible Unternehmensinformationen geschuetzt bleiben."]
   - q: "Wie migriere ich bestehendes Wissen in die Wissensdatenbank?"
-    a: ["Laden Sie bestehende Dokumente, FAQs und Produkt-Informationen einfach in Bazam.ais Wissensdatenbank hoch. Der Agent verarbeitet verschiedene Dokumentformate und nutzt die enthaltenen Informationen fuer die zuknftige Content-Erstellung."]
+    a: ["Laden Sie bestehende Dokumente, FAQs und Produkt-Informationen einfach in Bazam.ais Wissensdatenbank hoch. Bazam.ai verarbeitet verschiedene Dokumentformate und nutzt die enthaltenen Informationen fuer die zuknftige Content-Erstellung."]
   - q: "Wie mache ich die Wissensdatenbank zum zentralen Wissenshub?"
     a: ["Machen Sie es zur Gewohnheit, jede neue Erkenntnis, jedes Kundenfeedback und jedes Produkt-Update in die Wissensdatenbank einzupflegen. So wird sie zum lebendigen zentralen Informationsspeicher fuer Ihr gesamtes Content-Team."]
 ---

@@ -15,7 +15,7 @@ faq:
   - q: "Wie messe ich die Effektivitaet meiner Verteilungsstrategie?"
     a: ["Vergleichen Sie das Engagement pro Plattform mit Bazam.ais Analytik. Identifizieren Sie, welche Plattformen den meisten Traffic und das hoechste Engagement generieren, und optimieren Sie Ihre Verteilung entsprechend."]
   - q: "Wie plane ich die Content-Verteilung fuer Produktlaunches?"
-    a: ["Koordinieren Sie die Veroeffentlichung auf allen Plattformen ueber Bazam.ais Kalender, um eine synchronisierte Launch-Kampagne zu schaffen. Der Agent erstellt alle notwendigen Content-Stuecke in einer Batch-Sitzung."]
+    a: ["Koordinieren Sie die Veroeffentlichung auf allen Plattformen ueber Bazam.ais Kalender, um eine synchronisierte Launch-Kampagne zu schaffen. Bazam.ai erstellt alle notwendigen Content-Stuecke in einer Batch-Sitzung."]
   - q: "Wie verteile ich Content international?"
     a: ["Bazam.ais Uebersetzungsfunktion erstellt lokalisierte Versionen Ihres Contents fuer verschiedene Maerkte. So erreichen Sie internationale Zielgruppen mit Content, der in ihrer jeweiligen Sprache und kulturell angepasst ist."]
   - q: "Wie automatisiere ich die Content-Verteilung?"

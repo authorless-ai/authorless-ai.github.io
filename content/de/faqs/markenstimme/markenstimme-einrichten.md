@@ -17,7 +17,7 @@ faq:
   - q: "Brauche ich einen Brand Guide, bevor ich starte?"
     a: ["Das ist hilfreich, aber nicht zwingend erforderlich. Bazam.ais Markenanalyse hilft Ihnen, Ihre Marke auch ohne vorhandenen Brand Guide zu definieren. Das Ergebnis kann dann sogar als Grundlage fuer einen formellen Brand Guide dienen."]
   - q: "Wie teste ich, ob meine Markenstimme richtig eingestellt ist?"
-    a: ["Erstellen Sie einige Probestueecke Content mit dem Agenten und ueberpruefen Sie, ob der Ton und die Persoenlichkeit Ihrer Marke entsprechen. Wenn nicht, verfeinern Sie die Einstellungen und wiederholen den Test."]
+    a: ["Erstellen Sie einige Probestueecke Content mit Bazam.ai und ueberpruefen Sie, ob der Ton und die Persoenlichkeit Ihrer Marke entsprechen. Wenn nicht, verfeinern Sie die Einstellungen und wiederholen den Test."]
   - q: "Was wenn der erstellte Content nicht nach meiner Marke klingt?"
     a: ["Ueberpruefen Sie Ihre Markenstimme-Einstellungen und machen Sie sie spezifischer. Fuegen Sie konkrete Beispiele und individuelle Richtlinien hinzu. Je praeziser Ihre Definition ist, desto genauer trifft die KI Ihren gewuenschten Ton."]
 ---

@@ -7,7 +7,7 @@ faq:
   - q: "Wie binde ich Kunden in den Erstellungsprozess ein?"
     a: ["Geben Sie Ihren Kunden eingeschraenkten Zugang, damit sie Content ueberpruefen und Feedback geben koennen. Bazam.ais Freigabe-Workflow macht die Kundenabstimmung strukturiert und effizient."]
   - q: "Wie skaliere ich die Content-Produktion fuer viele Kunden?"
-    a: ["Bazam.ais KI-Agent macht jedes einzelne Teammitglied deutlich produktiver. Der Agent erstellt den Content, Ihre Teammitglieder ueberpruefen und optimieren. So bedienen Sie mehr Kunden ohne proportional mehr Personal."]
+    a: ["Bazam.ais KI-Agent macht jedes einzelne Teammitglied deutlich produktiver. Bazam.ai erstellt den Content, Ihre Teammitglieder ueberpruefen und optimieren. So bedienen Sie mehr Kunden ohne proportional mehr Personal."]
   - q: "Wie halte ich die Qualitaet ueber verschiedene Kunden konsistent?"
     a: ["Jedes Kundenprojekt hat eine eigene konfigurierte Markenstimme und Wissensdatenbank. Das stellt sicher, dass die Qualitaet pro Kunde konsistent bleibt, auch wenn verschiedene Teammitglieder an dem Projekt arbeiten."]
   - q: "Wie erstelle ich Kundenberichte effizient?"

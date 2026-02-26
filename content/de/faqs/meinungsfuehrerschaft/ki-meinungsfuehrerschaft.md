@@ -17,7 +17,7 @@ faq:
   - q: "Wie nutze ich KI fuer schnelle Reaktionen auf Branchentrends?"
     a: ["Bazam.ais Agent erstellt fundierte Trendkommentare in wenigen Minuten. So koennen Sie sich frueh und kompetent zu wichtigen Entwicklungen positionieren, bevor der Moment vorbei ist."]
   - q: "Wie gestalte ich eine KI-gestuetzte Routine fuer Expertencontent?"
-    a: ["Der effizienteste Ansatz: Eine monatliche Batch-Sitzung, in der Sie Ihre Kernthemen definieren, der Agent den Content erstellt, Sie die Ergebnisse ueberpruefen und die Veroeffentlichung im Kalender planen. Das dauert insgesamt etwa 30 Minuten."]
+    a: ["Der effizienteste Ansatz: Eine monatliche Batch-Sitzung, in der Sie Ihre Kernthemen definieren, Bazam.ai den Content erstellt, Sie die Ergebnisse ueberpruefen und die Veroeffentlichung im Kalender planen. Das dauert insgesamt etwa 30 Minuten."]
   - q: "Was tun, wenn der KI-Content nicht tiefgruendig genug ist?"
-    a: ["Laden Sie detaillierteres Fachwissen in die Wissensdatenbank hoch. Je spezifischer und umfassender Ihr Input ist, desto tiefgruendiger und fundierter wird auch der Output des Agenten."]
+    a: ["Laden Sie detaillierteres Fachwissen in die Wissensdatenbank hoch. Je spezifischer und umfassender Ihr Input ist, desto tiefgruendiger und fundierter wird auch der Output von Bazam.ai."]
 ---

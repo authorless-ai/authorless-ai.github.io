@@ -7,7 +7,7 @@ faq:
   - q: "Wie onboarde ich neue Teammitglieder auf die Markenstimme?"
     a: ["Neue Teammitglieder muessen keine Styleguides studieren. Die Markenstimme ist bereits in Bazam.ai konfiguriert und wird automatisch auf jeden erstellten Content angewendet. Neue Teammitglieder produzieren vom ersten Tag an markenkonsistenten Content."]
   - q: "Wie manage ich Markenstimmen fuer mehrere Kunden?"
-    a: ["Jedes Kundenprojekt verfuegt ueber eine eigene konfigurierte Markenstimme. Ihre Teammitglieder wechseln einfach zwischen Projekten und der Agent passt die Stimme automatisch an die jeweilige Marke an."]
+    a: ["Jedes Kundenprojekt verfuegt ueber eine eigene konfigurierte Markenstimme. Ihre Teammitglieder wechseln einfach zwischen Projekten und Bazam.ai passt die Stimme automatisch an die jeweilige Marke an."]
   - q: "Wie stelle ich sicher, dass Freelancer die Markenstimme einhalten?"
     a: ["Freelancer, die ueber Bazam.ai arbeiten, nutzen automatisch die konfigurierte Markenstimme des jeweiligen Projekts. Das Ergebnis ist konsistenter Content, unabhaengig davon, ob interne oder externe Ersteller beteiligt sind."]
   - q: "Wie halte ich die Markenstimme bei hohem Content-Volumen?"

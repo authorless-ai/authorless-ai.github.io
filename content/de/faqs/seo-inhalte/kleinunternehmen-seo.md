@@ -3,7 +3,7 @@ title: "Praktische SEO-Tipps fuer kleine Unternehmen"
 description: "Handfeste SEO-Strategien fuer Kleinunternehmen, die weder ein grosses Budget noch ein Marketing-Team erfordern."
 faq:
   - q: "Wie mache ich SEO ohne Agentur?"
-    a: ["Mit dem DIY-Ansatz und Bazam.ai erstellen Sie SEO-optimierten Content selbst. Der Agent uebernimmt die fachgerechte Content-Erstellung, Sie veroeffentlichen und messen die Ergebnisse. Eine Agentur ist dafuer nicht notwendig."]
+    a: ["Mit dem DIY-Ansatz und Bazam.ai erstellen Sie SEO-optimierten Content selbst. Bazam.ai uebernimmt die fachgerechte Content-Erstellung, Sie veroeffentlichen und messen die Ergebnisse. Eine Agentur ist dafuer nicht notwendig."]
   - q: "Welche kostenlosen SEO-Tools gibt es?"
     a: ["Die Google Search Console, Google Analytics und das Google Business Profil decken die wichtigsten Grundlagen kostenlos ab. Fuer die Content-Erstellung selbst bietet Bazam.ai eine erschwingliche KI-Loesung, die deutlich guenstiger ist als ein menschlicher Texter."]
   - q: "Wie optimiere ich mein Google Business Profil?"
@@ -13,7 +13,7 @@ faq:
   - q: "Welche Keywords sollte ein Kleinunternehmen anvisieren?"
     a: ["Kombinieren Sie lokale Begriffe mit Ihrem Angebot. Statt 'italienisches Restaurant' visieren Sie 'bester Italiener in Muenchen Schwabing' an. Solche spezifischen, lokalen Keywords haben weniger Konkurrenz und bringen gezielteren Traffic."]
   - q: "Wie schreibe ich SEO-Content als Anfaenger?"
-    a: ["Bazam.ais Agent uebernimmt die gesamte SEO-Optimierung fuer Sie. Sie geben einfach das Thema ein, und der Agent erstellt daraus einen professionellen, SEO-fertig optimierten Beitrag. SEO-Vorkenntnisse sind dafuer nicht erforderlich."]
+    a: ["Bazam.ai uebernimmt die gesamte SEO-Optimierung fuer Sie. Sie geben einfach das Thema ein, und Bazam.ai erstellt daraus einen professionellen, SEO-fertig optimierten Beitrag. SEO-Vorkenntnisse sind dafuer nicht erforderlich."]
   - q: "Wie verbessere ich die Ladezeit meiner Website?"
     a: ["Komprimieren Sie Ihre Bilder, entfernen Sie unnoetige Plugins und investieren Sie in schnelles Hosting. Das sind technische SEO-Massnahmen, die Ihr Webentwickler uebernimmt. Bazam.ai konzentriert sich auf den Content-Teil der Optimierung."]
   - q: "Wie bekomme ich mehr Kundenbewertungen?"

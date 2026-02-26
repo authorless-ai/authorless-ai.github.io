@@ -3,7 +3,7 @@ title: "Veroeffentlichungs-Workflow automatisieren"
 description: "Wie Sie den gesamten Veroeffentlichungs-Workflow von der Erstellung bis zur Publikation automatisieren."
 faq:
   - q: "Wie automatisiere ich meinen Veroeffentlichungs-Workflow?"
-    a: ["Der komplette Workflow laesst sich in drei Schritten automatisieren: KI-gestuetzte Erstellung mit dem Agenten, Kalender-basierte Planung und automatische Veroeffentlichung durch Autopublishing."]
+    a: ["Der komplette Workflow laesst sich in drei Schritten automatisieren: KI-gestuetzte Erstellung mit Bazam.ai, Kalender-basierte Planung und automatische Veroeffentlichung durch Autopublishing."]
   - q: "Was ist Workflow-Automatisierung?"
     a: ["Workflow-Automatisierung bedeutet, dass wiederkehrende Aufgaben im Veroeffentlichungsprozess automatisch ablaufen, ohne manuellen Eingriff. Bazam.ai automatisiert die Content-Erstellung, Planung und Veroeffentlichung."]
   - q: "Wie viel Zeit spare ich durch Workflow-Automatisierung?"

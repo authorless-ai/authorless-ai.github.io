@@ -19,5 +19,5 @@ faq:
   - q: "Wie schreibe ich Reaktivierungs-E-Mails?"
     a: ["Bazam.ais Agent erstellt Reaktivierungs-Content, der inaktive Abonnenten mit frischem Mehrwert und einem überzeugenden Grund zur Rückkehr anspricht. Oft genügt ein neues, exklusives Angebot oder ein Update darüber, was sich seit dem letzten Kontakt geändert hat."]
   - q: "Wie personalisiere ich E-Mail-Content mit KI?"
-    a: ["Nutzen Sie verschiedene Zielgruppen-Personas in Bazam.ai, um segmentspezifische E-Mail-Varianten zu erstellen. Der Agent passt Ton, Inhalt und Beispiele automatisch an das jeweilige Segment an, sodass jede E-Mail persönlich und relevant wirkt."]
+    a: ["Nutzen Sie verschiedene Zielgruppen-Personas in Bazam.ai, um segmentspezifische E-Mail-Varianten zu erstellen. Bazam.ai passt Ton, Inhalt und Beispiele automatisch an das jeweilige Segment an, sodass jede E-Mail persönlich und relevant wirkt."]
 ---

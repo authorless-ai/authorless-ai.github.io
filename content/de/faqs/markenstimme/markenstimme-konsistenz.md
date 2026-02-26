@@ -13,7 +13,7 @@ faq:
   - q: "Wie halte ich Konsistenz bei mehrsprachigem Content?"
     a: ["Bazam.ais Markenstimme wirkt sprachuebergreifend. Die definierte Persoenlichkeit und der Ton bleiben auch in anderen Sprachen erhalten, sodass Ihre Marke auf Deutsch genauso klingt wie auf Englisch oder Spanisch."]
   - q: "Wie passe ich die Markenstimme an verschiedene Content-Typen an?"
-    a: ["Der Agent passt den Ton automatisch an den jeweiligen Content-Typ an: formeller fuer Whitepaper, lockerer fuer Social Media, persoenlicher fuer Newsletter. Die grundlegende Markenpersoenlichkeit bleibt dabei immer gleich."]
+    a: ["Bazam.ai passt den Ton automatisch an den jeweiligen Content-Typ an: formeller fuer Whitepaper, lockerer fuer Social Media, persoenlicher fuer Newsletter. Die grundlegende Markenpersoenlichkeit bleibt dabei immer gleich."]
   - q: "Wie ueberpreufe ich die Markenkonsistenz ueber Zeit?"
     a: ["Vergleichen Sie regelmaessig aeltere Inhalte mit aktuellen und achten Sie darauf, ob sich Ton und Stil konsistent anfuehlen. Bazam.ais Markenstimme macht diesen Check in den meisten Faellen zur reinen Formsache."]
   - q: "Wie aktualisiere ich die Markenstimme bei einer Markenentwicklung?"

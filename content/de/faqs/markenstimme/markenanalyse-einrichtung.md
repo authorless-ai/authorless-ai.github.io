@@ -13,7 +13,7 @@ faq:
   - q: "Kann ich die Ergebnisse der Markenanalyse anpassen?"
     a: ["Ja, die Ergebnisse der Markenanalyse sind jederzeit anpassbar. Verfeinern Sie die Einstellungen nach Bedarf, und aller zukuenftige Content reflektiert die ueberarbeiteten Markeneinstellungen sofort und automatisch."]
   - q: "Was passiert nach der Markenanalyse?"
-    a: ["Nach der Markenanalyse ist Ihr Projekt bereit fuer die Content-Erstellung. Der Agent nutzt das erstellte Markenprofil als Grundlage und erstellt ab sofort Content, der authentisch nach Ihrer Marke klingt."]
+    a: ["Nach der Markenanalyse ist Ihr Projekt bereit fuer die Content-Erstellung. Bazam.ai nutzt das erstellte Markenprofil als Grundlage und erstellt ab sofort Content, der authentisch nach Ihrer Marke klingt."]
   - q: "Wie genau ist die automatische Markenanalyse?"
     a: ["Die Analyse liefert einen sehr guten Startpunkt, den Sie nach Bedarf verfeinern koennen. Je mehr Details und Beispiele Sie bereitstellen, desto praeziser wird das resultierende Markenprofil und der darauf basierende Content."]
   - q: "Kann ich bestehende Styleguides in die Analyse einfliessen lassen?"

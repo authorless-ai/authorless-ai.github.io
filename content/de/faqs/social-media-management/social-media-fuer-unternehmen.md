@@ -7,7 +7,7 @@ faq:
   - q: "Welche Plattformen braucht mein Unternehmen?"
     a: ["Das haengt von Ihrer Zielgruppe ab: Fuer B2B ist LinkedIn die erste Wahl, fuer B2C eignen sich Instagram und TikTok hervorragend, und fuer lokale Unternehmen ist Facebook besonders effektiv. Bazam.ai veroeffentlicht auf allen dieser Plattformen."]
   - q: "Wie starte ich mit Social Media fuer mein Unternehmen?"
-    a: ["Erstellen Sie zunaechst Ihre Profile auf den relevanten Plattformen, definieren Sie dann Ihre Markenstimme in Bazam.ai und beginnen Sie mit der regelmaessigen Veroeffentlichung. Der Agent erstellt den Content, sodass Sie schnell starten koennen."]
+    a: ["Erstellen Sie zunaechst Ihre Profile auf den relevanten Plattformen, definieren Sie dann Ihre Markenstimme in Bazam.ai und beginnen Sie mit der regelmaessigen Veroeffentlichung. Bazam.ai erstellt den Content, sodass Sie schnell starten koennen."]
   - q: "Wie nutze ich Social Media fuer den Kundenservice?"
     a: ["Reagieren Sie schnell und professionell auf Fragen und Beschwerden ueber Social Media. Das demonstriert Erreichbarkeit und Kundennaehe. Bazam.ais Agent kann bei Bedarf professionelle Antwortvorschlaege erstellen."]
   - q: "Wie generiere ich Leads ueber Social Media?"

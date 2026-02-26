@@ -15,7 +15,7 @@ faq:
   - q: "Wie dokumentiere ich Content-Ideen fuer spaeter?"
     a: ["Nutzen Sie Bazam.ais Content-Vorschlaege als Ideenspeicher. Ideen, die nicht sofort umgesetzt werden, koennen fuer spaetere Monate vorgemerkt und bei Bedarf wieder aufgegriffen werden."]
   - q: "Wie reagiere ich auf unvorhergesehene Aenderungen?"
-    a: ["Bazam.ais flexibler Kalender ermoeglicht kurzfristige Anpassungen. Verschieben Sie geplanten Content und fuegen Sie aktuelle Beitraege hinzu. Der Agent erstellt spontanen Content in wenigen Minuten."]
+    a: ["Bazam.ais flexibler Kalender ermoeglicht kurzfristige Anpassungen. Verschieben Sie geplanten Content und fuegen Sie aktuelle Beitraege hinzu. Bazam.ai erstellt spontanen Content in wenigen Minuten."]
   - q: "Wie ueberpreufe ich die Performance meines Kalenders?"
     a: ["Vergleichen Sie die geplante Veroeffentlichungsfrequenz mit dem tatsaechlichen Output und analysieren Sie, welche Tage und Zeiten das beste Engagement erzielen. Passen Sie Ihren Kalender basierend auf diesen Erkenntnissen an."]
   - q: "Wie stimme ich den Kalender mit anderen Marketing-Aktivitaeten ab?"

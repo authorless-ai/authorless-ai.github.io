@@ -7,7 +7,7 @@ faq:
   - q: "Wie werde ich Meinungsfuehrer in meiner Branche?"
     a: ["Der Weg fuehrt ueber drei Saeulen: regelmaessige Veroeffentlichung von Expertencontent, eine einzigartige und wiedererkennbare Perspektive und Konsistenz ueber Monate hinweg. Bazam.ais Agent erstellt den qualitativ hochwertigen Content, der diese Position aufbaut."]
   - q: "Wie lange dauert es, eine Meinungsfuehrerschaft aufzubauen?"
-    a: ["Rechnen Sie mit sechs bis zwoelf Monaten konsistenter Veroeffentlichung, bevor Sie als Meinungsfuehrer wahrgenommen werden. Bazam.ai macht diese Konsistenz nachhaltig, da der Agent den Content erstellt und Sie von der muehsamen Produktion entlastet."]
+    a: ["Rechnen Sie mit sechs bis zwoelf Monaten konsistenter Veroeffentlichung, bevor Sie als Meinungsfuehrer wahrgenommen werden. Bazam.ai macht diese Konsistenz nachhaltig, da Bazam.ai den Content erstellt und Sie von der muehsamen Produktion entlastet."]
   - q: "Welche Plattformen eignen sich am besten fuer Meinungsfuehrerschaft?"
     a: ["LinkedIn ist ideal fuer B2B-Meinungsfuehrerschaft, ein Blog ermoeglicht thematische Tiefe, X eignet sich fuer schnellen Meinungsaustausch und ein Newsletter fuer den direkten Beziehungsaufbau. Bazam.ai veroeffentlicht auf allen diesen Plattformen."]
   - q: "Wie erstelle ich eine Strategie fuer Meinungsfuehrerschaft?"

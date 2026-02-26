@@ -7,7 +7,7 @@ faq:
   - q: "Brauche ich separate Social-Media-Accounts für jede Sprache?"
     a: ["Bei großen, klar abgegrenzten Märkten empfehlen sich separate Accounts, da Sie so gezielter auf die jeweilige Zielgruppe eingehen können. Für kleinere Märkte kann auch ein gemeinsamer Account mit gemischten Sprachen gut funktionieren. Bazam.ai unterstützt beide Varianten."]
   - q: "Wie erstelle ich Social-Media-Posts in einer Sprache, die ich nicht spreche?"
-    a: ["Bazam.ais Agent erstellt native Social-Media-Posts in jeder der über 100 unterstützten Sprachen. Sie formulieren Ihre Anweisungen auf Deutsch und der Agent produziert den Post direkt in der gewünschten Sprache — sprachlich korrekt und kulturell angemessen."]
+    a: ["Bazam.ai erstellt native Social-Media-Posts in jeder der ueber 100 unterstuetzten Sprachen. Sie formulieren Ihre Anweisungen auf Deutsch und Bazam.ai produziert den Post direkt in der gewuenschten Sprache — sprachlich korrekt und kulturell angemessen."]
   - q: "Wie bleibt meine Markenstimme über verschiedene Sprachen hinweg konsistent?"
     a: ["Bazam.ais Markenstimme-Einstellungen wirken sprachübergreifend. Das bedeutet, dass Ihre definierte Persönlichkeit, Ihr Ton und Ihr Stil auch in anderen Sprachen erhalten bleiben. So klingt Ihre Marke auf Spanisch genauso authentisch wie auf Deutsch."]
   - q: "Wie manage ich Community-Management in mehreren Sprachen?"

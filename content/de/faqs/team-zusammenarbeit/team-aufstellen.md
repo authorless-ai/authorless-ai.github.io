@@ -13,7 +13,7 @@ faq:
   - q: "Wie strukturiere ich ein Remote-Content-Team?"
     a: ["Bazam.ais Cloud-basierte Plattform macht die standortunabhaengige Zusammenarbeit moeglich. Alle Teammitglieder arbeiten auf der gleichen Plattform mit identischen Einstellungen und Workflows."]
   - q: "Brauche ich Content-Spezialisten fuer jede Plattform?"
-    a: ["Mit Bazam.ai nicht unbedingt. Der Agent erstellt plattformspezifischen Content automatisch, sodass ein Generalist mit KI-Unterstuetzung mehrere Plattformen gleichzeitig bedienen kann."]
+    a: ["Mit Bazam.ai nicht unbedingt. Bazam.ai erstellt plattformspezifischen Content automatisch, sodass ein Generalist mit KI-Unterstuetzung mehrere Plattformen gleichzeitig bedienen kann."]
   - q: "Wie finde ich die richtigen Leute fuer mein Content-Team?"
     a: ["Priorisieren Sie strategisches Denken und Markenverstaendnis ueber reine Schreibfaehigkeiten. Mit Bazam.ais KI als Erstellungswerkzeug brauchen Sie Leute, die wissen, was gesagt werden soll, nicht unbedingt solche, die es selbst formulieren koennen."]
   - q: "Wie trainiere ich mein Team auf Bazam.ai?"

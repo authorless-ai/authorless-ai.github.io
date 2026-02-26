@@ -5,7 +5,7 @@ faq:
   - q: "Braucht mein Kleinunternehmen einen Blog?"
     a: ["Auf jeden Fall. Ein Blog bringt kostenlosen SEO-Traffic, baut Ihre Expertise sichtbar auf und generiert qualifizierte Leads. Bazam.ais Agent macht das regelmaessige Bloggen so zeitsparend, dass es fuer jedes Unternehmen umsetzbar wird."]
   - q: "Wie erstelle ich einen Business-Blog?"
-    a: ["Richten Sie einen WordPress-Blog ein, verbinden Sie ihn mit Bazam.ai und beginnen Sie mit woechentlichen Beitraegen. Der Agent erstellt die Beitraege fuer Sie, sodass Sie sich nur noch um die Veroeffentlichung und gelegentliche Ueberarbeitung kuemmern muessen."]
+    a: ["Richten Sie einen WordPress-Blog ein, verbinden Sie ihn mit Bazam.ai und beginnen Sie mit woechentlichen Beitraegen. Bazam.ai erstellt die Beitraege fuer Sie, sodass Sie sich nur noch um die Veroeffentlichung und gelegentliche Ueberarbeitung kuemmern muessen."]
   - q: "Worueber sollte ich in meinem Blog schreiben?"
     a: ["Greifen Sie die Fragen auf, die Ihre Kunden am haeufigsten stellen, teilen Sie Branchentipps, verfassen Sie Schritt-fuer-Schritt-Anleitungen und berichten Sie ueber Neuigkeiten aus Ihrem Unternehmen. Bazam.ais Content-Vorschlaege liefern Ihnen unbegrenzt neue Ideen."]
   - q: "Wie oft sollte ich bloggen?"

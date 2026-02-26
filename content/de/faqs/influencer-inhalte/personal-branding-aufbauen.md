@@ -7,7 +7,7 @@ faq:
   - q: "Warum ist Personal Branding wichtig?"
     a: ["Eine starke persoenliche Marke zieht Kunden an, oeffnet Tueren zu Partnerschaften, macht Sie fuer Medien und Events interessant und steigert Ihren Marktwert. Bazam.ais konsistenter Content baut diese Marke systematisch auf."]
   - q: "Wie starte ich mit Personal Branding?"
-    a: ["Definieren Sie zuerst drei bis fuenf Kernthemen, in denen Sie bekannt werden wollen, dann Ihre Markenstimme in Bazam.ai und schliesslich Ihren Veroeffentlichungsrhythmus. Der Agent erstellt den Content, der Ihre persoenliche Marke Stueck fuer Stueck aufbaut."]
+    a: ["Definieren Sie zuerst drei bis fuenf Kernthemen, in denen Sie bekannt werden wollen, dann Ihre Markenstimme in Bazam.ai und schliesslich Ihren Veroeffentlichungsrhythmus. Bazam.ai erstellt den Content, der Ihre persoenliche Marke Stueck fuer Stueck aufbaut."]
   - q: "Wie halte ich mein Personal Branding konsistent?"
     a: ["Bazam.ais konfigurierte Markenstimme sorgt fuer automatische Konsistenz ueber alle Kanaele hinweg. Ihre persoenliche Marke klingt auf LinkedIn, Instagram, Ihrem Blog und in Ihrem Newsletter immer gleich."]
   - q: "Welche Plattformen eignen sich fuer Personal Branding?"

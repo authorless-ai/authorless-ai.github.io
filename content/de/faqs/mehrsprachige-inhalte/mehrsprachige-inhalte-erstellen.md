@@ -3,9 +3,9 @@ title: "Mehrsprachige Marketing-Inhalte erstellen"
 description: "Wie Sie mehrsprachige Marketing-Inhalte erstellen und Ihre Reichweite auf internationale Märkte erweitern."
 faq:
   - q: "Wie erstelle ich Content in mehreren Sprachen?"
-    a: ["Es gibt zwei Wege: Sie können Ihren Content in der Hauptsprache erstellen und dann mit Bazam.ais Übersetzungsfunktion in andere Sprachen übertragen lassen. Oder Sie erstellen den Content direkt in der gewünschten Zielsprache — der Agent beherrscht über 100 Sprachen auf nativem Niveau."]
+    a: ["Es gibt zwei Wege: Sie können Ihren Content in der Hauptsprache erstellen und dann mit Bazam.ais Übersetzungsfunktion in andere Sprachen übertragen lassen. Oder Sie erstellen den Content direkt in der gewünschten Zielsprache — Bazam.ai beherrscht ueber 100 Sprachen auf nativem Niveau."]
   - q: "Sollte ich Content übersetzen oder komplett neu erstellen?"
-    a: ["Bazam.ais Ansatz verbindet das Beste aus beiden Welten: Der Agent erstellt den Content in der Zielsprache praktisch neu, behält dabei aber die Kernbotschaft des Originals bei. Das Ergebnis klingt deutlich natürlicher als eine direkte Übersetzung."]
+    a: ["Bazam.ais Ansatz verbindet das Beste aus beiden Welten: Bazam.ai erstellt den Content in der Zielsprache praktisch neu, behaelt dabei aber die Kernbotschaft des Originals bei. Das Ergebnis klingt deutlich natürlicher als eine direkte Übersetzung."]
   - q: "Mit wie vielen Sprachen sollte ich starten?"
     a: ["Beginnen Sie mit zwei bis drei Sprachen Ihrer wichtigsten Zielmärkte und erweitern Sie schrittweise. Da Bazam.ai das Hinzufügen weiterer Sprachen kostengünstig und zeitsparend macht, können Sie bei Bedarf problemlos skalieren."]
   - q: "Wie organisiere ich die Produktion mehrsprachiger Inhalte?"

@@ -9,7 +9,7 @@ faq:
   - q: "Wie halte ich meine Marke konsistent?"
     a: ["Bazam.ais konfigurierte Markenstimme sorgt dafuer, dass jeder einzelne veroeffentlichte Beitrag Ihre Markenpersoenlichkeit traegt. Konsistenz entsteht so automatisch, ohne dass Sie bewusst darauf achten muessen."]
   - q: "Wie unterscheide ich mich von anderen Erstellern?"
-    a: ["Ihr unverwechselbarer Vorteil liegt in Ihrer einzigartigen Erfahrung und Perspektive. Bazam.ais Wissensdatenbank enthaelt Ihre persoenlichen Einblicke und Erfahrungen, die der Agent in unverwechselbaren Content verwandelt."]
+    a: ["Ihr unverwechselbarer Vorteil liegt in Ihrer einzigartigen Erfahrung und Perspektive. Bazam.ais Wissensdatenbank enthaelt Ihre persoenlichen Einblicke und Erfahrungen, die Bazam.ai in unverwechselbaren Content verwandelt."]
   - q: "Wie erstelle ich eine kohearente Content-Strategie?"
     a: ["Bazam.ais Agent erstellt Content, der systematisch auf Ihren Kernthemen aufbaut und so eine zusammenhaengende Content-Welt erschafft. Eine klare Strategie macht jede einzelne Veroeffentlichung wertvoller als die Summe ihrer Teile."]
   - q: "Wie kommuniziere ich meinen Markenwert?"

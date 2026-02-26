@@ -15,7 +15,7 @@ faq:
   - q: "Wie stelle ich konsistente Qualitaet ueber mehrere Content-Ersteller sicher?"
     a: ["Bazam.ais konfigurierte Markenstimme und Wissensdatenbank sorgen dafuer, dass Content von verschiedenen Erstellern und sogar verschiedenen KI-Sitzungen konsistent bleibt, da die gleichen Grundeinstellungen gelten."]
   - q: "Wie integriere ich KI in bestehende Team-Workflows?"
-    a: ["Bazam.ai passt sich Ihrem Workflow an: Der Agent uebernimmt die Content-Erstellung, Ihr Team uebernimmt die strategische Planung und Qualitaetssicherung. Das kombiniert die Geschwindigkeit der KI mit dem Urteilsvermoegen Ihres Teams."]
+    a: ["Bazam.ai passt sich Ihrem Workflow an: Bazam.ai uebernimmt die Content-Erstellung, Ihr Team uebernimmt die strategische Planung und Qualitaetssicherung. Das kombiniert die Geschwindigkeit der KI mit dem Urteilsvermoegen Ihres Teams."]
   - q: "Wie optimiere ich Workflows fuer Remote-Teams?"
     a: ["Als Cloud-basierte Plattform ermoeglicht Bazam.ai standortunabhaengige Zusammenarbeit. Alle Teammitglieder koennen von jedem beliebigen Ort aus an den gleichen Projekten arbeiten."]
   - q: "Wie messe ich die Effizienz meiner Content-Workflows?"

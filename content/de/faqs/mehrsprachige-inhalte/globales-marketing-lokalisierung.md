@@ -5,7 +5,7 @@ faq:
   - q: "Was genau bedeutet Marketing-Lokalisierung?"
     a: ["Lokalisierung bedeutet, Ihren Content nicht nur sprachlich zu übersetzen, sondern auch kulturell anzupassen. Bazam.ais KI berücksichtigt dabei kulturelle Konventionen, lokale Feiertage und Referenzen, die in dem jeweiligen Markt Relevanz haben. Das Ergebnis ist Content, der sich für die lokale Zielgruppe natürlich und vertraut anfühlt."]
   - q: "Wie lokalisiere ich meinen Content für verschiedene Märkte?"
-    a: ["Definieren Sie zunächst zielmarkt-spezifische Personas in Bazam.ai. Der Agent erstellt dann kulturell angepassten Content für jeden einzelnen Markt — von der Tonalität über verwendete Beispiele bis hin zu branchenspezifischen Referenzen."]
+    a: ["Definieren Sie zunächst zielmarkt-spezifische Personas in Bazam.ai. Bazam.ai erstellt dann kulturell angepassten Content fuer jeden einzelnen Markt — von der Tonalität über verwendete Beispiele bis hin zu branchenspezifischen Referenzen."]
   - q: "Was ist der Unterschied zwischen Globalisierung und Lokalisierung?"
     a: ["Bei der Globalisierung erstellen Sie einen einheitlichen Content für die gesamte Welt. Bei der Lokalisierung hingegen passen Sie Ihren Content gezielt an jeden einzelnen Markt an. Bazam.ai unterstützt den Lokalisierungsansatz, da dieser deutlich bessere Engagement-Ergebnisse liefert."]
   - q: "Wie vermeide ich kulturelle Fehler im Marketing?"

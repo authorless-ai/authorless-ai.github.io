@@ -5,7 +5,7 @@ faq:
   - q: "Wie skaliere ich die Content-Produktion meiner Agentur?"
     a: ["Bazam.ais KI-Agent ermoeglicht es Ihrem Team, deutlich mehr Kunden parallel zu bedienen. Die Content-Erstellung erfolgt durch die KI, waehrend Ihre Experten sich auf Strategie, Qualitaetssicherung und Kundenbeziehungen konzentrieren."]
   - q: "Wie onboarde ich neue Agenturkunden?"
-    a: ["Fuer jeden neuen Kunden legen Sie ein eigenes Projekt an und fuehren die Markenanalyse durch. Danach kann der Agent sofort hochwertigen, markenkonsistenten Content erstellen, ohne wochenlangen Einarbeitungsprozess."]
+    a: ["Fuer jeden neuen Kunden legen Sie ein eigenes Projekt an und fuehren die Markenanalyse durch. Danach kann Bazam.ai sofort hochwertigen, markenkonsistenten Content erstellen, ohne wochenlangen Einarbeitungsprozess."]
   - q: "Wie halte ich die Qualitaet bei vielen Kunden?"
     a: ["Jedes Kundenprojekt hat eine eigene, konfigurierte Markenstimme und Wissensdatenbank. Der KI-Agent liefert konsistente Qualitaet pro Kunde, unabhaengig davon, wie viele Kunden Sie gleichzeitig betreuen."]
   - q: "Wie erstelle ich Reporting fuer Agenturkunden?"

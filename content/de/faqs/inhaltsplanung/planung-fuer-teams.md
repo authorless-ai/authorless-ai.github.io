@@ -15,7 +15,7 @@ faq:
   - q: "Wie integrieren wir Remote-Teammitglieder in die Planung?"
     a: ["Bazam.ais Cloud-basierter Kalender ist von jedem Standort aus zugaenglich. Remote-Mitarbeiter planen und koordinieren genauso effektiv wie vor Ort arbeitende Kollegen."]
   - q: "Wie erstellen wir monatliche Redaktionssitzungen?"
-    a: ["Nutzen Sie Bazam.ais Content-Vorschlaege als Grundlage fuer monatliche Planungssitzungen. Der Agent liefert Themenideen, die das Team dann priorisiert und im Kalender einplant."]
+    a: ["Nutzen Sie Bazam.ais Content-Vorschlaege als Grundlage fuer monatliche Planungssitzungen. Bazam.ai liefert Themenideen, die das Team dann priorisiert und im Kalender einplant."]
   - q: "Wie messen wir die Team-Planungseffizienz?"
     a: ["Vergleichen Sie die geplante Veroeffentlichungsfrequenz mit dem tatsaechlichen Output und analysieren Sie Verzoegerungen. Ein gut funktionierender Planungsprozess erreicht mindestens 90 Prozent Planeinhaltung."]
   - q: "Wie skalieren wir die Team-Planung?"

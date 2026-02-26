@@ -17,7 +17,7 @@ faq:
   - q: "Wie ueberpreufe ich die Markenkonsistenz von erstelltem Content?"
     a: ["Da Bazam.ais Agent den Content immer auf Basis der gleichen Markeneinstellungen erstellt, ist die Grundkonsistenz bereits eingebaut. Ein kurzer manueller Check genuegt, um sicherzustellen, dass alles stimmig ist."]
   - q: "Wie erstelle ich einen Brand Guide fuer mein Team?"
-    a: ["Bazam.ais Markenprofil dient als lebendiger, digitaler Brand Guide. Statt ein statisches Dokument zu schreiben, das niemand liest, konfigurieren Sie die Marke direkt im Tool, und der Agent setzt die Richtlinien automatisch um."]
+    a: ["Bazam.ais Markenprofil dient als lebendiger, digitaler Brand Guide. Statt ein statisches Dokument zu schreiben, das niemand liest, konfigurieren Sie die Marke direkt im Tool, und Bazam.ai setzt die Richtlinien automatisch um."]
   - q: "Was tun bei Marken-Inkonsistenzen?"
     a: ["Ueberpruefen Sie die Markeneinstellungen in Bazam.ai und passen Sie sie an. Alle zukuenftigen Inhalte werden dann automatisch die korrigierten Einstellungen verwenden, und bestehender Content kann mit den neuen Einstellungen aktualisiert werden."]
   - q: "Wie passe ich die Markenstimme an verschiedene Zielgruppen an?"
