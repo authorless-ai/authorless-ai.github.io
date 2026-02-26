@@ -13,7 +13,7 @@
                     **/}}
                     <span class="logo-font self-center text-xl font-semibold whitespace-nowrap dark:text-white">{{ .Site.Title }}</span>
                 </a>
-                <p class="my-4 text-gray-500 dark:text-gray-400">Bazam is an automated content marketing suite perfect for entrepreneurs, teams and agencies. Write less, do more.</p>
+                <p class="my-4 text-gray-500 dark:text-gray-400">{{ T "footerTagline" }}</p>
                 {{/*
                 <ul class="flex mt-5 space-x-6">
                     <li>
@@ -40,10 +40,10 @@
                       <a href="{{ $contact.Permalink }}" class="hover:underline">{{ T "contactUs" }}</a>
                     </li>
                     <li class="mb-4">
-                      <a href="{{- .Site.Params.privacyPolicy -}}" class="hover:underline">Privacy Policy</a>
+                      <a href="{{- .Site.Params.privacyPolicy -}}" class="hover:underline">{{ T "privacyPolicy" }}</a>
                     </li>
                     <li class="mb-4">
-                      <a href="{{- .Site.Params.termsUrl -}}" class="hover:underline">Terms</a>
+                      <a href="{{- .Site.Params.termsUrl -}}" class="hover:underline">{{ T "terms" }}</a>
                     </li>
                   </ul>
                   <ul>
@@ -107,10 +107,10 @@
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "resources" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
-                        <a href="#" class="hover:underline">Blog</a>
+                        <a href="#" class="hover:underline">{{ T "blog" }}</a>
                     </li>
                     <li class="mb-4">
-                        <a href="/faqs/" class="hover:underline">FAQs</a>
+                        <a href="{{ "faqs/" | relLangURL }}" class="hover:underline">{{ T "faq" }}</a>
                     </li>
                 </ul>
             </div>

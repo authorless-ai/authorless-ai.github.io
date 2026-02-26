@@ -117,3 +117,15 @@ other = "Assinar"
 
 [privacyNotice]
 other = "Nunca vendemos seus dados. Por favor, leia nossa <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Política de Privacidade</a>."
+
+[footerTagline]
+other = "Bazam é uma suite de marketing de conteúdo automatizada, perfeita para empreendedores, equipes e agências. Escreva menos, faça mais."
+
+[blog]
+other = "Blog"
+
+[privacyPolicy]
+other = "Política de Privacidade"
+
+[terms]
+other = "Termos"

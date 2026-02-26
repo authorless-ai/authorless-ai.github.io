@@ -117,3 +117,15 @@ other = "Subscribe"
 
 [privacyNotice]
 other = "We never sell your data. Please read our <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Privacy Policy</a>."
+
+[footerTagline]
+other = "Bazam is an automated content marketing suite perfect for entrepreneurs, teams and agencies. Write less, do more."
+
+[blog]
+other = "Blog"
+
+[privacyPolicy]
+other = "Privacy Policy"
+
+[terms]
+other = "Terms"
