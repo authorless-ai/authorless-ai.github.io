@@ -1,0 +1,243 @@
+---
+title: Preços
+faq:
+  - q: "Posso cancelar minha assinatura?"
+    a:
+    - "Sim, você pode cancelar sua assinatura do Bazam quando quiser. Se cancelar, você ainda poderá usar sua conta e todos os seus recursos até o final do período de cobrança atual (como o final do mês ou ano)."
+    - "Quando seu período de cobrança atual terminar, seu acesso ao Bazam e quaisquer créditos restantes também se encerrarão. Você não será cobrado novamente após isso."
+  - q: "Posso fazer upgrade ou alterar meu plano do Bazam?"
+    a:
+    - "Sim, você pode fazer upgrade do seu plano do Bazam a qualquer momento para obter mais funcionalidades, limites de crédito maiores ou outras vantagens que se adequem ao que você está fazendo."
+    - "Para fazer upgrade, basta entrar em contato conosco. Os upgrades geralmente começam imediatamente, e explicaremos claramente quaisquer alterações na sua fatura do mês atual."
+  - q: "O que significa 'X Palavras de IA por Mês', e como meu uso é calculado?"
+    a:
+    - "As 'Palavras de IA por Mês' indicadas no seu plano (ex: 100 mil palavras) são uma estimativa do conteúdo de texto que você pode produzir com base no uso típico. Sua produção real de conteúdo depende de como você usa o Bazam."
+    - "Sua cota cobre todas as funcionalidades com IA, não apenas a geração de texto. Isso inclui criação de imagens com IA, uso de sugestões de IA e aproveitamento do nosso editor de IA para diversas tarefas. Todas essas atividades consomem da sua cota mensal."
+    - "Por exemplo, se você gera imagens frequentemente ou usa extensivamente ferramentas de IA para sugestões e edição, isso reduzirá a quantidade de conteúdo de texto que você pode produzir dentro da cota do seu plano. Seu uso é flexível, permitindo que você priorize as funcionalidades de IA mais valiosas para o seu fluxo de trabalho."
+  - q: "O que acontece se eu ficar sem créditos de IA? Posso comprar mais?"
+    a:
+    - "Sim, você pode! Todo plano do Bazam oferece uma quantidade de créditos de IA para criação de conteúdo. Se você usar todos os seus créditos antes do próximo vencimento, pode comprar mais para continuar."
+    - "Comprar créditos de IA extras é fácil. Basta seguir os passos na sua conta ou pedir ajuda ao seu contato no Bazam. Por exemplo, se você está no plano Básico, pode comprar 500 mil palavras extras por €20. Planos com mais funcionalidades oferecem melhores preços e pacotes maiores de créditos."
+  - q: "Meus créditos de IA do Bazam acumulam para o próximo mês?"
+    a:
+    - "Os créditos de IA que vêm com seu plano de assinatura mensal não acumulam para o próximo mês. Esses créditos são destinados a serem usados dentro do seu ciclo de cobrança atual."
+    - "No entanto, quaisquer créditos de IA adicionais que você comprar separadamente acumulam sim. Isso significa que se você comprar créditos extras e não usar todos, eles ainda estarão disponíveis para você usar nos meses seguintes até serem utilizados."
+---
+<section class="bg-white dark:bg-gray-900 mb-16" x-data="{
+  yearly: true,
+  plans: {
+    timeSaver: {
+      monthly: 25,
+      yearly: 19
+    },
+    team: {
+      monthly: 65,
+      yearly: 49
+    },
+    agency: {
+      monthly: 180,
+      yearly: 135
+    }
+  }
+}">
+  <div class="max-w-screen-xl py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
+    <h2 class="mx-auto text-center lg:mb-12 mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+      Marketing Sem Estresse Agora
+    </h2>
+    <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
+      <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">
+        Experimente um marketing mais inteligente que funciona. Obtenha a solução de marketing com IA que você precisa. Escolha seu plano para resultados mais rápidos e fáceis.
+      </p>
+
+      <div class="flex items-center justify-center mt-4 space-x-3">
+        <span class="text-xl text-gray-500 dark:text-white hover:cursor-pointer" :class="{ 'text-gray-900 font-bold': !yearly }"
+        @click="yearly = !yearly">
+          Mensal
+        </span>
+        <!-- Switch Container -->
+        <label class="inline-flex items-center cursor-pointer">
+          <input type="checkbox" value="" checked class="sr-only peer" x-model="yearly">
+          <div class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div>
+        </label>
+        <span class="text-xl text-gray-900 font-bold dark:text-white hover:cursor-pointer" :class="{ 'text-gray-500 font-normal': !yearly }"
+          @click="yearly = !yearly">
+          Anual
+        </span>
+        <p class="text-red-600">Pague anualmente e economize 25%</p>
+      </div>
+    </div>
+
+    <div class="grid gap-8 mt-8 xl:grid-cols-3 xl:gap-10 sm:mt-12">
+      <!-- Pricing Card: Time saver -->
+      <div
+        class="flex flex-col max-w-xl p-6 mx-auto text-center bg-white border border-gray-200 rounded-lg shadow xl:max-w-lg dark:border-gray-700 dark:bg-gray-800 xl:p-8">
+        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
+          Economizador de Tempo
+        </h3>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'€' + (yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
+        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
+          <span x-show="yearly">por mês, cobrado anualmente</span>
+          <span x-show="!yearly">por mês, cobrado mensalmente</span>
+        </p>
+        <a href="{{< signup-url >}}"
+          class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white  dark:hover:bg-gray-500 dark:focus:ring-gray-600">Começar</a>
+        <!-- List -->
+        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>1 Usuário</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>1 Pacote de Marca</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>1 Audiência por Marca</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>100 mil Palavras de IA por Mês<sup>*</sup></span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>1 Workspace</span>
+          </li>
+          <li>
+            <div class="flex items-center space-x-3">
+              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+              <span>1 Conta Conectada por Plataforma</span>
+            </div>
+            <small class="pl-8">Ex: 1 LinkedIn <u>e</u> 1 IG, etc.</small>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>30 Posts Agendados por Mês, por Plataforma</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Campanhas Multicanal</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Pricing Card: Team -->
+      <div
+        class="flex flex-col max-w-xl p-6 mx-auto text-center bg-white border rounded-lg shadow xl:max-w-lg border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8">
+        <div class="mb-2">
+          <span
+            class="px-3 py-1 text-sm rounded text-primary-800 bg-primary-100 dark:bg-primary-900 dark:text-primary-300">Recomendado</span>
+        </div>
+        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
+          Equipe
+        </h3>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'€' + (yearly ? plans.team.yearly : plans.team.monthly)"></span>
+        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
+            <span x-show="yearly">por mês, cobrado anualmente</span>
+            <span x-show="!yearly">por mês, cobrado mensalmente</span>
+        </p>
+        <a href="{{< signup-url >}}"
+          class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 dark:focus:ring-primary-900 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8">Começar</a>
+        <!-- List -->
+        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>3 Usuários</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>6 Pacotes de Marca</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>3 Audiências por Marca</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>1M Palavras de IA por Mês<sup>*</sup></span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>10 Workspaces</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>6 Contas Sociais por Plataforma</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Posts Agendados Ilimitados por Mês, por Plataforma</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Campanhas Multicanal</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Pricing Card: Agency -->
+      <div
+        class="flex flex-col max-w-xl p-6 mx-auto text-center bg-white border border-gray-200 rounded-lg shadow xl:max-w-lg dark:border-gray-700 dark:bg-gray-800 xl:p-8">
+        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
+          Agência
+        </h3>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'€' + (yearly ? plans.agency.yearly : plans.agency.monthly)"></span>
+        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
+            <span x-show="yearly">por mês, cobrado anualmente</span>
+            <span x-show="!yearly">por mês, cobrado mensalmente</span>
+        </p>
+        <a href="{{< signup-url >}}"
+          class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white  dark:hover:bg-gray-500 dark:focus:ring-gray-600">Começar</a>
+        <!-- List -->
+        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>5 Usuários Incluídos (Adicione até 10)</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>12 Pacotes de Marca</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>6 Audiências por Marca</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>4M Palavras de IA por Mês<sup>*</sup></span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>30 Workspaces</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>12 Contas Sociais por Plataforma</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Posts Agendados Ilimitados por Mês, por Plataforma</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Campanhas Multicanal</span>
+          </li>
+          <li class="pt-4">
+            <p class="text-sm font-semibold text-gray-700 dark:text-gray-300">Complementos Disponíveis:</p>
+            <ul role="list" class="mt-2 space-y-2 text-sm text-left text-gray-600 dark:text-gray-400 pl-5">
+                <li class="flex items-center space-x-2">
+                    <svg class="flex-shrink-0 w-4 h-4 text-blue-500 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clip-rule="evenodd"></path></svg>
+                    <span>Usuário Adicional: €20/mês cada</span>
+                </li>
+                <li class="flex items-center space-x-2">
+                    <svg class="flex-shrink-0 w-4 h-4 text-blue-500 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z" clip-rule="evenodd"></path></svg>
+                    <span>Pacote de Marca Adicional & Contas Sociais: €10/mês cada</span>
+                </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <p class="text-xs text-gray-600">* Os valores reais variam conforme o uso</p>
+    </div>
+  </div>
+</section>

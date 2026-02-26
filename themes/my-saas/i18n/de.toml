@@ -1,0 +1,119 @@
+[more]
+other = "Mehr"
+
+[allTitle]
+other = "Alle {{.Title }}"
+
+[recentTitle]
+other = "Neueste {{.Title }}"
+
+[readMore]
+other = "Weiterlesen"
+
+[by]
+other = "Von"
+
+[whatsInThis]
+other = "Was ist in diesem {{ .Type }}"
+
+[related]
+other = "Verwandt"
+
+[yourName]
+other = "Ihr Name"
+
+[emailAddress]
+other = "E-Mail-Adresse"
+
+[message]
+other = "Nachricht"
+
+[emailRequiredNote]
+other = "Eine E-Mail-Adresse ist erforderlich."
+
+[send]
+other = "Senden"
+
+[taxonomyPageList]
+other = "Unten finden Sie Seiten, die den Taxonomiebegriff „{{ .Title }}\" verwenden"
+
+[readingTime]
+one = "Eine Minute Lesezeit"
+other = "{{ .Count }} Minuten Lesezeit"
+
+[wordCount]
+one = "Ein Wort"
+other = "{{ .Count }} Wörter"
+
+[pageTitle]
+other = "{{ .Name }} Seite"
+
+[features]
+other = "Funktionen"
+
+[solutions]
+other = "Lösungen"
+
+[learn]
+other = "Lernen"
+
+[pricing]
+other = "Preise"
+
+[contactUs]
+other = "Kontakt"
+
+[company]
+other = "Unternehmen"
+
+[resources]
+other = "Ressourcen"
+
+[allRightsReserved]
+other = "Alle Rechte vorbehalten"
+
+[faq]
+other = "Häufig gestellte Fragen"
+
+[logIn]
+other = "Anmelden"
+
+[signUp]
+#other = "Registrieren"
+other = "Frühzugang"
+
+[learnMore]
+other = "Mehr erfahren"
+
+[getStarted]
+other = "Jetzt starten"
+
+[submit]
+other = "Absenden"
+
+[cancel]
+other = "Abbrechen"
+
+[startNow]
+other = "Jetzt starten"
+
+[startFreeNow]
+other = "Jetzt kostenlos starten"
+
+[startNowFree]
+other = "Jetzt starten &ndash; Kostenlos"
+
+[joinOurNewsletter]
+other = "Newsletter abonnieren"
+
+[newsletterDescription]
+other = "Erfahren Sie mehr über {{ . }}, Content-Marketing und erhalten Sie exklusive Rabatte"
+
+[enterYourEmail]
+other = "Ihre E-Mail-Adresse"
+
+[subscribe]
+other = "Abonnieren"
+
+[privacyNotice]
+other = "Wir verkaufen Ihre Daten niemals. Bitte lesen Sie unsere <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Datenschutzrichtlinie</a>."

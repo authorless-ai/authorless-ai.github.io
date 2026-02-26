@@ -1,0 +1,119 @@
+[more]
+other = "Plus"
+
+[allTitle]
+other = "Tous les {{.Title }}"
+
+[recentTitle]
+other = "{{.Title }} récents"
+
+[readMore]
+other = "Lire la suite"
+
+[by]
+other = "Par"
+
+[whatsInThis]
+other = "Contenu de ce {{ .Type }}"
+
+[related]
+other = "Associé"
+
+[yourName]
+other = "Votre nom"
+
+[emailAddress]
+other = "Adresse e-mail"
+
+[message]
+other = "Message"
+
+[emailRequiredNote]
+other = "Une adresse e-mail est requise."
+
+[send]
+other = "Envoyer"
+
+[taxonomyPageList]
+other = "Vous trouverez ci-dessous les pages utilisant le terme « {{ .Title }} »"
+
+[readingTime]
+one = "Lecture en une minute"
+other = "Lecture en {{ .Count }} minutes"
+
+[wordCount]
+one = "Un mot"
+other = "{{ .Count }} mots"
+
+[pageTitle]
+other = "Page {{ .Name }}"
+
+[features]
+other = "Fonctionnalités"
+
+[solutions]
+other = "Solutions"
+
+[learn]
+other = "Ressources"
+
+[pricing]
+other = "Tarifs"
+
+[contactUs]
+other = "Contact"
+
+[company]
+other = "Entreprise"
+
+[resources]
+other = "Ressources"
+
+[allRightsReserved]
+other = "Tous droits réservés"
+
+[faq]
+other = "Questions fréquentes"
+
+[learnMore]
+other = "En savoir plus"
+
+[signUp]
+#other = "S'inscrire"
+other = "Accès anticipé"
+
+[logIn]
+other = "Se connecter"
+
+[getStarted]
+other = "Commencer"
+
+[submit]
+other = "Envoyer"
+
+[cancel]
+other = "Annuler"
+
+[startNow]
+other = "Commencer maintenant"
+
+[startFreeNow]
+other = "Commencer gratuitement"
+
+[startNowFree]
+other = "Commencer maintenant &ndash; Gratuit"
+
+[joinOurNewsletter]
+other = "Inscrivez-vous à notre newsletter"
+
+[newsletterDescription]
+other = "Découvrez {{ . }}, le marketing de contenu et recevez des offres exclusives"
+
+[enterYourEmail]
+other = "Entrez votre adresse e-mail"
+
+[subscribe]
+other = "S'abonner"
+
+[privacyNotice]
+other = "Nous ne vendons jamais vos données. Veuillez lire notre <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Politique de confidentialité</a>."

@@ -1,0 +1,30 @@
+title: "Ihr komplettes Marketing-Toolkit — in einem Agenten"
+description: "Der Bazam-Agent vereint alles, was Ihr Team braucht, um Inhalte im großen Maßstab zu erstellen, zu veröffentlichen und zu messen — zugänglich über ein einziges Gespräch."
+features:
+  - iconColor: "primary"
+    title: "Erstellen & Veröffentlichen"
+    icon: edit
+    points:
+      - description: "Bitten Sie den Agenten, <b>Blogbeiträge, Social-Media-Kampagnen, Pressemitteilungen und Werbetexte</b> zu schreiben — alles markenkonform."
+      - description: "Veröffentlichen Sie direkt auf <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube und TikTok</b>."
+      - description: "Planen und reihen Sie Inhalte kanalübergreifend mit einem <b>visuellen Inhaltskalender</b> ein."
+      - description: "Verwandeln Sie bestehende Inhalte in neue Formate — machen Sie aus einem Blogbeitrag automatisch eine Social-Media-Serie."
+      - description: "Erstellen Sie Inhalte in großen Mengen für mehrere Kunden und Kampagnen gleichzeitig."
+  - iconColor: "primary"
+    title: "Kennen Sie Ihre Marke"
+    icon: chart
+    points:
+      - description: "Erstellen Sie detaillierte <b>Zielgruppen-Personas</b> mit Demografie, Motivationen, emotionalen Treibern und Kaufverhalten."
+      - description: "Definieren und pflegen Sie eine <b>konsistente Markenstimme</b> über alle Inhalte hinweg mit konfigurierbarem Ton und Stil."
+      - description: "Organisieren Sie eine <b>Wissensdatenbank</b> aus Dokumenten, URLs und Produktinformationen, auf die der Agent für Genauigkeit zurückgreift."
+      - description: "Verwalten Sie <b>mehrere Kunden und Marken</b> in separaten Projekten — jeweils mit eigener Stimme, Zielgruppen und Strategie."
+      - description: "Führen Sie Kampagnen in mehreren Sprachen mit <b>automatischer KI-Übersetzung</b> durch."
+  - iconColor: "primary"
+    title: "Messen & Verbessern"
+    icon: upload
+    points:
+      - description: "Verfolgen Sie <b>Engagement, Reichweite, Klicks und Follower-Wachstum</b> über alle Kanäle in einem Dashboard."
+      - description: "Fassen Sie Leistungsdaten auf Kampagnen-, Kanal- und Beitragsebene zusammen — <b>keine Tabellen mehr</b>."
+      - description: "Fragen Sie den Agenten nach einer <b>Leistungszusammenfassung</b>, anstatt sich in fünf Plattformen einzuloggen."
+      - description: "Arbeiten Sie mit Ihrem Team unter Nutzung von <b>rollenbasierter Zugriffskontrolle</b> und Freigabe-Workflows zusammen."
+      - description: "Transparente <b>kreditbasierte Nutzung</b>, damit Sie immer genau wissen, was Sie ausgeben."

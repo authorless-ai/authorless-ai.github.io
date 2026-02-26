@@ -1,0 +1,30 @@
+title: "Votre boîte à outils marketing complète — dans un seul agent"
+description: "L'agent Bazam réunit tout ce dont votre équipe a besoin pour créer, publier et mesurer le contenu à grande échelle — accessible via une seule conversation."
+features:
+  - iconColor: "primary"
+    title: "Créer & Publier"
+    icon: edit
+    points:
+      - description: "Demandez à l'agent de <b>rédiger des articles de blog, des campagnes sociales, des communiqués de presse et des textes publicitaires</b> — le tout fidèle à votre marque."
+      - description: "Publiez directement sur <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube et TikTok</b>."
+      - description: "Planifiez et mettez en file d'attente du contenu sur tous les canaux avec un <b>calendrier de contenu visuel</b>."
+      - description: "Réutilisez du contenu existant dans de nouveaux formats — transformez un article de blog en série de posts automatiquement."
+      - description: "Créez du contenu en masse pour plusieurs clients et campagnes simultanément."
+  - iconColor: "primary"
+    title: "Connaître votre marque"
+    icon: chart
+    points:
+      - description: "Construisez des <b>personas d'audience</b> détaillés avec données démographiques, motivations, leviers émotionnels et comportements d'achat."
+      - description: "Définissez et maintenez une <b>voix de marque cohérente</b> sur l'ensemble de votre contenu avec un ton et un style configurables."
+      - description: "Organisez une <b>base de connaissances</b> de documents, URLs et informations produit que l'agent utilise pour plus de précision."
+      - description: "Gérez <b>plusieurs clients et marques</b> dans des projets séparés — chacun avec sa propre voix, ses audiences et sa stratégie."
+      - description: "Lancez des campagnes multilingues avec la <b>traduction automatique par IA</b>."
+  - iconColor: "primary"
+    title: "Mesurer & Améliorer"
+    icon: upload
+    points:
+      - description: "Suivez <b>l'engagement, la portée, les clics et la croissance des abonnés</b> sur chaque canal dans un seul tableau de bord."
+      - description: "Agrégez les données de performance au niveau campagne, canal et publication — <b>fini les tableurs</b>."
+      - description: "Demandez à l'agent un <b>résumé de performance</b> au lieu de vous connecter à cinq plateformes."
+      - description: "Collaborez avec votre équipe grâce au <b>contrôle d'accès par rôle</b> et aux workflows d'approbation."
+      - description: "<b>Utilisation basée sur des crédits</b> transparente pour toujours savoir exactement ce que vous dépensez."

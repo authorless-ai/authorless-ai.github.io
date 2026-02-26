@@ -1,0 +1,30 @@
+title: "Seu Kit Completo de Marketing — Em Um Só Agente"
+description: "O agente Bazam reúne tudo o que sua equipe precisa para criar, publicar e medir conteúdo em escala — acessível por meio de uma única conversa."
+features:
+  - iconColor: "primary"
+    title: "Crie & Publique"
+    icon: edit
+    points:
+      - description: "Peça ao agente para <b>escrever posts de blog, campanhas sociais, comunicados de imprensa e textos publicitários</b> — tudo alinhado com sua marca."
+      - description: "Publique diretamente no <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube e TikTok</b>."
+      - description: "Agende e organize conteúdo em todos os canais com um <b>calendário de conteúdo visual</b>."
+      - description: "Reaproveite conteúdo existente em novos formatos — transforme um post de blog em uma série social automaticamente."
+      - description: "Crie conteúdo em massa para múltiplos clientes e campanhas simultaneamente."
+  - iconColor: "primary"
+    title: "Conheça Sua Marca"
+    icon: chart
+    points:
+      - description: "Crie <b>personas de audiência</b> ricas com dados demográficos, motivações, gatilhos emocionais e comportamento de compra."
+      - description: "Defina e mantenha uma <b>voz de marca consistente</b> em todo o conteúdo com tom e estilo configuráveis."
+      - description: "Organize uma <b>base de conhecimento</b> com documentos, URLs e informações de produtos que o agente utiliza para maior precisão."
+      - description: "Gerencie <b>múltiplos clientes e marcas</b> em projetos separados — cada um com sua própria voz, audiências e estratégia."
+      - description: "Execute campanhas em múltiplos idiomas com <b>tradução automatizada por IA</b>."
+  - iconColor: "primary"
+    title: "Meça & Melhore"
+    icon: upload
+    points:
+      - description: "Acompanhe <b>engajamento, alcance, cliques e crescimento de seguidores</b> em todos os canais em um único painel."
+      - description: "Consolide dados de desempenho por campanha, canal e publicação — <b>sem mais planilhas</b>."
+      - description: "Peça ao agente um <b>resumo de desempenho</b> em vez de acessar cinco plataformas diferentes."
+      - description: "Colabore com sua equipe usando <b>controle de acesso por função</b> e fluxos de aprovação."
+      - description: "<b>Uso baseado em créditos</b> transparente para que você sempre saiba exatamente quanto está gastando."
