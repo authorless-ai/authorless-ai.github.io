@@ -1,0 +1,50 @@
+{{ $sectionPage := .sectionPage }}
+{{ $faqsIndex := .item.FirstSection }}
+
+<section class="bg-white border-b border-gray-100 dark:bg-gray-900 dark:border-gray-800">
+    <div class="max-w-screen-xl px-4 py-4 mx-auto">
+        <div class="sm:hidden">
+            <label for="faq-category" class="sr-only">Select a category</label>
+            <select id="faq-category"
+                    class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                    x-data @change="window.location = $event.target.value">
+                <option value="{{ $faqsIndex.RelPermalink }}"
+                    {{ if eq .item.RelPermalink $faqsIndex.RelPermalink }}selected{{ end }}>
+                    All
+                </option>
+                {{ range $faqsIndex.Sections }}
+                <option value="{{ .RelPermalink }}"
+                    {{ if eq .RelPermalink $sectionPage.RelPermalink }}selected{{ end }}>
+                    {{ .LinkTitle }}
+                </option>
+                {{ end }}
+            </select>
+        </div>
+
+        <div class="hidden sm:block">
+            <nav class="flex flex-wrap items-center gap-3">
+                <a href="{{ $faqsIndex.RelPermalink }}" title="All FAQs"
+                   class="px-5 py-2 text-base font-medium rounded-full dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900
+                   {{ if eq .item.RelPermalink $faqsIndex.RelPermalink }}
+                   text-primary-700 border border-primary-700 hover:bg-primary-50
+                   {{ else }}
+                   hover:bg-gray-100
+                   {{ end }}
+                   ">
+                    All
+                </a>
+
+                {{ range $faqsIndex.Sections }}
+                <a href="{{ .RelPermalink }}"
+                   class="px-5 py-2 text-base font-medium rounded-full dark:text-primary-500 dark:border-primary-500 dark:hover:bg-primary-900
+                   {{ if eq .RelPermalink $sectionPage.RelPermalink }}
+                   text-primary-700 border border-primary-700 hover:bg-primary-50
+                   {{ else }}
+                   hover:bg-gray-100
+                   {{ end }}
+                   ">{{ .LinkTitle }}</a>
+                {{ end }}
+            </nav>
+        </div>
+    </div>
+</section>

@@ -1,10 +1,17 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate .RegularPagesRecursive }}
+{{ partial "faqs/section-nav" (dict "item" . "sectionPage" . ) }}
+
+{{ $paginator := 0 }}
+{{ if eq .CurrentSection .FirstSection }}
+  {{ $paginator = (.Paginate .RegularPagesRecursive).Pages }}
+{{ else }}
+  {{ $paginator = .Paginator.Pages }}
+{{ end }}
 
 <section class="bg-white dark:bg-gray-900">
   <div class="max-w-screen-xl px-4 py-8 mx-auto sm:py-16 lg:py-24">
-    <h1 class="mb-8 text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl dark:text-white">{{ .Title }}</h1>
+    <h1 class="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 lg:text-4xl dark:text-white">{{ .Title }}</h1>
 
     {{ with .Description }}
       <p class="mb-8 text-lg text-gray-500 dark:text-gray-400">{{ . }}</p>
@@ -15,7 +22,7 @@
     {{ end }}
 
     <ul class="space-y-4">
-      {{ range $paginator.Pages }}
+      {{ range $paginator }}
       <li>
         <a href="{{ .RelPermalink }}" class="block p-4 border border-gray-200 rounded-lg hover:bg-gray-50 dark:border-gray-700 dark:hover:bg-gray-800">
           <h2 class="text-xl font-semibold text-gray-900 dark:text-white">{{ .Title }}</h2>
