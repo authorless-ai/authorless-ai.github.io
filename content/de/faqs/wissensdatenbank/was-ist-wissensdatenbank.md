@@ -1,23 +1,23 @@
 ---
 title: "Was ist eine Wissensdatenbank?"
-description: "Was eine Wissensdatenbank in einer KI-Marketing-Plattform ist und warum sie Content besser macht."
+description: "Was eine Wissensdatenbank ist und warum sie der Schluessel zu einzigartigem, fundiertem KI-Content ist."
 faq:
-  - q: "Was ist eine Wissensdatenbank?"
-    a: ["Ein zentraler Speicher für Ihr Unternehmenswissen — Produkte, Dienstleistungen, Branchendaten, Fallstudien. Bazam.ais KI nutzt diese Daten um spezifischen, akkuraten Content zu erstellen."]
+  - q: "Was ist eine Wissensdatenbank in Bazam.ai?"
+    a: ["Die Wissensdatenbank ist Ihr privater Informationsspeicher in Bazam.ai. Sie enthaelt Ihr Unternehmenswissen, Ihre Produktinformationen und Ihre Branchenexpertise. Der KI-Agent greift bei der Content-Erstellung auf diese Informationen zu und erstellt so spezifischen, einzigartigen Content."]
   - q: "Warum brauche ich eine Wissensdatenbank?"
-    a: ["Ohne Wissensdatenbank erstellt die KI generischen Content. Mit Wissensdatenbank erstellt sie spezifischen, überzeugenden Content der echte Unternehmensdaten enthält."]
-  - q: "Was unterscheidet eine KI-Wissensdatenbank von einem Dateiablage?"
-    a: ["Die KI versteht den Inhalt und nutzt ihn aktiv für Content-Erstellung. Es ist kein passiver Speicher — es ist das Wissen das die KI nutzt um Ihren Content zu verbessern."]
-  - q: "Wie funktioniert die Wissensdatenbank technisch?"
-    a: ["Sie laden Informationen hoch, Bazam.ai verarbeitet und indexiert sie. Wenn der Agent Content erstellt, greift er auf relevante Informationen aus der Wissensdatenbank zurück."]
-  - q: "Was passiert wenn ich keine Wissensdatenbank nutze?"
-    a: ["Der Agent erstellt Content basierend auf allgemeinem Wissen und Ihren Markenstimme-Einstellungen — funktional, aber weniger spezifisch als mit Wissensdatenbank."]
-  - q: "Ist eine Wissensdatenbank wie ChatGPTs Custom Instructions?"
-    a: ["Viel umfassender. Custom Instructions sind ein paar Zeilen Text. Bazam.ais Wissensdatenbank speichert Dokumente, Daten und detailliertes Unternehmenswissen — dauerhaft und sicher."]
-  - q: "Kann ich die Wissensdatenbank für alle Content-Typen nutzen?"
-    a: ["Ja. Blogbeiträge, Social-Posts, E-Mails, Werbetexte, Pressemitteilungen — alles wird besser wenn der Agent auf echte Unternehmensdaten zugreifen kann."]
+    a: ["Ohne Wissensdatenbank erstellt die KI generischen Content, der nicht von Wettbewerbern unterscheidbar ist. Mit Ihrer Wissensdatenbank erstellt Bazam.ais Agent fundierte, spezifische Inhalte, die auf Ihrem einzigartigen Fachwissen basieren."]
+  - q: "Was kann ich in die Wissensdatenbank hochladen?"
+    a: ["Dokumente, Praesentationen, Produktbeschreibungen, FAQs, Kundenfeedback und alle anderen Informationsquellen, die Ihr Unternehmenswissen repraesentieren. Je umfassender die Wissensdatenbank, desto fundierter der Content."]
+  - q: "Wie nutzt der Agent die Wissensdatenbank?"
+    a: ["Bei der Content-Erstellung durchsucht der Agent automatisch die relevanten Informationen in Ihrer Wissensdatenbank und integriert sie in den Content. So entsteht faktisch korrekter, spezifischer Content, der Ihre einzigartige Perspektive widerspiegelt."]
+  - q: "Ist meine Wissensdatenbank sicher?"
+    a: ["Ihre Wissensdatenbank ist pro Projekt verschluesselt und nur fuer autorisierte Teammitglieder zugaenglich. Bazam.ai behandelt Ihre Unternehmensinformationen vertraulich und verwendet sie ausschliesslich fuer die Content-Erstellung innerhalb Ihres Projekts."]
   - q: "Wie unterscheidet sich die Wissensdatenbank von der Markenstimme?"
-    a: ["Wissensdatenbank = was Sie kommunizieren (Fakten, Daten, Details). Markenstimme = wie Sie kommunizieren (Ton, Stil, Persönlichkeit). Beide zusammen ergeben perfekten Content."]
-  - q: "Brauche ich technische Kenntnisse für die Wissensdatenbank?"
-    a: ["Nein. Drag-and-Drop-Upload, einfache Texteingabe. Kein technisches Wissen nötig."]
+    a: ["Die Markenstimme bestimmt, wie Ihr Content klingt: Ton, Stil und Persoenlichkeit. Die Wissensdatenbank bestimmt, was Ihr Content sagt: Fakten, Details und spezifische Informationen. Beide zusammen ergeben authentischen, fundierten Content."]
+  - q: "Kann ich mehrere Wissensdatenbanken haben?"
+    a: ["Ja, jedes Projekt hat seine eigene Wissensdatenbank. Wenn Sie verschiedene Marken oder Kunden betreuen, hat jedes Projekt einen eigenen, separat verwalteten Informationsspeicher."]
+  - q: "Wie gross kann meine Wissensdatenbank werden?"
+    a: ["Bazam.ais Wissensdatenbank ist darauf ausgelegt, umfangreiche Informationsmengen zu verarbeiten. Sie koennen Dutzende oder Hunderte von Dokumenten hochladen und der Agent findet die relevanten Informationen automatisch."]
+  - q: "Was passiert, wenn ich keine Wissensdatenbank einrichte?"
+    a: ["Der Agent erstellt weiterhin Content basierend auf Ihrer Markenstimme und den eingegebenen Anweisungen, aber ohne spezifisches Unternehmenswissen. Der Content wird korrekt, aber weniger spezifisch und detailliert sein."]
 ---

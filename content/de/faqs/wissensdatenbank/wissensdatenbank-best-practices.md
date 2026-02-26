@@ -1,23 +1,23 @@
 ---
-title: "Wissensdatenbank Best Practices"
-description: "Best Practices für die Nutzung und Pflege einer Wissensdatenbank in Ihrer Marketing-Plattform."
+title: "Best Practices fuer die Wissensdatenbank"
+description: "Bewaehrte Strategien fuer die optimale Pflege und Nutzung Ihrer Wissensdatenbank."
 faq:
-  - q: "Was sind Best Practices für eine Wissensdatenbank?"
-    a: ["Aktualität, Vollständigkeit und Organisation. Bazam.ais Agent produziert besseren Content je vollständiger und aktueller Ihre Wissensdatenbank ist."]
-  - q: "Wie oft sollte ich die Wissensdatenbank aktualisieren?"
-    a: ["Bei jedem neuen Produkt, jeder neuen Fallstudie oder Änderung. Quartalsweise für einen vollständigen Review."]
-  - q: "Welche Informationen verbessern die Content-Qualität am meisten?"
-    a: ["Konkrete Produktdaten, echte Kundenerfolgsgeschichten und spezifische USPs. Je spezifischer, desto überzeugender der Content."]
-  - q: "Sollte ich Wettbewerberinformationen in die Wissensdatenbank laden?"
-    a: ["Ja — für Vergleichscontent und Differenzierung. Der Agent kann dann spezifisch auf Wettbewerbsvorteile eingehen."]
-  - q: "Wie viel ist zu viel in der Wissensdatenbank?"
-    a: ["Mehr ist besser — der Agent filtert automatisch relevante Informationen für jeden Content. Laden Sie alles Relevante hoch."]
-  - q: "Wie organisiere ich eine große Wissensdatenbank?"
-    a: ["Bazam.ai organisiert automatisch. Laden Sie Material thematisch hoch und der Agent grifft auf das Relevante zu."]
-  - q: "Kann ich Inhalte aus der Wissensdatenbank löschen?"
-    a: ["Ja. Entfernen Sie veraltete oder irrelevante Informationen um die Qualität zu halten."]
-  - q: "Wie teste ich ob meine Wissensdatenbank funktioniert?"
-    a: ["Erstellen Sie Content und prüfen Sie ob er spezifische Unternehmensdaten enthält. Wenn ja, funktioniert die Wissensdatenbank."]
-  - q: "Sollte ich jedes Teammitglied die Wissensdatenbank pflegen lassen?"
-    a: ["Definieren Sie einen Verantwortlichen, aber ermöglichen Sie allen das Hochladen relevanter Informationen."]
+  - q: "Wie halte ich meine Wissensdatenbank aktuell?"
+    a: ["Machen Sie es zur Gewohnheit, bei jedem Produkt-Update und jeder neuen Erkenntnis die Wissensdatenbank zu aktualisieren. Ein fester monatlicher Review-Termin hilft, veraltete Informationen zu identifizieren und zu korrigieren."]
+  - q: "Wie organisiere ich meine Wissensdatenbank sinnvoll?"
+    a: ["Nutzen Sie ein klares Tagging-System mit Kategorien wie Produkt, Branche, Kundenfeedback und FAQ. Gut organisierte Informationen ermoeglicht dem Agenten, die relevantesten Daten schneller zu finden und praeziser zu nutzen."]
+  - q: "Wie schreibe ich gute Wissensdokumente?"
+    a: ["Schreiben Sie klar, spezifisch und faktenbasiert. Vermeiden Sie Allgemeinplaetze und konzentrieren Sie sich auf die Informationen, die Ihren Content einzigartig machen. Je spezifischer das Dokument, desto wertvoller fuer die Content-Erstellung."]
+  - q: "Wie vermeide ich widersprüchliche Informationen?"
+    a: ["Ueberpruefen Sie bei jeder Aktualisierung, ob die neuen Informationen mit bestehenden Dokumenten konsistent sind. Aktualisieren Sie veraltete Dokumente anstatt neue, widerspruechliche Versionen hinzuzufuegen."]
+  - q: "Wie nutze ich Kundenfeedback fuer die Wissensdatenbank?"
+    a: ["Sammeln Sie haeufig gestellte Kundenfragen, typische Einwaende und positives Feedback und laden Sie diese als eigenes Dokument hoch. Der Agent nutzt diese Informationen, um kundenrelevanten und praxisnahen Content zu erstellen."]
+  - q: "Wie nutze ich Wettbewerbsinformationen in der Wissensdatenbank?"
+    a: ["Laden Sie Ihre eigene Positionierung im Vergleich zum Wettbewerb hoch. Der Agent nutzt diese Informationen, um Content zu erstellen, der Ihre Differenzierungsmerkmale subtil, aber wirkungsvoll hervorhebt."]
+  - q: "Wie gross sollte ein einzelnes Wissensdokument sein?"
+    a: ["Halten Sie einzelne Dokumente fokussiert und thematisch zusammenhaengend. Ein Dokument pro Thema mit 500 bis 2.000 Woertern ist ideal. So kann der Agent gezielt die relevantesten Informationen auswaehlen."]
+  - q: "Wie priorisiere ich, welches Wissen ich zuerst einpflege?"
+    a: ["Beginnen Sie mit den Informationen, die den groessten Einfluss auf die Content-Qualitaet haben: Produktdetails, Alleinstellungsmerkmale und haeufige Kundenfragen. Alles Weitere koennen Sie nach und nach ergaenzen."]
+  - q: "Wie nutze ich die Wissensdatenbank fuer verschiedene Teams?"
+    a: ["Die Wissensdatenbank ist pro Projekt zugaenglich und steht dem gesamten Team gleich zur Verfuegung. So erstellt jedes Teammitglied Content auf derselben Informationsbasis und Inkonsistenzen werden vermieden."]
 ---

@@ -1,23 +1,23 @@
 ---
 title: "Wissensdatenbank aufbauen"
-description: "Wie Sie eine Wissensdatenbank aufbauen die KI-Content relevant und spezifisch für Ihr Unternehmen macht."
+description: "Wie Sie Ihre Wissensdatenbank in Bazam.ai systematisch aufbauen und mit relevanten Informationen fuellen."
 faq:
-  - q: "Wie baue ich eine Wissensdatenbank auf?"
-    a: ["Laden Sie Produktinfos, Fallstudien, Branchenwissen und Unternehmensdaten hoch. Bazam.ais Agent nutzt diese für spezifischen, faktenbasierten Content."]
-  - q: "Was gehört in eine Wissensdatenbank?"
-    a: ["Produktbeschreibungen, USPs, Fallstudien, FAQs, Branchendaten und Markenrichtlinien. Je mehr der Agent weiß, desto besser der Content."]
-  - q: "Wie verbessert die Wissensdatenbank meinen Content?"
-    a: ["Der Agent greift auf echte Unternehmensdaten zurück statt generisch zu schreiben. Ergebnis: spezifischer, überzeugender, einzigartiger Content."]
-  - q: "Wie halte ich die Wissensdatenbank aktuell?"
-    a: ["Aktualisieren Sie Produktdaten, neue Fallstudien und geänderte Informationen regelmäßig. Quartalsweise Review reicht für die meisten Unternehmen."]
-  - q: "Kann ich verschiedene Wissensbasen für verschiedene Projekte haben?"
-    a: ["Ja. Jedes Projekt in Bazam.ai hat seine eigene isolierte Wissensdatenbank. Agenturen haben separate pro Kunde."]
-  - q: "Welche Dateiformate kann ich hochladen?"
-    a: ["Text, PDF, Website-URLs und andere gängige Formate. Bazam.ai verarbeitet den Inhalt und macht ihn für den Agenten verfügbar."]
-  - q: "Wie organisiere ich meine Wissensdatenbank?"
-    a: ["Thematisch: Produkte, Unternehmen, Branche, Zielgruppe. Bazam.ai organisiert hochgeladenen Content automatisch."]
-  - q: "Wie viel muss ich in die Wissensdatenbank laden?"
-    a: ["Starten Sie mit den Basics (Produkte, USPs, Zielgruppe) und ergänzen Sie über Zeit. Jede Ergänzung verbessert die Content-Qualität."]
-  - q: "Macht die Wissensdatenbank meine Daten sicher?"
-    a: ["Bazam.ai speichert Daten verschlüsselt und nutzt sie nie zum KI-Training. Ihre Unternehmensdaten bleiben privat und sicher."]
+  - q: "Wie baue ich meine Wissensdatenbank auf?"
+    a: ["Beginnen Sie mit Ihren wichtigsten Dokumenten: Produktinformationen, Unternehmensgeschichte und haeufig gestellte Kundenfragen. Erweitern Sie die Datenbank dann schrittweise um Branchenwissen, Fallstudien und spezialisiertes Expertenwissen."]
+  - q: "Welche Dokumente sollte ich zuerst hochladen?"
+    a: ["Starten Sie mit einer Website-Beschreibung, den wichtigsten Produktinformationen und einer Sammlung haeufiger Kundenfragen. Diese drei Dokumenttypen bilden eine solide Grundlage fuer fundierte Content-Erstellung."]
+  - q: "Wie strukturiere ich meine Wissensdatenbank?"
+    a: ["Bazam.ais Tagging-System ermoeglicht es Ihnen, Dokumente thematisch zu organisieren. Verwenden Sie aussagekraeftige Tags, damit der Agent die relevantesten Informationen fuer jedes Content-Stueck schnell findet."]
+  - q: "Wie oft sollte ich die Wissensdatenbank aktualisieren?"
+    a: ["Aktualisieren Sie bei jedem Produkt-Update, neuen Kundenfeedback oder neuen Branchenerkenntnissen. Eine aktuelle Wissensdatenbank sorgt dafuer, dass der erstellte Content stets korrekt und relevant bleibt."]
+  - q: "Wie gross sollte meine Wissensdatenbank sein?"
+    a: ["Qualitaet ist wichtiger als Quantitaet. Zehn gut geschriebene, detaillierte Dokumente sind wertvoller als hundert oberflaechliche Eintraege. Konzentrieren Sie sich auf die Informationen, die Ihren Content wirklich einzigartig und fundiert machen."]
+  - q: "Wie nutze ich Tags in der Wissensdatenbank?"
+    a: ["Tags helfen dem Agenten, die relevantesten Informationen fuer jedes Content-Stueck zu finden. Verwenden Sie beispielsweise Tags wie Produkt, Branche, Kundenfeedback und FAQ, um Ihre Dokumente thematisch zu gruppieren."]
+  - q: "Kann ich bestehende Dokumente in verschiedenen Formaten hochladen?"
+    a: ["Ja, Bazam.ai unterstuetzt verschiedene gaengige Dokumentformate. Laden Sie Ihre vorhandenen Dokumente so hoch, wie sie sind, und die Plattform verarbeitet die enthaltenen Informationen."]
+  - q: "Wie migriere ich bestehendes Wissen in die Datenbank?"
+    a: ["Sammeln Sie Ihre wichtigsten Dokumente, Praesentationen und Notizen und laden Sie sie in Bazam.ais Wissensdatenbank hoch. Der gesamte Migrationsprozess dauert typischerweise nur 30 bis 60 Minuten."]
+  - q: "Wie teste ich, ob meine Wissensdatenbank gut gefuellt ist?"
+    a: ["Erstellen Sie einige Probestuecke Content zu verschiedenen Themen. Wenn die Ergebnisse spezifisch und fundiert klingen, ist Ihre Wissensdatenbank gut aufgestellt. Wenn der Content generisch wirkt, laden Sie weitere Details hoch."]
 ---
