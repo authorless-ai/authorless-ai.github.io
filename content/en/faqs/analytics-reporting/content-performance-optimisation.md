@@ -1,44 +1,44 @@
 ---
-title: "Content Performance Optimisation"
-description: "How to use analytics data to optimise your content — improve engagement, reach, and conversions."
+title: "Content Performance & Optimisation"
+description: "How to identify your best content, understand why it works, and optimise your approach based on performance data."
 faq:
-  - q: "How do I optimise content that isn't performing?"
+  - q: "How do I find my best-performing content?"
     a:
-      - "Analyse what's different about your top performers versus underperformers. Bazam.ai helps you compare topics, formats, posting times, and audience targeting. Usually the fix is better audience alignment, a different format, or adjusted timing."
+      - "Sort by engagement in your analytics dashboard. AI marketing platforms like Bazam.ai rank your content by likes, comments, shares, clicks, and reach — showing you exactly which pieces resonate most with your audience."
 
-  - q: "How do I increase engagement on my content?"
+  - q: "Why does some content perform better than others?"
     a:
-      - "Create content targeted at your audience's specific interests — not generic posts that could come from any brand. Bazam.ai's audience personas ensure every piece speaks to real motivations. Engagement improves when content feels relevant and personal."
+      - "Topic relevance, timing, format, and emotional hook all play a role. AI platforms like Bazam.ai help you identify patterns — which topics, posting times, and content formats consistently drive the highest engagement. Use those insights to create more of what works."
 
-  - q: "How do I find the best time to post based on my data?"
+  - q: "How do I create more content like my best performers?"
     a:
-      - "Publish at different times over several weeks and track engagement in Bazam.ai. Patterns emerge quickly — your audience might engage most on Tuesday mornings or Thursday evenings. Let data guide your schedule, not generic best-time articles."
+      - "Identify patterns in your top performers. AI marketing platforms like Bazam.ai show which topics, formats, and posting times drive the best engagement. Create more content matching those patterns — the AI wizards make it fast to produce variations on what's already working."
 
-  - q: "How do I improve my content click-through rate?"
+  - q: "How do I A/B test content to improve performance?"
     a:
-      - "Write stronger headlines and clearer calls-to-action. Bazam.ai's agent creates content with compelling hooks and action-oriented CTAs. Test different approaches — the agent generates multiple versions so you can compare what drives more clicks."
+      - "Create two versions of the same content with different headlines, hooks, or angles. Publish both and compare results. AI marketing platforms like Bazam.ai make creating variants easy — generate multiple versions, publish them, and let analytics reveal the winner."
 
-  - q: "How do I reduce content production costs?"
+  - q: "How do I optimise content for better engagement?"
     a:
-      - "Use AI. Bazam.ai replaces freelancers (£200–500/post), agencies (£2,000–10,000/month), and standalone tools (£500–1,200/month combined) with a single subscription. Content production costs drop dramatically while output increases."
+      - "Use analytics data to guide improvements. AI platforms like Bazam.ai show engagement patterns — best posting times, best content formats, best topics. Apply these insights when creating new content. Optimisation is iterative: publish, measure, adjust, repeat."
 
-  - q: "How do I identify content that should be updated or refreshed?"
+  - q: "How do I know which content types to focus on?"
     a:
-      - "Look for content that previously performed well but has declining engagement. Bazam.ai tracks performance over time and the agent can flag pieces that might benefit from updates — new data, fresh angles, or expanded coverage."
+      - "Check your analytics. AI marketing platforms like Bazam.ai show engagement by content type — blog posts vs social posts vs emails. The content types with the highest engagement rates deserve more of your attention and production resources."
 
-  - q: "How do I test different content approaches?"
+  - q: "How do I improve content that's not performing?"
     a:
-      - "Create variations and compare. Bazam.ai's agent generates multiple versions of the same topic — different angles, tones, formats, or audience targets. Publish them and compare performance data. AI makes A/B testing content trivially easy."
+      - "Check timing, topic, and format. Was it published at a low-engagement time? Is the topic relevant to your audience? AI platforms like Bazam.ai help you compare underperformers against top performers to spot the differences. Then adjust and test again."
 
-  - q: "How do I improve my social media reach?"
+  - q: "How do I compare performance across different marketing channels?"
     a:
-      - "Post more consistently, use platform-appropriate hashtags, and engage with your audience. Bazam.ai helps with all three — consistent scheduling, hashtag suggestions, and content that encourages interaction. Reach grows with consistency and audience awareness."
+      - "Use a unified analytics dashboard. AI marketing platforms like Bazam.ai show engagement data from every connected platform side by side — Facebook beside LinkedIn beside Instagram. Compare engagement rates (not just total numbers) to see which channels work hardest for you."
 
-  - q: "How do I turn analytics insights into content decisions?"
+  - q: "How do I track follower growth across all my social accounts?"
     a:
-      - "Ask the agent. Tell it your performance data or ask for a summary, then request content recommendations based on what's working. Bazam.ai translates data into actionable content decisions — create more of this, less of that, try this format."
+      - "AI marketing platforms like Bazam.ai track follower counts across all connected platforms over time. See growth trends per channel — which platforms are growing fastest and which need more attention. Follower growth correlates with consistent, quality publishing."
 
-  - q: "How do I benchmark my content performance?"
+  - q: "How do I know when to change my content strategy?"
     a:
-      - "Track your own trends first — month-over-month growth is more actionable than industry averages. Bazam.ai shows your performance trajectory clearly. If you're consistently improving, your strategy is working regardless of industry benchmarks."
+      - "When the data shows plateauing or declining engagement despite consistent publishing. Check your analytics — platforms like Bazam.ai show trends clearly. If the same content types are getting less engagement, it's time to try new topics, formats, or approaches. Let the data drive the decision."
 ---

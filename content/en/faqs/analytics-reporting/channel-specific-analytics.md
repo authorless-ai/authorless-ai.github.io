@@ -1,44 +1,44 @@
 ---
-title: "Channel-Specific Analytics"
-description: "How to understand and use analytics from each specific platform — Facebook, Instagram, LinkedIn, X, YouTube, and TikTok."
+title: "Channel-Specific Social Media Analytics"
+description: "How to track and interpret analytics for each social media platform — Facebook, Instagram, LinkedIn, X, YouTube, and TikTok."
 faq:
-  - q: "How do I understand Facebook analytics?"
+  - q: "How do I track Facebook page performance?"
     a:
-      - "Bazam.ai tracks Facebook page likes, post reach, engagement, clicks, and video views. Ask the agent for a Facebook performance summary and it explains what's working, what's not, and what to do next — in plain language, not analytics jargon."
+      - "AI marketing platforms like Bazam.ai pull Facebook engagement data automatically — post reach, engagement, clicks, reactions, comments, and shares. See which posts drive the most interaction and which content types your Facebook audience prefers."
 
-  - q: "How do I understand Instagram analytics?"
+  - q: "How do I track Instagram analytics?"
     a:
-      - "Bazam.ai tracks Instagram reach, impressions, engagement, profile visits, and follower growth. See which posts drive the most interaction and which times your audience is most active. The agent summarises trends and recommends what to post more of."
+      - "Connect your Instagram business account to your AI marketing platform. Bazam.ai tracks likes, comments, saves, reach, impressions, and follower growth. Identify your best-performing Instagram content and create more of what works."
 
-  - q: "How do I understand LinkedIn analytics?"
+  - q: "How do I measure LinkedIn content performance?"
     a:
-      - "Bazam.ai tracks LinkedIn impressions, clicks, engagement rate, and follower growth. For B2B companies, LinkedIn metrics are especially important — the agent identifies which topics and formats resonate with your professional audience."
+      - "AI marketing platforms like Bazam.ai track LinkedIn engagement — impressions, clicks, reactions, comments, and shares for each post. LinkedIn's B2B audience engages differently, so track engagement rate rather than raw numbers."
 
-  - q: "How do I understand YouTube analytics?"
+  - q: "How do I track X (Twitter) analytics?"
     a:
-      - "Bazam.ai tracks YouTube views, likes, comments, and subscriber growth. The agent identifies which video topics drive the most engagement and suggests content ideas based on your audience's viewing patterns."
+      - "Connect your X account and AI platforms like Bazam.ai track impressions, engagements, retweets, likes, and profile visits. X moves fast, so daily monitoring helps you spot trending content early and amplify it."
 
-  - q: "How do I understand TikTok analytics?"
+  - q: "How do I measure YouTube content performance?"
     a:
-      - "Bazam.ai tracks TikTok views, likes, comments, shares, and follower growth. The agent identifies trending content patterns and suggests topics and formats that align with what's performing well on your account."
+      - "AI marketing platforms like Bazam.ai track views, watch time, likes, comments, and subscriber growth on YouTube. Views matter, but watch time is the metric YouTube's algorithm rewards most — track both."
 
-  - q: "How do I understand X/Twitter analytics?"
+  - q: "How do I track TikTok analytics?"
     a:
-      - "Bazam.ai tracks tweet impressions, engagement rate, retweets, likes, clicks, and follower growth. The agent identifies which tweet formats (threads, single tweets, polls) and topics drive the best engagement on X."
+      - "Connect your TikTok business account to your AI platform. Bazam.ai tracks views, likes, comments, shares, and follower growth. TikTok's algorithm favours content quality over follower count, so engagement rate is your key metric."
 
-  - q: "Which platform gives the best analytics?"
+  - q: "Which social media metrics are most important per platform?"
     a:
-      - "Each platform provides different depths of data. But with Bazam.ai, you don't need to compare platform analytics systems — all metrics are aggregated into one dashboard. Compare performance across platforms in a single view."
+      - "Facebook: reach and engagement. Instagram: saves and engagement rate. LinkedIn: clicks and comments. X: retweets and impressions. YouTube: watch time. TikTok: views and shares. AI platforms like Bazam.ai track all of these across all platforms in one dashboard."
 
-  - q: "How do I use analytics to choose which platforms to focus on?"
+  - q: "How do I see all my social analytics in one place?"
     a:
-      - "Compare engagement rates and growth across your platforms in Bazam.ai's dashboard. Focus more effort on platforms where your audience is most active and engaged. The agent recommends platform priorities based on your data."
+      - "Use a unified analytics dashboard. AI marketing platforms like Bazam.ai aggregate data from every connected channel — one view showing engagement, reach, growth, and top performers across all platforms. No logging into each app separately."
 
-  - q: "Should I look at analytics daily?"
+  - q: "How do I identify which platform is most effective for my business?"
     a:
-      - "No. Weekly quick checks and monthly deep reviews are sufficient. Bazam.ai makes this easy — ask the agent for a summary. Daily analytics watching leads to reactive changes. Weekly patterns give you actionable insights."
+      - "Compare engagement rates across platforms in your analytics dashboard. AI marketing platforms like Bazam.ai show performance side by side — the platform with the highest engagement rate (not just follower count) is where your content resonates most. Invest more there."
 
-  - q: "How do I explain platform-specific metrics to clients?"
+  - q: "Should I post the same content on every platform?"
     a:
-      - "Ask Bazam.ai's agent for a client-ready performance summary. It translates platform metrics into business outcomes — 'Your LinkedIn engagement grew 20% this month, with thought leadership posts driving the most interaction' beats raw numbers."
+      - "Same topic, different format. A LinkedIn article should be more professional and detailed; an Instagram post should be visual and concise. AI marketing platforms like Bazam.ai create platform-specific versions of the same topic — adapting tone, length, and format automatically."
 ---

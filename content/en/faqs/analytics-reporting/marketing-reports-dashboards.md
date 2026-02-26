@@ -1,44 +1,44 @@
 ---
 title: "Marketing Reports & Dashboards"
-description: "How to create marketing reports, build dashboards, and present performance data to stakeholders."
+description: "How to build, use, and share marketing dashboards — creating reports that drive decisions and demonstrate value."
 faq:
-  - q: "How do I create a marketing performance report?"
+  - q: "What should a marketing dashboard include?"
     a:
-      - "Ask Bazam.ai's agent. It pulls metrics from all connected platforms and creates a plain-English performance summary — engagement trends, top content, growth metrics, and recommendations. No spreadsheets, no manual data gathering."
+      - "Engagement trends, top-performing content, platform comparison, follower growth, and content calendar status. AI marketing platforms like Bazam.ai include all of these in a unified view — no building dashboards from scratch."
 
-  - q: "How do I create a monthly marketing report?"
+  - q: "How do I create a marketing report without spending hours on it?"
     a:
-      - "At the end of each month, ask Bazam.ai's agent for a performance summary. It aggregates engagement, reach, clicks, and follower growth across all platforms and identifies trends, top performers, and areas for improvement."
+      - "Use automated analytics. AI marketing platforms like Bazam.ai collect engagement data from all connected channels automatically. Ask the AI agent for a performance summary and it compiles the key metrics. Report generation that used to take hours happens in minutes."
 
-  - q: "How do I build a marketing analytics dashboard?"
+  - q: "How do I build a dashboard for multiple social accounts?"
     a:
-      - "Bazam.ai provides a built-in analytics dashboard that tracks all your marketing metrics in one place. No need to build your own — connect your platforms and the dashboard populates automatically."
+      - "Connect all accounts to one platform. AI marketing tools like Bazam.ai aggregate data from Facebook, Instagram, LinkedIn, X, YouTube, and TikTok into a single dashboard. See everything together instead of bouncing between platform-specific analytics."
 
-  - q: "How do I explain marketing metrics to non-marketers?"
+  - q: "How do I create a client-facing marketing report?"
     a:
-      - "Ask Bazam.ai's agent for a summary in plain English. It translates raw metrics into business language — 'Our Instagram reach grew 15% this month, driven by product demo posts' is more useful than a spreadsheet of numbers."
+      - "Focus on outcomes: engagement trends, audience growth, top content, and strategic recommendations. AI platforms like Bazam.ai provide the data per client project — engagement metrics, reach trends, and content performance. Add your strategic commentary and the report is done."
 
-  - q: "What should a marketing report include?"
+  - q: "What is the best way to visualise marketing data?"
     a:
-      - "Key metrics (engagement, reach, growth), top-performing content, underperforming content, trends, and recommended next steps. Bazam.ai's agent generates this automatically — ask for a report and it covers all essential components."
+      - "Trend lines over time — they show progress more effectively than raw numbers. AI marketing platforms like Bazam.ai display engagement data as trends, making it easy to spot growth patterns and communicate results to stakeholders."
 
-  - q: "How do I track marketing performance without a dedicated analyst?"
+  - q: "How do I track KPIs for content marketing?"
     a:
-      - "Use Bazam.ai's built-in analytics. It tracks everything automatically and the agent summarises performance on demand. You don't need an analyst — you need a platform that does the analysis for you."
+      - "Set 3–5 KPIs: engagement rate, follower growth, content output volume, reach, and click-through rate. AI platforms like Bazam.ai track all of these automatically. Review monthly against targets and adjust strategy based on what the numbers show."
 
-  - q: "How do I compare this month's marketing to last month?"
+  - q: "How do I show the value of social media to my organisation?"
     a:
-      - "Ask the agent. Bazam.ai tracks metrics over time and can compare any two periods — month-over-month, week-over-week, or campaign-over-campaign. It highlights what improved, what declined, and why."
+      - "Present consistent data over time. AI marketing platforms like Bazam.ai track engagement growth, audience expansion, and content performance. Show the trajectory — a quarter of consistent publishing with growing engagement is compelling evidence that social media marketing works."
 
-  - q: "How often should I review marketing analytics?"
+  - q: "How do I create a weekly marketing check-in?"
     a:
-      - "Weekly for quick pulse checks, monthly for strategic reviews. Bazam.ai makes weekly reviews effortless — ask the agent 'how did we do this week?' and get a 30-second summary. Monthly reviews go deeper into trends and strategy decisions."
+      - "5-minute dashboard scan. AI marketing platforms like Bazam.ai show this week's engagement, top performers, and publishing status at a glance. Note anything requiring action, flag any significant changes, and move on. Weekly check-ins should be fast and action-oriented."
 
-  - q: "How do I use data to improve my content strategy?"
+  - q: "How do I report on content marketing to non-marketing stakeholders?"
     a:
-      - "Identify patterns. Bazam.ai shows which topics, formats, and posting times drive the best engagement. Create more of what works and adjust what doesn't. Data-driven strategy means less guessing and more results."
+      - "Use business language, not marketing jargon. Instead of 'engagement rate increased,' say 'more people are interacting with our content.' AI platforms like Bazam.ai provide the data — your job is translating it into language stakeholders understand."
 
-  - q: "Can I share marketing reports with clients or stakeholders?"
+  - q: "How do I track content marketing against business goals?"
     a:
-      - "Generate performance summaries from Bazam.ai and share them with clients or stakeholders. The agent creates clear, professional summaries that translate metrics into business impact — perfect for client reporting."
+      - "Map content metrics to business outcomes. AI marketing platforms like Bazam.ai show engagement, reach, and click trends. Correlate these with business metrics — enquiries, demo requests, sales — to demonstrate how content marketing contributes to business goals."
 ---

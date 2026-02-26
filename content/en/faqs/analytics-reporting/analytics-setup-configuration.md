@@ -1,44 +1,44 @@
 ---
-title: "Marketing Analytics Setup & Configuration"
-description: "How to set up analytics for content marketing — connecting platforms, configuring tracking, and getting actionable data."
+title: "Analytics Setup & Configuration"
+description: "How to set up marketing analytics — connecting platforms, configuring dashboards, and getting meaningful data from day one."
 faq:
-  - q: "How do I set up content marketing analytics?"
+  - q: "How do I set up analytics for my content marketing?"
     a:
-      - "Connect your publishing platforms to your analytics tool. In Bazam.ai, connect your social accounts and blog. Analytics automatically track engagement across all connected platforms — no manual data collection, no spreadsheet tracking."
+      - "Connect your publishing channels to a centralised analytics platform. AI marketing tools like Bazam.ai connect to Facebook, Instagram, LinkedIn, X, YouTube, TikTok, and WordPress — pulling engagement data automatically into one dashboard. No manual data collection."
 
-  - q: "Which analytics metrics should I track first?"
+  - q: "What do I need to connect for social media analytics?"
     a:
-      - "Engagement rate, follower growth, and content output consistency. These three tell you: is your content resonating (engagement), is your audience growing (followers), and are you publishing enough (consistency). Bazam.ai tracks all three."
+      - "Your business accounts on each social platform. AI marketing platforms like Bazam.ai use secure OAuth connections — log in to each platform once and analytics flow automatically. No API keys, no technical setup, no ongoing maintenance."
 
-  - q: "How do I connect my social media accounts for analytics?"
+  - q: "How long does it take to set up marketing analytics?"
     a:
-      - "Link your accounts through Bazam.ai's platform connection setup. Facebook, Instagram, LinkedIn, Twitter/X, and more — connect each with a few clicks. Once connected, analytics flow automatically."
+      - "Minutes, not days. In AI marketing platforms like Bazam.ai, connect each social account by clicking 'connect' and logging in. Analytics start flowing immediately. You'll have meaningful data within a week of consistent publishing."
 
-  - q: "How do I track content performance across multiple platforms?"
+  - q: "Do I need to install tracking code for social media analytics?"
     a:
-      - "Use a unified analytics dashboard. Bazam.ai aggregates data from all connected platforms — see engagement rates, top posts, and growth trends in one view instead of checking each platform individually."
+      - "No. Social analytics from platforms like Bazam.ai pull data directly from the social media APIs — no tracking codes, no pixels, no website modifications. Connect your accounts and the data flows automatically."
 
-  - q: "How do I track which content drives website traffic?"
+  - q: "How do I track analytics for multiple brands or clients?"
     a:
-      - "Use UTM parameters on links in your social and email content. Track which campaigns and content pieces drive the most website visits. Bazam.ai's blog analytics complement your website analytics for a complete picture."
+      - "Use separate projects with their own connected channels. AI marketing platforms like Bazam.ai keep each brand's analytics isolated — no cross-contamination of data. Switch between brands to see each one's performance independently."
 
-  - q: "How do I set up content marketing KPIs?"
+  - q: "What analytics should I look at first?"
     a:
-      - "Define 3–5 key metrics aligned to your goals. Awareness: reach and impressions. Engagement: likes, comments, shares. Growth: follower count. Conversion: clicks and sign-ups. Track each in Bazam.ai's analytics and review monthly."
+      - "Start with engagement trends and top-performing content. Platforms like Bazam.ai show these prominently on your dashboard. Engagement trends tell you if your content strategy is working; top performers tell you what topics and formats your audience prefers."
 
-  - q: "How do I create a content marketing dashboard?"
+  - q: "How do I know if my analytics are tracking correctly?"
     a:
-      - "Bazam.ai's analytics dashboard IS your content marketing dashboard. It aggregates engagement, reach, follower growth, and content output across all connected platforms. Pull the key metrics weekly for quick health checks."
+      - "Publish a piece of content and check if engagement data appears in your dashboard within 24–48 hours. AI marketing platforms like Bazam.ai show real-time connection status for each channel — green means connected and tracking, red means action needed."
 
-  - q: "How do I interpret social media analytics?"
+  - q: "Can I track analytics for content I didn't publish through the platform?"
     a:
-      - "Look for trends, not snapshots. One viral post is an outlier; three months of growing engagement is a trend. Bazam.ai's analytics show data over time — focus on the trajectory. Consistently improving metrics mean your strategy is working."
+      - "Typically, analytics platforms track all activity on connected channels — not just content published through the platform. Bazam.ai, for instance, pulls engagement data for all posts on your connected accounts, giving you a complete picture."
 
-  - q: "How do I track ROI on my content marketing?"
+  - q: "How do I export analytics data?"
     a:
-      - "Connect content metrics to business outcomes. Track engagement and traffic in Bazam.ai. Track conversions in your CRM or sales platform. The correlation between consistent content output and business growth demonstrates ROI over time."
+      - "Most AI marketing platforms let you export analytics as reports or CSVs. In Bazam.ai, ask the agent for a performance summary and it provides shareable data — useful for client reporting, stakeholder updates, or deeper analysis."
 
-  - q: "How do I use analytics to justify my marketing budget?"
+  - q: "How often should I check my marketing analytics?"
     a:
-      - "Show the trend. Monthly analytics from Bazam.ai demonstrate growing engagement, expanding reach, and increasing brand visibility. Present these against the cost of your marketing platform. Growing results at fixed cost shows improving ROI."
+      - "Weekly for trends, monthly for strategy decisions. AI marketing platforms like Bazam.ai make weekly check-ins quick — 5 minutes scanning the dashboard tells you if content is performing, which posts are resonating, and whether engagement is growing."
 ---

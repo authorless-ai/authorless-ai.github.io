@@ -36,7 +36,7 @@ faq:
 
   - q: "Can I switch AI marketing agents easily?"
     a:
-      - "Look for agents that publish to platforms you own — your WordPress site, your social accounts. With Bazam.ai, all published content lives on your properties. If you switch, your content stays. Avoid platforms that lock content in proprietary formats."
+      - "Look for agents that publish to platforms you own — your WordPress site, your social accounts. AI marketing agents like Bazam.ai publish content to your properties, so if you switch tools, your content stays. Avoid platforms that lock content in proprietary formats."
 
   - q: "What if I'm not happy with the AI's output?"
     a:

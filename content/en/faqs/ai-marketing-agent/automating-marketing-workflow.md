@@ -20,7 +20,7 @@ faq:
 
   - q: "How do I build a sustainable marketing routine?"
     a:
-      - "Batch monthly, automate weekly. Spend one session per month creating content with AI wizards — Bazam.ai makes this straightforward — and schedule it on the calendar. Autopublishing distributes it throughout the month. Check analytics weekly. Consistent marketing without daily effort."
+      - "Batch monthly, automate weekly. Spend one session per month creating content with AI wizards — platforms like Bazam.ai make this straightforward — and schedule it on the calendar. Autopublishing distributes it throughout the month. Check analytics weekly. Consistent marketing without daily effort."
 
   - q: "How do I reduce manual steps in my marketing process?"
     a:
