@@ -45,12 +45,11 @@
                 </div>
                 <div class="flex justify-between">
                     <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                        Posted on {{ .item.Date |
+                        {{ i18n "postedOn" }} {{ .item.Date |
                         time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
                     </div>
                     <div class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                        {{$rt := .item.ReadingTime}}
-                        Reading time: {{ $rt }} minute{{ if gt $rt 1 }}s{{ end }}
+                        {{ i18n "readingTime" .item.ReadingTime }}
                     </div>
                 </div>
             </div>
@@ -67,7 +66,7 @@
 
             <a href="{{ .item.RelPermalink }}" title=""
                class="inline-flex items-center justify-end text-base font-semibold leading-tight text-primary-700 hover:underline dark:text-primary-500 columns-1 text-right">
-                Read more
+                {{ i18n "readMore" | title }}
                 <svg aria-hidden="true" class="w-4 h-4 ml-2" fill="currentColor" viewBox="0 0 20 20"
                      xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd"

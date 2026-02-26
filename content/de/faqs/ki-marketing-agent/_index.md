@@ -1,4 +1,4 @@
 ---
-title: "KI-Marketing-Agenten"
-description: "Was KI-Marketing-Agenten sind, wie sie funktionieren und warum sie traditionelle Marketing-Tools und -Workflows ersetzen."
+title: "KI-Marketing-Agent"
+description: "Alles über KI-Marketing-Agenten — was sie sind, wie sie funktionieren und wie sie Content-Marketing transformieren."
 ---

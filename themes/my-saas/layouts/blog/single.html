@@ -2,6 +2,7 @@
 {{ partial "blog/section-nav" (dict "item" . "sectionPage" . ) }}
 
 <div class="flex justify-between mx-auto max-w-screen-xl px-4 py-8 sm:pb-16 lg:pb-24 pt-4 sm:pt-6 lg:pt-10">
+  {{/**
     <div class="hidden mb-6 xl:block lg:w-52">
         <div class="sticky top-20">
             <aside>
@@ -19,6 +20,7 @@
             </aside>
         </div>
     </div>
+  **/}}
     <div>
         {{ partial "blog/section-prev-next.html" (dict "context" . "position" "top") }}
 
@@ -30,16 +32,16 @@
                     <div class="text-base">
                         {{ $author := .Params.author | default .Site.Params.author }}
                         {{ if ne $author .Site.Title }}
-                        <address class="inline">By <a rel="author"
+                        <address class="inline">{{ i18n "by" }} <a rel="author"
                                                       class="text-gray-900 no-underline dark:text-white hover:underline"
                                                       href="#">{{ $author }}</a></address>
-                        in
+                        {{ i18n "in" }}
                         {{ end }}
                         <a href="{{ .CurrentSection.RelPermalink }}"
                            class="text-gray-900 no-underline dark:text-white hover:underline">{{ .CurrentSection.Name
                             }}</a>
                         {{ if not .Date.IsZero }}
-                        on
+                        {{ i18n "on" }}
                         <time pubdate class="uppercase">{{- .Date |
                             time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
                         </time>
@@ -47,8 +49,7 @@
                     </div>
 
                     <div class="text-base">
-                        {{$rt := .ReadingTime}}
-                        Reading time: {{ $rt }} minute{{ if gt $rt 1 }}s{{ end }}
+                        {{ i18n "readingTime" .ReadingTime }}
                     </div>
                 </div>
             </header>
@@ -63,7 +64,7 @@
                                   d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z"
                                   clip-rule="evenodd"/>
                         </svg>
-                        Share</a>
+                        {{ i18n "share" }}</a>
                     <a href="#"
                        class="inline-flex items-center py-2 px-3 mr-2 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
                         <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -71,7 +72,7 @@
                             <path fill="currentColor"
                                   d="M12.186 8.672 18.743.947h-2.927l-5.005 5.9-4.44-5.9H0l7.434 9.876-6.986 8.23h2.927l5.434-6.4 4.82 6.4H20L12.186 8.672Zm-2.267 2.671L8.544 9.515 3.2 2.42h2.2l4.312 5.719 1.375 1.828 5.731 7.613h-2.2l-4.699-6.237Z"/>
                         </svg>
-                        Tweet</a>
+                        {{ i18n "tweet" }}</a>
                     <a href="#"
                        class="inline-flex items-center py-2 px-3 text-xs font-medium text-gray-900 no-underline bg-white rounded-lg border border-gray-200 focus:outline-none hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">
                         <svg class="mr-2 w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -79,7 +80,7 @@
                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                   d="M11.013 7.962a3.519 3.519 0 0 0-4.975 0l-3.554 3.554a3.518 3.518 0 0 0 4.975 4.975l.461-.46m-.461-4.515a3.518 3.518 0 0 0 4.975 0l3.553-3.554a3.518 3.518 0 0 0-4.974-4.975L10.3 3.7"/>
                         </svg>
-                        Copy link</a>
+                        {{ i18n "copyLink" }}</a>
                 </aside>
             </div>
 
@@ -125,9 +126,9 @@
 
 {{ $related := .Site.RegularPages.Related . | first 4 }}
 {{ with $related }}
-<aside aria-label="Related articles" class="py-8 lg:py-24 bg-gray-50 dark:bg-gray-800 antialiased">
+<aside aria-label="{{ i18n "relatedArticles" }}" class="py-8 lg:py-24 bg-gray-50 dark:bg-gray-800 antialiased">
     <div class="px-4 mx-auto max-w-screen-xl">
-        <h2 class="mb-8 text-2xl font-bold text-gray-900 dark:text-white">Related articles</h2>
+        <h2 class="mb-8 text-2xl font-bold text-gray-900 dark:text-white">{{ i18n "relatedArticles" }}</h2>
         <div class="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
             {{ range . }}
                 {{ partial "blog/summary-footer.html" . }}

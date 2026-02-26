@@ -1,44 +1,44 @@
 ---
-title: "Capacités & Fonctionnalités de l'agent IA"
-description: "Questions détaillées sur les capacités spécifiques des agents marketing IA — ce qu'ils peuvent et ne peuvent pas faire pour votre entreprise."
+title: "Capacités des agents marketing IA"
+description: "Ce qu'un agent marketing IA peut faire — création de contenu, programmation, publication, analyses et gestion de campagnes."
 faq:
-  - q: "Un agent IA peut-il publier du contenu directement sur mes réseaux sociaux ?"
+  - q: "Que peut créer un agent marketing IA ?"
     a:
-      - "Oui. L'agent de Bazam.ai publie directement sur Facebook, Instagram, LinkedIn, X, YouTube, TikTok et WordPress. Connectez vos comptes, créez du contenu par conversation et l'agent gère le formatage, la programmation et la publication sur chaque plateforme."
+      - "Articles de blog, contenu réseaux sociaux, communiqués de presse, textes publicitaires, newsletters e-mail, descriptions de produits, pages d'atterrissage, scripts vidéo et plus encore. Les agents marketing IA comme Bazam.ai créent tout cela en l'adaptant à votre voix de marque, votre audience et vos objectifs business — pas du texte générique à partir d'un modèle."
 
-  - q: "L'IA peut-elle créer des images pour le contenu marketing ?"
+  - q: "Un agent marketing IA peut-il publier du contenu directement ?"
     a:
-      - "Oui. Bazam.ai génère des images IA pour accompagner votre contenu — en-têtes de blog, visuels de réseaux sociaux et visuels promotionnels. Vous pouvez configurer le style et le ton pour correspondre à l'identité visuelle de votre marque."
+      - "Oui. Les meilleurs agents marketing IA se connectent à vos canaux de publication et postent directement. Bazam.ai, par exemple, publie sur WordPress, Facebook, Instagram, LinkedIn, X, YouTube et TikTok — sans que vous ayez besoin de vous connecter à chaque plateforme séparément."
 
-  - q: "Un agent IA peut-il suivre la performance de mon contenu ?"
+  - q: "Un agent marketing IA peut-il gérer les analyses ?"
     a:
-      - "Bazam.ai suit les likes, partages, commentaires, clics, impressions, portée et taux d'engagement sur toutes les plateformes connectées. Il surveille aussi la croissance des abonnés. Demandez un résumé à l'agent et il traduit les données brutes en insights actionnables en langage courant."
+      - "Oui. Les agents IA comme Bazam.ai extraient les métriques d'engagement de tous vos canaux connectés — impressions, portée, clics, likes, partages, commentaires et croissance d'abonnés. Vous obtenez une vue unifiée de la performance de votre contenu sur chaque plateforme."
 
-  - q: "L'IA peut-elle gérer la modération et les approbations de contenu ?"
+  - q: "Un agent IA peut-il créer un calendrier éditorial complet ?"
     a:
-      - "Oui. Bazam.ai inclut un workflow d'approbation intégré. Le contenu généré par l'IA passe par un processus de relecture avant publication — rien ne passe en ligne sans validation humaine. Les managers peuvent mettre en place des chaînes d'approbation pour que le contenu soit relu par les bonnes personnes."
+      - "Oui. Indiquez à votre agent marketing IA vos thèmes, objectifs et calendrier, et il génère un calendrier éditorial complet avec des contenus programmés sur toutes les plateformes. Des agents comme Bazam.ai affichent cela visuellement, pour que vous puissiez voir votre mois entier d'un coup d'œil et repérer les lacunes avant qu'elles ne surviennent."
 
-  - q: "L'agent IA se souvient-il de ma marque entre les conversations ?"
+  - q: "Sur quelles plateformes un agent marketing IA peut-il publier ?"
     a:
-      - "Oui. L'agent de Bazam.ai a une connaissance persistante de la marque. Votre voix de marque, personas d'audience, base de connaissances et historique de campagne sont conservés à travers chaque conversation. Vous n'avez jamais besoin de re-briefer ou ré-expliquer votre marque — l'agent se souvient de tout."
+      - "Les meilleurs agents marketing IA publient sur tous les canaux principaux. Bazam.ai se connecte à WordPress, Facebook, Instagram, LinkedIn, X (Twitter), YouTube et TikTok — créant du contenu spécifique à chaque plateforme et publiant directement sur chacune sans téléchargement manuel."
 
-  - q: "Un agent IA peut-il gérer le contenu de plusieurs marques ?"
+  - q: "Un agent marketing IA peut-il mémoriser ma marque ?"
     a:
-      - "Oui. Bazam.ai supporte plusieurs marques et projets depuis un seul compte. Chaque marque a ses propres paramètres de voix, personas d'audience, base de connaissances et calendrier de contenu isolés. L'agent ne fait jamais de références croisées entre marques — même des clients concurrents restent complètement séparés."
+      - "Oui — c'est ce qui distingue les agents des chatbots. Un agent marketing IA comme Bazam.ai stocke votre voix de marque, vos personas d'audience, vos connaissances produit et votre historique de contenu de manière permanente. Chaque contenu reflète votre marque, chaque conversation s'appuie sur la précédente."
 
-  - q: "L'IA peut-elle créer des scripts vidéo pour le marketing ?"
+  - q: "Un agent marketing IA peut-il travailler pour plusieurs marques ?"
     a:
-      - "Oui. L'agent de Bazam.ai crée des scripts pour les vidéos YouTube, contenu TikTok, reels Instagram et autres formats vidéo. Chaque script correspond à votre voix de marque et suit les exigences de format de la plateforme — accroches, points clés et appels à l'action inclus."
+      - "Oui. Les agents marketing IA conçus pour les agences — Bazam.ai, par exemple — prennent en charge plusieurs projets, chacun avec sa propre voix de marque, audience, base de connaissances et canaux de publication. Basculez entre les clients sans aucune contamination croisée du contexte de marque."
 
-  - q: "Un agent IA peut-il suggérer des sujets de contenu ?"
+  - q: "Un agent marketing IA peut-il suggérer des idées de contenu ?"
     a:
-      - "Oui. L'agent de Bazam.ai suggère des sujets basés sur votre marque, personas d'audience, tendances sectorielles et performance passée du contenu. Il identifie les lacunes — sujets dont votre audience a besoin mais que vous n'avez pas encore couverts — et génère des idées fraîches chaque fois que vous demandez."
+      - "Oui. Les agents IA comme Bazam.ai analysent votre marque, vos personas d'audience et votre historique de publication pour suggérer des sujets pertinents. Chaque suggestion inclut le sujet, le format recommandé et sa place dans le parcours d'achat — pour que votre mix de contenu reste stratégiquement équilibré."
 
-  - q: "L'IA peut-elle créer du contenu en plusieurs langues ?"
+  - q: "Un agent marketing IA peut-il gérer la collaboration d'équipe ?"
     a:
-      - "Oui. Bazam.ai crée du contenu dans votre langue principale et le traduit dans plus de 50 langues tout en préservant votre voix de marque et votre intention. Vous pouvez mener des campagnes sur plusieurs marchés simultanément sans embaucher de traducteurs."
+      - "Oui. Les agents marketing IA comme Bazam.ai prennent en charge plusieurs membres d'équipe avec des permissions basées sur les rôles, des workflows d'approbation et des calendriers éditoriaux partagés. Tout le monde travaille à partir du même contexte de marque. Les contributeurs créent, les éditeurs relisent, les administrateurs approuvent."
 
-  - q: "Sur combien de plateformes l'agent IA publie-t-il ?"
+  - q: "Un agent marketing IA est-il sécurisé ?"
     a:
-      - "Bazam.ai publie directement sur 8+ plateformes : WordPress, Facebook, Instagram (posts, stories, reels), LinkedIn, X/Twitter, YouTube, TikTok et Squarespace. Chaque post est automatiquement formaté selon les spécifications de la plateforme."
+      - "Les meilleurs agents IA utilisent le stockage chiffré des identifiants et n'utilisent jamais vos données pour entraîner des modèles d'IA. Bazam.ai, par exemple, stocke vos données de marque, votre base de connaissances et vos identifiants de publication de manière sécurisée, avec des contrôles d'accès basés sur les rôles qui garantissent que les membres de l'équipe ne voient que ce qu'ils doivent voir."
 ---

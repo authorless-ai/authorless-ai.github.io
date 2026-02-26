@@ -129,3 +129,30 @@ other = "Informativa sulla privacy"
 
 [terms]
 other = "Termini e condizioni"
+
+[tags]
+other = "Tag"
+
+[all]
+other = "Tutti"
+
+[share]
+other = "Condividi"
+
+[tweet]
+other = "Twitta"
+
+[copyLink]
+other = "Copia link"
+
+[postedOn]
+other = "Pubblicato il"
+
+[relatedArticles]
+other = "Articoli correlati"
+
+[in]
+other = "in"
+
+[on]
+other = "il"

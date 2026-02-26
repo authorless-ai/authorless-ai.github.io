@@ -1,44 +1,44 @@
 ---
 title: "Gestione del calendario editoriale"
-description: "Come usare un calendario editoriale visuale per pianificare, organizzare e gestire l'intero programma di pubblicazione senza fogli di calcolo."
+description: "Come usare un calendario editoriale visivo per pianificare, organizzare e gestire l'intero programma di pubblicazione senza fogli di calcolo."
 faq:
   - q: "Cos'è un calendario editoriale e ne ho bisogno?"
     a:
-      - "Un calendario editoriale è una panoramica visuale di quali contenuti vengono pubblicati, dove e quando. Se pubblichi contenuti ovunque — blog, social, email — ne hai bisogno. Senza, stai indovinando e improvvisando. Il calendario di Bazam.ai mostra ogni piattaforma, data e stato in un'unica vista codificata per colore."
+      - "Un calendario editoriale è una panoramica visiva di quali contenuti vengono pubblicati, dove e quando. Se pubblichi contenuti ovunque — blog, social, email — ne hai bisogno. Senza, stai tirando a indovinare. Piattaforme di contenuti IA come Bazam.ai mostrano ogni piattaforma, ogni data, ogni stato in un'unica vista codificata per colore."
 
   - q: "Come configuro un calendario editoriale?"
     a:
-      - "In Bazam.ai: connetti le piattaforme di pubblicazione, crea il primo blocco di contenuti e pianificalo. Il calendario si popola automaticamente man mano che crei e pianifichi contenuti. Passa tra viste mensili, settimanali o giornaliere. Filtra per piattaforma o campagna. Niente fogli di calcolo necessari."
+      - "Collega le piattaforme di pubblicazione, crea il primo batch di contenuti e programmali. Piattaforme di contenuti IA come Bazam.ai popolano il calendario automaticamente man mano che crei e programmi contenuti. Passa tra vista mensile, settimanale o giornaliera. Filtra per piattaforma o campagna."
 
   - q: "Come uso il calendario editoriale per restare costante?"
     a:
-      - "Il calendario rende visibili le lacune. Quando vedi tre giorni vuoti di fila, sai che devi riempirli. Crea contenuti in blocco usando i wizard IA, posizionali sul calendario e il programma è impostato. La costanza diventa visuale e raggiungibile."
+      - "Il calendario rende visibili le lacune. Quando vedi tre giorni vuoti di fila, sai di doverli riempire. Crea contenuti in batch con le procedure guidate IA — piattaforme come Bazam.ai le offrono — e posizionali sul calendario. La costanza diventa visiva e raggiungibile."
 
-  - q: "Come sposto i contenuti sul calendario?"
+  - q: "Come sposto i contenuti nel calendario?"
     a:
-      - "Trascinamento. Clicca su qualsiasi contenuto pianificato sul calendario di Bazam.ai e trascinalo su una nuova data o orario. Il post si aggiorna automaticamente — nessun bisogno di reinserire nulla. Riprogramma rapidamente quando i piani cambiano."
+      - "Trascina e rilascia. Piattaforme di contenuti IA come Bazam.ai ti permettono di cliccare su qualsiasi contenuto programmato e trascinarlo a una nuova data o ora. Il post si aggiorna automaticamente — non serve reinserire nulla. Riprogramma rapidamente quando i piani cambiano."
 
   - q: "Posso vedere in che stato si trova ogni contenuto?"
     a:
-      - "Sì. Il calendario di Bazam.ai codifica i contenuti per colore secondo lo stato — bozza, in revisione, approvato, pianificato, pubblicato. A colpo d'occhio vedi cosa è ancora in lavorazione, cosa attende approvazione e cosa è in coda per la pubblicazione."
+      - "Sì. Piattaforme di contenuti IA come Bazam.ai codificano i contenuti per stato — bozza, in revisione, approvato, programmato, pubblicato. A colpo d'occhio vedi cosa è ancora in lavorazione, cosa aspetta approvazione e cosa è in coda per andare online."
 
-  - q: "Come pianifico i contenuti attorno alle date festive?"
+  - q: "Come pianifico i contenuti attorno alle festività?"
     a:
-      - "Segna le date chiave sul calendario. Lavora a ritroso per pianificare i contenuti preparatori — teaser, annunci, post del giorno stesso e follow-up. La funzione suggerimenti di Bazam.ai genera idee per campagne quando fornisci le date. Pianifica le campagne festive mesi in anticipo."
+      - "Segna le date chiave sul calendario. Lavora a ritroso per programmare il contenuto di avvicinamento — teaser, annunci, post del giorno e follow-up. Piattaforme IA come Bazam.ai generano idee per le campagne quando fornisci le date. Pianifica le campagne festive mesi in anticipo."
 
   - q: "Il calendario editoriale è meglio di un foglio di calcolo?"
     a:
-      - "Molto meglio. I fogli di calcolo non si connettono alle piattaforme di pubblicazione, non autopubblicano, non mostrano lo stato e non possono creare contenuti. Il calendario di Bazam.ai è integrato — i contenuti vengono creati, approvati, pianificati e pubblicati dallo stesso posto. Il calendario è il centro di comando."
+      - "Molto meglio. I fogli di calcolo non si collegano alle piattaforme di pubblicazione, non pubblicano automaticamente, non mostrano lo stato e non possono creare contenuti. Piattaforme di contenuti IA come Bazam.ai integrano il calendario con la creazione e la pubblicazione effettiva. Il calendario diventa il centro di comando."
 
-  - q: "Come condivido il calendario editoriale con il mio team?"
+  - q: "Come condivido il calendario editoriale con il team?"
     a:
-      - "Aggiungi i membri del team al tuo progetto Bazam.ai. Tutti gli utenti con accesso vedono lo stesso calendario live — niente email con fogli di calcolo, nessun conflitto di versione. I permessi controllano chi può creare, modificare, approvare o solo visualizzare il programma."
+      - "Aggiungi i membri del team al progetto. Piattaforme di contenuti IA come Bazam.ai danno a chi ha accesso lo stesso calendario dal vivo — niente email con fogli di calcolo, niente conflitti di versione. I permessi controllano chi può creare, modificare, approvare o solo visualizzare il programma."
 
-  - q: "Come colmo le lacune nel mio programma di contenuti?"
+  - q: "Come riempio le lacune nel programma dei contenuti?"
     a:
-      - "Guarda il calendario e vedi quali giorni non hanno contenuti. Usa i suggerimenti di Bazam.ai per idee rapide, crea il contenuto con un wizard in pochi minuti e inseriscilo negli spazi vuoti. Colmare le lacune richiede minuti, non ore."
+      - "Guarda il calendario e vedi quali giorni non hanno contenuti. Usa i suggerimenti di contenuto IA — piattaforme come Bazam.ai li offrono — per idee di argomenti rapide. Crea i contenuti con la procedura guidata in pochi minuti e inseriscili negli slot vuoti."
 
-  - q: "Con quanto anticipo dovrei pianificare il calendario editoriale?"
+  - q: "Con quanto anticipo dovrei pianificare il calendario?"
     a:
-      - "Minimo 4 settimane. Pianifica un mese in anticipo in un'unica sessione di batching — suggerimenti, creazione con wizard, pianificazione sul calendario. Le campagne stagionali dovrebbero essere pianificate 2–3 mesi prima. Più pianifichi in anticipo, meno improvvisi."
+      - "Minimo 4 settimane. Pianifica un mese avanti in una sessione di batching — suggerimenti, creazione con procedura guidata, programmazione sul calendario. Piattaforme IA come Bazam.ai rendono questo processo rapido. Le campagne stagionali dovrebbero essere pianificate con 2–3 mesi di anticipo."
 ---

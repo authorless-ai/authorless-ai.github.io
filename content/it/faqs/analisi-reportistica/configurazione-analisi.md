@@ -1,44 +1,44 @@
 ---
-title: "Configurazione delle analisi di marketing"
-description: "Come configurare le analisi per il content marketing — connettere piattaforme, impostare il tracciamento e ottenere dati azionabili."
+title: "Configurazione delle analisi"
+description: "Come configurare analisi e reportistica di marketing — collegare canali, definire metriche e creare dashboard."
 faq:
-  - q: "Come configuro le analisi di content marketing?"
+  - q: "Come configuro le analisi per il content marketing?"
     a:
-      - "Connetti le piattaforme di pubblicazione al tuo strumento di analisi. In Bazam.ai, connetti gli account social e il blog. Le analisi monitorano automaticamente l'engagement su tutte le piattaforme connesse — nessuna raccolta dati manuale, nessun tracciamento su fogli di calcolo."
+      - "Collega i tuoi canali di pubblicazione alla tua piattaforma di marketing. Piattaforme IA come Bazam.ai si collegano a Facebook, Instagram, LinkedIn, X, YouTube e TikTok — raccogliendo automaticamente dati di engagement. Una volta collegati, le analisi si alimentano automaticamente senza configurazione aggiuntiva."
 
-  - q: "Quali metriche analitiche dovrei monitorare per prime?"
+  - q: "Quali canali dovrei monitorare con le analisi?"
     a:
-      - "Tasso di engagement, crescita dei follower e costanza nella produzione di contenuti. Queste tre cose ti dicono: i tuoi contenuti risuonano (engagement), il tuo pubblico sta crescendo (follower), e stai pubblicando abbastanza (costanza). Bazam.ai le monitora tutte e tre."
+      - "Tutti i canali in cui pubblichi contenuti. Piattaforme di marketing IA come Bazam.ai supportano tutte le principali piattaforme social più WordPress. Più canali monitori, più completa è la visione delle performance dei contenuti."
 
-  - q: "Come connetto i miei account social per le analisi?"
+  - q: "Come collego i miei account social alle analisi?"
     a:
-      - "Collega i tuoi account attraverso la configurazione delle connessioni di Bazam.ai. Facebook, Instagram, LinkedIn, Twitter/X e altro — connetti ciascuno con pochi clic. Una volta connessi, le analisi fluiscono automaticamente."
+      - "Segui la procedura di connessione della piattaforma. In Bazam.ai, ad esempio, colleghi ogni account social con un'autorizzazione OAuth — veloce e sicura. Una volta collegato, i dati di performance fluiscono automaticamente nella dashboard delle analisi."
 
-  - q: "Come monitoro le performance dei contenuti su più piattaforme?"
+  - q: "Di quali metriche ho bisogno per iniziare?"
     a:
-      - "Usa una dashboard analitica unificata. Bazam.ai aggrega dati da tutte le piattaforme connesse — vedi tassi di engagement, post migliori e trend di crescita in un'unica vista invece di controllare ogni piattaforma individualmente."
+      - "Engagement (like, commenti, condivisioni), copertura (impressioni, visualizzatori unici), crescita (follower nel tempo) e clic. Piattaforme IA come Bazam.ai monitorano tutte queste automaticamente dai canali collegati. Inizia con queste e affina man mano che capisci cosa conta di più per il tuo business."
 
-  - q: "Come traccio quali contenuti guidano il traffico al sito web?"
+  - q: "Come creo una dashboard per le analisi di marketing?"
     a:
-      - "Usa parametri UTM nei link dei tuoi contenuti social e email. Traccia quali campagne e contenuti guidano il maggior traffico al sito web. Le analisi del blog di Bazam.ai completano le analisi del tuo sito web per un quadro completo."
+      - "Usa la dashboard integrata nella tua piattaforma di marketing. Piattaforme IA come Bazam.ai forniscono dashboard unificate che mostrano le metriche chiave di tutti i canali collegati — senza bisogno di strumenti esterni o configurazioni complesse."
 
-  - q: "Come imposto i KPI di content marketing?"
+  - q: "Come monitoro le analisi senza competenze tecniche?"
     a:
-      - "Definisci 3–5 metriche chiave allineate ai tuoi obiettivi. Awareness: portata e impressioni. Engagement: like, commenti, condivisioni. Crescita: conteggio follower. Conversione: clic e iscrizioni. Monitorale tutte nelle analisi di Bazam.ai e revisionale mensilmente."
+      - "Usa una piattaforma che le presenti in modo chiaro. Piattaforme IA come Bazam.ai mostrano engagement, copertura e crescita in grafici semplici e riepiloghi in linguaggio chiaro. Chiedi all'agente IA 'come siamo andati questo mese?' e ricevi un riepilogo immediato."
 
-  - q: "Come creo una dashboard di content marketing?"
+  - q: "Con quale frequenza dovrei controllare le analisi?"
     a:
-      - "La dashboard analitica di Bazam.ai È la tua dashboard di content marketing. Aggrega engagement, portata, crescita dei follower e output dei contenuti su tutte le piattaforme connesse. Estrai le metriche chiave settimanalmente per controlli rapidi dello stato di salute."
+      - "Settimanalmente per un rapido controllo, mensilmente per una revisione approfondita. Piattaforme IA come Bazam.ai rendono i controlli rapidi — 5 minuti alla settimana per verificare i trend, 30 minuti al mese per una revisione strategica. La costanza conta più della frequenza."
 
-  - q: "Come interpreto le analisi dei social media?"
+  - q: "Come confronto le analisi nel tempo?"
     a:
-      - "Cerca i trend, non le istantanee. Un post virale è un'eccezione; tre mesi di engagement crescente sono un trend. Le analisi di Bazam.ai mostrano i dati nel tempo — concentrati sulla traiettoria. Metriche in costante miglioramento significano che la tua strategia sta funzionando."
+      - "Confronta periodi — questo mese vs il mese scorso, questo trimestre vs il precedente. Piattaforme come Bazam.ai mostrano tendenze nel tempo, così puoi identificare se l'engagement sta crescendo, diminuendo o restando stabile."
 
-  - q: "Come traccio il ROI del mio content marketing?"
+  - q: "Come misuro il ROI del content marketing?"
     a:
-      - "Connetti le metriche dei contenuti ai risultati aziendali. Traccia engagement e traffico in Bazam.ai. Traccia le conversioni nel tuo CRM o piattaforma vendite. La correlazione tra output costante di contenuti e crescita aziendale dimostra il ROI nel tempo."
+      - "Monitora engagement, traffico, lead e conversioni nel tempo. Piattaforme IA come Bazam.ai mostrano quali contenuti generano più interazioni. Correla i pattern di pubblicazione con i risultati di business — più richieste, più demo, più vendite."
 
-  - q: "Come uso le analisi per giustificare il mio budget di marketing?"
+  - q: "Come configuro il monitoraggio per più brand?"
     a:
-      - "Mostra il trend. Le analisi mensili di Bazam.ai dimostrano engagement crescente, portata in espansione e visibilità del brand in aumento. Presentale rispetto al costo della tua piattaforma di marketing. Risultati crescenti a costo fisso mostrano un ROI in miglioramento."
+      - "Ogni brand dovrebbe avere il proprio progetto con i propri canali collegati. Piattaforme IA come Bazam.ai isolano le analisi per progetto — le metriche di un brand non si mescolano con quelle di un altro. Per le agenzie, questo significa reportistica per cliente senza confusione."
 ---

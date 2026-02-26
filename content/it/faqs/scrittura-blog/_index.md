@@ -1,4 +1,4 @@
 ---
 title: "Scrittura per il blog"
-description: "Come scrivere, far crescere e mantenere un blog aziendale — dai primi passi alla monetizzazione."
+description: "Tutto sulla creazione, ottimizzazione e pubblicazione di contenuti per il blog — dal superare il blocco dello scrittore alla costruzione di un pubblico fedele."
 ---

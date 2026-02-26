@@ -1,44 +1,44 @@
 ---
-title: "Editor de Conteúdo com IA e Ferramentas de Escrita"
+title: "Editor de Conteúdo com IA e Ferramentas de Redação"
 description: "Como usar ferramentas de edição assistidas por IA para refinar, melhorar e polir conteúdo de marketing."
 faq:
   - q: "O que é um editor de conteúdo com IA?"
     a:
-      - "Uma ferramenta que usa IA para melhorar seu texto — reformular frases, expandir parágrafos, encurtar conteúdo, corrigir gramática e melhorar fluidez. O editor do Bazam.ai está integrado na plataforma de criação de conteúdo, para que você refine durante a criação."
+      - "O Bazam.ai inclui um editor de texto rico com ações de IA integradas — escrever um primeiro rascunho, reformular, expandir, encurtar, melhorar fluxo, corrigir gramática e ortografia, e escrever a partir de prompts personalizados. É um editor profissional que melhora seu conteúdo em tempo real."
 
-  - q: "Como uso a IA para melhorar minha escrita?"
+  - q: "Como melhoro conteúdo escrito por IA?"
     a:
-      - "Selecione qualquer texto no editor do Bazam.ai e escolha uma ação — reformular, expandir, encurtar, melhorar fluidez ou corrigir gramática. A IA melhora o texto mantendo sua voz de marca e intenção do conteúdo."
+      - "Use o editor integrado do Bazam.ai. Selecione qualquer texto e escolha entre ações de IA — reformular para clareza, expandir para profundidade, encurtar para impacto, melhorar fluxo ou corrigir gramática. Cada ação aplica suas configurações de voz de marca automaticamente."
 
-  - q: "A edição com IA pode manter minha voz de marca?"
+  - q: "A IA pode corrigir gramática e ortografia no meu conteúdo?"
     a:
-      - "Sim. O editor de IA do Bazam.ai trabalha dentro das configurações de voz de marca. Quando reformula ou expande texto, mantém seu tom, formalidade e estilo definidos. As melhorias ficam alinhadas com a marca, não genéricas."
+      - "Sim. O editor de conteúdo do Bazam.ai inclui correção de gramática e ortografia. Selecione o texto e a IA corrige erros mantendo sua voz e tom de marca. Sem precisar mudar para uma ferramenta de revisão separada."
 
-  - q: "Como reformulo conteúdo sem perder significado?"
+  - q: "A IA pode reformular minha escrita mantendo o significado?"
     a:
-      - "Use a função de reformulação do editor. O Bazam.ai reescreve o texto selecionado com vocabulário e estrutura diferentes mantendo a mensagem principal e voz de marca. Múltiplas opções de reformulação permitem escolher a que melhor se adequa."
+      - "Sim. O recurso de reformulação do Bazam.ai reescreve o texto selecionado com palavras diferentes preservando o significado e respeitando sua voz de marca. Útil quando uma frase não flui bem ou quando você quer evitar repetição."
 
-  - q: "Como faço conteúdo mais curto sem perder informação chave?"
+  - q: "A IA pode expandir um parágrafo curto em uma seção mais longa?"
     a:
-      - "Use a ferramenta de encurtamento. O Bazam.ai condensa texto preservando pontos essenciais — removendo redundância, apertando frases e eliminando enchimento. O resultado é mais conciso sem sacrificar informação."
+      - "Sim. Selecione o texto no editor do Bazam.ai e escolha expandir. A IA adiciona profundidade, detalhes e pontos de apoio mantendo sua voz e o significado original. Perfeito para transformar bullet points em parágrafos substanciais."
 
-  - q: "Como expando conteúdo curto em algo mais abrangente?"
+  - q: "A IA pode encurtar meu conteúdo sem perder a mensagem?"
     a:
-      - "Use a função de expansão. O Bazam.ai adiciona profundidade ao seu texto — exemplos adicionais, explicações mais detalhadas e cobertura mais completa. A expansão é baseada no seu contexto e base de conhecimento, não enchimento genérico."
+      - "Sim. O recurso de encurtar do Bazam.ai condensa o texto selecionado — removendo enrolação, apertando a linguagem e mantendo a mensagem central. Útil para adaptar conteúdo longo em posts sociais ou enxugar rascunhos verbosos."
 
-  - q: "Como corrijo gramática e estilo em conteúdo de marketing?"
+  - q: "Como escrevo um primeiro rascunho com assistência de IA?"
     a:
-      - "Use a ferramenta de correção gramatical do editor. O Bazam.ai corrige gramática, pontuação e erros de estilo mantendo sua voz. Também melhora legibilidade — frases mais limpas, melhor fluidez e tom mais profissional."
+      - "Diga ao agente do Bazam.ai o que você precisa e ele cria um primeiro rascunho completo — título, estrutura e corpo. Ou use as ações de IA do editor para gerar conteúdo a partir de um prompt personalizado dentro de qualquer documento. A IA cuida da página em branco; você cuida do polimento."
 
-  - q: "A IA pode ajudar a escrever títulos melhores?"
+  - q: "Posso dar instruções personalizadas à IA ao editar?"
     a:
-      - "Sim. Peça ao agente do Bazam.ai para gerar variações de título para seu conteúdo. Ele cria múltiplas opções — diferentes ângulos, comprimentos e apelos — cada uma otimizada para engajamento e clareza."
+      - "Sim. O editor do Bazam.ai suporta prompts de IA personalizados. Selecione o texto e diga à IA exatamente o que quer — 'torne isso mais conversacional', 'adicione um call-to-action', 'reescreva para uma audiência técnica'. A IA segue sua instrução mantendo a voz de marca."
 
-  - q: "Como uso a IA para melhorar conteúdo existente?"
+  - q: "Edição com IA é melhor que edição humana?"
     a:
-      - "Cole seu conteúdo existente no editor do Bazam.ai. Use as ferramentas de melhoria para reformular seções fracas, expandir pontos rasos, encurtar partes prolixas e polir a peça inteira. A IA melhora sem reescrever — seu conteúdo, aprimorado."
+      - "Para edição em nível de produção — gramática, fluxo e reformulação — a IA é mais rápida e consistente. Para edição estratégica — reposicionar mensagens, direção criativa e estratégia de audiência — humanos agregam valor único. O Bazam.ai cuida da edição de produção para que sua equipe foque em melhorias estratégicas."
 
-  - q: "Como atualizo minha voz de marca conforme meu negócio evolui?"
+  - q: "Posso editar conteúdo criado pelo agente de IA?"
     a:
-      - "Edite suas configurações de voz de marca no Bazam.ai a qualquer momento. Re-execute a análise de marca com novas amostras de conteúdo, ajuste parâmetros de tom ou atualize suas diretrizes personalizadas. Todo conteúdo futuro reflete imediatamente as configurações atualizadas."
+      - "Sim. Tudo que o agente cria é totalmente editável. Use o editor de texto rico do Bazam.ai para fazer alterações manuais, ou use ações de edição com IA para reformular, expandir ou encurtar. Você tem controle total sobre cada peça de conteúdo."
 ---

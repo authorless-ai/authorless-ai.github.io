@@ -1,4 +1,4 @@
 ---
 title: "Analisi e reportistica"
-description: "Come monitorare le performance del content marketing, creare report significativi e usare i dati per migliorare la tua strategia."
+description: "Come monitorare le performance dei contenuti, analizzare l'engagement e prendere decisioni di marketing basate sui dati."
 ---

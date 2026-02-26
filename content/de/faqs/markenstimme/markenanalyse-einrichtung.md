@@ -1,23 +1,48 @@
 ---
-title: "Markenanalyse fuer neue Projekte"
-description: "Wie Bazam.ais Markenanalyse Ihre Marke versteht und ein umfassendes Profil erstellt, das als Grundlage fuer allen Content dient."
+title: "Markenanalyse und Einrichtung"
+description: "Wie Sie Ihre Marke in einer Marketing-Plattform einrichten — automatisierte Analyse, Markenhierarchie und Personal-Branding-Unterstützung."
 faq:
-  - q: "Was ist die Markenanalyse?"
-    a: ["Die Markenanalyse ist der erste Schritt bei der Einrichtung eines neuen Projekts in Bazam.ai. Sie definieren Ihre Markenidentitaet, Werte, Ton und Zielgruppe, und die KI erstellt daraus ein umfassendes Markenprofil, das alle zukuenftigen Inhalte leitet."]
-  - q: "Wie funktioniert die Markenanalyse?"
-    a: ["Bazam.ais Markenanalyse stellt Ihnen gezielte Fragen und analysiert bei Bedarf Ihren bestehenden Content. Aus den Antworten und der Analyse erstellt die KI ein detailliertes Markenprofil, das Ton, Persoenlichkeit, Werte und Kommunikationsstil abbildet."]
-  - q: "Wie lange dauert die Markenanalyse?"
-    a: ["Die grundlegende Markenanalyse dauert etwa 15 bis 30 Minuten. Dieser Zeitaufwand zahlt sich langfristig aus, da alle zukuenftigen Inhalte auf dem erstellten Markenprofil basieren und sofort in der richtigen Stimme klingen."]
-  - q: "Was wenn ich mehrere Projekte einrichten moechte?"
-    a: ["Jedes Projekt durchlaeuft seine eigene Markenanalyse, denn jede Marke hat eine einzigartige Identitaet, die individuell erfasst werden muss. Das stellt sicher, dass der Content fuer jedes Projekt perfekt zur jeweiligen Marke passt."]
-  - q: "Kann ich die Ergebnisse der Markenanalyse anpassen?"
-    a: ["Ja, die Ergebnisse der Markenanalyse sind jederzeit anpassbar. Verfeinern Sie die Einstellungen nach Bedarf, und aller zukuenftige Content reflektiert die ueberarbeiteten Markeneinstellungen sofort und automatisch."]
-  - q: "Was passiert nach der Markenanalyse?"
-    a: ["Nach der Markenanalyse ist Ihr Projekt bereit fuer die Content-Erstellung. Bazam.ai nutzt das erstellte Markenprofil als Grundlage und erstellt ab sofort Content, der authentisch nach Ihrer Marke klingt."]
-  - q: "Wie genau ist die automatische Markenanalyse?"
-    a: ["Die Analyse liefert einen sehr guten Startpunkt, den Sie nach Bedarf verfeinern koennen. Je mehr Details und Beispiele Sie bereitstellen, desto praeziser wird das resultierende Markenprofil und der darauf basierende Content."]
-  - q: "Kann ich bestehende Styleguides in die Analyse einfliessen lassen?"
-    a: ["Absolut. Laden Sie Ihre bestehenden Styleguide-Informationen, Markenwerte und Kommunikationsrichtlinien in den Analyseprozess ein. So baut die KI auf Ihrer bestehenden Markenbasis auf."]
-  - q: "Brauche ich Marketing-Erfahrung fuer die Markenanalyse?"
-    a: ["Keine Marketing-Erfahrung noetig. Die Analyse fuehrt Sie mit klaren Fragen durch den gesamten Prozess und hilft Ihnen, Ihre Marke zu definieren, auch wenn Sie bisher nie explizit ueber Ihre Markenstimme nachgedacht haben."]
+  - q: "Wie richte ich meine Marke in einem Marketing-Tool ein?"
+    a:
+      - "Bazam.ai automatisiert das. Richten Sie es auf Ihre Website und die KI analysiert Ihre Unternehmensdetails, Markenpositionierung, Angebote, Zielgruppen und Wettbewerbslandschaft. Sie prüfen die Ergebnisse, passen bei Bedarf an und Ihr Markenprofil ist fertig — in Minuten, nicht Stunden."
+
+  - q: "Was ist automatisierte Markenanalyse?"
+    a:
+      - "Die KI von Bazam.ai analysiert Ihre Website, um automatisch Ihre Unternehmensdetails, Produkte/Dienstleistungen, Markenpositionierung, Zielgruppen und Wettbewerbslandschaft zu extrahieren. Es ist wie eine Discovery-Session mit einem Markenberater — nur dauert es Minuten und kostet nichts."
+
+  - q: "Wie lange dauert die Einrichtung einer Marke in Bazam.ai?"
+    a:
+      - "Minuten. Die automatisierte Markenanalyse extrahiert Ihre Schlüsselinformationen von Ihrer Website. Sie prüfen und verfeinern die Ergebnisse, stellen Ihre Stimmparameter ein und laden Schlüsseldokumente hoch. Die meisten Marken sind in unter einer Stunde vollständig eingerichtet."
+
+  - q: "Wie lange dauert die Einrichtung von KI für Ihre Marke?"
+    a:
+      - "Mit Bazam.ai: Minuten. Richten Sie die KI auf Ihre Website und sie analysiert automatisch Ihre Markenpositionierung, Produkte, Zielgruppen und Wettbewerbslandschaft. Sie prüfen, passen Stimmeinstellungen an und laden Schlüsseldokumente hoch. Die meisten Marken gehen in unter einer Stunde von null zu markengerechtem Content — kein Agentur-Onboarding, keine Markenfragebögen."
+
+  - q: "Kann ich mehrere Marken von einem Konto aus verwalten?"
+    a:
+      - "Ja. Bazam.ai unterstützt eine Unternehmen → Marke → Angebot-Hierarchie. Verwalten Sie mehrere Marken unter einer Organisation, jede mit eigener Stimme, Zielgruppen und Content-Strategie. Agenturen verwalten Dutzende Kundenmarken von einem einzigen Konto."
+
+  - q: "Was ist die Unternehmen → Marke → Angebot-Hierarchie?"
+    a:
+      - "So strukturiert Bazam.ai Unternehmen. Ihr Unternehmen hat eine oder mehrere Marken, jede Marke hat ein oder mehrere Angebote (Produkte/Dienstleistungen). Diese Hierarchie ermöglicht Content, der spezifisch für jedes Produkt ist, während die Konsistenz auf Markenebene beibehalten wird."
+
+  - q: "Kann ich KI für Personal Branding nutzen?"
+    a:
+      - "Ja. Bazam.ai hat einen Persönlichkeits-/Influencer-Modus, der für Personal Brands und Thought Leader konzipiert ist. Definieren Sie Ihre Stimme, Expertise und Zielgruppe — der Agent erstellt Content, der nach Ihnen klingt, Ihre Autorität aufbaut und Ihre authentische Perspektive beibehält."
+
+  - q: "Wie lernt KI über mein Unternehmen?"
+    a:
+      - "Auf drei Wegen in Bazam.ai: Automatisierte Website-Analyse extrahiert Ihre Positionierung und Angebote, Sie definieren Zielgruppen-Personas und Stimmeinstellungen, und Sie laden Schlüsseldokumente in die Wissensdatenbank. Zusammen hat der Agent ein tiefes Verständnis Ihres Unternehmens."
+
+  - q: "Kann ich Markeneinstellungen nach der Einrichtung ändern?"
+    a:
+      - "Ja. Markeneinstellungen in Bazam.ai sind jederzeit vollständig bearbeitbar. Passen Sie Ihre Stimme an, aktualisieren Sie Zielgruppen-Personas, fügen Sie Wissensdatenbank-Dokumente hinzu oder verfeinern Sie Ihre Markenpositionierung. Aller zukünftiger Content spiegelt automatisch die Änderungen wider."
+
+  - q: "Wie differenziere ich zwischen Marken innerhalb meines Unternehmens?"
+    a:
+      - "Geben Sie jeder Marke ein eigenes Profil in Bazam.ai mit individuellen Stimmeinstellungen, Zielgruppen-Personas und Wissensdatenbank. Der Agent erstellt Content, der einzigartig für jede Marke ist — auch wenn sie unter demselben Unternehmensdach stehen."
+
+  - q: "Können Franchise-Unternehmen KI nutzen, um Markenkonsistenz über Standorte hinweg sicherzustellen?"
+    a:
+      - "Ja. Richten Sie die Hauptmarke in Bazam.ai mit Stimmrichtlinien und freigegebenen Botschaften ein. Jeder Standort kann Content über den Agenten erstellen, der die Markenstandards des Franchise automatisch durchsetzt. Unternehmensweite Markenkonsistenz mit lokaler Relevanz."
 ---

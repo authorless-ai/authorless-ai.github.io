@@ -1,4 +1,4 @@
 ---
-title: "KI-Inhaltserstellung"
-description: "Alles, was Sie über die Erstellung von Marketing-Content mit KI wissen müssen — Blogbeiträge, Social Media, Werbetexte und mehr."
+title: "KI-Content-Erstellung"
+description: "Alles über die Erstellung professioneller Inhalte mit KI — von Blogbeiträgen über Social Media bis hin zu E-Mail-Newslettern und Werbetexten."
 ---

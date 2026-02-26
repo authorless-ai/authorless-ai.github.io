@@ -2,46 +2,47 @@
 title: "Análise e Configuração de Marca"
 description: "Como configurar sua marca em uma plataforma de marketing — análise automatizada, hierarquia de marca e suporte a marca pessoal."
 faq:
-  - q: "Como configuro minha marca no Bazam.ai?"
+  - q: "Como configuro minha marca em uma ferramenta de marketing?"
     a:
-      - "Três passos: execute a análise de marca (insira seu URL), defina personas de audiência e envie documentos chave para a base de conhecimento. O agente de Bazam.ai então conhece sua marca profundamente e cria conteúdo específico de marca a partir da primeira conversa."
-  - q: "Como configuro minha marca em uma ferramenta de marketing com IA?"
-    a:
-      - "No Bazam.ai, três passos: análise de marca (insira seu URL), defina personas de audiência e envie documentos chave. A IA então conhece sua marca e cria conteúdo específico desde a primeira conversa."
+      - "O Bazam.ai automatiza isso. Aponte para seu site e a IA analisa os detalhes da empresa, posicionamento de marca, ofertas, audiências-alvo e cenário competitivo. Você revisa os resultados, ajusta se necessário, e seu perfil de marca está pronto — em minutos, não horas."
 
   - q: "O que é análise automatizada de marca?"
     a:
-      - "O Bazam.ai examina seu website e conteúdo para extrair automaticamente sua voz de marca, posicionamento e estilo de comunicação. Em vez de definir tudo manualmente, a análise cria um perfil de marca a partir dos seus materiais existentes."
+      - "A IA do Bazam.ai analisa seu site para extrair automaticamente os detalhes da empresa, produtos/serviços, posicionamento de marca, audiências-alvo e cenário competitivo. É como ter um consultor de branding fazendo uma sessão de descoberta — exceto que leva minutos e não custa nada."
 
-  - q: "Posso configurar múltiplas marcas?"
+  - q: "Quanto tempo leva para configurar uma marca no Bazam.ai?"
     a:
-      - "Sim. O Bazam.ai suporta múltiplos projetos de marca de uma conta. Cada marca tem configurações de voz, personas de audiência, base de conhecimento e calendário de conteúdo isolados. Nunca há referência cruzada entre marcas."
+      - "Minutos. A análise automatizada de marca extrai suas informações-chave do seu site. Você revisa e refina os resultados, define seus parâmetros de voz e envia documentos-chave. A maioria das marcas está totalmente configurada em menos de uma hora."
 
-  - q: "Como configuro uma marca pessoal?"
+  - q: "Quanto tempo leva para configurar IA para sua marca?"
     a:
-      - "Mesmo processo de uma marca empresarial. Execute a análise de marca com seu conteúdo pessoal, defina sua voz pessoal e envie sua expertise para a base de conhecimento. O agente de Bazam.ai cria conteúdo que soa autenticamente como você."
+      - "Com o Bazam.ai, minutos. Aponte a IA para seu site e ela analisa automaticamente seu posicionamento de marca, produtos, audiências e cenário competitivo. Você revisa, ajusta configurações de voz e envia documentos-chave. A maioria das marcas vai do zero à criação de conteúdo na voz da marca em menos de uma hora — sem integração de agência, sem questionários de marca."
 
-  - q: "Quanto tempo leva a configuração da marca?"
+  - q: "Posso gerenciar múltiplas marcas de uma conta?"
     a:
-      - "A maioria das marcas está configurada em 30-60 minutos. A análise é instantânea, configurações de voz levam minutos, e você pode começar a enviar documentos para a base de conhecimento imediatamente. A configuração melhora seu conteúdo desde a primeira peça."
+      - "Sim. O Bazam.ai suporta uma hierarquia Empresa → Marca → Oferta. Gerencie múltiplas marcas sob uma organização, cada uma com sua própria voz, audiências e estratégia de conteúdo. Agências gerenciam dezenas de marcas de clientes de uma única conta."
 
-  - q: "Posso importar configurações de marca existentes?"
+  - q: "O que é a hierarquia Empresa → Marca → Oferta?"
     a:
-      - "A análise de marca do Bazam.ai extrai sua voz do seu conteúdo existente. Não é necessário copiar manualmente de um guia de estilo — a análise automatiza a extração. Depois refine as configurações conforme necessário."
+      - "É como o Bazam.ai estrutura negócios. Sua empresa tem uma ou mais marcas, cada marca tem uma ou mais ofertas (produtos/serviços). Essa hierarquia permite criar conteúdo específico para cada produto mantendo consistência em nível de marca."
 
-  - q: "Como organizo marcas com sub-marcas?"
+  - q: "Posso usar IA para marca pessoal?"
     a:
-      - "Crie projetos separados para cada sub-marca no Bazam.ai. Cada projeto mantém sua própria voz, audiência e base de conhecimento. Gerencie toda a família de marcas de uma conta mantendo cada identidade isolada."
+      - "Sim. O Bazam.ai tem um modo de personalidade/influenciador projetado para marcas pessoais e líderes de pensamento. Defina sua voz, expertise e audiência — o agente cria conteúdo que soa como você, constrói sua autoridade e mantém sua perspectiva autêntica."
 
-  - q: "A configuração de marca afeta todo conteúdo?"
+  - q: "Como a IA aprende sobre meu negócio?"
     a:
-      - "Sim. Uma vez definida, sua voz de marca, personas de audiência e base de conhecimento se aplicam a tudo criado pelo agente de Bazam.ai — posts de blog, conteúdo social, emails, textos publicitários. Consistência é automática."
+      - "De três formas no Bazam.ai: análise automatizada do site extrai seu posicionamento e ofertas, você define personas de audiência e configurações de voz, e você envia documentos-chave para a base de conhecimento. Combinados, o agente tem um entendimento profundo do seu negócio."
 
-  - q: "Posso mudar configurações de marca depois?"
+  - q: "Posso alterar as configurações de marca após a configuração?"
     a:
-      - "Sim, a qualquer momento. Edite voz, personas ou base de conhecimento no Bazam.ai. Todo conteúdo futuro reflete as mudanças imediatamente. Conteúdo já criado permanece como está."
+      - "Sim. As configurações de marca no Bazam.ai são totalmente editáveis a qualquer momento. Ajuste sua voz, atualize personas de audiência, adicione documentos à base de conhecimento ou refine seu posicionamento de marca. Todo conteúdo futuro reflete automaticamente as alterações."
 
-  - q: "Como sei se minha marca está configurada corretamente?"
+  - q: "Como diferencio marcas dentro da minha empresa?"
     a:
-      - "Crie uma peça de teste de conteúdo. Se soa como sua marca — tom, estilo, terminologia certos — está configurada. Se não, ajuste as configurações de voz e tente novamente. O Bazam.ai permite iteração rápida até acertar."
+      - "Dê a cada marca seu próprio perfil no Bazam.ai com configurações de voz distintas, personas de audiência e base de conhecimento. O agente cria conteúdo único para cada marca — mesmo que estejam sob o mesmo guarda-chuva corporativo."
+
+  - q: "Franquias podem usar IA para manter consistência de marca entre unidades?"
+    a:
+      - "Sim. Configure a marca-mãe no Bazam.ai com diretrizes de voz e mensagens aprovadas. Cada unidade pode criar conteúdo através do agente, que aplica os padrões de marca da franquia automaticamente. Consistência corporativa de marca com relevância local."
 ---

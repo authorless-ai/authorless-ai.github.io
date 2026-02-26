@@ -1,23 +1,44 @@
 ---
-title: "Content mit dem KI-Editor verfeinern"
-description: "Wie Sie den KI-Editor nutzen, um erstellten Content praezise an Ihre Markenstimme und Qualitaetsansprueche anzupassen."
+title: "KI-Content-Editor und Schreibtools"
+description: "Wie Sie KI-gestützte Bearbeitungstools nutzen, um Marketing-Inhalte zu verfeinern, zu verbessern und zu polieren."
 faq:
-  - q: "Was ist der KI-Content-Editor?"
-    a: ["Der KI-Content-Editor ist Bazam.ais Tool zum Verfeinern und Anpassen von erstelltem Content. Hier koennen Sie Aenderungen vornehmen, den Ton anpassen und den Content so lange bearbeiten, bis er Ihren Vorstellungen perfekt entspricht."]
-  - q: "Wie nutze ich den Editor fuer die Feinabstimmung?"
-    a: ["Geben Sie dem Editor spezifische Anweisungen wie zum Beispiel formeller zu formulieren, bestimmte Punkte zu betonen oder Abschnitte zu kuerzen. Die KI setzt Ihre Anweisungen in Echtzeit um und passt den Content entsprechend an."]
-  - q: "Kann ich Teile des Contents manuell aendern?"
-    a: ["Selbstverstaendlich. Bazam.ais Editor ermoeglicht sowohl KI-gestuetzte als auch vollstaendig manuelle Bearbeitungen. Sie koennen einzelne Saetze umschreiben, Absaetze hinzufuegen oder den Content nach Ihren Wuenschen anpassen."]
-  - q: "Wie passe ich den Ton eines Beitrags im Nachhinein an?"
-    a: ["Weisen Sie den Editor an, den Ton zu aendern. Bazam.ais KI kann denselben Inhalt formeller, lockerer, ueberzeugender oder informativer formulieren, ohne dass Sie den gesamten Text neu schreiben muessen."]
-  - q: "Wie kuerze ich zu langen Content?"
-    a: ["Bazam.ais Editor kann Content gezielt komprimieren und dabei die Kernbotschaft bewahren. Geben Sie die gewuenschte Ziellaenge an, und die KI erstellt eine praegnantere Version, die die wichtigsten Aussagen behaelt."]
-  - q: "Wie erweitere ich zu kurzen Content?"
-    a: ["Bazam.ais Editor fuegt relevante Details, Beispiele und Erklaerungen hinzu, um duennen Content mit echtem Mehrwert anzureichern. Das Ergebnis ist informativer und ueberzeugender, ohne kuenstlich aufgeblaht zu wirken."]
-  - q: "Wie optimiere ich Content fuer einen bestimmten Kanal?"
-    a: ["Bazam.ais Editor passt den Content an die Anforderungen des gewaehlten Kanals an. Ein Blogbeitrag kann so in einen LinkedIn-Post, einen Newsletter-Teaser oder eine Instagram-Caption umgewandelt werden."]
-  - q: "Wie viele Bearbeitungsrunden sind normal?"
-    a: ["Bazam.ais Content ist oft schon beim ersten Entwurf nahe an der finalen Version. Typischerweise genuegen ein bis zwei Korrekturschleifen fuer die Feinabstimmung, was deutlich weniger ist als bei manuell erstelltem Content."]
-  - q: "Wie nutze ich den Editor fuer verschiedene Content-Versionen?"
-    a: ["Erstellen Sie verschiedene Varianten desselben Inhalts fuer unterschiedliche Zwecke: eine ausfuehrliche Blog-Version, eine kompakte Social-Media-Version und eine persoenliche Newsletter-Version. Bazam.ais Editor macht diese Anpassungen effizient."]
+  - q: "Was ist ein KI-Content-Editor?"
+    a:
+      - "Bazam.ai enthält einen Rich-Text-Editor mit integrierten KI-Aktionen — Erstentwurf schreiben, umformulieren, erweitern, kürzen, Lesefluss verbessern, Grammatik und Rechtschreibung korrigieren und aus benutzerdefinierten Prompts schreiben. Es ist ein professioneller Editor, der Ihren Content in Echtzeit besser macht."
+
+  - q: "Wie verbessere ich KI-geschriebenen Content?"
+    a:
+      - "Nutzen Sie den integrierten Editor von Bazam.ai. Wählen Sie beliebigen Text aus und wählen Sie aus KI-Aktionen — umformulieren für Klarheit, erweitern für Tiefe, kürzen für Wirkung, Lesefluss verbessern oder Grammatik korrigieren. Jede Aktion wendet automatisch Ihre Markenstimme-Einstellungen an."
+
+  - q: "Kann KI Grammatik und Rechtschreibung in meinem Content korrigieren?"
+    a:
+      - "Ja. Der Content-Editor von Bazam.ai enthält Grammatik- und Rechtschreibkorrektur. Wählen Sie den Text aus und die KI korrigiert Fehler, während sie Ihre Markenstimme und Tonalität beibehält. Kein Wechsel zu einem separaten Korrekturwerkzeug."
+
+  - q: "Kann KI meinen Text umformulieren und dabei die Bedeutung beibehalten?"
+    a:
+      - "Ja. Die Umformulierungs-Funktion von Bazam.ai schreibt ausgewählten Text mit anderen Worten um, während die Bedeutung erhalten bleibt und Ihre Markenstimme beibehalten wird. Nützlich, wenn ein Satz nicht richtig fließt oder wenn Sie Wiederholungen vermeiden möchten."
+
+  - q: "Kann KI einen kurzen Absatz in einen längeren Abschnitt erweitern?"
+    a:
+      - "Ja. Wählen Sie den Text im Editor von Bazam.ai aus und wählen Sie Erweitern. Die KI fügt Tiefe, Details und unterstützende Punkte hinzu, während Ihre Stimme und die ursprüngliche Bedeutung beibehalten werden. Perfekt, um Stichpunkte in substanzielle Absätze zu verwandeln."
+
+  - q: "Kann KI meinen Content kürzen, ohne die Botschaft zu verlieren?"
+    a:
+      - "Ja. Die Kürzen-Funktion von Bazam.ai verdichtet ausgewählten Text — entfernt Füllwörter, strafft die Sprache und behält die Kernbotschaft bei. Nützlich, um Langform-Content in Social Posts umzuwandeln oder ausschweifende Entwürfe zu straffen."
+
+  - q: "Wie schreibe ich einen Erstentwurf mit KI-Unterstützung?"
+    a:
+      - "Sagen Sie dem Agenten von Bazam.ai, was Sie brauchen, und er erstellt einen kompletten Erstentwurf — Headline, Struktur und Hauptteil. Oder nutzen Sie die KI-Aktionen des Editors, um Content aus einem benutzerdefinierten Prompt in jedem Dokument zu generieren. Die KI löst das Problem der leeren Seite; Sie übernehmen den Feinschliff."
+
+  - q: "Kann ich der KI beim Bearbeiten individuelle Anweisungen geben?"
+    a:
+      - "Ja. Der Editor von Bazam.ai unterstützt benutzerdefinierte KI-Prompts. Wählen Sie Text aus und sagen Sie der KI genau, was Sie möchten — ‚mach das gesprächiger', ‚füge einen Call-to-Action hinzu', ‚schreib das für ein technisches Publikum um'. Die KI folgt Ihrer Anweisung und behält die Markenstimme bei."
+
+  - q: "Ist KI-Bearbeitung besser als menschliche Bearbeitung?"
+    a:
+      - "Für Produktionsbearbeitung — Grammatik, Lesefluss und Umformulierung — ist KI schneller und konsistenter. Für strategische Bearbeitung — Neupositionierung von Botschaften, kreative Leitung und Zielgruppen-Strategie — bringen Menschen einzigartigen Mehrwert. Bazam.ai übernimmt die Produktionsbearbeitung, damit Ihr Team sich auf strategische Verbesserungen konzentriert."
+
+  - q: "Kann ich Content bearbeiten, der vom KI-Agenten erstellt wurde?"
+    a:
+      - "Ja. Alles, was der Agent erstellt, ist vollständig bearbeitbar. Nutzen Sie den Rich-Text-Editor von Bazam.ai für manuelle Änderungen oder verwenden Sie KI-Bearbeitungsaktionen zum Umformulieren, Erweitern oder Kürzen. Sie haben die volle Kontrolle über jedes Content-Stück."
 ---

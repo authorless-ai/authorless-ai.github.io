@@ -1,4 +1,4 @@
 ---
-title: "Voce del brand"
-description: "Come definire, configurare e mantenere la voce del brand per creare contenuti coerenti e autentici."
+title: "Voce del brand e coerenza"
+description: "Come definire, mantenere e scalare la voce del tuo brand in tutti i contenuti e canali di marketing."
 ---

@@ -1,4 +1,4 @@
 ---
 title: "Marketing per agenzie"
-description: "Come le agenzie di marketing possono scalare le operazioni per i clienti, ridurre i costi e aumentare i margini con la produzione di contenuti basata sull'IA."
+description: "Come le agenzie di marketing gestiscono più clienti, scalano la produzione di contenuti e aumentano i margini con l'IA."
 ---

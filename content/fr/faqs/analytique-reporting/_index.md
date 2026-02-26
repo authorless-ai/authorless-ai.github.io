@@ -1,4 +1,4 @@
 ---
-title: "Analytique & Reporting"
-description: "Comment suivre, mesurer et rapporter les performances de votre marketing de contenu sur tous les canaux."
+title: "Analytique et reporting"
+description: "Comment suivre, mesurer et rapporter la performance de votre marketing de contenu sur tous les canaux."
 ---

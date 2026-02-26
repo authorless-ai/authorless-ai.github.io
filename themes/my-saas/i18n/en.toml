@@ -129,3 +129,30 @@ other = "Privacy Policy"
 
 [terms]
 other = "Terms"
+
+[tags]
+other = "Tags"
+
+[all]
+other = "All"
+
+[share]
+other = "Share"
+
+[tweet]
+other = "Tweet"
+
+[copyLink]
+other = "Copy link"
+
+[postedOn]
+other = "Posted on"
+
+[relatedArticles]
+other = "Related articles"
+
+[in]
+other = "in"
+
+[on]
+other = "on"

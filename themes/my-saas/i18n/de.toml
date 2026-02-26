@@ -129,3 +129,30 @@ other = "Datenschutzrichtlinie"
 
 [terms]
 other = "AGB"
+
+[tags]
+other = "Schlagwörter"
+
+[all]
+other = "Alle"
+
+[share]
+other = "Teilen"
+
+[tweet]
+other = "Twittern"
+
+[copyLink]
+other = "Link kopieren"
+
+[postedOn]
+other = "Veröffentlicht am"
+
+[relatedArticles]
+other = "Verwandte Artikel"
+
+[in]
+other = "in"
+
+[on]
+other = "am"

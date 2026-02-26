@@ -1,4 +1,4 @@
 ---
-title: "Creazione di contenuti con IA"
-description: "Tutto ciò che devi sapere sulla creazione di contenuti di marketing con l'IA — articoli per il blog, social media, testi pubblicitari e altro."
+title: "Creazione di contenuti con l'IA"
+description: "Come l'intelligenza artificiale crea contenuti di marketing — articoli del blog, post social, testi pubblicitari, comunicati stampa e altro, con la voce del tuo brand."
 ---
