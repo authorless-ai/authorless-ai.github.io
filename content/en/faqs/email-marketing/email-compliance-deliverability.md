@@ -1,44 +1,44 @@
 ---
-title: "Email Marketing Compliance & Deliverability"
-description: "How to stay compliant with email marketing laws and ensure your emails reach the inbox."
+title: "Email Compliance & Deliverability"
+description: "How to ensure your emails reach the inbox and comply with regulations — GDPR, CAN-SPAM, and deliverability best practices."
 faq:
   - q: "How do I comply with GDPR for email marketing?"
     a:
-      - "Obtain explicit consent before emailing, include an unsubscribe link in every email, honour opt-out requests promptly, and clearly state who's sending the email. Bazam.ai creates professional email content — but compliance with sending laws is managed through your email platform."
+      - "Get explicit consent, provide clear unsubscribe options, and respect data rights. AI email tools like Bazam.ai create professional marketing emails — but compliance is about your processes: consent forms, list management, and data handling."
 
-  - q: "What is CAN-SPAM and how do I comply?"
+  - q: "How do I ensure emails reach the inbox?"
     a:
-      - "CAN-SPAM is US email marketing law requiring: identifying the email as an ad, including your physical address, providing an unsubscribe link, and honouring opt-outs within 10 days. Bazam.ai creates content; your email platform handles compliance features."
+      - "Clean your list regularly, authenticate your domain (SPF/DKIM), and send quality content consistently. AI email platforms like Bazam.ai create clean, professional content that avoids spam-trigger words and reads like genuine communication."
 
-  - q: "How do I improve email deliverability?"
+  - q: "What is email deliverability?"
     a:
-      - "Maintain a clean list, send consistently, avoid spam trigger words, and create content people actually want to read. Bazam.ai creates engaging, relevant email content — reducing the chance that subscribers mark your emails as spam."
+      - "The percentage of emails that reach the inbox instead of spam or junk folders. Good deliverability requires sender reputation, list hygiene, and quality content. AI email tools like Bazam.ai create professional, value-driven emails that help maintain sender reputation."
+
+  - q: "How do I build sender reputation?"
+    a:
+      - "Send consistently, maintain a clean list, and provide genuine value. Start with your most engaged subscribers and gradually expand. AI email platforms like Bazam.ai create quality content that subscribers genuinely want — engagement builds reputation."
+
+  - q: "How do I handle email unsubscribes?"
+    a:
+      - "Make unsubscribing easy — it's legally required and protects sender reputation. Focus on reducing unsubscribes by sending better content. AI email tools like Bazam.ai create audience-targeted content that stays relevant, reducing the desire to unsubscribe."
 
   - q: "How do I clean my email list?"
     a:
-      - "Regularly remove bounced addresses, unsubscribed contacts, and dormant subscribers who haven't engaged in 6+ months. A clean list improves deliverability and gives you accurate engagement metrics."
+      - "Remove bounced addresses, inactive subscribers (no opens in 6+ months), and invalid emails. A smaller, engaged list outperforms a large, unengaged one. AI email tools like Bazam.ai help you create re-engagement campaigns before removing inactive contacts."
 
-  - q: "What are spam trigger words to avoid?"
+  - q: "How do I avoid spam trigger words in emails?"
     a:
-      - "Excessive capitalisation, 'FREE!!', 'ACT NOW', 'GUARANTEED', and other high-pressure phrases. Bazam.ai creates professional, conversational email content that naturally avoids spam patterns because it writes like a real person, not a spammer."
+      - "Write naturally. Avoid ALL CAPS, excessive exclamation marks, and words like 'FREE!!!', 'ACT NOW', or 'GUARANTEED'. AI email platforms like Bazam.ai create professional, conversational email content that naturally avoids these triggers."
 
-  - q: "How do I get emails out of the spam folder?"
+  - q: "What is email authentication?"
     a:
-      - "Authenticate your domain (SPF, DKIM, DMARC), maintain a clean list, and send relevant content. Bazam.ai creates the relevant content — your email platform and domain configuration handle the technical deliverability factors."
+      - "Technical verification that proves you're a legitimate sender — SPF, DKIM, and DMARC records. Your email platform configures these. AI email tools like Bazam.ai handle the content; your email infrastructure handles authentication."
 
-  - q: "Do I need an unsubscribe link in every email?"
+  - q: "How do I reduce email bounce rates?"
     a:
-      - "Yes. Every marketing email must include a clear, functional unsubscribe link. This is required by GDPR, CAN-SPAM, and most email marketing laws globally. Your email platform adds this automatically."
+      - "Clean your list regularly and verify email addresses before adding them. Soft bounces (temporary) resolve themselves; hard bounces (invalid addresses) should be removed immediately. Good list hygiene keeps bounce rates low."
 
-  - q: "How do I handle email bounces?"
+  - q: "How do I comply with CAN-SPAM?"
     a:
-      - "Remove hard bounces immediately — these are invalid addresses. Monitor soft bounces (temporary failures) and remove contacts that soft-bounce repeatedly. Clean lists improve deliverability for everyone else on your list."
-
-  - q: "Is double opt-in better for email marketing?"
-    a:
-      - "Yes for quality. Double opt-in (confirming via email) results in fewer subscribers but higher engagement. Your list is smaller but more engaged. This is especially important for GDPR compliance in the EU."
-
-  - q: "How do I manage email marketing consent records?"
-    a:
-      - "Your email platform should record when and how each subscriber consented. This is a legal requirement under GDPR. Store consent records and be prepared to demonstrate them if challenged."
+      - "Include your physical address, provide a clear unsubscribe link, use honest subject lines, and honour opt-out requests within 10 days. AI email platforms like Bazam.ai create honest, professional emails — but compliance is about your process, not just content."
 ---

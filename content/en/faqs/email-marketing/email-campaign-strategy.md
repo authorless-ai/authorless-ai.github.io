@@ -1,44 +1,44 @@
 ---
-title: "Email Campaign Strategy & Automation"
-description: "How to plan email campaigns that convert — automation sequences, segmentation, and lifecycle marketing."
+title: "Email Campaign Strategy"
+description: "How to plan, create, and execute email campaigns — from welcome sequences to seasonal promotions and re-engagement."
 faq:
-  - q: "How do I create an email marketing strategy?"
+  - q: "How do I plan an email campaign?"
     a:
-      - "Define your audience segments, map the customer lifecycle, and plan email types for each stage — welcome, nurture, conversion, retention. Create content for each stage using Bazam.ai's email wizard. Schedule on the content calendar alongside your other marketing."
+      - "Define the goal, audience, timeline, and message sequence. AI email platforms like Bazam.ai create the content for each email in the sequence — aligned to your campaign objectives and audience personas."
 
-  - q: "What types of marketing emails should I send?"
+  - q: "How do I create a welcome email series?"
     a:
-      - "Welcome emails, educational newsletters, product announcements, promotional campaigns, and re-engagement sequences. Bazam.ai's email wizard creates all of these — each type formatted correctly and targeted to the right audience persona."
+      - "3–5 emails: welcome and brand intro → value delivery → product education → social proof → CTA. AI email tools like Bazam.ai create the full sequence from your brand voice and knowledge base. First impressions set the tone for the relationship."
 
-  - q: "How do I create a lead nurture email sequence?"
+  - q: "How do I create a product launch email campaign?"
     a:
-      - "Plan 5–7 emails that progressively build trust: educational value → deeper insight → social proof → product introduction → clear offer. Create each email with Bazam.ai's wizard, targeting your prospect persona. Each email naturally progresses the relationship."
+      - "Teaser → announcement → benefits deep-dive → social proof → last chance. AI email platforms like Bazam.ai create each email from your product details. Schedule the full sequence on the content calendar."
 
-  - q: "How do I segment my email list for better targeting?"
+  - q: "How do I create a re-engagement campaign?"
     a:
-      - "Split by buyer stage, interest area, or behaviour. Create separate persona profiles in Bazam.ai for each segment. When creating emails, specify the target persona — each version addresses that segment's specific needs and interests."
+      - "Target inactive subscribers with a value-first sequence. AI email tools like Bazam.ai create re-engagement emails — reminding subscribers of your value, offering exclusive content, or asking if they'd like to stay. Win back before removing."
 
-  - q: "How do I turn blog subscribers into customers?"
+  - q: "How do I create seasonal email campaigns?"
     a:
-      - "Lifecycle email marketing. After a reader subscribes, they receive a welcome email, then regular value-driven newsletters, then targeted product information at the right time. Create each lifecycle stage's content with Bazam.ai's email wizard."
+      - "Plan campaigns months ahead on the content calendar. AI email tools like Bazam.ai create holiday, seasonal, and event-driven email content. Schedule the full campaign — automated execution when the dates arrive."
 
-  - q: "How do I plan a Black Friday email campaign?"
+  - q: "How do I create a nurture email sequence?"
     a:
-      - "Plan 4–5 emails: early access teaser (1 week before), main announcement (day before), launch day, reminder (mid-event), and last chance. Create each with Bazam.ai's email wizard. Schedule on the content calendar so the sequence runs automatically."
+      - "Map the buyer journey and create emails for each stage. AI email platforms like Bazam.ai create persona-targeted nurture sequences — educational content for early-stage prospects, comparison content for evaluators, and conversion content for ready buyers."
 
-  - q: "How do I measure email marketing performance?"
+  - q: "How do I create an email onboarding sequence?"
     a:
-      - "Track open rates, click-through rates, and conversion rates in your email platform. Monitor content engagement alongside email timing using Bazam.ai's content calendar to see which email subjects and content types drive the best responses."
+      - "Welcome → first steps → quick wins → advanced features → community. AI email tools like Bazam.ai create onboarding sequences from your product knowledge base. Each email helps new users succeed quickly."
 
-  - q: "How do I reduce email fatigue in my subscribers?"
+  - q: "How do I coordinate email with social campaigns?"
     a:
-      - "Send less but better. Ensure every email provides genuine value — not just promotion. Use Bazam.ai's email wizard with audience personas to create targeted, relevant content. Subscribers tolerating promotional emails; they unsubscribe from irrelevant ones."
+      - "Schedule email alongside social content on the same calendar. AI marketing platforms like Bazam.ai show all content types together. Launch email and social campaigns simultaneously for reinforced messaging."
 
-  - q: "How do I create event-triggered emails?"
+  - q: "How do I create urgency in email campaigns?"
     a:
-      - "Create the email content in advance with Bazam.ai's wizard — abandoned cart, post-purchase, birthday, anniversary. Load the content into your email automation platform with the trigger rules. The content is ready; your platform handles the delivery logic."
+      - "Genuine scarcity or deadlines. 'Sale ends Friday' or 'Limited to 50 spots.' AI email tools like Bazam.ai create urgency-driven copy that's compelling without being manipulative. Manufactured urgency erodes trust; genuine urgency drives action."
 
-  - q: "How do I align email marketing with my overall content strategy?"
+  - q: "How do I create a referral email campaign?"
     a:
-      - "Schedule email alongside blog and social on the same calendar. Bazam.ai shows all content types together. Email promotes blog posts, follows up social campaigns, and reinforces brand messaging. A unified calendar ensures channel coordination."
+      - "Ask satisfied customers to share. AI email platforms like Bazam.ai create referral request emails — genuine, appreciative, and easy to act on. Offer value to both referrer and referee. Personal referrals convert better than any advertising."
 ---

@@ -1,44 +1,44 @@
 ---
-title: "Email Content & Design"
-description: "How to create email content that looks professional, engages readers, and drives action."
+title: "Email Design & Formatting"
+description: "How to design, format, and structure marketing emails for maximum readability and conversion."
 faq:
-  - q: "How do I design professional email newsletters?"
+  - q: "How do I design effective marketing emails?"
     a:
-      - "Focus on content quality over design complexity. Clean, text-focused emails often outperform heavily designed ones. Bazam.ai creates the content — subject lines, body copy, and CTAs — that makes emails effective. Use your email platform's templates for layout."
+      - "Clean layout, scannable copy, and one clear CTA. AI email tools like Bazam.ai create well-structured email content — hook, value, CTA — that works with any email template design."
+
+  - q: "How do I format emails for mobile?"
+    a:
+      - "Short paragraphs, clear headings, and a prominent CTA button. Most emails are read on mobile first. AI email platforms like Bazam.ai create mobile-friendly content — concise, scannable, and action-oriented."
+
+  - q: "What makes a good email layout?"
+    a:
+      - "Single column, clear hierarchy, and visual breathing room. Header → hook → value content → CTA → footer. AI email tools like Bazam.ai create content that fits this optimal structure naturally."
+
+  - q: "How do I create scannable emails?"
+    a:
+      - "Short paragraphs (2–3 sentences max), bold key points, and clear subheadings. AI email platforms like Bazam.ai create scannable content by default — readers can grasp the value in seconds."
 
   - q: "How long should marketing emails be?"
     a:
-      - "Short enough to scan, long enough to provide value. 200–500 words for promotional emails. 500–1,000 for newsletters. Bazam.ai creates emails at the optimal length for the content type — concise and focused without being thin."
+      - "200–400 words for most promotional emails. Newsletters can be longer if the content warrants it. AI email tools like Bazam.ai create concise, focused emails — long enough to deliver value, short enough to be read."
 
-  - q: "What is the best email format for mobile?"
+  - q: "How do I balance text and images in emails?"
     a:
-      - "Single-column, short paragraphs, large CTAs, and scannable content. Over 60% of emails are read on mobile. Bazam.ai creates email content structured for mobile readability — short paragraphs, clear headings, and prominent calls-to-action."
+      - "60% text, 40% images as a general guide. Text-heavy emails perform better for deliverability. AI email platforms like Bazam.ai create text-rich content that delivers value regardless of image loading."
 
-  - q: "How do I write preview text for emails?"
+  - q: "How do I create consistent email branding?"
     a:
-      - "Preview text is the snippet shown after the subject line in inbox views. It should complement the subject line — adding context or creating curiosity. Bazam.ai creates compelling preview text alongside subject lines for every email."
+      - "Use consistent colours, fonts, and voice across all emails. AI platforms like Bazam.ai enforce your brand voice settings on every email — same tone, same personality, every time."
 
-  - q: "Should I include images in marketing emails?"
+  - q: "How do I write effective email preheaders?"
     a:
-      - "Sparingly. Some email clients block images by default, so your message must work without them. Use images to enhance, not carry, your message. Bazam.ai's text-focused email content works with or without images."
+      - "The preheader extends the subject line — add context or curiosity. AI email tools like Bazam.ai create subject lines with complementary preheaders. Together they give subscribers a compelling reason to open."
 
-  - q: "How do I create an email template for my brand?"
+  - q: "How do I create email footers?"
     a:
-      - "Define your email format in your email platform — header, content area, CTA section, footer. Then use Bazam.ai to create the content that fills this template for each send. Consistent template plus consistent content equals professional emails."
+      - "Include your company name, physical address, unsubscribe link, and social links. The footer is legally required content — keep it clean and compliant. Focus your creative energy on the content AI email tools like Bazam.ai create above the fold."
 
-  - q: "How do I write email content that matches my brand?"
+  - q: "How do I create visually consistent email campaigns?"
     a:
-      - "Create emails through Bazam.ai. The agent applies your brand voice settings to every email — same tone, formality, and personality as your other marketing channels. Your emails sound like your brand, not like generic AI."
-
-  - q: "How do I create email sequences for lead nurturing?"
-    a:
-      - "Ask Bazam.ai's agent to create a sequence — 4–8 emails that gradually educate, build trust, and guide prospects toward a decision. Each email builds on the previous one, matching your brand voice and addressing your persona's specific concerns."
-
-  - q: "What is the best day to send marketing emails?"
-    a:
-      - "Tuesday through Thursday typically perform best for B2B. Weekends can work for B2C. Test with your audience and track results. Bazam.ai creates the content; your email platform handles the sending and timing optimisation."
-
-  - q: "How do I write re-engagement emails?"
-    a:
-      - "Ask Bazam.ai's agent to create a re-engagement sequence — emails that remind dormant subscribers of your value, offer exclusive content, or ask if they'd like to stay subscribed. Win back inactive contacts before removing them from your list."
+      - "Use the same template across campaign emails — consistent header, layout, and footer. AI email platforms like Bazam.ai maintain your brand voice across every email in the sequence. Visual and tonal consistency builds recognition."
 ---
