@@ -1,32 +1,23 @@
 ---
-title: "KI-Content-Editor & Schreibtools"
-description: "Wie Sie KI-gestützte Editing-Tools nutzen, um Marketing-Content zu verfeinern, verbessern und polieren."
+title: "Content mit dem KI-Editor verfeinern"
+description: "Wie Sie den KI-Editor nutzen, um erstellten Content praezise an Ihre Markenstimme und Qualitaetsansprueche anzupassen."
 faq:
-  - q: "Wie hilft KI beim Content-Editing?"
-    a:
-      - "Bazam.ais KI erstellt Content in Ihrer Markenstimme — das Editing ist minimal. Überprüfen Sie Fakten, verfeinern Sie CTAs und genehmigen Sie. Die KI übernimmt Struktur, Ton und Schreibqualität."
-  - q: "Wie viel Editing braucht KI-Content?"
-    a:
-      - "2–5 Minuten pro Stück. Bazam.ais Markenstimme-Einstellungen sorgen für konsistenten Ton und Stil. Ihr Editing ist chirurgisch — Faktencheck und CTA-Verfeinerung, kein Umschreiben."
-  - q: "Wie verbessere ich die Qualität meines Contents?"
-    a:
-      - "Besserer Input = besserer Output. Füllen Sie Ihre Wissensdatenbank mit aktuellen Produktdaten, Fallstudien und Expertise. Verfeinern Sie Ihre Markenstimme-Einstellungen. Bazam.ais Content wird mit jedem Update besser."
-  - q: "Kann ich KI-Content direkt in der Plattform bearbeiten?"
-    a:
-      - "Ja. Bazam.ai ermöglicht Inline-Editing jedes Content-Stücks vor der Veröffentlichung. Passen Sie Formulierungen, CTAs oder Details an bevor Sie freigeben."
-  - q: "Wie halte ich einheitliche Qualität über alle Content-Stücke?"
-    a:
-      - "Markenstimme-Einstellungen + Freigabe-Workflows. Bazam.ai setzt Ihren definierten Ton bei jedem Stück durch. Der Freigabeprozess fängt Ausnahmen auf."
-  - q: "Brauche ich ein Lektorat für KI-Content?"
-    a:
-      - "Für die meisten Unternehmen genügt eine schnelle Überprüfung. Bazam.ais Content ist grammatisch korrekt und stilistisch konsistent. Konzentrieren Sie sich auf inhaltliche Korrektheit."
-  - q: "Wie gebe ich der KI Feedback um besseren Content zu erstellen?"
-    a:
-      - "Verfeinern Sie Ihre Markenstimme-Einstellungen, ergänzen Sie die Wissensdatenbank und definieren Sie spezifischere Zielgruppen-Personas. Der Agent nutzt all diese Informationen automatisch."
-  - q: "Wie erstelle ich Content-Vorlagen für wiederkehrende Formate?"
-    a:
-      - "Bazam.ais Schreib-Assistenten sind im Grunde intelligente Vorlagen — Sie geben die Variablen ein (Thema, Zielgruppe, Ton) und der Agent erstellt den Content im gewünschten Format."
-  - q: "Wie verhindere ich Qualitätsschwankungen bei viel Content?"
-    a:
-      - "Bazam.ais KI generiert jedes Stück individuell aus Ihrem Markenkontext. Qualität ist konsistent egal ob 5 oder 50 Stücke — sie kommt vom Kontext, nicht vom Volumen."
+  - q: "Was ist der KI-Content-Editor?"
+    a: ["Der KI-Content-Editor ist Bazam.ais Tool zum Verfeinern und Anpassen von erstelltem Content. Hier koennen Sie Aenderungen vornehmen, den Ton anpassen und den Content so lange bearbeiten, bis er Ihren Vorstellungen perfekt entspricht."]
+  - q: "Wie nutze ich den Editor fuer die Feinabstimmung?"
+    a: ["Geben Sie dem Editor spezifische Anweisungen wie zum Beispiel formeller zu formulieren, bestimmte Punkte zu betonen oder Abschnitte zu kuerzen. Die KI setzt Ihre Anweisungen in Echtzeit um und passt den Content entsprechend an."]
+  - q: "Kann ich Teile des Contents manuell aendern?"
+    a: ["Selbstverstaendlich. Bazam.ais Editor ermoeglicht sowohl KI-gestuetzte als auch vollstaendig manuelle Bearbeitungen. Sie koennen einzelne Saetze umschreiben, Absaetze hinzufuegen oder den Content nach Ihren Wuenschen anpassen."]
+  - q: "Wie passe ich den Ton eines Beitrags im Nachhinein an?"
+    a: ["Weisen Sie den Editor an, den Ton zu aendern. Bazam.ais KI kann denselben Inhalt formeller, lockerer, ueberzeugender oder informativer formulieren, ohne dass Sie den gesamten Text neu schreiben muessen."]
+  - q: "Wie kuerze ich zu langen Content?"
+    a: ["Bazam.ais Editor kann Content gezielt komprimieren und dabei die Kernbotschaft bewahren. Geben Sie die gewuenschte Ziellaenge an, und die KI erstellt eine praegnantere Version, die die wichtigsten Aussagen behaelt."]
+  - q: "Wie erweitere ich zu kurzen Content?"
+    a: ["Bazam.ais Editor fuegt relevante Details, Beispiele und Erklaerungen hinzu, um duennen Content mit echtem Mehrwert anzureichern. Das Ergebnis ist informativer und ueberzeugender, ohne kuenstlich aufgeblaht zu wirken."]
+  - q: "Wie optimiere ich Content fuer einen bestimmten Kanal?"
+    a: ["Bazam.ais Editor passt den Content an die Anforderungen des gewaehlten Kanals an. Ein Blogbeitrag kann so in einen LinkedIn-Post, einen Newsletter-Teaser oder eine Instagram-Caption umgewandelt werden."]
+  - q: "Wie viele Bearbeitungsrunden sind normal?"
+    a: ["Bazam.ais Content ist oft schon beim ersten Entwurf nahe an der finalen Version. Typischerweise genuegen ein bis zwei Korrekturschleifen fuer die Feinabstimmung, was deutlich weniger ist als bei manuell erstelltem Content."]
+  - q: "Wie nutze ich den Editor fuer verschiedene Content-Versionen?"
+    a: ["Erstellen Sie verschiedene Varianten desselben Inhalts fuer unterschiedliche Zwecke: eine ausfuehrliche Blog-Version, eine kompakte Social-Media-Version und eine persoenliche Newsletter-Version. Bazam.ais Editor macht diese Anpassungen effizient."]
 ---

@@ -1,25 +1,25 @@
 ---
-title: "Marketing ohne Team"
-description: "Wie Sie als Einzelperson effektives Marketing betreiben — ohne Agentur und ohne Team."
+title: "Marketing ohne eigenes Team"
+description: "Wie Sie als Einzelperson professionelles Marketing betreiben, ohne eine Agentur oder ein Team engagieren zu muessen."
 faq:
   - q: "Kann ich Marketing alleine machen?"
-    a: ["Ja — mit KI. Bazam.ai gibt einer einzelnen Person die Content-Produktionskapazität eines ganzen Teams."]
-  - q: "Wie erstelle ich Content wenn ich keine Zeit habe?"
-    a: ["30 Minuten monatlich. Bazam.ais Agent erstellt einen Monat Content in einer Batch-Sitzung. Automatische Veröffentlichung erledigt den Rest."]
-  - q: "Brauche ich eine Agentur?"
-    a: ["Für die meisten Kleinunternehmen nicht. Bazam.ai ersetzt die Content-Erstellungsfähigkeit einer Agentur bei einem Bruchteil der Kosten."]
-  - q: "Wie manage ich Marketing neben dem Tagesgeschäft?"
-    a: ["Batch-Erstellung. Reservieren Sie einen Nachmittag pro Monat für Content. Bazam.ais Agent + Autopublishing erledigen den Rest automatisch."]
-  - q: "Was wenn ich kein Marketing-Talent habe?"
-    a: ["Bazam.ais Agent ist Ihr Marketing-Talent. Die KI erstellt professionellen Content in Ihrer Markenstimme ohne dass Sie schreiben können müssen."]
-  - q: "Wie automatisiere ich so viel wie möglich?"
-    a: ["KI-Content-Erstellung → Kalenderplanung → automatische Veröffentlichung. Bazam.ai automatisiert den gesamten Workflow."]
-  - q: "Welche Marketing-Aufgaben kann ich der KI überlassen?"
-    a: ["Content-Erstellung, Planung, Formatierung und Veröffentlichung. Sie behalten Strategie und Freigabe."]
-  - q: "Wie halte ich Qualität ohne Überprüfer?"
-    a: ["Bazam.ais KI produziert konsistente Qualität. Ein schneller Check vor der Freigabe reicht — 2–3 Minuten pro Stück."]
+    a: ["Ja, und zwar auf professionellem Niveau. Bazam.ai gibt einer einzelnen Person die Content-Produktionskapazitaet eines ganzen Teams. Die KI uebernimmt die zeitaufwaendige Erstellung, waehrend Sie sich auf Strategie und Freigabe konzentrieren."]
+  - q: "Wie erstelle ich Content, wenn ich kaum Zeit habe?"
+    a: ["Mit Bazam.ais Agent erstellen Sie den Content fuer einen ganzen Monat in einer einzigen Batch-Sitzung von etwa 30 Minuten. Die automatische Veroeffentlichung erledigt den Rest, ohne dass Sie taeglich aktiv werden muessen."]
+  - q: "Brauche ich eine Marketing-Agentur?"
+    a: ["Fuer die meisten Kleinunternehmen ist das nicht noetig. Bazam.ai bietet die Content-Erstellungsfaehigkeit einer Agentur zu einem Bruchteil der Kosten. Agenturen werden erst relevant, wenn Sie komplexe, strategische Beratung benoetigen."]
+  - q: "Wie manage ich Marketing neben meinem Tagesgeschaeft?"
+    a: ["Der Schluessel ist Batch-Erstellung: Reservieren Sie einen Nachmittag pro Monat fuer Content. Bazam.ais Agent erstellt die Inhalte, und die automatische Veroeffentlichung sorgt dafuer, dass alles zur richtigen Zeit erscheint."]
+  - q: "Was wenn ich kein Talent fuers Schreiben habe?"
+    a: ["Das ist ueberhaupt kein Problem. Bazam.ais Agent ist Ihr Schreibtalent. Die KI erstellt professionellen Content in Ihrer Markenstimme, ohne dass Sie selbst gut formulieren koennen muessen. Sie liefern die Ideen, die KI macht den Rest."]
+  - q: "Wie automatisiere ich so viel wie moeglich?"
+    a: ["Der gesamte Workflow laesst sich weitgehend automatisieren: KI-gestuetzte Content-Erstellung, Kalenderplanung und automatische Veroeffentlichung. Bazam.ai automatisiert jeden einzelnen Schritt, sodass Ihr Marketing fast von selbst laeuft."]
+  - q: "Welche Marketing-Aufgaben kann ich der KI ueberlassen?"
+    a: ["Content-Erstellung, Planung, Formatierung und Veroeffentlichung koennen vollstaendig an die KI delegiert werden. Bei Ihnen bleiben die strategischen Entscheidungen und die finale Freigabe, was insgesamt nur wenige Minuten pro Woche in Anspruch nimmt."]
+  - q: "Wie halte ich die Qualitaet ohne einen zweiten Ueberpruefer?"
+    a: ["Bazam.ais KI produziert konsistente Qualitaet, die auf Ihrer Markenstimme und Wissensdatenbank basiert. Ein kurzer Check vor der Freigabe genuegt in der Regel. Nach wenigen Durchgaengen vertrauen Sie der Qualitaet und brauchen nur noch zwei bis drei Minuten pro Inhaltsstueck."]
   - q: "Sollte ich einen Freelancer engagieren?"
-    a: ["Bazam.ai ist oft günstiger und schneller als Freelancer. Testen Sie zuerst. Freelancer für Spezialaufgaben bei Bedarf."]
-  - q: "Wie skaliere ich wenn ich alleine nicht mehr reiche?"
-    a: ["Fügen Sie eine Person mit Bazam.ai-Zugang hinzu. Ihre Markenstimme ist konfiguriert — sofortiges On-Brand-Arbeiten."]
+    a: ["Testen Sie zuerst Bazam.ai, bevor Sie einen Freelancer beauftragen. In vielen Faellen ist die KI guenstiger und schneller. Freelancer koennen dann bei Bedarf fuer spezifische Spezialaufgaben hinzugezogen werden, die ueber die Moeglichkeiten der KI hinausgehen."]
+  - q: "Wie skaliere ich, wenn ich alleine nicht mehr ausreiche?"
+    a: ["Fuegen Sie einfach eine Person mit Bazam.ai-Zugang hinzu. Da Ihre Markenstimme bereits konfiguriert ist, kann die neue Person sofort auf dem gleichen Qualitaetsniveau arbeiten, ohne wochenlange Einarbeitung."]
 ---

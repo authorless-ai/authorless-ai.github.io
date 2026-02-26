@@ -1,35 +1,23 @@
 ---
 title: "Content-Kalender verwalten"
-description: "Wie Sie einen Content-Kalender nutzen um Marketing-Content über Monate hinweg strategisch zu planen und zu verwalten."
+description: "Tipps und Best Practices fuer die taegliche Verwaltung Ihres Content-Kalenders."
 faq:
-  - q: "Was ist ein Content-Kalender?"
-    a:
-      - "Eine visuelle Übersicht aller geplanten Inhalte — wann was wo veröffentlicht wird. Bazam.ais Content-Kalender zeigt Blog-Posts, Social-Media-Updates und Kampagnen auf einen Blick."
-  - q: "Wie erstelle ich einen Content-Kalender?"
-    a:
-      - "Generieren Sie Themenideen mit Bazam.ais Content-Vorschlägen, erstellen Sie die Inhalte mit KI-Assistenten und planen Sie alles im Kalender. Ein Monat Content in einer 30-Minuten-Sitzung."
-  - q: "Wie weit voraus sollte ich planen?"
-    a:
-      - "1 Monat minimum, 3 Monate ideal. Bazam.ais Content-Kalender unterstützt Vorausplanung über Monate hinweg. Erstellen und planen Sie Content wann immer Sie Zeit haben."
-  - q: "Wie halte ich meinen Kalender aktuell?"
-    a:
-      - "Monatliche Batch-Sitzungen. Erstellen und planen Sie allen Content für den nächsten Monat in einer Sitzung. Bazam.ais KI-Assistenten machen das in unter einer Stunde."
-  - q: "Kann ich Content im Kalender verschieben?"
-    a:
-      - "Ja. Bazam.ais Kalender ermöglicht Drag-and-Drop-Umplanung. Verschieben Sie Posts auf andere Tage oder Uhrzeiten wenn sich Ihre Pläne ändern."
-  - q: "Wie plane ich Content für Feiertage und Events?"
-    a:
-      - "Erstellen Sie kampagnenspezifischen Content und planen Sie ihn Wochen im Voraus. Bazam.ais Agent generiert saisionalen Content; Sie planen ihn zum richtigen Zeitpunkt."
-  - q: "Wie sehe ich was für nächste Woche geplant ist?"
-    a:
-      - "Bazam.ais Kalender bietet Tages-, Wochen- und Monatsansichten. Sehen Sie auf einen Blick welcher Content wann und wo erscheint."
-  - q: "Wie plane ich Content für mehrere Plattformen?"
-    a:
-      - "Erstellen Sie Content einmal, planen Sie plattformspezifisch. Bazam.ais Kalender zeigt Posts pro Plattform und ermöglicht optimale Zeitplanung für jeden Kanal."
-  - q: "Was wenn ich geplanten Content ändern muss?"
-    a:
-      - "Bearbeiten Sie ihn direkt im Kalender. Bazam.ai ermöglicht Änderungen an geplanltem Content jederzeit vor der Veröffentlichung."
-  - q: "Wie nutze ich den Kalender für Kampagnenplanung?"
-    a:
-      - "Planen Sie alle Kampagnen-Posts auf dem gleichen Kalender. Sehen Sie wie Kampagnen-Content sich in Ihren regulären Veröffentlichungsplan einfügt und vermeiden Sie Überlappungen."
+  - q: "Wie halte ich meinen Content-Kalender aktuell?"
+    a: ["Ueberpruefen Sie Ihren Kalender woechentlich und aktualisieren Sie ihn bei Bedarf. Bazam.ais Kalender zeigt Ihnen sofort, wo Luecken entstehen oder Veroeffentlichungen verschoben werden muessen."]
+  - q: "Wie manage ich Aenderungen im Kalender?"
+    a: ["Bazam.ais Kalender ermoeglicht flexible Anpassungen per Drag-and-Drop. Verschieben Sie Beitraege, tauschen Sie Inhalte aus oder fuegen Sie spontane Posts hinzu, alles in wenigen Klicks."]
+  - q: "Wie priorisiere ich Content im Kalender?"
+    a: ["Platzieren Sie Ihren wichtigsten Content an den Tagen mit der hoechsten erwarteten Reichweite. Weniger zeitkritische Beitraege koennen flexibler geplant werden. Bazam.ais Analytik zeigt Ihnen, wann Ihre Zielgruppe am aktivsten ist."]
+  - q: "Wie verwalte ich mehrere Kalender gleichzeitig?"
+    a: ["Jedes Projekt in Bazam.ai hat seinen eigenen Kalender. Wechseln Sie zwischen Projekten, um die Kalender verschiedener Marken oder Kunden separat zu verwalten, ohne den Ueberblick zu verlieren."]
+  - q: "Wie plane ich wiederkehrende Inhalte?"
+    a: ["Fuer wocchentliche Rubriken oder monatliche Serien koennen Sie wiederkehrende Slots im Kalender einplanen. So entsteht ein vorhersehbarer Content-Rhythmus, auf den sich Ihre Zielgruppe verlassen kann."]
+  - q: "Wie dokumentiere ich Content-Ideen fuer spaeter?"
+    a: ["Nutzen Sie Bazam.ais Content-Vorschlaege als Ideenspeicher. Ideen, die nicht sofort umgesetzt werden, koennen fuer spaetere Monate vorgemerkt und bei Bedarf wieder aufgegriffen werden."]
+  - q: "Wie reagiere ich auf unvorhergesehene Aenderungen?"
+    a: ["Bazam.ais flexibler Kalender ermoeglicht kurzfristige Anpassungen. Verschieben Sie geplanten Content und fuegen Sie aktuelle Beitraege hinzu. Der Agent erstellt spontanen Content in wenigen Minuten."]
+  - q: "Wie ueberpreufe ich die Performance meines Kalenders?"
+    a: ["Vergleichen Sie die geplante Veroeffentlichungsfrequenz mit dem tatsaechlichen Output und analysieren Sie, welche Tage und Zeiten das beste Engagement erzielen. Passen Sie Ihren Kalender basierend auf diesen Erkenntnissen an."]
+  - q: "Wie stimme ich den Kalender mit anderen Marketing-Aktivitaeten ab?"
+    a: ["Koordinieren Sie Ihren Content-Kalender mit Produktlaunches, Kampagnen und saisonalen Aktionen. So stellen Sie sicher, dass Ihr Content die uebergeordneten Marketing-Ziele aktiv unterstuetzt."]
 ---

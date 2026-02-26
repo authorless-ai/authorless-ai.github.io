@@ -1,35 +1,25 @@
 ---
-title: "Batch-Planung & Veröffentlichung"
-description: "Wie Sie Content gebündelt über Plattformen planen und eine konsistente Veröffentlichungskadenz ohne täglichen Aufwand aufrechterhalten."
+title: "Batch-Planung und Veroeffentlichung"
+description: "Wie Sie mit Batch-Planung effizient grosse Mengen Content auf einmal erstellen und zur Veroeffentlichung planen."
 faq:
-  - q: "Was ist Batch-Veröffentlichung?"
-    a:
-      - "Alle Inhalte einer Periode in einer Sitzung erstellen und planen, statt täglich. Bazam.ais KI-Assistenten + Kalender machen Batch-Veröffentlichung zum effizienten Standard-Workflow."
-  - q: "Wie plane ich einen Monat Content in einer Sitzung?"
-    a:
-      - "Themen aus Bazam.ais Vorschlägen → Content mit KI-Assistenten erstellen → im Kalender planen → automatische Veröffentlichung aktivieren. 30–60 Minuten für einen ganzen Monat."
-  - q: "Wie veröffentliche ich auf mehreren Plattformen gleichzeitig?"
-    a:
-      - "Erstellen Sie Content einmal in Bazam.ai und planen Sie ihn für jede Plattform separat. Der Agent passt den Content automatisch an — Instagram, LinkedIn, X, Facebook, TikTok."
-  - q: "Wie halte ich eine konsistente Veröffentlichungskadenz?"
-    a:
-      - "Batch-Erstellung + Vorausplanung + automatische Veröffentlichung. Bazam.ai eliminiert die tägliche Last und macht Konsistenz nachhaltig."
-  - q: "Was ist der Vorteil von Batch-Planung?"
-    a:
-      - "Zeitersparnis durch fokussiertes Arbeiten, strategischere Planung durch Gesamtübersicht und weniger Stress durch vorproduzierten Content. Bazam.ai macht Batching trivial einfach."
-  - q: "Wie manage ich Batch-Planung mit einem kleinen Team?"
-    a:
-      - "Eine Person erstellt Content in einer monatlichen Sitzung mit Bazam.ai. Eine andere genehmigt. Automatische Veröffentlichung erledigt den Rest. Zwei Personen genügen."
-  - q: "Kann ich gebündelten Content noch ändern nach der Planung?"
-    a:
-      - "Ja. Bazam.ais Kalender erlaubt jederzeit Änderungen an geplanten Posts — bearbeiten, verschieben oder löschen. Volle Flexibilität nach der Batch-Erstellung."
-  - q: "Wie erhalte ich den Überblick bei vielen geplanten Posts?"
-    a:
-      - "Bazam.ais visuelle Kalenderansicht zeigt alle geplanten Posts chronologisch. Filtern Sie nach Plattform, Kampagne oder Status für Detailansichten."
-  - q: "Wie plane ich wiederholende Content-Typen?"
-    a:
-      - "Erstellen Sie regelmäßige Content-Serien in Batch-Sitzungen. Bazam.ais Agent erstellt Variationen zu einem Thema — jede Woche ein neuer Blickwinkel, alle gleichzeitig erstellt und geplant."
-  - q: "Was ist der effizienteste Batch-Planungs-Rhythmus?"
-    a:
-      - "Monatlich für die meisten Unternehmen. Eine 30–60-Minuten-Sitzung pro Monat erstellt und plant Ihren gesamten Content. Quartalsweise für strategische Planung."
+  - q: "Was ist Batch-Planung?"
+    a: ["Batch-Planung bedeutet, den Content fuer mehrere Wochen oder einen ganzen Monat in einer einzigen Sitzung zu erstellen und zu planen. Bazam.ais Agent macht diesen Ansatz besonders effizient, da die KI den Content in wenigen Minuten produziert."]
+  - q: "Wie erstelle ich Content im Batch-Verfahren?"
+    a: ["Definieren Sie Ihre Themen fuer den kommenden Monat, lassen Sie Bazam.ais Agent alle Beitraege in einer Sitzung erstellen, ueberpruefen Sie die Ergebnisse und planen Sie alles im Kalender ein. Der gesamte Prozess dauert typischerweise nur 30 bis 60 Minuten."]
+  - q: "Wie viel Content kann ich in einer Batch-Sitzung erstellen?"
+    a: ["Mit Bazam.ais Agent koennen Sie in einer einzelnen Sitzung problemlos 20 bis 40 Social-Media-Posts oder vier bis acht Blogbeitraege erstellen. Das entspricht dem Content fuer einen ganzen Monat bei den meisten Unternehmen."]
+  - q: "Wie plane ich Batch-Content im Kalender?"
+    a: ["Bazam.ais Kalender ermoeglicht es Ihnen, den erstellten Content per Drag-and-Drop auf die gewuenschten Tage und Zeiten zu verteilen. So haben Sie den gesamten Monat auf einen Blick und koennen die Veroeffentlichung optimal staffeln."]
+  - q: "Wie oft sollte ich Batch-Sitzungen durchfuehren?"
+    a: ["Eine monatliche Batch-Sitzung ist fuer die meisten Unternehmen ideal. Manche bevorzugen auch zweiwoeochentliche Sitzungen. Der entscheidende Vorteil ist, dass Sie die Content-Erstellung von der taeglichen Veroeffentlichung entkoppeln."]
+  - q: "Wie halte ich Flexibilitaet bei der Batch-Planung?"
+    a: ["Planen Sie etwa 80 Prozent Ihres Contents im Voraus und lassen Sie 20 Prozent Freiraum fuer spontane, aktuelle Beitraege. Bazam.ais Agent erstellt auch spontanen Content in wenigen Minuten, wenn aktuelle Anlaesse es erfordern."]
+  - q: "Wie kombiniere ich Batch-Erstellung mit automatischer Veroeffentlichung?"
+    a: ["Diese Kombination ist aeusserst wirkungsvoll: Sie erstellen den Content in einer Batch-Sitzung, planen alles im Kalender ein und aktivieren das Autopublishing. Ab diesem Zeitpunkt laeuft Ihr Content-Marketing praktisch von selbst."]
+  - q: "Wie optimiere ich meine Batch-Sitzungen?"
+    a: ["Bereiten Sie Ihre Themen und Keywords im Voraus vor, damit Sie in der Batch-Sitzung nur noch die Erstellung und Ueberpreuefung durchfuehren muessen. Mit der Zeit werden Sie ein Gefuehl dafuer entwickeln und immer effizienter."]
+  - q: "Ist Batch-Planung auch fuer kleine Unternehmen geeignet?"
+    a: ["Gerade fuer kleine Unternehmen ist Batch-Planung ideal, da sie den Zeitaufwand fuer Marketing auf ein Minimum reduziert. Statt sich taeglich mit Content zu beschaeftigen, blocken Sie einmal im Monat eine halbe Stunde dafuer."]
+  - q: "Wie vermeide ich bei Batch-Content Monotonie?"
+    a: ["Variieren Sie die Content-Typen innerhalb Ihrer Batch-Sitzung: Mischen Sie informative Beitraege, persoenliche Einblicke, interaktive Posts und Praxistipps. Bazam.ais Content-Vorschlaege helfen Ihnen, einen abwechslungsreichen Mix zusammenzustellen."]
 ---

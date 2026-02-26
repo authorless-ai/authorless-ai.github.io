@@ -1,23 +1,23 @@
 ---
-title: "Social Media für Unternehmen"
-description: "Wie Unternehmen Social Media strategisch für Wachstum, Kundenbindung und Markenaufbau nutzen."
+title: "Social Media fuer Unternehmen"
+description: "Wie Unternehmen aller Groessen Social Media strategisch fuer Wachstum, Kundenbindung und Markenaufbau einsetzen."
 faq:
   - q: "Braucht mein Unternehmen Social Media?"
-    a: ["Ja. 80 % der Käufer recherchieren online vor dem Kauf. Bazam.ai macht professionelle Social-Präsenz effizient und erschwinglich."]
+    a: ["In der heutigen Zeit ist Social Media fuer Unternehmen praktisch unverzichtbar. Rund 80 Prozent der Kaeunfer recherchieren online, bevor sie eine Kaufentscheidung treffen. Bazam.ai macht eine professionelle Social-Media-Praesenz effizient und erschwinglich."]
   - q: "Welche Plattformen braucht mein Unternehmen?"
-    a: ["Wo Ihre Zielgruppe aktiv ist. B2B: LinkedIn. B2C: Instagram/TikTok. Lokal: Facebook. Bazam.ai veröffentlicht auf allen."]
-  - q: "Wie starte ich mit Social Media für mein Unternehmen?"
-    a: ["Profil erstellen, Markenstimme in Bazam.ai definieren, ersten Content erstellen und regelmäßig veröffentlichen."]
-  - q: "Wie nutze ich Social Media für Kundenservice?"
-    a: ["Schnelle, professionelle Antworten auf Fragen und Beschwerden. Bazam.ais Agent kann Antwortvorschläge erstellen."]
-  - q: "Wie generiere ich Leads über Social Media?"
-    a: ["Wertvoller Content → Newsletter-Anmeldung → Lead-Nurturing. Bazam.ais Content-Funnel führt Follower zum nächsten Schritt."]
-  - q: "Wie messe ich Social-Media-ROI?"
-    a: ["Engagement → Website-Traffic → Leads → Kunden. Bazam.ais Analytik + Website-Analytics + CRM zeigen den ROI."]
+    a: ["Das haengt von Ihrer Zielgruppe ab: Fuer B2B ist LinkedIn die erste Wahl, fuer B2C eignen sich Instagram und TikTok hervorragend, und fuer lokale Unternehmen ist Facebook besonders effektiv. Bazam.ai veroeffentlicht auf allen dieser Plattformen."]
+  - q: "Wie starte ich mit Social Media fuer mein Unternehmen?"
+    a: ["Erstellen Sie zunaechst Ihre Profile auf den relevanten Plattformen, definieren Sie dann Ihre Markenstimme in Bazam.ai und beginnen Sie mit der regelmaessigen Veroeffentlichung. Der Agent erstellt den Content, sodass Sie schnell starten koennen."]
+  - q: "Wie nutze ich Social Media fuer den Kundenservice?"
+    a: ["Reagieren Sie schnell und professionell auf Fragen und Beschwerden ueber Social Media. Das demonstriert Erreichbarkeit und Kundennaehe. Bazam.ais Agent kann bei Bedarf professionelle Antwortvorschlaege erstellen."]
+  - q: "Wie generiere ich Leads ueber Social Media?"
+    a: ["Bauen Sie mit wertvollem Content Vertrauen auf, bieten Sie dann einen kostenlosen Mehrwert im Austausch fuer die E-Mail-Adresse an und pflegen Sie den Kontakt ueber Ihren Newsletter. Bazam.ais Content-Strategie fuehrt Follower systematisch zum naechsten Schritt."]
+  - q: "Wie messe ich den Social-Media-ROI?"
+    a: ["Verfolgen Sie die Kette vom Social-Media-Engagement ueber Website-Traffic und Leads bis zu tatsaechlichen Kunden. Bazam.ais Analytik liefert die Engagement-Daten, die Sie mit Ihren Website-Analytics und CRM-Daten kombinieren koennen."]
   - q: "Wie integriere ich Social Media in meine Gesamtstrategie?"
-    a: ["Social Media als Amplifier für Blog-Content und als Community-Kanal. Bazam.ai koordiniert alle Kanäle."]
-  - q: "Wie viel Budget brauche ich für Social Media?"
-    a: ["Organischer Content: Bazam.ai-Abo + Ihre Zeit. Bezahlte Werbung: optional, ab 100 €/Monat sinnvoll."]
-  - q: "Wie halte ich Social-Präsenz langfristig aufrecht?"
-    a: ["Batch-Erstellung + Autopublishing. Bazam.ai macht konsistente Präsenz nachhaltig selbst bei begrenzten Ressourcen."]
+    a: ["Nutzen Sie Social Media als Verstaerker fuer Ihren Blog-Content und als direkten Kanal zur Interaktion mit Ihrer Community. Bazam.ai koordiniert die Content-Erstellung und Veroeffentlichung ueber alle Kanaele hinweg."]
+  - q: "Wie viel Budget brauche ich fuer Social Media?"
+    a: ["Fuer organischen Content benoetigen Sie lediglich ein Bazam.ai-Abo plus Ihre eigene Ueberpruefungszeit. Bezahlte Werbung ist optional und wird ab einem Budget von etwa 100 Euro pro Monat sinnvoll, ist aber fuer den Start nicht noetig."]
+  - q: "Wie halte ich eine Social-Media-Praesenz langfristig aufrecht?"
+    a: ["Batch-Erstellung kombiniert mit automatischer Veroeffentlichung macht eine konsistente Praesenz dauerhaft nachhaltig, selbst wenn Ihre Personalressourcen begrenzt sind. Bazam.ai sorgt dafuer, dass Ihre Kanaele nie verwaisen."]
 ---

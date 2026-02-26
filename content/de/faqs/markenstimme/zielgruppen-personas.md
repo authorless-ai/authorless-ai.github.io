@@ -1,32 +1,23 @@
 ---
-title: "Zielgruppen-Personas & Targeting"
-description: "Wie Sie Zielgruppen-Personas definieren und sie nutzen, um gezielten, relevanten Marketing-Content zu erstellen."
+title: "Zielgruppen-Personas erstellen und nutzen"
+description: "Wie Sie detaillierte Zielgruppen-Personas erstellen und damit zielgerichteteren Content produzieren."
 faq:
   - q: "Was sind Zielgruppen-Personas?"
-    a:
-      - "Detaillierte Profile Ihrer idealen Kunden — Demografie, Motivationen, Schmerzpunkte und Kaufverhalten. Bazam.ai nutzt Ihre Personas um Content zu erstellen, der diese spezifischen Menschen anspricht."
-  - q: "Wie erstelle ich Zielgruppen-Personas?"
-    a:
-      - "Definieren Sie in Bazam.ai: Altersgruppe, Beruf, Interessen, Herausforderungen und Kaufmotivation. Die Markenanalyse hilft dabei, Personas aus Ihren bestehenden Informationen zu extrahieren."
+    a: ["Zielgruppen-Personas sind detaillierte Profile Ihrer idealen Kunden, die demografische Merkmale, Beduerfnisse, Herausforderungen und Kommunikationspraeferenzen beschreiben. Bazam.ais Agent nutzt diese Personas, um Content zu erstellen, der Ihre Zielgruppe gezielt anspricht."]
+  - q: "Wie erstelle ich effektive Personas?"
+    a: ["Bazam.ais Persona-Funktion fuehrt Sie durch den Erstellungsprozess. Definieren Sie die wichtigsten Eigenschaften Ihrer Zielgruppe: Alter, Beruf, Herausforderungen, Ziele und bevorzugte Kommunikationsweise. Je detaillierter die Persona, desto zielgenauer der Content."]
   - q: "Wie viele Personas brauche ich?"
-    a:
-      - "2–4 für die meisten Unternehmen. Bazam.ai unterstützt mehrere Personas pro Projekt. Jeder Content wird für die spezifische Persona erstellt, die Sie ansprechen möchten."
-  - q: "Wie nutze ich Personas für Content-Erstellung?"
-    a:
-      - "Wählen Sie die Ziel-Persona bei der Content-Erstellung. Bazam.ais Agent passt Ton, Thema und Argumentation an die Persona an — gleiche Marke, unterschiedliche Ansprache pro Zielgruppe."
-  - q: "Wie oft sollte ich Personas aktualisieren?"
-    a:
-      - "Quartalsweise oder wenn sich Ihre Zielgruppe verändert. Verwenden Sie Engagement-Daten aus Bazam.ais Analytik um zu sehen, welche Personas am besten reagieren."
-  - q: "Können Personas meinen Content wirklich verbessern?"
-    a:
-      - "Ja — Content für eine spezifische Person ist immer besser als Content für alle. Bazam.ais KI nutzt Persona-Daten um spezifische Schmerzpunkte, Sprache und Motivationen einzubauen."
-  - q: "Wie definiere ich B2B-Personas?"
-    a:
-      - "Fokussieren Sie auf Jobfunktion, Unternehmensgröße, Branche, Entscheidungsbefugnis und Geschäftsziele. Bazam.ais Persona-Felder unterstützen B2B-spezifische Merkmale."
-  - q: "Wie definiere ich B2C-Personas?"
-    a:
-      - "Fokussieren Sie auf Lifestyle, Interessen, Budget, Kaufgewohnheiten und emotionale Treiber. Bazam.ais Agent passt den Content-Stil entsprechend an — emotionaler und persönlicher für B2C."
-  - q: "Wie teste ich ob meine Personas korrekt sind?"
-    a:
-      - "Erstellen Sie Persona-spezifischen Content und messen Sie das Engagement. Bazam.ais Analytik zeigt ob der gezielt erstellte Content besser performt als generischer Content."
+    a: ["Zwei bis vier Personas decken die meisten Unternehmen gut ab. Zu viele Personas verwaeussern den Fokus. Starten Sie mit Ihrer wichtigsten Zielgruppe und fuegen Sie bei Bedarf schrittweise weitere Personas hinzu."]
+  - q: "Wie nutze ich Personas fuer die Content-Erstellung?"
+    a: ["Waehlen Sie bei der Content-Erstellung die Zielgruppen-Persona aus, an die sich der Beitrag richten soll. Bazam.ais Agent passt Ton, Ansprache, Detailtiefe und verwendete Beispiele automatisch an die gewaehlte Persona an."]
+  - q: "Wie unterscheiden sich Personas von Markenstimme?"
+    a: ["Die Markenstimme bestimmt, wie Ihre Marke grundsaetzlich klingt. Personas bestimmen, an wen Sie sprechen. Bazam.ais Agent kombiniert beides: Ihre konsistente Stimme plus die Anpassung an die jeweilige Zielgruppe."]
+  - q: "Sollte ich fuer jede Persona eigenen Content erstellen?"
+    a: ["Das haengt vom jeweiligen Thema ab. Mancher Content spricht alle Personas gleich an, waehrend andere Beitraege spezifisch auf die Beduerfnisse einer einzelnen Persona zugeschnitten sein sollten. Eine ausgewogene Mischung funktioniert am besten."]
+  - q: "Wie aktualisiere ich meine Personas?"
+    a: ["Ueberpruefen Sie Ihre Personas halbjaehrlich oder wenn sich Ihre Zielgruppe veraendert. Aktualisieren Sie die Profile in Bazam.ai, und alle zukuenftigen Inhalte reflektieren die ueberarbeiteten Zielgruppenprofile automatisch."]
+  - q: "Wie nutze ich Kundendaten fuer bessere Personas?"
+    a: ["Analysieren Sie Ihr Kundenfeedback, Ihre Supportanfragen und die demografischen Daten Ihrer bestehenden Kunden. Diese realen Daten machen Ihre Personas realitaetsnah und praezise."]
+  - q: "Wie teste ich, ob meine Personas funktionieren?"
+    a: ["Erstellen Sie Content fuer verschiedene Personas und vergleichen Sie das Engagement. Wenn Content fuer eine bestimmte Persona deutlich besser performt, wissen Sie, dass die Persona gut definiert und Ihre Zielgruppe korrekt angesprochen wird."]
 ---
