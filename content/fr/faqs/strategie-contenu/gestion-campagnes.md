@@ -16,7 +16,7 @@ faq:
 
   - q: "Comment créer des campagnes marketing saisonnières ?"
     a:
-      - "Dites à l'agent votre thème saisonnier et audience cible. Il génère des campagnes de fêtes, promotions de rentrée, soldes d'été ou contenu Black Friday sur toutes les plateformes. Planifiez les campagnes saisonnières des mois à l'avance et programmez tout."
+      - "Dites à l'agent de Bazam.ai votre thème saisonnier et audience cible. Il génère des campagnes de fêtes, promotions de rentrée, soldes d'été ou contenu Black Friday sur toutes les plateformes. Planifiez les campagnes saisonnières des mois à l'avance et programmez tout."
 
   - q: "Comment gérer le suivi UTM pour les campagnes ?"
     a:
@@ -24,7 +24,7 @@ faq:
 
   - q: "Comment créer du contenu pour différentes phases de campagne ?"
     a:
-      - "Définissez les phases — teaser, lancement, maintien, clôture — et l'agent crée du contenu approprié à chaque étape. Le pré-lancement génère l'anticipation, le jour J pousse à l'action, le maintien sustente l'intérêt et la clôture crée l'urgence."
+      - "Définissez les phases — teaser, lancement, maintien, clôture — et l'agent de Bazam.ai crée du contenu approprié à chaque étape. Le pré-lancement génère l'anticipation, le jour J pousse à l'action, le maintien sustente l'intérêt et la clôture crée l'urgence."
 
   - q: "Comment gérer plusieurs campagnes simultanément ?"
     a:

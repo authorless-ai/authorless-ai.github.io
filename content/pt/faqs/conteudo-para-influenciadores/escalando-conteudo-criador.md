@@ -28,7 +28,7 @@ faq:
 
   - q: "Como evito fadiga de criador de conteúdo?"
     a:
-      - "Pare de criar do zero todo dia. O agente produz; você curadoria e revisa. A carga criativa passa de produção diária para revisão periódica. Você fica criativo para os momentos que importam."
+      - "Pare de criar do zero todo dia. O agente de Bazam.ai produz; você curadoria e revisa. A carga criativa passa de produção diária para revisão periódica. Você fica criativo para os momentos que importam."
 
   - q: "Como marcas pessoais usam IA sem perder autenticidade?"
     a:

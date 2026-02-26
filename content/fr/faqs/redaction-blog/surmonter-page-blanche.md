@@ -16,7 +16,7 @@ faq:
 
   - q: "Comment créer rapidement un plan d'article de blog ?"
     a:
-      - "Dites à l'agent votre sujet et il génère un plan structuré — titre, sous-titres, points clés par section et conclusion suggérée. Modifiez le plan si nécessaire, puis demandez à l'agent de le développer en article complet."
+      - "Dites à l'agent de Bazam.ai votre sujet et il génère un plan structuré — titre, sous-titres, points clés par section et conclusion suggérée. Modifiez le plan si nécessaire, puis demandez à l'agent de le développer en article complet."
 
   - q: "Comment écrire des articles de blog plus vite ?"
     a:

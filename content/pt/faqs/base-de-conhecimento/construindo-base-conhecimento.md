@@ -4,15 +4,15 @@ description: "O que enviar, como organizar e melhores práticas para construir u
 faq:
   - q: "O que devo enviar para minha base de conhecimento IA?"
     a:
-      - "Tudo que daria a um novo contratado de marketing: especificações e preços de produto, diretrizes de marca, estudos de caso, depoimentos de clientes, comparações com concorrentes, relatórios do setor, documentos de mensagens-chave e exemplos de campanhas anteriores. Quanto mais contexto o agente tem, melhor cada peça."
+      - "Tudo que daria a um novo contratado de marketing: especificações e preços de produto, diretrizes de marca, estudos de caso, depoimentos de clientes, comparações com concorrentes, relatórios do setor, documentos de mensagens-chave e exemplos de campanhas anteriores. Quanto mais contexto o agente de Bazam.ai tem, melhor cada peça."
 
   - q: "Como envio documentos para a base de conhecimento do Bazam.ai?"
     a:
-      - "Três formas: envie arquivos (PDFs, Word, apresentações), cole URLs para o agente indexar ou cole texto diretamente. A IA extrai automaticamente informações-chave com pontuação de confiança."
+      - "Três formas: envie arquivos (PDFs, Word, apresentações), cole URLs para o agente de Bazam.ai indexar ou cole texto diretamente. A IA extrai automaticamente informações-chave com pontuação de confiança."
 
   - q: "Que tipos de arquivo a base de conhecimento suporta?"
     a:
-      - "PDFs, documentos Word, apresentações, páginas web (via URL) e texto puro. Envie catálogos de produto, diretrizes de marca, relatórios de pesquisa, estudos de caso ou qualquer documento que ajude o agente a entender seu negócio."
+      - "PDFs, documentos Word, apresentações, páginas web (via URL) e texto puro. Envie catálogos de produto, diretrizes de marca, relatórios de pesquisa, estudos de caso ou qualquer documento que ajude o agente de Bazam.ai a entender seu negócio."
 
   - q: "Posso adicionar páginas web à minha base de conhecimento?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Posso usar informação de concorrentes na base de conhecimento?"
     a:
-      - "Sim. Adicione sites de concorrentes, relatórios do setor e pesquisa de mercado. O agente pode referenciar posicionamento competitivo ao sugerir temas, redigir conteúdo de comparação ou criar campanhas estrategicamente informadas."
+      - "Sim. Adicione sites de concorrentes, relatórios do setor e pesquisa de mercado. O agente de Bazam.ai pode referenciar posicionamento competitivo ao sugerir temas, redigir conteúdo de comparação ou criar campanhas estrategicamente informadas."
 
   - q: "O que é extração com IA em uma base de conhecimento?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Como rastreio atualidade dos documentos na base de conhecimento?"
     a:
-      - "Defina datas de expiração nos documentos. Quando um documento se aproxima ou passa da data, o sistema sinaliza para atualização ou substituição. Isso garante que o agente sempre trabalhe com informação atual."
+      - "Defina datas de expiração nos documentos. Quando um documento se aproxima ou passa da data, o sistema sinaliza para atualização ou substituição. Isso garante que o agente de Bazam.ai sempre trabalhe com informação atual."
 
   - q: "Múltiplos membros da equipe podem acessar a mesma base?"
     a:

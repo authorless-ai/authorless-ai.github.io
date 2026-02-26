@@ -16,7 +16,7 @@ faq:
 
   - q: "Les freelances peuvent-ils utiliser Bazam.ai aux côtés de mon équipe ?"
     a:
-      - "Oui. Invitez les freelances avec accès contributeur. Ils créent via l'agent en utilisant votre voix et base — produisant du travail conforme à la marque sans briefing extensif. Votre équipe relit et approuve."
+      - "Oui. Invitez les freelances avec accès contributeur. Ils créent via l'agent de Bazam.ai en utilisant votre voix et base — produisant du travail conforme à la marque sans briefing extensif. Votre équipe relit et approuve."
 
   - q: "Comment savoir qui a créé quel contenu ?"
     a:

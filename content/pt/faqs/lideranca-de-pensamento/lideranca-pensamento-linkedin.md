@@ -28,7 +28,7 @@ faq:
 
   - q: "Como começo uma newsletter no LinkedIn?"
     a:
-      - "Crie conteúdo semanal ou quinzenal. O agente escreve newsletters profissionais — análise do setor, dicas práticas e insights curados — na voz pessoal. Publique diretamente como newsletter LinkedIn."
+      - "Crie conteúdo semanal ou quinzenal. O agente de Bazam.ai escreve newsletters profissionais — análise do setor, dicas práticas e insights curados — na voz pessoal. Publique diretamente como newsletter LinkedIn."
 
   - q: "Como CEOs usam LinkedIn para liderança?"
     a:

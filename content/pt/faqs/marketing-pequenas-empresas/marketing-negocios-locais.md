@@ -16,7 +16,7 @@ faq:
 
   - q: "Como consigo avaliações e depoimentos?"
     a:
-      - "Peça diretamente a clientes satisfeitos. Depois adicione depoimentos à base para que o agente incorpore prova social no conteúdo de marketing naturalmente."
+      - "Peça diretamente a clientes satisfeitos. Depois adicione depoimentos à base de Bazam.ai para que o agente incorpore prova social no conteúdo de marketing naturalmente."
 
   - q: "Como ranqueio localmente no Google?"
     a:

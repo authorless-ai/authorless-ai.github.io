@@ -12,7 +12,7 @@ faq:
 
   - q: "Como publico no TikTok de uma ferramenta de marketing?"
     a:
-      - "Conecte sua conta TikTok. O agente cria roteiros e legendas otimizados e você publica diretamente. Agende conteúdo TikTok junto com todos os outros canais."
+      - "Conecte sua conta TikTok. O agente de Bazam.ai cria roteiros e legendas otimizados e você publica diretamente. Agende conteúdo TikTok junto com todos os outros canais."
 
   - q: "Posso publicar descrições e títulos do YouTube?"
     a:
@@ -20,7 +20,7 @@ faq:
 
   - q: "Como publico no X/Twitter pelo Bazam.ai?"
     a:
-      - "Conecte sua conta X e crie conteúdo com o agente. Ele redige tweets, threads e respostas otimizados para formato do X. Agende e publique junto com todas as outras plataformas."
+      - "Conecte sua conta X e crie conteúdo com o agente de Bazam.ai. Ele redige tweets, threads e respostas otimizados para formato do X. Agende e publique junto com todas as outras plataformas."
 
   - q: "Quantas plataformas posso conectar?"
     a:

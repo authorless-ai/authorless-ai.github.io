@@ -28,7 +28,7 @@ faq:
 
   - q: "Como lido com notícias de última hora ou tendências em um calendário planejado?"
     a:
-      - "Crie conteúdo reativo rapidamente com o agente, publique imediatamente e ajuste o calendário se necessário. Mova conteúdo agendado para outros slots para abrir espaço. O calendário acomoda publicação planejada e reativa."
+      - "Crie conteúdo reativo rapidamente com o agente de Bazam.ai, publique imediatamente e ajuste o calendário se necessário. Mova conteúdo agendado para outros slots para abrir espaço. O calendário acomoda publicação planejada e reativa."
 
   - q: "Como crio conteúdo social evergreen?"
     a:

@@ -28,7 +28,7 @@ faq:
 
   - q: "Como crio uma série de emails de boas-vindas?"
     a:
-      - "Peça ao agente para criar uma sequência — email de boas-vindas, follow-up de valor, introdução ao produto e email de conversão. Cada email constrói sobre o anterior, guiando novos assinantes da introdução à ação."
+      - "Peça ao agente de Bazam.ai para criar uma sequência — email de boas-vindas, follow-up de valor, introdução ao produto e email de conversão. Cada email constrói sobre o anterior, guiando novos assinantes da introdução à ação."
 
   - q: "Que tipos de conteúdo de email devo criar?"
     a:
@@ -40,5 +40,5 @@ faq:
 
   - q: "Posso reaproveitar conteúdo de blog para newsletters?"
     a:
-      - "Sim. Peça ao agente para transformar um post de blog em newsletter — condensando insights-chave, ajustando formato para email e adicionando link para o artigo completo. Uma peça de conteúdo serve dois canais."
+      - "Sim. Peça ao agente de Bazam.ai para transformar um post de blog em newsletter — condensando insights-chave, ajustando formato para email e adicionando link para o artigo completo. Uma peça de conteúdo serve dois canais."
 ---

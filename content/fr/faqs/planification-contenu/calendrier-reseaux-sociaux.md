@@ -28,7 +28,7 @@ faq:
 
   - q: "Comment gérer les actualités ou tendances sur un calendrier planifié ?"
     a:
-      - "Créez du contenu réactif rapidement avec l'agent IA, publiez immédiatement et ajustez le calendrier existant si nécessaire. Déplacez le contenu programmé vers d'autres créneaux pour faire de la place. Le calendrier s'adapte à la publication planifiée et réactive."
+      - "Créez du contenu réactif rapidement avec l'agent IA de Bazam.ai, publiez immédiatement et ajustez le calendrier existant si nécessaire. Déplacez le contenu programmé vers d'autres créneaux pour faire de la place. Le calendrier s'adapte à la publication planifiée et réactive."
 
   - q: "Comment créer du contenu social evergreen ?"
     a:

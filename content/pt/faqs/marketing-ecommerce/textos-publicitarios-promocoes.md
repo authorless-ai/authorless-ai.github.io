@@ -16,7 +16,7 @@ faq:
 
   - q: "Como crio campanhas de email promocional?"
     a:
-      - "Diga ao agente os detalhes da promoção — desconto, produto, audiência e prazo. Ele cria uma campanha completa de email — anúncio, lembrete e últimas chances — cada um gerando urgência e ação."
+      - "Diga ao agente de Bazam.ai os detalhes da promoção — desconto, produto, audiência e prazo. Ele cria uma campanha completa de email — anúncio, lembrete e últimas chances — cada um gerando urgência e ação."
 
   - q: "Como escrevo emails de solicitação de avaliação?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "Como crio conteúdo de marketing para vendas relâmpago?"
     a:
-      - "Diga ao agente detalhes e cronograma da venda. Ele cria um pacote rápido — teaser, lançamento, contagem regressiva e conteúdo de última chance em social e email. Agende tudo com antecedência e a venda relâmpago roda sozinha."
+      - "Diga ao agente de Bazam.ai detalhes e cronograma da venda. Ele cria um pacote rápido — teaser, lançamento, contagem regressiva e conteúdo de última chance em social e email. Agende tudo com antecedência e a venda relâmpago roda sozinha."
 
   - q: "Como divulgo produtos por assinatura?"
     a:

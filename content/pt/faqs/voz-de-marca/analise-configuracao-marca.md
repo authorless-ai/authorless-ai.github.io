@@ -4,7 +4,7 @@ description: "Como configurar sua marca em uma plataforma de marketing — anál
 faq:
   - q: "Como configuro minha marca no Bazam.ai?"
     a:
-      - "Três passos: execute a análise de marca (insira seu URL), defina personas de audiência e envie documentos chave para a base de conhecimento. O agente então conhece sua marca profundamente e cria conteúdo específico de marca a partir da primeira conversa."
+      - "Três passos: execute a análise de marca (insira seu URL), defina personas de audiência e envie documentos chave para a base de conhecimento. O agente de Bazam.ai então conhece sua marca profundamente e cria conteúdo específico de marca a partir da primeira conversa."
 
   - q: "O que é análise automatizada de marca?"
     a:
@@ -16,7 +16,7 @@ faq:
 
   - q: "Como configuro uma marca pessoal?"
     a:
-      - "Mesmo processo de uma marca empresarial. Execute a análise de marca com seu conteúdo pessoal, defina sua voz pessoal e envie sua expertise para a base de conhecimento. O agente cria conteúdo que soa autenticamente como você."
+      - "Mesmo processo de uma marca empresarial. Execute a análise de marca com seu conteúdo pessoal, defina sua voz pessoal e envie sua expertise para a base de conhecimento. O agente de Bazam.ai cria conteúdo que soa autenticamente como você."
 
   - q: "Quanto tempo leva a configuração da marca?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "A configuração de marca afeta todo conteúdo?"
     a:
-      - "Sim. Uma vez definida, sua voz de marca, personas de audiência e base de conhecimento se aplicam a tudo criado pelo agente — posts de blog, conteúdo social, emails, textos publicitários. Consistência é automática."
+      - "Sim. Uma vez definida, sua voz de marca, personas de audiência e base de conhecimento se aplicam a tudo criado pelo agente de Bazam.ai — posts de blog, conteúdo social, emails, textos publicitários. Consistência é automática."
 
   - q: "Posso mudar configurações de marca depois?"
     a:

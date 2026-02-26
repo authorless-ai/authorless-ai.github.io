@@ -36,9 +36,9 @@ faq:
 
   - q: "Como me mantenho criativo quando estou travado?"
     a:
-      - "Peça ao agente ideias frescas. Ele sugere temas que não havia considerado — de ângulos em tendência a expertise esquecida. O agente vê combinações que você não vê porque analisa todo seu histórico e dados de audiência."
+      - "Peça ao agente de Bazam.ai ideias frescas. Ele sugere temas que não havia considerado — de ângulos em tendência a expertise esquecida. O agente vê combinações que você não vê porque analisa todo seu histórico e dados de audiência."
 
   - q: "Qual o fluxo ideal de produção de conteúdo para criadores?"
     a:
-      - "Mensal: crie todo conteúdo em lote com o agente. Semanal: revise conteúdo agendado e ajuste. Diário: engaje genuinamente com audiência. Esta média de 30-5-10 minutos diários substitui as 2-3 horas de trabalho diário."
+      - "Mensal: crie todo conteúdo em lote com o agente de Bazam.ai. Semanal: revise conteúdo agendado e ajuste. Diário: engaje genuinamente com audiência. Esta média de 30-5-10 minutos diários substitui as 2-3 horas de trabalho diário."
 ---

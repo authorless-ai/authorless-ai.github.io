@@ -36,7 +36,7 @@ faq:
 
   - q: "Quante informazioni dovrei mettere nella base di conoscenza?"
     a:
-      - "Più possibile. Più contesto ha l'agente, più ricco diventa ogni contenuto. Inizia con informazioni prodotto, linee guida del brand e messaggistica chiave. Aggiungi case study, ricerche competitive e report di settore nel tempo. La qualità si accumula."
+      - "Più possibile. Più contesto ha l'agente di Bazam.ai, più ricco diventa ogni contenuto. Inizia con informazioni prodotto, linee guida del brand e messaggistica chiave. Aggiungi case study, ricerche competitive e report di settore nel tempo. La qualità si accumula."
 
   - q: "La base di conoscenza funziona per tutti i tipi di contenuto?"
     a:

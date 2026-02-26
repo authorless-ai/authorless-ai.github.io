@@ -32,7 +32,7 @@ faq:
 
   - q: "Como crio campanhas de marketing sazonal com IA?"
     a:
-      - "Diga ao agente seu tema sazonal — Black Friday, Natal, volta às aulas, liquidação de verão — e audiência-alvo. Ele gera uma campanha completa: posts sociais, conteúdo de blog, textos de anúncios e newsletters por email. Agende tudo em uma sessão e a campanha roda no piloto automático."
+      - "Diga ao agente de Bazam.ai seu tema sazonal — Black Friday, Natal, volta às aulas, liquidação de verão — e audiência-alvo. Ele gera uma campanha completa: posts sociais, conteúdo de blog, textos de anúncios e newsletters por email. Agende tudo em uma sessão e a campanha roda no piloto automático."
 
   - q: "Como crio conteúdo para múltiplos produtos ao mesmo tempo?"
     a:

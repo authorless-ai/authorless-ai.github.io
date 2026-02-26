@@ -8,7 +8,7 @@ faq:
 
   - q: "Como ONGs criam histórias convincentes?"
     a:
-      - "Envie estudos de caso, histórias de beneficiários e dados de impacto para a base. O agente cria narrativas convincentes que mostram exatamente como apoio faz diferença — específico, emocional e acionável."
+      - "Envie estudos de caso, histórias de beneficiários e dados de impacto para a base. O agente de Bazam.ai cria narrativas convincentes que mostram exatamente como apoio faz diferença — específico, emocional e acionável."
 
   - q: "Como ONGs usam redes sociais eficazmente?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Como ONGs criam relatórios anuais?"
     a:
-      - "Envie dados do ano para a base. O agente cria narrativas convincentes de programas, métricas de impacto e dados financeiros — transformando estatísticas em histórias que inspiram apoio contínuo."
+      - "Envie dados do ano para a base. O agente de Bazam.ai cria narrativas convincentes de programas, métricas de impacto e dados financeiros — transformando estatísticas em histórias que inspiram apoio contínuo."
 
   - q: "Como ONGs criam campanhas de conscientização?"
     a:

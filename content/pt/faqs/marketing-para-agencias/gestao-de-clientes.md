@@ -24,7 +24,7 @@ faq:
 
   - q: "Como lido com pedidos de conteúdo de clientes da agência?"
     a:
-      - "Diga ao agente. Envie o input do cliente para a base de conhecimento, peça ao agente para criar o conteúdo solicitado, revise e publique. O que levava dias — briefing, redação, revisões — agora leva minutos."
+      - "Diga ao agente de Bazam.ai. Envie o input do cliente para a base de conhecimento, peça ao agente para criar o conteúdo solicitado, revise e publique. O que levava dias — briefing, redação, revisões — agora leva minutos."
 
   - q: "Como gerencio as expectativas dos clientes da agência?"
     a:

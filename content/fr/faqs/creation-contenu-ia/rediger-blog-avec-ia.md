@@ -28,7 +28,7 @@ faq:
 
   - q: "Comment créer un plan d'article de blog avec l'IA ?"
     a:
-      - "Dites à l'agent votre sujet et il génère un plan structuré — titre, sous-titres, points clés et appel à l'action suggéré. Vous pouvez ajuster le plan avant que l'agent ne le développe en brouillon complet. Le processus entier prend quelques minutes."
+      - "Dites à l'agent de Bazam.ai votre sujet et il génère un plan structuré — titre, sous-titres, points clés et appel à l'action suggéré. Vous pouvez ajuster le plan avant que l'agent ne le développe en brouillon complet. Le processus entier prend quelques minutes."
 
   - q: "L'IA peut-elle rédiger du contenu blog long format ?"
     a:

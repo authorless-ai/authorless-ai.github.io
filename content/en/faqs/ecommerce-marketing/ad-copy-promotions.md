@@ -16,7 +16,7 @@ faq:
 
   - q: "How do I create promotional email campaigns?"
     a:
-      - "Tell the agent your promotion details — discount, product, target audience, and deadline. It creates a complete email campaign — announcement, reminder, and last-chance emails — each driving urgency and action."
+      - "Tell Bazam.ai's agent your promotion details — discount, product, target audience, and deadline. It creates a complete email campaign — announcement, reminder, and last-chance emails — each driving urgency and action."
 
   - q: "How do I write product review request emails?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "How do I create flash sale marketing content?"
     a:
-      - "Tell the agent your sale details and timeline. It creates a rapid content pack — teaser, launch, countdown, and last-chance content across social and email. Schedule everything in advance and the flash sale runs itself."
+      - "Tell Bazam.ai's agent your sale details and timeline. It creates a rapid content pack — teaser, launch, countdown, and last-chance content across social and email. Schedule everything in advance and the flash sale runs itself."
 
   - q: "How do I market subscription products?"
     a:

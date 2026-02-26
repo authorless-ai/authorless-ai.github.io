@@ -7,7 +7,7 @@ faq:
       - "Sube documentos a la base de conocimiento de Bazam.ai: presentación de empresa, fichas de producto, FAQ internas, artículos de tu sector. Cuanto más contexto, más específico será el contenido."
   - q: "¿Cuánto tiempo tarda en 'aprender' la IA?"
     a:
-      - "Instantáneamente. Los documentos se procesan al subirlos y el agente los usa inmediatamente. No hay periodo de entrenamiento — sube y crea."
+      - "Instantáneamente. Los documentos se procesan al subirlos y el agente de Bazam.ai los usa inmediatamente. No hay periodo de entrenamiento — sube y crea."
   - q: "¿La IA entiende mi sector?"
     a:
       - "Con contexto suficiente, sí. Sube documentos del sector, terminología específica y ejemplos de contenido. La IA produce contenido sectorial cuando tiene el contexto adecuado."
@@ -31,5 +31,5 @@ faq:
       - "Sí — sube fichas separadas para cada producto. Cuando crees contenido sobre un producto específico, la IA usa la información correcta automáticamente."
   - q: "¿Necesito repetir la información en cada conversación?"
     a:
-      - "No. La base de conocimiento y la configuración de marca persisten entre conversaciones. El agente recuerda todo — la experiencia mejora con cada uso."
+      - "No. La base de conocimiento y la configuración de marca persisten entre conversaciones. El agente de Bazam.ai recuerda todo — la experiencia mejora con cada uso."
 ---

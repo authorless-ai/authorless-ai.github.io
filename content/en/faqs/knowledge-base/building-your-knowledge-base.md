@@ -4,7 +4,7 @@ description: "What to upload, how to organise it, and best practices for buildin
 faq:
   - q: "What should I upload to my AI knowledge base?"
     a:
-      - "Anything you'd give a new marketing hire: product specs and pricing, brand guidelines, case studies, customer testimonials, competitor comparisons, industry reports, key messaging documents, and past campaign examples. The more context the agent has, the better every piece of content."
+      - "Anything you'd give a new marketing hire: product specs and pricing, brand guidelines, case studies, customer testimonials, competitor comparisons, industry reports, key messaging documents, and past campaign examples. The more context Bazam.ai's agent has, the better every piece of content."
 
   - q: "How do I upload documents to Bazam.ai's knowledge base?"
     a:
@@ -12,7 +12,7 @@ faq:
 
   - q: "What file types does Bazam.ai's knowledge base support?"
     a:
-      - "PDFs, Word documents, presentations, web pages (via URL), and raw text. Upload product catalogues, brand guidelines, research reports, case studies, or any document that helps the agent understand your business."
+      - "PDFs, Word documents, presentations, web pages (via URL), and raw text. Upload product catalogues, brand guidelines, research reports, case studies, or any document that helps Bazam.ai's agent understand your business."
 
   - q: "Can I add web pages to my knowledge base?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Can I use competitor information in my knowledge base?"
     a:
-      - "Yes. Add competitor websites, industry reports, and market research. The agent can reference competitive positioning when suggesting topics, drafting comparison content, or creating strategically informed campaigns."
+      - "Yes. Add competitor websites, industry reports, and market research. Bazam.ai's agent can reference competitive positioning when suggesting topics, drafting comparison content, or creating strategically informed campaigns."
 
   - q: "What is AI-powered extraction in a knowledge base?"
     a:

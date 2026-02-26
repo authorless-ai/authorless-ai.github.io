@@ -28,7 +28,7 @@ faq:
 
   - q: "¿Cómo creo un esquema de post de blog con IA?"
     a:
-      - "Dile al agente tu tema y él genera un esquema estructurado — titular, subtítulos, puntos clave y sugerencia de llamada a la acción. Puedes ajustar el esquema antes de que el agente lo desarrolle en borrador completo. Todo el proceso tarda minutos."
+      - "Dile al agente de Bazam.ai tu tema y él genera un esquema estructurado — titular, subtítulos, puntos clave y sugerencia de llamada a la acción. Puedes ajustar el esquema antes de que el agente lo desarrolle en borrador completo. Todo el proceso tarda minutos."
 
   - q: "¿Puede la IA escribir contenido de blog de formato largo?"
     a:

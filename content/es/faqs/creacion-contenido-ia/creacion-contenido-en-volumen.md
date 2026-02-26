@@ -32,7 +32,7 @@ faq:
 
   - q: "¿Cómo creo campañas de marketing estacionales con IA?"
     a:
-      - "Cuéntale al agente el tema estacional — Black Friday, Navidad, vuelta al cole, rebajas de verano — y la audiencia objetivo. Genera una campaña completa: posts para redes, contenido de blog, textos publicitarios y newsletters. Programa todo en una sesión y la campaña funciona sola."
+      - "Cuéntale al agente de Bazam.ai el tema estacional — Black Friday, Navidad, vuelta al cole, rebajas de verano — y la audiencia objetivo. Genera una campaña completa: posts para redes, contenido de blog, textos publicitarios y newsletters. Programa todo en una sesión y la campaña funciona sola."
 
   - q: "¿Cómo creo contenido para varios productos a la vez?"
     a:

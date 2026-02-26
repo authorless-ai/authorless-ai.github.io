@@ -16,7 +16,7 @@ faq:
 
   - q: "How do I create seasonal marketing campaigns?"
     a:
-      - "Tell the agent your seasonal theme and target audience. It generates holiday campaigns, back-to-school promotions, summer sales, or Black Friday content across all platforms. Plan seasonal campaigns months in advance and schedule everything."
+      - "Tell Bazam.ai's agent your seasonal theme and target audience. It generates holiday campaigns, back-to-school promotions, summer sales, or Black Friday content across all platforms. Plan seasonal campaigns months in advance and schedule everything."
 
   - q: "How do I manage UTM tracking for campaigns?"
     a:
@@ -24,7 +24,7 @@ faq:
 
   - q: "How do I create content for different campaign stages?"
     a:
-      - "Define the campaign phases — teaser, launch, sustain, close — and the agent creates content appropriate to each stage. Pre-launch generates anticipation, launch day drives action, sustain maintains interest, and close creates urgency."
+      - "Define the campaign phases — teaser, launch, sustain, close — and Bazam.ai's agent creates content appropriate to each stage. Pre-launch generates anticipation, launch day drives action, sustain maintains interest, and close creates urgency."
 
   - q: "How do I run multiple campaigns at the same time?"
     a:

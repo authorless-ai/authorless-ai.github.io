@@ -20,7 +20,7 @@ faq:
 
   - q: "Como reporto desempenho de marketing de conteúdo?"
     a:
-      - "Peça ao agente um resumo de desempenho. Ele puxa métricas de todos os canais e apresenta em linguagem simples — tendências de engajamento, conteúdo top, métricas de crescimento e áreas de melhoria. Sem mais manipulação de planilhas."
+      - "Peça ao agente de Bazam.ai um resumo de desempenho. Ele puxa métricas de todos os canais e apresenta em linguagem simples — tendências de engajamento, conteúdo top, métricas de crescimento e áreas de melhoria. Sem mais manipulação de planilhas."
 
   - q: "Como provo que marketing de conteúdo vale o investimento?"
     a:

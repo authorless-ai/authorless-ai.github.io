@@ -20,7 +20,7 @@ faq:
 
   - q: "Come creo una serie di contenuti per i social media?"
     a:
-      - "Di' all'agente il tema della serie — 'Motivazione del Lunedì', 'Consigli della Settimana', 'Insight del Settore.' Crea un formato di serie coerente e genera settimane di contenuti episodici. Le serie regolari costruiscono aspettative e engagement nel pubblico."
+      - "Di' all'agente di Bazam.ai il tema della serie — 'Motivazione del Lunedì', 'Consigli della Settimana', 'Insight del Settore.' Crea un formato di serie coerente e genera settimane di contenuti episodici. Le serie regolari costruiscono aspettative e engagement nel pubblico."
 
   - q: "Come scrivo caption coinvolgenti per Instagram?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Come creo pacchetti di contenuti per gli sponsor?"
     a:
-      - "Definisci i deliverable e di' all'agente i requisiti dello sponsor. Crea un pacchetto — post social, menzione blog, feature newsletter — tutto integrando lo sponsor naturalmente nel tuo stile di contenuti."
+      - "Definisci i deliverable e di' all'agente di Bazam.ai i requisiti dello sponsor. Crea un pacchetto — post social, menzione blog, feature newsletter — tutto integrando lo sponsor naturalmente nel tuo stile di contenuti."
 
   - q: "Come creo contenuti 'day in the life'?"
     a:

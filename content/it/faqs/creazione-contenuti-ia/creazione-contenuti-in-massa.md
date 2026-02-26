@@ -32,7 +32,7 @@ faq:
 
   - q: "Come creo campagne di marketing stagionali con l'IA?"
     a:
-      - "Di' all'agente il tuo tema stagionale — Black Friday, Natale, rientro a scuola, saldi estivi — e il pubblico target. Genera una campagna completa: post social, contenuti per il blog, testi pubblicitari e newsletter email. Pianifica tutto in un'unica sessione e la campagna funziona con il pilota automatico."
+      - "Di' all'agente di Bazam.ai il tuo tema stagionale — Black Friday, Natale, rientro a scuola, saldi estivi — e il pubblico target. Genera una campagna completa: post social, contenuti per il blog, testi pubblicitari e newsletter email. Pianifica tutto in un'unica sessione e la campagna funziona con il pilota automatico."
 
   - q: "Come creo contenuti per più prodotti contemporaneamente?"
     a:

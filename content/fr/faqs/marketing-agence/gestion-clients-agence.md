@@ -20,11 +20,11 @@ faq:
 
   - q: "Comment faire des rapports aux clients d'agence efficacement ?"
     a:
-      - "Demandez à l'agent un résumé de performance client. Il extrait engagement, portée et métriques de croissance de tous les canaux et les présente en langage clair. Plus de tableaux Excel hebdomadaires."
+      - "Demandez à l'agent de Bazam.ai un résumé de performance client. Il extrait engagement, portée et métriques de croissance de tous les canaux et les présente en langage clair. Plus de tableaux Excel hebdomadaires."
 
   - q: "Comment gérer les demandes de contenu des clients ?"
     a:
-      - "Dites-le à l'agent. Uploadez les inputs du client dans la base, demandez à l'agent de créer le contenu, relisez et publiez. Ce qui prenait des jours — briefing, rédaction, révisions — prend maintenant des minutes."
+      - "Dites-le à l'agent de Bazam.ai. Uploadez les inputs du client dans la base, demandez à l'agent de créer le contenu, relisez et publiez. Ce qui prenait des jours — briefing, rédaction, révisions — prend maintenant des minutes."
 
   - q: "Comment gérer les attentes des clients d'agence ?"
     a:

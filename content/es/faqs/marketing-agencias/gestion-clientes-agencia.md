@@ -24,7 +24,7 @@ faq:
 
   - q: "¿Cómo gestiono las solicitudes de contenido de los clientes?"
     a:
-      - "Cuéntaselo al agente. Sube el input del cliente a la base de conocimiento, pídele al agente que cree el contenido solicitado, revísalo y publícalo. Lo que antes llevaba días — briefing, redacción, revisiones — ahora tarda minutos."
+      - "Cuéntaselo al agente de Bazam.ai. Sube el input del cliente a la base de conocimiento, pídele al agente que cree el contenido solicitado, revísalo y publícalo. Lo que antes llevaba días — briefing, redacción, revisiones — ahora tarda minutos."
 
   - q: "¿Cómo gestiono las expectativas de los clientes de agencia?"
     a:

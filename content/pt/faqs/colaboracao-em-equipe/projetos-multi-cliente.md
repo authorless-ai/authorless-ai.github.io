@@ -16,7 +16,7 @@ faq:
 
   - q: "Posso alternar entre projetos rapidamente?"
     a:
-      - "Sim. Alterne pelo painel. O agente imediatamente opera no contexto do projeto selecionado — toda voz, base e dados de audiência mudam junto."
+      - "Sim. Alterne pelo painel. O agente de Bazam.ai imediatamente opera no contexto do projeto selecionado — toda voz, base e dados de audiência mudam junto."
 
   - q: "Como mantenho dados de clientes separados?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Como crio novo projeto para novo cliente?"
     a:
-      - "Crie projeto, configure voz, envie documentos para base e conecte canais. O agente está pronto imediatamente. A maioria dos clientes é integrada em menos de uma hora."
+      - "Crie projeto, configure voz, envie documentos para base e conecte canais. O agente de Bazam.ai está pronto imediatamente. A maioria dos clientes é integrada em menos de uma hora."
 
   - q: "Posso copiar configurações entre projetos?"
     a:

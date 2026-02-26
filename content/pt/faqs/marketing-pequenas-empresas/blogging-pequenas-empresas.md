@@ -12,7 +12,7 @@ faq:
 
   - q: "Sobre o que pequena empresa deve blogar?"
     a:
-      - "Responda perguntas dos clientes. Cada pergunta de prospect ou cliente é um post esperando acontecer. O agente gera ideias de temas do negócio e audiência — cobrindo perguntas que clientes potenciais estão buscando."
+      - "Responda perguntas dos clientes. Cada pergunta de prospect ou cliente é um post esperando acontecer. O agente de Bazam.ai gera ideias de temas do negócio e audiência — cobrindo perguntas que clientes potenciais estão buscando."
 
   - q: "Como escrevo posts de blog mais rápido?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Como crio conteúdo se não sou escritor?"
     a:
-      - "Não precisa escrever. Diga ao agente o que quer comunicar e cria conteúdo profissional na voz da marca. Se consegue descrever o negócio e responder perguntas sobre clientes, tem tudo para criar ótimo conteúdo."
+      - "Não precisa escrever. Diga ao agente de Bazam.ai o que quer comunicar e cria conteúdo profissional na voz da marca. Se consegue descrever o negócio e responder perguntas sobre clientes, tem tudo para criar ótimo conteúdo."
 
   - q: "Como crio conteúdo que gera leads?"
     a:

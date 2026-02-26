@@ -20,7 +20,7 @@ faq:
 
   - q: "Como localizo descrições de produto para diferentes mercados?"
     a:
-      - "Envie dados de produto para a base de conhecimento e traduza descrições para cada mercado. O agente adapta mensagem de benefícios — o que ressoa na Alemanha pode diferir do que vende no Brasil."
+      - "Envie dados de produto para a base de conhecimento e traduza descrições para cada mercado. O agente de Bazam.ai adapta mensagem de benefícios — o que ressoa na Alemanha pode diferir do que vende no Brasil."
 
   - q: "Como lido com expressões idiomáticas e referências culturais?"
     a:

@@ -40,5 +40,5 @@ faq:
 
   - q: "Comment gérer la communication de crise sur plusieurs marques ?"
     a:
-      - "Agissez rapidement dans le projet de la marque concernée. Créez la réponse avec l'agent IA avec un ton approprié à la crise. Mettez en pause le contenu programmé sur le calendrier de cette marque. Les calendriers des autres marques continuent sans être affectés."
+      - "Agissez rapidement dans le projet de la marque concernée. Créez la réponse avec l'agent IA de Bazam.ai avec un ton approprié à la crise. Mettez en pause le contenu programmé sur le calendrier de cette marque. Les calendriers des autres marques continuent sans être affectés."
 ---

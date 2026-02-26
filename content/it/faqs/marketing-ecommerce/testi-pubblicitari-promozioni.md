@@ -16,7 +16,7 @@ faq:
 
   - q: "Come creo campagne email promozionali?"
     a:
-      - "Di' all'agente i dettagli della promozione — sconto, prodotto, pubblico target e scadenza. Crea una campagna email completa — annuncio, promemoria e ultima possibilità — ciascuna che guida urgenza e azione."
+      - "Di' all'agente di Bazam.ai i dettagli della promozione — sconto, prodotto, pubblico target e scadenza. Crea una campagna email completa — annuncio, promemoria e ultima possibilità — ciascuna che guida urgenza e azione."
 
   - q: "Come scrivo email di richiesta recensione prodotto?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "Come creo contenuti per flash sale?"
     a:
-      - "Di' all'agente i dettagli e la tempistica della vendita. Crea un pacchetto rapido — teaser, lancio, conto alla rovescia e ultima possibilità su social ed email. Pianifica tutto in anticipo e la flash sale si gestisce da sola."
+      - "Di' all'agente di Bazam.ai i dettagli e la tempistica della vendita. Crea un pacchetto rapido — teaser, lancio, conto alla rovescia e ultima possibilità su social ed email. Pianifica tutto in anticipo e la flash sale si gestisce da sola."
 
   - q: "Come promuovo prodotti in abbonamento?"
     a:

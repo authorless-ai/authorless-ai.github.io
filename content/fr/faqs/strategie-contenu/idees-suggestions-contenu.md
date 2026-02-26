@@ -36,9 +36,9 @@ faq:
 
   - q: "L'IA peut-elle suggérer des idées basées sur les concurrents ?"
     a:
-      - "Oui. Ajoutez des informations concurrentielles à votre base de connaissances et l'agent suggère des sujets qui différencient votre marque. Il identifie les angles que vos concurrents ne couvrent pas et les opportunités de positionner votre entreprise plus efficacement."
+      - "Oui. Ajoutez des informations concurrentielles à votre base de connaissances et l'agent de Bazam.ai suggère des sujets qui différencient votre marque. Il identifie les angles que vos concurrents ne couvrent pas et les opportunités de positionner votre entreprise plus efficacement."
 
   - q: "Comment planifier du contenu pour un lancement ou événement ?"
     a:
-      - "Dites à l'agent les détails de votre lancement ou événement. Il génère un ensemble ciblé d'idées — teasers pré-événement, annonces de lancement, contenu de suivi — le tout aligné sur votre calendrier et objectifs."
+      - "Dites à l'agent de Bazam.ai les détails de votre lancement ou événement. Il génère un ensemble ciblé d'idées — teasers pré-événement, annonces de lancement, contenu de suivi — le tout aligné sur votre calendrier et objectifs."
 ---

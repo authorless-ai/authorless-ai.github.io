@@ -12,7 +12,7 @@ faq:
 
   - q: "Como crio conteúdo para palavras-chave long-tail?"
     a:
-      - "Direcione perguntas e cenários específicos. Em vez de 'marketing' (impossível ranquear), direcione 'como criar conteúdo social para pequena padaria.' O agente cria respostas específicas e detalhadas — exatamente o que SEO long-tail exige."
+      - "Direcione perguntas e cenários específicos. Em vez de 'marketing' (impossível ranquear), direcione 'como criar conteúdo social para pequena padaria.' O agente de Bazam.ai cria respostas específicas e detalhadas — exatamente o que SEO long-tail exige."
 
   - q: "Como crio conteúdo que responde perguntas?"
     a:
@@ -32,11 +32,11 @@ faq:
 
   - q: "Devo atualizar posts antigos de blog para SEO?"
     a:
-      - "Sim. Atualizar com novos dados, cobertura expandida e informação atual sinaliza ao Google que conteúdo é atualizado. Peça ao agente para atualizar e expandir — mantendo URL enquanto melhora conteúdo."
+      - "Sim. Atualizar com novos dados, cobertura expandida e informação atual sinaliza ao Google que conteúdo é atualizado. Peça ao agente de Bazam.ai para atualizar e expandir — mantendo URL enquanto melhora conteúdo."
 
   - q: "Como otimizo conteúdo existente para melhores rankings?"
     a:
-      - "Expanda conteúdo superficial, adicione detalhes, melhore estrutura e garanta que responde abrangentemente. O agente pode aprimorar — adicionando profundidade, refinando estrutura e incorporando contexto da base."
+      - "Expanda conteúdo superficial, adicione detalhes, melhore estrutura e garanta que responde abrangentemente. O agente de Bazam.ai pode aprimorar — adicionando profundidade, refinando estrutura e incorporando contexto da base."
 
   - q: "Qual o melhor formato de conteúdo SEO?"
     a:

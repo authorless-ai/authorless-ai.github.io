@@ -36,7 +36,7 @@ faq:
 
   - q: "How much information should I put in my knowledge base?"
     a:
-      - "As much as possible. The more context the agent has, the richer every piece of content becomes. Start with product information, brand guidelines, and key messaging. Add case studies, competitor research, and industry reports over time. Quality compounds."
+      - "As much as possible. The more context Bazam.ai's agent has, the richer every piece of content becomes. Start with product information, brand guidelines, and key messaging. Add case studies, competitor research, and industry reports over time. Quality compounds."
 
   - q: "Does a knowledge base work across all my content types?"
     a:

@@ -40,5 +40,5 @@ faq:
 
   - q: "How do I repurpose video content for different platforms?"
     a:
-      - "Give the agent your video script or summary and it creates platform-specific companion content — Instagram captions, YouTube descriptions, tweet threads, and LinkedIn posts — all promoting the same video in the platform's native format."
+      - "Give Bazam.ai's agent your video script or summary and it creates platform-specific companion content — Instagram captions, YouTube descriptions, tweet threads, and LinkedIn posts — all promoting the same video in the platform's native format."
 ---

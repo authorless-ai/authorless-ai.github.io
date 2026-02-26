@@ -16,7 +16,7 @@ faq:
 
   - q: "Can I delete documents from my knowledge base?"
     a:
-      - "Yes. Remove any document at any time. Once deleted, it's no longer referenced by the agent. Your knowledge base is fully under your control."
+      - "Yes. Remove any document at any time. Once deleted, it's no longer referenced by Bazam.ai's agent. Your knowledge base is fully under your control."
 
   - q: "Is it safe to upload sensitive business information to a knowledge base?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Does uploading documents to the knowledge base affect AI model training?"
     a:
-      - "No. Your documents are never used to train AI models. They inform the agent's output only for your project. This is a firm privacy boundary — your business intelligence stays yours."
+      - "No. Your documents are never used to train AI models. They inform Bazam.ai's agent output only for your project. This is a firm privacy boundary — your business intelligence stays yours."
 
   - q: "Can I use a knowledge base for regulated industries?"
     a:

@@ -28,7 +28,7 @@ faq:
 
   - q: "Comment rédiger des communiqués de presse qui référencent de vraies données ?"
     a:
-      - "Mettez vos rapports, données financières et métriques clés dans la base. Quand vous demandez un communiqué, l'agent référence vos vrais chiffres et résultats. Vous vérifiez les faits plutôt que de les écrire."
+      - "Mettez vos rapports, données financières et métriques clés dans la base. Quand vous demandez un communiqué, l'agent de Bazam.ai référence vos vrais chiffres et résultats. Vous vérifiez les faits plutôt que de les écrire."
 
   - q: "Comment le contenu de la base se compose-t-il dans le temps ?"
     a:

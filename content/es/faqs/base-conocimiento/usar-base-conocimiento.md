@@ -10,7 +10,7 @@ faq:
       - "Sí — automáticamente selecciona los documentos más relevantes para cada pieza de contenido. Se enfoca en el contexto más útil sin confundir con información irrelevante."
   - q: "¿Puedo indicar qué documentos usar para un contenido específico?"
     a:
-      - "Puedes mencionarle al agente el tema o producto y la IA enfocará los documentos relevantes. Cuanto más específica tu solicitud, más enfocada será la selección de contexto."
+      - "Puedes mencionarle al agente de Bazam.ai el tema o producto y la IA enfocará los documentos relevantes. Cuanto más específica tu solicitud, más enfocada será la selección de contexto."
   - q: "¿El contenido mejora con una base de conocimiento más grande?"
     a:
       - "Sí, hasta cierto punto. Más documentos relevantes producen contenido más específico y fundamentado. Elimina documentos obsoletos para mantener la calidad."

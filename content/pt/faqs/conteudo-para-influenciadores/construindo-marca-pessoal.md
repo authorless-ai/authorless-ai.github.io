@@ -40,5 +40,5 @@ faq:
 
   - q: "Como gerencio marca pessoal junto com trabalho real?"
     a:
-      - "Uma sessão por mês. Crie todo conteúdo com o agente, agende e volte ao trabalho. Marca pessoal não exige criação diária — exige uma sessão produtiva por mês."
+      - "Uma sessão por mês. Crie todo conteúdo com o agente de Bazam.ai, agende e volte ao trabalho. Marca pessoal não exige criação diária — exige uma sessão produtiva por mês."
 ---

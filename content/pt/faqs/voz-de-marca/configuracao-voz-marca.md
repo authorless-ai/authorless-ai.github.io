@@ -20,7 +20,7 @@ faq:
 
   - q: "Como testo se as configurações de voz estão certas?"
     a:
-      - "Crie uma peça de teste. Peça ao agente para criar conteúdo e compare com seu estilo existente. Se soa como sua marca, as configurações estão corretas. Se não, ajuste e teste novamente — iteração rápida até acertar."
+      - "Crie uma peça de teste. Peça ao agente de Bazam.ai para criar conteúdo e compare com seu estilo existente. Se soa como sua marca, as configurações estão corretas. Se não, ajuste e teste novamente — iteração rápida até acertar."
 
   - q: "Posso ter diferentes configurações para diferentes tipos de conteúdo?"
     a:

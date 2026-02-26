@@ -20,7 +20,7 @@ faq:
 
   - q: "Comment publier sur X/Twitter depuis Bazam.ai ?"
     a:
-      - "Connectez votre compte X et créez du contenu via l'agent IA. Il rédige tweets, threads et réponses optimisés pour le format de X. Programmez et publiez avec toutes vos autres plateformes."
+      - "Connectez votre compte X et créez du contenu via l'agent IA de Bazam.ai. Il rédige tweets, threads et réponses optimisés pour le format de X. Programmez et publiez avec toutes vos autres plateformes."
 
   - q: "Combien de plateformes puis-je connecter à Bazam.ai ?"
     a:

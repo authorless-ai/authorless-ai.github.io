@@ -28,7 +28,7 @@ faq:
 
   - q: "Come scrivo un outline per un articolo del blog con l'IA?"
     a:
-      - "Di' all'agente il tuo argomento e genera un outline strutturato — titolo, sottotitoli, punti chiave e call-to-action suggerita. Puoi aggiustare l'outline prima che l'agente lo espanda in una bozza completa. L'intero processo richiede pochi minuti."
+      - "Di' all'agente di Bazam.ai il tuo argomento e genera un outline strutturato — titolo, sottotitoli, punti chiave e call-to-action suggerita. Puoi aggiustare l'outline prima che l'agente lo espanda in una bozza completa. L'intero processo richiede pochi minuti."
 
   - q: "L'IA può scrivere contenuti long-form per il blog?"
     a:

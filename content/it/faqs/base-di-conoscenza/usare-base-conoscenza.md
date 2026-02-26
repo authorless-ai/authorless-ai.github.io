@@ -8,7 +8,7 @@ faq:
 
   - q: "Come creo contenuti di marketing specifici per prodotto con l'IA?"
     a:
-      - "Metti i dettagli del prodotto nella base di conoscenza e chiedi all'agente di scrivere su qualsiasi prodotto. Fa riferimento a specifiche, funzionalità, prezzi e benefici reali. 'Scrivi un articolo sulla nostra gamma premium' e sa già cosa significa."
+      - "Metti i dettagli del prodotto nella base di conoscenza di Bazam.ai e chiedi all'agente di scrivere su qualsiasi prodotto. Fa riferimento a specifiche, funzionalità, prezzi e benefici reali. 'Scrivi un articolo sulla nostra gamma premium' e sa già cosa significa."
 
   - q: "Come uso i case study nei contenuti IA?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Come scrivo comunicati stampa che fanno riferimento a dati reali?"
     a:
-      - "Metti report, dati finanziari e metriche chiave nella base di conoscenza. Quando chiedi un comunicato stampa, l'agente fa riferimento ai tuoi numeri e risultati reali. Verifichi i fatti piuttosto che scriverli."
+      - "Metti report, dati finanziari e metriche chiave nella base di conoscenza di Bazam.ai. Quando chiedi un comunicato stampa, l'agente fa riferimento ai tuoi numeri e risultati reali. Verifichi i fatti piuttosto che scriverli."
 
   - q: "Come si accumula il valore della base di conoscenza nel tempo?"
     a:

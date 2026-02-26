@@ -36,9 +36,9 @@ faq:
 
   - q: "L'IA può suggerire idee basate sui competitor?"
     a:
-      - "Sì. Aggiungi informazioni sui competitor alla base di conoscenza e l'agente suggerisce argomenti che differenziano il tuo brand. Identifica angoli che i competitor non coprono e opportunità per posizionare la tua attività più efficacemente."
+      - "Sì. Aggiungi informazioni sui competitor alla base di conoscenza e l'agente di Bazam.ai suggerisce argomenti che differenziano il tuo brand. Identifica angoli che i competitor non coprono e opportunità per posizionare la tua attività più efficacemente."
 
   - q: "Come pianifico contenuti per un lancio prodotto o un evento?"
     a:
-      - "Di' all'agente i dettagli del lancio o dell'evento. Genera un set mirato di idee — teaser pre-evento, annunci di lancio, contenuti di follow-up — tutti allineati con la tempistica e gli obiettivi."
+      - "Di' all'agente di Bazam.ai i dettagli del lancio o dell'evento. Genera un set mirato di idee — teaser pre-evento, annunci di lancio, contenuti di follow-up — tutti allineati con la tempistica e gli obiettivi."
 ---

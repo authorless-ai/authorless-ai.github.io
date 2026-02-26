@@ -4,7 +4,7 @@ description: "Cosa caricare, come organizzare e best practice per costruire una 
 faq:
   - q: "Cosa dovrei caricare nella base di conoscenza IA?"
     a:
-      - "Tutto ciò che daresti a un nuovo assunto nel marketing: specifiche e prezzi dei prodotti, linee guida del brand, case study, testimonianze dei clienti, confronti con i competitor, report di settore, documenti di messaggistica chiave ed esempi di campagne passate. Più contesto ha l'agente, migliore è ogni contenuto."
+      - "Tutto ciò che daresti a un nuovo assunto nel marketing: specifiche e prezzi dei prodotti, linee guida del brand, case study, testimonianze dei clienti, confronti con i competitor, report di settore, documenti di messaggistica chiave ed esempi di campagne passate. Più contesto ha l'agente di Bazam.ai, migliore è ogni contenuto."
 
   - q: "Come carico documenti nella base di conoscenza di Bazam.ai?"
     a:
@@ -12,7 +12,7 @@ faq:
 
   - q: "Quali tipi di file supporta la base di conoscenza?"
     a:
-      - "PDF, documenti Word, presentazioni, pagine web (via URL) e testo semplice. Carica cataloghi prodotti, linee guida del brand, report di ricerca, case study o qualsiasi documento che aiuti l'agente a capire la tua attività."
+      - "PDF, documenti Word, presentazioni, pagine web (via URL) e testo semplice. Carica cataloghi prodotti, linee guida del brand, report di ricerca, case study o qualsiasi documento che aiuti l'agente di Bazam.ai a capire la tua attività."
 
   - q: "Posso aggiungere pagine web alla base di conoscenza?"
     a:

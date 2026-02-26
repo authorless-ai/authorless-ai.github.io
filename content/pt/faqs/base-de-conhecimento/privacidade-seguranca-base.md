@@ -16,7 +16,7 @@ faq:
 
   - q: "Posso excluir documentos da base de conhecimento?"
     a:
-      - "Sim. Remova qualquer documento a qualquer momento. Uma vez excluído, não é mais referenciado pelo agente. Sua base está totalmente sob seu controle."
+      - "Sim. Remova qualquer documento a qualquer momento. Uma vez excluído, não é mais referenciado pelo agente de Bazam.ai. Sua base está totalmente sob seu controle."
 
   - q: "É seguro enviar informação sensível de negócio?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Enviar documentos afeta treinamento de modelos de IA?"
     a:
-      - "Não. Seus documentos nunca são usados para treinar modelos. Eles informam o output do agente apenas para seu projeto. Esta é uma fronteira firme de privacidade — sua inteligência de negócio permanece sua."
+      - "Não. Seus documentos nunca são usados para treinar modelos. Eles informam o output do agente de Bazam.ai apenas para seu projeto. Esta é uma fronteira firme de privacidade — sua inteligência de negócio permanece sua."
 
   - q: "Posso usar base de conhecimento em setores regulados?"
     a:

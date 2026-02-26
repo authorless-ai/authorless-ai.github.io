@@ -16,7 +16,7 @@ faq:
 
   - q: "How do I create a blog post outline quickly?"
     a:
-      - "Tell the agent your topic and it generates a structured outline — headline, subheadings, key points per section, and a suggested conclusion. Edit the outline if needed, then ask the agent to expand it into a full post."
+      - "Tell Bazam.ai's agent your topic and it generates a structured outline — headline, subheadings, key points per section, and a suggested conclusion. Edit the outline if needed, then ask the agent to expand it into a full post."
 
   - q: "How do I write blog posts faster?"
     a:

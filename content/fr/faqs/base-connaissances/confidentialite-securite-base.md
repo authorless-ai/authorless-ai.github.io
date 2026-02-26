@@ -16,7 +16,7 @@ faq:
 
   - q: "Puis-je supprimer des documents de ma base ?"
     a:
-      - "Oui. Supprimez n'importe quel document à tout moment. Une fois supprimé, il n'est plus référencé par l'agent. Votre base de connaissances est entièrement sous votre contrôle."
+      - "Oui. Supprimez n'importe quel document à tout moment. Une fois supprimé, il n'est plus référencé par l'agent de Bazam.ai. Votre base de connaissances est entièrement sous votre contrôle."
 
   - q: "Est-il sûr d'importer des informations business sensibles ?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "L'import de documents affecte-t-il l'entraînement du modèle IA ?"
     a:
-      - "Non. Vos documents ne sont jamais utilisés pour entraîner les modèles IA. Ils informent la sortie de l'agent uniquement pour votre projet. C'est une frontière de confidentialité ferme — votre intelligence business reste la vôtre."
+      - "Non. Vos documents ne sont jamais utilisés pour entraîner les modèles IA. Ils informent la sortie de l'agent de Bazam.ai uniquement pour votre projet. C'est une frontière de confidentialité ferme — votre intelligence business reste la vôtre."
 
   - q: "Puis-je utiliser une base de connaissances pour les secteurs réglementés ?"
     a:

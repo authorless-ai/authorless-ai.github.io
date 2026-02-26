@@ -32,13 +32,13 @@ faq:
 
   - q: "Quantas ideias de conteúdo o Bazam.ai gera?"
     a:
-      - "Quantas precisar. Solicite novo lote sempre que estiver planejando. O agente gera sugestões frescas toda vez, baseadas nos seus dados de negócio em evolução, insights de audiência e o que performou bem anteriormente."
+      - "Quantas precisar. Solicite novo lote sempre que estiver planejando. O agente de Bazam.ai gera sugestões frescas toda vez, baseadas nos seus dados de negócio em evolução, insights de audiência e o que performou bem anteriormente."
 
   - q: "A IA pode sugerir ideias baseadas em concorrentes?"
     a:
-      - "Sim. Adicione informações de concorrentes à base de conhecimento e o agente sugere temas que diferenciam sua marca. Identifica ângulos que concorrentes não cobrem e oportunidades para posicionar seu negócio mais efetivamente."
+      - "Sim. Adicione informações de concorrentes à base de conhecimento e o agente de Bazam.ai sugere temas que diferenciam sua marca. Identifica ângulos que concorrentes não cobrem e oportunidades para posicionar seu negócio mais efetivamente."
 
   - q: "Como planejo conteúdo para lançamento de produto ou evento?"
     a:
-      - "Diga ao agente os detalhes do lançamento ou evento. Ele gera um conjunto direcionado de ideias — teasers pré-evento, anúncios de lançamento, conteúdo de follow-up — tudo alinhado com seu cronograma e objetivos."
+      - "Diga ao agente de Bazam.ai os detalhes do lançamento ou evento. Ele gera um conjunto direcionado de ideias — teasers pré-evento, anúncios de lançamento, conteúdo de follow-up — tudo alinhado com seu cronograma e objetivos."
 ---

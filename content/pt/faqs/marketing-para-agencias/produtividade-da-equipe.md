@@ -32,7 +32,7 @@ faq:
 
   - q: "Freelancers podem usar o Bazam.ai para trabalho de clientes da agência?"
     a:
-      - "Sim. Convide freelancers com acesso de colaborador para projetos de clientes relevantes. Eles criam conteúdo através do agente usando o contexto de marca do cliente. Sua equipe revisa e aprova. Freelancers produzem trabalho alinhado com a marca sem briefing extensivo."
+      - "Sim. Convide freelancers com acesso de colaborador para projetos de clientes relevantes em Bazam.ai. Eles criam conteúdo através do agente usando o contexto de marca do cliente. Sua equipe revisa e aprova. Freelancers produzem trabalho alinhado com a marca sem briefing extensivo."
 
   - q: "Como padronizo processos na minha agência?"
     a:

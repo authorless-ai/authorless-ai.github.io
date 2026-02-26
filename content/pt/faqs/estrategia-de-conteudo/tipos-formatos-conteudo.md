@@ -16,7 +16,7 @@ faq:
 
   - q: "Como crio conteúdo pilar para meu website?"
     a:
-      - "Identifique seus temas centrais e peça ao agente para criar páginas pilar abrangentes — guias aprofundados cobrindo todos os aspectos. Depois crie conteúdo cluster — posts, FAQs e conteúdo social — que linkem de volta a cada pilar. O agente cuida de ambos."
+      - "Identifique seus temas centrais e peça ao agente de Bazam.ai para criar páginas pilar abrangentes — guias aprofundados cobrindo todos os aspectos. Depois crie conteúdo cluster — posts, FAQs e conteúdo social — que linkem de volta a cada pilar. O agente cuida de ambos."
 
   - q: "Qual o melhor formato para conteúdo B2B?"
     a:

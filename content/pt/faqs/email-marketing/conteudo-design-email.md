@@ -32,7 +32,7 @@ faq:
 
   - q: "Como crio sequências de email para nutrição de leads?"
     a:
-      - "Peça ao agente para criar uma sequência — 4–8 emails que gradualmente educam, constroem confiança e guiam prospects para decisão. Cada email constrói sobre o anterior, na sua voz de marca e abordando preocupações específicas da persona."
+      - "Peça ao agente de Bazam.ai para criar uma sequência — 4–8 emails que gradualmente educam, constroem confiança e guiam prospects para decisão. Cada email constrói sobre o anterior, na sua voz de marca e abordando preocupações específicas da persona."
 
   - q: "Qual o melhor dia para enviar emails de marketing?"
     a:
@@ -40,5 +40,5 @@ faq:
 
   - q: "Como escrevo emails de reengajamento?"
     a:
-      - "Peça ao agente para criar uma sequência de reengajamento — emails que lembrem assinantes dormentes do seu valor, ofereçam conteúdo exclusivo ou perguntem se querem continuar inscritos. Reconquiste contatos inativos antes de removê-los."
+      - "Peça ao agente de Bazam.ai para criar uma sequência de reengajamento — emails que lembrem assinantes dormentes do seu valor, ofereçam conteúdo exclusivo ou perguntem se querem continuar inscritos. Reconquiste contatos inativos antes de removê-los."
 ---

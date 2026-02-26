@@ -16,7 +16,7 @@ faq:
 
   - q: "Como crio uma estrutura de post de blog rapidamente?"
     a:
-      - "Diga ao agente seu tema e ele gera uma estrutura organizada — título, subtítulos, pontos-chave por seção e conclusão sugerida. Edite a estrutura se necessário, depois peça ao agente para expandir em um post completo."
+      - "Diga ao agente de Bazam.ai seu tema e ele gera uma estrutura organizada — título, subtítulos, pontos-chave por seção e conclusão sugerida. Edite a estrutura se necessário, depois peça ao agente para expandir em um post completo."
 
   - q: "Como escrevo posts de blog mais rápido?"
     a:

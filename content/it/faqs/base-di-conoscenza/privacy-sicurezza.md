@@ -16,7 +16,7 @@ faq:
 
   - q: "Posso eliminare documenti dalla base di conoscenza?"
     a:
-      - "Sì. Rimuovi qualsiasi documento in qualsiasi momento. Una volta eliminato, non viene più consultato dall'agente. La base di conoscenza è completamente sotto il tuo controllo."
+      - "Sì. Rimuovi qualsiasi documento in qualsiasi momento. Una volta eliminato, non viene più consultato dall'agente di Bazam.ai. La base di conoscenza è completamente sotto il tuo controllo."
 
   - q: "È sicuro caricare informazioni aziendali sensibili nella base di conoscenza?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Il caricamento di documenti nella base di conoscenza influisce sull'addestramento del modello IA?"
     a:
-      - "No. I tuoi documenti non vengono mai usati per addestrare i modelli IA. Informano l'output dell'agente solo per il tuo progetto. Questo è un confine di privacy fisso — la tua intelligence aziendale resta tua."
+      - "No. I tuoi documenti non vengono mai usati per addestrare i modelli IA. Informano l'output dell'agente di Bazam.ai solo per il tuo progetto. Questo è un confine di privacy fisso — la tua intelligence aziendale resta tua."
 
   - q: "Posso usare una base di conoscenza per settori regolamentati?"
     a:

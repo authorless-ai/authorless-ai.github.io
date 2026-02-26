@@ -36,7 +36,7 @@ faq:
 
   - q: "Como republico conteúdo antigo nas redes?"
     a:
-      - "Encontre post original, duplique, atualize se necessário e reagende. Conteúdo evergreen — dicas, guias, FAQs — pode ser atualizado e republicado periodicamente. O agente ajuda a atualizar mensagem com ângulo fresco."
+      - "Encontre post original, duplique, atualize se necessário e reagende. Conteúdo evergreen — dicas, guias, FAQs — pode ser atualizado e republicado periodicamente. O agente de Bazam.ai ajuda a atualizar mensagem com ângulo fresco."
 
   - q: "Como gerencio redes da semana inteira em uma sessão?"
     a:

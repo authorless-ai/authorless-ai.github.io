@@ -36,7 +36,7 @@ faq:
 
   - q: "Quelle quantité d'information mettre dans ma base ?"
     a:
-      - "Le plus possible. Plus l'agent a de contexte, plus chaque contenu s'enrichit. Commencez par les infos produit, directives de marque et messaging clé. Ajoutez études de cas, recherche concurrentielle et rapports sectoriels avec le temps. La qualité se compose."
+      - "Le plus possible. Plus l'agent de Bazam.ai a de contexte, plus chaque contenu s'enrichit. Commencez par les infos produit, directives de marque et messaging clé. Ajoutez études de cas, recherche concurrentielle et rapports sectoriels avec le temps. La qualité se compose."
 
   - q: "Une base fonctionne-t-elle pour tous mes types de contenu ?"
     a:

@@ -16,7 +16,7 @@ faq:
 
   - q: "Comment créer des campagnes email promotionnelles ?"
     a:
-      - "Dites à l'agent les détails de votre promotion — réduction, produit, audience cible et date limite. Il crée une campagne email complète — annonce, rappel et dernière chance — chacune créant urgence et incitant à l'action."
+      - "Dites à l'agent de Bazam.ai les détails de votre promotion — réduction, produit, audience cible et date limite. Il crée une campagne email complète — annonce, rappel et dernière chance — chacune créant urgence et incitant à l'action."
 
   - q: "Comment rédiger des emails de demande d'avis produit ?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "Comment créer du contenu marketing pour une vente flash ?"
     a:
-      - "Dites à l'agent les détails et le calendrier de votre vente. Il crée un pack de contenu rapide — teaser, lancement, compte à rebours et dernière chance sur social et email. Programmez tout à l'avance et la vente flash se gère toute seule."
+      - "Dites à l'agent de Bazam.ai les détails et le calendrier de votre vente. Il crée un pack de contenu rapide — teaser, lancement, compte à rebours et dernière chance sur social et email. Programmez tout à l'avance et la vente flash se gère toute seule."
 
   - q: "Comment marketer des produits par abonnement ?"
     a:

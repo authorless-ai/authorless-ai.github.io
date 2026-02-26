@@ -16,7 +16,7 @@ faq:
 
   - q: "Come creo velocemente una scaletta per un articolo del blog?"
     a:
-      - "Di' all'agente il tuo argomento e genera una scaletta strutturata — titolo, sottotitoli, punti chiave per sezione e conclusione suggerita. Modifica la scaletta se necessario, poi chiedi all'agente di espanderla in un articolo completo."
+      - "Di' all'agente di Bazam.ai il tuo argomento e genera una scaletta strutturata — titolo, sottotitoli, punti chiave per sezione e conclusione suggerita. Modifica la scaletta se necessario, poi chiedi all'agente di espanderla in un articolo completo."
 
   - q: "Come scrivo articoli del blog più velocemente?"
     a:

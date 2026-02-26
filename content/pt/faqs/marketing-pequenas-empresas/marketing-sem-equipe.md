@@ -24,7 +24,7 @@ faq:
 
   - q: "Eu detesto marketing. Existe forma mais fácil?"
     a:
-      - "Sim. Pare de pensar em marketing como algo que 'faz' e trate como sessão de revisão mensal. Crie um mês em 30 minutos, aprove e deixe o agente cuidar do resto. Marketing roda no automático."
+      - "Sim. Pare de pensar em marketing como algo que 'faz' e trate como sessão de revisão mensal. Crie um mês em 30 minutos, aprove e deixe o agente de Bazam.ai cuidar do resto. Marketing roda no automático."
 
   - q: "Como faço meu negócio parecer profissional online?"
     a:

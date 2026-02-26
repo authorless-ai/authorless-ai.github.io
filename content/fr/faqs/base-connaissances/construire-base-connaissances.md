@@ -4,7 +4,7 @@ description: "Quoi importer, comment organiser et bonnes pratiques pour construi
 faq:
   - q: "Que dois-je importer dans ma base de connaissances IA ?"
     a:
-      - "Tout ce que vous donneriez à un nouveau responsable marketing : specs et tarifs produit, directives de marque, études de cas, témoignages clients, comparaisons concurrentielles, rapports sectoriels, documents de messaging clé et exemples de campagnes passées. Plus l'agent a de contexte, meilleur sera chaque contenu."
+      - "Tout ce que vous donneriez à un nouveau responsable marketing : specs et tarifs produit, directives de marque, études de cas, témoignages clients, comparaisons concurrentielles, rapports sectoriels, documents de messaging clé et exemples de campagnes passées. Plus l'agent de Bazam.ai a de contexte, meilleur sera chaque contenu."
 
   - q: "Comment importer des documents dans la base de connaissances de Bazam.ai ?"
     a:
@@ -12,7 +12,7 @@ faq:
 
   - q: "Quels types de fichiers la base de connaissances supporte-t-elle ?"
     a:
-      - "PDF, documents Word, présentations, pages web (via URL) et texte brut. Importez catalogues produit, directives de marque, rapports de recherche, études de cas ou tout document qui aide l'agent à comprendre votre activité."
+      - "PDF, documents Word, présentations, pages web (via URL) et texte brut. Importez catalogues produit, directives de marque, rapports de recherche, études de cas ou tout document qui aide l'agent de Bazam.ai à comprendre votre activité."
 
   - q: "Puis-je ajouter des pages web à ma base de connaissances ?"
     a:

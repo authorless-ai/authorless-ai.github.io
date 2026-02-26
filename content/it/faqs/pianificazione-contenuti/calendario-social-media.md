@@ -28,7 +28,7 @@ faq:
 
   - q: "Come gestisco notizie dell'ultimo minuto o argomenti di tendenza su un calendario pianificato?"
     a:
-      - "Crea contenuti reattivi velocemente con l'agente IA, pubblicali immediatamente e aggiusta il calendario esistente se necessario. Sposta i contenuti pianificati in slot diversi per fare spazio. Il calendario si adatta sia alla pubblicazione pianificata che a quella reattiva."
+      - "Crea contenuti reattivi velocemente con l'agente IA di Bazam.ai, pubblicali immediatamente e aggiusta il calendario esistente se necessario. Sposta i contenuti pianificati in slot diversi per fare spazio. Il calendario si adatta sia alla pubblicazione pianificata che a quella reattiva."
 
   - q: "Come creo contenuti social evergreen?"
     a:

@@ -20,7 +20,7 @@ faq:
 
   - q: "Como adapto posts de blog para redes sociais?"
     a:
-      - "Peça ao agente. Dê um post de blog e ele cria versões sociais para toda plataforma — extraindo citações-chave, criando resumos e formatando cada um. Um post de blog gera uma semana de conteúdo social."
+      - "Peça ao agente de Bazam.ai. Dê um post de blog e ele cria versões sociais para toda plataforma — extraindo citações-chave, criando resumos e formatando cada um. Um post de blog gera uma semana de conteúdo social."
 
   - q: "O Bazam.ai lida com dimensões de imagem para diferentes plataformas?"
     a:
@@ -36,9 +36,9 @@ faq:
 
   - q: "Como crio threads no Twitter de conteúdo longo?"
     a:
-      - "Peça ao agente para transformar post de blog em thread. Ele divide em chunks com tweet de abertura convincente e fluxo claro. Cada tweet funciona sozinho enquanto constrói a narrativa geral."
+      - "Peça ao agente de Bazam.ai para transformar post de blog em thread. Ele divide em chunks com tweet de abertura convincente e fluxo claro. Cada tweet funciona sozinho enquanto constrói a narrativa geral."
 
   - q: "Como reaproveito conteúdo de vídeo para diferentes plataformas?"
     a:
-      - "Dê ao agente roteiro ou resumo do vídeo e ele cria conteúdo complementar por plataforma — legendas Instagram, descrições YouTube, threads no Twitter e posts LinkedIn — todos promovendo o mesmo vídeo em formato nativo."
+      - "Dê ao agente de Bazam.ai roteiro ou resumo do vídeo e ele cria conteúdo complementar por plataforma — legendas Instagram, descrições YouTube, threads no Twitter e posts LinkedIn — todos promovendo o mesmo vídeo em formato nativo."
 ---

@@ -20,7 +20,7 @@ faq:
 
   - q: "How do I create a content series for social media?"
     a:
-      - "Tell the agent your series theme — 'Monday Mindset', 'Weekly Tips', 'Industry Insights.' It creates a consistent series format and generates weeks of episode content. Regular series build audience expectations and engagement."
+      - "Tell Bazam.ai's agent your series theme — 'Monday Mindset', 'Weekly Tips', 'Industry Insights.' It creates a consistent series format and generates weeks of episode content. Regular series build audience expectations and engagement."
 
   - q: "How do I write engaging captions for Instagram?"
     a:

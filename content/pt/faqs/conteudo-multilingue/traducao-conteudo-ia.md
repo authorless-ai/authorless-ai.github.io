@@ -24,7 +24,7 @@ faq:
 
   - q: "Como crio conteúdo para mercados internacionais?"
     a:
-      - "Crie no idioma principal, depois traduza. O agente adapta cada versão para o mercado-alvo — mensagem culturalmente adequada, não apenas texto traduzido."
+      - "Crie no idioma principal, depois traduza. O agente de Bazam.ai adapta cada versão para o mercado-alvo — mensagem culturalmente adequada, não apenas texto traduzido."
 
   - q: "Tradução com IA é melhor que tradução humana?"
     a:

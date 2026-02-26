@@ -16,7 +16,7 @@ faq:
 
   - q: "Come creo campagne di marketing stagionali?"
     a:
-      - "Di' all'agente il tema stagionale e il pubblico target. Genera campagne festive, promozioni per il rientro a scuola, saldi estivi o contenuti per il Black Friday su tutte le piattaforme. Pianifica le campagne stagionali mesi in anticipo e programma tutto."
+      - "Di' all'agente di Bazam.ai il tema stagionale e il pubblico target. Genera campagne festive, promozioni per il rientro a scuola, saldi estivi o contenuti per il Black Friday su tutte le piattaforme. Pianifica le campagne stagionali mesi in anticipo e programma tutto."
 
   - q: "Come gestisco il tracciamento UTM per le campagne?"
     a:
@@ -24,7 +24,7 @@ faq:
 
   - q: "Come creo contenuti per le diverse fasi della campagna?"
     a:
-      - "Definisci le fasi — teaser, lancio, mantenimento, chiusura — e l'agente crea contenuti appropriati per ogni fase. Il pre-lancio genera anticipazione, il giorno del lancio guida l'azione, il mantenimento sostiene l'interesse e la chiusura crea urgenza."
+      - "Definisci le fasi — teaser, lancio, mantenimento, chiusura — e l'agente di Bazam.ai crea contenuti appropriati per ogni fase. Il pre-lancio genera anticipazione, il giorno del lancio guida l'azione, il mantenimento sostiene l'interesse e la chiusura crea urgenza."
 
   - q: "Come gestisco più campagne contemporaneamente?"
     a:

@@ -28,7 +28,7 @@ faq:
 
   - q: "Como ONGs lidam com comunicação de crise nas redes?"
     a:
-      - "Responda rápido com mensagem honesta e transparente. O agente cria conteúdo rapidamente — atualizações sociais, comunicados e mensagens para doadores. Velocidade e transparência constroem confiança."
+      - "Responda rápido com mensagem honesta e transparente. O agente de Bazam.ai cria conteúdo rapidamente — atualizações sociais, comunicados e mensagens para doadores. Velocidade e transparência constroem confiança."
 
   - q: "Como ONGs criam conteúdo de promoção de eventos?"
     a:

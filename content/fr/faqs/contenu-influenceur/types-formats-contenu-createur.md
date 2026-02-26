@@ -20,7 +20,7 @@ faq:
 
   - q: "Comment créer une série de contenu pour les réseaux sociaux ?"
     a:
-      - "Dites à l'agent votre thème de série — 'Motivation Lundi', 'Conseils hebdo', 'Insights sectoriels'. Il crée un format de série cohérent et génère des semaines de contenu. Les séries régulières construisent les attentes et l'engagement de l'audience."
+      - "Dites à l'agent de Bazam.ai votre thème de série — 'Motivation Lundi', 'Conseils hebdo', 'Insights sectoriels'. Il crée un format de série cohérent et génère des semaines de contenu. Les séries régulières construisent les attentes et l'engagement de l'audience."
 
   - q: "Comment rédiger des légendes Instagram engageantes ?"
     a:

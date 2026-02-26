@@ -40,5 +40,5 @@ faq:
 
   - q: "Come riutilizzo contenuti video per piattaforme diverse?"
     a:
-      - "Dai all'agente lo script video o il riassunto e crea contenuti companion specifici per piattaforma — caption Instagram, descrizioni YouTube, thread di tweet e post LinkedIn — tutti promuovendo lo stesso video nel formato nativo della piattaforma."
+      - "Dai all'agente di Bazam.ai lo script video o il riassunto e crea contenuti companion specifici per piattaforma — caption Instagram, descrizioni YouTube, thread di tweet e post LinkedIn — tutti promuovendo lo stesso video nel formato nativo della piattaforma."
 ---

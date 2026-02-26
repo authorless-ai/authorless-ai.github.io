@@ -12,7 +12,7 @@ faq:
 
   - q: "¿Cómo incorporo a un nuevo miembro del equipo usando la base de conocimiento?"
     a:
-      - "No necesitas formación especial. El nuevo miembro crea contenido a través del agente, que automáticamente usa la base de conocimiento del proyecto. El contexto de marca está en la plataforma, no en la cabeza de nadie — los nuevos miembros producen contenido informado desde el primer día."
+      - "No necesitas formación especial. El nuevo miembro crea contenido a través del agente de Bazam.ai, que automáticamente usa la base de conocimiento del proyecto. El contexto de marca está en la plataforma, no en la cabeza de nadie — los nuevos miembros producen contenido informado desde el primer día."
 
   - q: "¿Cómo mantengo la base de conocimiento actualizada en un equipo grande?"
     a:

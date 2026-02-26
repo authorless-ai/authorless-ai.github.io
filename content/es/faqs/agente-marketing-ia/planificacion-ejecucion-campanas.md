@@ -32,7 +32,7 @@ faq:
 
   - q: "¿Puedo reutilizar el contenido de campañas anteriores?"
     a:
-      - "Sí. Sube el contenido de campañas anteriores a la base de conocimiento. El agente puede crear variaciones actualizadas basándose en lo que funcionó antes — aprovechando los insights de campañas anteriores."
+      - "Sí. Sube el contenido de campañas anteriores a la base de conocimiento. El agente de Bazam.ai puede crear variaciones actualizadas basándose en lo que funcionó antes — aprovechando los insights de campañas anteriores."
 
   - q: "¿Cómo gestiono campañas para múltiples clientes?"
     a:

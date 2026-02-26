@@ -24,7 +24,7 @@ faq:
 
   - q: "How do I handle agency client content requests?"
     a:
-      - "Tell the agent. Upload client input to the knowledge base, ask the agent to create the requested content, review, and publish. What used to take days — briefing, writing, revisions — now takes minutes."
+      - "Tell Bazam.ai's agent. Upload client input to the knowledge base, ask the agent to create the requested content, review, and publish. What used to take days — briefing, writing, revisions — now takes minutes."
 
   - q: "How do I manage agency client expectations?"
     a:

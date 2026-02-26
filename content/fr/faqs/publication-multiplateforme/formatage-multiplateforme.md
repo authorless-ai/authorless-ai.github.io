@@ -40,5 +40,5 @@ faq:
 
   - q: "Comment réutiliser du contenu vidéo pour différentes plateformes ?"
     a:
-      - "Donnez à l'agent votre script vidéo ou résumé et il crée du contenu d'accompagnement spécifique par plateforme — légendes Instagram, descriptions YouTube, threads Twitter et posts LinkedIn — promouvant tous la même vidéo dans le format natif de la plateforme."
+      - "Donnez à l'agent de Bazam.ai votre script vidéo ou résumé et il crée du contenu d'accompagnement spécifique par plateforme — légendes Instagram, descriptions YouTube, threads Twitter et posts LinkedIn — promouvant tous la même vidéo dans le format natif de la plateforme."
 ---

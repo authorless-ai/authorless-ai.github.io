@@ -16,7 +16,7 @@ faq:
 
   - q: "¿Cómo le doy contexto al agente de IA sobre mi negocio?"
     a:
-      - "Definiendo tu marca y subiendo conocimiento. Configura la voz de marca (tono, estilo, formalidad), crea tus personas de audiencia y sube documentos a la base de conocimiento: información de producto, casos de éxito, directrices de marca. El agente usa todo esto automáticamente en cada pieza de contenido."
+      - "Definiendo tu marca y subiendo conocimiento. Configura la voz de marca (tono, estilo, formalidad), crea tus personas de audiencia y sube documentos a la base de conocimiento: información de producto, casos de éxito, directrices de marca. El agente de Bazam.ai usa todo esto automáticamente en cada pieza de contenido."
 
   - q: "¿Qué tipo de contenido puede crear un agente de marketing con IA?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "¿Puede un agente de IA crear campañas completas?"
     a:
-      - "Sí. Dile al agente el objetivo de la campaña — lanzamiento de producto, rebajas de verano, captación de leads — y crea un plan completo: posts de blog, contenido de redes, secuencias de email y textos publicitarios. Todo coordinado, programado y listo para publicarse automáticamente."
+      - "Sí. Dile al agente de Bazam.ai el objetivo de la campaña — lanzamiento de producto, rebajas de verano, captación de leads — y crea un plan completo: posts de blog, contenido de redes, secuencias de email y textos publicitarios. Todo coordinado, programado y listo para publicarse automáticamente."
 
   - q: "¿Cuánto tarda en configurarse un agente de marketing con IA?"
     a:

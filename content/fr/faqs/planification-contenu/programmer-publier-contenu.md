@@ -36,7 +36,7 @@ faq:
 
   - q: "Comment publier du contenu directement depuis Bazam.ai ?"
     a:
-      - "Connectez vos comptes une fois — WordPress, Facebook, Instagram, LinkedIn, X, YouTube, TikTok. Créez du contenu avec les assistants ou l'agent, programmez sur le calendrier, et le contenu se publie directement sur chaque plateforme. Pas d'export, pas de copier-coller."
+      - "Connectez vos comptes une fois — WordPress, Facebook, Instagram, LinkedIn, X, YouTube, TikTok. Créez du contenu avec les assistants ou l'agent de Bazam.ai, programmez sur le calendrier, et le contenu se publie directement sur chaque plateforme. Pas d'export, pas de copier-coller."
 
   - q: "Comment gérer la publication quand les plateformes ont des formats différents ?"
     a:

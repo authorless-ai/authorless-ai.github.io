@@ -4,7 +4,7 @@ description: "Como pequenas empresas constroem presença social eficaz sem gasta
 faq:
   - q: "O que pequena empresa deve postar nas redes?"
     a:
-      - "Conteúdo que ajuda audiência. Dicas, bastidores, histórias de clientes, insights do setor e novidades de produto — na voz da marca. O agente sugere temas e cria posts, sem luta para decidir o que compartilhar."
+      - "Conteúdo que ajuda audiência. Dicas, bastidores, histórias de clientes, insights do setor e novidades de produto — na voz da marca. O agente de Bazam.ai sugere temas e cria posts, sem luta para decidir o que compartilhar."
 
   - q: "Com que frequência deve postar?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Como uso hashtags eficazmente?"
     a:
-      - "Misture hashtags de nicho e amplas relevantes ao setor e audiência. O agente inclui hashtags adequadas ao criar conteúdo — equilibrando alcance (populares) com relevância (de nicho)."
+      - "Misture hashtags de nicho e amplas relevantes ao setor e audiência. O agente de Bazam.ai inclui hashtags adequadas ao criar conteúdo — equilibrando alcance (populares) com relevância (de nicho)."
 
   - q: "Como crio presença social do zero?"
     a:

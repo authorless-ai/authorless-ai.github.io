@@ -32,7 +32,7 @@ faq:
 
   - q: "Can freelancers use Bazam.ai for agency client work?"
     a:
-      - "Yes. Invite freelancers with contributor access to relevant client projects. They create content through the agent using the client's brand context. Your team reviews and approves. Freelancers produce on-brand work without extensive briefing."
+      - "Yes. Invite freelancers with contributor access to relevant client projects in Bazam.ai. They create content through the agent using the client's brand context. Your team reviews and approves. Freelancers produce on-brand work without extensive briefing."
 
   - q: "How do I standardise processes across my agency?"
     a:

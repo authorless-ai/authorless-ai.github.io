@@ -31,5 +31,5 @@ faq:
       - "Sí. El análisis funciona con webs en español y en más de 50 idiomas. Analiza el tono, la formalidad y los patrones de comunicación independientemente del idioma."
   - q: "¿Qué información necesita el análisis de marca?"
     a:
-      - "Tu URL principal es suficiente. El agente analiza las páginas accesibles y extrae los patrones. Cuanto más contenido haya en tu web, más preciso será el análisis."
+      - "Tu URL principal es suficiente. El agente de Bazam.ai analiza las páginas accesibles y extrae los patrones. Cuanto más contenido haya en tu web, más preciso será el análisis."
 ---

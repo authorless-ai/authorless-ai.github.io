@@ -7,10 +7,10 @@ faq:
       - "Proporciona tu URL principal al agente de Bazam.ai. El análisis se ejecuta automáticamente y genera un perfil de voz — tono, formalidad, personalidad y valores de marca. Revisa y ajusta el resultado."
   - q: "¿Cuánto tarda el análisis de marca?"
     a:
-      - "Unos minutos. El agente analiza tu web, extrae patrones de comunicación y genera el perfil de voz. La revisión y ajuste tarda otros 5 a 10 minutos."
+      - "Unos minutos. El agente de Bazam.ai analiza tu web, extrae patrones de comunicación y genera el perfil de voz. La revisión y ajuste tarda otros 5 a 10 minutos."
   - q: "¿Qué pasa si no estoy de acuerdo con los resultados?"
     a:
-      - "Modifícalos. El análisis es un punto de partida — tú tienes el control final. Si el agente detecta un tono formal pero tú quieres ser más cercano, ajústalo directamente."
+      - "Modifícalos. El análisis es un punto de partida — tú tienes el control final. Si el agente de Bazam.ai detecta un tono formal pero tú quieres ser más cercano, ajústalo directamente."
   - q: "¿Puedo refinar el análisis con el tiempo?"
     a:
       - "Sí. A medida que creas más contenido y defines mejor tu marca, actualiza la configuración de voz. La marca evoluciona; tu configuración debería evolucionar con ella."

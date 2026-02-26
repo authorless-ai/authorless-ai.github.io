@@ -32,7 +32,7 @@ faq:
 
   - q: "How do I create seasonal marketing campaigns with AI?"
     a:
-      - "Tell the agent your seasonal theme — Black Friday, Christmas, back-to-school, summer sale — and target audience. It generates a complete campaign: social posts, blog content, ad copy, and email newsletters. Schedule everything in one session and the campaign runs on autopilot."
+      - "Tell Bazam.ai's agent your seasonal theme — Black Friday, Christmas, back-to-school, summer sale — and target audience. It generates a complete campaign: social posts, blog content, ad copy, and email newsletters. Schedule everything in one session and the campaign runs on autopilot."
 
   - q: "How do I create content for multiple products at once?"
     a:

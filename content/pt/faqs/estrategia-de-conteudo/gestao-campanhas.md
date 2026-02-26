@@ -16,7 +16,7 @@ faq:
 
   - q: "Como crio campanhas de marketing sazonais?"
     a:
-      - "Diga ao agente seu tema sazonal e audiência-alvo. Ele gera campanhas festivas, promoções de volta às aulas, liquidações de verão ou conteúdo de Black Friday para todas as plataformas. Planeje campanhas sazonais meses antes e agende tudo."
+      - "Diga ao agente de Bazam.ai seu tema sazonal e audiência-alvo. Ele gera campanhas festivas, promoções de volta às aulas, liquidações de verão ou conteúdo de Black Friday para todas as plataformas. Planeje campanhas sazonais meses antes e agende tudo."
 
   - q: "Como gerencio rastreamento UTM para campanhas?"
     a:
@@ -24,7 +24,7 @@ faq:
 
   - q: "Como crio conteúdo para diferentes estágios de campanha?"
     a:
-      - "Defina as fases — teaser, lançamento, sustentação, fechamento — e o agente cria conteúdo adequado a cada estágio. Pré-lançamento gera antecipação, dia do lançamento impulsiona ação, sustentação mantém interesse e fechamento cria urgência."
+      - "Defina as fases — teaser, lançamento, sustentação, fechamento — e o agente de Bazam.ai cria conteúdo adequado a cada estágio. Pré-lançamento gera antecipação, dia do lançamento impulsiona ação, sustentação mantém interesse e fechamento cria urgência."
 
   - q: "Como rodo múltiplas campanhas ao mesmo tempo?"
     a:

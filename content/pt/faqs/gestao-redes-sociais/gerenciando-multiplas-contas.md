@@ -36,7 +36,7 @@ faq:
 
   - q: "Como paro de gastar o dia inteiro em redes?"
     a:
-      - "Trabalhe em lote. Crie um mês de conteúdo em uma sessão, agende em todas as plataformas e verifique desempenho semanalmente. O agente cuida de criação e publicação — gaste tempo em engajamento e estratégia, não produção."
+      - "Trabalhe em lote. Crie um mês de conteúdo em uma sessão, agende em todas as plataformas e verifique desempenho semanalmente. O agente de Bazam.ai cuida de criação e publicação — gaste tempo em engajamento e estratégia, não produção."
 
   - q: "Como crio estratégia de redes sociais?"
     a:

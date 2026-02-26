@@ -24,7 +24,7 @@ faq:
 
   - q: "Como publico no Squarespace com IA?"
     a:
-      - "Conecte seu site Squarespace. O agente cria conteúdo de blog e você publica ou agenda diretamente. Mesmo fluxo do WordPress — crie, revise, publique."
+      - "Conecte seu site Squarespace. O agente de Bazam.ai cria conteúdo de blog e você publica ou agenda diretamente. Mesmo fluxo do WordPress — crie, revise, publique."
 
   - q: "Como otimizo posts do WordPress para SEO?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "Posso publicar no WordPress e redes sociais ao mesmo tempo?"
     a:
-      - "Sim. Crie post, publique no WordPress, depois peça ao agente para criar posts sociais promovendo em Facebook, Instagram, LinkedIn, X, YouTube e TikTok. Uma sessão cobre blog e todos os canais sociais."
+      - "Sim. Crie post, publique no WordPress, depois peça ao agente de Bazam.ai para criar posts sociais promovendo em Facebook, Instagram, LinkedIn, X, YouTube e TikTok. Uma sessão cobre blog e todos os canais sociais."
 
   - q: "Como adiciono imagens em posts gerados por IA?"
     a:
@@ -40,5 +40,5 @@ faq:
 
   - q: "Quais plataformas de blog o Bazam.ai suporta?"
     a:
-      - "Publica diretamente no WordPress e Squarespace. Crie conteúdo com o agente, agende e publique automaticamente — sem upload manual ou copiar e colar."
+      - "Publica diretamente no WordPress e Squarespace. Crie conteúdo com o agente de Bazam.ai, agende e publique automaticamente — sem upload manual ou copiar e colar."
 ---

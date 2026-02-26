@@ -20,11 +20,11 @@ faq:
 
   - q: "Como gerencio publicação durante crise ou evento inesperado?"
     a:
-      - "Pause conteúdo agendado e crie novo conteúdo oportuno com o agente. Quando passar, retome agendamento regular. O agente cria conteúdo reativo rapidamente enquanto conteúdo agendado espera."
+      - "Pause conteúdo agendado e crie novo conteúdo oportuno com o agente de Bazam.ai. Quando passar, retome agendamento regular. O agente cria conteúdo reativo rapidamente enquanto conteúdo agendado espera."
 
   - q: "Como publico conteúdo urgente rapidamente?"
     a:
-      - "Diga ao agente o que aconteceu e o que precisa. Ele cria resposta — posts sociais, atualização de blog ou comunicado — em minutos. Publique imediatamente em todas plataformas conectadas."
+      - "Diga ao agente de Bazam.ai o que aconteceu e o que precisa. Ele cria resposta — posts sociais, atualização de blog ou comunicado — em minutos. Publique imediatamente em todas plataformas conectadas."
 
   - q: "Como garanto que posts publiquem no horário exato?"
     a:

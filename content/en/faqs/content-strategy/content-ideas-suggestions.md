@@ -32,13 +32,13 @@ faq:
 
   - q: "How many content ideas does Bazam.ai generate?"
     a:
-      - "As many as you need. Request a new batch whenever you're planning content. The agent generates fresh suggestions each time, based on your evolving business data, audience insights, and what's previously performed well."
+      - "As many as you need. Request a new batch whenever you're planning content. Bazam.ai's agent generates fresh suggestions each time, based on your evolving business data, audience insights, and what's previously performed well."
 
   - q: "Can AI suggest content ideas based on competitors?"
     a:
-      - "Yes. Add competitor information to your knowledge base and the agent suggests topics that differentiate your brand. It identifies angles your competitors aren't covering and opportunities to position your business more effectively."
+      - "Yes. Add competitor information to your knowledge base and Bazam.ai's agent suggests topics that differentiate your brand. It identifies angles your competitors aren't covering and opportunities to position your business more effectively."
 
   - q: "How do I plan content for a product launch or event?"
     a:
-      - "Tell the agent your launch or event details. It generates a targeted set of content ideas — pre-event teasers, launch announcements, follow-up content — all aligned with your timeline and goals."
+      - "Tell Bazam.ai's agent your launch or event details. It generates a targeted set of content ideas — pre-event teasers, launch announcements, follow-up content — all aligned with your timeline and goals."
 ---

@@ -31,5 +31,5 @@ faq:
       - "Assegnali ai progetti rilevanti. Le impostazioni del brand e la base di conoscenza sono già configurate per progetto. I nuovi membri producono contenuti on-brand dal primo giorno attraverso wizard guidati — nessuna formazione separata per brand."
   - q: "Come gestisco la comunicazione di crisi su più brand?"
     a:
-      - "Agisci rapidamente nel progetto del brand interessato. Crea la risposta usando l'agente IA con tono appropriato alla crisi. Metti in pausa i contenuti pianificati sul calendario di quel brand. I calendari degli altri brand continuano senza interruzioni."
+      - "Agisci rapidamente nel progetto del brand interessato. Crea la risposta usando l'agente IA di Bazam.ai con tono appropriato alla crisi. Metti in pausa i contenuti pianificati sul calendario di quel brand. I calendari degli altri brand continuano senza interruzioni."
 ---

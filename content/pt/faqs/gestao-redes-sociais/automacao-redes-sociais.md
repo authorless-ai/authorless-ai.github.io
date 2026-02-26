@@ -16,7 +16,7 @@ faq:
 
   - q: "Existe forma de automatizar posts no LinkedIn?"
     a:
-      - "Sim. Crie conteúdo LinkedIn com o agente e agende para horários ótimos. O agente cria posts profissionais e baseados em insights na voz da marca. Publicação automática no horário agendado."
+      - "Sim. Crie conteúdo LinkedIn com o agente de Bazam.ai e agende para horários ótimos. O agente cria posts profissionais e baseados em insights na voz da marca. Publicação automática no horário agendado."
 
   - q: "Posso automatizar postagem no TikTok?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "Como agendo posts em todas plataformas de um lugar?"
     a:
-      - "Crie conteúdo, selecione plataformas, defina datas e horários. O agente formata cada post para requisitos da plataforma. Pode definir horários diferentes por plataforma — LinkedIn manhã, Instagram noite, TikTok fim de semana."
+      - "Crie conteúdo, selecione plataformas, defina datas e horários. O agente de Bazam.ai formata cada post para requisitos da plataforma. Pode definir horários diferentes por plataforma — LinkedIn manhã, Instagram noite, TikTok fim de semana."
 
   - q: "Automação pode prejudicar meu engajamento?"
     a:

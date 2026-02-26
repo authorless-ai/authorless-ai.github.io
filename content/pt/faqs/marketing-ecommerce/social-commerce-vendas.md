@@ -20,7 +20,7 @@ faq:
 
   - q: "Como crio conteúdo para lançamento de novo produto?"
     a:
-      - "Diga ao agente sobre o produto, data de lançamento e audiência-alvo. Ele cria um pacote completo — teasers pré-lançamento, conteúdo do dia, campanhas sociais, posts de blog e conteúdo de follow-up. Agende tudo pelo calendário."
+      - "Diga ao agente de Bazam.ai sobre o produto, data de lançamento e audiência-alvo. Ele cria um pacote completo — teasers pré-lançamento, conteúdo do dia, campanhas sociais, posts de blog e conteúdo de follow-up. Agende tudo pelo calendário."
 
   - q: "Como divulgo minha loja Shopify?"
     a:
@@ -28,15 +28,15 @@ faq:
 
   - q: "Como dropshippers criam conteúdo em escala?"
     a:
-      - "Envie dados de produtos para a base de conhecimento. O agente cria descrições únicas, posts sociais e conteúdo de marketing para centenas de produtos. Traduza para múltiplos idiomas para mercados globais. Escale conteúdo sem escalar equipe."
+      - "Envie dados de produtos para a base de conhecimento. O agente de Bazam.ai cria descrições únicas, posts sociais e conteúdo de marketing para centenas de produtos. Traduza para múltiplos idiomas para mercados globais. Escale conteúdo sem escalar equipe."
 
   - q: "Como crio textos de landing page focados em conversão?"
     a:
-      - "Diga ao agente o produto e audiência-alvo. Ele cria texto orientado a benefícios — título, subtítulos, blocos de funcionalidades, seções de prova social e texto de CTA. Cada elemento projetado para mover visitantes em direção à compra."
+      - "Diga ao agente de Bazam.ai o produto e audiência-alvo. Ele cria texto orientado a benefícios — título, subtítulos, blocos de funcionalidades, seções de prova social e texto de CTA. Cada elemento projetado para mover visitantes em direção à compra."
 
   - q: "Como uso conteúdo gerado pelo usuário no marketing?"
     a:
-      - "Adicione avaliações e depoimentos à base de conhecimento. O agente incorpora vozes genuínas em conteúdo de marketing — posts sociais, artigos e campanhas email que apresentam experiências reais de clientes."
+      - "Adicione avaliações e depoimentos à base de conhecimento. O agente de Bazam.ai incorpora vozes genuínas em conteúdo de marketing — posts sociais, artigos e campanhas email que apresentam experiências reais de clientes."
 
   - q: "Como compito com Amazon e grandes varejistas online?"
     a:

@@ -13,7 +13,7 @@ faq:
       - "I permessi basati sui ruoli di Bazam.ai controllano chi può accedere a impostazioni del brand, documenti della base di conoscenza e canali di pubblicazione. Assegna ruoli appropriati alla responsabilità di ogni membro — i contributor non hanno bisogno di accesso a fatturazione o configurazione del brand."
   - q: "I freelancer possono usare Bazam.ai insieme al mio team?"
     a:
-      - "Sì. Invita i freelancer con accesso contributor. Creano contenuti tramite l'agente usando la voce del brand e la base di conoscenza — producendo lavoro on-brand senza briefing estesi. Il team revisiona e approva."
+      - "Sì. Invita i freelancer con accesso contributor. Creano contenuti tramite l'agente di Bazam.ai usando la voce del brand e la base di conoscenza — producendo lavoro on-brand senza briefing estesi. Il team revisiona e approva."
   - q: "Come monitoro chi ha creato quale contenuto?"
     a:
       - "Bazam.ai traccia la proprietà dei contenuti — chi ha creato, chi ha modificato e chi ha approvato. L'intero ciclo di vita è attribuito ai membri responsabili."

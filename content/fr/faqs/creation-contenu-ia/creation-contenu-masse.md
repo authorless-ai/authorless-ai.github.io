@@ -32,7 +32,7 @@ faq:
 
   - q: "Comment créer des campagnes marketing saisonnières avec l'IA ?"
     a:
-      - "Dites à l'agent votre thème saisonnier — Black Friday, Noël, rentrée, soldes d'été — et l'audience cible. Il génère une campagne complète : posts sociaux, contenu blog, textes pub et newsletters email. Programmez tout en une session et la campagne tourne en pilote automatique."
+      - "Dites à l'agent de Bazam.ai votre thème saisonnier — Black Friday, Noël, rentrée, soldes d'été — et l'audience cible. Il génère une campagne complète : posts sociaux, contenu blog, textes pub et newsletters email. Programmez tout en une session et la campagne tourne en pilote automatique."
 
   - q: "Comment créer du contenu pour plusieurs produits en une fois ?"
     a:

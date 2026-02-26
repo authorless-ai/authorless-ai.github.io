@@ -12,11 +12,11 @@ faq:
 
   - q: "Como crio outlines de keynote e apresentação?"
     a:
-      - "Diga ao agente tema, audiência e mensagem-chave. Cria outline estruturado — gancho de abertura, temas-chave, pontos de apoio e fechamento memorável. Adapte para seu deck de slides."
+      - "Diga ao agente de Bazam.ai tema, audiência e mensagem-chave. Cria outline estruturado — gancho de abertura, temas-chave, pontos de apoio e fechamento memorável. Adapte para seu deck de slides."
 
   - q: "Como escrevo whitepapers e relatórios?"
     a:
-      - "Envie pesquisa, dados e conhecimento para a base. O agente cria whitepapers abrangentes — resumo executivo, análise, achados e recomendações — na voz profissional."
+      - "Envie pesquisa, dados e conhecimento para a base. O agente de Bazam.ai cria whitepapers abrangentes — resumo executivo, análise, achados e recomendações — na voz profissional."
 
   - q: "Como crio artigos de opinião para publicações?"
     a:

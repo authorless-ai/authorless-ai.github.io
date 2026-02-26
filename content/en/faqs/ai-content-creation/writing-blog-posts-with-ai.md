@@ -28,7 +28,7 @@ faq:
 
   - q: "How do I write a blog post outline with AI?"
     a:
-      - "Tell the agent your topic and it generates a structured outline — headline, subheadings, key points, and a suggested call-to-action. You can adjust the outline before the agent expands it into a full draft. The entire process takes minutes."
+      - "Tell Bazam.ai's agent your topic and it generates a structured outline — headline, subheadings, key points, and a suggested call-to-action. You can adjust the outline before the agent expands it into a full draft. The entire process takes minutes."
 
   - q: "Can AI write long-form blog content?"
     a:

@@ -8,7 +8,7 @@ faq:
 
   - q: "Por que preciso de uma base de conhecimento para conteúdo IA?"
     a:
-      - "Sem base, IA gera de dados gerais de treinamento — tecnicamente correto mas sem especificidades que constroem credibilidade. Com a base, o agente referencia seus produtos reais, preços, estudos de caso e posicionamento. O resultado é conteúdo que parece escrito por quem conhece o negócio."
+      - "Sem base, IA gera de dados gerais de treinamento — tecnicamente correto mas sem especificidades que constroem credibilidade. Com a base, o agente de Bazam.ai referencia seus produtos reais, preços, estudos de caso e posicionamento. O resultado é conteúdo que parece escrito por quem conhece o negócio."
 
   - q: "O que acontece se não usar base de conhecimento?"
     a:
@@ -16,11 +16,11 @@ faq:
 
   - q: "Como uma base de conhecimento melhora qualidade de conteúdo?"
     a:
-      - "Dá à IA fatos específicos para trabalhar. Em vez de escrever 'nosso produto é ótimo', o agente escreve sobre suas funcionalidades reais, preços, resultados de clientes e vantagens competitivas. Conteúdo vai de genérico a credível porque os fatos são reais."
+      - "Dá à IA fatos específicos para trabalhar. Em vez de escrever 'nosso produto é ótimo', o agente de Bazam.ai escreve sobre suas funcionalidades reais, preços, resultados de clientes e vantagens competitivas. Conteúdo vai de genérico a credível porque os fatos são reais."
 
   - q: "Base de conhecimento é o mesmo que treinar a IA?"
     a:
-      - "Não. Seus dados nunca são usados para treinar modelos. O agente simplesmente lê e referencia seus materiais ao criar conteúdo. Seus documentos ficam privados e seguros — informam o output sem mudar o modelo subjacente."
+      - "Não. Seus dados nunca são usados para treinar modelos. O agente de Bazam.ai simplesmente lê e referencia seus materiais ao criar conteúdo. Seus documentos ficam privados e seguros — informam o output sem mudar o modelo subjacente."
 
   - q: "Como uma base é diferente de um prompt?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Base de conhecimento pode fazer conteúdo IA tão bom quanto redator humano?"
     a:
-      - "Sim — para conteúdo de produção. Quando o agente tem sua voz, personas de audiência e base rica, produz conteúdo comparável a um redator profissional que conhece seu negócio. E faz em minutos."
+      - "Sim — para conteúdo de produção. Quando o agente de Bazam.ai tem sua voz, personas de audiência e base rica, produz conteúdo comparável a um redator profissional que conhece seu negócio. E faz em minutos."
 
   - q: "Qual a melhor ferramenta de base de conhecimento para marketing?"
     a:
@@ -40,5 +40,5 @@ faq:
 
   - q: "A base funciona para todos os tipos de conteúdo?"
     a:
-      - "Sim. O agente usa a base para todo tipo — blog, redes sociais, releases, textos publicitários, newsletters e mais. A mesma informação enriquece um post no LinkedIn tão profundamente quanto um artigo longo."
+      - "Sim. O agente de Bazam.ai usa a base para todo tipo — blog, redes sociais, releases, textos publicitários, newsletters e mais. A mesma informação enriquece um post no LinkedIn tão profundamente quanto um artigo longo."
 ---

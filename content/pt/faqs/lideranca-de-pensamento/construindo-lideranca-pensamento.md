@@ -20,7 +20,7 @@ faq:
 
   - q: "Como crio liderança de pensamento se não sou escritor?"
     a:
-      - "Não precisa escrever — precisa pensar. Compartilhe insights com o agente e ele cria conteúdo polido das suas ideias. Expertise publicada sem habilidade de escrita ser barreira."
+      - "Não precisa escrever — precisa pensar. Compartilhe insights com o agente de Bazam.ai e ele cria conteúdo polido das suas ideias. Expertise publicada sem habilidade de escrita ser barreira."
 
   - q: "Como mantenho liderança de pensamento tocando um negócio?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "IA pode criar liderança de pensamento autêntica?"
     a:
-      - "IA cria o conteúdo; você fornece o pensamento. O agente escreve artigos polidos da sua perspectiva, expertise e opiniões únicas. Autenticidade vem do seu ponto de vista — produção vem da IA."
+      - "IA cria o conteúdo; você fornece o pensamento. O agente de Bazam.ai escreve artigos polidos da sua perspectiva, expertise e opiniões únicas. Autenticidade vem do seu ponto de vista — produção vem da IA."
 
   - q: "Quais plataformas são melhores para liderança de pensamento?"
     a:

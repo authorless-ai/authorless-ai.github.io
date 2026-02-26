@@ -16,7 +16,7 @@ faq:
 
   - q: "Como crio estratégia de hashtags?"
     a:
-      - "O agente inclui hashtags relevantes ao criar conteúdo — baseado no setor, audiência e tema específico. Equilibra hashtags populares e de nicho para maximizar alcance sem competir com termos genéricos de alto volume."
+      - "O agente de Bazam.ai inclui hashtags relevantes ao criar conteúdo — baseado no setor, audiência e tema específico. Equilibra hashtags populares e de nicho para maximizar alcance sem competir com termos genéricos de alto volume."
 
   - q: "Como faço cross-post sem parecer spam?"
     a:
@@ -24,7 +24,7 @@ faq:
 
   - q: "Como cresço no YouTube com conteúdo de marketing?"
     a:
-      - "Publique consistentemente e crie conteúdo que audiência busca. O agente escreve roteiros, títulos e descrições otimizados para descoberta. Cria posts sociais complementares para promover cada vídeo nas outras plataformas."
+      - "Publique consistentemente e crie conteúdo que audiência busca. O agente de Bazam.ai escreve roteiros, títulos e descrições otimizados para descoberta. Cria posts sociais complementares para promover cada vídeo nas outras plataformas."
 
   - q: "Como uso X/Twitter para marketing empresarial?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Como uso TikTok para marketing empresarial?"
     a:
-      - "Crie conteúdo curto e envolvente consistentemente. O agente escreve roteiros com ganchos que prendem atenção, mensagem clara e calls-to-action — tudo na voz da marca. Publique diretamente junto com conteúdo de outras plataformas."
+      - "Crie conteúdo curto e envolvente consistentemente. O agente de Bazam.ai escreve roteiros com ganchos que prendem atenção, mensagem clara e calls-to-action — tudo na voz da marca. Publique diretamente junto com conteúdo de outras plataformas."
 
   - q: "Meu negócio deve estar em todas as plataformas?"
     a:

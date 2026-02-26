@@ -24,7 +24,7 @@ faq:
 
   - q: "Come gestisco le richieste di contenuti dei clienti dell'agenzia?"
     a:
-      - "Dillo all'agente. Carica l'input del cliente nella base di conoscenza, chiedi all'agente di creare il contenuto richiesto, revisiona e pubblica. Ciò che prima richiedeva giorni — briefing, scrittura, revisioni — ora richiede minuti."
+      - "Dillo all'agente di Bazam.ai. Carica l'input del cliente nella base di conoscenza, chiedi all'agente di creare il contenuto richiesto, revisiona e pubblica. Ciò che prima richiedeva giorni — briefing, scrittura, revisioni — ora richiede minuti."
 
   - q: "Come gestisco le aspettative dei clienti dell'agenzia?"
     a:

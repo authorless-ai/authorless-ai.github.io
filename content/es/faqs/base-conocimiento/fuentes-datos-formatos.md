@@ -20,11 +20,11 @@ faq:
 
   - q: "¿Puedo subir testimonios y reseñas de clientes?"
     a:
-      - "Sí, y es muy recomendable. Los testimoniales de tu base de conocimiento permiten al agente incorporar prueba social real en posts de blog, publicaciones de redes y contenido de email — citas reales de clientes reales."
+      - "Sí, y es muy recomendable. Los testimoniales de tu base de conocimiento permiten al agente de Bazam.ai incorporar prueba social real en posts de blog, publicaciones de redes y contenido de email — citas reales de clientes reales."
 
   - q: "¿Cómo subo información que cambia frecuentemente?"
     a:
-      - "Actualiza los documentos relevantes en la base de conocimiento cada vez que cambien. Sube la versión actualizada y elimina la versión anterior. El agente siempre usará la información más reciente disponible."
+      - "Actualiza los documentos relevantes en la base de conocimiento cada vez que cambien. Sube la versión actualizada y elimina la versión anterior. El agente de Bazam.ai siempre usará la información más reciente disponible."
 
   - q: "¿La base de conocimiento entiende información en español?"
     a:

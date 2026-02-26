@@ -12,11 +12,11 @@ faq:
 
   - q: "How do I use case studies in AI content?"
     a:
-      - "Upload your case studies to the knowledge base. The agent references client results, metrics, and outcomes when creating content. Your marketing materials cite real results — not hypothetical examples."
+      - "Upload your case studies to Bazam.ai's knowledge base. The agent references client results, metrics, and outcomes when creating content. Your marketing materials cite real results — not hypothetical examples."
 
   - q: "How do I use customer testimonials in AI content?"
     a:
-      - "Add testimonials to your knowledge base. The agent can reference them in blog posts, social content, and marketing materials — weaving genuine customer voices into your content naturally."
+      - "Add testimonials to Bazam.ai's knowledge base. The agent can reference them in blog posts, social content, and marketing materials — weaving genuine customer voices into your content naturally."
 
   - q: "Can I use a knowledge base for FAQ generation?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "How do I write press releases that reference real data?"
     a:
-      - "Put your reports, financials, and key metrics in the knowledge base. When you ask for a press release, the agent references your actual numbers and results. You verify facts rather than write them."
+      - "Put your reports, financials, and key metrics in Bazam.ai's knowledge base. When you ask for a press release, the agent references your actual numbers and results. You verify facts rather than write them."
 
   - q: "How does knowledge base content compound over time?"
     a:

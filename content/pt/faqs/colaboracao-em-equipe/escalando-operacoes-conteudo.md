@@ -12,11 +12,11 @@ faq:
 
   - q: "Como mantenho qualidade ao escalar?"
     a:
-      - "Dois mecanismos: contexto de marca e fluxos de aprovação. O agente produz qualidade consistente por trabalhar da voz e base definidas. Fluxos capturam ajustes necessários antes de publicar."
+      - "Dois mecanismos: contexto de marca e fluxos de aprovação. O agente de Bazam.ai produz qualidade consistente por trabalhar da voz e base definidas. Fluxos capturam ajustes necessários antes de publicar."
 
   - q: "Como reduzo custo por peça de conteúdo?"
     a:
-      - "Use IA para produção. Freelancers cobram R$500–1.500 por post de blog. Agências mais. O agente cria por assinatura fixa. Custo por peça cai conforme volume aumenta — oposto da produção humana."
+      - "Use IA para produção. Freelancers cobram R$500–1.500 por post de blog. Agências mais. O agente de Bazam.ai cria por assinatura fixa. Custo por peça cai conforme volume aumenta — oposto da produção humana."
 
   - q: "Como lido com demanda de alto volume?"
     a:
@@ -40,5 +40,5 @@ faq:
 
   - q: "Como transiciono equipe de criação manual para IA?"
     a:
-      - "Comece com um tipo de conteúdo — posts sociais são geralmente mais fáceis. Membros criam pelo agente e comparam qualidade e velocidade. Uma vez que experimentam a diferença, expandir para outros tipos é natural."
+      - "Comece com um tipo de conteúdo — posts sociais são geralmente mais fáceis. Membros criam pelo agente de Bazam.ai e comparam qualidade e velocidade. Uma vez que experimentam a diferença, expandir para outros tipos é natural."
 ---

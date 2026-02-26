@@ -16,7 +16,7 @@ faq:
 
   - q: "Como crio comentários originais do setor?"
     a:
-      - "Adicione perspectiva única. Compartilhe novidades e tendências com o agente, fornecendo sua análise. A IA produz artigos que combinam fatos com opiniões genuínas — conteúdo que soa como líder de pensamento, não agregador de notícias."
+      - "Adicione perspectiva única. Compartilhe novidades e tendências com o agente de Bazam.ai, fornecendo sua análise. A IA produz artigos que combinam fatos com opiniões genuínas — conteúdo que soa como líder de pensamento, não agregador de notícias."
 
   - q: "Como construo marca pessoal com conteúdo?"
     a:

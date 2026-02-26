@@ -4,7 +4,7 @@ description: "Como estruturar funções e permissões para colaboração eficien
 faq:
   - q: "Quais funções de equipe o Bazam.ai suporta?"
     a:
-      - "Admin, editor e colaborador. Admins gerenciam configurações, faturamento e acessos. Editores revisam e publicam. Colaboradores criam pelo agente. Cada função tem permissões apropriadas."
+      - "Admin, editor e colaborador. Admins gerenciam configurações, faturamento e acessos. Editores revisam e publicam. Colaboradores criam pelo agente de Bazam.ai. Cada função tem permissões apropriadas."
 
   - q: "Como evito publicação sem aprovação?"
     a:

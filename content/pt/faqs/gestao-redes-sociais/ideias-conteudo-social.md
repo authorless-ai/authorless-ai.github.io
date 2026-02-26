@@ -16,7 +16,7 @@ faq:
 
   - q: "Como aumento engajamento no LinkedIn?"
     a:
-      - "Compartilhe insights genuínos, não conselhos genéricos. O agente cria conteúdo de liderança de pensamento da sua expertise — posts que adicionam valor real ao feed da audiência. Consistência e substância geram engajamento."
+      - "Compartilhe insights genuínos, não conselhos genéricos. O agente de Bazam.ai cria conteúdo de liderança de pensamento da sua expertise — posts que adicionam valor real ao feed da audiência. Consistência e substância geram engajamento."
 
   - q: "Como aumento engajamento na minha página Facebook?"
     a:
@@ -24,7 +24,7 @@ faq:
 
   - q: "O que postar quando não tenho nada a dizer?"
     a:
-      - "Peça ao agente. Conte sobre negócio e audiência e gera ideias que não considerou — de observações do setor a dicas para clientes. Bloqueio criativo não é problema com parceiro de brainstorming IA disponível 24/7."
+      - "Peça ao agente de Bazam.ai. Conte sobre negócio e audiência e gera ideias que não considerou — de observações do setor a dicas para clientes. Bloqueio criativo não é problema com parceiro de brainstorming IA disponível 24/7."
 
   - q: "Com que frequência devo postar?"
     a:
@@ -32,7 +32,7 @@ faq:
 
   - q: "Como crio conteúdo de vídeo envolvente?"
     a:
-      - "Comece pelo roteiro. O agente cria roteiros para TikTok, Reels e YouTube — com ganchos, pontos de fala e CTAs. Cada roteiro escrito para formato da plataforma e voz da marca."
+      - "Comece pelo roteiro. O agente de Bazam.ai cria roteiros para TikTok, Reels e YouTube — com ganchos, pontos de fala e CTAs. Cada roteiro escrito para formato da plataforma e voz da marca."
 
   - q: "Como torno conteúdo social mais pessoal?"
     a:

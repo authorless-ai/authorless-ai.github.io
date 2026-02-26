@@ -16,11 +16,11 @@ faq:
 
   - q: "Como crio posts de blog que ranqueiam no Google?"
     a:
-      - "Escreva respostas abrangentes e úteis para perguntas que sua audiência busca. O agente cria posts detalhados da base, incorporando naturalmente termos relevantes. Foque em profundidade e utilidade — o Google recompensa conteúdo que genuinamente ajuda."
+      - "Escreva respostas abrangentes e úteis para perguntas que sua audiência busca. O agente de Bazam.ai cria posts detalhados da base, incorporando naturalmente termos relevantes. Foque em profundidade e utilidade — o Google recompensa conteúdo que genuinamente ajuda."
 
   - q: "Como direciono palavras-chave com conteúdo IA?"
     a:
-      - "Diga ao agente o tema-alvo e ele cria conteúdo que naturalmente cobre termos relevantes. Por usar base e dados de audiência, incorpora naturalmente a linguagem que seus clientes usam."
+      - "Diga ao agente de Bazam.ai o tema-alvo e ele cria conteúdo que naturalmente cobre termos relevantes. Por usar base e dados de audiência, incorpora naturalmente a linguagem que seus clientes usam."
 
   - q: "O que é estratégia SEO pilar-cluster?"
     a:

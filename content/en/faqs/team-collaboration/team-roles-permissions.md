@@ -16,7 +16,7 @@ faq:
 
   - q: "Can freelancers use Bazam.ai alongside my team?"
     a:
-      - "Yes. Invite freelancers with contributor access. They create content through the agent using your brand voice and knowledge base — producing on-brand work without extensive briefing. Your team reviews and approves."
+      - "Yes. Invite freelancers with contributor access. They create content through Bazam.ai's agent using your brand voice and knowledge base — producing on-brand work without extensive briefing. Your team reviews and approves."
 
   - q: "How do I track who created which content?"
     a:

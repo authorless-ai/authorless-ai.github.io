@@ -8,7 +8,7 @@ faq:
 
   - q: "Como adiciono nova plataforma aos meus canais?"
     a:
-      - "Vá às configurações de canal e conecte. O agente começa a criar conteúdo imediatamente junto com canais existentes. Sem taxas por canal — adicionar plataformas não aumenta custos."
+      - "Vá às configurações de canal e conecte. O agente de Bazam.ai começa a criar conteúdo imediatamente junto com canais existentes. Sem taxas por canal — adicionar plataformas não aumenta custos."
 
   - q: "Posso gerenciar múltiplas páginas do Facebook de uma conta?"
     a:
@@ -16,7 +16,7 @@ faq:
 
   - q: "Posso gerenciar múltiplas contas do Instagram?"
     a:
-      - "Sim. Conecte múltiplas contas. Cada conta recebe conteúdo agendado próprio, criado pelo agente e adaptado à audiência daquela conta."
+      - "Sim. Conecte múltiplas contas. Cada conta recebe conteúdo agendado próprio, criado pelo agente de Bazam.ai e adaptado à audiência daquela conta."
 
   - q: "Como desconecto uma plataforma do Bazam.ai?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "Posso publicar em plataformas não listadas?"
     a:
-      - "Atualmente suporta WordPress, Squarespace, Facebook, Instagram, LinkedIn, X, YouTube e TikTok. Para outras, ainda pode criar conteúdo com o agente e publicar manualmente. Novas integrações são adicionadas regularmente."
+      - "Atualmente suporta WordPress, Squarespace, Facebook, Instagram, LinkedIn, X, YouTube e TikTok. Para outras, ainda pode criar conteúdo com o agente de Bazam.ai e publicar manualmente. Novas integrações são adicionadas regularmente."
 
   - q: "Como gerencio publicação para múltiplos clientes?"
     a:
