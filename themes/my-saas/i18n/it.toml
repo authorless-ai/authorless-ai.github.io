@@ -1,0 +1,131 @@
+[more]
+other = "Altro"
+
+[allTitle]
+other = "Tutti {{.Title }}"
+
+[recentTitle]
+other = "Ultimi {{.Title }}"
+
+[readMore]
+other = "Continua a leggere"
+
+[by]
+other = "Di"
+
+[whatsInThis]
+other = "Cosa c'è in questo {{ .Type }}"
+
+[related]
+other = "Correlati"
+
+[yourName]
+other = "Il tuo nome"
+
+[emailAddress]
+other = "Indirizzo email"
+
+[message]
+other = "Messaggio"
+
+[emailRequiredNote]
+other = "È necessario un indirizzo email."
+
+[send]
+other = "Invia"
+
+[taxonomyPageList]
+other = "Di seguito troverai le pagine che utilizzano il termine di tassonomia \"{{ .Title }}\""
+
+[readingTime]
+one = "Un minuto di lettura"
+other = "{{ .Count }} minuti di lettura"
+
+[wordCount]
+one = "Una parola"
+other = "{{ .Count }} parole"
+
+[pageTitle]
+other = "Pagina {{ .Name }}"
+
+[features]
+other = "Funzionalità"
+
+[solutions]
+other = "Soluzioni"
+
+[learn]
+other = "Scopri"
+
+[pricing]
+other = "Prezzi"
+
+[contactUs]
+other = "Contattaci"
+
+[company]
+other = "Azienda"
+
+[resources]
+other = "Risorse"
+
+[allRightsReserved]
+other = "Tutti i diritti riservati"
+
+[faq]
+other = "Domande frequenti"
+
+[logIn]
+other = "Accedi"
+
+[signUp]
+#other = "Registrati"
+other = "Accesso anticipato"
+
+[learnMore]
+other = "Scopri di più"
+
+[getStarted]
+other = "Inizia ora"
+
+[submit]
+other = "Invia"
+
+[cancel]
+other = "Annulla"
+
+[startNow]
+other = "Inizia ora"
+
+[startFreeNow]
+other = "Inizia gratis ora"
+
+[startNowFree]
+other = "Inizia ora &ndash; Gratis"
+
+[joinOurNewsletter]
+other = "Iscriviti alla newsletter"
+
+[newsletterDescription]
+other = "Scopri {{ . }}, il content marketing e ricevi sconti esclusivi"
+
+[enterYourEmail]
+other = "Inserisci la tua email"
+
+[subscribe]
+other = "Iscriviti"
+
+[privacyNotice]
+other = "Non vendiamo mai i tuoi dati. Leggi la nostra <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Informativa sulla privacy</a>."
+
+[footerTagline]
+other = "Bazam è una suite di content marketing automatizzata perfetta per imprenditori, team e agenzie. Scrivi meno, ottieni di più."
+
+[blog]
+other = "Blog"
+
+[privacyPolicy]
+other = "Informativa sulla privacy"
+
+[terms]
+other = "Termini e condizioni"

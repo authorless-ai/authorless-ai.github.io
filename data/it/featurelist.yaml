@@ -1,0 +1,30 @@
+title: "Il tuo kit completo di marketing — in un unico agente"
+description: "L'agente Bazam riunisce tutto ciò di cui il tuo team ha bisogno per creare, pubblicare e misurare i contenuti su larga scala — accessibile attraverso un'unica conversazione."
+features:
+  - iconColor: "primary"
+    title: "Crea e pubblica"
+    icon: edit
+    points:
+      - description: "Chiedi all'agente di <b>scrivere articoli per il blog, campagne social, comunicati stampa e testi pubblicitari</b> — tutto in linea con il brand."
+      - description: "Pubblica direttamente su <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube e TikTok</b>."
+      - description: "Pianifica e accoda i contenuti su tutti i canali con un <b>calendario dei contenuti visuale</b>."
+      - description: "Riutilizza i contenuti esistenti in nuovi formati — trasforma un articolo del blog in una serie social automaticamente."
+      - description: "Crea contenuti in blocco per più clienti e campagne contemporaneamente."
+  - iconColor: "primary"
+    title: "Conosci il tuo brand"
+    icon: chart
+    points:
+      - description: "Costruisci <b>personas del pubblico</b> dettagliate con dati demografici, motivazioni, leve emotive e comportamenti d'acquisto."
+      - description: "Definisci e mantieni una <b>voce del brand coerente</b> in tutti i contenuti con tono e stile configurabili."
+      - description: "Organizza una <b>base di conoscenza</b> di documenti, URL e informazioni sui prodotti a cui l'agente attinge per garantire precisione."
+      - description: "Gestisci <b>più clienti e marchi</b> in progetti separati — ognuno con la propria voce, pubblico e strategia."
+      - description: "Gestisci campagne in più lingue con la <b>traduzione automatica IA</b>."
+  - iconColor: "primary"
+    title: "Misura e migliora"
+    icon: upload
+    points:
+      - description: "Monitora <b>engagement, portata, clic e crescita dei follower</b> su ogni canale in un'unica dashboard."
+      - description: "Aggrega i dati di performance a livello di campagna, canale e post — <b>basta con i fogli di calcolo</b>."
+      - description: "Chiedi all'agente un <b>riepilogo delle performance</b> invece di accedere a cinque piattaforme diverse."
+      - description: "Collabora con il tuo team utilizzando <b>controllo degli accessi basato sui ruoli</b> e flussi di approvazione."
+      - description: "<b>Utilizzo trasparente basato su crediti</b> per sapere sempre esattamente quanto stai spendendo."

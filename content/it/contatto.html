@@ -1,0 +1,193 @@
+---
+title: Contatto
+---
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="max-w-screen-xl px-4 mx-auto pt-20 sm:pt-24 lg:pt-32">
+    <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
+      <h2
+        class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl dark:text-white"
+      >
+        Contattaci
+      </h2>
+      <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">
+        Utilizza il modulo sottostante per inviarci i tuoi commenti. Leggiamo
+        attentamente tutti i feedback e potremmo contattarti per comprendere
+        meglio le tue osservazioni.
+      </p>
+    </div>
+
+    <form method="post" action="{{< appurl >}}/feedback/enquiry" class="default-form" id="contactForm">
+      <p>
+        <label for="id_subject">Oggetto:</label>
+        <input
+          type="text"
+          name="subject"
+          maxlength="200"
+          required=""
+          id="id_subject"
+        />
+      </p>
+
+      <p>
+        <label for="id_email">Indirizzo email:</label>
+        <input
+          type="text"
+          name="email"
+          maxlength="200"
+          aria-describedby="id_email_helptext"
+          id="id_email"
+        />
+
+        <span class="helptext" id="id_email_helptext"
+          >Facoltativo: inserisci il tuo indirizzo email per consentirci di
+          contattarti se necessario</span
+        >
+      </p>
+
+      <p>
+        <label for="id_body">Messaggio:</label>
+        <textarea
+          name="body"
+          cols="40"
+          rows="10"
+          maxlength="2000"
+          required=""
+          id="id_body"
+        ></textarea>
+        <span class="helptext" id="id_body_helptext"
+          >Non inserire più di 2000 caratteri</span
+        >
+
+        <input
+          type="hidden"
+          name="message_type"
+          value="Web enquiry"
+          id="id_message_type"
+        />
+
+        <input
+          type="hidden"
+          name="captcha"
+          class="g-recaptcha"
+          data-sitekey="{{< recaptcha >}}"
+          id="id_captcha"
+          data-size="normal"
+        />
+      </p>
+
+      <p class="text-xs pb-4">
+        Leggi la nostra
+        <a
+          href="{{< appurl >}}/pages/unsolicited-idea-policy/"
+          class="text-blue-600 dark:text-blue-500 hover:underline"
+          >politica sulle idee non richieste</a
+        >
+        prima di inviarci il tuo feedback.
+      </p>
+
+      <div id="errorMessage" class="hidden max-w-3xl mx-auto p-4 mb-4 text-md text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert"></div>
+
+      <div
+        class="form-buttons items-center space-y-4 sm:flex sm:space-y-0 sm:space-x-4 justify-end"
+      >
+        <a
+          href="/it/"
+          type="button"
+          class="w-full justify-center sm:w-auto text-gray-500 inline-flex items-center bg-white hover:bg-gray-100 focus:ring-4 focus:outline-none focus:ring-primary-300 rounded-lg border border-gray-200 text-sm font-medium px-5 py-2.5 hover:text-gray-900 focus:z-10 dark:bg-gray-700 dark:text-gray-300 dark:border-gray-500 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-600"
+        >
+          <svg
+            class="mr-1 -ml-1 w-5 h-5"
+            fill="currentColor"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+              clip-rule="evenodd"
+            ></path>
+          </svg>
+          Annulla
+        </a>
+
+        <button
+          type="submit"
+          class="w-full sm:w-auto justify-center text-white inline-flex bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+        >
+          Invia
+        </button>
+      </div>
+    </form>
+    <div id="successMessage" class="hidden max-w-3xl mx-auto p-4 mb-4 text-md text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400" role="alert">
+    </div>
+</section>
+
+<script src="https://www.google.com/recaptcha/api.js?render={{< recaptcha >}}"></script>
+<script type="text/javascript">
+  function recaptchaFormSubmit(event) {
+    event.preventDefault();
+
+    grecaptcha.execute("{{< recaptcha >}}", {
+      action: "web_enquiry",
+    })
+    .then(function (token) {
+      console.log(
+        "reCAPTCHA validated. Submitting form..."
+      );
+      const element = document.getElementById('id_captcha');
+      element.value = token;
+
+      var form = element.form;
+      var formData = new FormData(form);
+
+      // Create an AJAX request
+      var xhr = new XMLHttpRequest();
+      xhr.open('POST', form.action, true);
+      xhr.setRequestHeader('Accept', 'application/json');
+
+      // Handle the response
+      xhr.onload = function () {
+        var response = JSON.parse(xhr.responseText);
+        var messageDiv;
+
+        if (xhr.status >= 200 && xhr.status < 300) {
+          // Success response
+          if (response.status === 'success') {
+            messageDiv = document.getElementById('successMessage');
+            messageDiv.textContent = response.message;
+            const contactForm = document.getElementById("contactForm");
+            contactForm.classList.add("hidden");
+          } else if (response.status === 'error') {
+            // Handle errors
+            messageDiv = document.getElementById('errorMessage');
+            messageDiv.textContent = response.message;
+            if (response.errors) {
+              for (var key in response.errors) {
+                if (response.errors.hasOwnProperty(key)) {
+                  messageDiv.textContent += `\n${response.errors[key].join(', ')}`;
+                }
+              }
+            }
+          }
+        } else {
+          // Network or server error
+          messageDiv = document.getElementById('errorMessage');
+          messageDiv.textContent = 'Si è verificato un errore imprevisto. Riprova.';
+        }
+
+        messageDiv.classList.remove('hidden'); // Show the message
+      };
+
+      // Send the request with form data
+      xhr.send(formData);
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    grecaptcha.ready(function () {
+      const element = document.getElementById('id_captcha');
+      element.form.addEventListener("submit", recaptchaFormSubmit);
+    });
+  });
+</script>

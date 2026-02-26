@@ -494,6 +494,122 @@ languages:
           weight: 60
           params:
             description: "Criação de conteúdo em massa e campanhas automatizadas nas redes sociais"
+  it:
+    contentDir: 'content/it'
+    disabled: false
+    languageCode: 'it'
+    languageName: 'Italiano'
+    weight: 6
+    params:
+      pricingPageName: "prezzi"
+      contactPageName: "contatto"
+    menus:
+      main:
+        - name: "Funzionalità"
+          weight: 10
+          identifier: "features"
+        - name: "Soluzioni"
+          weight: 20
+          identifier: "solutions"
+        - name: "Prezzi"
+          url: "/it/prezzi/"
+          weight: 30
+        - name: "Contatto"
+          url: "/it/contatto/"
+          weight: 40
+      featuresMenu:
+        - name: "L'Agente IA"
+          url: "/it/features/agente/"
+          weight: 5
+          params:
+            description: "Il tuo compagno di marketing sempre disponibile — crea, pianifica e analizza attraverso la conversazione"
+        - name: "Scrittura di contenuti IA"
+          url: "/it/features/scrittura-di-contenuti/"
+          weight: 10
+          params:
+            description: "Crea contenuti di qualità professionale in minuti, non in ore"
+        - name: "Pianificazione multipiattaforma"
+          url: "/it/features/pianificazione/"
+          weight: 20
+          params:
+            description: "Mantieni la coerenza con la pianificazione automatizzata dei contenuti"
+        - name: "Pubblicazione diretta"
+          url: "/it/features/pubblicazione/"
+          weight: 30
+          params:
+            description: "Pubblica ovunque con la pubblicazione multipiattaforma con un clic"
+        - name: "Suggerimenti di contenuti IA"
+          url: "/it/features/suggerimenti/"
+          weight: 40
+          params:
+            description: "Non restare mai senza idee grazie ai suggerimenti di contenuti basati sull'IA"
+        - name: "Strategia di marketing"
+          url: "/it/features/strategia-di-marketing/"
+          weight: 50
+          params:
+            description: "Ottieni risultati con i contenuti automatici del percorso cliente"
+        - name: "Traduzione di contenuti IA"
+          url: "/it/features/traduzione/"
+          weight: 60
+          params:
+            description: "Raggiungi un pubblico globale con la traduzione istantanea dei contenuti tramite IA"
+        - name: "Pensato per i team"
+          url: "/it/features/team/"
+          weight: 70
+          params:
+            description: "Collabora facilmente con il tuo team su tutti i tuoi contenuti"
+        - name: "Marchi e progetti multipli"
+          url: "/it/features/progetti/"
+          weight: 80
+          params:
+            description: "Gestisci i contenuti di più marchi o progetti da un unico account"
+        - name: "Base di conoscenza"
+          url: "/it/features/base-di-conoscenza/"
+          weight: 85
+          params:
+            description: "Carica documenti, URL e informazioni sui prodotti — il tuo agente li utilizza per creare contenuti precisi"
+      resourcesMenu:
+        - name: "Documentazione"
+          url: /it/docs/
+          weight: 10
+          params:
+            description: "Accedi alla nostra documentazione completa"
+        - name: "Blog"
+          url: /it/blog/
+          weight: 20
+          params:
+            description: "Tutte le ultime novità sul nostro blog"
+      solutionsMenu:
+        - name: "Agenzie di marketing"
+          url: /it/solutions/agenzie/
+          weight: 10
+          params:
+            description: "Ottieni risultati, scala i contenuti con l'efficienza dell'IA"
+        - name: "Aziende"
+          url: /it/solutions/aziende/
+          weight: 20
+          params:
+            description: "Generazione di lead costante con strategia e calendario automatizzati"
+        - name: "Leader di pensiero"
+          url: /it/solutions/leader-di-pensiero/
+          weight: 30
+          params:
+            description: "Automatizza i post sui social media per costruire autorevolezza mentre dormi"
+        - name: "No-profit e organizzazioni benefiche"
+          url: /it/solutions/no-profit/
+          weight: 40
+          params:
+            description: "Amplifica la missione, storie coinvolgenti, pianificazione senza sforzo"
+        - name: "Influencer e creator"
+          url: /it/solutions/influencer/
+          weight: 50
+          params:
+            description: "Crescita senza sforzo con pubblicazione e automazione multipiattaforma"
+        - name: "Dropshipper"
+          url: /it/solutions/dropshipper/
+          weight: 60
+          params:
+            description: "Creazione di contenuti in massa e campagne automatizzate sui social media"
 
 disableKinds:
   - taxonomy
