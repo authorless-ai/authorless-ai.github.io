@@ -1,4 +1,4 @@
 ---
-title: "Contenido para Influencers y Creadores"
-description: "Cómo influencers, creadores y marcas personales pueden escalar su producción de contenidos sin agotarse, manteniendo la autenticidad a escala."
+title: "Contenido para influencers y creadores"
+description: "Cómo influencers, creadores y marcas personales pueden escalar la producción de contenido sin agotamiento — manteniendo la autenticidad a escala."
 ---

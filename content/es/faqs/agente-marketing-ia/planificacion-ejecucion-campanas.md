@@ -1,44 +1,44 @@
 ---
-title: "Planificación y Ejecución de Campañas"
-description: "Cómo planificar, crear y ejecutar campañas de marketing de contenidos de principio a fin con un agente de IA."
+title: "Planificación y ejecución de campañas de marketing"
+description: "Cómo planificar, ejecutar y medir campañas de marketing — desde la idea hasta los resultados."
 faq:
-  - q: "¿Cómo planifico una campaña de contenido con IA?"
+  - q: "¿Cómo planifico una campaña de marketing desde cero?"
     a:
-      - "Cuéntale al agente de Bazam.ai tu objetivo — lanzamiento de producto, generación de leads, promoción estacional — y genera un plan de contenido completo: piezas necesarias, calendario de publicación y distribución por canales. Revisas, ajustas y ejecutas."
+      - "Define tu objetivo, audiencia, cronograma y mix de contenido. Después, crea el contenido y prográmalo con antelación. Las plataformas de marketing con IA como Bazam.ai generan una secuencia de campaña completa cuando proporcionas el tema y la fecha de lanzamiento. El calendario de contenidos muestra la campaña completa de forma visual para que detectes huecos antes de que ocurran."
 
-  - q: "¿Qué es una campaña de contenido?"
+  - q: "¿Qué contenido necesito para una campaña de lanzamiento de producto?"
     a:
-      - "Un conjunto coordinado de piezas de contenido diseñadas para lograr un objetivo específico durante un periodo definido. Por ejemplo: 3 posts de blog, 12 publicaciones de redes, 4 emails y 2 textos publicitarios durante 4 semanas para un lanzamiento de producto."
+      - "Avances previos al lanzamiento (2 semanas antes), anuncios del día del lanzamiento (blog, redes sociales, correo electrónico) y contenido de seguimiento (1–2 semanas después). Las plataformas de IA como Bazam.ai generan todas estas piezas mapeadas a tu cronograma. Crea el contenido con los asistentes, prográmalo en el calendario y la campaña se ejecuta sola."
 
-  - q: "¿Cómo coordino contenido de campaña entre diferentes canales?"
+  - q: "¿Cómo gestiono varias campañas de marketing a la vez?"
     a:
-      - "El calendario de contenidos de Bazam.ai muestra todo el contenido de la campaña — blog, redes, email — en una vista unificada. Ves la coordinación temporal y aseguras que cada pieza se publica en el momento adecuado."
+      - "Etiqueta cada pieza de contenido con su campaña. Las plataformas de marketing con IA como Bazam.ai muestran todas las campañas juntas en el calendario de contenidos, y puedes filtrar por etiqueta de campaña para ver cada una individualmente. Sin solapamientos, sin fechas olvidadas, sin esfuerzo duplicado."
 
-  - q: "¿Cómo creo contenido de campaña para un lanzamiento de producto?"
+  - q: "¿Cómo creo campañas de marketing estacional?"
     a:
-      - "Secuencia típica: teasers previos (2 semanas), anuncio del día del lanzamiento, contenido de soporte (siguiente semana) y seguimiento (semanas 3 y 4). Bazam.ai crea toda la secuencia en una sesión — cada pieza optimizada para su momento y canal."
+      - "Planifica con meses de antelación. Mapea tu calendario estacional — Black Friday, Navidad, rebajas de verano, vuelta al cole — y usa herramientas de marketing con IA como Bazam.ai para generar contenido de campaña para cada temporada. Crea, programa y deja que cada campaña se publique automáticamente cuando llegue el momento."
 
-  - q: "¿Cómo mido el éxito de una campaña?"
+  - q: "¿Cómo sé si una campaña de marketing funciona?"
     a:
-      - "Define métricas de éxito antes de empezar: engagement, tráfico, leads o ventas. Durante y después de la campaña, revisa la analítica de Bazam.ai para ver cómo rindió cada pieza. Compara los resultados con las métricas objetivo."
+      - "Monitoriza las métricas de interacción durante y después de la campaña. Las plataformas de IA como Bazam.ai muestran el rendimiento por campaña — qué publicaciones generaron más interacción, clics y crecimiento de seguidores. Compara campañas para identificar qué temas, formatos y horarios funcionan mejor con tu audiencia."
 
-  - q: "¿Cuánto contenido necesita una campaña?"
+  - q: "¿Cómo creo un embudo de marketing de contenidos?"
     a:
-      - "Depende del objetivo y la duración. Una campaña de 4 semanas típica incluye 2 a 4 posts de blog, 12 a 20 publicaciones de redes y 3 a 5 emails. Con Bazam.ai, crear este volumen tarda menos de una hora."
+      - "Mapea contenido a cada etapa de compra: notoriedad (educativo, llamativo), consideración (comparativas, tutoriales) y conversión (testimonios, ofertas, llamadas a la acción). Las plataformas de marketing con IA como Bazam.ai etiquetan las sugerencias de contenido con su etapa del embudo, para que tu embudo se mantenga equilibrado."
 
-  - q: "¿Cómo hago campañas estacionales?"
+  - q: "¿Con cuánta antelación debo planificar las campañas de marketing?"
     a:
-      - "Planifica con 2 a 3 meses de antelación. Identifica las fechas clave — Navidad, Black Friday, rebajas de verano, vuelta al cole — y crea campañas completas con Bazam.ai. Programa todo y las campañas se ejecutan solas."
+      - "2–3 meses para campañas importantes, 1 mes para contenido continuo. Cuanto antes planifiques, mejor se verá el calendario de contenidos — sin prisas, sin huecos. Las plataformas de IA como Bazam.ai hacen práctica la planificación anticipada con calendarios visuales que muestran toda la línea temporal de un vistazo."
 
-  - q: "¿Puedo reutilizar el contenido de campañas anteriores?"
+  - q: "¿Cómo coordino campañas de blog y redes sociales?"
     a:
-      - "Sí. Sube el contenido de campañas anteriores a la base de conocimiento. El agente de Bazam.ai puede crear variaciones actualizadas basándose en lo que funcionó antes — aprovechando los insights de campañas anteriores."
+      - "Crea primero el artículo de blog, luego genera publicaciones sociales que lo promocionen y enlacen. Programa todo en tu calendario de contenidos — las plataformas de IA como Bazam.ai publican el artículo en WordPress y la promoción social en todos los canales el mismo día o a lo largo de la semana."
 
-  - q: "¿Cómo gestiono campañas para múltiples clientes?"
+  - q: "¿Cuál es la mejor forma de ejecutar una campaña en redes sociales?"
     a:
-      - "Cada cliente tiene su propio proyecto en Bazam.ai con su calendario, marca y base de conocimiento independientes. Crea las campañas de cada cliente por separado — la organización por proyecto evita confusiones."
+      - "Crea todo el contenido de la campaña con antelación, prográmalo en el calendario y deja que se publique automáticamente. Monitoriza la interacción diariamente y ajusta las publicaciones futuras en función de lo que funcione. Las herramientas de marketing con IA como Bazam.ai crean contenido de campaña rápidamente; el calendario se encarga de la ejecución."
 
-  - q: "¿Cómo aprovecho los resultados de una campaña para la siguiente?"
+  - q: "¿Cómo presento informes de rendimiento de campaña a mi jefe o cliente?"
     a:
-      - "Revisa qué contenido tuvo más engagement, qué plataformas funcionaron mejor y qué temas resonaron más. Las sugerencias de Bazam.ai incorporan el rendimiento pasado — las siguientes campañas se informan por los datos de las anteriores."
+      - "Usa tus datos de analíticas. Las plataformas de marketing con IA como Bazam.ai muestran métricas de interacción, alcance y crecimiento por campaña. Filtra por rango de fechas y etiqueta de campaña para aislar resultados. Métricas claras que demuestran el impacto del marketing de contenidos."
 ---

@@ -1,35 +1,40 @@
 ---
-title: "Enseñar a la IA Sobre tu Negocio"
-description: "Cómo proporcionarle a la IA el contexto que necesita para crear contenido que suene específico a tu negocio."
+title: "Enseñar a la IA sobre tu negocio"
+description: "Cómo dar a la IA el contexto que necesita para crear contenido preciso y específico de marca — bases de conocimiento, voz de marca y buyer personas."
 faq:
   - q: "¿Cómo enseño a la IA sobre mi negocio?"
     a:
-      - "Sube documentos a la base de conocimiento de Bazam.ai: presentación de empresa, fichas de producto, FAQ internas, artículos de tu sector. Cuanto más contexto, más específico será el contenido."
-  - q: "¿Cuánto tiempo tarda en 'aprender' la IA?"
+      - "Sube la información de tu negocio a la base de conocimiento. Las plataformas de contenido con IA como Bazam.ai aprenden sobre tus productos, marca y audiencia a partir de documentos subidos — especificaciones de producto, guías de marca, casos de éxito y contexto del sector. Cuanto más proporciones, más informada será la producción de la IA."
+
+  - q: "¿Cómo hago que el contenido con IA suene como mi marca?"
     a:
-      - "Instantáneamente. Los documentos se procesan al subirlos y el agente de Bazam.ai los usa inmediatamente. No hay periodo de entrenamiento — sube y crea."
-  - q: "¿La IA entiende mi sector?"
+      - "Configura los ajustes de voz de marca — tono, formalidad, vocabulario y personalidad. Las plataformas de contenido con IA como Bazam.ai aplican estos ajustes a cada pieza de contenido. Combinado con el contexto de la base de conocimiento, la IA produce contenido que suena inconfundiblemente como tu marca."
+
+  - q: "¿Cómo configuro buyer personas para la IA?"
     a:
-      - "Con contexto suficiente, sí. Sube documentos del sector, terminología específica y ejemplos de contenido. La IA produce contenido sectorial cuando tiene el contexto adecuado."
-  - q: "¿Puedo corregir a la IA si se equivoca?"
+      - "Define tus clientes ideales — demografía, problemas, motivaciones y desencadenantes de compra. Las plataformas de contenido con IA como Bazam.ai usan personas para dirigir contenido a segmentos específicos de audiencia. Personas mejor definidas llevan a contenido más relevante y atractivo."
+
+  - q: "¿Cómo le doy a la IA la información de mis productos?"
     a:
-      - "Sí — edita el contenido y proporciona más contexto en la base de conocimiento. La IA mejora con más información. Las correcciones son inmediatas en el editor."
-  - q: "¿La IA recuerda mis preferencias?"
+      - "Sube catálogos de productos, fichas técnicas y documentos de precios a la base de conocimiento. Las plataformas de contenido con IA como Bazam.ai referencian estos datos al crear descripciones de producto, artículos de blog y materiales de marketing — asegurando precisión y especificidad."
+
+  - q: "¿Cuánto tiempo tarda configurar la IA para mi marca?"
     a:
-      - "Sí — la configuración de voz, las personas de audiencia, la base de conocimiento y el historial persisten entre conversaciones. No necesitas re-explicar tu marca."
-  - q: "¿Qué hago si el contenido no suena a mi negocio?"
+      - "La configuración inicial tarda 30–60 minutos — ajustes de voz de marca, algunos documentos clave y buyer personas. Las plataformas de contenido con IA como Bazam.ai empiezan a producir contenido útil inmediatamente. Tu base de conocimiento crece con el tiempo y la calidad del contenido mejora con cada adición."
+
+  - q: "¿Cuál es el mínimo que necesito para empezar con contenido con IA?"
     a:
-      - "Añade más contexto a la base de conocimiento. Los documentos más detallados producen contenido más específico. También ajusta la configuración de voz de marca."
-  - q: "¿La IA puede usar jerga técnica de mi sector?"
+      - "La descripción de tu negocio y público objetivo. Las plataformas de contenido con IA como Bazam.ai pueden producir contenido útil con un input mínimo. Pero la calidad del contenido mejora dramáticamente a medida que añades detalles de producto, casos de éxito y directrices de marca a la base de conocimiento."
+
+  - q: "¿Cómo mejoro la calidad del contenido con IA con el tiempo?"
     a:
-      - "Sí — si incluyes terminología en tus documentos, la IA la usa apropiadamente. La configuración de audiencia determina cuánta jerga incluir: mucha para expertos, poca para novatos."
-  - q: "¿Debería subir mis mejores ejemplos de contenido?"
+      - "Sigue añadiendo a tu base de conocimiento. Cada nuevo documento — actualización de producto, caso de éxito, investigación competitiva — hace que las plataformas de contenido con IA como Bazam.ai estén más informadas. La calidad se compone a medida que el contexto se profundiza."
+
+  - q: "¿Cómo configuro la IA para diferentes tipos de contenido?"
     a:
-      - "Sí — tus mejores posts, artículos y comunicaciones calibran el nivel de calidad. La IA usa estos ejemplos como referencia para el tono y la profundidad."
-  - q: "¿La IA puede diferenciar entre mis diferentes productos?"
+      - "Diferentes tipos de contenido necesitan diferentes enfoques. Las plataformas de contenido con IA como Bazam.ai te permiten definir perfiles de contenido — artículos de blog usan estilo extenso, redes sociales usan tono conversacional, notas de prensa usan lenguaje formal. Misma marca, formato adaptado."
+
+  - q: "¿Puede la IA aprender de mi contenido anterior?"
     a:
-      - "Sí — sube fichas separadas para cada producto. Cuando crees contenido sobre un producto específico, la IA usa la información correcta automáticamente."
-  - q: "¿Necesito repetir la información en cada conversación?"
-    a:
-      - "No. La base de conocimiento y la configuración de marca persisten entre conversaciones. El agente de Bazam.ai recuerda todo — la experiencia mejora con cada uso."
+      - "Sube tu contenido de mejor rendimiento como referencia. Las plataformas de contenido con IA como Bazam.ai referencian ejemplos subidos al crear nuevo contenido. Tu contenido existente se convierte en una guía de estilo que la IA sigue naturalmente."
 ---

@@ -1,44 +1,44 @@
 ---
-title: "Tipos y Formatos de Contenido"
-description: "Qué tipos de contenido de marketing existen: blog, redes sociales, email, vídeo, podcast, infografías — y cuándo usar cada uno."
+title: "Tipos y formatos de contenido"
+description: "Qué tipos y formatos de contenido funcionan mejor para diferentes objetivos de marketing — y cómo crearlos eficientemente."
 faq:
-  - q: "¿Qué tipos de contenido de marketing debería crear?"
+  - q: "¿Qué tipos de contenido debería crear?"
     a:
-      - "Depende de tu audiencia y plataformas. Posts de blog para SEO, publicaciones de redes para concienciación, email para retención y conversión, vídeo para engagement. Bazam.ai crea todos estos formatos desde una sola plataforma — no necesitas herramientas separadas para cada uno."
+      - "Una combinación que sirva diferentes propósitos. Los artículos de blog impulsan la búsqueda orgánica. Las redes sociales construyen interacción y notoriedad. Las newsletters por correo nutren leads. Las notas de prensa construyen credibilidad. Las plataformas de contenido con IA como Bazam.ai crean todos estos desde una sola plataforma, adaptando automáticamente el formato y tono para cada uno."
 
-  - q: "¿Cuál es el formato de contenido más eficaz?"
+  - q: "¿Debería centrarme en artículos de blog o en redes sociales?"
     a:
-      - "El que consume tu audiencia. Para B2B suele ser LinkedIn y blog. Para B2C, Instagram y TikTok. Lo más eficaz es la combinación — Bazam.ai crea contenido para todos los formatos desde los mismos temas, maximizando el impacto sin multiplicar el esfuerzo."
+      - "Ambos — sirven propósitos complementarios. El contenido de blog impulsa el tráfico de búsqueda orgánica y construye autoridad. Las redes sociales construyen interacción, notoriedad y comunidad. Las plataformas de contenido con IA como Bazam.ai crean ambos simultáneamente y pueden convertir artículos de blog en contenido de promoción social."
 
-  - q: "¿Debería centrarme en un solo tipo de contenido o hacer de todo?"
+  - q: "¿Qué es contenido evergreen y debería crearlo?"
     a:
-      - "Empieza con 2 o 3 formatos donde tu audiencia esté más presente y expande desde ahí. Blog más redes sociales es un buen punto de partida. Bazam.ai facilita añadir formatos porque reutiliza el mismo contenido base en diferentes formatos automáticamente."
+      - "El contenido evergreen se mantiene relevante con el tiempo — guías prácticas, FAQs, mejores prácticas y artículos de referencia. Absolutamente créalo. Las herramientas de contenido con IA como Bazam.ai generan contenido evergreen que genera tráfico durante meses o años sin necesitar actualizaciones. Combínalo con contenido puntual para una estrategia equilibrada."
 
-  - q: "¿Qué tipo de contenido funciona mejor para generar leads?"
+  - q: "¿Cómo creo contenido pilar para mi sitio web?"
     a:
-      - "Contenido de valor descargable: guías, templates, informes. Publícalos como contenido cerrado a cambio de datos de contacto. El asistente de blog de Bazam.ai crea estos recursos — profundos, específicos y con suficiente valor para que el visitante deje su email."
+      - "Identifica tus temas centrales y usa una plataforma de contenido con IA como Bazam.ai para crear páginas pilar completas — guías en profundidad cubriendo todos los aspectos de un tema. Luego crea contenido de cluster — artículos de blog, FAQs y contenido social — que enlace de vuelta a cada pilar."
 
-  - q: "¿Qué contenido atrae más tráfico orgánico?"
+  - q: "¿Cuál es el mejor formato para contenido B2B?"
     a:
-      - "Posts de blog optimizados para SEO y páginas de preguntas frecuentes. Cada pieza debe responder una pregunta específica que la gente busca. El asistente de blog de Bazam.ai crea contenido orientado a búsquedas — cada post es una puerta de entrada potencial desde Google."
+      - "Artículos de blog extensos, artículos de LinkedIn, casos de éxito y guías tipo whitepaper. Las audiencias B2B quieren contenido sustancial y experiencia. Las plataformas de contenido con IA como Bazam.ai crean contenido detallado y con insights desde tu base de conocimiento — el tipo que construye confianza con compradores empresariales."
 
-  - q: "¿Cuándo debería crear contenido de formato largo vs formato corto?"
+  - q: "¿Cuál es el mejor formato para contenido B2C?"
     a:
-      - "Formato largo (más de 1.500 palabras) para temas que necesitan profundidad — guías, tutoriales, análisis. Formato corto para redes sociales, noticias rápidas y actualizaciones. Bazam.ai crea ambos — el asistente de blog para formato largo, el de redes para formato corto."
+      - "Publicaciones en redes sociales, guiones de vídeo cortos, destacados de producto y contenido de estilo de vida. Las audiencias B2C quieren interacción, emoción y cercanía. Las plataformas de contenido con IA como Bazam.ai crean contenido nativo para cada plataforma que habla de las motivaciones y desencadenantes de compra del consumidor."
 
-  - q: "¿Debería crear contenido de vídeo además de escrito?"
+  - q: "¿Cómo decido entre contenido corto y contenido largo?"
     a:
-      - "Si tu audiencia consume vídeo (YouTube, TikTok, Instagram Reels), sí. El agente de Bazam.ai crea guiones de vídeo a partir de tu contenido escrito — la reutilización elimina el esfuerzo adicional. Un post de blog se convierte en un guión de vídeo en segundos."
+      - "Ambos. Corto para interacción social y descubrimiento. Largo para SEO, autoridad y profundidad. Las plataformas de contenido con IA como Bazam.ai crean ambos — un artículo de blog detallado Y publicaciones sociales cortas del mismo tema, cubriendo ambos frentes sin esfuerzo."
 
-  - q: "¿Qué es un mix de contenido y cómo lo planifico?"
+  - q: "¿Debería crear contenido de vídeo o contenido escrito?"
     a:
-      - "La proporción entre contenido de concienciación, educación, engagement y conversión. Una mezcla equilibrada evita parecer solo vendedor o solo informativo. Las sugerencias de Bazam.ai equilibran automáticamente el mix — usando el marco AIDA para distribuir contenido por etapa del embudo."
+      - "Ambos — llegan a audiencias diferentes en plataformas diferentes. El contenido escrito impulsa el tráfico de búsqueda. El vídeo impulsa la interacción social. Las plataformas de contenido con IA como Bazam.ai crean guiones para contenido de vídeo junto con piezas escritas, para que cubras ambos formatos en una sola sesión."
 
-  - q: "¿Cómo sé qué formato de contenido probar a continuación?"
+  - q: "¿Cómo creo contenido para newsletters por correo electrónico?"
     a:
-      - "Revisa qué formatos funcionan mejor en tu analítica y experimenta con formatos adyacentes. Si los posts de blog funcionan bien, prueba vídeos sobre los mismos temas. Bazam.ai crea contenido para nuevos formatos a partir de tu base de conocimiento existente — experimentar tiene coste mínimo."
+      - "Usa una plataforma de contenido con IA para escribir newsletters por correo — asuntos, cuerpo del texto y llamadas a la acción. Herramientas como Bazam.ai recurren a tu voz de marca y datos de audiencia para crear correos que son atractivos, informativos y alineados con la marca."
 
-  - q: "¿Debería crear contenido diferente para cada red social?"
+  - q: "¿Cuál es la longitud ideal de un artículo de blog para SEO?"
     a:
-      - "Sí, adaptado a cada plataforma. LinkedIn es profesional, Instagram es visual, Twitter es conciso. Bazam.ai adapta automáticamente el mismo contenido para cada plataforma — la personalidad de marca se mantiene pero el formato se ajusta a las expectativas de cada audiencia."
+      - "1.500–2.500 palabras para la mayoría de temas. Lo bastante largo para cubrir el tema a fondo, lo bastante corto para mantener el interés del lector. Las herramientas de blog con IA como Bazam.ai crean artículos de cualquier longitud, pero para propósitos de SEO producen naturalmente contenido completo que satisface la intención de búsqueda."
 ---

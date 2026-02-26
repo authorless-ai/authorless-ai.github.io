@@ -1,35 +1,44 @@
 ---
-title: "Voz de Marca para Diferentes Audiencias"
-description: "Cómo adaptar tu voz de marca para diferentes segmentos de audiencia sin perder la coherencia."
+title: "Voz de marca para diferentes audiencias"
+description: "Cómo adaptar tu voz de marca para diferentes audiencias, plataformas y tipos de contenido manteniendo la consistencia."
 faq:
-  - q: "¿Puedo adaptar mi voz de marca a diferentes audiencias?"
+  - q: "¿Cómo escribo para diferentes audiencias sin perder mi voz de marca?"
     a:
-      - "Sí. Bazam.ai permite crear personas de audiencia con preferencias diferentes. La personalidad de marca permanece constante; el tono y la complejidad se adaptan al segmento. Un post para directivos es más formal que uno para emprendedores, pero ambos suenan a tu marca."
-  - q: "¿Cómo hablo diferente a cada segmento sin perder coherencia?"
+      - "Misma personalidad, mensajes adaptados. Bazam.ai mantiene tu personalidad de marca central en todo el contenido mientras ajusta el tono por buyer persona. El contenido para directivos suena más formal que el contenido para usuarios finales — pero ambos suenan inconfundiblemente como tu marca."
+
+  - q: "¿Cómo adapto el contenido para audiencias B2B vs B2C?"
     a:
-      - "La personalidad (quién eres) permanece. El registro (cómo lo dices) se adapta. Bazam.ai gestiona esto automáticamente cuando seleccionas la persona de audiencia al crear contenido."
-  - q: "¿Debería usar un tono diferente en cada red social?"
+      - "B2B: basado en datos, profesional, centrado en ROI. B2C: orientado a beneficios, emocional, enfocado al estilo de vida. Crea buyer personas separados en Bazam.ai para cada uno. La IA adapta los mensajes a cada persona manteniendo tu personalidad de marca."
+
+  - q: "¿Cómo escribo para audiencias técnicas y no técnicas?"
     a:
-      - "Sí, pero sutilmente. LinkedIn es más profesional; Instagram más visual y casual; TikTok más directo y dinámico. Bazam.ai adapta el tono a cada plataforma manteniendo tu personalidad de marca."
-  - q: "¿Cómo adapto mi voz para audiencias internacionales?"
+      - "Personas separados con diferentes niveles de complejidad. Persona técnico: jerga apropiada, especificaciones detalladas. Persona no técnico: centrado en beneficios, lenguaje simple. Bazam.ai crea contenido específico por persona desde la misma base de conocimiento."
+
+  - q: "¿Cómo creo contenido para inversores vs contenido para clientes?"
     a:
-      - "La traducción de Bazam.ai adapta culturalmente, no solo lingüísticamente. El tono que funciona en España puede necesitar ajuste para México o Argentina. La IA aplica las diferencias culturales automáticamente."
-  - q: "¿Puedo tener una voz seria en blog y divertida en redes?"
+      - "Diferentes proyectos o canales para cada audiencia. Los inversores quieren métricas de crecimiento, oportunidad de mercado y visión estratégica. Los clientes quieren beneficios de producto, prueba social y facilidad de uso. Bazam.ai crea ambos desde la misma base de conocimiento, segmentado a diferentes personas."
+
+  - q: "¿Cómo afecta el contexto de la plataforma a la voz de marca?"
     a:
-      - "Sí — es normal. Los blogs requieren más profundidad; las redes más ligereza. Bazam.ai ajusta la formalidad por formato manteniendo la personalidad base. Tu marca es la misma; la expresión varía."
-  - q: "¿Cómo evito que la adaptación por audiencia diluya mi marca?"
+      - "Tu personalidad se mantiene igual; tu tono se adapta. LinkedIn es profesional, TikTok es informal, el correo electrónico es personal, los blogs son autoritativos. Bazam.ai ajusta el tono por plataforma manteniendo la personalidad central de tu marca en todos los canales."
+
+  - q: "¿Cómo creo contenido específico de un sector sin diluir mi marca?"
     a:
-      - "Con una configuración de marca sólida en Bazam.ai. Los valores y la personalidad son no negociables. Solo se adaptan el tono, la complejidad y las referencias. La base permanece firme."
-  - q: "¿Debería crear contenido separado para B2B y B2C?"
+      - "Añade contexto del sector a la base de conocimiento. Al crear contenido para audiencias sanitarias, la IA recurre a información específica del sector sanitario; para finanzas, contexto financiero. Tu voz de marca se mantiene consistente; el contenido se adapta al sector del lector."
+
+  - q: "¿Cómo escribo para millennials vs Generación Z?"
     a:
-      - "Si sirves a ambos, sí. Crea personas de audiencia B2B y B2C en Bazam.ai. El agente crea contenido diferente para cada una — tono profesional para B2B, más cercano para B2C. Misma marca, diferente registro."
-  - q: "¿Cómo adapto el contenido al nivel de conocimiento de mi audiencia?"
+      - "Diferentes personas con diferentes preferencias de comunicación. Los millennials prefieren contenido informativo y auténtico. La Generación Z prefiere contenido corto, visual y entretenido. Crea contenido específico por persona con Bazam.ai — misma marca, formato y tono adaptados."
+
+  - q: "¿Cómo mantengo la voz de marca en el copy de producto orientado al usuario?"
     a:
-      - "Definiendo el nivel de expertise en cada persona de audiencia. Bazam.ai ajusta la complejidad: vocabulario técnico para expertos, lenguaje simplificado para novatos. Misma información, diferente nivel de profundidad."
-  - q: "¿Puedo crear contenido para generaciones diferentes?"
+      - "Los ajustes de marca se aplican al copy de producto también. Bazam.ai produce descripciones de producto, explicaciones de funcionalidades y copy de interfaz que coinciden con tu voz de marca — misma personalidad ya sea un artículo de blog o una página de producto."
+
+  - q: "¿Cómo creo contenido para diferentes regiones del mismo país?"
     a:
-      - "Sí. Las personas de audiencia pueden reflejar diferencias generacionales. Boomers, millennials y gen Z tienen preferencias de comunicación diferentes. Bazam.ai adapta el estilo a cada generación."
-  - q: "¿Es mejor una voz universal o adaptada por audiencia?"
+      - "Adapta las referencias culturales y la relevancia local. Añade contexto regional a los buyer personas. Bazam.ai crea contenido que habla a los intereses de cada región manteniendo la consistencia nacional de marca."
+
+  - q: "¿Cómo creo contenido que atraiga a múltiples buyer personas simultáneamente?"
     a:
-      - "Adaptada. El contenido genérico no resuena con nadie en particular. Bazam.ai facilita la adaptación sin multiplicar el esfuerzo — misma sesión de creación, diferentes versiones por audiencia."
+      - "Lidera con el beneficio universal, luego aborda las necesidades específicas de cada persona. Bazam.ai puede crear contenido híbrido que aborde múltiples personas — liderando con la propuesta de valor común y segmentando los puntos secundarios por interés de cada persona."
 ---

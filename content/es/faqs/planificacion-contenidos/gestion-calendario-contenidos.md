@@ -1,35 +1,44 @@
 ---
-title: "Gestión del Calendario de Contenidos"
-description: "Cómo gestionar tu calendario de contenidos: organización diaria, semanal y mensual para mantener tu marketing en marcha."
+title: "Gestión del calendario de contenidos"
+description: "Cómo usar un calendario de contenidos visual para planificar, organizar y gestionar todo tu calendario de publicación sin hojas de cálculo."
 faq:
-  - q: "¿Cómo organizo mi calendario de contenidos?"
+  - q: "¿Qué es un calendario de contenidos y lo necesito?"
     a:
-      - "Por plataforma, tipo de contenido y fecha. El calendario visual de Bazam.ai muestra todo en una vista — blog, redes y email — con codificación por colores para cada tipo y plataforma."
-  - q: "¿Cómo gestiono publicaciones para múltiples plataformas?"
+      - "Un calendario de contenidos es una vista general visual de qué contenido se publica, dónde y cuándo. Si publicas contenido en cualquier sitio — blog, redes sociales, correo — lo necesitas. Sin él, improvisas y te estresas. Las plataformas de contenido con IA como Bazam.ai muestran cada plataforma, cada fecha, cada estado en una vista codificada por colores."
+
+  - q: "¿Cómo configuro un calendario de contenidos?"
     a:
-      - "Desde el mismo calendario. Bazam.ai programa cada pieza para su plataforma y horario. Una vista muestra todos los canales — sin alternar entre herramientas."
-  - q: "¿Cómo evito publicar el mismo contenido dos veces?"
+      - "Conecta tus plataformas de publicación, crea tu primer lote de contenido y prográmalo. Las plataformas de contenido con IA como Bazam.ai rellenan el calendario automáticamente a medida que creas y programas contenido. Alterna entre vistas mensuales, semanales o diarias. Filtra por plataforma o campaña."
+
+  - q: "¿Cómo uso un calendario de contenidos para mantener la consistencia?"
     a:
-      - "El calendario visual muestra todo lo programado. Antes de crear nuevo contenido, revisa lo que ya está planificado. La vista mensual te da el panorama completo."
-  - q: "¿Puedo filtrar mi calendario por tipo de contenido?"
+      - "El calendario hace visibles los vacíos. Cuando ves tres días vacíos seguidos, sabes que debes llenarlos. Crea contenido por lotes usando asistentes de IA — plataformas como Bazam.ai los ofrecen — y colócalo en el calendario. La consistencia se vuelve visual y alcanzable."
+
+  - q: "¿Cómo muevo contenido en mi calendario?"
     a:
-      - "Sí — filtra por plataforma, estado (borrador, aprobado, publicado) y tipo de contenido. Los filtros te muestran exactamente lo que necesitas ver."
-  - q: "¿Cómo gestiono el calendario si trabajo con un equipo?"
+      - "Arrastra y suelta. Las plataformas de contenido con IA como Bazam.ai te permiten hacer clic en cualquier contenido programado y arrastrarlo a una nueva fecha u hora. La publicación se actualiza automáticamente — sin necesidad de volver a introducir nada. Reprográmalo rápidamente cuando los planes cambien."
+
+  - q: "¿Puedo ver en qué estado está cada pieza de contenido?"
     a:
-      - "Todo el equipo ve el mismo calendario. Los colaboradores crean borradores, los editores revisan y los administradores aprueban. Cada miembro ve las piezas relevantes para su rol."
-  - q: "¿Cómo planifico contenido para campañas específicas?"
+      - "Sí. Las plataformas de contenido con IA como Bazam.ai codifican el contenido por colores según su estado — borrador, en revisión, aprobado, programado, publicado. De un vistazo ves qué se está trabajando, qué espera aprobación y qué está en cola para publicarse."
+
+  - q: "¿Cómo planifico contenido alrededor de fechas festivas?"
     a:
-      - "Crea todas las piezas de la campaña con Bazam.ai, distribúyelas en el calendario con la secuencia temporal correcta y la campaña se ejecuta automáticamente."
-  - q: "¿Puedo exportar mi calendario de contenidos?"
+      - "Marca las fechas clave en el calendario. Trabaja hacia atrás para programar el contenido previo — teasers, anuncios, publicaciones del día y seguimiento. Las plataformas de IA como Bazam.ai generan ideas de campaña cuando proporcionas las fechas. Planifica campañas festivas con meses de antelación."
+
+  - q: "¿Es un calendario de contenidos mejor que una hoja de cálculo?"
     a:
-      - "El calendario de Bazam.ai es la fuente de verdad para tu planificación. Todo el equipo accede desde la plataforma para la vista más actualizada."
-  - q: "¿Cómo gestiono el contenido que no publica automáticamente?"
+      - "Mucho mejor. Las hojas de cálculo no se conectan a tus plataformas de publicación, no autopublican, no muestran estados y no pueden crear contenido. Las plataformas de contenido con IA como Bazam.ai integran el calendario con la creación y publicación real de contenido. El calendario se convierte en el centro de mando."
+
+  - q: "¿Cómo comparto mi calendario de contenidos con mi equipo?"
     a:
-      - "Algunos contenidos — como presentaciones, documentos o piezas para plataformas no conectadas — se crean en Bazam.ai y se copian manualmente. El calendario los marca como 'manual' para recordarte."
-  - q: "¿Cómo gestiono huecos inesperados en mi calendario?"
+      - "Añade miembros del equipo a tu proyecto. Las plataformas de contenido con IA como Bazam.ai dan a todos con acceso el mismo calendario en vivo — sin enviar hojas de cálculo por correo, sin conflictos de versiones. Los permisos controlan quién puede crear, editar, aprobar o solo ver el calendario."
+
+  - q: "¿Cómo lleno los vacíos en mi calendario de contenidos?"
     a:
-      - "Crea contenido extra con Bazam.ai cuando haya huecos. La IA genera contenido en minutos — un hueco inesperado se llena con una sesión rápida de creación."
-  - q: "¿Necesito un calendario si solo publico en una plataforma?"
+      - "Mira tu calendario y ve qué días no tienen contenido. Usa sugerencias de contenido con IA — plataformas como Bazam.ai las ofrecen — para ideas rápidas de temas. Crea el contenido con un asistente en minutos y colócalo en los huecos vacíos."
+
+  - q: "¿Con cuánta antelación debería planificar mi calendario de contenidos?"
     a:
-      - "Sí — incluso una plataforma se beneficia de la planificación. El calendario evita días sin publicación y te ayuda a mantener la consistencia. Bazam.ai hace que la planificación sea tan fácil como arrastrar y soltar."
+      - "4 semanas como mínimo. Planifica un mes entero en una sesión de creación por lotes — sugerencias de contenido, creación con asistentes, programación en calendario. Las plataformas de IA como Bazam.ai hacen este proceso rápido. Las campañas estacionales deberían planificarse con 2–3 meses de antelación."
 ---

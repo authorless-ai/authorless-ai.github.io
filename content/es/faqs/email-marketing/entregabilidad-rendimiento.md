@@ -1,35 +1,44 @@
 ---
-title: "Entregabilidad y Rendimiento del Email"
-description: "Cómo mejorar la entregabilidad, tasas de apertura y rendimiento general de tus campañas de email."
+title: "Entregabilidad y rendimiento del email"
+description: "Cómo asegurar que tus correos de marketing lleguen a la bandeja de entrada e impulsen la acción — entregabilidad, formato y optimización del rendimiento."
 faq:
-  - q: "¿Cómo mejoro mis tasas de apertura?"
+  - q: "¿Por qué mis correos de marketing van a spam?"
     a:
-      - "Mejores asuntos, envío en horarios óptimos y lista limpia. Bazam.ai genera variantes de asunto para testing. La plataforma de email te dice qué horarios funcionan mejor."
-  - q: "¿Qué es una buena tasa de apertura?"
+      - "Causas comunes: mala reputación de remitente, asuntos con apariencia de spam o demasiadas imágenes. Limpia tu lista, escribe asuntos claros y equilibra texto con imágenes. Las herramientas de email con IA como Bazam.ai crean correos limpios, ricos en texto con lenguaje natural — no palabras desencadenantes de spam."
+
+  - q: "¿Cómo mejoro las tasas de apertura?"
     a:
-      - "Entre el 20 y 30% para la mayoría de sectores. Por encima del 30% es excelente. Por debajo del 15% indica problemas con asuntos, entregabilidad o relevancia del contenido."
-  - q: "¿Qué es una buena tasa de clics?"
+      - "Mejores asuntos y envío consistente. Las plataformas de email con IA como Bazam.ai generan múltiples opciones de asunto por correo — prueba las variantes. Enviar consistentemente entrena a los suscriptores a esperar y abrir tus correos."
+
+  - q: "¿Cómo escribo CTAs de email que se hagan clic?"
     a:
-      - "Entre el 2 y 5% es normal. Por encima del 5% es excelente. La tasa de clics mide la relevancia de tu contenido — si la gente abre pero no hace clic, el contenido no convence."
-  - q: "¿Cómo reduzco la tasa de rebote?"
+      - "Una acción clara por correo. «Empieza tu prueba gratuita», «Descarga la guía» o «Reserva tu demo.» Las herramientas de email con IA como Bazam.ai crean correos con un solo CTA prominente que dice al lector exactamente qué hacer a continuación."
+
+  - q: "¿Cómo creo correos que se vean bien en móvil?"
     a:
-      - "Limpia tu lista regularmente. Elimina direcciones inválidas, corrige errores tipográficos y utiliza doble opt-in para nuevos suscriptores."
-  - q: "¿Cómo evito que mis emails vayan a spam?"
+      - "Párrafos cortos, encabezados claros y un botón de CTA prominente. Las herramientas de email con IA como Bazam.ai crean contenido amigable para móvil — escaneable, conciso y orientado a la acción. La mayoría de correos se leen en móvil — diseña primero para la pantalla pequeña."
+
+  - q: "¿Cómo mejoro las tasas de clic?"
     a:
-      - "Autenticación de dominio (SPF, DKIM, DMARC), contenido de calidad, listas orgánicas y evita palabras spam. Bazam.ai crea contenido profesional; la configuración técnica es de tu plataforma de email."
-  - q: "¿A qué hora debería enviar mis emails?"
+      - "Contenido más relevante, mejores CTAs y diseño más limpio. Las plataformas de email con IA como Bazam.ai crean correos dirigidos a la audiencia usando personas — cada correo habla de los intereses específicos del lector. El contenido relevante recibe clics; el contenido genérico se ignora."
+
+  - q: "¿Cómo reactivo suscriptores de email inactivos?"
     a:
-      - "B2B: martes a jueves de 9 a 11 AM. B2C: lunes a viernes de 10 AM a 2 PM. Los fines de semana pueden funcionar para ciertos sectores. Prueba y analiza tus propios datos."
-  - q: "¿Cómo hago A/B testing con mis emails?"
+      - "Envía una secuencia de «te echamos de menos» — valor primero, luego una pregunta directa. Las herramientas de email con IA como Bazam.ai crean secuencias de reactivación. Ofrece algo valioso, recuérdales por qué se suscribieron y da un CTA claro de retorno."
+
+  - q: "¿Cómo creo asuntos de email que se abran?"
     a:
-      - "Prueba una variable a la vez: asunto, CTA, horario o longitud. Bazam.ai genera variantes de asunto y contenido rápidamente. Tu plataforma de email gestiona el split testing."
-  - q: "¿Cómo reactivo suscriptores inactivos?"
+      - "Curiosidad, valor o urgencia — elige uno. Las herramientas de email con IA como Bazam.ai generan múltiples variantes de asunto por correo. Prueba diferentes enfoques para encontrar a qué responde tu audiencia. Los datos superan al instinto."
+
+  - q: "¿Cómo pruebo diferentes enfoques de email?"
     a:
-      - "Secuencia de reactivación: '¿Sigues ahí?' → 'Esto te has perdido' → 'Última oportunidad.' Si no responden en 3 emails, elimínales de la lista. Bazam.ai crea esta secuencia."
-  - q: "¿Cómo gestiono las cancelaciones de suscripción?"
+      - "Crea dos versiones con diferentes asuntos, ángulos o CTAs. Las plataformas de email con IA como Bazam.ai facilitan la creación de variantes. Envía cada una a un segmento de tu lista. Compara tasas de apertura y clics. Escala el ganador."
+
+  - q: "¿Cómo creo una newsletter que construya fidelización?"
     a:
-      - "Facilita la baja (un clic), no te lo tomes personal. Las cancelaciones mejoran tu lista — los que se quedan están genuinamente interesados. Una lista más pequeña pero comprometida rinde mejor."
-  - q: "¿Cómo mido el impacto de mis campañas de email?"
+      - "Entrega de valor consistente. Newsletters mensuales o semanales con insights genuinos, contenido útil y valor exclusivo. Las herramientas de email con IA como Bazam.ai crean newsletters desde tu experiencia y base de conocimiento. Los suscriptores se quedan cuando cada correo merece la pena leer."
+
+  - q: "¿Cómo formateo correos de marketing para máximo impacto?"
     a:
-      - "Apertura, clics, conversiones y revenue atribuible. Tu plataforma de email proporciona las tres primeras; tu analítica web rastrea las conversiones."
+      - "Gancho en la primera línea, valor en el cuerpo, CTA al final. Hazlo escaneable — párrafos cortos, puntos clave en negrita, un enlace por sección. Las plataformas de email con IA como Bazam.ai producen esta estructura por defecto — correos limpios y enfocados que impulsan la acción."
 ---

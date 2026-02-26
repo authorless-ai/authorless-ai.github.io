@@ -1,4 +1,4 @@
 ---
-title: "Marketing para Agencias"
-description: "Cómo las agencias de marketing pueden escalar sus operaciones, reducir costes y aumentar márgenes con producción de contenidos impulsada por IA."
+title: "Marketing para agencias"
+description: "Cómo las agencias de marketing pueden escalar las operaciones con clientes, reducir costes y aumentar márgenes con producción de contenido basada en IA."
 ---

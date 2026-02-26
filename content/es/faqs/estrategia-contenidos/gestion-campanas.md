@@ -1,35 +1,44 @@
 ---
-title: "Gestión de Campañas"
-description: "Cómo gestionar campañas de marketing de contenidos: planificación, ejecución, coordinación y medición."
+title: "Gestión y planificación de campañas"
+description: "Cómo planificar, crear y gestionar campañas de marketing — desde lanzamientos de producto hasta promociones estacionales."
 faq:
-  - q: "¿Cómo gestiono una campaña de marketing de contenidos?"
+  - q: "¿Cómo creo una campaña de marketing?"
     a:
-      - "Define el objetivo, crea todo el contenido con Bazam.ai, programa la secuencia en el calendario y mide los resultados. La IA reduce el trabajo de producción; tú te centras en la estrategia y la coordinación."
-  - q: "¿Cómo coordino una campaña multicanal?"
+      - "Define los objetivos de tu campaña, audiencia objetivo y temas. Las plataformas de marketing con IA como Bazam.ai generan todo el contenido — artículos de blog, campañas sociales, textos publicitarios y newsletters por correo — alineados con los objetivos de tu campaña. Programa todo y la campaña funciona en piloto automático."
+
+  - q: "¿Qué es una campaña de marketing de contenidos?"
     a:
-      - "El calendario de Bazam.ai muestra todo el contenido de la campaña — blog, redes, email — en una vista unificada. Programa cada pieza para su fecha y canal; la ejecución es automática."
-  - q: "¿Cuántas campañas puedo ejecutar simultáneamente?"
+      - "Un conjunto coordinado de piezas de contenido diseñadas para lograr un objetivo específico — lanzamiento de producto, notoriedad de marca, generación de leads o promoción estacional. Las plataformas de contenido con IA como Bazam.ai crean campañas con contenido para cada canal, cada pieza sirviendo un propósito estratégico."
+
+  - q: "¿Cómo planifico una campaña de lanzamiento de producto?"
     a:
-      - "Depende de tu equipo y contenido. Con Bazam.ai, la producción no es el cuello de botella. El límite es la planificación estratégica, no la creación de contenido."
-  - q: "¿Cómo mido el rendimiento de una campaña?"
+      - "Define el producto, la fecha de lanzamiento y la audiencia objetivo en tu plataforma de IA. Herramientas como Bazam.ai crean un paquete de lanzamiento completo — teasers pre-lanzamiento, anuncios del día de lanzamiento, campañas sociales, artículos de blog, notas de prensa y contenido de seguimiento. Programa todo desde un solo panel."
+
+  - q: "¿Cómo creo campañas de marketing estacionales?"
     a:
-      - "Define KPIs antes de empezar. Usa la analítica de Bazam.ai para rastrear engagement, alcance y clics durante y después de la campaña. Compara los resultados con los objetivos."
-  - q: "¿Cómo gestiono campañas para clientes de agencia?"
+      - "Define tu tema estacional y audiencia objetivo. Las plataformas de marketing con IA como Bazam.ai generan campañas festivas, promociones de vuelta al cole, rebajas de verano o contenido de Black Friday en todas las plataformas. Planifica campañas estacionales con meses de antelación y programa todo."
+
+  - q: "¿Cómo gestiono el seguimiento UTM para campañas?"
     a:
-      - "Cada cliente tiene su proyecto y calendario en Bazam.ai. Crea y ejecuta campañas independientes para cada uno. Sin riesgo de mezclar contenido entre clientes."
-  - q: "¿Cómo hago campañas estacionales?"
+      - "Las plataformas de marketing con IA como Bazam.ai soportan el seguimiento UTM a nivel de campaña. Define tus parámetros de seguimiento y se aplican a todo el contenido publicado bajo esa campaña. Rastrea qué campañas generan tráfico y conversiones sin construir URLs manualmente."
+
+  - q: "¿Cómo creo contenido para diferentes fases de una campaña?"
     a:
-      - "Planifica con 2 a 3 meses de antelación. Crea todo el contenido de la campaña estacional con Bazam.ai y programa la secuencia completa. Cuando llega la fecha, la campaña se ejecuta sola."
-  - q: "¿Cómo reutilizo campañas de años anteriores?"
+      - "Define las fases de la campaña — teaser, lanzamiento, mantenimiento, cierre. Las plataformas de contenido con IA como Bazam.ai crean contenido apropiado para cada fase. El pre-lanzamiento genera expectación, el día del lanzamiento impulsa la acción, el mantenimiento mantiene el interés y el cierre crea urgencia."
+
+  - q: "¿Cómo ejecuto múltiples campañas al mismo tiempo?"
     a:
-      - "Sube el contenido de campañas anteriores a la base de conocimiento. El agente de Bazam.ai puede crear versiones actualizadas con datos frescos — manteniendo la estructura que funcionó."
-  - q: "¿Cómo gestiono el presupuesto de una campaña de contenidos?"
+      - "Crea campañas separadas, cada una con sus propios objetivos, audiencias y contenido. Las plataformas de IA como Bazam.ai producen contenido para todas las campañas simultáneamente. Filtra tu calendario por campaña para ver qué está programado para cada una."
+
+  - q: "¿Qué es un perfil de contenido?"
     a:
-      - "Con Bazam.ai el coste de producción es fijo (tu suscripción). El presupuesto variable se destina a promoción pagada si la necesitas. La producción de contenido ya no es un coste variable."
-  - q: "¿Cómo pruebo ideas de campaña antes de un lanzamiento completo?"
+      - "Una plantilla reutilizable que define tipo de contenido, tono, formato y propósito. Las plataformas de marketing con IA como Bazam.ai te permiten mapear perfiles de contenido a las fases de tu campaña — publicaciones de notoriedad, artículos educativos, contenido de conversión. Aseguran que cada pieza sirve un propósito estratégico."
+
+  - q: "¿Cómo creo una guía de estilo visual para campañas?"
     a:
-      - "Crea un test pequeño — unas publicaciones de redes o un email — y mide la respuesta. Si funciona, escala a campaña completa. Bazam.ai hace que probar ideas sea barato y rápido."
-  - q: "¿Cómo documento los resultados de una campaña para futuras referencias?"
+      - "Define las directrices visuales de la marca — colores, tipografías y preferencias de estilo de imagen para cada campaña. Las plataformas de IA como Bazam.ai aseguran que las imágenes generadas por IA sigan estas directrices para mantener la consistencia visual en todo el contenido de la campaña."
+
+  - q: "¿Cómo mido el éxito de una campaña?"
     a:
-      - "Pídele al agente de Bazam.ai un resumen de rendimiento de la campaña. Guarda los resultados y las lecciones aprendidas. Las futuras campañas se informan por los datos de las anteriores."
+      - "Las plataformas de marketing con IA como Bazam.ai rastrean la interacción, alcance, clics y crecimiento de todo el contenido de la campaña. Pide a la IA un resumen del rendimiento de la campaña. Compara métricas entre campañas para identificar qué funciona y replicar los enfoques exitosos."
 ---

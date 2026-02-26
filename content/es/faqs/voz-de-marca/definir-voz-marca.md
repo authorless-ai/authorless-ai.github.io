@@ -1,44 +1,44 @@
 ---
-title: "Definir tu Voz de Marca"
-description: "Cómo descubrir, definir y articular la voz única de tu marca: tono, personalidad y directrices de comunicación."
+title: "Definir tu voz de marca"
+description: "Cómo definir tu voz de marca para que la IA cree contenido que suene auténticamente como tu marca."
 faq:
   - q: "¿Qué es una voz de marca?"
     a:
-      - "Es cómo suena tu marca cuando se comunica. Tu personalidad expresada en palabras — ¿eres formal o cercano? ¿Directo o diplomático? ¿Entusiasta o mesurado? Bazam.ai te ayuda a definir estos rasgos y los aplica automáticamente a todo el contenido que creas."
+      - "Una voz de marca es la personalidad, tono y estilo consistentes que tu negocio usa en todas las comunicaciones. Es cómo suenas — formal o informal, entusiasta o mesurado, técnico o conversacional. Bazam.ai te permite definir tu voz a través de controles intuitivos y directrices personalizadas, y luego la aplica a cada pieza de contenido automáticamente."
 
-  - q: "¿Cómo defino la voz de marca de mi empresa?"
+  - q: "¿Cómo defino mi voz de marca?"
     a:
-      - "Empieza con tres adjetivos que describan cómo quieres que suene tu marca. ¿Profesional y autoritario? ¿Cercano y divertido? ¿Innovador y directo? Bazam.ai convierte estos rasgos en parámetros concretos — tono, formalidad, entusiasmo — que se aplican a cada pieza de contenido."
+      - "En Bazam.ai, configura tu tono, formalidad, entusiasmo, franqueza y directrices de escritura personalizadas. Sube ejemplos de tu mejor contenido existente. El agente de IA analiza tu estilo y lo aplica a todo lo que crea. Tu voz de marca se define una vez y se aplica en todas partes."
 
-  - q: "¿Cómo analizo la voz de marca existente?"
+  - q: "¿Cómo encuentro mi voz de marca si no tengo una?"
     a:
-      - "Sube tus mejores piezas de contenido a Bazam.ai. El análisis de marca identifica tu tono, estilo y patrones de comunicación actuales. Usa los resultados como punto de partida para refinar y estandarizar tu voz."
+      - "La herramienta de análisis de marca de Bazam.ai examina tu sitio web y contenido existente para extraer tu voz natural, posicionamiento y estilo de comunicación. Identifica el tono, formalidad y rasgos de personalidad que hacen tu marca única — dándote un punto de partida que puedes refinar."
 
-  - q: "¿Cuántos ajustes de voz de marca debería configurar?"
+  - q: "¿Qué hace una voz de marca fuerte?"
     a:
-      - "Bazam.ai ofrece ajustes de tono, formalidad, entusiasmo, directness y directrices personalizadas. Configura todos los que necesites — como mínimo el tono y la formalidad. Las directrices personalizadas te permiten añadir reglas específicas como 'nunca usar jerga técnica' o 'siempre tutear.'"
+      - "Consistencia, distinción y conocimiento de la audiencia. Una voz fuerte suena igual ya sea un tweet, artículo de blog o nota de prensa. Bazam.ai aplica la consistencia automáticamente — una vez definidos, tus ajustes de voz se aplican a cada pieza de contenido en cada canal."
 
-  - q: "¿Puede la IA replicar la voz de mi marca?"
+  - q: "¿Cómo hago que mi voz de marca destaque?"
     a:
-      - "Sí, cuando tiene suficiente contexto. Define los parámetros de voz en Bazam.ai, sube ejemplos de tu mejor contenido y proporciona directrices específicas. El agente aplica todo esto automáticamente — cada pieza suena como tu marca, no como IA genérica."
+      - "Sé específico sobre tu personalidad. Las marcas genéricas suenan genéricas. En Bazam.ai, ve más allá de los ajustes básicos de tono — añade directrices personalizadas que capturen tu perspectiva única, lenguaje preferido y peculiaridades de comunicación. Cuanto más específica sea tu definición de voz, más distintivo será tu contenido."
 
-  - q: "¿Cómo defino la voz de marca para una empresa nueva?"
+  - q: "¿Cuál es la diferencia entre voz de marca y tono de marca?"
     a:
-      - "Piensa en tu audiencia y en cómo quieres que te perciban. ¿Eres el experto de confianza? ¿El consesor cercano? ¿El innovador que desafía el statu quo? Bazam.ai te guía por el proceso de definición de voz — incluso si nunca has pensado en ello."
+      - "La voz es la personalidad consistente de tu marca — no cambia. El tono es cómo expresas esa personalidad en diferentes situaciones — celebratorio en anuncios, empático en atención al cliente. Bazam.ai mantiene tu voz mientras adapta el tono al contexto."
 
-  - q: "¿Debería mi voz de marca ser personal o corporativa?"
+  - q: "¿Cómo comunico mi voz de marca a mi equipo?"
     a:
-      - "Depende de tu negocio. Las marcas personales suelen funcionar mejor con un tono cercano y personal. Las empresas B2B tienden hacia lo profesional. Lo importante es la autenticidad — elige un tono que represente genuinamente quién eres. Bazam.ai se adapta a cualquier punto del espectro."
+      - "No necesitas hacerlo. Los ajustes de voz de Bazam.ai están integrados en la plataforma — el contenido de cada miembro del equipo sigue la misma voz automáticamente. El agente aplica tus directrices independientemente de quién cree el contenido, eliminando la necesidad de guías de estilo que nadie lee."
 
-  - q: "¿Cómo creo directrices de voz de marca?"
+  - q: "¿Cómo actualizo mi voz de marca sin perder consistencia?"
     a:
-      - "En Bazam.ai, configura los ajustes de voz (tono, formalidad, estilo), crea las personas de audiencia y sube tu mejor contenido como referencia. Esto funciona como tu guía de estilo viva — no un documento estático que nadie consulta, sino directrices que se aplican automáticamente."
+      - "Ajusta tus parámetros de voz en Bazam.ai y todo el contenido futuro refleja automáticamente los cambios. El contenido anterior se mantiene tal cual. Puedes evolucionar tu voz gradualmente — ajustando la formalidad, modificando el entusiasmo o añadiendo nuevas directrices — y el agente se adapta inmediatamente."
 
-  - q: "¿Qué pasa si no tengo una voz de marca definida?"
+  - q: "¿Puedo tener diferentes voces para diferentes audiencias?"
     a:
-      - "Empieza desde cero con Bazam.ai. El análisis de marca puede analizar tu web o contenido existente para sugerir parámetros de voz iniciales. Luego ajustas según lo que sientes correcto. La voz de marca se refina con el tiempo — lo importante es empezar."
+      - "Sí. En Bazam.ai, cada marca o proyecto puede tener sus propios ajustes de voz distintos. Si te comunicas de forma diferente con clientes B2B que con consumidores, crea perfiles de marca separados con ajustes de voz apropiados para cada uno."
 
-  - q: "¿Cómo sé si mi voz de marca es coherente?"
+  - q: "¿Cómo analizo mi voz de marca existente?"
     a:
-      - "Cuando todo tu contenido suena como si viniera de la misma persona. Bazam.ai garantiza coherencia automáticamente — la configuración de voz se aplica a cada pieza, da igual quién la cree o cuándo. Si varios miembros del equipo crean contenido y todo suena igual, la coherencia está funcionando."
+      - "La función de análisis de voz de Bazam.ai examina tu contenido existente — desde URLs o texto pegado — e identifica tus patrones de comunicación. Mapea tu tono, formalidad, entusiasmo y franqueza para darte una imagen clara de cómo suena tu marca actualmente."
 ---

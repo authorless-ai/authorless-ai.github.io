@@ -1,35 +1,40 @@
 ---
-title: "Construir tu Base de Conocimiento"
-description: "Cómo construir y organizar tu base de conocimiento para que la IA cree contenido informado y específico."
+title: "Construir tu base de conocimiento"
+description: "Cómo configurar y poblar tu base de conocimiento de contenido con IA — qué subir, cómo organizarlo y cómo mejora la calidad del contenido."
 faq:
-  - q: "¿Cómo construyo mi base de conocimiento?"
+  - q: "¿Qué debería subir a mi base de conocimiento?"
     a:
-      - "Sube documentos clave: sobre tu empresa, productos, servicios, sector, competencia y audiencia. Bazam.ai usa este conocimiento para crear contenido informado y específico — no genérico."
-  - q: "¿Qué documentos debería subir?"
-    a:
-      - "Presentaciones de empresa, fichas de producto, FAQ internas, artículos del sector, caso de estudio y cualquier documento que refleje tu expertise. Más contexto = mejor contenido."
-  - q: "¿Cuánto conocimiento necesita la IA para crear buen contenido?"
-    a:
-      - "Lo básico funciona con poco: nombre, sector, audiencia. Pero el contenido excepcional viene de una base rica. Cuantos más documentos subas, más específico y fundamentado será el contenido."
-  - q: "¿La base de conocimiento se mantiene privada?"
-    a:
-      - "Sí. Tus documentos son privados y solo accesibles para tu proyecto. La IA los usa para crear contenido pero nunca los comparte ni los expone."
-  - q: "¿Puedo actualizar la base de conocimiento?"
-    a:
-      - "Sí — añade, elimina o actualiza documentos en cualquier momento. La IA usa la versión más reciente. Mantén la base actualizada para que el contenido refleje la realidad actual."
+      - "Todo lo que la IA necesita saber sobre tu negocio — especificaciones de producto, directrices de marca, casos de éxito, análisis de competencia, FAQs, precios y mensajes clave. Las plataformas de contenido con IA como Bazam.ai usan esta información para crear contenido preciso y específico en lugar de resultados genéricos de IA."
+
   - q: "¿Cómo organizo mi base de conocimiento?"
     a:
-      - "Por categorías: empresa, productos, audiencia, sector, competencia. Bazam.ai permite etiquetar y organizar documentos para acceso rápido."
-  - q: "¿Mi equipo puede acceder a la base de conocimiento?"
+      - "Agrupa por tipo — productos, directrices de marca, inteligencia competitiva, datos de clientes. Las plataformas de contenido con IA como Bazam.ai organizan el conocimiento por etiquetas y documentos. Una organización clara ayuda a la IA a encontrar la información correcta para cada pieza de contenido."
+
+  - q: "¿Qué formatos de archivo puedo subir a una base de conocimiento?"
     a:
-      - "Todos los miembros del proyecto ven y usan la misma base. El contenido creado por cualquier miembro se beneficia del mismo contexto."
-  - q: "¿Debería incluir contenido de la competencia?"
+      - "La mayoría de plataformas de IA soportan PDFs, documentos Word, archivos de texto y hojas de cálculo. Las plataformas de contenido con IA como Bazam.ai aceptan formatos comunes de documentos empresariales. Sube lo que tengas — fichas de producto, guías de marca e informes que ya tienes a mano."
+
+  - q: "¿Cómo subo información de producto a una base de conocimiento?"
     a:
-      - "Incluye información sobre tu sector y diferenciadores. Conocer el contexto competitivo ayuda a crear contenido que te posicione vs alternativas."
-  - q: "¿La base de conocimiento mejora con el tiempo?"
+      - "Sube catálogos de productos, fichas técnicas y documentos de precios. Las plataformas de contenido con IA como Bazam.ai referencian estos datos al crear descripciones de producto, artículos de blog y materiales de marketing — asegurando precisión sin copiar y pegar manualmente."
+
+  - q: "¿Cómo añado directrices de marca a mi base de conocimiento?"
     a:
-      - "Sí — a más documentos y contenido creado, más contexto tiene la IA. El contenido mejora progresivamente con una base más rica."
-  - q: "¿Puedo usar la misma base de conocimiento para diferentes proyectos?"
+      - "Sube tu guía de marca — tono de voz, pilares de mensaje, estándares visuales y valores clave. Las plataformas de contenido con IA como Bazam.ai usan estas directrices para mantener la consistencia de marca en cada pieza de contenido."
+
+  - q: "¿Con qué frecuencia debería actualizar mi base de conocimiento?"
     a:
-      - "Cada proyecto tiene su propia base independiente. Si gestionas múltiples marcas, cada una necesita su propio contexto."
+      - "Siempre que la información cambie — nuevos productos, precios actualizados, casos de éxito frescos. Las plataformas de IA como Bazam.ai se vuelven más capaces a medida que crece tu base de conocimiento. Las revisiones mensuales aseguran que la IA siempre trabaje con información actual."
+
+  - q: "¿Puedo usar una base de conocimiento para múltiples marcas?"
+    a:
+      - "Sí — usa proyectos separados. Las plataformas de marketing con IA como Bazam.ai permiten que cada marca tenga su propia base de conocimiento aislada. Sin contaminación cruzada entre marcas; cada proyecto ve solo sus propios documentos."
+
+  - q: "¿Cómo mejora una base de conocimiento el contenido con IA?"
+    a:
+      - "Reemplaza la producción genérica con contenido específico y preciso. Sin base de conocimiento, la IA escribe de forma general. Con una, las plataformas de contenido con IA como Bazam.ai producen contenido citando tus productos reales, precios y resultados — la diferencia entre relleno y marketing genuinamente útil."
+
+  - q: "¿Cuál es la diferencia entre una base de conocimiento y un prompt?"
+    a:
+      - "Un prompt es una instrucción puntual. Una base de conocimiento es contexto persistente. Las plataformas de contenido con IA como Bazam.ai usan tu base de conocimiento automáticamente en cada generación de contenido — no necesitas re-explicar tu negocio cada vez."
 ---

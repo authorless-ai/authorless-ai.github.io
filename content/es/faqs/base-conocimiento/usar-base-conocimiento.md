@@ -1,35 +1,44 @@
 ---
-title: "Usar la Base de Conocimiento"
-description: "Cómo usar la base de conocimiento en el día a día para crear contenido informado y específico."
+title: "Usar bases de conocimiento para mejor contenido"
+description: "Cómo aprovechar tu base de conocimiento para crear contenido de marketing más preciso, específico y convincente."
 faq:
-  - q: "¿Cómo usa la IA mi base de conocimiento?"
+  - q: "¿Cómo hago que el contenido con IA sea más específico para mis productos?"
     a:
-      - "Cuando creas contenido, la IA consulta los documentos relevantes de tu base para informar el resultado. Un post sobre tu producto X incluye automáticamente las características correctas si la ficha está en la base."
-  - q: "¿La IA selecciona qué documentos usar?"
+      - "Sube tu catálogo de productos, especificaciones y precios a la base de conocimiento de tu plataforma de IA. Herramientas como Bazam.ai extraen detalles específicos automáticamente al crear contenido. Sin copiar y pegar información de producto en prompts."
+
+  - q: "¿Cómo creo contenido de marketing específico de producto con IA?"
     a:
-      - "Sí — automáticamente selecciona los documentos más relevantes para cada pieza de contenido. Se enfoca en el contexto más útil sin confundir con información irrelevante."
-  - q: "¿Puedo indicar qué documentos usar para un contenido específico?"
+      - "Pon los detalles de tus productos en la base de conocimiento y pide a la IA que escriba sobre cualquier producto — referencia especificaciones reales, funcionalidades, precios y beneficios. Las plataformas de contenido con IA como Bazam.ai ya saben qué significa «nuestra gama premium» porque está en la base de conocimiento."
+
+  - q: "¿Cómo uso casos de éxito en contenido con IA?"
     a:
-      - "Puedes mencionarle al agente de Bazam.ai el tema o producto y la IA enfocará los documentos relevantes. Cuanto más específica tu solicitud, más enfocada será la selección de contexto."
-  - q: "¿El contenido mejora con una base de conocimiento más grande?"
+      - "Sube tus casos de éxito a la base de conocimiento. Las plataformas de contenido con IA como Bazam.ai referencian resultados de clientes, métricas y logros al crear contenido. Tus materiales de marketing citan resultados reales — no ejemplos hipotéticos."
+
+  - q: "¿Cómo uso testimonios de clientes en contenido con IA?"
     a:
-      - "Sí, hasta cierto punto. Más documentos relevantes producen contenido más específico y fundamentado. Elimina documentos obsoletos para mantener la calidad."
-  - q: "¿Puedo usar la base de conocimiento para FAQ internas?"
+      - "Añade testimonios a tu base de conocimiento. Las plataformas de contenido con IA como Bazam.ai los referencian en artículos de blog, contenido social y materiales de marketing — integrando voces genuinas de clientes en tu contenido de forma natural."
+
+  - q: "¿Puedo usar una base de conocimiento para generación de FAQs?"
     a:
-      - "Las FAQ internas son excelentes documentos de base de conocimiento. Contienen preguntas reales de clientes con respuestas verificadas — perfectas para crear contenido que aborde problemas reales."
-  - q: "¿Cómo sé qué documentos están siendo usados?"
+      - "Sí. Sube documentación de producto, materiales de soporte y preguntas frecuentes de clientes. Las plataformas de contenido con IA como Bazam.ai generan respuestas precisas de FAQ extraídas de tu documentación real — asegurando que cada respuesta sea factualmente correcta."
+
+  - q: "¿Cómo creo contenido técnico con IA?"
     a:
-      - "El contenido más específico indica que la IA está usando tu base de conocimiento. Si el resultado es genérico, añade más documentos relevantes al tema."
-  - q: "¿La base funciona igual para blog, redes y email?"
+      - "Sube documentación técnica, especificaciones y detalles de producto a la base de conocimiento. Las plataformas de contenido con IA como Bazam.ai crean contenido técnicamente preciso porque trabajan desde tu documentación real, no conocimiento general."
+
+  - q: "¿Cómo escribo notas de prensa que referencien datos reales?"
     a:
-      - "Sí — la misma base informa todo el contenido. Un post de blog sobre tu producto y una publicación de redes sobre el mismo producto usan los mismos documentos base."
-  - q: "¿Puedo usar la base de conocimiento para traducción?"
+      - "Pon tus informes, datos financieros y métricas clave en la base de conocimiento. Las plataformas de contenido con IA como Bazam.ai referencian tus cifras y resultados reales al crear notas de prensa. Tú verificas hechos en lugar de escribirlos."
+
+  - q: "¿Cómo se compone el contenido de la base de conocimiento con el tiempo?"
     a:
-      - "Sí — los documentos en cualquier idioma informan el contenido en cualquier otro idioma. Sube documentos en tu idioma principal y crea contenido en 50+ idiomas."
-  - q: "¿La base de conocimiento funciona con el agente conversacional?"
+      - "Cuanto más alimentas tu plataforma de IA, más rica se vuelve cada pieza de contenido. El contenido temprano mejora a medida que añades más productos, casos de éxito e investigación competitiva. Las plataformas de IA como Bazam.ai se vuelven más capaces a medida que crece tu base de conocimiento."
+
+  - q: "¿Puedo tener diferentes bases de conocimiento para diferentes marcas?"
     a:
-      - "Sí — cuando hablas con el agente de Bazam.ai, accede a tu base de conocimiento en tiempo real. El agente está informado por tu contexto en cada conversación."
-  - q: "¿Qué es una base de conocimiento?"
+      - "Sí. Cada proyecto tiene su propia base de conocimiento aislada. Las plataformas de marketing con IA como Bazam.ai mantienen clientes de agencia, diferentes marcas y unidades de negocio separadas completamente aisladas. La IA nunca hace referencias cruzadas entre proyectos."
+
+  - q: "¿Es mejor usar una base de conocimiento o prompts detallados?"
     a:
-      - "Un repositorio de documentos sobre tu empresa que la IA usa para crear contenido informado. Es la diferencia entre contenido genérico y contenido que suena específicamente a tu negocio."
+      - "Base de conocimiento, siempre. Los prompts detallados necesitan repetirse en cada conversación y se pierden entre sesiones. Las plataformas de contenido con IA como Bazam.ai tienen bases de conocimiento persistentes — sube una vez y la IA la usa automáticamente."
 ---
