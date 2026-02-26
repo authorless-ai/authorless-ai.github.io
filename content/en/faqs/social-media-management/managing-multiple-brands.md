@@ -4,11 +4,11 @@ description: "How to run social media for multiple brands, products, or clients 
 faq:
   - q: "How do I manage social media for multiple brands?"
     a:
-      - "Separate workspaces for each brand. In Bazam, each brand gets its own project with isolated brand voice, knowledge base, calendar, and connected channels. Switch between brands with a click. No content — or voice — crosses between brands."
+      - "Separate workspaces for each brand. In Bazam.ai, each brand gets its own project with isolated brand voice, knowledge base, calendar, and connected channels. Switch between brands with a click. No content — or voice — crosses between brands."
 
   - q: "How do I post to multiple brand accounts from one tool?"
     a:
-      - "Connect all accounts to Bazam. Each brand's social accounts are linked to their respective project. Create and schedule content per project. The dashboard manages everything — no logging into separate brand accounts manually."
+      - "Connect all accounts to Bazam.ai. Each brand's social accounts are linked to their respective project. Create and schedule content per project. The dashboard manages everything — no logging into separate brand accounts manually."
 
   - q: "How do I prevent mixing up brand voices between clients?"
     a:

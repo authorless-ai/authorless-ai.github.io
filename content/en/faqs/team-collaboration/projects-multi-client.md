@@ -4,23 +4,23 @@ description: "How to manage multiple brands, clients, and projects from a single
 faq:
   - q: "How do I manage multiple brands from one account?"
     a:
-      - "Create separate projects in Bazam for each brand. Each project has isolated brand voice, audiences, knowledge base, channels, and content calendar. Switch between brands with a click — nothing crosses over."
+      - "Create separate projects in Bazam.ai for each brand. Each project has isolated brand voice, audiences, knowledge base, channels, and content calendar. Switch between brands with a click — nothing crosses over."
 
-  - q: "What is a project in Bazam?"
+  - q: "What is a project in Bazam.ai?"
     a:
       - "A project is an isolated workspace for a brand or client. It contains its own brand settings, audience personas, knowledge base, channels, content calendar, and analytics. Everything within a project is separate from everything in other projects."
 
-  - q: "How do agencies manage multiple clients in Bazam?"
+  - q: "How do agencies manage multiple clients in Bazam.ai?"
     a:
       - "One project per client. Each project isolates the client's brand voice, audience, knowledge base, and content. Team members with access to a project can create and manage content specifically for that client. Client data never crosses over."
 
   - q: "Can I switch between projects quickly?"
     a:
-      - "Yes. Bazam lets you switch between projects from the dashboard. The agent immediately operates in the context of the selected project — all brand voice, knowledge base, and audience data switches with it."
+      - "Yes. Bazam.ai lets you switch between projects from the dashboard. The agent immediately operates in the context of the selected project — all brand voice, knowledge base, and audience data switches with it."
 
   - q: "How do I keep client data separate?"
     a:
-      - "Projects in Bazam are fully isolated. Each client's brand voice, audience personas, knowledge base, connected channels, and content live in their own project. Even team members with access to multiple projects see each one independently."
+      - "Projects in Bazam.ai are fully isolated. Each client's brand voice, audience personas, knowledge base, connected channels, and content live in their own project. Even team members with access to multiple projects see each one independently."
 
   - q: "Can different team members have access to different projects?"
     a:
@@ -28,7 +28,7 @@ faq:
 
   - q: "How do I create a new project for a new client?"
     a:
-      - "Create a new project in Bazam, set up the brand voice, upload key documents to the knowledge base, and connect the client's channels. The agent is immediately ready to create content. Most clients are onboarded in under an hour."
+      - "Create a new project in Bazam.ai, set up the brand voice, upload key documents to the knowledge base, and connect the client's channels. The agent is immediately ready to create content. Most clients are onboarded in under an hour."
 
   - q: "Can I copy brand settings between projects?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "How many projects can I have?"
     a:
-      - "As many as you need. Bazam supports unlimited projects for agencies and businesses managing multiple brands. Add clients as you grow — scaling your client base doesn't change how the platform works."
+      - "As many as you need. Bazam.ai supports multiple projects for agencies and businesses managing multiple brands. Add clients as you grow — scaling your client base doesn't change how the platform works."
 
   - q: "How do I archive completed client projects?"
     a:

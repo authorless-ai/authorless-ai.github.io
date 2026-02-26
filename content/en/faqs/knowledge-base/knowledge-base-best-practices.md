@@ -4,19 +4,19 @@ description: "How to build, maintain, and leverage a knowledge base for AI conte
 faq:
   - q: "What is a knowledge base for AI content creation?"
     a:
-      - "A collection of your company documents, product information, and brand materials that the AI references when creating content. Bazam's knowledge base stores everything the AI needs to produce accurate, informed content — not generic text from training data."
+      - "A collection of your company documents, product information, and brand materials that the AI references when creating content. Bazam.ai's knowledge base stores everything the AI needs to produce accurate, informed content — not generic text from training data."
 
   - q: "How does a knowledge base prevent AI hallucinations?"
     a:
-      - "The AI references your actual data instead of inventing details. When Bazam creates a product blog post, it pulls accurate specs, features, and pricing from your uploaded documents. Facts come from your knowledge base, not from imagination."
+      - "The AI references your actual data instead of inventing details. When Bazam.ai creates a product blog post, it pulls accurate specs, features, and pricing from your uploaded documents. Facts come from your knowledge base, not from imagination."
 
   - q: "What's the best format for knowledge base documents?"
     a:
-      - "Whatever format you already have. Bazam accepts PDFs, documents, spreadsheets, and text files. Don't rewrite your materials for the AI — upload them as-is. Product data sheets, brand guidelines, company reports, and internal documentation all work."
+      - "Whatever format you already have. Bazam.ai accepts PDFs, documents, spreadsheets, and text files. Don't rewrite your materials for the AI — upload them as-is. Product data sheets, brand guidelines, company reports, and internal documentation all work."
 
   - q: "How do I build a knowledge base from scratch?"
     a:
-      - "Start with your most important documents: product descriptions, company overview, FAQs, and brand guidelines. Upload these to Bazam first. Then add supporting materials — case studies, testimonials, research data. Build incrementally."
+      - "Start with your most important documents: product descriptions, company overview, FAQs, and brand guidelines. Upload these to Bazam.ai first. Then add supporting materials — case studies, testimonials, research data. Build incrementally."
 
   - q: "How does knowledge base quality affect content quality?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "Can I use my knowledge base for multiple content types?"
     a:
-      - "Yes. The same knowledge base informs every content type — blog posts, social media, emails, ad copy, video scripts. Bazam draws relevant information from the same source regardless of the format being created."
+      - "Yes. The same knowledge base informs every content type — blog posts, social media, emails, ad copy, video scripts. Bazam.ai draws relevant information from the same source regardless of the format being created."
 
   - q: "How do I measure whether my knowledge base is working?"
     a:

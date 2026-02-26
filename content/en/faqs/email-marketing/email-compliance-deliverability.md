@@ -4,15 +4,15 @@ description: "How to stay compliant with email marketing laws and ensure your em
 faq:
   - q: "How do I comply with GDPR for email marketing?"
     a:
-      - "Obtain explicit consent before emailing, include an unsubscribe link in every email, honour opt-out requests promptly, and clearly state who's sending the email. Bazam creates professional email content — but compliance with sending laws is managed through your email platform."
+      - "Obtain explicit consent before emailing, include an unsubscribe link in every email, honour opt-out requests promptly, and clearly state who's sending the email. Bazam.ai creates professional email content — but compliance with sending laws is managed through your email platform."
 
   - q: "What is CAN-SPAM and how do I comply?"
     a:
-      - "CAN-SPAM is US email marketing law requiring: identifying the email as an ad, including your physical address, providing an unsubscribe link, and honouring opt-outs within 10 days. Bazam creates content; your email platform handles compliance features."
+      - "CAN-SPAM is US email marketing law requiring: identifying the email as an ad, including your physical address, providing an unsubscribe link, and honouring opt-outs within 10 days. Bazam.ai creates content; your email platform handles compliance features."
 
   - q: "How do I improve email deliverability?"
     a:
-      - "Maintain a clean list, send consistently, avoid spam trigger words, and create content people actually want to read. Bazam creates engaging, relevant email content — reducing the chance that subscribers mark your emails as spam."
+      - "Maintain a clean list, send consistently, avoid spam trigger words, and create content people actually want to read. Bazam.ai creates engaging, relevant email content — reducing the chance that subscribers mark your emails as spam."
 
   - q: "How do I clean my email list?"
     a:
@@ -20,11 +20,11 @@ faq:
 
   - q: "What are spam trigger words to avoid?"
     a:
-      - "Excessive capitalisation, 'FREE!!', 'ACT NOW', 'GUARANTEED', and other high-pressure phrases. Bazam creates professional, conversational email content that naturally avoids spam patterns because it writes like a real person, not a spammer."
+      - "Excessive capitalisation, 'FREE!!', 'ACT NOW', 'GUARANTEED', and other high-pressure phrases. Bazam.ai creates professional, conversational email content that naturally avoids spam patterns because it writes like a real person, not a spammer."
 
   - q: "How do I get emails out of the spam folder?"
     a:
-      - "Authenticate your domain (SPF, DKIM, DMARC), maintain a clean list, and send relevant content. Bazam creates the relevant content — your email platform and domain configuration handle the technical deliverability factors."
+      - "Authenticate your domain (SPF, DKIM, DMARC), maintain a clean list, and send relevant content. Bazam.ai creates the relevant content — your email platform and domain configuration handle the technical deliverability factors."
 
   - q: "Do I need an unsubscribe link in every email?"
     a:

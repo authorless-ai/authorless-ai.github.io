@@ -4,23 +4,23 @@ description: "How to find, brief, and collaborate with influencers — managing 
 faq:
   - q: "How do I write an influencer outreach email?"
     a:
-      - "Personalise it. Reference their content, explain the partnership value, and be specific about your ask. Use Bazam's email wizard with the influencer's details to create a professional, personalised outreach email — not a generic template."
+      - "Personalise it. Reference their content, explain the partnership value, and be specific about your ask. Use Bazam.ai's email wizard with the influencer's details to create a professional, personalised outreach email — not a generic template."
 
   - q: "How do I brief an influencer on my brand?"
     a:
-      - "Create a brief document with your brand voice, key messages, do's and don'ts, and campaign requirements. Bazam's brand analysis exports your voice profile into a shareable format. Give influencers a clear, concise document instead of vague instructions."
+      - "Create a brief document with your brand voice, key messages, do's and don'ts, and campaign requirements. Bazam.ai's brand analysis exports your voice profile into a shareable format. Give influencers a clear, concise document instead of vague instructions."
 
   - q: "How do I create content to support an influencer campaign?"
     a:
-      - "Create complementary brand content alongside the influencer's posts. Social teasers before, amplification during, and recap content after. Use Bazam's social wizard for consistent brand content and coordinate timing on the content calendar."
+      - "Create complementary brand content alongside the influencer's posts. Social teasers before, amplification during, and recap content after. Use Bazam.ai's social wizard for consistent brand content and coordinate timing on the content calendar."
 
   - q: "How do I measure the success of influencer partnerships?"
     a:
-      - "Track engagement on your brand content during and after the campaign. Bazam's analytics show engagement spikes, follower growth, and reach increases during the campaign period. Compare against your baseline to measure specific partnership ROI."
+      - "Track engagement on your brand content during and after the campaign. Bazam.ai's analytics show engagement spikes, follower growth, and reach increases during the campaign period. Compare against your baseline to measure specific partnership ROI."
 
   - q: "How do I create long-term influencer relationships?"
     a:
-      - "Ongoing content collaboration, not one-off sponsored posts. Plan regular co-created content on your calendar. Feature influencers in blog posts, social media, and email campaigns. Bazam helps you create the supporting content consistently."
+      - "Ongoing content collaboration, not one-off sponsored posts. Plan regular co-created content on your calendar. Feature influencers in blog posts, social media, and email campaigns. Bazam.ai helps you create the supporting content consistently."
 
   - q: "How do I find the right influencers for my brand?"
     a:
@@ -32,11 +32,11 @@ faq:
 
   - q: "How do I create user-generated content campaigns?"
     a:
-      - "Design a campaign that encourages audience participation — hashtag challenges, contests, community showcases. Use Bazam's social wizard to create the promotional posts. Schedule the campaign on the calendar and create recap content featuring the best submissions."
+      - "Design a campaign that encourages audience participation — hashtag challenges, contests, community showcases. Use Bazam.ai's social wizard to create the promotional posts. Schedule the campaign on the calendar and create recap content featuring the best submissions."
 
   - q: "How do I handle negative influencer experiences?"
     a:
-      - "Clear contracts and briefs prevent most problems. If content doesn't meet standards, provide constructive feedback using your documented brand guidelines. Having clear brand voice documentation from Bazam makes expectations objective, not subjective."
+      - "Clear contracts and briefs prevent most problems. If content doesn't meet standards, provide constructive feedback using your documented brand guidelines. Having clear brand voice documentation from Bazam.ai makes expectations objective, not subjective."
 
   - q: "How do I scale influencer marketing?"
     a:

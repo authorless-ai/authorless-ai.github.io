@@ -4,11 +4,11 @@ description: "How AI changes agency pricing, business models, and competitive po
 faq:
   - q: "How should I price agency services with AI?"
     a:
-      - "Value-based pricing. Your production costs are lower with Bazam, but your clients still receive professional-quality output at speed. Price for the value you deliver — faster turnaround, consistent quality, strategic insight — not for the hours spent creating."
+      - "Value-based pricing. Your production costs are lower with Bazam.ai, but your clients still receive professional-quality output at speed. Price for the value you deliver — faster turnaround, consistent quality, strategic insight — not for the hours spent creating."
 
   - q: "How does AI change agency business models?"
     a:
-      - "It shifts the value from production to strategy. Agencies that compete on content production volume are disrupted. Agencies that use AI for production — via Bazam — and compete on strategic thinking, insights, and creative direction will thrive."
+      - "It shifts the value from production to strategy. Agencies that compete on content production volume are disrupted. Agencies that use AI for production — via Bazam.ai — and compete on strategic thinking, insights, and creative direction will thrive."
 
   - q: "Should agencies charge less because AI is cheaper?"
     a:
@@ -16,7 +16,7 @@ faq:
 
   - q: "How do I position my agency as AI-powered?"
     a:
-      - "Lead with results, not technology. Clients care about quality, speed, and outcomes. 'We deliver a month of content in a day' is more compelling than 'We use AI.' Bazam enables the outcome; your agency sells the result."
+      - "Lead with results, not technology. Clients care about quality, speed, and outcomes. 'We deliver a month of content in a day' is more compelling than 'We use AI.' Bazam.ai enables the outcome; your agency sells the result."
 
   - q: "What services should agencies offer with AI?"
     a:
@@ -24,11 +24,11 @@ faq:
 
   - q: "How do I start an AI-powered marketing agency?"
     a:
-      - "Start with Bazam and a few clients. Use isolated projects for each client with dedicated brand voice and knowledge base. One person with Bazam can serve 5–10 clients for content production. Scale your client base before scaling your team."
+      - "Start with Bazam.ai and a few clients. Use isolated projects for each client with dedicated brand voice and knowledge base. One person with Bazam.ai can serve 5–10 clients for content production. Scale your client base before scaling your team."
 
   - q: "How do I differentiate my agency from others using AI?"
     a:
-      - "Deep client understanding. Anyone can use AI to generate content, but your competitive advantage is strategic insight, creative direction, and genuine understanding of each client's positioning. Use Bazam for production; differentiate on strategy."
+      - "Deep client understanding. Anyone can use AI to generate content, but your competitive advantage is strategic insight, creative direction, and genuine understanding of each client's positioning. Use Bazam.ai for production; differentiate on strategy."
 
   - q: "Should I tell clients I use AI for content?"
     a:
@@ -36,7 +36,7 @@ faq:
 
   - q: "How do small agencies compete with large ones?"
     a:
-      - "AI levels the playing field. A 5-person agency with Bazam matches the content output of a 20-person agency without it. Compete on responsiveness, personal relationships, and strategic insight — areas where small agencies already excel."
+      - "AI levels the playing field. A 5-person agency with Bazam.ai matches the content output of a 20-person agency without it. Compete on responsiveness, personal relationships, and strategic insight — areas where small agencies already excel."
 
   - q: "What is the future of marketing agencies?"
     a:

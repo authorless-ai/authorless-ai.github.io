@@ -4,15 +4,15 @@ description: "How to organise, update, and leverage company knowledge for better
 faq:
   - q: "Why is company knowledge important for content marketing?"
     a:
-      - "Without it, AI creates generic content. With it, AI creates specific, accurate, and valuable content uniquely informed by your business. Bazam's knowledge base is the foundation for quality — the more you give the AI to work with, the better the output."
+      - "Without it, AI creates generic content. With it, AI creates specific, accurate, and valuable content uniquely informed by your business. Bazam.ai's knowledge base is the foundation for quality — the more you give the AI to work with, the better the output."
 
   - q: "How do I create a company knowledge base from scratch?"
     a:
-      - "Start small: company overview, product descriptions, target audience profiles, and FAQs. Upload these to Bazam. Then add supporting materials — case studies, research, internal processes. Build iteratively rather than trying to be comprehensive on day one."
+      - "Start small: company overview, product descriptions, target audience profiles, and FAQs. Upload these to Bazam.ai. Then add supporting materials — case studies, research, internal processes. Build iteratively rather than trying to be comprehensive on day one."
 
   - q: "How often should I update my marketing knowledge base?"
     a:
-      - "When things change. New product launch? Add the details. Updated pricing? Update the document. New case study? Upload it. Quarterly reviews ensure nothing is stale. Bazam's AI immediately uses updated information in future content."
+      - "When things change. New product launch? Add the details. Updated pricing? Update the document. New case study? Upload it. Quarterly reviews ensure nothing is stale. Bazam.ai's AI immediately uses updated information in future content."
 
   - q: "How do I organise knowledge for different products?"
     a:
@@ -28,11 +28,11 @@ faq:
 
   - q: "How do I share knowledge between marketing and sales?"
     a:
-      - "Upload sales materials — battle cards, objection handlers, case studies — to the marketing knowledge base. Bazam creates marketing content informed by sales intelligence. The results: marketing content that addresses real sales challenges."
+      - "Upload sales materials — battle cards, objection handlers, case studies — to the marketing knowledge base. Bazam.ai creates marketing content informed by sales intelligence. The results: marketing content that addresses real sales challenges."
 
   - q: "How do I capture expertise from subject matter experts?"
     a:
-      - "Record interviews, capture notes from meetings, and transcribe presentations. Upload these to Bazam's knowledge base. The AI creates published content from expert insights without requiring the experts to write anything themselves."
+      - "Record interviews, capture notes from meetings, and transcribe presentations. Upload these to Bazam.ai's knowledge base. The AI creates published content from expert insights without requiring the experts to write anything themselves."
 
   - q: "How do I handle outdated information in my knowledge base?"
     a:
@@ -40,5 +40,5 @@ faq:
 
   - q: "How do I create a knowledge base that supports multiple content formats?"
     a:
-      - "Upload comprehensive source documents. The same knowledge base document supports blog posts, social media, email, video scripts, and ad copy. Bazam draws relevant information from the same source regardless of the output format."
+      - "Upload comprehensive source documents. The same knowledge base document supports blog posts, social media, email, video scripts, and ad copy. Bazam.ai draws relevant information from the same source regardless of the output format."
 ---

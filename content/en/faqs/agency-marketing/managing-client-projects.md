@@ -4,15 +4,15 @@ description: "How agencies organise client content — isolated workspaces, team
 faq:
   - q: "How do agencies manage content for multiple clients without mixing things up?"
     a:
-      - "Isolated project workspaces. In Bazam, each client gets a completely separate project — their own brand voice, audience personas, knowledge base, content calendar, and publishing channels. Nothing crosses between clients. Even competing brands are safely managed in the same account."
+      - "Isolated project workspaces. In Bazam.ai, each client gets a completely separate project — their own brand voice, audience personas, knowledge base, content calendar, and publishing channels. Nothing crosses between clients. Even competing brands are safely managed in the same account."
 
   - q: "How do I onboard a new client to our content workflow?"
     a:
-      - "Create a new project in Bazam, define the client's brand voice, upload their key documents to the knowledge base, and connect their publishing channels. The AI immediately has the context to produce on-brand content. New client setup takes minutes, not days."
+      - "Create a new project in Bazam.ai, define the client's brand voice, upload their key documents to the knowledge base, and connect their publishing channels. The AI immediately has the context to produce on-brand content. New client setup takes minutes, not days."
 
   - q: "How do I assign team members to specific clients?"
     a:
-      - "Set permissions per project. In Bazam, assign account managers to their specific client projects. Each person only sees the clients they're responsible for — clean separation. Adjust access instantly when team assignments change."
+      - "Set permissions per project. In Bazam.ai, assign account managers to their specific client projects. Each person only sees the clients they're responsible for — clean separation. Adjust access instantly when team assignments change."
 
   - q: "How do I scale content production as my agency grows?"
     a:
@@ -28,15 +28,15 @@ faq:
 
   - q: "How do I prove ROI to agency clients?"
     a:
-      - "Use analytics data per client project. Bazam tracks engagement across each client's connected platforms. Pull performance reports — engagement trends, reach growth, top-performing content — and present outcomes directly tied to the content you've produced."
+      - "Use analytics data per client project. Bazam.ai tracks engagement across each client's connected platforms. Pull performance reports — engagement trends, reach growth, top-performing content — and present outcomes directly tied to the content you've produced."
 
   - q: "How do I stop content from one client leaking into another?"
     a:
-      - "Isolated projects. Each client workspace in Bazam is completely separate — brand voice, knowledge base, publishing channels, and content history are all walled off. The AI never cross-references between projects. Client confidentiality is enforced architecturally."
+      - "Isolated projects. Each client workspace in Bazam.ai is completely separate — brand voice, knowledge base, publishing channels, and content history are all walled off. The AI never cross-references between projects. Client confidentiality is enforced architecturally."
 
   - q: "How do I manage client content approvals?"
     a:
-      - "Configure approval workflows per project. Internal reviewers approve before the client sees it. Optionally, share with clients for final sign-off before scheduling. Bazam's approval queue tracks who approved what and when — useful for client accountability."
+      - "Configure approval workflows per project. Internal reviewers approve before the client sees it. Optionally, share with clients for final sign-off before scheduling. Bazam.ai's approval queue tracks who approved what and when — useful for client accountability."
 
   - q: "How do I compare performance across all client accounts?"
     a:
