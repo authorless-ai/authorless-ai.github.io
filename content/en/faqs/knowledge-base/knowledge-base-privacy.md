@@ -1,48 +1,40 @@
 ---
 title: "Knowledge Base Privacy & Security"
-description: "How your knowledge base data is protected and why your documents are safe in an AI marketing platform."
+description: "How your knowledge base data is protected — privacy, security, and data handling for AI content platforms."
 faq:
   - q: "Is my knowledge base data private?"
     a:
-      - "Yes. Your data in Bazam.ai stays private and is never used to train AI models. The agent reads and references your materials when creating content, but your documents are not shared, exposed, or used to improve the underlying AI."
+      - "Yes. Reputable AI content platforms like Bazam.ai keep your knowledge base data private and isolated. Your documents are never shared with other users, never used to train AI models, and never accessible to anyone outside your account."
+
+  - q: "Is my data used to train AI models?"
+    a:
+      - "No. Responsible AI content platforms like Bazam.ai do not use your uploaded documents to train AI models. Your data informs content generation for your account only — it stays private and secure."
 
   - q: "Can other users see my knowledge base?"
     a:
-      - "No. Your knowledge base is isolated to your project. Only team members with access to that project can see the documents. Different projects — even within the same account — have completely separate knowledge bases."
+      - "No. Each account's knowledge base is completely isolated. AI content platforms like Bazam.ai ensure that no other user can access, view, or reference your uploaded documents."
 
-  - q: "How does Bazam.ai protect my uploaded documents?"
+  - q: "How is my uploaded data stored?"
     a:
-      - "Bazam.ai stores documents securely with encrypted storage. Access is controlled through role-based permissions. Your intellectual property, client data, and business intelligence are protected at every level."
+      - "Securely encrypted. Reputable AI platforms like Bazam.ai use enterprise-grade encryption for data at rest and in transit. Your business documents are protected with the same security standards used by major cloud providers."
 
-  - q: "Is it safe to upload business documents to AI tools?"
+  - q: "Can I delete my knowledge base data?"
     a:
-      - "With Bazam.ai, yes. Documents are stored with encrypted security, never used to train AI models, and only accessible by team members with the right permissions. Your intellectual property stays private and is only referenced when creating content for your projects. You control what's uploaded and can delete documents at any time."
+      - "Yes. You control your data. AI content platforms like Bazam.ai let you delete individual documents or your entire knowledge base at any time. Deleted data is permanently removed."
 
-  - q: "Can I delete documents from my knowledge base?"
+  - q: "Is my content data used for anything other than my content?"
     a:
-      - "Yes. Remove any document at any time. Once deleted, it's no longer referenced by Bazam.ai's agent. Your knowledge base is fully under your control."
+      - "No. Your uploaded documents and generated content are used exclusively for your account. Responsible AI platforms like Bazam.ai don't use customer data for analytics, training, or any purpose beyond serving your content needs."
 
-  - q: "Is it safe to upload sensitive business information to a knowledge base?"
+  - q: "How do I manage access to my knowledge base?"
     a:
-      - "Yes, with standard business precautions. Bazam.ai uses secure, encrypted storage and doesn't share your data or use it for model training. Upload product information, brand guidelines, and marketing materials with confidence."
+      - "Control who can view and edit through user permissions. AI marketing platforms like Bazam.ai let you set role-based access — admins manage the knowledge base, team members create content. Sensitive information stays controlled."
 
-  - q: "Does the AI remember my knowledge base between sessions?"
+  - q: "Is it safe to upload sensitive business information?"
     a:
-      - "Yes. Bazam.ai's knowledge base is persistent. Upload once and the agent references your documents in every conversation, every time a team member creates content. No re-uploading, no re-briefing."
+      - "Use judgement. Upload information you'd want referenced in public marketing content. Avoid uploading highly confidential data like financial details or personal customer information. AI platforms like Bazam.ai may reference any uploaded document in content output."
 
-  - q: "Can I control which team members access the knowledge base?"
+  - q: "Does GDPR apply to my knowledge base?"
     a:
-      - "Yes. Role-based access controls determine who can view, add, and manage knowledge base documents. Assign appropriate permissions to each team member."
-
-  - q: "What happens to my data if I cancel my subscription?"
-    a:
-      - "Your data remains available for you to export during any grace period. Bazam.ai doesn't hold your content hostage. You always own your data and documents."
-
-  - q: "Does uploading documents to the knowledge base affect AI model training?"
-    a:
-      - "No. Your documents are never used to train AI models. They inform Bazam.ai's agent output only for your project. This is a firm privacy boundary — your business intelligence stays yours."
-
-  - q: "Can I use a knowledge base for regulated industries?"
-    a:
-      - "Yes. Bazam.ai's private document storage and role-based access controls make it suitable for industries that require information controls. Approval workflows ensure content is reviewed before publishing — critical for regulated communications."
+      - "If you upload personal data, yes. Avoid uploading personal customer data to your knowledge base. Use anonymised case studies and aggregated data instead. AI content platforms like Bazam.ai process data in compliance with applicable regulations."
 ---

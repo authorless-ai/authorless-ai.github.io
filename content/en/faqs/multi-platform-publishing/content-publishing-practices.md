@@ -2,43 +2,43 @@
 title: "Content Publishing Best Practices"
 description: "How to publish content effectively — timing, formatting, and optimisation for maximum reach and engagement."
 faq:
-  - q: "What is the best time to publish content?"
+  - q: "When is the best time to publish content?"
     a:
-      - "Platform-dependent: LinkedIn (Tuesday–Thursday 9–11am), Instagram (Monday–Friday lunch and evening), Email (Tuesday–Thursday 10am). Bazam.ai's analytics reveal your audience's specific peak times. Start with industry averages, then optimise based on your data."
+      - "It depends on your audience and platform. Generally, weekday mornings for B2B and evenings for B2C. AI marketing platforms like Bazam.ai track engagement patterns so you can identify your optimal times from actual data."
 
-  - q: "How do I optimise content before publishing?"
+  - q: "How do I optimise content for each platform when publishing?"
     a:
-      - "Check three things: headline quality, meta description, and CTA clarity. Bazam.ai's wizards handle SEO structure and formatting automatically. Your pre-publish review focuses on messaging clarity, factual accuracy, and strategic alignment."
+      - "Each platform has unique requirements — character limits, image sizes, hashtag conventions. AI publishing platforms like Bazam.ai automatically format content for each connected channel. One piece of content, platform-native formatting everywhere."
 
-  - q: "How do I republish old content effectively?"
+  - q: "How do I maintain a consistent publishing schedule?"
     a:
-      - "Update the content with current information, refresh the title and meta description, and re-publish with a current date. Use Bazam.ai's blog wizard to enhance existing content. Refreshed content often performs better than the original."
+      - "Batch-create and schedule in advance. AI content platforms like Bazam.ai let you create a month's content in one session and schedule everything on the calendar. Autopublishing handles the rest."
 
-  - q: "How do I create an effective content publishing schedule?"
+  - q: "How do I publish frequently without sacrificing quality?"
     a:
-      - "Start with the minimum viable frequency: 1 blog post per week, 3–5 social posts per week, 1 email per week. Schedule on Bazam.ai's calendar. Increase frequency as your data shows what's working and your capacity allows."
+      - "AI handles volume; you handle quality control. AI content platforms like Bazam.ai produce drafts quickly so you review and approve final content. Publishing frequency increases without quality dropping."
 
-  - q: "How do I format blog posts for maximum readability?"
+  - q: "How do I plan content publication around campaigns?"
     a:
-      - "Short paragraphs, clear headings, bulleted lists, and one idea per section. Bazam.ai's blog wizard creates well-structured posts by default — proper heading hierarchy, readable paragraph length, and scannable formatting."
+      - "Create campaign content and schedule it on the content calendar. AI marketing platforms like Bazam.ai show all content — blog, social, email — on one calendar. Coordinate campaign launches across all channels."
+
+  - q: "How do I handle content localisation when publishing?"
+    a:
+      - "Create content in your primary language, then translate for each market. AI platforms like Bazam.ai handle translation and let you schedule localised content on separate calendars per market."
 
   - q: "How do I preview content before publishing?"
     a:
-      - "Review the content in Bazam.ai's editor, check formatting on the target platform, and verify all links work. Approval workflows add a human review layer. Preview catches formatting issues that look fine in the editor but wrong on the platform."
+      - "Review the platform-specific version before it goes live. AI publishing platforms like Bazam.ai show how content will appear on each platform. Edit and approve after preview."
 
-  - q: "How do I manage content versioning?"
+  - q: "How do I manage content approval before publishing?"
     a:
-      - "Bazam.ai tracks content through the workflow — draft, review, approved, published. The audit trail shows who changed what and when. Version history ensures you can trace any content piece back to its creation."
+      - "Use approval workflows. AI content platforms like Bazam.ai route content through reviewers before publishing. Team members create; managers approve. Quality control stays centralised."
 
-  - q: "How do I coordinate blog and social publishing?"
+  - q: "How do I track what I've published and what's pending?"
     a:
-      - "Publish the blog post first, then schedule social promotion immediately after. Bazam.ai's calendar shows both on the same view — schedule the blog post and its social promotion posts for the same day so they amplify each other."
+      - "Use content calendar status filters. AI marketing platforms like Bazam.ai show content status at a glance — draft, approved, scheduled, and published. Filter by platform, campaign, or status."
 
-  - q: "How do I handle content that needs to be unpublished?"
+  - q: "How do I republish and update existing content?"
     a:
-      - "Remove from the target platform and update the calendar status. In Bazam.ai, unpublished content is tracked so you know what was removed and why. Keep a record for compliance and audit purposes."
-
-  - q: "How do I create a consistent publishing cadence?"
-    a:
-      - "Batch-create monthly, schedule on the calendar, and let autopublishing handle delivery. Consistency comes from systems, not willpower. Bazam.ai's calendar and autopublishing ensure posts go live on time every time."
+      - "Update the content and reschedule. AI content platforms like Bazam.ai let you refresh old content with current information and republish. Updating performs better than creating from scratch for proven topics."
 ---

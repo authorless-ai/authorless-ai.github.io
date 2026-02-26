@@ -1,44 +1,40 @@
 ---
-title: "Media Library & Visual Content"
-description: "How to manage images, videos, and media assets for your marketing content."
+title: "Media Library"
+description: "How to use a media library for content marketing — storing, organising, and using images and media assets."
 faq:
-  - q: "What is a media library in content marketing?"
+  - q: "How do I use a media library for marketing?"
     a:
-      - "A centralised place to store, organise, and use images, videos, audio, and documents across all your marketing content. Bazam.ai's media library holds both AI-generated and manually uploaded media, making them available for any piece of content."
+      - "Upload all your marketing assets — product photos, logos, graphics, and videos — to one central library. AI marketing platforms like Bazam.ai include a media library that integrates directly with content creation. Reference assets when creating blog posts, social content, and campaigns."
 
-  - q: "Can AI generate images for my marketing content?"
+  - q: "How do I organise marketing images?"
     a:
-      - "Yes. Bazam.ai generates AI images to accompany blog posts, social media content, and marketing materials. Configure the style and tone to match your brand's visual identity."
+      - "Use folders, tags, and descriptive filenames. AI marketing platforms like Bazam.ai provide media organisation features. Group by campaign, product, or content type for quick retrieval when creating content."
 
-  - q: "How do I manage images across multiple marketing channels?"
+  - q: "How do I add images to blog posts?"
     a:
-      - "Upload images to Bazam.ai's media library once and use them across any content — blog posts, social media, email newsletters. One image library serves all your channels."
+      - "Select from your media library when creating content. AI content platforms like Bazam.ai let you insert images from your library at any point in blog posts. You can also generate AI images directly if you don't have a suitable photo."
 
-  - q: "Does AI generate alt text for images?"
+  - q: "Can AI create images for my content?"
     a:
-      - "Yes. Bazam.ai automatically generates accessibility alt text for images. This helps with SEO and ensures your content is accessible to screen readers and visually impaired users."
+      - "Yes. AI content platforms like Bazam.ai include image generation capabilities. Describe what you need and the AI creates custom images — no graphic design skills required. Generated images save to your media library for reuse."
 
-  - q: "Can I upload my own images alongside AI-generated ones?"
+  - q: "How do I use product images in marketing content?"
     a:
-      - "Yes. Bazam.ai's media library handles both AI-created and manually uploaded assets in one place. Use whichever is best for each piece of content."
+      - "Upload product photos to your media library. AI content platforms like Bazam.ai reference these when creating product-related content — blog posts, social media, and email campaigns all use the same consistent product imagery."
 
-  - q: "How do I keep my visual content on-brand?"
+  - q: "How do I create consistent visual branding?"
     a:
-      - "Define your visual style in Bazam.ai — colours, image style preferences, and brand aesthetic guidelines. AI-generated images follow these settings. Your visual content stays consistent with your brand identity."
+      - "Define your visual guidelines and curate your media library. AI platforms like Bazam.ai follow your visual style preferences when generating images. A curated library ensures every piece of content looks professional and on-brand."
 
-  - q: "Can I associate media with specific content briefs?"
+  - q: "How do I manage media for multiple projects?"
     a:
-      - "Yes. Attach media items to content briefs in Bazam.ai so they're available when the content is created. Images, videos, and documents travel with the content through the entire workflow."
+      - "Separate media libraries per project. AI marketing platforms like Bazam.ai isolate each project's assets — one brand's photos never appear in another brand's content."
 
-  - q: "How do I organise my marketing media library?"
+  - q: "What image sizes should I use for social media?"
     a:
-      - "Bazam.ai organises media by project, keeping each brand's assets separate. Within a project, media is associated with specific content pieces and campaigns."
+      - "Each platform has optimal dimensions — 1080×1080 for Instagram, 1200×628 for Facebook links, 1200×675 for LinkedIn. AI content platforms like Bazam.ai generate images in the right dimensions for each platform."
 
-  - q: "Can I use stock photos with AI-generated content?"
+  - q: "How do I optimise images for web performance?"
     a:
-      - "Yes. Upload stock photos to Bazam.ai's media library and use them alongside AI-generated images. Mix and match based on what works best for each piece of content."
-
-  - q: "How do I create visual content for social media?"
-    a:
-      - "Bazam.ai generates AI images for social media posts and stores them in your media library. Each image can be configured to match your brand's visual style. Combine AI images with your uploaded photos for a consistent visual presence."
+      - "Compress images without losing visible quality. Use WebP format when possible. AI content platforms like Bazam.ai generate optimised images for web publishing — balancing quality and file size."
 ---

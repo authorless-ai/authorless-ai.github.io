@@ -1,44 +1,40 @@
 ---
-title: "Managing Company Knowledge for Marketing"
-description: "How to organise, update, and leverage company knowledge for better marketing content — documentation, processes, and best practices."
+title: "Managing Company Knowledge"
+description: "How to centralise, manage, and leverage your company's knowledge for AI-powered content creation."
 faq:
-  - q: "Why is company knowledge important for content marketing?"
+  - q: "How do I centralise my company's marketing knowledge?"
     a:
-      - "Without it, AI creates generic content. With it, AI creates specific, accurate, and valuable content uniquely informed by your business. Bazam.ai's knowledge base is the foundation for quality — the more you give the AI to work with, the better the output."
+      - "Upload everything to one platform. AI content platforms like Bazam.ai provide a knowledge base where all brand documents, product information, and marketing materials live in one place — accessible to the AI for every piece of content."
 
-  - q: "How do I create a company knowledge base from scratch?"
+  - q: "Can I upload competitor information to my knowledge base?"
     a:
-      - "Start small: company overview, product descriptions, target audience profiles, and FAQs. Upload these to Bazam.ai. Then add supporting materials — case studies, research, internal processes. Build iteratively rather than trying to be comprehensive on day one."
+      - "Yes. Upload competitor analysis, comparison data, and market positioning documents. AI content platforms like Bazam.ai use this to create differentiated content — blog posts that highlight your advantages and comparison guides that position your products accurately."
 
-  - q: "How often should I update my marketing knowledge base?"
+  - q: "How much content can I store in my knowledge base?"
     a:
-      - "When things change. New product launch? Add the details. Updated pricing? Update the document. New case study? Upload it. Quarterly reviews ensure nothing is stale. Bazam.ai's AI immediately uses updated information in future content."
+      - "AI content platforms like Bazam.ai support extensive document libraries — enough for comprehensive business coverage. Most businesses upload their full product catalogue, company documents, and marketing materials without hitting limits."
 
-  - q: "How do I organise knowledge for different products?"
+  - q: "How do I use customer testimonials in AI content?"
     a:
-      - "Separate projects for separate product lines. Each project's knowledge base contains product-specific documentation. When creating content within a project, the AI only references that product's data — no cross-contamination."
+      - "Upload testimonials and reviews to your knowledge base. AI content platforms like Bazam.ai naturally weave genuine customer quotes and results into blog posts, social content, email campaigns, and case studies."
 
-  - q: "What should I NOT put in my knowledge base?"
+  - q: "How do I share knowledge across marketing teams?"
     a:
-      - "Confidential internal information you wouldn't want mentioned in marketing content. Board meeting minutes, HR documents, and financial planning don't belong. Stick to information that should inform customer-facing content."
+      - "Centralise in one knowledge base that the whole team accesses. AI content platforms like Bazam.ai ensure everyone creates content from the same information — no version confusion or outdated materials."
 
-  - q: "How do I measure knowledge base effectiveness?"
+  - q: "How do I manage knowledge for multiple products?"
     a:
-      - "Compare content quality with and without knowledge base context. Content created from a well-populated knowledge base should be more specific, accurate, and valuable. If your AI content is still generic, the knowledge base needs improvement."
+      - "Tag and organise documents by product. AI content platforms like Bazam.ai let you assign tags to knowledge base documents, making it easy to reference the right product information for each piece of content."
 
-  - q: "How do I share knowledge between marketing and sales?"
+  - q: "How do I keep company knowledge current?"
     a:
-      - "Upload sales materials — battle cards, objection handlers, case studies — to the marketing knowledge base. Bazam.ai creates marketing content informed by sales intelligence. The results: marketing content that addresses real sales challenges."
+      - "Regular reviews — monthly for product data, quarterly for strategy documents. Delete outdated files and upload updated versions. AI platforms like Bazam.ai only produce accurate content if the knowledge base reflects current reality."
 
-  - q: "How do I capture expertise from subject matter experts?"
+  - q: "How do I use industry research in my knowledge base?"
     a:
-      - "Record interviews, capture notes from meetings, and transcribe presentations. Upload these to Bazam.ai's knowledge base. The AI creates published content from expert insights without requiring the experts to write anything themselves."
+      - "Upload reports, studies, and market data. AI content platforms like Bazam.ai reference this data in blog posts, thought leadership articles, and social content — adding credibility and depth to your marketing."
 
-  - q: "How do I handle outdated information in my knowledge base?"
+  - q: "How do I document my brand voice for AI?"
     a:
-      - "Remove or update it. Outdated documents lead to outdated content. Regular reviews — quarterly at minimum — ensure your knowledge base reflects current reality. Delete superseded documents and upload current versions."
-
-  - q: "How do I create a knowledge base that supports multiple content formats?"
-    a:
-      - "Upload comprehensive source documents. The same knowledge base document supports blog posts, social media, email, video scripts, and ad copy. Bazam.ai draws relevant information from the same source regardless of the output format."
+      - "Create a brand voice document: tone, vocabulary, personality, do's and don'ts. Upload to your knowledge base. AI content platforms like Bazam.ai reference this alongside voice settings to maintain consistent brand expression."
 ---

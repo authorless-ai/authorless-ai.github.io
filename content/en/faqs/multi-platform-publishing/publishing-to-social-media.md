@@ -2,55 +2,43 @@
 title: "Publishing to Social Media Platforms"
 description: "How to publish content directly to Facebook, Instagram, LinkedIn, X, YouTube, and TikTok from a single dashboard."
 faq:
-  - q: "How do I publish to Facebook, Instagram, and LinkedIn at the same time?"
+  - q: "How do I publish to Facebook, Instagram, and LinkedIn from one place?"
     a:
-      - "Create your content in Bazam.ai, select the platforms, and publish or schedule. The AI agent automatically formats each post for the platform's requirements. One click publishes to Facebook, Instagram, LinkedIn, and any other connected platform simultaneously."
+      - "Connect all your accounts to an AI marketing platform. Tools like Bazam.ai let you create, schedule, and publish to all connected social channels from a single dashboard."
 
-  - q: "Can I publish Instagram posts from Bazam.ai?"
+  - q: "How do I publish to X (Twitter) with AI?"
     a:
-      - "Yes. Bazam.ai publishes directly to Instagram — posts, stories, and reels. The AI agent creates Instagram-optimised content with captions, hashtags, and image formatting. Schedule and publish without opening the Instagram app."
+      - "Create posts optimised for X's format. AI social tools like Bazam.ai create tweets and threads — concise, engaging content within character limits. Schedule and publish directly."
 
-  - q: "Can I publish Instagram posts with an AI tool?"
+  - q: "How do I create YouTube descriptions with AI?"
     a:
-      - "Yes. With Bazam.ai, the AI agent writes captions, suggests hashtags, and formats content specifically for Instagram — posts, stories, and reels. Schedule everything from one dashboard and publish directly without opening the Instagram app. The AI adapts your brand voice for Instagram's format automatically."
+      - "AI content platforms like Bazam.ai create YouTube-optimised descriptions — keyword-rich summaries, timestamps, and CTAs formatted for YouTube's search and recommendation system."
 
-  - q: "How do I publish to TikTok from a marketing tool?"
+  - q: "How do I publish to TikTok with AI?"
     a:
-      - "Connect your TikTok account to Bazam.ai. The AI agent creates TikTok-optimised scripts and captions, and you publish directly from the platform. Schedule TikTok content alongside all your other channels."
+      - "Create TikTok-formatted content and publish descriptions/captions. AI social tools like Bazam.ai create hook-driven TikTok captions with relevant hashtags. Schedule alongside your other social content."
 
-  - q: "Can I publish YouTube descriptions and titles from Bazam.ai?"
+  - q: "How do I create social media posts that get engagement?"
     a:
-      - "Yes. Bazam.ai creates YouTube video titles, descriptions, and tags optimised for discovery. Publish directly from the platform alongside your social media content."
+      - "Value-first content that prompts interaction. AI content platforms like Bazam.ai create posts designed to drive comments, shares, and saves — the engagement signals that social algorithms reward with more reach."
 
-  - q: "Can AI write YouTube titles and descriptions?"
+  - q: "How do I maintain brand voice across social platforms?"
     a:
-      - "Yes. Bazam.ai's AI agent writes YouTube titles, descriptions, and tags optimised for search discovery — based on your content, brand voice, and target audience. It creates SEO-friendly metadata that helps videos get found, and you publish directly alongside all your other social content."
+      - "Centralised voice settings. AI content platforms like Bazam.ai apply your brand voice to every post across every platform. Same personality, adapted format."
 
-  - q: "How do I publish to X/Twitter from Bazam.ai?"
+  - q: "How do I create hashtag strategies for social media?"
     a:
-      - "Connect your X account and create content through the AI agent. It drafts tweets, threads, and replies optimised for X's format. Schedule and publish alongside all your other platforms."
+      - "Use a mix of broad, niche, and branded hashtags. AI social tools like Bazam.ai suggest relevant hashtags for each post based on content and platform best practices."
 
-  - q: "How do I automate Twitter/X posts with AI?"
+  - q: "How do I schedule social posts at optimal times?"
     a:
-      - "Connect your X account to Bazam.ai and the AI agent drafts tweets, threads, and replies in your brand voice. Schedule posts for optimal times and publish automatically — alongside Facebook, Instagram, LinkedIn, YouTube, and TikTok from the same dashboard. No more manually composing tweets."
+      - "Schedule based on when your audience is most active. AI marketing platforms like Bazam.ai let you set publishing times per platform. Use analytics to identify your optimal posting windows."
 
-  - q: "How many platforms can I connect to Bazam.ai?"
+  - q: "How do I manage social media for multiple clients?"
     a:
-      - "Bazam.ai supports 8+ platforms: WordPress, Squarespace, Facebook, Instagram (posts, stories, reels), LinkedIn, X/Twitter, YouTube, and TikTok. Connect all of them and manage everything from one dashboard."
+      - "Separate projects per client. AI marketing platforms like Bazam.ai isolate each client's social channels, voice, and content. Switch between clients without cross-contamination."
 
-  - q: "Is it safe to connect my social media accounts to a third-party tool?"
+  - q: "How do I create a social media content mix?"
     a:
-      - "Bazam.ai stores all platform credentials with encrypted storage. Your API keys and access tokens are secured and never exposed. The platform connects through each social network's official API — the same method used by all major publishing tools."
-
-  - q: "Can I preview posts before publishing to each platform?"
-    a:
-      - "Yes. Bazam.ai lets you review every piece of content before it goes live. See exactly what will be published on each platform — text, formatting, and media — and approve before scheduling."
-
-  - q: "What happens if a post fails to publish?"
-    a:
-      - "Bazam.ai notifies you of any publishing failures so you can retry or fix the issue. Common causes are expired platform tokens or temporary API issues — both easily resolved within the platform."
-
-  - q: "Do I need separate tools for different social media platforms?"
-    a:
-      - "No. Bazam.ai publishes to all major social platforms from one dashboard. You don't need separate tools for Instagram, LinkedIn, Facebook, X, YouTube, and TikTok. One platform handles everything."
+      - "Balance education (70%), engagement (20%), and promotion (10%). AI content platforms like Bazam.ai create content mapped to the AIDA framework, ensuring your mix serves different purposes across the buyer journey."
 ---

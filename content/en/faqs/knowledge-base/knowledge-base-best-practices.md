@@ -1,44 +1,40 @@
 ---
-title: "Knowledge Base for Better AI Output"
-description: "How to build, maintain, and leverage a knowledge base for AI content creation — turning company data into marketing assets."
+title: "Knowledge Base Best Practices"
+description: "Best practices for maintaining and optimising your AI content knowledge base — what to include, how to maintain it, and maximising content quality."
 faq:
-  - q: "What is a knowledge base for AI content creation?"
+  - q: "What makes a good knowledge base for AI content?"
     a:
-      - "A collection of your company documents, product information, and brand materials that the AI references when creating content. Bazam.ai's knowledge base stores everything the AI needs to produce accurate, informed content — not generic text from training data."
+      - "Comprehensive, accurate, and well-organised information. The more detail you provide about your products, brand, and audience, the better your AI content will be. AI platforms like Bazam.ai produce dramatically better content when working from a rich knowledge base."
 
-  - q: "How does a knowledge base prevent AI hallucinations?"
+  - q: "How do I maintain my knowledge base?"
     a:
-      - "The AI references your actual data instead of inventing details. When Bazam.ai creates a product blog post, it pulls accurate specs, features, and pricing from your uploaded documents. Facts come from your knowledge base, not from imagination."
+      - "Regular reviews — monthly for product information, quarterly for strategy documents. Remove outdated information and add new data. AI content platforms like Bazam.ai work from your knowledge base, so keeping it current means keeping your content accurate."
 
-  - q: "What's the best format for knowledge base documents?"
+  - q: "How much detail should I include in knowledge base documents?"
     a:
-      - "Whatever format you already have. Bazam.ai accepts PDFs, documents, spreadsheets, and text files. Don't rewrite your materials for the AI — upload them as-is. Product data sheets, brand guidelines, company reports, and internal documentation all work."
+      - "As much as possible. Specific details like pricing, features, dimensions, and use cases lead to more specific, persuasive content. AI platforms like Bazam.ai use this detail to create content that demonstrates genuine product knowledge."
 
-  - q: "How do I build a knowledge base from scratch?"
+  - q: "Should I include competitor information in my knowledge base?"
     a:
-      - "Start with your most important documents: product descriptions, company overview, FAQs, and brand guidelines. Upload these to Bazam.ai first. Then add supporting materials — case studies, testimonials, research data. Build incrementally."
+      - "Yes. Competitive analysis helps the AI create differentiated content. Upload competitor strengths, weaknesses, and positioning. AI content platforms like Bazam.ai use this to highlight your advantages and address competitive objections."
+
+  - q: "How do I use customer data in my knowledge base?"
+    a:
+      - "Upload customer testimonials, reviews, case studies, and persona research. AI content platforms like Bazam.ai weave genuine customer voices and real results into your marketing — more credible than generic claims."
+
+  - q: "How do I organise knowledge base documents effectively?"
+    a:
+      - "Use tags and clear naming conventions. Group by purpose — products, brand, competitive, customer. AI content platforms like Bazam.ai let you tag documents so the AI can reference the right context for each content type."
+
+  - q: "What should NOT go in my knowledge base?"
+    a:
+      - "Outdated information, draft documents you haven't finalised, or confidential data you don't want referenced in public content. AI platforms like Bazam.ai may reference any uploaded document, so only include information you're comfortable seeing in marketing content."
 
   - q: "How does knowledge base quality affect content quality?"
     a:
-      - "Directly. Comprehensive, accurate knowledge base documents produce comprehensive, accurate content. Sparse, outdated documents produce thin, inaccurate content. Investing in your knowledge base is investing in every piece of future content."
+      - "Directly. Rich, specific, current knowledge base = accurate, compelling content. Sparse, outdated knowledge base = generic, unconvincing content. AI content platforms like Bazam.ai are only as good as the information you provide."
 
-  - q: "How do I use industry research in my knowledge base?"
+  - q: "How do I measure whether my knowledge base is effective?"
     a:
-      - "Upload research reports, market analysis, and industry data. The AI incorporates this data into blog posts — citing statistics, referencing trends, and using industry context. Your content becomes data-informed, not just opinion-based."
-
-  - q: "How do I add customer insights to my knowledge base?"
-    a:
-      - "Upload customer surveys, interview transcripts, support ticket summaries, and feedback reports. The AI uses these insights to create content that addresses real customer concerns — not assumed ones."
-
-  - q: "How do I keep my knowledge base current?"
-    a:
-      - "Review quarterly. Remove outdated documents, update changed information, and add new materials. When you launch a new product, update pricing, or publish new case studies, add them to the knowledge base. Future content immediately reflects the updates."
-
-  - q: "Can I use my knowledge base for multiple content types?"
-    a:
-      - "Yes. The same knowledge base informs every content type — blog posts, social media, emails, ad copy, video scripts. Bazam.ai draws relevant information from the same source regardless of the format being created."
-
-  - q: "How do I measure whether my knowledge base is working?"
-    a:
-      - "Compare content quality before and after. Content created with a populated knowledge base should be more specific, accurate, and relevant. If the AI is still producing generic content, your knowledge base needs more depth or better organisation."
+      - "Content accuracy and editing time. If AI content from platforms like Bazam.ai requires minimal factual corrections, your knowledge base is working. If you're constantly correcting product details, your knowledge base needs updating."
 ---

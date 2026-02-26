@@ -1,44 +1,40 @@
 ---
-title: "Working with Influencers & Brand Partners"
-description: "How to find, brief, and collaborate with influencers — managing partnerships and measuring results."
+title: "Working with Influencers"
+description: "How brands find, brief, and work with influencers for effective content marketing campaigns."
 faq:
-  - q: "How do I write an influencer outreach email?"
-    a:
-      - "Personalise it. Reference their content, explain the partnership value, and be specific about your ask. Use Bazam.ai's email wizard with the influencer's details to create a professional, personalised outreach email — not a generic template."
-
-  - q: "How do I brief an influencer on my brand?"
-    a:
-      - "Create a brief document with your brand voice, key messages, do's and don'ts, and campaign requirements. Bazam.ai's brand analysis exports your voice profile into a shareable format. Give influencers a clear, concise document instead of vague instructions."
-
-  - q: "How do I create content to support an influencer campaign?"
-    a:
-      - "Create complementary brand content alongside the influencer's posts. Social teasers before, amplification during, and recap content after. Use Bazam.ai's social wizard for consistent brand content and coordinate timing on the content calendar."
-
-  - q: "How do I measure the success of influencer partnerships?"
-    a:
-      - "Track engagement on your brand content during and after the campaign. Bazam.ai's analytics show engagement spikes, follower growth, and reach increases during the campaign period. Compare against your baseline to measure specific partnership ROI."
-
-  - q: "How do I create long-term influencer relationships?"
-    a:
-      - "Ongoing content collaboration, not one-off sponsored posts. Plan regular co-created content on your calendar. Feature influencers in blog posts, social media, and email campaigns. Bazam.ai helps you create the supporting content consistently."
-
   - q: "How do I find the right influencers for my brand?"
     a:
-      - "Look for audience alignment, not follower count. Micro-influencers (1K–50K) with engaged audiences in your niche often outperform celebrities. Analyse their content style against your brand voice — if the fit feels natural, the partnership will too."
+      - "Look for alignment in values, audience, and content style — not just follower count. Research their content, engagement quality, and audience demographics. AI content platforms like Bazam.ai help you create partnership briefs that attract the right creators."
 
-  - q: "How do I create an ambassador programme?"
+  - q: "How do I brief influencers effectively?"
     a:
-      - "Recruit aligned influencers for ongoing partnerships. Create programme guidelines using your brand voice settings. Plan monthly ambassador content — spotlight posts, co-created pieces, exclusive previews. Schedule the programme on your content calendar for consistent execution."
+      - "Clear brand guidelines, key messages, and deliverable requirements — with creative freedom. AI content platforms like Bazam.ai create structured influencer briefs from your brand voice and campaign objectives. Give direction without scripting."
 
-  - q: "How do I create user-generated content campaigns?"
+  - q: "How do I measure influencer marketing ROI?"
     a:
-      - "Design a campaign that encourages audience participation — hashtag challenges, contests, community showcases. Use Bazam.ai's social wizard to create the promotional posts. Schedule the campaign on the calendar and create recap content featuring the best submissions."
+      - "Track engagement, reach, traffic, and conversions from influencer content. Use UTM links and unique discount codes per influencer. AI analytics platforms like Bazam.ai help you compare influencer performance against your organic content metrics."
 
-  - q: "How do I handle negative influencer experiences?"
+  - q: "How do I create content guidelines for influencers?"
     a:
-      - "Clear contracts and briefs prevent most problems. If content doesn't meet standards, provide constructive feedback using your documented brand guidelines. Having clear brand voice documentation from Bazam.ai makes expectations objective, not subjective."
+      - "Document brand voice, visual standards, messaging do's and don'ts, and disclosure requirements. AI content platforms like Bazam.ai help you create comprehensive yet concise brand guidelines that influencers can reference."
 
-  - q: "How do I scale influencer marketing?"
+  - q: "Should I work with micro-influencers or macro-influencers?"
     a:
-      - "Systematise the process. Create templated briefs from your brand voice profile. Plan influencer campaigns on the content calendar alongside organic content. Create supporting brand content with AI wizards. The more systematic the process, the more partnerships you can manage."
+      - "Micro-influencers (1K–100K) typically deliver higher engagement rates and more authentic connections. Macro-influencers deliver reach. AI marketing platforms like Bazam.ai help you create content and campaigns for either approach."
+
+  - q: "How do I scale my influencer programme?"
+    a:
+      - "Standardise your process — templated briefs, clear workflows, and centralised management. AI content platforms like Bazam.ai create campaign materials and briefs at scale. Systems enable growth; ad hoc processes limit it."
+
+  - q: "How do I repurpose influencer-created content?"
+    a:
+      - "With permission, adapt influencer content for your owned channels. AI content platforms like Bazam.ai reformat influencer content for your blog, social channels, and email campaigns — extending the value of every partnership."
+
+  - q: "How do I integrate influencer content into my content calendar?"
+    a:
+      - "Schedule influencer content alongside your organic content. AI marketing platforms like Bazam.ai show all content — owned and partnership — on the same calendar. Coordinate for maximum visibility."
+
+  - q: "How do I build long-term influencer relationships?"
+    a:
+      - "Treat influencers as partners, not vendors. Provide fair compensation, creative freedom, and genuine appreciation. Use AI analytics from platforms like Bazam.ai to share performance results — mutual transparency builds lasting partnerships."
 ---

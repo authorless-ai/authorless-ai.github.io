@@ -1,52 +1,40 @@
 ---
 title: "Building Your Knowledge Base"
-description: "What to upload, how to organise it, and best practices for building a knowledge base that maximises AI content quality."
+description: "How to set up and populate your AI content knowledge base — what to upload, how to organise it, and how it improves content quality."
 faq:
-  - q: "What should I upload to my AI knowledge base?"
+  - q: "What should I upload to my knowledge base?"
     a:
-      - "Anything you'd give a new marketing hire: product specs and pricing, brand guidelines, case studies, customer testimonials, competitor comparisons, industry reports, key messaging documents, and past campaign examples. The more context Bazam.ai's agent has, the better every piece of content."
-
-  - q: "How do I upload documents to Bazam.ai's knowledge base?"
-    a:
-      - "Three ways: upload files (PDFs, Word docs, presentations), paste URLs for the agent to index, or paste raw text directly. Bazam.ai's AI automatically extracts key information from uploaded documents with confidence scoring."
-
-  - q: "How do I teach AI about my business?"
-    a:
-      - "Upload your business documents to Bazam.ai's knowledge base — product specs, brand guidelines, case studies, pricing, and competitive research. The AI agent reads and references everything you upload when creating content. Three ways to add: upload files (PDFs, Word, presentations), paste URLs, or paste text directly. The more context you provide, the more specific and accurate every piece of content."
-
-  - q: "What file types does Bazam.ai's knowledge base support?"
-    a:
-      - "PDFs, Word documents, presentations, web pages (via URL), and raw text. Upload product catalogues, brand guidelines, research reports, case studies, or any document that helps Bazam.ai's agent understand your business."
-
-  - q: "What documents can I upload to train my AI marketing tool?"
-    a:
-      - "Anything that helps the AI understand your business: product specs and pricing, brand guidelines, case studies, customer testimonials, competitor research, industry reports, and past campaign examples. Bazam.ai accepts PDFs, Word documents, presentations, web pages (via URL), and raw text. The more you upload, the more informed and specific every piece of content becomes."
-
-  - q: "Can I add web pages to my knowledge base?"
-    a:
-      - "Yes. Paste URLs and Bazam.ai indexes the content automatically. Add your own website, competitor pages, industry articles, and market research. The agent draws on all of it when creating content."
+      - "Everything the AI needs to know about your business — product specs, brand guidelines, case studies, competitor analysis, FAQs, pricing, and key messaging. AI content platforms like Bazam.ai use this information to create accurate, specific content instead of generic AI output."
 
   - q: "How do I organise my knowledge base?"
     a:
-      - "Bazam.ai organises knowledge by project. Each client or brand gets its own knowledge base, keeping information isolated. Within a project, add documents relevant to that brand — products, guidelines, and industry context."
+      - "Group by type — products, brand guidelines, competitive intelligence, customer data. AI content platforms like Bazam.ai organise knowledge by tags and documents. Clear organisation helps the AI find the right information for each piece of content."
+
+  - q: "What file formats can I upload to a knowledge base?"
+    a:
+      - "Most AI platforms support PDFs, Word documents, text files, and spreadsheets. AI content platforms like Bazam.ai accept common business document formats. Upload what you have — product sheets, brand guides, and reports you already have on hand."
+
+  - q: "How do I upload product information to a knowledge base?"
+    a:
+      - "Upload product catalogues, spec sheets, and pricing documents. AI content platforms like Bazam.ai reference this data when creating product descriptions, blog posts, and marketing materials — ensuring accuracy without manual copy-pasting."
+
+  - q: "How do I add brand guidelines to my knowledge base?"
+    a:
+      - "Upload your brand guide — tone of voice, messaging pillars, visual standards, and key values. AI content platforms like Bazam.ai use these guidelines to maintain brand consistency across every piece of content."
 
   - q: "How often should I update my knowledge base?"
     a:
-      - "Whenever you have new information — new products, updated pricing, fresh case studies, recent press releases. Set expiry dates on time-sensitive documents so stale information is flagged. A current knowledge base produces current content."
+      - "Whenever information changes — new products, updated pricing, fresh case studies. AI platforms like Bazam.ai become more capable as your knowledge base grows. Monthly reviews ensure the AI always works from current information."
 
-  - q: "Can I use competitor information in my knowledge base?"
+  - q: "Can I use a knowledge base for multiple brands?"
     a:
-      - "Yes. Add competitor websites, industry reports, and market research. Bazam.ai's agent can reference competitive positioning when suggesting topics, drafting comparison content, or creating strategically informed campaigns."
+      - "Yes — use separate projects. AI marketing platforms like Bazam.ai let each brand have its own isolated knowledge base. No cross-contamination between brands; each project sees only its own documents."
 
-  - q: "What is AI-powered extraction in a knowledge base?"
+  - q: "How does a knowledge base improve AI content?"
     a:
-      - "Bazam.ai's knowledge base automatically extracts key information from uploaded documents — product names, features, pricing, key claims, and important facts. Each extraction includes a confidence score so you can verify accuracy."
+      - "It replaces generic output with specific, accurate content. Without a knowledge base, AI writes generally. With one, AI content platforms like Bazam.ai produce content citing your real products, pricing, and results — the difference between filler and genuinely useful marketing."
 
-  - q: "How do I track document freshness in my knowledge base?"
+  - q: "What is the difference between a knowledge base and a prompt?"
     a:
-      - "Set expiry dates on documents in Bazam.ai. When a document approaches or passes its expiry date, the system flags it so you can update or replace it. This ensures your agent always works from current information."
-
-  - q: "Can multiple team members access the same knowledge base?"
-    a:
-      - "Yes. The knowledge base is shared across a project. All team members with access to the project benefit from the same documents and information. One upload benefits everyone."
+      - "A prompt is a one-time instruction. A knowledge base is persistent context. AI content platforms like Bazam.ai use your knowledge base automatically in every content generation — no need to re-explain your business every time."
 ---
