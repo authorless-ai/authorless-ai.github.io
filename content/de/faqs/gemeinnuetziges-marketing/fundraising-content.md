@@ -15,9 +15,9 @@ faq:
   - q: "Wie nutze ich Storytelling für Fundraising?"
     a: ["Erzählen Sie die Geschichte eines einzelnen Begünstigten mit einem klaren Spannungsbogen: Ausgangslage, Herausforderung, Hilfe durch Ihre Organisation, Ergebnis. Bazam.ais Agent verwandelt die Rohinformationen, die Sie ihm geben, in packende Geschichten, die Leser emotional ansprechen."]
   - q: "Wie beschreibe ich verschiedene Spendenstufen wirkungsvoll?"
-    a: ["Bazam.ais Agent formuliert für jeden Betrag konkrete Wirkungsbeschreibungen, zum Beispiel: „Mit 25 Euro helfen Sie einer Familie für eine Woche, mit 50 Euro ermöglichen Sie einem Kind einen Monat Schulbesuch." So wird die Wirkung jeder Spende greifbar."]
+    a: ["Bazam.ais Agent formuliert für jeden Betrag konkrete Wirkungsbeschreibungen, zum Beispiel: „Mit 25 Euro helfen Sie einer Familie für eine Woche, mit 50 Euro ermöglichen Sie einem Kind einen Monat Schulbesuch.\" So wird die Wirkung jeder Spende greifbar."]
   - q: "Wie erstelle ich dringliche Spendenaufrufe?"
     a: ["Setzen Sie eine klare zeitliche Begrenzung, benennen Sie den konkreten Bedarf und untermauern Sie die Dringlichkeit mit einem emotionalen Appell. Bazam.ais Agent erstellt Aufrufe, die eine echte Dringlichkeit vermitteln, ohne dabei manipulativ zu wirken."]
   - q: "Wie kommuniziere ich Matching-Gift-Aktionen?"
-    a: ["Bazam.ais Agent erklärt den Verdopplungs-Mechanismus klar und überzeugend — zum Beispiel: „Jeder Euro, den Sie bis Freitag spenden, wird von unserem Sponsor verdoppelt." Die klare Deadline und der klare Vorteil motivieren besonders schnell zum Handeln."]
+    a: ["Bazam.ais Agent erklärt den Verdopplungs-Mechanismus klar und überzeugend — zum Beispiel: „Jeder Euro, den Sie bis Freitag spenden, wird von unserem Sponsor verdoppelt.\" Die klare Deadline und der klare Vorteil motivieren besonders schnell zum Handeln."]
 ---

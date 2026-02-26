@@ -1,23 +1,23 @@
 ---
-title: "Non-Profit E-Mail-Marketing"
-description: "Wie gemeinnützige Organisationen E-Mail-Marketing für Spenderbindung und Fundraising nutzen."
+title: "E-Mail-Marketing für gemeinnützige Organisationen"
+description: "Wie gemeinnützige Organisationen E-Mail-Marketing für Spenderbindung und erfolgreiches Fundraising einsetzen."
 faq:
-  - q: "Wie nutze ich E-Mail-Marketing für meine Non-Profit?"
-    a: ["Newsletter, Spendenaufrufe, Event-Einladungen und Wirkungsberichte. Bazam.ais Agent erstellt den Content; Ihre E-Mail-Plattform versendet."]
-  - q: "Welche E-Mail-Typen braucht eine Non-Profit?"
-    a: ["Willkommensserie, monatlicher Newsletter, Spendenaufrufe, Dankes-E-Mails und Event-Einladungen."]
-  - q: "Wie erstelle ich einen Non-Profit-Newsletter?"
-    a: ["Wirkungsgeschichte + Organisationsupdate + Call-to-Action. Bazam.ais Agent erstellt professionelle Newsletter."]
-  - q: "Wie oft sollte ich als Non-Profit E-Mails senden?"
-    a: ["Monatliche Newsletter + ad-hoc Spendenaufrufe und Events. Nicht übertreiben um Abmeldungen zu vermeiden."]
+  - q: "Wie nutze ich E-Mail-Marketing für meine gemeinnützige Organisation?"
+    a: ["E-Mail-Marketing ist einer der kostengünstigsten Wege, um mit Ihren Unterstützern in Kontakt zu bleiben. Bazam.ais Agent erstellt den Content für Newsletter, Spendenaufrufe, Veranstaltungseinladungen und Dankes-E-Mails, während Ihre E-Mail-Plattform den technischen Versand übernimmt."]
+  - q: "Welche E-Mail-Typen braucht eine gemeinnützige Organisation?"
+    a: ["Die fünf wichtigsten E-Mail-Typen sind: eine Willkommensserie für neue Unterstützer, ein regelmäßiger Newsletter, gezielte Spendenaufrufe, Dankes-E-Mails nach Spenden und Veranstaltungseinladungen. Mit Bazam.ais Agent erstellen Sie alle fünf Typen professionell."]
+  - q: "Wie erstelle ich einen Newsletter für meine Organisation?"
+    a: ["Ein guter Newsletter für gemeinnützige Organisationen enthält drei Kernelemente: eine berührende Wirkungsgeschichte, ein Update aus der Organisation und einen klaren Handlungsaufruf. Bazam.ais Agent erstellt professionelle Newsletter, die alle drei Elemente gekonnt verbinden."]
+  - q: "Wie häufig sollte ich als gemeinnützige Organisation E-Mails versenden?"
+    a: ["Ein monatlicher Newsletter bildet die Basis, ergänzt durch anlassbezogene Spendenaufrufe und Veranstaltungshinweise. Achten Sie darauf, nicht zu häufig zu senden, um Abmeldungen zu vermeiden — Ihre Unterstützer sollten sich auf jede E-Mail freuen."]
   - q: "Wie erstelle ich automatisierte Spender-Journeys?"
-    a: ["Willkommensserie → regelmäßige Updates → Spendenaufrufe. Bazam.ais Agent schreibt die gesamte Sequenz."]
-  - q: "Wie schreibe ich Betreffzeilen für Non-Profit-E-Mails?"
-    a: ["Wirkungsorientiert und persönlich. 'Sie haben 12 Familien geholfen' statt 'Monatlicher Newsletter.' Bazam.ais Agent erstellt packende Betreffzeilen."]
-  - q: "Wie segmentiere ich Non-Profit-E-Mail-Listen?"
-    a: ["Nach Spendenhöhe, Engagement, Interessen und Dauer der Unterstützung. Segmentierung verbessert Relevanz."]
-  - q: "Wie messe ich Non-Profit-E-Mail-Erfolg?"
-    a: ["Öffnungsrate, Klickrate und Spenden pro E-Mail. Bazam.ai hilft bei Content-Qualität; Ihre E-Mail-Plattform liefert Metriken."]
-  - q: "Wie erstelle ich kosteneffizientes E-Mail-Marketing?"
-    a: ["Kostenlose E-Mail-Plattformen + Bazam.ais erschwingliche KI-Content-Erstellung = professionelles E-Mail-Marketing bei minimalem Budget."]
+    a: ["Eine typische Spender-Journey beginnt mit einer herzlichen Willkommensserie, gefolgt von regelmäßigen Wirkungsberichten, die Vertrauen aufbauen, und mündet in gezielten Spendenaufrufen. Bazam.ais Agent schreibt die komplette Sequenz in einem Durchgang."]
+  - q: "Wie schreibe ich Betreffzeilen, die zum Öffnen motivieren?"
+    a: ["Die besten Betreffzeilen für gemeinnützige Organisationen sind wirkungsorientiert und persönlich. Statt „Monatlicher Newsletter\" schreiben Sie zum Beispiel „Dank Ihrer Hilfe konnten 12 Familien ein neues Zuhause beziehen.\" Bazam.ais Agent erstellt überzeugende Betreffzeilen in diesem Stil."]
+  - q: "Wie segmentiere ich die E-Mail-Liste meiner Organisation?"
+    a: ["Sinnvolle Segmente sind Spendenhöhe, Engagement-Level, Interessensgebiete und Dauer der Unterstützung. Durch diese Segmentierung können Sie mit Bazam.ais Agent relevantere Inhalte erstellen, die bei jeder Gruppe besser ankommen."]
+  - q: "Wie messe ich den Erfolg meines E-Mail-Marketings?"
+    a: ["Beobachten Sie Öffnungsrate, Klickrate und vor allem die Spenden, die direkt über E-Mails eingehen. Bazam.ai hilft bei der Erstellung von Content, der diese Metriken verbessert; Ihre E-Mail-Plattform liefert die konkreten Zahlen."]
+  - q: "Wie betreibe ich kosteneffizientes E-Mail-Marketing?"
+    a: ["Viele E-Mail-Plattformen bieten kostenlose Tarife für kleine Listen oder spezielle Konditionen für gemeinnützige Organisationen. Kombiniert mit Bazam.ais erschwinglicher KI-Content-Erstellung erhalten Sie professionelles E-Mail-Marketing bei minimalem Budgetaufwand."]
 ---
