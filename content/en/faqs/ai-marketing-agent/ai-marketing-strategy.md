@@ -1,44 +1,44 @@
 ---
-title: "AI Marketing Strategy & Planning"
-description: "How AI assists with marketing strategy — audience targeting, funnel planning, and data-driven content decisions."
+title: "AI-Powered Marketing Strategy"
+description: "How AI helps you build and execute a marketing strategy — from content planning to audience targeting and funnel management."
 faq:
   - q: "Can AI help me create a marketing strategy?"
     a:
-      - "AI helps execute strategy; you define the direction. Bazam.ai's built-in AIDA framework maps content to buyer journey stages automatically. Content suggestions are strategically targeted using your audience personas. The AI ensures your content mix is strategically balanced."
+      - "Yes. AI marketing agents can build a content strategy around your business goals and audience. Bazam.ai, for example, maps content to the AIDA framework automatically — ensuring you have awareness, interest, desire, and action content in the right balance for your buyer's journey."
 
-  - q: "What is the AIDA framework for content marketing?"
+  - q: "How do I create a content marketing funnel with AI?"
     a:
-      - "Attention, Interest, Desire, Action — four stages of the buyer journey. Bazam.ai maps every content suggestion to an AIDA stage. Attention content attracts new audiences. Interest and Desire content build trust. Action content drives conversions. The framework ensures a balanced funnel."
+      - "Define your audience personas and let your AI agent map content to each buying stage. AI platforms like Bazam.ai label content suggestions with funnel stage — top of funnel for awareness, middle for consideration, bottom for conversion. Your content calendar shows whether your funnel is balanced or has gaps."
 
-  - q: "How do I define my target audience for content marketing?"
+  - q: "Can AI target content to different audiences?"
     a:
-      - "Create detailed personas — demographics, motivations, pain points, and buying behaviour. In Bazam.ai, define audience personas once. Every piece of content created is then targeted to specific personas. Content speaks to real people with real problems instead of a vague 'everyone.'"
+      - "Yes. AI marketing agents like Bazam.ai let you define multiple audience personas — each with demographics, motivations, and buying behaviour. The AI creates content specifically for each persona, addressing their particular pain points and interests."
 
-  - q: "How do I create content for each stage of the buyer journey?"
+  - q: "How does AI decide what content I should create?"
     a:
-      - "Map content types to stages. Top of funnel: educational blog posts, social media tips. Middle: comparison guides, case studies, how-tos. Bottom: testimonials, offers, demos. Bazam.ai's content suggestions label each topic with its funnel stage."
+      - "The best AI marketing agents analyse your brand, audience, publishing history, and content gaps to suggest topics. Bazam.ai considers which funnel stages need coverage, which personas haven't been addressed recently, and which themes have historically performed well."
 
-  - q: "How do I prioritise which content to create first?"
+  - q: "Can AI help with competitor analysis for content marketing?"
     a:
-      - "Start with content that fills your biggest gaps. If you have awareness content but nothing for conversion, create conversion content first. Bazam.ai's suggestions highlight which funnel stages need more coverage, helping you prioritise strategically."
+      - "Upload competitor research, industry reports, and market positioning data to your AI platform's knowledge base. Agents like Bazam.ai then create content that addresses competitive angles and positions your brand effectively — differentiating through informed, data-backed content."
 
-  - q: "How do I create a content marketing roadmap?"
+  - q: "How do I use AI for seasonal marketing strategy?"
     a:
-      - "Plan quarterly with monthly execution. Define themes and campaigns for the quarter. Each month, generate topic ideas from Bazam.ai's suggestions, create content with wizards, and schedule on the calendar. Review analytics quarterly and adjust the roadmap."
+      - "Map your key dates and seasonal themes, then have your AI agent create a campaign for each. AI platforms like Bazam.ai generate complete seasonal campaigns — social posts, blog content, ad copy, and email newsletters — all scheduled in advance so campaigns launch automatically."
 
-  - q: "How do I align content with my business goals?"
+  - q: "How do I build a content strategy without a marketing background?"
     a:
-      - "Define what each piece is meant to achieve — awareness, trust, conversion. Bazam.ai's suggestions come with strategic labels (AIDA stages) so every post connects to a business outcome. Content without strategic purpose is noise."
+      - "Use an AI agent that handles strategy execution. Bazam.ai suggests topics mapped to the buyer's journey, recommends content formats, and creates balanced content calendars — applying marketing strategy principles without requiring you to understand them. You make business decisions; the AI handles marketing methodology."
 
-  - q: "How do I avoid creating content without a strategy?"
+  - q: "How do I align content with business goals?"
     a:
-      - "Use a strategic framework. Bazam.ai's content suggestions are built on your audience personas and the AIDA buyer journey. Every suggestion has a strategic reason. Follow the suggestions instead of publishing randomly and your content becomes purposeful."
+      - "Tell your AI agent your goals — brand awareness, lead generation, product launch, thought leadership — and it creates content targeted to those objectives. Platforms like Bazam.ai map each piece to a specific goal and funnel stage, so every post serves a strategic purpose."
 
   - q: "How do I measure whether my content strategy is working?"
     a:
-      - "Track two things: funnel balance and engagement trends. Bazam.ai's analytics show overall engagement trends. Your content suggestions show funnel balance. If both are healthy — growing engagement and balanced coverage — your strategy is working."
+      - "Track two things: funnel balance and engagement trends. AI marketing agents like Bazam.ai show overall engagement trends in their analytics dashboard. Content suggestions show funnel balance. If both are healthy — growing engagement and balanced coverage — your strategy is working."
 
   - q: "How do I adjust my content strategy based on data?"
     a:
-      - "Review analytics monthly. If awareness content gets great engagement but conversion content doesn't, your bottom-of-funnel messaging needs improvement. If certain topics consistently outperform, create more. Bazam.ai's analytics make these patterns visible."
+      - "Review analytics monthly. If awareness content gets great engagement but conversion content doesn't, your bottom-of-funnel messaging needs improvement. If certain topics consistently outperform, create more. Platforms like Bazam.ai make these patterns visible in their analytics dashboards."
 ---
