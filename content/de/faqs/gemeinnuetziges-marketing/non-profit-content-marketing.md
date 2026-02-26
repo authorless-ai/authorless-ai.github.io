@@ -1,23 +1,23 @@
 ---
-title: "Non-Profit Content-Marketing"
-description: "Wie gemeinnützige Organisationen Content-Marketing nutzen um ihre Mission zu kommunizieren."
+title: "Content-Marketing für gemeinnützige Organisationen"
+description: "Wie gemeinnützige Organisationen Content-Marketing nutzen, um ihre Mission zu kommunizieren und Unterstützer zu gewinnen."
 faq:
-  - q: "Braucht meine Non-Profit Content-Marketing?"
-    a: ["Ja. Content erzählt Ihre Geschichte, baut Vertrauen auf und mobilisiert Unterstützer. Bazam.ai macht Content-Marketing für Non-Profits erschwinglich."]
-  - q: "Welcher Content funktioniert für Non-Profits?"
-    a: ["Wirkungsgeschichten, Hintergrundberichte, Teameinblicke, Spender-Updates und Bildungscontent. Bazam.ais Agent erstellt alle Formate."]
-  - q: "Wie starte ich mit Content-Marketing für meine Non-Profit?"
-    a: ["Definieren Sie Ihre Marke und Mission in Bazam.ai, starten Sie mit einem Blog und Social-Media-Präsenz. KI macht den Start erschwinglich."]
-  - q: "Wie erstelle ich Content ohne Marketing-Erfahrung?"
-    a: ["Bazam.ais Agent übernimmt die Content-Erstellung. Sie geben Thema und Ziel ein, die KI erstellt professionellen Marketing-Content."]
-  - q: "Wie kommuniziere ich Wirkung durch Content?"
-    a: ["Konkrete Zahlen, persönliche Geschichten und Vorher-Nachher-Vergleiche. Bazam.ais Agent verwandelt Wirkungsdaten in packende Inhalte."]
-  - q: "Wie erstelle ich Content für verschiedene Unterstützergruppen?"
-    a: ["Personas für Spender, Freiwillige und Partner in Bazam.ai. Der Agent passt Ton und Botschaft an jede Gruppe an."]
-  - q: "Wie halte ich Content-Produktion mit begrenztem Team durch?"
-    a: ["Bazam.ais KI + Batch-Erstellung. Eine Person erstellt einen Monat Content in unter einer Stunde."]
-  - q: "Wie nutze ich Content für Öffentlichkeitsarbeit?"
-    a: ["Pressemitteilungen, Mediakit-Texte und Hintergrundberichte. Bazam.ais Agent erstellt professionelle PR-Materialien."]
-  - q: "Wie erstelle ich Bildungscontent?"
-    a: ["Laden Sie Expertenwissen in die Wissensdatenbank. Bazam.ais Agent erstellt informative, leicht verständliche Bildungsinhalte."]
+  - q: "Braucht meine gemeinnützige Organisation Content-Marketing?"
+    a: ["Unbedingt. Content-Marketing erzählt Ihre Geschichte, baut Vertrauen bei potenziellen Unterstützern auf und mobilisiert Menschen für Ihre Mission. Bazam.ai macht professionelles Content-Marketing auch für Organisationen mit begrenztem Budget erschwinglich."]
+  - q: "Welche Inhalte funktionieren für gemeinnützige Organisationen besonders gut?"
+    a: ["Wirkungsgeschichten, Hintergrundberichte aus der täglichen Arbeit, Einblicke in Ihr Team, regelmäßige Spenderupdates und bildungsorientierte Inhalte zu Ihrem Themenfeld. Bazam.ais Agent erstellt alle diese Formate professionell und effizient."]
+  - q: "Wie starte ich mit Content-Marketing, wenn ich wenig Erfahrung habe?"
+    a: ["Definieren Sie zunächst Ihre Marke und Mission in Bazam.ai und starten Sie dann mit einem einfachen Blog und einer Social-Media-Präsenz. Die KI übernimmt die Content-Erstellung, sodass Sie keine Marketing-Expertise mitbringen müssen."]
+  - q: "Wie erstelle ich professionellen Marketing-Content ohne Texterfahrung?"
+    a: ["Bazam.ais Agent übernimmt die eigentliche Content-Erstellung für Sie. Sie geben lediglich das Thema und die wichtigsten Informationen ein, und die KI erstellt daraus professionelle Marketing-Inhalte in Ihrer Markenstimme."]
+  - q: "Wie kommuniziere ich Wirkung durch Content effektiv?"
+    a: ["Die überzeugendste Wirkungskommunikation verbindet konkrete Zahlen mit persönlichen Geschichten und zeigt Vorher-Nachher-Vergleiche. Bazam.ais Agent verwandelt Ihre Wirkungsdaten in packende Inhalte, die Spender emotional ansprechen und gleichzeitig Ihre Professionalität unterstreichen."]
+  - q: "Wie erstelle ich Inhalte für verschiedene Unterstützergruppen?"
+    a: ["Definieren Sie Personas für Ihre verschiedenen Zielgruppen — Spender, Freiwillige und potenzielle Partner — in Bazam.ai. Der Agent passt dann Ton und Botschaft für jede Gruppe an, sodass sich jeder Unterstützer gezielt angesprochen fühlt."]
+  - q: "Wie halte ich die Content-Produktion mit begrenztem Team durch?"
+    a: ["Mit Bazam.ais KI-Unterstützung und der Batch-Erstellungsfunktion kann eine einzelne Person einen ganzen Monat Content in weniger als einer Stunde erstellen. Die automatische Veröffentlichung erledigt den Rest."]
+  - q: "Wie nutze ich Content für die Öffentlichkeitsarbeit?"
+    a: ["Bazam.ais Agent erstellt professionelle Pressemitteilungen, Mediakit-Texte und Hintergrundberichte, die Journalisten und Partner von der Relevanz Ihrer Arbeit überzeugen."]
+  - q: "Wie erstelle ich Bildungsinhalte zu meinem Themenfeld?"
+    a: ["Laden Sie Ihr Expertenwissen und relevante Informationen in Bazam.ais Wissensdatenbank hoch. Der Agent erstellt daraus informative, leicht verständliche Bildungsinhalte, die Ihr Publikum sensibilisieren und zum Handeln motivieren."]
 ---
