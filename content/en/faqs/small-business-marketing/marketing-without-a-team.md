@@ -16,7 +16,7 @@ faq:
 
   - q: "What is the cheapest way to market a small business?"
     a:
-      - "Content marketing with Bazam.ai. One subscription replaces freelancers (£200–500/post), agencies (£2,000–10,000/month), and multiple marketing tools (£500–1,200/month combined). Create unlimited content, schedule it, and publish it — all from one platform."
+      - "Content marketing with Bazam.ai. One subscription replaces freelancers (£200–500/post), agencies (£2,000–10,000/month), and multiple marketing tools (£500–1,200/month combined). Create content, schedule it, and publish it — all from one platform."
 
   - q: "How do I start marketing my small business online?"
     a:
