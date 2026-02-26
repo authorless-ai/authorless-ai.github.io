@@ -1,23 +1,23 @@
 ---
-title: "KI über Ihr Unternehmen informieren"
-description: "Wie Sie der KI alles über Ihr Unternehmen beibringen für besseren, spezifischeren Content."
+title: "KI ueber Ihr Unternehmen informieren"
+description: "Wie Sie die KI optimal mit Informationen ueber Ihr Unternehmen versorgen, damit der Content praezise und relevant wird."
 faq:
-  - q: "Wie bringe ich der KI bei was mein Unternehmen macht?"
-    a: ["Wissensdatenbank + Markenstimme. Laden Sie Produktinfos, USPs und Unternehmensdaten hoch. Definieren Sie Ihre Stimme. Der Agent erstellt dann Content der wirklich nach Ihnen klingt."]
-  - q: "Wie spezifisch muss ich sein?"
-    a: ["Je spezifischer, desto besser. 'Wir machen Software' → generischer Content. 'Wir entwickeln CRM-Software für Handwerksbetriebe' → spezifischer, überzeugender Content."]
-  - q: "Was wenn ich neue Produkte launche?"
-    a: ["Laden Sie Produktdetails in die Wissensdatenbank. Sofort kann der Agent Content über das neue Produkt erstellen — Pressemitteilungen, Blog-Posts, Social-Content."]
-  - q: "Wie aktualisiere ich Informationen über mein Unternehmen?"
-    a: ["Bearbeiten oder ergänzen Sie Einträge in der Wissensdatenbank. Neuer Content reflektiert sofort die aktualisierten Informationen."]
-  - q: "Kann die KI mein Unternehmen falsch darstellen?"
-    a: ["Nur wenn die Wissensdatenbank fehlerhafte Informationen enthält. Überprüfen Sie Ihren Content und nutzen Sie den Freigabe-Workflow als Sicherheitsnetz."]
-  - q: "Wie lade ich mein Markenwissen hoch?"
-    a: ["Dokumente, URLs, Texte — Bazam.ai akzeptiert verschiedene Formate. Laden Sie alles hoch was den Agenten schlauer macht."]
-  - q: "Wie lange dauert es bis die KI mein Unternehmen kennt?"
-    a: ["Sofort. Nach dem Upload sind Informationen verfügbar. Der nächste erstellte Content nutzt das neue Wissen."]
-  - q: "Kann ich der KI Beispiel-Content zeigen?"
-    a: ["Ja. Laden Sie Ihre besten bestehenden Inhalte hoch. Die Markenanalyse lernt aus diesen Beispielen und repliziert Ihren Stil."]
-  - q: "Wie stelle ich sicher dass die KI auf dem neuesten Stand ist?"
-    a: ["Regelmäßige Wissensdatenbank-Updates. Entfernen Sie Veraltetes, fügen Sie Neues hinzu. Der Agent nutzt immer die aktuellsten Informationen."]
+  - q: "Wie informiere ich die KI ueber mein Unternehmen?"
+    a: ["Laden Sie Dokumente mit Ihren Unternehmensinformationen in die Wissensdatenbank hoch und definieren Sie Ihre Markenstimme. Diese beiden Informationsquellen kombiniert geben dem Agenten ein umfassendes Bild Ihres Unternehmens."]
+  - q: "Welche Unternehmensinformationen braucht die KI?"
+    a: ["Im Minimum eine Beschreibung Ihres Unternehmens, Ihrer Produkte oder Dienstleistungen und Ihrer Zielgruppe. Je mehr Details Sie bereitstellen, desto spezifischer und relevanter wird der erstellte Content."]
+  - q: "Wie detailliert sollten meine Unternehmensinformationen sein?"
+    a: ["So detailliert wie moeglich. Statt nur zu schreiben, dass Sie Software verkaufen, beschreiben Sie, welche Probleme Ihre Software loest, fuer wen sie konzipiert ist und was sie von Wettbewerbsprodukten unterscheidet."]
+  - q: "Wie aktualisiere ich Unternehmensinformationen?"
+    a: ["Aktualisieren Sie die relevanten Dokumente in der Wissensdatenbank, sobald sich etwas aendert. Alle zukuenftigen Inhalte reflektieren dann automatisch die aktualisierten Informationen."]
+  - q: "Wie stelle ich sicher, dass der Content korrekte Informationen enthaelt?"
+    a: ["Die Genauigkeit des Contents haengt direkt von der Qualitaet Ihrer Wissensdatenbank ab. Halten Sie Ihre Dokumente aktuell und korrekt, und der Agent wird zuverlaessig korrekte Informationen in den Content integrieren."]
+  - q: "Wie informiere ich die KI ueber neue Produkte?"
+    a: ["Laden Sie ein neues Dokument mit allen Produktdetails in die Wissensdatenbank hoch. Der Agent kann sofort Content ueber das neue Produkt erstellen, basierend auf den frisch bereitgestellten Informationen."]
+  - q: "Wie teile ich Branchenwissen mit der KI?"
+    a: ["Laden Sie Branchenanalysen, Trends und Ihre eigenen Brancheneinblicke als Dokumente in die Wissensdatenbank. Der Agent nutzt diese Informationen, um Content mit echtem Branchenwissen zu erstellen."]
+  - q: "Wie teile ich Erfolgsgeschichten mit der KI?"
+    a: ["Laden Sie Ihre Kundenerfolgsgeschichten als Dokumente hoch. Der Agent erstellt daraus Fallstudien, Referenzberichte und Testimonials, die Ihre Erfolgsbilanz ueberzeugend dokumentieren."]
+  - q: "Was passiert, wenn Informationen in der Wissensdatenbank widersprüchlich sind?"
+    a: ["Der Agent kann mit widersprüchlichen Informationen umgehen, aber die Qualitaet leidet. Ueberpruefen Sie Ihre Dokumente regelmaessig auf Konsistenz und entfernen oder aktualisieren Sie veraltete Eintraege."]
 ---

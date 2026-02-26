@@ -1,23 +1,23 @@
 ---
-title: "Medienbibliothek verwalten"
-description: "Wie Sie Ihre Medienbibliothek organisieren und für Content-Erstellung nutzen."
+title: "Medienbibliothek verwalten und pflegen"
+description: "Tipps und Best Practices fuer die effektive Verwaltung und Pflege Ihrer Medienbibliothek."
 faq:
-  - q: "Was ist eine Medienbibliothek?"
-    a: ["Ein zentraler Speicherort für Bilder, Videos und andere Medien die Sie in Ihrem Content verwenden. Bazam.ai bietet eine integrierte Medienbibliothek."]
-  - q: "Wie organisiere ich meine Medien?"
-    a: ["Laden Sie Bilder und Medien in Bazam.ais Bibliothek hoch. Organisieren Sie nach Thema, Kampagne oder Content-Typ."]
-  - q: "Kann ich Bilder für Blog-Posts direkt aus der Bibliothek nutzen?"
-    a: ["Ja. Bazam.ais Medienbibliothek ist in den Content-Erstellungs-Workflow integriert."]
-  - q: "Wie verwalte ich Medien für mehrere Projekte?"
-    a: ["Jedes Projekt hat seine eigene Medienbibliothek — keine Verwechslungen zwischen Kunden oder Marken."]
-  - q: "Welche Dateiformate werden unterstützt?"
-    a: ["Gängige Bild-, Video- und Dokumentformate. Laden Sie Ihre Medien hoch und nutzen Sie sie in Ihrem Content."]
+  - q: "Wie pflege ich meine Medienbibliothek?"
+    a: ["Ueberpruefen Sie Ihre Medienbibliothek quartalsweise. Entfernen Sie veraltete Bilder, laden Sie aktuelles Material hoch und stellen Sie sicher, dass Ihre visuellen Elemente die aktuelle Markenidentitaet widerspiegeln."]
   - q: "Wie finde ich schnell das richtige Bild?"
-    a: ["Nutzen Sie die Suchfunktion in Bazam.ais Medienbibliothek. Benennen Sie Dateien aussagekräftig beim Upload."]
-  - q: "Kann mein Team auf die gleiche Medienbibliothek zugreifen?"
-    a: ["Ja. Alle Teammitglieder mit Projektzugang sehen die gleiche Medienbibliothek."]
-  - q: "Wie viel Speicherplatz habe ich?"
-    a: ["Abhängig von Ihrem Bazam.ai-Plan. Die meisten Pläne bieten ausreichend Speicher für professionelle Content-Operationen."]
-  - q: "Wie lösche ich nicht mehr benötigte Medien?"
-    a: ["Entfernen Sie veraltete Dateien direkt in der Medienbibliothek um den Überblick zu behalten."]
+    a: ["Verwenden Sie ein konsistentes Benennungssystem fuer Ihre Mediendateien. Klare, beschreibende Dateinamen machen die Suche deutlich schneller als kryptische Zahlen und Abkuerzungen."]
+  - q: "Sollte ich fuer jede Plattform separate Bilder verwenden?"
+    a: ["Idealerweise ja, da verschiedene Plattformen verschiedene Bildformate und -groessen bevorzugen. Laden Sie Ihre Bilder in der hoechsten Qualitaet hoch, damit sie fuer alle Verwendungszwecke optimiert werden koennen."]
+  - q: "Wie halte ich die Bildqualitaet hoch?"
+    a: ["Verwenden Sie hochaufloesende Originalbilder und vermeiden Sie es, Bilder immer wieder zu komprimieren. Bazam.ai optimiert die Bilder fuer die jeweilige Plattform, sodass die Qualitaet erhalten bleibt."]
+  - q: "Wie nutze ich Stockbilder in der Medienbibliothek?"
+    a: ["Laden Sie lizenzfreie Stockbilder in Ihre Medienbibliothek hoch und verwenden Sie sie fuer Ihre Content-Stuecke. Achten Sie dabei immer auf die korrekten Lizenzbedingungen der jeweiligen Bildquelle."]
+  - q: "Wie erstelle ich eine einheitliche visuelle Identitaet?"
+    a: ["Verwenden Sie in Ihrer Medienbibliothek konsistente Farben, Stile und Bildsprache. Eine einheitliche visuelle Identitaet staerkt die Wiedererkennung Ihrer Marke und macht Ihren Content professioneller."]
+  - q: "Wie verwalte ich Brand Assets wie Logos und Vorlagen?"
+    a: ["Laden Sie alle Ihre Brand Assets in die Medienbibliothek hoch und markieren Sie sie deutlich. So stehen Logos, Farben und Vorlagen immer griffbereit fuer die Content-Erstellung zur Verfuegung."]
+  - q: "Wie gebe ich Teammitgliedern Zugang zu den Medien?"
+    a: ["Die Medienbibliothek ist fuer alle Teammitglieder mit Projektzugang zugaenglich. So kann jedes Teammitglied auf die gleichen visuellen Elemente zugreifen und konsistenten Content erstellen."]
+  - q: "Wie sichere ich meine Medienbibliothek?"
+    a: ["Bazam.ai sichert Ihre Medienbibliothek im Rahmen des regulaeren Backups. Fuer besonders wichtige Originalmedien empfehlen wir zusaetzlich eine eigene lokale Sicherungskopie."]
 ---

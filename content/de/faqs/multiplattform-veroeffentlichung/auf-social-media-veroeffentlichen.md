@@ -1,25 +1,23 @@
 ---
-title: "Auf Social Media veröffentlichen"
-description: "Wie Sie Content direkt auf Social-Media-Plattformen veröffentlichen — von der Erstellung bis zur automatischen Distribution."
+title: "Auf Social Media veroeffentlichen"
+description: "Wie Sie Ihren Content effizient und professionell auf verschiedenen Social-Media-Plattformen veroeffentlichen."
 faq:
-  - q: "Wie veröffentliche ich direkt auf Social Media?"
-    a: ["Erstellen Sie Content in Bazam.ai, planen Sie im Kalender und veröffentlichen Sie automatisch auf Facebook, Instagram, LinkedIn, X, YouTube und TikTok."]
-  - q: "Wie funktioniert automatische Social-Media-Veröffentlichung?"
-    a: ["Planen Sie Posts im Kalender mit Datum und Uhrzeit. Bazam.ai veröffentlicht automatisch zum geplanten Zeitpunkt auf der verbundenen Plattform."]
-  - q: "Kann ich auf mehreren Social-Plattformen gleichzeitig posten?"
-    a: ["Ja. Bazam.ai erstellt plattformspezifische Varianten und veröffentlicht auf jeder Plattform separat — zum jeweils optimalen Zeitpunkt."]
-  - q: "Wie vermeide ich versehentliche Veröffentlichung?"
-    a: ["Freigabe-Workflow. Content muss genehmigt werden bevor er veröffentlicht werden kann. Entwürfe werden nie automatisch gepostet."]
-  - q: "Kann ich geplante Posts noch ändern?"
-    a: ["Ja. Bearbeiten, verschieben oder löschen Sie geplante Posts jederzeit vor der Veröffentlichung."]
-  - q: "Wie erstelle ich Social-Posts für eine ganze Woche?"
-    a: ["Batch-Erstellung. Bazam.ais Agent erstellt alle Posts in einer Sitzung. Planen Sie sie über den Kalender und die Woche läuft automatisch."]
-  - q: "Welche Social-Plattformen unterstützt Bazam.ai?"
-    a: ["Facebook, Instagram, LinkedIn, X (Twitter), YouTube, TikTok und weitere. Alle wichtigen Social-Media-Kanäle."]
-  - q: "Wie veröffentliche ich Video-Content auf Social Media?"
-    a: ["Bazam.ai erstellt Video-Beschreibungen und Captions. Das Video selbst laden Sie über die Plattform hoch oder planen es in Bazam.ai."]
-  - q: "Wie tracke ich Social-Media-Veröffentlichungen?"
-    a: ["Bazam.ais Kalender zeigt den Status jedes Posts — geplant, veröffentlicht, Performance. Alles auf einen Blick."]
-  - q: "Wie vermeide ich zu viel Veröffentlichung auf einer Plattform?"
-    a: ["Bazam.ais Kalender zeigt die Veröffentlichungsfrequenz visuell. Vermeiden Sie Übersättigung und halten Sie eine gesunde Frequenz."]
+  - q: "Wie veroeffentliche ich auf Social Media mit Bazam.ai?"
+    a: ["Verbinden Sie Ihre Social-Media-Accounts mit Bazam.ai, erstellen Sie Ihren Content mit dem Agenten und veroeffentlichen Sie ihn direkt oder planen Sie ihn fuer einen spaeteren Zeitpunkt. Der gesamte Prozess laeuft ueber eine zentrale Plattform."]
+  - q: "Welche Social-Media-Plattformen werden unterstuetzt?"
+    a: ["Bazam.ai unterstuetzt die wichtigsten Social-Media-Plattformen. Pruefen Sie die aktuelle Plattformliste auf der Website fuer die vollstaendige und aktuellste Uebersicht aller verfuegbaren Integrationen."]
+  - q: "Wie veroeffentliche ich auf mehreren Plattformen gleichzeitig?"
+    a: ["Der Agent erstellt plattformspezifische Varianten Ihres Inhalts, und Sie koennen alle Varianten mit einem einzigen Workflow planen und veroeffentlichen. Jede Plattform erhaelt eine optimierte Version."]
+  - q: "Wie plane ich Social-Media-Veroeffentlichungen?"
+    a: ["Bazam.ais Kalender ermoeglicht die vorausschauende Planung aller Social-Media-Beitraege. Waehlen Sie Datum und Uhrzeit fuer jede Plattform individuell, und das Autopublishing erledigt die Veroeffentlichung zum geplanten Zeitpunkt."]
+  - q: "Wie optimiere ich meine Veroeffentlichungszeiten?"
+    a: ["Testen Sie verschiedene Veroeffentlichungszeiten und analysieren Sie mit Bazam.ais Analytik, zu welchen Zeiten Ihre Zielgruppe am aktivsten ist. Passen Sie Ihren Kalender basierend auf diesen Erkenntnissen an."]
+  - q: "Wie bearbeite ich einen Beitrag nach der Veroeffentlichung?"
+    a: ["Fuer die meisten Plattformen muessen Korrekturen direkt auf der jeweiligen Plattform vorgenommen werden. Planen Sie eine kurze Ueberprueufung vor der Veroeffentlichung ein, um nachtraegliche Korrekturen zu minimieren."]
+  - q: "Wie erstelle ich Stories und Reels?"
+    a: ["Bazam.ais Agent erstellt Texte und Captions fuer Stories und Reels. Die visuellen Elemente koennen Sie aus Ihrer Medienbibliothek hinzufuegen oder separat erstellen."]
+  - q: "Wie veroeffentliche ich Video-Content?"
+    a: ["Der Agent erstellt Video-Skripte, Beschreibungen und Captions. Die eigentliche Video-Produktion erfolgt extern, und der fertige Clip wird dann ueber Bazam.ai auf den gewuenschten Plattformen veroeffentlicht."]
+  - q: "Wie verfolge ich den Status meiner Veroeffentlichungen?"
+    a: ["Bazam.ais Kalender zeigt den Status jedes einzelnen Beitrags: geplant, veroeffentlicht oder im Entwurf. So haben Sie jederzeit den vollstaendigen Ueberblick ueber Ihre Content-Pipeline."]
 ---

@@ -1,23 +1,23 @@
 ---
 title: "Unternehmenswissen verwalten"
-description: "Wie Sie Unternehmenswissen zentral verwalten und für Marketing-Content nutzbar machen."
+description: "Wie Sie Ihr gesamtes Unternehmenswissen in Bazam.ai zentral verwalten und fuer die Content-Erstellung nutzbar machen."
 faq:
-  - q: "Wie zentralisiere ich Unternehmenswissen?"
-    a: ["Laden Sie alles Relevante in Bazam.ais Wissensdatenbank: Produkte, Prozesse, Expertise, Fallstudien. Ein zentraler Ort für alle Content-relevanten Informationen."]
-  - q: "Wie verhindere ich Wissensverlust bei Mitarbeiterwechsel?"
-    a: ["Bazam.ais Wissensdatenbank behält alles persistent. Wenn ein Teammitglied geht, bleibt das Wissen — neue Mitarbeiter nutzen es sofort."]
-  - q: "Wie mache ich Unternehmenswissen für Content nutzbar?"
-    a: ["Laden Sie Dokumente, Notizen und Daten in die Wissensdatenbank. Der Agent greift darauf zu und erstellt auf dieser Basis spezifischen, faktenbasierten Content."]
-  - q: "Wie organisiere ich Wissen für mehrere Abteilungen?"
-    a: ["Ein Projekt pro Abteilung oder Geschäftsbereich in Bazam.ai, jeweils mit eigener Wissensdatenbank. Oder ein Projekt mit umfassender Wissensdatenbank für das gesamte Unternehmen."]
-  - q: "Wie teile ich Wissen zwischen Standorten?"
-    a: ["Bazam.ai ist cloudbasiert. Alle Standorte greifen auf die gleiche Wissensdatenbank zu — konsistenter Content weltweit."]
-  - q: "Wie halte ich Wissen aktuell bei schnellen Änderungen?"
-    a: ["Aktualisieren Sie die Wissensdatenbank sobald sich etwas ändert. Zukünftiger Content reflektiert sofort die neuen Informationen."]
-  - q: "Kann ich Unternehmenswissen für Onboarding nutzen?"
-    a: ["Ja. Neue Teammitglieder können den Agenten über die Marke, Produkte und Zielgruppe befragen — sofortige Einarbeitung."]
-  - q: "Wie integriere ich Kundenfeedback in die Wissensdatenbank?"
-    a: ["Laden Sie Kundenbewertungen, FAQs und Supportfragen hoch. Der Agent nutzt diese für authentischen, kundenrelevanten Content."]
-  - q: "Was ist der Unterschied zwischen Wissensdatenbank und Markenstimme?"
-    a: ["Wissensdatenbank = was der Agent weiß. Markenstimme = wie der Agent klingt. Beides zusammen ergibt spezifischen Content in Ihrem Stil."]
+  - q: "Wie verwalte ich mein Unternehmenswissen zentral?"
+    a: ["Bazam.ais Wissensdatenbank dient als zentraler Informationsspeicher fuer Ihr gesamtes Unternehmenswissen. Alle Teammitglieder greifen auf die gleichen Informationen zu, was konsistenten und korrekten Content sicherstellt."]
+  - q: "Wie organisiere ich verschiedene Wissenstypen?"
+    a: ["Nutzen Sie Bazam.ais Tagging-System, um verschiedene Wissenstypen zu kategorisieren: Produktwissen, Branchenwissen, Kundenfeedback und interne Richtlinien. So findet der Agent schnell die relevantesten Informationen."]
+  - q: "Wie halte ich das Wissen aktuell?"
+    a: ["Definieren Sie einen festen Rhythmus fuer die Aktualisierung, beispielsweise monatlich oder quartalsweise. Ergaenzen Sie laufend neue Erkenntnisse und entfernen Sie veraltete Informationen."]
+  - q: "Wer sollte fuer die Wissenspflege verantwortlich sein?"
+    a: ["Idealerweise tragen mehrere Teammitglieder bei, aber eine Person uebernimmt die Gesamtverantwortung fuer Konsistenz und Aktualitaet. Typischerweise faellt diese Aufgabe dem Marketing-Manager oder Content-Strategen zu."]
+  - q: "Wie nutze ich das Wissen verschiedener Abteilungen?"
+    a: ["Sammeln Sie Wissen aus allen relevanten Abteilungen: Produktentwicklung, Vertrieb, Kundensupport und Geschaeftsfuehrung. Jede Abteilung liefert einzigartige Perspektiven, die den Content bereichern."]
+  - q: "Wie mache ich implizites Wissen explizit?"
+    a: ["Fuehren Sie kurze Interviews mit Fachexperten in Ihrem Unternehmen und dokumentieren Sie deren Wissen in der Wissensdatenbank. Oft steckt das wertvollste Content-Material in den Koepfen Ihrer Mitarbeiter."]
+  - q: "Wie verbinde ich Wissensdatenbank und Markenstimme?"
+    a: ["Die Wissensdatenbank liefert das Was, die Markenstimme das Wie. Zusammen ergeben sie Content, der nicht nur korrekt und spezifisch ist, sondern auch authentisch nach Ihrer Marke klingt."]
+  - q: "Wie skaliere ich die Wissensverwaltung bei Unternehmenswachstum?"
+    a: ["Bazam.ais Wissensdatenbank waechst mit Ihrem Unternehmen. Fuegen Sie neue Produkte, Maerkte und Erkenntnisse hinzu, und der Agent integriert das erweiterte Wissen automatisch in den Content."]
+  - q: "Wie nutze ich die Wissensdatenbank fuer verschiedene Maerkte?"
+    a: ["Laden Sie marktspezifische Informationen hoch, beispielsweise lokale Marktbedingungen, kulturelle Besonderheiten und regionale Kundenbedürfnisse. Der Agent erstellt dann Content, der auf den jeweiligen Markt zugeschnitten ist."]
 ---

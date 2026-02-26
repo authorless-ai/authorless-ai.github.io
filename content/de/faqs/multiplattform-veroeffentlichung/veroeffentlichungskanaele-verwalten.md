@@ -1,25 +1,23 @@
 ---
-title: "Veröffentlichungskanäle verwalten"
-description: "Wie Sie Ihre Veröffentlichungskanäle zentral verwalten und organisieren."
+title: "Veroeffentlichungskanaele verwalten"
+description: "Wie Sie Ihre verschiedenen Veroeffentlichungskanaele in Bazam.ai effizient verwalten und koordinieren."
 faq:
-  - q: "Wie verwalte ich mehrere Veröffentlichungskanäle?"
-    a: ["Bazam.ai verbindet alle Kanäle in einer Plattform. Verwalten Sie WordPress, Social Media und mehr von einem Dashboard."]
-  - q: "Welche Plattformen verbindet Bazam.ai?"
-    a: ["WordPress, Facebook, Instagram, LinkedIn, X (Twitter), YouTube, TikTok und Squarespace. Alle wichtigen Publishing-Kanäle."]
-  - q: "Wie verbinde ich eine neue Plattform?"
-    a: ["Ein paar Klicks über Bazam.ais Einstellungen. OAuth-Autorisierung — keine Passwörter, keine technische Konfiguration."]
-  - q: "Kann ich verschiedene Kanäle für verschiedene Projekte haben?"
-    a: ["Ja. Jedes Projekt hat seine eigenen verbundenen Kanäle. Agenturen haben separate Kanäle pro Kunde."]
-  - q: "Was wenn ich einen Kanal entfernen will?"
-    a: ["Trennen Sie die Verbindung jederzeit in den Einstellungen. Bereits veröffentlichter Content bleibt auf der Plattform."]
-  - q: "Wie sehe ich den Status aller verbundenen Kanäle?"
-    a: ["Bazam.ais Dashboard zeigt den Verbindungsstatus jeder Plattform auf einen Blick."]
-  - q: "Brauche ich separate Login-Daten für jede Plattform?"
-    a: ["Nein. Bazam.ai nutzt sichere OAuth-Verbindungen. Sie autorisieren einmal und die Verbindung bleibt bestehen."]
-  - q: "Was passiert wenn eine Plattform ihre API ändert?"
-    a: ["Bazam.ai aktualisiert Integrationen. Sie müssen sich um technische Änderungen nicht kümmern."]
-  - q: "Wie manage ich Kanäle als Agentur?"
-    a: ["Separate Projekte pro Kunde mit jeweils eigenen verbundenen Kanälen. Kein Risiko, auf dem falschen Kanal zu posten."]
-  - q: "Kann ich auf einem Kanal in mehreren Sprachen veröffentlichen?"
-    a: ["Ja. Bazam.ais Übersetzungsfunktion erstellt Content in über 100 Sprachen. Veröffentlichen Sie mehrsprachig auf dem gleichen Kanal."]
+  - q: "Wie verwalte ich mehrere Veroeffentlichungskanaele?"
+    a: ["Bazam.ai zeigt alle verbundenen Kanaele in einer zentralen Uebersicht. Sie sehen auf einen Blick, welche Plattformen verbunden sind und koennen den Content fuer jeden Kanal individuell steuern."]
+  - q: "Wie verbinde ich neue Kanaele?"
+    a: ["Fuegen Sie neue Social-Media-Accounts oder WordPress-Blogs ueber die Kanalverwaltung in Bazam.ai hinzu. Die Einrichtung dauert nur wenige Minuten pro Kanal."]
+  - q: "Wie entscheide ich, welche Kanaele ich nutze?"
+    a: ["Konzentrieren Sie sich auf die Kanaele, auf denen Ihre Zielgruppe am aktivsten ist. Bazam.ais Analytik zeigt Ihnen nach einigen Wochen, welche Kanaele die besten Ergebnisse liefern."]
+  - q: "Wie manage ich Kanaele fuer verschiedene Projekte?"
+    a: ["Jedes Projekt in Bazam.ai hat seine eigenen verbundenen Kanaele. So bleiben verschiedene Marken oder Kunden sauber getrennt und Verwechslungen werden vermieden."]
+  - q: "Wie deaktiviere ich Kanaele temporaer?"
+    a: ["Sie koennen die Veroeffentlichung auf einzelnen Kanaelen pausieren, ohne die Verbindung zu trennen. So behalten Sie die Flexibilitaet, Kanaele bei Bedarf schnell wieder zu aktivieren."]
+  - q: "Wie priorisiere ich meine Kanaele?"
+    a: ["Bazam.ais Analytik zeigt Ihnen die Performance pro Kanal. Investieren Sie mehr Ressourcen in die Kanaele mit dem hoechsten Return und reduzieren Sie den Aufwand fuer schwach performende Kanaele."]
+  - q: "Wie synchronisiere ich die Veroeffentlichung ueber verschiedene Kanaele?"
+    a: ["Bazam.ais Kalender ermoeglicht die koordinierte Planung ueber alle Kanaele hinweg. Planen Sie zusammenhaengende Kampagnen so, dass die Veroeffentlichungen auf verschiedenen Kanaelen zeitlich aufeinander abgestimmt sind."]
+  - q: "Wie skaliere ich auf weitere Kanaele?"
+    a: ["Fuegen Sie neue Kanaele schrittweise hinzu und nutzen Sie die Batch-Erstellung, um sofort Content fuer den neuen Kanal zu produzieren. Bazam.ais Agent erstellt plattformspezifischen Content fuer jeden neuen Kanal."]
+  - q: "Wie ueberpreufe ich die Gesundheit meiner Kanalverbindungen?"
+    a: ["Bazam.ai zeigt den Verbindungsstatus aller Kanaele an und benachrichtigt Sie bei Problemen. Ueberpruefen Sie den Status regelmaessig, um eine reibungslose Veroeffentlichung sicherzustellen."]
 ---
