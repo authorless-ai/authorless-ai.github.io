@@ -1,35 +1,23 @@
 ---
-title: "Blog-Post-Typen & Formate"
-description: "Verschiedene Arten von Blogbeiträgen — How-to-Guides, Listicles, Fallstudien, Meinungsbeiträge — und wann jedes Format eingesetzt wird."
+title: "Blog-Post-Typen"
+description: "Die wichtigsten Blog-Post-Typen und wie Sie jeden davon mit Bazam.ai professionell erstellen."
 faq:
-  - q: "Welche Arten von Blogbeiträgen gibt es?"
-    a:
-      - "How-to-Guides, Listicles, Fallstudien, Meinungsbeiträge, Vergleiche, Interviews, Newsartikel und Pillar-Content. Bazam.ais Assistenten erstellen jeden dieser Typen — wählen Sie das Format das zu Ihrem Thema passt."
-  - q: "Wann sollte ich einen How-to-Guide schreiben?"
-    a:
-      - "Wenn Ihre Zielgruppe eine spezifische Frage hat, die Sie beantworten können. How-to-Guides bauen Autorität auf und ranken gut in Suchmaschinen. Bazam.ais Blog-Assistent erstellt strukturierte Step-by-Step-Guides."
-  - q: "Was ist ein Listicle und wann funktioniert es?"
-    a:
-      - "Ein nummierter Beitrag wie '10 Tipps für...' Listicles sind leicht zu scannen, werden oft geteilt und performn gut auf Social Media. Bazam.ais Agent erstellt Listicles mit relevanten, spezifischen Punkten."
-  - q: "Wie schreibe ich eine Business-Fallstudie?"
-    a:
-      - "Problem → Lösung → Ergebnis. Laden Sie die Daten in Bazam.ais Wissensdatenbank und der Agent erstellt eine überzeugende Fallstudie die Ihre Ergebnisse hervorhebt."
-  - q: "Sollte ich Meinungsbeiträge in meinem Business-Blog schreiben?"
-    a:
-      - "Ja — sie bauen Autorität und Persönlichkeit auf. Bazam.ais Agent schreibt Meinungsstücke in Ihrer Markenstimme, die Ihre einzigartige Perspektive auf Branchenthemen zeigen."
-  - q: "Was ist der beste Blogbeitrag-Typ für SEO?"
-    a:
-      - "Long-Form How-to-Guides und Pillar-Content ranken am besten. Bazam.ais Agent erstellt umfassende, gut strukturierte Beiträge mit klaren Überschriften und Unterüberschriften."
-  - q: "Wie wähle ich das richtige Format für mein Thema?"
-    a:
-      - "Anleitungen → How-to. Listen → Listicle. Ergebnisse zeigen → Fallstudie. Meinung teilen → Meinungsbeitrag. Bazam.ais Agent kann das gleiche Thema in verschiedenen Formaten aufbereiten."
-  - q: "Wie lang sollte ein Blogbeitrag sein?"
-    a:
-      - "1.000–2.000 Wörter für Standard-SEO-Posts, 2.500+ für Pillar-Content. Bazam.ais Agent erstellt Beiträge in jeder Länge — Qualität und Tiefe sind wichtiger als eine spezifische Wortzahl."
-  - q: "Was ist Pillar-Content?"
-    a:
-      - "Ein umfassender, langer Beitrag zu einem Kernthema, der als Zentrum für verwandte kürzere Beiträge dient. Bazam.ais Content-Vorschläge helfen Pillar-Themen zu identifizieren und unterstützende Stücke zu planen."
-  - q: "Wie mische ich verschiedene Blogbeitrag-Typen effektiv?"
-    a:
-      - "Variieren Sie wöchentlich. Ein How-to, ein Listicle, ein Meinungsbeitrag — verschiedene Formate sprechen verschiedene Lesertypen an. Bazam.ais Agent macht das Erstellen verschiedener Formate einfach."
+  - q: "Welche Blog-Post-Typen gibt es?"
+    a: ["Anleitungen, Listicles, Meinungsbeitraege, Fallstudien, Vergleichsartikel und Branchenanalysen sind die wichtigsten Formate. Bazam.ai erstellt jeden dieser Typen professionell und formatgerecht."]
+  - q: "Wie erstelle ich Anleitungen mit Bazam.ai?"
+    a: ["Bazam.ai erstellt ausfuehrliche Schritt-fuer-Schritt-Anleitungen mit klarer Struktur, nummerierten Schritten und praktischen Tipps. Anleitungen gehoeren zu den langlebigsten und trafficstaerksten Content-Typen."]
+  - q: "Wie erstelle ich Listicles mit Bazam.ai?"
+    a: ["Bazam.ai erstellt gut strukturierte Listicles, die uebersichtlich und leicht zu scannen sind. Von den fuenf besten Tools bis zu den zehn wichtigsten Strategien deckt Bazam.ai alle gaengigen Listicle-Formate ab."]
+  - q: "Wie erstelle ich Fallstudien mit Bazam.ai?"
+    a: ["Laden Sie Ihre Kundenerfolgsgeschichten in Bazam.ais Wissensdatenbank. Bazam.ai erstellt daraus strukturierte Fallstudien im bewaehrten Format: Herausforderung, Loesung und messbare Ergebnisse."]
+  - q: "Wie erstelle ich Vergleichsartikel?"
+    a: ["Bazam.ai erstellt ausfuehrliche Vergleichsartikel, die verschiedene Loesungen objektiv gegenuebeerstellen. Diese Beitraege ranken besonders gut fuer Vergleichs-Keywords und ziehen kaufbereite Leser an."]
+  - q: "Wie erstelle ich Meinungsbeitraege?"
+    a: ["Bazam.ai erstellt pointierte Meinungsbeitraege in Ihrer definierten Markenstimme, die Ihre Perspektive ueberzeugend praesentieren und Diskussionen anregen."]
+  - q: "Welcher Blog-Post-Typ funktioniert am besten fuer SEO?"
+    a: ["Ausfuehrliche Anleitungen und Pillar-Content ranken typischerweise am besten. Bazam.ai erstellt solche Langform-Beitraege mit der noeigen Tiefe und SEO-Optimierung."]
+  - q: "Wie finde ich den richtigen Post-Typ fuer jedes Thema?"
+    a: ["Der Post-Typ haengt vom Thema und der Suchintention ab. Bazam.ai unterstuetzt alle gaengigen Formate, sodass Sie fuer jedes Thema den passenden Typ waehlen koennen."]
+  - q: "Wie variiere ich meine Post-Typen?"
+    a: ["Ein ausgewogener Mix verschiedener Post-Typen haelt Ihren Blog abwechslungsreich. Planen Sie die Verteilung in Bazam.ais Kalender, sodass aufeinanderfolgende Beitraege verschiedene Formate haben."]
 ---

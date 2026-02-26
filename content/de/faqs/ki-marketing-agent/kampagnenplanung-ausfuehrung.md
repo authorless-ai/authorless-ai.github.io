@@ -1,35 +1,23 @@
 ---
-title: "Kampagnenplanung & Ausführung"
-description: "Wie KI-Marketing-Agenten vollständige Marketingkampagnen planen, erstellen und durchführen."
+title: "Kampagnenplanung und -ausfuehrung"
+description: "Wie Sie mit Bazam.ai Marketing-Kampagnen effizient planen, erstellen und ausfuehren."
 faq:
-  - q: "Wie plane ich eine Marketing-Kampagne mit KI?"
-    a:
-      - "Sagen Sie Bazam.ais Agenten Ihr Kampagnenziel, Zielgruppe und Thema. Er erstellt einen vollständigen Kampagnenplan — Content über alle Plattformen, strategisch über die Käuferreise verteilt und zeitlich auf dem Kalender geplant."
-  - q: "Kann KI eine komplette Kampagne erstellen?"
-    a:
-      - "Ja. Bazam.ais Agent erstellt Blog-Content, Social-Media-Posts, Werbetexte und E-Mail-Newsletter für eine Kampagne — alles in einer Sitzung, alles in Ihrer Markenstimme, alles strategisch zugeordnet."
-  - q: "Wie führe ich eine Multi-Channel-Kampagne durch?"
-    a:
-      - "Erstellen Sie Content einmal und Bazam.ais Agent passt ihn für jede Plattform an. Planen Sie alles über den Content-Kalender. Die Kampagne läuft automatisch über Blog, Social Media und E-Mail."
-  - q: "Wie erstelle ich eine Produktlaunch-Kampagne?"
-    a:
-      - "Laden Sie Produktdetails in die Wissensdatenbank hoch. Sagen Sie dem Agenten den Launch-Zeitplan. Er erstellt Pre-Launch-Teaser, Launch-Day-Ankündigungen, Social-Kampagnen, Pressemitteilungen und Follow-up-Content."
-  - q: "Wie plane ich saisonale Marketingkampagnen?"
-    a:
-      - "Sagen Sie Bazam.ais Agenten das saisonale Thema und die Zielgruppe. Er generiert die komplette Kampagne. Planen Sie Wochen oder Monate im Voraus und die Kampagne startet automatisch."
-  - q: "Wie verfolge ich die Kampagnen-Performance?"
-    a:
-      - "Fragen Sie den Agenten. Bazam.ais Analytik zeigt Engagement, Reichweite und Wachstum für jeden Kampagnen-Content. Er identifiziert was funktioniert und empfiehlt Anpassungen."
+  - q: "Wie plane ich Kampagnen mit Bazam.ai?"
+    a: ["Definieren Sie die Kampagnenziele und den Zeitrahmen, erstellen Sie alle Content-Stuecke mit Bazam.ai in einer Batch-Sitzung und planen Sie die Veroeffentlichung koordiniert im Kalender von Bazam.ai."]
+  - q: "Wie erstelle ich Kampagnen-Content effizient?"
+    a: ["Bazam.ais Batch-Erstellung produziert alle Kampagnen-Bestandteile in einer Sitzung: Social-Media-Posts, Blog-Beitraege, Newsletter und Landingpage-Texte. Alles ist aufeinander abgestimmt."]
+  - q: "Wie koordiniere ich Kampagnen ueber mehrere Kanaele?"
+    a: ["Bazam.ais Kalender zeigt alle Kampagnen-Bestandteile kanaluebergreifend. Sie sehen auf einen Blick, welcher Content wann auf welchem Kanal erscheint und ob alles zeitlich abgestimmt ist."]
+  - q: "Wie messe ich den Kampagnenerfolg?"
+    a: ["Bazam.ais Analytik zeigt die Performance jedes einzelnen Kampagnen-Beitrags. Kombinieren Sie diese Daten mit Ihren Geschaeftsmetriken fuer eine vollstaendige Kampagnenbewertung."]
+  - q: "Wie erstelle ich Kampagnen fuer verschiedene Zielgruppen?"
+    a: ["Bazam.ai erstellt zielgruppenspezifische Varianten basierend auf Ihren Personas. Dieselbe Kampagnenbotschaft wird fuer verschiedene Zielgruppen individuell angepasst."]
+  - q: "Wie plane ich saisonale Kampagnen mit Bazam.ai?"
+    a: ["Planen Sie saisonale Hoehepunkte im Voraus in Bazam.ais Kalender. Bazam.ai erstellt alle Content-Stuecke rechtzeitig vorab in einer vorbereitenden Batch-Sitzung."]
   - q: "Wie optimiere ich laufende Kampagnen?"
-    a:
-      - "Überprüfen Sie Performance-Daten von Bazam.ais Analytik. Identifizieren Sie Top-performende Formate, Plattformen und Themen. Erstellen Sie mehr Content in der gleichen Richtung und passen Sie an, was nicht funktioniert."
-  - q: "Wie erstelle ich Kampagnen-Content für verschiedene Zielgruppen?"
-    a:
-      - "Nutzen Sie verschiedene Zielgruppen-Personas in Bazam.ai. Der Agent erstellt Varianten des gleichen Kampagnenthemas für jede Zielgruppe — gleiche Botschaft, unterschiedliche Ansprache."
-  - q: "Was ist eine Content-Kampagne?"
-    a:
-      - "Eine koordinierte Serie von Content-Stücken über mehrere Plattformen, designed um ein spezifisches Marketingziel zu erreichen. Bazam.ais Agent erstellt und verwaltet alle Stücke einer Kampagne als zusammenhängende Einheit."
-  - q: "Wie viele Kampagnen kann ich gleichzeitig führen?"
-    a:
-      - "So viele wie nötig. Bazam.ai unterstützt mehrere Kampagnen pro Projekt, jede mit eigenen Zielen, Zielgruppen und Zeitplänen. Für Agenturen: separate Kampagnen pro Kundenprojekt."
+    a: ["Analysieren Sie die fruehen Performance-Daten in Bazam.ais Analytik und passen Sie die Inhalte basierend auf den Ergebnissen an. Bazam.ai erstellt optimierte Varianten innerhalb von Minuten."]
+  - q: "Wie erstelle ich Kampagnen mit begrenztem Budget?"
+    a: ["Bazam.ai macht professionelle Kampagnen auch mit kleinem Budget moeglich. Die Content-Erstellung in Bazam.ai kostet einen Bruchteil von Agentur-Kampagnen bei vergleichbarer Qualitaet."]
+  - q: "Wie dokumentiere ich Kampagnenergebnisse?"
+    a: ["Bazam.ais Analytik liefert die Performance-Daten, die Sie in professionelle Kampagnenberichte integrieren koennen. So dokumentieren Sie den Erfolg jeder Kampagne transparent und datenbasiert."]
 ---

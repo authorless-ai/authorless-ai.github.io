@@ -1,44 +1,23 @@
 ---
-title: "Werbetexte & bezahlte Kampagnen"
-description: "Wie Sie Werbetexte für bezahlte Kampagnen erstellen — Google Ads, Facebook Ads, Instagram und LinkedIn Sponsored Content."
+title: "Werbetexte und Kampagnen-Content"
+description: "Wie Sie mit Bazam.ai professionelle Werbetexte und Kampagnen-Content erstellen."
 faq:
-  - q: "Wie schreibe ich Google-Ads-Texte, die konvertieren?"
-    a:
-      - "Klare Überschrift, spezifischer Nutzen und starker Call-to-Action — innerhalb der Zeichenlimits. Bazam.ais Werbetexter-Assistent erstellt mehrere Google-Ads-Varianten pro Kampagne — Überschriften, Beschreibungen und Anzeige-URLs — alle korrekt für Googles Anforderungen formatiert. Varianten testen und Gewinner skalieren."
-
-  - q: "Wie erstelle ich Facebook-Werbetexte?"
-    a:
-      - "Hook in der ersten Zeile, Nutzen im Text, klarer CTA am Ende. Nutzen Sie Bazam.ais Werbetexter-Assistenten — geben Sie Ihr Produkt, Zielgruppe und gewünschte Aktion ein. Die KI produziert mehrere Varianten, optimiert für Facebooks Format und Zielgruppen-Erwartungen."
-
-  - q: "Wie schreibe ich Instagram-Werbetexte?"
-    a:
-      - "Visual-first, prägnant und Emoji-freundlich. Bazam.ais Werbe-Assistent erstellt Instagram-spezifische Texte — kurze, knackige Captions, die Ihr visuelles Kreativ ergänzen. Inklusive Hashtags und CTAs, formatiert für Instagrams Engagement-Stil."
-
-  - q: "Wie mache ich A/B-Tests mit Werbetexten?"
-    a:
-      - "Erstellen Sie mehrere Varianten für die gleiche Kampagne und schalten Sie sie gleichzeitig. Bazam.ais Werbe-Assistent generiert automatisch mehrere Versionen — verschiedene Hooks, Blickwinkel und CTAs. Laden Sie alle auf Ihre Werbeplattform hoch und lassen Sie Performance-Daten den Gewinner bestimmen."
-
-  - q: "Wie erstelle ich LinkedIn Sponsored Content?"
-    a:
-      - "Professioneller Ton, Wertversprechen zuerst und ein klarer Business Case. Bazam.ais Werbe-Assistent passt sich LinkedIn's B2B-Zielgruppe an — erstellt Sponsored Content, der Business-Entscheider mit Daten, Ergebnissen und professioneller Sprache anspricht."
-
-  - q: "Wie schreibe ich bessere Anzeigen-Überschriften?"
-    a:
-      - "Führen Sie mit dem Hauptnutzen oder einer überzeugenden Frage. Halten Sie sich unter dem Zeichenlimit. Bazam.ais Werbe-Assistent generiert mehrere Überschriftenoptionen pro Kampagne — direkter Nutzen, neugiergetrieben und Problemlösungs-Ansätze zum Testen."
-
-  - q: "Wie viele Werbetexte brauche ich pro Kampagne?"
-    a:
-      - "Mindestens 3–5 Varianten für A/B-Tests. Bazam.ais Werbe-Assistent generiert mehrere Varianten in einer Sitzung — verschiedene Blickwinkel, Tonlagen und CTAs. Mehr Varianten bedeutet mehr Testdaten und schnellere Optimierung."
-
-  - q: "Wie erstelle ich Retargeting-Werbetexte?"
-    a:
-      - "Sprechen Sie die spezifische Aktion an, die sie bereits durchgeführt haben — Produktseite besucht, in den Warenkorb gelegt, Blogbeitrag gelesen. Nutzen Sie Bazam.ais Werbe-Assistenten mit Zielgruppenkontext, um Retargeting-spezifische Texte zu erstellen, die ihre bestehende Vertrautheit ansprechen."
-
-  - q: "Wie halte ich Werbetexte konsistent mit meiner Marke?"
-    a:
-      - "Nutzen Sie markengebundene KI-Tools. Bazam.ais Werbe-Assistent wendet Ihre Markenstimme-Einstellungen auf alle Werbetexte an — Ton, Vokabular und Persönlichkeit bleiben über jede Kampagne und Plattform konsistent. Keine Off-Brand-Anzeigen, die durchrutschen."
-
-  - q: "Wie erstelle ich Werbetexte für verschiedene Buyer Personas?"
-    a:
-      - "Erstellen Sie Persona-spezifische Varianten. Nutzen Sie Bazam.ais Werbe-Assistenten für jede Persona separat — gleiches Produkt, unterschiedliche Botschaften pro Zielgruppe. Jede Version adressiert die spezifischen Schmerzpunkte und Motivationen dieser Persona."
+  - q: "Wie erstelle ich Kampagnen-Content mit Bazam.ai?"
+    a: ["Bazam.ai erstellt zusammenhaengende Kampagnen-Inhalte fuer alle Kanaele: Anzeigentexte, Landingpage-Content, E-Mails und Social-Media-Posts. Alle Bestandteile sind aufeinander abgestimmt."]
+  - q: "Wie erstelle ich saisonale Kampagnen?"
+    a: ["Planen Sie saisonale Kampagnen im Voraus in Bazam.ais Kalender. Bazam.ai erstellt alle Content-Stuecke in einer Batch-Sitzung, sodass sie rechtzeitig fertig sind."]
+  - q: "Wie erstelle ich mehrsprachige Kampagnen?"
+    a: ["Bazam.ais Uebersetzungsfunktion lokalisiert Kampagnen-Inhalte in ueber 20 Sprachen. Jede Sprachversion behaelt Markenstimme und Kampagnenbotschaft bei."]
+  - q: "Wie teste ich verschiedene Kampagnen-Varianten?"
+    a: ["Bazam.ai generiert mehrere Textvarianten fuer A/B-Tests, sodass Sie datenbasiert die effektivste Version identifizieren koennen."]
+  - q: "Wie erstelle ich Kampagnen fuer verschiedene Zielgruppen?"
+    a: ["Bazam.ai erstellt zielgruppenspezifische Varianten basierend auf Ihren Personas. Die Kampagnenintention wird fuer verschiedene Zielgruppen individuell angepasst."]
+  - q: "Wie plane ich integrierte Marketing-Kampagnen?"
+    a: ["Bazam.ais Kalender koordiniert alle Kampagnen-Bestandteile kanaluebergreifend. Sie sehen auf einen Blick, welcher Content wann auf welchem Kanal erscheint."]
+  - q: "Wie messe ich die Kampagnen-Performance?"
+    a: ["Bazam.ais Analytik zeigt die Performance der Kampagnen-Inhalte. Kombinieren Sie diese mit Ihren Werbe-Plattformdaten fuer eine vollstaendige Kampagnenauswertung."]
+  - q: "Wie optimiere ich laufende Kampagnen?"
+    a: ["Analysieren Sie fruehe Performance-Daten in Bazam.ai und passen Sie die Inhalte basierend auf den Ergebnissen an. Bazam.ai erstellt optimierte Varianten in Minuten."]
+  - q: "Wie erstelle ich Retargeting-Texte?"
+    a: ["Bazam.ai erstellt Retargeting-Anzeigen fuer verschiedene Phasen der Customer Journey, von der Erinnerung bis zum finalen Konversionsanstoss."]
 ---

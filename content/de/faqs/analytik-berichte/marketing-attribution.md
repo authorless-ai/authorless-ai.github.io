@@ -1,35 +1,23 @@
 ---
-title: "Marketing-Attribution & Zielverfolgung"
-description: "Wie Sie Geschäftsergebnisse Content-Marketing-Bemühungen zuordnen und Fortschritt bei Marketingzielen verfolgen."
+title: "Marketing-Attribution"
+description: "Wie Sie den Beitrag Ihres Content-Marketings zum Geschaeftserfolg messen und zuordnen."
 faq:
-  - q: "Wie ordne ich Geschäftsergebnisse meinem Content-Marketing zu?"
-    a:
-      - "Verfolgen Sie die Kette: Content → Engagement → Traffic → Leads → Verkäufe. Bazam.ais Analytik deckt Content und Engagement ab. Kombinieren Sie mit Ihrer Website-Analytik und CRM für die vollständige Attribution."
   - q: "Was ist Marketing-Attribution?"
-    a:
-      - "Die Zuordnung von Geschäftsergebnissen zu spezifischen Marketing-Aktivitäten. Welcher Blogbeitrag hat den Lead gebracht? Welcher Social-Post den Website-Besuch? Bazam.ais Analytik zeigt Content-Performance als ersten Schritt der Attribution."
-  - q: "Wie setze ich Marketing-Ziele?"
-    a:
-      - "SMART-Ziele: spezifisch, messbar, erreichbar, relevant, terminiert. 'Engagement-Rate um 20 % in 3 Monaten steigern' statt 'mehr Engagement.' Bazam.ais Analytik misst Ihren Fortschritt."
-  - q: "Wie messe ich ob Content-Marketing Leads generiert?"
-    a:
-      - "Verfolgen Sie Link-Klicks aus Social-Posts und Blog-Content zu Ihren Landing Pages. Bazam.ais Analytik zeigt Klick-Daten. Kombinieren Sie mit Ihren Formular-Conversions für die Lead-Attribution."
-  - q: "Was ist ein Marketing-Trichter und wie messe ich ihn?"
-    a:
-      - "Awareness (Reichweite) → Interesse (Engagement) → Überlegung (Klicks) → Aktion (Conversions). Bazam.ais AIDA-Framework erstellt Content für jede Stufe; die Analytik zeigt Performance pro Stufe."
-  - q: "Wie rechtfertige ich Content-Marketing-Budget?"
-    a:
-      - "Zeigen Sie den ROI. Vergleichen Sie die Kosten von Bazam.ai mit traditioneller Content-Produktion (Freelancer, Agenturen), und zeigen Sie die messbaren Ergebnisse — Engagement, Reichweite, Traffic."
-  - q: "Wie verfolge ich Content-Marketing-KPIs?"
-    a:
-      - "Definieren Sie 3–5 Kern-KPIs (z.B. Engagement-Rate, Follower-Wachstum, Veröffentlichungsfrequenz). Überprüfen Sie monatlich in Bazam.ais Analytik ob Sie auf Kurs sind."
-  - q: "Wie messe ich Brand Awareness durch Content?"
-    a:
-      - "Reichweite, Impressionen und Follower-Wachstum sind die direktesten Indikatoren. Bazam.ais Analytik verfolgt alle drei über alle verbundenen Plattformen."
-  - q: "Wie setze ich realistische Content-Marketing-Ziele?"
-    a:
-      - "Basieren Sie auf Ihren aktuellen Zahlen. Wenn Ihre Engagement-Rate bei 2 % liegt, ist 2,5 % in 3 Monaten realistisch. Bazam.ais Analytik liefert Ihre Baseline-Daten für realistische Zielsetzung."
-  - q: "Wie berichte ich Zielerreichung an Stakeholder?"
-    a:
-      - "Einfacher Vergleich: Ziel vs. Ergebnis. Bazam.ais Trendansicht zeigt den Fortschritt visuell. Ergänzen Sie mit Kontext — was haben Sie getan, um die Ergebnisse zu erzielen."
+    a: ["Marketing-Attribution ordnet Geschaeftsergebnisse den Marketing-Aktivitaeten zu, die sie verursacht haben. Bazam.ais Analytik liefert die Content-Performance-Daten als eine Saeuele dieser Zuordnung."]
+  - q: "Wie messe ich den Geschaeftswert meines Contents?"
+    a: ["Kombinieren Sie die Performance-Daten aus Bazam.ai mit Ihren Geschaeftsmetriken wie Leads, Kunden und Umsatz. So sehen Sie, welcher Content den groessten Geschaeftswert generiert."]
+  - q: "Wie verbinde ich Content-Performance mit Umsatz?"
+    a: ["Verfolgen Sie den Weg vom Content-Engagement ueber Website-Besuche bis zum Kauf. Bazam.ais Analytik liefert den ersten Teil der Datenkette, Ihre Geschaeftsanalytik den Rest."]
+  - q: "Wie messe ich den ROI einzelner Content-Stuecke?"
+    a: ["Bazam.ais Analytik zeigt das Engagement pro Beitrag. Hochperformante Beitraege, die nachweislich Traffic und Leads generieren, haben den hoechsten einzelnen ROI."]
+  - q: "Wie bewerte ich verschiedene Content-Kanaele?"
+    a: ["Vergleichen Sie die kanalspezifischen Daten in Bazam.ais Analytik mit den Geschaeftsergebnissen pro Kanal. So identifizieren Sie die profitabelsten Kanaele fuer Ihr Content-Marketing."]
+  - q: "Wie erstelle ich einen Attribution-Bericht?"
+    a: ["Kombinieren Sie Bazam.ais Analytik-Daten mit Google Analytics und Ihren CRM-Daten. Dieser Multi-Touch-Ansatz liefert ein vollstaendigeres Bild der Content-Marketing-Wirkung."]
+  - q: "Wie nutze ich Attribution fuer Budgetentscheidungen?"
+    a: ["Die Attribution-Daten zeigen, welche Content-Aktivitaeten den hoechsten Geschaeftswert liefern. Investieren Sie Ihr Bazam.ai-Zeitbudget verstaerkt in diese Bereiche."]
+  - q: "Wie messe ich den Langzeitwert von Content?"
+    a: ["Evergreen-Content, der ueber Monate Traffic und Engagement generiert, hat den hoechsten Langzeitwert. Bazam.ais Analytik zeigt die fortlaufende Performance auch aelterer Beitraege."]
+  - q: "Wie praesentiere ich den Content-Marketing-ROI?"
+    a: ["Erstellen Sie aus den Bazam.ai-Daten und Ihren Geschaeftsmetriken eine klare ROI-Berechnung. Stellen Sie die Content-Marketing-Investition den generierten Geschaeftsergebnissen gegenueber."]
 ---

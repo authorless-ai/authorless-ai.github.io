@@ -1,25 +1,23 @@
 ---
-title: "E-Commerce E-Mail-Kampagnen"
-description: "Wie Sie effektive E-Mail-Kampagnen für Ihren Online-Shop erstellen — von Willkommensserien bis zu Warenkorbabbrecher-E-Mails."
+title: "E-Commerce-E-Mail-Kampagnen"
+description: "Wie Sie mit Bazam.ai wirkungsvolle E-Mail-Kampagnen fuer Ihren Online-Shop erstellen."
 faq:
-  - q: "Wie erstelle ich E-Mail-Kampagnen für meinen Online-Shop?"
-    a: ["Bazam.ais Agent schreibt E-Mail-Content — Betreffzeilen, Texte und CTAs. Nutzen Sie Ihre E-Mail-Plattform (Mailchimp etc.) für Automatisierung und Zustellung."]
-  - q: "Wie schreibe ich Willkommens-E-Mails?"
-    a: ["Bazam.ais Agent erstellt Willkommensserien — Markenvorstellung, Produkthighlights und Erstbestellanreize in Ihrer Markenstimme."]
-  - q: "Wie erstelle ich Warenkorbabbrecher-E-Mails?"
-    a: ["Bazam.ais Agent schreibt überzeugende Erinnerungstexte die zum Kaufabschluss motivieren — mit personalisierbaren Feldern."]
-  - q: "Wie erstelle ich Produktlaunch-E-Mails?"
-    a: ["Laden Sie Produktdetails in die Wissensdatenbank. Bazam.ais Agent erstellt Pre-Launch-Teaser, Launch-Ankündigungen und Follow-up-E-Mails."]
-  - q: "Welche E-Mail-Typen braucht ein Online-Shop?"
-    a: ["Willkommen, Warenkorbabbruch, Bestellbestätigung, Newsletter, Produktempfehlungen und Saisonale Angebote. Bazam.ai hilft bei jedem E-Mail-Typ."]
-  - q: "Wie schreibe ich Betreffzeilen die geöffnet werden?"
-    a: ["Spezifisch, nutzenbezogen, neugiererweckend. Bazam.ais Agent erstellt mehrere Betreffzeilen-Varianten zum Testen."]
-  - q: "Wie erstelle ich Angebots-E-Mails?"
-    a: ["Klar, direkt und mit Urgenz. Bazam.ais Agent erstellt Angebots-E-Mails die den Deal hervorheben und zum sofortigen Handeln motivieren."]
-  - q: "Wie oft sollte ich E-Commerce E-Mails senden?"
-    a: ["1–2 Mal pro Woche für Newsletter. Trigger-E-Mails (Warenkorbabbruch etc.) automatisch. Bazam.ai erstellt den Content, Ihre E-Mail-Plattform versendet."]
-  - q: "Wie messe ich E-Mail-Marketing-Erfolg?"
-    a: ["Öffnungsrate, Klickrate und Conversion-Rate. Bazam.ai hilft bei der Content-Qualität; Ihre E-Mail-Plattform liefert die Metriken."]
-  - q: "Wie personalisiere ich E-Commerce-E-Mails?"
-    a: ["Segmentieren Sie nach Kaufverhalten und Interessen. Bazam.ais Agent erstellt verschiedene E-Mail-Varianten für verschiedene Kundensegmente."]
+  - q: "Wie erstelle ich E-Commerce-E-Mail-Kampagnen mit Bazam.ai?"
+    a: ["Bazam.ai erstellt vollstaendige E-Mail-Kampagnen: Betreffzeilen, Vorschautext, Hauptinhalt und Handlungsaufforderungen. Jede Kampagne ist auf Konversion und Kundenbindung optimiert."]
+  - q: "Welche E-Mail-Typen brauche ich fuer E-Commerce?"
+    a: ["Willkommens-E-Mails, Warenkorb-Erinnerungen, Produktempfehlungen, Verkaufsaktionen und Nachkauf-E-Mails. Bazam.ai erstellt alle diese E-Mail-Typen professionell in Ihrer Markenstimme."]
+  - q: "Wie erstelle ich verkaufsstarke Betreffzeilen?"
+    a: ["Bazam.ai erstellt Betreffzeilen, die Neugier wecken und zum Oeffnen motivieren. Sie koennen mehrere Varianten generieren und die wirkungsvollste verwenden."]
+  - q: "Wie erstelle ich saisonale E-Mail-Kampagnen?"
+    a: ["Planen Sie saisonale Kampagnen in Bazam.ais Kalender und erstellen Sie alle E-Mails in einer Batch-Sitzung. So sind Ihre Kampagnen rechtzeitig fertig und aufeinander abgestimmt."]
+  - q: "Wie personalisiere ich E-Mail-Content?"
+    a: ["Bazam.ai erstellt E-Mail-Varianten fuer verschiedene Kundensegmente. Neukunden erhalten andere Inhalte als Stammkunden, angepasst an deren Phase in der Customer Journey."]
+  - q: "Wie erstelle ich eine Willkommensserie?"
+    a: ["Bazam.ai erstellt eine mehrteilige Willkommensserie, die neue Abonnenten schrittweise an Ihre Marke und Ihre Produkte heranfuehrt. Jede E-Mail baut auf der vorherigen auf."]
+  - q: "Wie optimiere ich E-Mail-Kampagnen fuer Konversion?"
+    a: ["Bazam.ai erstellt E-Mails mit klaren Kundenvorteilen, ueberzeugenden Handlungsaufforderungen und einem kaufmotivierenden Ton. Das Ergebnis sind E-Mails, die nicht nur geoeffnet, sondern auch geklickt werden."]
+  - q: "Wie erstelle ich A/B-Test-Varianten fuer E-Mails?"
+    a: ["Bazam.ai generiert mehrere Varianten von Betreffzeilen und E-Mail-Inhalten fuer Split-Tests, sodass Sie datenbasiert die effektivsten Versionen identifizieren koennen."]
+  - q: "Wie messe ich den Erfolg meiner E-Mail-Kampagnen?"
+    a: ["Verfolgen Sie Oeffnungsraten, Klickraten und den generierten Umsatz. Die Performance der begleitenden Social-Media-Posts koennen Sie in Bazam.ais Analytik analysieren."]
 ---

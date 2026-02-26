@@ -1,44 +1,23 @@
 ---
-title: "Pressemitteilungen & PR-Content"
-description: "Wie Sie effektive Pressemitteilungen und PR-Content erstellen — Schreiben, Verteilung und Aufbau von Medienbeziehungen durch Content."
+title: "Pressemitteilungen und PR-Content erstellen"
+description: "Wie Sie mit Bazam.ai professionelle Pressemitteilungen und PR-Material erstellen."
 faq:
-  - q: "Wie schreibe ich eine Pressemitteilung?"
-    a:
-      - "Umgekehrte Pyramide: Überschrift, Einleitungsabsatz mit der Kernnachricht, unterstützende Details, Zitate und Unternehmens-Boilerplate. Bazam.ais Pressemitteilungs-Assistent folgt dem Standard-Journalismus-Format."
-
-  - q: "Wann sollte ich eine Pressemitteilung schreiben?"
-    a:
-      - "Produktlaunches, Finanzierungsrunden, große Partnerschaften, Führungswechsel, Auszeichnungen und bedeutende Meilensteine. Laden Sie die Eventdetails in die Wissensdatenbank hoch und nutzen Sie Bazam.ais Assistenten."
-
-  - q: "Wie erstelle ich eine Pressemitteilung für einen Produktlaunch?"
-    a:
-      - "Führen Sie mit dem Kundennutzen, nicht mit Produktfeatures. Laden Sie Produktdetails und Zielmarktinformationen in die Wissensdatenbank hoch. Bazam.ai erstellt eine nachrichtenorientierte Mitteilung, die Journalisten direkt verwenden können."
-
-  - q: "Wie erstelle ich ein Medienkit für mein Unternehmen?"
-    a:
-      - "Unternehmensübersicht, Führungskräfte-Bios, Produkt-Factsheets, Marken-Assets und aktuelle Pressemitteilungen. Erstellen Sie jede Textkomponente mit Bazam.ais Assistenten aus Ihrer Wissensdatenbank."
-
-  - q: "Wie erstelle ich PR-Content, der mein SEO unterstützt?"
-    a:
-      - "Veröffentlichen Sie Pressemitteilungen auf der Newsroom-Seite Ihrer Website. Erstellen Sie unterstützende Blogbeiträge, die den Nachrichtenwinkel erweitern. Bazam.ai erstellt sowohl die Pressemitteilung als auch den unterstützenden Blog-Content."
-
-  - q: "Wie erstelle ich Krisenkommunikations-Content?"
-    a:
-      - "Schnell, transparent und faktenbasiert. Nutzen Sie Bazam.ais KI-Agenten für schnelle Reaktion — geben Sie die Fakten und die KI erstellt ein klares Statement. Definierte Stimmeinstellungen halten die Kommunikation auch unter Druck konsistent."
-
-  - q: "Wie schreibe ich einen Unternehmensblog-Post über Neuigkeiten?"
-    a:
-      - "Anderer Blickwinkel als die Pressemitteilung — mehr Storytelling, weniger Journalismus. Bazam.ais Blog-Assistent erstellt einen Begleit-Blogbeitrag, der die tiefere Geschichte hinter der Ankündigung erzählt."
-
-  - q: "Wie erstelle ich Zitate von Führungskräften für Pressemitteilungen?"
-    a:
-      - "Zitate sollten so klingen, als hätte die Person sie gesagt. Definieren Sie Führungskräfte-Stimmeinstellungen in Bazam.ai — ihren Kommunikationsstil, typische Phrasen und Ton."
-
-  - q: "Wie erstelle ich Social-Media-Content zur Unterstützung einer Pressemitteilung?"
-    a:
-      - "Teaser vorher, Ankündigung zum Launch und Verstärkung danach. Nutzen Sie Bazam.ais Social-Assistenten, um die volle Social-Kampagne rund um die Pressemitteilung zu erstellen."
-
-  - q: "Wie pflege ich einen Unternehmens-Newsroom?"
-    a:
-      - "Veröffentlichen Sie alle Ankündigungen, Pressemitteilungen und Unternehmensnachrichten in einem dedizierten Bereich. Erstellen Sie jedes Stück mit Bazam.ai und veröffentlichen Sie auf Ihrem Blog."
+  - q: "Wie erstelle ich eine Pressemitteilung mit Bazam.ai?"
+    a: ["Bazam.ai erstellt Pressemitteilungen im professionellen PR-Format: praeegnante Headline, informativer Lead, detaillierter Hintergrund und Unternehmensstammdaten. Das Ergebnis ist publikationsfertig."]
+  - q: "Wie erstelle ich PR-Content fuer Produktlaunches?"
+    a: ["Laden Sie die Produktdetails in Bazam.ais Wissensdatenbank. Bazam.ai erstellt daraus Pressemitteilungen, Medienfaktenblaetter und begleitende Social-Media-Posts fuer eine koordinierte Launch-Kommunikation."]
+  - q: "Kann Bazam.ai verschiedene PR-Formate erstellen?"
+    a: ["Bazam.ai erstellt Pressemitteilungen, Medienberichte, Unternehmensnachrichten, Event-Ankuendigungen und Stellungnahmen. Jedes Format folgt den spezifischen journalistischen Konventionen."]
+  - q: "Wie erstelle ich einen Medienverteiler-Text?"
+    a: ["Bazam.ai erstellt individuelle Anschreiben an Journalisten, die den Nachrichtenwert Ihrer Geschichte klar kommunizieren und auf die jeweilige Berichterstattungsschwerpunkte des Empfaengers eingehen."]
+  - q: "Wie erstelle ich einen Unternehmenssteckbrief?"
+    a: ["Laden Sie Ihre Unternehmensinformationen in Bazam.ais Wissensdatenbank. Bazam.ai erstellt einen professionellen Unternehmenssteckbrief mit allen relevanten Fakten und Kennzahlen."]
+  - q: "Wie erstelle ich Krisenkommunikation schnell?"
+    a: ["In Krisensituationen ist Geschwindigkeit entscheidend. Bazam.ai erstellt professionelle Stellungnahmen in Minuten, die Ihre Markenstimme beibehalten und die Situation sachlich und transparent kommunizieren."]
+  - q: "Wie passe ich PR-Content an verschiedene Medien an?"
+    a: ["Bazam.ai erstellt verschiedene Versionen fuer verschiedene Medien: formeller fuer Fachmedien, zugaenglicher fuer Verbrauchermedien und kompakter fuer Online-Magazine."]
+  - q: "Wie erstelle ich regelmaeessige Unternehmensnews?"
+    a: ["Nutzen Sie Bazam.ais Batch-Erstellung fuer monatliche oder quartalsweise Unternehmensnachrichten. Bazam.ai erstellt professionelle Updates basierend auf den Neuigkeiten in Ihrer Wissensdatenbank."]
+  - q: "Wie messe ich den Erfolg meiner PR-Aktivitaeten?"
+    a: ["Verfolgen Sie Medienerwaechnungen, Website-Traffic und Social-Media-Reichweite rund um Ihre PR-Veroeffentlichungen. Bazam.ais Analytik zeigt die Performance der begleitenden Social-Media-Aktivitaeten."]
 ---

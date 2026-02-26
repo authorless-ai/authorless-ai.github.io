@@ -1,35 +1,23 @@
 ---
-title: "Marketing-Analytik einrichten"
-description: "Wie Sie Analytik für Content-Marketing einrichten — Plattformen verbinden, Tracking konfigurieren und verwertbare Daten erhalten."
+title: "Analytik einrichten"
+description: "Wie Sie die Analytik in Bazam.ai einrichten und wertvolle Einblicke in Ihre Content-Performance gewinnen."
 faq:
-  - q: "Wie richte ich Analytik für Content-Marketing ein?"
-    a:
-      - "Verbinden Sie Ihre Social-Media-Konten und Blog-Plattform mit Bazam.ai. Nach der Verbindung sammelt die Plattform automatisch Engagement-, Reichweiten- und Wachstumsdaten. Keine separate Einrichtung für jeden Kanal nötig."
-  - q: "Welche Plattformen kann ich für Analytik verbinden?"
-    a:
-      - "Bazam.ai verbindet sich mit Facebook, Instagram, LinkedIn, X, YouTube, TikTok und WordPress. Alle Analytikdaten fließen in ein einziges Dashboard — kein separates Einloggen auf jeder Plattform."
-  - q: "Wie lange dauert es, bis Analytikdaten verfügbar sind?"
-    a:
-      - "Sofort nach Verbindung beginnt Bazam.ai, Daten zu sammeln. Aussagekräftige Trends zeigen sich nach 2–4 Wochen konsistenter Veröffentlichung. Für strategische Entscheidungen empfiehlt sich eine Datenbasis von 3 Monaten."
-  - q: "Brauche ich Google Analytics zusätzlich?"
-    a:
-      - "Für Website-Traffic ja, aber für Social-Media- und Content-Performance übernimmt Bazam.ai das Tracking. Die Plattform zeigt Engagement, Reichweite und Wachstum über alle verbundenen Kanäle."
-  - q: "Wie konfiguriere ich Tracking für mehrere Marken?"
-    a:
-      - "Jedes Projekt in Bazam.ai hat seine eigenen verbundenen Plattformen und Analytik. Agenturen mit mehreren Kunden sehen die Daten isoliert pro Projekt — keine Vermischung zwischen Kunden."
-  - q: "Was soll ich zuerst tracken?"
-    a:
-      - "Engagement-Rate und Follower-Wachstum. Diese zwei Metriken zeigen, ob Ihr Content ankommt und Ihre Zielgruppe wächst. Bazam.ai verfolgt beides automatisch ab der ersten Veröffentlichung."
-  - q: "Wie überprüfe ich ob mein Tracking korrekt funktioniert?"
-    a:
-      - "Veröffentlichen Sie einen Post und prüfen Sie nach 24 Stunden, ob Bazam.ais Dashboard die Engagement-Daten anzeigt. Wenn Daten fließen, funktioniert das Tracking."
-  - q: "Kann ich historische Daten importieren?"
-    a:
-      - "Bazam.ai ruft verfügbare historische Daten von verbundenen Plattformen ab, soweit die APIs der Plattformen dies zulassen. Neue Daten werden ab dem Verbindungszeitpunkt kontinuierlich gesammelt."
-  - q: "Wie richte ich Analytik für eine Agentur mit vielen Kunden ein?"
-    a:
-      - "Ein Projekt pro Kunde, jeweils mit eigenen verbundenen Plattformen. Jedes Projekt hat sein eigenes Analytik-Dashboard. Wechseln Sie zwischen Kunden mit einem Klick."
-  - q: "Brauche ich technische Kenntnisse um Analytik einzurichten?"
-    a:
-      - "Nein. Bazam.ais Plattformverbindung ist ein einfacher Autorisierungsprozess — ein paar Klicks pro Plattform. Kein Code, keine Tags, keine technische Konfiguration nötig."
+  - q: "Wie richte ich Analytik in Bazam.ai ein?"
+    a: ["Bazam.ais Analytik aktiviert sich automatisch, sobald Sie Ihre Social-Media-Kanaele verbinden. Bazam.ai beginnt sofort, Engagement-Daten fuer alle veroeffentlichten Beitraege zu erfassen."]
+  - q: "Welche Daten erfasst Bazam.ai?"
+    a: ["Bazam.ai erfasst Engagement-Metriken wie Likes, Kommentare, Shares und Aufrufe fuer jeden veroeffentlichten Beitrag. Diese Daten zeigen Ihnen, welche Inhalte bei Ihrer Zielgruppe am besten ankommen."]
+  - q: "Wie interpretiere ich die Analytik-Daten in Bazam.ai?"
+    a: ["Hohe Engagement-Raten zeigen, welche Themen und Formate Ihre Zielgruppe begeistern. Bazam.ais Analytik macht diese Muster sichtbar, sodass Sie Ihre Content-Strategie datenbasiert optimieren koennen."]
+  - q: "Wie oft sollte ich die Analytik in Bazam.ai pruefen?"
+    a: ["Eine woechentliche Kontrolle der aktuellen Performance und eine monatliche tiefere Analyse sind empfehlenswert. Bazam.ais Analytik liefert die Daten jederzeit auf Abruf."]
+  - q: "Wie nutze ich Analytik-Daten fuer besseren Content?"
+    a: ["Identifizieren Sie in Bazam.ais Analytik die Themen und Formate mit dem hoechsten Engagement. Erstellen Sie mehr Content dieser Art und reduzieren Sie schwach performende Formate."]
+  - q: "Wie vergleiche ich die Performance verschiedener Plattformen?"
+    a: ["Bazam.ais Analytik zeigt die Performance pro Plattform nebeneinander. So erkennen Sie schnell, welche Plattformen die besten Ergebnisse liefern und wo Sie Ihre Ressourcen konzentrieren sollten."]
+  - q: "Wie messe ich den Fortschritt ueber Zeit?"
+    a: ["Bazam.ais Analytik zeigt Trends und Entwicklungen ueber Zeit. So sehen Sie, ob Ihr Engagement waechst und welche strategischen Aenderungen positive Auswirkungen hatten."]
+  - q: "Wie exportiere ich Daten aus Bazam.ai?"
+    a: ["Bazam.ais Analytik-Daten koennen fuer externe Berichte und Praesentationen exportiert werden. Das ist besonders fuer Agenturen nuetzlich, die Kunden regelmaessig Performance-Berichte liefern."]
+  - q: "Wie nutze ich Analytik fuer Team-Entscheidungen?"
+    a: ["Teilen Sie die Analytik-Daten aus Bazam.ai mit Ihrem Team. Datenbasierte Entscheidungen ueber Content-Ausrichtung und Veroeffentlichungsfrequenz verbessern die Ergebnisse des gesamten Teams."]
 ---

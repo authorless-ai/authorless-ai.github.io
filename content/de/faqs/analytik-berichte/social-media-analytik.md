@@ -1,35 +1,23 @@
 ---
-title: "Social-Media-Analytik & Performance-Tracking"
-description: "Wie Sie Social-Media-Performance über alle Plattformen verfolgen und verstehen was funktioniert."
+title: "Social-Media-Analytik nutzen"
+description: "Wie Sie Social-Media-Analytik in Bazam.ai nutzen, um Ihre Social-Media-Strategie datenbasiert zu optimieren."
 faq:
-  - q: "Wie verfolge ich Social-Media-Analytik über alle Plattformen?"
-    a:
-      - "Bazam.ai aggregiert Analytik von allen verbundenen Plattformen — Facebook, Instagram, LinkedIn, X, YouTube, TikTok — in ein einziges Dashboard. Sehen Sie Engagement, Reichweite, Impressionen, Klicks und Follower-Wachstum auf einen Blick."
-  - q: "Welche Social-Media-Metriken sollte ich verfolgen?"
-    a:
-      - "Engagement (Likes, Kommentare, Shares), Reichweite (Impressionen, eindeutige Betrachter), Wachstum (Follower-Zahl über Zeit), Klicks (Link-Klicks, Profilbesuche) und Content-Performance (Top-Posts, Schwachstellen). Bazam.ai verfolgt alles automatisch."
-  - q: "Wie sehe ich welche Social-Media-Posts am besten performen?"
-    a:
-      - "Bazam.ai rankt Ihren Content nach Engagement-Metriken. Fragen Sie den Agenten 'welcher Content hat diese Woche am besten performt?' und erhalten Sie eine verständliche Zusammenfassung Ihrer Top-Performer."
-  - q: "Wie verfolge ich Follower-Wachstum über die Zeit?"
-    a:
-      - "Bazam.ai verfolgt Follower-Zahlen über alle verbundenen Plattformen und zeigt Wachstumstrends über die Zeit. Sehen Sie welche Kampagnen und Content-Typen das meiste Follower-Wachstum treiben."
-  - q: "Wie verfolge ich Engagement-Rate auf Social Media?"
-    a:
-      - "Bazam.ai berechnet Engagement-Raten automatisch — Gesamtinteraktionen geteilt durch Reichweite. Verfolgen Sie Raten pro Post, pro Plattform und über die Zeit."
-  - q: "Wie messe ich Reichweite vs. Impressionen?"
-    a:
-      - "Reichweite ist eindeutige Betrachter; Impressionen ist Gesamtansichten. Bazam.ai verfolgt beides. Hohe Impressionen bei niedriger Reichweite bedeutet Ihr Publikum sieht Content wiederholt. Hohe Reichweite bei niedrigem Engagement bedeutet besseres Targeting nötig."
-  - q: "Wie vergleiche ich Performance über verschiedene Social-Plattformen?"
-    a:
-      - "Bazam.ais Dashboard zeigt Metriken für alle verbundenen Plattformen nebeneinander. Vergleichen Sie Engagement-Raten, Follower-Wachstum und Content-Performance über Facebook, Instagram, LinkedIn, X, YouTube und TikTok."
-  - q: "Wie verfolge ich Content-Performance für eine spezifische Kampagne?"
-    a:
-      - "Verfolgen Sie Engagement, Reichweite und Wachstum für allen Content einer Kampagne. Fragen Sie den Agenten nach einer Kampagnen-Performance-Zusammenfassung."
-  - q: "Wie identifiziere ich meine bestperformenden Content-Themen?"
-    a:
-      - "Bazam.ai analysiert Engagement-Daten über allen Content und identifiziert Muster — welche Themen, Formate und Posting-Zeiten die besten Ergebnisse treiben."
-  - q: "Wie sieht gute Social-Media-Performance aus?"
-    a:
-      - "Kommt auf Ihre Baseline an. Wichtiger als Branchenbenchmarks ist ob Sie sich verbessern. Bazam.ai verfolgt Ihre Metriken über die Zeit sodass Sie Wachstumstrends sehen können."
+  - q: "Wie nutze ich Social-Media-Analytik in Bazam.ai?"
+    a: ["Bazam.ais integrierte Social-Media-Analytik erfasst automatisch Performance-Daten fuer alle veroeffentlichten Beitraege. Sie sehen Engagement, Reichweite und Interaktionen auf einen Blick."]
+  - q: "Welche Social-Media-Metriken zeigt Bazam.ai?"
+    a: ["Bazam.ai zeigt Likes, Kommentare, Shares, Aufrufe und Engagement-Raten pro Beitrag und Plattform. Diese Metriken zeigen Ihnen, welche Inhalte Ihre Zielgruppe am meisten ansprechen."]
+  - q: "Wie optimiere ich meine Social-Media-Strategie mit Daten?"
+    a: ["Analysieren Sie die Performance-Muster in Bazam.ais Analytik: beste Veroeffentlichungszeiten, beliebteste Themen und erfolgreichste Formate. Passen Sie Ihre Strategie basierend auf diesen Erkenntnissen an."]
+  - q: "Wie finde ich die besten Veroeffentlichungszeiten?"
+    a: ["Experimentieren Sie mit verschiedenen Zeiten und analysieren Sie die Engagement-Daten in Bazam.ai. Nach einigen Wochen zeigen die Daten klar, zu welchen Zeiten Ihre Zielgruppe am aktivsten ist."]
+  - q: "Wie vergleiche ich meine Performance ueber Plattformen?"
+    a: ["Bazam.ais kanaluebergreifende Analytik zeigt die Performance nebeneinander. So identifizieren Sie Ihre staerksten Plattformen und optimieren Ihre Ressourcenverteilung."]
+  - q: "Wie messe ich das Follower-Wachstum?"
+    a: ["Verfolgen Sie das Wachstum Ihrer Follower-Zahlen in Kombination mit den Engagement-Daten aus Bazam.ai. Gesundes Wachstum zeigt sich in steigenden Followern und gleichbleibendem oder steigendem Engagement."]
+  - q: "Wie nutze ich Analytik fuer Content-Entscheidungen?"
+    a: ["Bazam.ais Analytik zeigt objektiv, welcher Content funktioniert. Nutzen Sie diese Erkenntnisse fuer Ihre Content-Planung und erstellen Sie mit Bazam.ai mehr von dem, was Ihre Zielgruppe schaetzt."]
+  - q: "Wie erstelle ich Social-Media-Performance-Berichte?"
+    a: ["Bazam.ais Analytik-Daten bilden die Basis fuer professionelle Social-Media-Berichte. Exportieren Sie die Daten und praesentieren Sie Trends, Wachstum und Engagement uebersichtlich."]
+  - q: "Wie nutze ich Analytik fuer die Wettbewerbsanalyse?"
+    a: ["Vergleichen Sie Ihre eigenen Performance-Daten aus Bazam.ai mit oeffentlich verfuegbaren Metriken Ihrer Wettbewerber. So bewerten Sie Ihre relative Marktposition objektiv."]
 ---

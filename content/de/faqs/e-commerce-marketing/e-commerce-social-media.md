@@ -1,25 +1,23 @@
 ---
-title: "E-Commerce Social Media"
-description: "Wie Sie Social Media für Ihren Online-Shop nutzen — Strategien, Plattformen und Content-Typen."
+title: "E-Commerce und Social Media"
+description: "Wie Sie Social Media fuer Ihren Online-Shop nutzen und mit Bazam.ai verkaufsstarken Social-Content erstellen."
 faq:
-  - q: "Welche Social-Plattformen sind am besten für E-Commerce?"
-    a: ["Instagram für visuelle Produkte, TikTok für Trend-Produkte, Facebook für Community, Pinterest für Inspiration. Bazam.ai veröffentlicht auf allen."]
-  - q: "Wie erstelle ich Social-Content für meinen Shop?"
-    a: ["Bazam.ais Agent erstellt Produktpräsentationen, Lifestyle-Content, Kundenstories und Angebotsposts in Ihrer Markenstimme."]
-  - q: "Wie nutze ich Instagram Shopping?"
-    a: ["Erstellen Sie shoppable Posts und Stories. Bazam.ais Agent schreibt die begleitenden Captions und Beschreibungen."]
-  - q: "Wie erstelle ich TikTok-Content für E-Commerce?"
-    a: ["Bazam.ais Agent schreibt Kurzform-Video-Skripte für Produktvorstellungen, Unboxings und Nutzungstipps — mit starkem Hook in den ersten 3 Sekunden."]
-  - q: "Wie erstelle ich Facebook-Anzeigen?"
-    a: ["Bazam.ais Agent schreibt überzeugende Anzeigentexte mit verschiedenen Hooks für A/B-Tests. Nutzen Sie Facebook Ads Manager für die Schaltung."]
-  - q: "Wie baue ich eine Community um meinen Shop?"
-    a: ["Regelmäßiger, wertvoller Content über Produkte hinaus. Bazam.ais Agent erstellt Community-Content — Tipps, Diskussionsstarter, Behind-the-Scenes."]
-  - q: "Wie nutze ich Social Proof auf Social Media?"
-    a: ["Teilen Sie Kundenbewertungen, Testimonials und User-Generated Content. Bazam.ais Agent verwandelt Kundenfeedback in professionelle Social-Posts."]
-  - q: "Wie plane ich Social-Content rund um Verkaufsperioden?"
-    a: ["Bazam.ais Kalender + Agent: Erstellen Sie saisonale Kampagnen Wochen im Voraus. Content erscheint automatisch zum richtigen Zeitpunkt."]
-  - q: "Wie messe ich Social-Media-ROI für E-Commerce?"
-    a: ["Verfolgen Sie Engagement → Link-Klicks → Shop-Besuche → Käufe. Bazam.ais Analytik zeigt Engagement; Ihr Shop-Analytics zeigt Konversionen."]
-  - q: "Wie integriere ich organischen und bezahlten Social Content?"
-    a: ["Organisch für Markenaufbau, bezahlt für Konversion. Bazam.ais Agent erstellt Content für beide Zwecke. Testen Sie organisch was funktioniert, dann boosten Sie es."]
+  - q: "Wie nutze ich Social Media fuer meinen Online-Shop?"
+    a: ["Bazam.ai erstellt verkaufsstarke Social-Media-Beitraege, die Ihre Produkte ansprechend praesentieren und Traffic zu Ihrem Shop leiten. Jeder Post ist plattformspezifisch optimiert."]
+  - q: "Welche Social-Media-Plattformen eignen sich fuer E-Commerce?"
+    a: ["Instagram und Facebook fuer visuelle Produktpraesentation, Pinterest fuer Inspirations-Content und LinkedIn fuer B2B-E-Commerce. Bazam.ai erstellt Content fuer alle diese Plattformen."]
+  - q: "Wie erstelle ich Shopping-Posts mit Bazam.ai?"
+    a: ["Bazam.ai erstellt ansprechende Produktbeschreibungen und Captions fuer Shopping-Posts. Die Texte heben Kundenvorteile hervor und motivieren zum Kauf, ohne aufdringlich zu wirken."]
+  - q: "Wie erstelle ich User-Generated-Content-Kampagnen?"
+    a: ["Bazam.ai erstellt Kampagnen-Texte, die Kunden zum Teilen eigener Inhalte einladen: Hashtag-Kampagnen, Fotowettbewerbe und Testimonial-Aufrufe."]
+  - q: "Wie erstelle ich saisonale Social-Media-Kampagnen fuer meinen Shop?"
+    a: ["Planen Sie saisonale Verkaufsaktionen in Bazam.ais Kalender. Bazam.ai erstellt alle Social-Media-Inhalte fuer die Kampagne in einer Batch-Sitzung vor dem Starttermin."]
+  - q: "Wie nutze ich Social Media fuer Kundenbindung?"
+    a: ["Bazam.ai erstellt Community-Content wie Styling-Tipps, Pflegeanleitungen und Behind-the-Scenes-Einblicke. Dieser Content baut eine loyale Community rund um Ihren Shop auf."]
+  - q: "Wie messe ich den Social-Media-ROI fuer E-Commerce?"
+    a: ["Verfolgen Sie Traffic und Konversionen von Social Media. Bazam.ais Analytik zeigt das Engagement pro Beitrag und hilft Ihnen, die erfolgreichsten Social-Media-Inhalte zu identifizieren."]
+  - q: "Wie erstelle ich Influencer-Kooperations-Content?"
+    a: ["Bazam.ai erstellt Briefings und Kooperationsvorschlaege fuer E-Commerce-Influencer-Kampagnen. Professionelle Materialien erhoehen die Wahrscheinlichkeit erfolgreicher Partnerschaften."]
+  - q: "Wie skaliere ich Social-Media-Marketing fuer meinen Shop?"
+    a: ["Bazam.ais Batch-Erstellung und automatische Veroeffentlichung ermoeglich eine hoehere Posting-Frequenz. Mehr qualitativ hochwertiger Social-Content bedeutet mehr Sichtbarkeit und Traffic."]
 ---
