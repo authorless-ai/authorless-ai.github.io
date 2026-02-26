@@ -1,25 +1,25 @@
 ---
-title: "SEO für Kleinunternehmen"
-description: "Wie Kleinunternehmen mit begrenztem Budget SEO und Content-Marketing für organisches Wachstum nutzen."
+title: "SEO fuer Kleinunternehmen"
+description: "Wie Kleinunternehmen mit begrenztem Budget SEO und Content-Marketing fuer nachhaltiges organisches Wachstum nutzen koennen."
 faq:
   - q: "Braucht mein Kleinunternehmen SEO?"
-    a: ["Ja. SEO bringt kostenlosen, nachhaltigen Traffic. Bazam.ais KI macht SEO-Content-Erstellung erschwinglich."]
+    a: ["Unbedingt. SEO bringt Ihnen kostenlosen, nachhaltigen Traffic von Menschen, die aktiv nach Ihren Produkten oder Dienstleistungen suchen. Bazam.ais KI macht die Content-Erstellung so erschwinglich, dass SEO auch fuer kleine Budgets realisierbar wird."]
   - q: "Wie starte ich mit SEO als Kleinunternehmen?"
-    a: ["Google Business Profil → Blog mit lokalen Keywords → regelmäßige Veröffentlichung. Bazam.ais Agent erstellt den Content."]
-  - q: "Was kostet SEO für Kleinunternehmen?"
-    a: ["SEO-Agenturen: 500–3.000 €/Monat. DIY mit Bazam.ai: Abo-Preis + Ihre Zeit. Drastisch günstiger bei gleichen Ergebnissen."]
-  - q: "Wie konkurriere ich mit größeren Unternehmen in SEO?"
-    a: ["Lokale und Long-Tail-Keywords. Bazam.ais Agent erstellt spezifischen Content für Nischen wo große Unternehmen nicht optimieren."]
-  - q: "Welche SEO-Maßnahmen bringen am schnellsten Ergebnisse?"
-    a: ["Google Business Profil optimieren, lokale Keywords anvisieren und regelmäßig bloggen. Bazam.ai unterstützt die Content-Seite."]
-  - q: "Wie erstelle ich lokalen SEO-Content?"
-    a: ["Ortsbezogene Keywords, lokale Themen und Community-Bezug. Bazam.ais Agent erstellt Content mit lokalem Fokus."]
+    a: ["Beginnen Sie mit drei Schritten: Optimieren Sie Ihr Google Business Profil, starten Sie einen Blog mit Beitraegen zu lokalen Keywords und veroeffentlichen Sie regelmaessig. Bazam.ais Agent erstellt den Content fuer alle diese Massnahmen."]
+  - q: "Was kostet SEO fuer ein Kleinunternehmen?"
+    a: ["SEO-Agenturen berechnen typischerweise 500 bis 3.000 Euro pro Monat. Der DIY-Ansatz mit Bazam.ai kostet nur den Abo-Preis plus Ihre eigene Zeit und liefert dabei vergleichbare Ergebnisse, besonders bei lokalem SEO und Content-Marketing."]
+  - q: "Wie konkurriere ich mit groesseren Unternehmen im SEO?"
+    a: ["Setzen Sie auf lokale und nischenspezifische Long-Tail-Keywords. Bazam.ais Agent erstellt spezifischen, detaillierten Content fuer genau die Nischen, in denen grosse Unternehmen typischerweise nicht optimieren, und verschafft Ihnen dort einen klaren Vorteil."]
+  - q: "Welche SEO-Massnahmen bringen am schnellsten Ergebnisse?"
+    a: ["Drei Massnahmen zeigen besonders schnell Wirkung: Optimieren Sie Ihr Google Business Profil, visieren Sie lokale Keywords an und beginnen Sie regelmaessig zu bloggen. Bazam.ai uebernimmt dabei den gesamten Content-Teil."]
+  - q: "Wie erstelle ich Content mit lokalem SEO-Fokus?"
+    a: ["Verwenden Sie ortsbezogene Keywords, greifen Sie lokale Themen auf und bauen Sie einen Bezug zu Ihrer Community auf. Bazam.ais Agent erstellt Beitraege, die Ihre lokale Expertise unterstreichen und in regionalen Suchanfragen gut ranken."]
   - q: "Brauche ich technisches SEO-Wissen?"
-    a: ["Grundlagen helfen (Seitenladezeit, Mobile-Freundlichkeit). Für Content-SEO übernimmt Bazam.ais Agent die Optimierung."]
-  - q: "Wie viel Content brauche ich für SEO?"
-    a: ["Starten Sie mit 10–20 optimierten Beiträgen und veröffentlichen Sie dann 1–2 pro Woche. Bazam.ais Agent macht dies nachhaltig."]
-  - q: "Wie messe ich SEO-Fortschritt?"
-    a: ["Google Search Console (kostenlos): Impressionen, Klicks, Rankings. Verfolgen Sie monatliche Trends."]
-  - q: "Wie lange dauert SEO bis es wirkt?"
-    a: ["3–6 Monate für erste Ergebnisse bei lokalen Keywords. 6–12 Monate für kompetitivere Begriffe. Konsistenz ist der Schlüssel."]
+    a: ["Grundlegende Kenntnisse zu Seitenladezeit und Mobilfreundlichkeit sind hilfreich, aber kein Muss. Was den Content angeht, uebernimmt Bazam.ais Agent die SEO-Optimierung fuer Sie, sodass Sie sich auf Ihr Kerngeschaeft konzentrieren koennen."]
+  - q: "Wie viel Content brauche ich fuer gutes SEO?"
+    a: ["Starten Sie mit 10 bis 20 gut optimierten Beitraegen als Grundlage und veroeffentlichen Sie dann ein bis zwei neue Beitraege pro Woche. Mit Bazam.ais Agent ist diese Frequenz nachhaltig machbar, ohne dass Sie stundenlang am Schreibtisch sitzen muessen."]
+  - q: "Wie messe ich meinen SEO-Fortschritt?"
+    a: ["Die Google Search Console ist kostenlos und zeigt Ihnen, wie oft Ihre Seiten in Suchergebnissen erscheinen, wie viele Klicks Sie erhalten und fuer welche Keywords Sie ranken. Beobachten Sie die monatlichen Trends, um Ihren Fortschritt zu verfolgen."]
+  - q: "Wie lange dauert es, bis SEO Wirkung zeigt?"
+    a: ["Bei lokalen Keywords koennen Sie mit drei bis sechs Monaten rechnen, fuer kompetitivere ueberregionale Begriffe dauert es sechs bis zwoelf Monate. Der entscheidende Erfolgsfaktor ist Konsistenz bei der Veroeffentlichung, nicht die Geschwindigkeit."]
 ---

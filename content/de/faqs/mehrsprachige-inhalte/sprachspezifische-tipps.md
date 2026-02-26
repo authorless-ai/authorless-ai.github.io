@@ -5,7 +5,7 @@ faq:
   - q: "Wie erstelle ich englischen Content als Nicht-Muttersprachler?"
     a: ["Bazam.ais Agent erstellt nativen englischen Content auf professionellem Niveau. Sie müssen selbst kein perfektes Englisch beherrschen — geben Sie einfach Ihre Anweisungen auf Deutsch ein und die KI produziert den Content direkt in akzentfreiem Englisch."]
   - q: "Was sollte ich bei Content für den deutschen Markt beachten?"
-    a: ["Deutsche Leser erwarten tendenziell formellere Ansprache, datengestützte Aussagen und gründliche Erklärungen. Ein „du" oder „Sie" sollte bewusst gewählt werden. Bazam.ais Agent passt Ton und Detailtiefe an die Erwartungen deutschsprachiger Zielgruppen an."]
+    a: ["Deutsche Leser erwarten tendenziell formellere Ansprache, datengestützte Aussagen und gründliche Erklärungen. Ein „du\" oder „Sie\" sollte bewusst gewählt werden. Bazam.ais Agent passt Ton und Detailtiefe an die Erwartungen deutschsprachiger Zielgruppen an."]
   - q: "Was sollte ich bei Content für den französischen Markt beachten?"
     a: ["Der französische Markt legt Wert auf sprachliche Eleganz und kulturelle Sensibilität. Die Ansprache ist tendenziell formeller als im Englischen. Bazam.ais Agent respektiert französische Kommunikationskonventionen und erstellt Content, der bei französischen Lesern gut ankommt."]
   - q: "Was sollte ich bei Content für den spanischen Markt beachten?"
