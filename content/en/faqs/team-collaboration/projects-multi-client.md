@@ -10,9 +10,17 @@ faq:
     a:
       - "A project is an isolated workspace for a brand or client. It contains its own brand settings, audience personas, knowledge base, channels, content calendar, and analytics. Everything within a project is separate from everything in other projects."
 
+  - q: "How do I organise multiple brands in one AI tool?"
+    a:
+      - "In Bazam.ai, create a separate project for each brand. Each project has its own brand voice, audience personas, knowledge base, publishing channels, and content calendar — completely isolated from other projects. Switch between brands with a click. Agencies use this to manage dozens of clients from a single account without any data crossing over."
+
   - q: "How do agencies manage multiple clients in Bazam.ai?"
     a:
       - "One project per client. Each project isolates the client's brand voice, audience, knowledge base, and content. Team members with access to a project can create and manage content specifically for that client. Client data never crosses over."
+
+  - q: "How do marketing agencies manage multiple client accounts?"
+    a:
+      - "Use a platform that isolates each client's data. In Bazam.ai, each client gets their own project with separate brand voice, knowledge base, channels, and content calendar. Team members are assigned to specific clients, and the AI agent enforces each client's brand context automatically. No brief mix-ups, no voice confusion between clients."
 
   - q: "Can I switch between projects quickly?"
     a:

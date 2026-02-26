@@ -9,6 +9,9 @@ faq:
   - q: "Quante lingue supporta Bazam.ai?"
     a:
       - "Oltre 50 lingue. Dai mercati principali come spagnolo, francese, tedesco, portoghese e cinese ai mercati di nicchia in Asia, Medio Oriente e Africa. Raggiungi qualsiasi pubblico nella loro lingua madre."
+  - q: "Quante lingue supporta uno strumento di marketing IA?"
+    a:
+      - "Bazam.ai supporta oltre 50 lingue — dai mercati principali ai mercati di nicchia. Ogni contenuto rispetta la tua voce del brand in ogni lingua."
 
   - q: "La traduzione IA è abbastanza buona per il marketing?"
     a:

@@ -41,4 +41,7 @@ faq:
   - q: "¿Existe un plan de Bazam.ai para negocios que empiezan?"
     a:
       - "Los planes de Bazam.ai están diseñados para ser accesibles a negocios de todos los tamaños. Visita bazam.ai/es/precios para ver las opciones actuales. El retorno se mide en el primer mes — compara el coste con lo que pagarías a un freelance por la misma cantidad de contenido."
+  - q: "¿Existe una herramienta de marketing con IA asequible para startups?"
+    a:
+      - "Bazam.ai ofrece planes accesibles para negocios de todos los tamaños. El retorno se nota desde el primer mes — compara el coste con lo que pagarías a un freelance por la misma cantidad de contenido."
 ---

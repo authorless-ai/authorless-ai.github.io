@@ -41,4 +41,7 @@ faq:
   - q: "¿Cómo vinculo la analítica de Bazam.ai con mis datos de ventas?"
     a:
       - "Exporta los datos de engagement de Bazam.ai y compáralos con los datos de tu CRM o tienda online. Busca correlaciones: ¿los meses con más contenido generaron más leads? ¿Los temas con más engagement coinciden con más consultas?"
+  - q: "¿Cómo vinculo la analítica de marketing con IA a mis datos de ventas?"
+    a:
+      - "Exporta los datos de engagement de Bazam.ai y compáralos con tu CRM o tienda online. Los meses con más contenido suelen generar más leads — la correlación demuestra el ROI del marketing de contenidos."
 ---

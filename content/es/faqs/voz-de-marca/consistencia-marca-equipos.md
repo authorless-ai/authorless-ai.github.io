@@ -14,6 +14,9 @@ faq:
   - q: "¿Necesito una guía de estilo escrita además de Bazam.ai?"
     a:
       - "Bazam.ai ES tu guía de estilo — pero aplicada automáticamente. Si quieres documentar tus directrices por separado, puedes hacerlo. Pero la ventaja de Bazam.ai es que el estilo se aplica sin que nadie tenga que consultarlo."
+  - q: "¿Necesito una guía de estilo escrita además de una herramienta de IA?"
+    a:
+      - "En Bazam.ai, la configuración de voz de marca ES tu guía de estilo aplicada automáticamente. Si quieres documentar directrices por separado, puedes. Pero la ventaja es que el estilo se aplica sin que nadie tenga que consultarlo."
   - q: "¿Cómo gestiono la consistencia para múltiples marcas?"
     a:
       - "Cada proyecto tiene su propia voz. Los miembros asignados a cada proyecto crean contenido con la voz de ese proyecto automáticamente. Sin confusiones entre marcas."

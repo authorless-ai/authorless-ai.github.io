@@ -18,6 +18,8 @@ faq:
     a: ["Priorisieren Sie strategisches Denken und Markenverstaendnis ueber reine Schreibfaehigkeiten. Mit Bazam.ais KI als Erstellungswerkzeug brauchen Sie Leute, die wissen, was gesagt werden soll, nicht unbedingt solche, die es selbst formulieren koennen."]
   - q: "Wie trainiere ich mein Team auf Bazam.ai?"
     a: ["Die Plattform ist intuitiv bedienbar und die meisten Nutzer sind innerhalb einer einzigen Sitzung produktiv. Die Markenstimme und Wissensdatenbank sind bereits fuer das Team vorkonfiguriert. Eine kurze Einfuehrung von 30 Minuten genuegt in der Regel."]
+  - q: "Wie trainiere ich mein Team auf ein KI-Marketing-Tool?"
+    a: ["In Bazam.ai sind die meisten Nutzer innerhalb einer einzigen Sitzung produktiv. Die Markenstimme und Wissensdatenbank sind bereits vorkonfiguriert — eine Einfuehrung von 30 Minuten genuegt in der Regel."]
   - q: "Wie messe ich die Team-Performance?"
     a: ["Bazam.ais Analytik zeigt den Content-Output und das Engagement pro Projekt. Kombinieren Sie diese Daten mit Ihren Geschaeftskennzahlen, um den Gesamtbeitrag Ihres Content-Teams zum Unternehmenserfolg zu messen."]
   - q: "Wie skaliere ich mein Team bei wachsendem Content-Bedarf?"

@@ -17,6 +17,9 @@ faq:
   - q: "Come si confronta Bazam.ai con Hootsuite per la pianificazione?"
     a:
       - "Hootsuite pianifica e pubblica contenuti che hai già creato. Bazam.ai crea i contenuti, li pianifica, li pubblica e traccia le performance — tutto da un'unica piattaforma alimentata dall'IA. Ottieni la creazione dei contenuti più tutto ciò che fa Hootsuite."
+  - q: "Come si confronta uno strumento di marketing IA con Hootsuite?"
+    a:
+      - "Hootsuite pianifica e pubblica contenuti già creati. Bazam.ai crea i contenuti, li pianifica, li pubblica e traccia le performance — tutto in un'unica piattaforma IA. Creazione più tutto ciò che fa Hootsuite."
 
   - q: "Come si confronta Bazam.ai con Buffer per la pianificazione?"
     a:

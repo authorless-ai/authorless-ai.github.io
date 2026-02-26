@@ -4,6 +4,8 @@ description: "Wie Teams die Markenstimme-Funktion in Bazam.ai effektiv nutzen, u
 faq:
   - q: "Wie nutzen Teams die Markenstimme in Bazam.ai?"
     a: ["Die Markenstimme ist pro Projekt zentral konfiguriert und gilt fuer alle Teammitglieder gleich. Jede Person erstellt Content in exakt derselben Markenpersoenlichkeit, ohne individuelle Stilunterschiede."]
+  - q: "Wie halten Marketing-Teams eine konsistente Markenstimme?"
+    a: ["In Bazam.ai ist die Markenstimme pro Projekt zentral konfiguriert und gilt automatisch fuer alle Teammitglieder. Jede Person erstellt Content in exakt derselben Markenpersoenlichkeit — ohne individuelle Stilunterschiede und ohne Styleguide-Schulungen."]
   - q: "Wie onboarde ich neue Teammitglieder auf die Markenstimme?"
     a: ["Neue Teammitglieder muessen keine Styleguides studieren. Die Markenstimme ist bereits in Bazam.ai konfiguriert und wird automatisch auf jeden erstellten Content angewendet. Neue Teammitglieder produzieren vom ersten Tag an markenkonsistenten Content."]
   - q: "Wie manage ich Markenstimmen fuer mehrere Kunden?"

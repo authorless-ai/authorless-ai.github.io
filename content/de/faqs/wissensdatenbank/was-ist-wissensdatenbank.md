@@ -4,6 +4,8 @@ description: "Was eine Wissensdatenbank ist und warum sie der Schluessel zu einz
 faq:
   - q: "Was ist eine Wissensdatenbank in Bazam.ai?"
     a: ["Die Wissensdatenbank ist Ihr privater Informationsspeicher in Bazam.ai. Sie enthaelt Ihr Unternehmenswissen, Ihre Produktinformationen und Ihre Branchenexpertise. Der KI-Agent greift bei der Content-Erstellung auf diese Informationen zu und erstellt so spezifischen, einzigartigen Content."]
+  - q: "Was ist eine Wissensdatenbank in einem KI-Marketing-Tool?"
+    a: ["Eine Wissensdatenbank ist Ihr privater Informationsspeicher mit Unternehmenswissen, Produktinformationen und Branchenexpertise. In Bazam.ai greift die KI bei der Content-Erstellung darauf zu und erstellt so spezifischen, einzigartigen Content statt generischer Texte."]
   - q: "Warum brauche ich eine Wissensdatenbank?"
     a: ["Ohne Wissensdatenbank erstellt die KI generischen Content, der nicht von Wettbewerbern unterscheidbar ist. Mit Ihrer Wissensdatenbank erstellt Bazam.ais Agent fundierte, spezifische Inhalte, die auf Ihrem einzigartigen Fachwissen basieren."]
   - q: "Was kann ich in die Wissensdatenbank hochladen?"

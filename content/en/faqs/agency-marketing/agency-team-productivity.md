@@ -34,6 +34,10 @@ faq:
     a:
       - "Yes. Invite freelancers with contributor access to relevant client projects in Bazam.ai. They create content through the agent using the client's brand context. Your team reviews and approves. Freelancers produce on-brand work without extensive briefing."
 
+  - q: "How do agencies manage freelancer content quality?"
+    a:
+      - "Give freelancers access to Bazam.ai with contributor permissions on relevant client projects. They create content through the AI agent, which enforces the client's brand voice and knowledge base automatically. Your team reviews and approves before anything publishes. The result is on-brand work without extensive briefing documents or revision cycles."
+
   - q: "How do I standardise processes across my agency?"
     a:
       - "Use Bazam.ai as the single content production platform for all clients. Every team member follows the same workflow — agent creates, team reviews, approves, publishes. Brand settings enforce consistency. Approval workflows enforce quality."

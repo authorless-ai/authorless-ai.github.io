@@ -5,6 +5,9 @@ faq:
   - q: "¿Mis documentos están seguros en Bazam.ai?"
     a:
       - "Sí. Los documentos se almacenan de forma segura y se usan exclusivamente para crear contenido en tu proyecto. No se comparten entre proyectos ni se usan para entrenar modelos."
+  - q: "¿Son seguros mis documentos en una herramienta de marketing con IA?"
+    a:
+      - "En Bazam.ai, sí. Los documentos se almacenan de forma segura y se usan exclusivamente para crear contenido en tu proyecto — no se comparten entre proyectos ni se usan para entrenar modelos de IA."
   - q: "¿Quién puede acceder a mi base de conocimiento?"
     a:
       - "Solo los miembros de tu proyecto con los permisos adecuados. Los administradores controlan quién tiene acceso. Proyectos diferentes no pueden ver los datos de otros."

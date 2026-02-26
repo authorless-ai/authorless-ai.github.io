@@ -16,6 +16,8 @@ faq:
     a: ["Bepreisen Sie den Wert und die Ergebnisse, nicht den Zeitaufwand. KI-gestuetzte Effizienz bedeutet bessere Margen fuer Ihre Agentur, da Sie schneller liefern und gleichzeitig hohe Qualitaet bieten koennen."]
   - q: "Wie trainiere ich mein Agenturteam auf Bazam.ai?"
     a: ["Die Plattform ist intuitiv bedienbar. Die meisten Teammitglieder sind innerhalb einer einzigen kurzen Schulung produktiv. Wesentlich ist, dass die Kundenprofile und Markeneinstellungen sorgfaeltig konfiguriert werden."]
+  - q: "Wie trainiere ich mein Agenturteam auf ein KI-Marketing-Tool?"
+    a: ["Die meisten Teammitglieder sind innerhalb einer einzigen kurzen Schulung produktiv. In Bazam.ai ist wesentlich, dass die Kundenprofile und Markeneinstellungen sorgfaeltig konfiguriert werden — der Rest ist intuitiv."]
   - q: "Wie manage ich die Kapazitaetsplanung?"
     a: ["Bazam.ais Kalenderansicht zeigt den Content-Bedarf ueber alle Kunden auf einen Blick. So koennen Sie Kapazitaeten frühzeitig planen und Engpaesse vermeiden, bevor sie entstehen."]
   - q: "Wie differenziere ich meine Agentur durch KI?"

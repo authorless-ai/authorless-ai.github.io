@@ -6,6 +6,8 @@ faq:
     a: ["Definieren Sie Ihre Ziele, konfigurieren Sie Ihre Markenstimme in Bazam.ai, fuellen Sie die Wissensdatenbank und erstellen Sie einen Content-Kalender. Bazam.ai uebernimmt dann die Ausfuehrung Ihrer Strategie."]
   - q: "Wie integriere ich Bazam.ai in meine bestehende Marketing-Strategie?"
     a: ["Bazam.ai ersetzt nicht Ihre Strategie, sondern macht ihre Umsetzung effizienter. Ihre strategischen Entscheidungen bleiben bei Ihnen, Bazam.ai beschleunigt die Ausfuehrung dramatisch."]
+  - q: "Wie integriere ich KI in meine bestehende Marketing-Strategie?"
+    a: ["KI ersetzt nicht Ihre Strategie, sondern macht die Umsetzung effizienter. In Bazam.ai bleiben Ihre strategischen Entscheidungen bei Ihnen — die KI beschleunigt die Ausfuehrung von der Content-Erstellung bis zur Veroeffentlichung dramatisch."]
   - q: "Wie plane ich eine Content-Strategie mit Bazam.ai?"
     a: ["Bazam.ais Content-Vorschlaege, Kalender und Batch-Erstellung unterstuetzen jeden Schritt: von der Ideenfindung ueber die thematische Planung bis zur regelmaessigen Veroeffentlichung."]
   - q: "Wie messe ich den Erfolg meiner KI-Strategie?"

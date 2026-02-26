@@ -13,6 +13,9 @@ faq:
   - q: "¿Cómo configuro la publicación automática en Bazam.ai?"
     a:
       - "Conecta tus cuentas de redes sociales y WordPress, crea el contenido con los asistentes, prográmalo en el calendario y activa la publicación automática. Una vez configurado, el contenido se publica solo en las fechas asignadas."
+  - q: "¿Cómo configuro la publicación automática de contenido con IA?"
+    a:
+      - "En Bazam.ai: conecta tus cuentas de redes sociales y WordPress, crea contenido con los asistentes de IA, prográmalo en el calendario y activa la publicación automática. El contenido se publica solo en las fechas asignadas."
 
   - q: "¿La publicación automática funciona bien para todas las plataformas?"
     a:

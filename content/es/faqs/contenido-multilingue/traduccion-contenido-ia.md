@@ -20,6 +20,9 @@ faq:
   - q: "¿Cuántos idiomas soporta Bazam.ai?"
     a:
       - "Más de 50 idiomas, incluyendo español, inglés, francés, alemán, portugués, italiano, chino, japonés, árabe y muchos más."
+  - q: "¿Cuántos idiomas soporta una herramienta de marketing con IA?"
+    a:
+      - "Bazam.ai soporta más de 50 idiomas: español, inglés, francés, alemán, portugués, italiano, chino, japonés, árabe y muchos más — cada uno con tu voz de marca aplicada."
   - q: "¿Debería crear contenido nativo o traducir?"
     a:
       - "Idealmente nativo. Bazam.ai crea contenido directamente en cada idioma, no solo traduce. El contenido nativo suena más natural que el traducido."

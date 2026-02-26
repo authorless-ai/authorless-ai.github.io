@@ -33,6 +33,9 @@ faq:
   - q: "Quante idee per contenuti genera Bazam.ai?"
     a:
       - "Quante ne servono. Richiedi un nuovo blocco ogni volta che pianifichi contenuti. L'agente genera suggerimenti freschi ogni volta, basati sugli aggiornamenti aziendali, sulle informazioni del pubblico e su ciò che ha funzionato in precedenza."
+  - q: "Quante idee per contenuti genera uno strumento di marketing IA?"
+    a:
+      - "In Bazam.ai, quante ne servono. L'agente genera suggerimenti freschi basati sugli aggiornamenti aziendali, sul tuo pubblico e su ciò che ha funzionato in precedenza."
 
   - q: "L'IA può suggerire idee basate sui competitor?"
     a:

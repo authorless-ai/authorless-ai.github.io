@@ -6,6 +6,8 @@ faq:
     a: ["Ein Content-Kalender zeigt Ihnen auf einen Blick alle geplanten, in Bearbeitung befindlichen und bereits veroeffentlichten Inhalte. Bazam.ais Kalender ist direkt mit der Content-Erstellung und automatischen Veroeffentlichung verknuepft."]
   - q: "Wie nutze ich den Bazam.ai-Kalender?"
     a: ["Planen Sie Ihre Beitraege im Kalender ein, verschieben Sie sie bei Bedarf per Drag-and-Drop und behalten Sie den Ueberblick ueber alle kommenden Veroeffentlichungen. Der Kalender ist Ihre zentrale Planungsoberflaeche fuer das gesamte Content-Marketing."]
+  - q: "Wie nutze ich einen Content-Kalender effektiv?"
+    a: ["Planen Sie Beitraege im Kalender ein, verschieben Sie bei Bedarf per Drag-and-Drop und behalten Sie den Ueberblick ueber alle Veroeffentlichungen. In Bazam.ai ist der Kalender direkt mit der Content-Erstellung und automatischen Veroeffentlichung verknuepft."]
   - q: "Wie plane ich Content fuer verschiedene Plattformen?"
     a: ["Bazam.ais Kalender zeigt alle Plattformen uebersichtlich an. Sie koennen Content fuer verschiedene Plattformen an verschiedenen Tagen und zu verschiedenen Zeiten einplanen und die Veroeffentlichung individuell steuern."]
   - q: "Wie weit im Voraus sollte ich planen?"

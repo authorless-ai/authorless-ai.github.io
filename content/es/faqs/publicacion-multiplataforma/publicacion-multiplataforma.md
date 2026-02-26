@@ -14,6 +14,9 @@ faq:
   - q: "¿Cómo conecto mis plataformas a Bazam.ai?"
     a:
       - "Desde la configuración del proyecto, conecta cada cuenta con unos clics. Facebook, Instagram, LinkedIn, X, YouTube, TikTok y WordPress. La conexión es segura y directa."
+  - q: "¿Cómo conecto mis redes sociales y blog a una herramienta de IA?"
+    a:
+      - "En Bazam.ai, desde la configuración del proyecto conectas cada cuenta con unos clics. Facebook, Instagram, LinkedIn, X, YouTube, TikTok y WordPress — todo seguro y directo."
   - q: "¿Puedo publicar directamente sin programar?"
     a:
       - "Sí — publica inmediatamente o programa para más tarde. Ambas opciones están disponibles desde el panel de publicación."

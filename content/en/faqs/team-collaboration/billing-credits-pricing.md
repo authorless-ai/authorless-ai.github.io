@@ -22,9 +22,17 @@ faq:
     a:
       - "Dramatically. Agency retainers run £2,000–10,000+ per month for what Bazam.ai delivers in minutes. A subscription covers content creation, scheduling, publishing, and analytics — the same services agencies charge thousands for."
 
+  - q: "Is AI marketing cheaper than hiring an agency?"
+    a:
+      - "Significantly. Agency retainers typically run £2,000–10,000+ per month. Bazam.ai delivers the same services — content creation, scheduling, multi-platform publishing, analytics, and reporting — through a single AI agent for a fraction of the cost. The quality comes from your brand context and knowledge base, not billable hours."
+
   - q: "Is Bazam.ai cheaper than using multiple marketing tools?"
     a:
       - "Yes. Most businesses spend £500–1,200/month on separate scheduling (£99–249), analytics (£249–499), AI writing (£39–69), and SEO tools (£110–400). Bazam.ai replaces all of them with a single subscription."
+
+  - q: "Can one AI tool replace multiple marketing subscriptions?"
+    a:
+      - "Yes. Most businesses pay for separate content writing, social scheduling, analytics, and SEO tools — often £500–1,200/month combined. Bazam.ai replaces all of them with a single platform: AI content creation, multi-platform scheduling and publishing, analytics, and team collaboration. One subscription, one dashboard, one login."
 
   - q: "Are there per-channel or per-platform fees?"
     a:

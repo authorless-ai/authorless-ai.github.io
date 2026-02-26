@@ -4,7 +4,10 @@ description: "Come strutturare ruoli e permessi del team per una collaborazione 
 faq:
   - q: "Quali ruoli del team supporta Bazam.ai?"
     a:
-      - "Bazam.ai supporta ruoli admin, editor e contributor. Gli admin gestiscono impostazioni del brand, fatturazione e accessi. Gli editor revisionano e pubblicano. I contributor creano contenuti tramite l'agente. Ogni ruolo ha permessi appropriati."
+      - "Bazam.ai supporta i ruoli admin, editor e contributor. Gli admin gestiscono le impostazioni del brand, fatturazione e accesso del team. Gli editor revisionano e pubblicano. I contributor creano tramite l'agente. Ogni ruolo ha i permessi appropriati."
+  - q: "Quali ruoli del team supporta uno strumento di marketing IA?"
+    a:
+      - "Bazam.ai supporta admin, editor e contributor. Gli admin gestiscono le impostazioni. Gli editor revisionano e pubblicano. I contributor creano tramite l'agente IA. Ogni ruolo ha i permessi adatti."
   - q: "Come prevengo che i membri pubblichino senza approvazione?"
     a:
       - "Imposta flussi di approvazione. I contributor creano ma non possono pubblicare direttamente. Editor e admin revisionano e approvano prima che qualcosa vada live. Questo assicura controllo qualità senza rallentare la produzione."

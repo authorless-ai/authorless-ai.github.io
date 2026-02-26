@@ -6,6 +6,8 @@ faq:
     a: ["Ja, Bazam.ai macht professionelle Content-Erstellung fuer jeden zugaenglich. Die KI in Bazam.ai uebernimmt das Schreiben und liefert Ergebnisse auf dem Niveau eines erfahrenen Marketing-Texters."]
   - q: "Wie ersetzt Bazam.ai einen Texter?"
     a: ["Bazam.ai erstellt vollstaendige, veroeffentlichungsfertige Texte in Ihrer definierten Markenstimme. Im Gegensatz zu einem Texter ist Bazam.ai sofort verfuegbar, arbeitet in Minutenschnelle und benoetigt keine Briefings oder Einarbeitungszeit."]
+  - q: "Kann KI einen professionellen Texter ersetzen?"
+    a: ["Fuer Marketing-Content, Social Media und Blogbeitraege ja. Bazam.ai erstellt vollstaendige, veroeffentlichungsfertige Texte in Ihrer Markenstimme — sofort verfuegbar, in Minutenschnelle und ohne Briefings oder Einarbeitungszeit."]
   - q: "Ist KI-Content wirklich so gut wie manuell geschriebener?"
     a: ["Bazam.ais Content erreicht eine Qualitaet, die von professionell geschriebenem Content praktisch nicht zu unterscheiden ist. Durch Ihre Markenstimme und Wissensdatenbank in Bazam.ai wird der Content sogar spezifischer als generischer Texter-Content."]
   - q: "Wie viel Geld spare ich im Vergleich zu einem Texter?"

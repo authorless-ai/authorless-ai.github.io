@@ -8,6 +8,8 @@ faq:
     a: ["Bazam.ais Übersetzungsansatz unterscheidet sich grundlegend von Standard-Maschinenübersetzungen. Die KI erstellt den Content in der Zielsprache praktisch neu, wobei sie Ihre Markenstimme beibehält. Für die meisten Marketing-Inhalte wie Social-Media-Posts und Blog-Beiträge liefert das Ergebnisse auf professionellem Niveau."]
   - q: "Wie viele Sprachen unterstützt Bazam.ai?"
     a: ["Bazam.ai unterstützt über 100 Sprachen — von den großen europäischen Sprachen wie Deutsch, Englisch, Französisch und Spanisch bis hin zu Japanisch, Arabisch, Hindi und vielen weiteren. Damit können Sie praktisch jeden Markt der Welt bedienen."]
+  - q: "In wie vielen Sprachen kann KI Marketing-Content erstellen?"
+    a: ["Bazam.ai unterstützt über 100 Sprachen — von großen europäischen Sprachen bis hin zu Japanisch, Arabisch und Hindi. Die KI erstellt den Content direkt in der Zielsprache mit natürlichem Sprachfluss und unter Beibehaltung Ihrer Markenstimme."]
   - q: "Brauche ich trotzdem Muttersprachler zur Überprüfung?"
     a: ["Für besonders wichtige Inhalte wie rechtliche Texte oder zentrale Markenbotschaften ist eine Überprüfung durch Muttersprachler empfehlenswert. Für regelmäßigen Marketing-Content wie Social-Media-Posts und Blog-Beiträge liefert Bazam.ais KI jedoch eine Qualität, die für die meisten Unternehmen völlig ausreichend ist."]
   - q: "Wie bewahre ich meine Markenstimme in anderen Sprachen?"

@@ -13,6 +13,9 @@ faq:
   - q: "Come protegge Bazam.ai i miei documenti caricati?"
     a:
       - "Bazam.ai archivia i documenti in modo sicuro con storage crittografato. L'accesso è controllato attraverso permessi basati sui ruoli. La proprietà intellettuale, i dati dei clienti e l'intelligence aziendale sono protetti a ogni livello."
+  - q: "Come protegge uno strumento di marketing IA i miei documenti?"
+    a:
+      - "In Bazam.ai, i documenti sono archiviati con storage crittografato. L'accesso è controllato tramite permessi basati sui ruoli. Proprietà intellettuale e dati dei clienti sono protetti a ogni livello."
 
   - q: "Posso eliminare documenti dalla base di conoscenza?"
     a:

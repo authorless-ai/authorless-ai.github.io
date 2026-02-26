@@ -9,6 +9,9 @@ faq:
   - q: "Posso publicar posts no Instagram pelo Bazam.ai?"
     a:
       - "Sim. O Bazam.ai publica diretamente — posts, stories e reels. O agente cria conteúdo otimizado com legendas, hashtags e formatação de imagem. Agende e publique sem abrir o app."
+  - q: "Posso publicar posts no Instagram por uma ferramenta de marketing com IA?"
+    a:
+      - "Sim. O Bazam.ai publica diretamente no Instagram — posts, stories e reels. A IA cria conteúdo otimizado com legendas, hashtags e formatação. Agende e publique sem abrir o app."
 
   - q: "Como publico no TikTok de uma ferramenta de marketing?"
     a:

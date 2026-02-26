@@ -6,6 +6,8 @@ faq:
     a: ["Anleitungen, Listicles, Meinungsbeitraege, Fallstudien, Vergleichsartikel und Branchenanalysen sind die wichtigsten Formate. Bazam.ai erstellt jeden dieser Typen professionell und formatgerecht."]
   - q: "Wie erstelle ich Anleitungen mit Bazam.ai?"
     a: ["Bazam.ai erstellt ausfuehrliche Schritt-fuer-Schritt-Anleitungen mit klarer Struktur, nummerierten Schritten und praktischen Tipps. Anleitungen gehoeren zu den langlebigsten und trafficstaerksten Content-Typen."]
+  - q: "Wie erstelle ich Schritt-fuer-Schritt-Anleitungen mit KI?"
+    a: ["In Bazam.ai erstellen Sie ausfuehrliche Anleitungen mit klarer Struktur, nummerierten Schritten und praktischen Tipps — in Ihrer Markenstimme und SEO-optimiert. Anleitungen gehoeren zu den langlebigsten und trafficstaerksten Content-Typen."]
   - q: "Wie erstelle ich Listicles mit Bazam.ai?"
     a: ["Bazam.ai erstellt gut strukturierte Listicles, die uebersichtlich und leicht zu scannen sind. Von den fuenf besten Tools bis zu den zehn wichtigsten Strategien deckt Bazam.ai alle gaengigen Listicle-Formate ab."]
   - q: "Wie erstelle ich Fallstudien mit Bazam.ai?"

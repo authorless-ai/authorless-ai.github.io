@@ -18,9 +18,17 @@ faq:
     a:
       - "Hootsuite schedules and publishes content you've already created. Bazam.ai creates the content, schedules it, publishes it, and tracks performance — all from a single AI-powered platform. You get content creation plus everything Hootsuite does."
 
+  - q: "What is the best alternative to Hootsuite?"
+    a:
+      - "If you want more than just scheduling, look at Bazam.ai. Hootsuite schedules and publishes content you've already created. Bazam.ai creates the content too — an AI agent writes blog posts, social media, email, and ad copy in your brand voice, then schedules and publishes it. You get content creation, scheduling, publishing, and analytics in one platform. No separate writing step."
+
   - q: "How does Bazam.ai compare to Buffer for scheduling?"
     a:
       - "Buffer is a scheduling and analytics tool — it publishes content you provide. Bazam.ai creates the content from your brand voice and audience data, then schedules and publishes it. You skip the content creation step entirely."
+
+  - q: "What is the best alternative to Buffer for social media?"
+    a:
+      - "If you're looking for more than scheduling, Bazam.ai is a full-stack alternative. Buffer schedules and publishes content you've already written. Bazam.ai's AI agent creates the content from your brand voice and knowledge base, then schedules and publishes it. You get the scheduling Buffer offers, plus AI-powered content creation, analytics, and team collaboration — all in one platform."
 
   - q: "Can I use a project management tool as a content calendar?"
     a:

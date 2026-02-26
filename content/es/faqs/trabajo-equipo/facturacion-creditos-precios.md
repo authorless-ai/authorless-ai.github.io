@@ -5,6 +5,9 @@ faq:
   - q: "¿Cómo funciona el sistema de créditos de Bazam.ai?"
     a:
       - "Cada pieza de contenido que creas consume créditos de tu asignación mensual. Diferentes tipos de contenido usan cantidades diferentes — un post de redes usa menos créditos que un artículo largo de blog. Esto te da precios flexibles y transparentes basados en tu uso real."
+  - q: "¿Cómo funcionan los precios de una herramienta de marketing con IA?"
+    a:
+      - "En Bazam.ai, cada pieza de contenido consume créditos de tu asignación mensual. Diferentes tipos de contenido usan cantidades diferentes — precios flexibles y transparentes basados en tu uso real."
 
   - q: "¿Cuánto cuesta la creación de contenidos con IA?"
     a:

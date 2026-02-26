@@ -4,6 +4,8 @@ description: "Welche Content-Typen und Formate es gibt und wie Bazam.ai jeden da
 faq:
   - q: "Welche Content-Typen kann Bazam.ai erstellen?"
     a: ["Bazam.ai erstellt Blogbeitraege, Social-Media-Posts, Newsletter, Werbetexte, Pressemitteilungen, Fallstudien, Produktbeschreibungen und mehr. Jeder Typ folgt den Format-spezifischen Best Practices."]
+  - q: "Welche Content-Typen kann KI erstellen?"
+    a: ["Blogbeitraege, Social-Media-Posts, Newsletter, Werbetexte, Pressemitteilungen, Fallstudien und Produktbeschreibungen. In Bazam.ai folgt jeder Content-Typ den Format-spezifischen Best Practices — in Ihrer individuellen Markenstimme."]
   - q: "Welche Content-Formate funktionieren am besten?"
     a: ["Die Wirksamkeit haengt von Ihrer Zielgruppe und Plattform ab. Bazam.ais Analytik zeigt nach einigen Wochen, welche Formate bei Ihrer spezifischen Zielgruppe am besten performen."]
   - q: "Wie waehle ich den richtigen Content-Typ?"

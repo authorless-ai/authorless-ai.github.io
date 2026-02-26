@@ -14,6 +14,10 @@ faq:
     a:
       - "Bazam.ai stores documents securely with encrypted storage. Access is controlled through role-based permissions. Your intellectual property, client data, and business intelligence are protected at every level."
 
+  - q: "Is it safe to upload business documents to AI tools?"
+    a:
+      - "With Bazam.ai, yes. Documents are stored with encrypted security, never used to train AI models, and only accessible by team members with the right permissions. Your intellectual property stays private and is only referenced when creating content for your projects. You control what's uploaded and can delete documents at any time."
+
   - q: "Can I delete documents from my knowledge base?"
     a:
       - "Yes. Remove any document at any time. Once deleted, it's no longer referenced by Bazam.ai's agent. Your knowledge base is fully under your control."

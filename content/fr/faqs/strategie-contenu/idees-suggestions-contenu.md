@@ -33,6 +33,9 @@ faq:
   - q: "Combien d'idées de contenu Bazam.ai génère-t-il ?"
     a:
       - "Autant que nécessaire. Demandez un nouveau lot chaque fois que vous planifiez du contenu. L'agent génère des suggestions fraîches à chaque fois, basées sur vos données business en évolution, insights d'audience et ce qui a bien performé précédemment."
+  - q: "Combien d'idées de contenu un outil de marketing IA peut-il générer ?"
+    a:
+      - "Dans Bazam.ai, autant que nécessaire. Demandez un nouveau lot chaque fois que vous planifiez du contenu. L'agent génère des suggestions fraîches basées sur vos données business, insights d'audience et ce qui a bien performé."
 
   - q: "L'IA peut-elle suggérer des idées basées sur les concurrents ?"
     a:

@@ -41,4 +41,7 @@ faq:
   - q: "Quali piattaforme blog supporta Bazam.ai?"
     a:
       - "Bazam.ai pubblica direttamente su WordPress e Squarespace. Crea contenuti blog attraverso l'agente IA, pianificali e pubblica automaticamente — nessun caricamento manuale o copia-incolla necessari."
+  - q: "Quali piattaforme blog supporta uno strumento di marketing IA?"
+    a:
+      - "Bazam.ai pubblica direttamente su WordPress. Crea contenuti blog con l'agente IA, pianificali e pubblica automaticamente — senza caricamento manuale o copia-incolla."
 ---

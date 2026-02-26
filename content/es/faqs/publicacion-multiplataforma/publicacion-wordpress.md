@@ -5,6 +5,9 @@ faq:
   - q: "¿Cómo publico en WordPress desde Bazam.ai?"
     a:
       - "Conecta tu instalación de WordPress a Bazam.ai. Los posts de blog creados con el asistente de blog se publican directamente como borradores o publicaciones en tu WordPress."
+  - q: "¿Cómo publico en WordPress con una herramienta de IA?"
+    a:
+      - "Conecta tu instalación de WordPress a Bazam.ai. Los posts de blog creados con el asistente de IA se publican directamente como borradores o publicaciones en tu WordPress — sin copiar ni pegar."
   - q: "¿Necesito instalar un plugin en WordPress?"
     a:
       - "Bazam.ai se conecta a WordPress vía la API REST estándar. Proporciona tu URL y credenciales de la API. Sin plugins adicionales necesarios."

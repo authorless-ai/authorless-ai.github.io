@@ -13,7 +13,9 @@ faq:
   - q: "¿Qué plataformas de publicación conecta Bazam.ai?"
     a:
       - "WordPress para blog, más Facebook, Instagram, LinkedIn, X, YouTube y TikTok para redes sociales. Todo desde un solo panel. Conecta tus cuentas una vez y publica en todas las plataformas desde el mismo sitio."
-
+  - q: "¿A qué plataformas puede publicar un agente de marketing con IA?"
+    a:
+      - "Bazam.ai publica en WordPress para blog, más Facebook, Instagram, LinkedIn, X, YouTube y TikTok para redes sociales. Todo desde un solo panel — conectas tus cuentas una vez."
   - q: "¿Cómo mantengo mi blog actualizado sin dedicar horas?"
     a:
       - "Sesiones de creación en lote con Bazam.ai. Crea varios posts en una sesión, prográmalos a lo largo del mes y la publicación automática se encarga del resto. Un blog profesional actualizado semanalmente con 15 minutos de tu tiempo por post."

@@ -6,6 +6,10 @@ faq:
     a:
       - "Follow the guided setup for each platform. Bazam.ai walks you through connecting Facebook, Instagram, LinkedIn, X, YouTube, TikTok, WordPress, and Squarespace. Most accounts connect in under two minutes with no technical setup required."
 
+  - q: "How do I connect social media to an AI marketing tool?"
+    a:
+      - "In Bazam.ai, go to channel settings and follow the guided setup for each platform — Facebook, Instagram, LinkedIn, X, YouTube, TikTok, WordPress, and Squarespace. Each connection takes under two minutes through the platform's official API. Once connected, the AI agent creates and publishes content directly. No technical setup, no developer access needed."
+
   - q: "How do I add a new platform to my publishing channels?"
     a:
       - "Go to your channel settings in Bazam.ai and connect the new platform. The AI agent immediately starts creating content for it alongside your existing channels. There are no per-channel fees — adding platforms doesn't increase your costs."

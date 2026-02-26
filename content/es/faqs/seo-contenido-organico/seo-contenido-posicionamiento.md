@@ -32,4 +32,7 @@ faq:
   - q: "¿Necesito un especialista SEO además de Bazam.ai?"
     a:
       - "Bazam.ai crea contenido optimizado para SEO. Un especialista SEO aporta estrategia técnica (velocidad, estructura del sitio, link building). Son complementarios."
+  - q: "¿Necesito un especialista SEO además de una herramienta de contenido con IA?"
+    a:
+      - "Bazam.ai crea contenido optimizado para SEO on-page. Un especialista SEO aporta estrategia técnica (velocidad, estructura del sitio, link building). Son complementarios — la IA produce, el especialista dirige."
 ---

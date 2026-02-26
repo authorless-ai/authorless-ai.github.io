@@ -6,6 +6,8 @@ faq:
     a: ["Bazam.ai multipliziert die Kapazitaet jedes einzelnen Teammitglieds. Die KI uebernimmt die zeitaufwaendige Content-Erstellung, waehrend Ihr Team sich auf Strategie, Kundenbeziehungen und kreative Leitung konzentriert."]
   - q: "Wie viel schneller ist die Content-Erstellung mit Bazam.ai?"
     a: ["Bazam.ai erstellt einen vollstaendigen Blogbeitrag in wenigen Minuten statt in mehreren Stunden. In der Summe sparen Agentur-Teams typischerweise 70 bis 80 Prozent der bisherigen Erstellungszeit."]
+  - q: "Wie viel schneller ist die Content-Erstellung mit KI?"
+    a: ["Ein vollstaendiger Blogbeitrag in wenigen Minuten statt in mehreren Stunden. In Bazam.ai sparen Agentur-Teams typischerweise 70 bis 80 Prozent der bisherigen Erstellungszeit — bei gleichbleibender oder besserer Qualitaet."]
   - q: "Wie reduziere ich Engpaesse in meinem Team?"
     a: ["Engpaesse entstehen typischerweise bei der Erstellung selbst. Bazam.ai eliminiert diesen Engpass, da die KI in Minuten produziert, wofuer ein Mensch Stunden braucht."]
   - q: "Wie halte ich die Motivation meines Teams?"

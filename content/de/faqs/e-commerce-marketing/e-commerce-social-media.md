@@ -8,6 +8,8 @@ faq:
     a: ["Instagram und Facebook fuer visuelle Produktpraesentation, Pinterest fuer Inspirations-Content und LinkedIn fuer B2B-E-Commerce. Bazam.ai erstellt Content fuer alle diese Plattformen."]
   - q: "Wie erstelle ich Shopping-Posts mit Bazam.ai?"
     a: ["Bazam.ai erstellt ansprechende Produktbeschreibungen und Captions fuer Shopping-Posts. Die Texte heben Kundenvorteile hervor und motivieren zum Kauf, ohne aufdringlich zu wirken."]
+  - q: "Wie erstelle ich E-Commerce-Shopping-Posts mit KI?"
+    a: ["Bazam.ai erstellt ansprechende Produktbeschreibungen und Captions fuer Shopping-Posts. Die Texte heben Kundenvorteile hervor und motivieren zum Kauf — in Ihrer Markenstimme und plattformspezifisch optimiert."]
   - q: "Wie erstelle ich User-Generated-Content-Kampagnen?"
     a: ["Bazam.ai erstellt Kampagnen-Texte, die Kunden zum Teilen eigener Inhalte einladen: Hashtag-Kampagnen, Fotowettbewerbe und Testimonial-Aufrufe."]
   - q: "Wie erstelle ich saisonale Social-Media-Kampagnen fuer meinen Shop?"

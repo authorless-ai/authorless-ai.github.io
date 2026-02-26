@@ -8,6 +8,9 @@ faq:
   - q: "¿Cómo formo a mi equipo en el uso de Bazam.ai?"
     a:
       - "La plataforma es intuitiva. Un nuevo miembro crea contenido de calidad en su primera sesión. Bazam.ai ofrece recursos de ayuda integrados."
+  - q: "¿Cómo formo a mi equipo en el uso de una herramienta de marketing con IA?"
+    a:
+      - "En Bazam.ai, un nuevo miembro crea contenido de calidad en su primera sesión. La plataforma es intuitiva y ofrece recursos de ayuda integrados — la formación se mide en minutos, no en horas."
   - q: "¿Qué habilidades debo desarrollar en mi equipo?"
     a:
       - "Estrategia de contenidos, análisis de datos, comprensión de audiencia y pensamiento creativo. La producción la gestiona la IA; la estrategia requiere personas."

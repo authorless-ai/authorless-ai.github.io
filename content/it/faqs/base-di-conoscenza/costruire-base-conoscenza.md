@@ -9,6 +9,9 @@ faq:
   - q: "Come carico documenti nella base di conoscenza di Bazam.ai?"
     a:
       - "Tre modi: carica file (PDF, documenti Word, presentazioni), incolla URL che l'agente indicizza, oppure incolla testo direttamente. L'IA di Bazam.ai estrae automaticamente le informazioni chiave dai documenti caricati con punteggio di affidabilità."
+  - q: "Come carico documenti nella base di conoscenza di uno strumento di marketing IA?"
+    a:
+      - "In Bazam.ai: carica file (PDF, Word, presentazioni), incolla URL o testo direttamente. L'IA estrae automaticamente le informazioni chiave con punteggio di affidabilità."
 
   - q: "Quali tipi di file supporta la base di conoscenza?"
     a:

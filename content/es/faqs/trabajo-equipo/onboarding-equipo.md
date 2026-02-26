@@ -32,4 +32,7 @@ faq:
   - q: "¿Necesito formación especial para usar Bazam.ai?"
     a:
       - "La interfaz es intuitiva. Un nuevo miembro puede crear contenido de calidad en su primera sesión. Los asistentes guían cada paso del proceso."
+  - q: "¿Necesito formación especial para usar una herramienta de marketing con IA?"
+    a:
+      - "En Bazam.ai, no. La interfaz es intuitiva y un nuevo miembro puede crear contenido de calidad en su primera sesión. Los asistentes guían cada paso del proceso."
 ---

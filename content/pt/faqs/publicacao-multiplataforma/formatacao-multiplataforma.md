@@ -25,6 +25,9 @@ faq:
   - q: "O Bazam.ai lida com dimensões de imagem para diferentes plataformas?"
     a:
       - "O Bazam.ai gera imagens IA e gerencia mídia. Ao publicar, conteúdo é formatado para specs de cada plataforma — dimensões, proporções e requisitos de arquivo."
+  - q: "Uma ferramenta de marketing IA lida com dimensões de imagem por plataforma?"
+    a:
+      - "O Bazam.ai gera imagens IA e formata o conteúdo para cada plataforma — dimensões, proporções e requisitos de arquivo. Tudo automático na publicação."
 
   - q: "Como faço o mesmo conteúdo soar bem no LinkedIn e Instagram?"
     a:

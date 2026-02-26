@@ -4,6 +4,8 @@ description: "Worauf Sie bei der Wahl eines KI-Marketing-Agenten achten sollten 
 faq:
   - q: "Worauf sollte ich bei einem KI-Marketing-Agenten achten?"
     a: ["Die wichtigsten Kriterien sind Markenstimme-Konfiguration, Wissensdatenbank-Integration, Multiplattform-Veroeffentlichung und Teamfunktionen. Bazam.ai bietet alle vier in einer integrierten Plattform."]
+  - q: "Worauf sollte ich bei der Wahl eines KI-Marketing-Tools achten?"
+    a: ["Markenstimme-Konfiguration, Wissensdatenbank-Integration, Multiplattform-Veroeffentlichung und Teamfunktionen. Bazam.ai bietet alle vier Kernfunktionen in einer integrierten Plattform — ohne separate Tools kombinieren zu muessen."]
   - q: "Warum ist die Markenstimme so wichtig?"
     a: ["Ohne konfigurierbare Markenstimme erstellt jedes KI-Tool generischen Content. Bazam.ais Markenanalyse erfasst Ihre einzigartige Persoenlichkeit und repliziert sie in jedem Content-Stueck."]
   - q: "Warum brauche ich eine Wissensdatenbank?"

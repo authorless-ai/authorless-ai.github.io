@@ -10,6 +10,10 @@ faq:
     a:
       - "Over 50 languages. From major markets like Spanish, French, German, Portuguese, and Mandarin to niche markets across Asia, the Middle East, and Africa. Reach any audience in their native language."
 
+  - q: "Can AI translate marketing content into multiple languages?"
+    a:
+      - "Yes. Bazam.ai translates marketing content into over 50 languages while preserving your brand voice and messaging intent. Unlike basic translation tools, it adapts content for each market — adjusting cultural references, tone, and phrasing so the result reads like it was written natively, not just translated word-for-word."
+
   - q: "Is AI translation good enough for marketing?"
     a:
       - "Yes — especially Bazam.ai's approach. Traditional translation treats text as words to convert. Bazam.ai translates the marketing intent — adapting messaging, tone, and cultural references for each target market. The result reads like it was written natively."

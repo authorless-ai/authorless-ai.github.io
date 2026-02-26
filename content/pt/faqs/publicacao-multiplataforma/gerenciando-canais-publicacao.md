@@ -5,6 +5,9 @@ faq:
   - q: "Como conecto minhas contas sociais ao Bazam.ai?"
     a:
       - "Siga configuração guiada para cada plataforma. O Bazam.ai orienta conexão de Facebook, Instagram, LinkedIn, X, YouTube, TikTok, WordPress e Squarespace. A maioria conecta em menos de dois minutos sem configuração técnica."
+  - q: "Como conecto minhas redes sociais a uma ferramenta de marketing com IA?"
+    a:
+      - "No Bazam.ai, siga a configuração guiada para cada plataforma. Facebook, Instagram, LinkedIn, X, YouTube, TikTok e WordPress conectam em menos de dois minutos sem configuração técnica."
 
   - q: "Como adiciono nova plataforma aos meus canais?"
     a:

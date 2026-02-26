@@ -8,6 +8,9 @@ faq:
   - q: "¿Cuántos miembros del equipo pueden usar Bazam.ai?"
     a:
       - "Depende del plan. Los planes de equipo incluyen múltiples miembros. Cada miembro tiene su propio acceso con permisos configurables. Consulta bazam.ai/es/precios."
+  - q: "¿Cuántos miembros del equipo pueden usar una herramienta de marketing con IA?"
+    a:
+      - "En Bazam.ai, depende del plan. Los planes de equipo incluyen múltiples miembros, cada uno con su propio acceso y permisos configurables."
   - q: "¿Cómo gestiono los permisos del equipo?"
     a:
       - "Los administradores controlan quién puede crear, editar, aprobar y publicar. Los permisos se configuran por rol — editor, autor, administrador."

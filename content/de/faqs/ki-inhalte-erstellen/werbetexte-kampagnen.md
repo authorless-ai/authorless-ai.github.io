@@ -4,6 +4,8 @@ description: "Wie Sie mit Bazam.ai professionelle Werbetexte und Kampagnen-Conte
 faq:
   - q: "Wie erstelle ich Kampagnen-Content mit Bazam.ai?"
     a: ["Bazam.ai erstellt zusammenhaengende Kampagnen-Inhalte fuer alle Kanaele: Anzeigentexte, Landingpage-Content, E-Mails und Social-Media-Posts. Alle Bestandteile sind aufeinander abgestimmt."]
+  - q: "Wie erstelle ich Kampagnen-Content mit KI?"
+    a: ["In Bazam.ai erstellen Sie zusammenhaengende Kampagnen-Inhalte fuer alle Kanaele auf einmal: Anzeigentexte, Landingpage-Content, E-Mails und Social-Media-Posts. Alle Bestandteile sind aufeinander abgestimmt und im konsistenten Markenton."]
   - q: "Wie erstelle ich saisonale Kampagnen?"
     a: ["Planen Sie saisonale Kampagnen im Voraus in Bazam.ais Kalender. Bazam.ai erstellt alle Content-Stuecke in einer Batch-Sitzung, sodass sie rechtzeitig fertig sind."]
   - q: "Wie erstelle ich mehrsprachige Kampagnen?"

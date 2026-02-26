@@ -11,6 +11,9 @@ faq:
   - q: "¿Cómo localizo mi contenido con Bazam.ai?"
     a:
       - "La IA de Bazam.ai localiza automáticamente — adapta monedas, referencias culturales y expresiones idiomáticas al crear contenido en cada idioma."
+  - q: "¿Cómo localizo mi contenido de marketing con IA?"
+    a:
+      - "Bazam.ai localiza automáticamente: adapta monedas, referencias culturales y expresiones idiomáticas al crear contenido en cada idioma. No es traducción literal — es adaptación cultural real."
   - q: "¿Debería adaptar mi marca para cada mercado?"
     a:
       - "La personalidad de marca permanece. Las expresiones y referencias se adaptan. Tu marca es la misma en todos los mercados; la comunicación se adapta al contexto local."

@@ -5,6 +5,9 @@ faq:
   - q: "Como configuro minha marca no Bazam.ai?"
     a:
       - "Três passos: execute a análise de marca (insira seu URL), defina personas de audiência e envie documentos chave para a base de conhecimento. O agente de Bazam.ai então conhece sua marca profundamente e cria conteúdo específico de marca a partir da primeira conversa."
+  - q: "Como configuro minha marca em uma ferramenta de marketing com IA?"
+    a:
+      - "No Bazam.ai, três passos: análise de marca (insira seu URL), defina personas de audiência e envie documentos chave. A IA então conhece sua marca e cria conteúdo específico desde a primeira conversa."
 
   - q: "O que é análise automatizada de marca?"
     a:

@@ -37,6 +37,9 @@ faq:
   - q: "Como o Bazam.ai se compara a outras ferramentas de marketing com IA?"
     a:
       - "A maioria das ferramentas de marketing com IA cuida de uma parte do fluxo — escrita, agendamento ou análises. O Bazam.ai é uma plataforma completa de marketing: conhecimento persistente de marca, criação conversacional de conteúdo, publicação multiplataforma, análises, colaboração em equipe e suporte multilíngue — tudo através de um único agente de IA."
+  - q: "Como comparar ferramentas de marketing com IA?"
+    a:
+      - "A maioria cuida de uma parte do fluxo. O Bazam.ai é uma plataforma completa: conhecimento persistente de marca, criação conversacional, publicação multiplataforma, análises, colaboração e multilíngue — tudo via um único agente de IA."
 
   - q: "E se eu não ficar satisfeito com o output da IA?"
     a:

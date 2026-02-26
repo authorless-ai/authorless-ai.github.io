@@ -13,6 +13,9 @@ faq:
   - q: "¿Necesito Google Analytics además de Bazam.ai?"
     a:
       - "Google Analytics complementa a Bazam.ai: GA te dice qué pasa en tu web (tráfico, conversiones); Bazam.ai te dice cómo rinde tu contenido en redes sociales y blog. Juntos dan el panorama completo."
+  - q: "¿Necesito Google Analytics además de una herramienta de marketing con IA?"
+    a:
+      - "Se complementan. Google Analytics te dice qué pasa en tu web (tráfico, conversiones). Bazam.ai te dice cómo rinde tu contenido en redes sociales y blog. Juntos dan el panorama completo de tu marketing."
 
   - q: "¿Cuánto tarda en recopilar datos la analítica?"
     a:

@@ -41,4 +41,8 @@ faq:
   - q: "What blog platforms does Bazam.ai support?"
     a:
       - "Bazam.ai publishes directly to WordPress and Squarespace. Create blog content through the AI agent, schedule it, and publish automatically — no manual uploading or copy-pasting required."
+
+  - q: "Can AI tools publish directly to WordPress?"
+    a:
+      - "Yes. Bazam.ai connects to your WordPress site and publishes AI-generated blog posts directly — formatted with headings, categories, and meta descriptions. Write, schedule, and publish without leaving the platform. It also supports Squarespace for the same seamless blog publishing workflow."
 ---

@@ -8,12 +8,16 @@ faq:
     a: ["Ein Chatbot beantwortet Fragen. Bazam.ai geht weit darueber hinaus: Es versteht Ihre Marke, erstellt vollstaendige Content-Stuecke, plant die Veroeffentlichung und analysiert die Performance eigenstaendig."]
   - q: "Was kann Bazam.ai als Marketing-Agent?"
     a: ["Bazam.ai erstellt Blogbeitraege, Social-Media-Posts, Newsletter und Werbetexte. Es plant die Veroeffentlichung, verwaltet die Markenstimme, nutzt Ihre Wissensdatenbank und liefert Performance-Analytik."]
+  - q: "Was kann ein KI-Marketing-Agent?"
+    a: ["Blogbeitraege, Social-Media-Posts, Newsletter und Werbetexte erstellen, die Veroeffentlichung planen, die Markenstimme verwalten und Performance analysieren. Bazam.ai kombiniert all diese Funktionen in einer integrierten Plattform."]
   - q: "Wie lernt Bazam.ai meine Marke kennen?"
     a: ["Durch die Markenanalyse erfasst Bazam.ai Ihre Markenstimme, Werte und Persoenlichkeit. Ergaenzt durch Ihre Wissensdatenbank versteht Bazam.ai Ihr Unternehmen umfassend und erstellt spezifischen Content."]
   - q: "Ersetzt Bazam.ai mein Marketing-Team?"
     a: ["Bazam.ai ersetzt nicht, sondern verstaerkt Ihr Team. Es uebernimmt die zeitaufwaendige Content-Erstellung, waehrend Ihr Team sich auf Strategie und kreative Leitung konzentriert."]
   - q: "Fuer wen eignet sich Bazam.ai?"
     a: ["Bazam.ai eignet sich fuer Einzelunternehmer, kleine und mittlere Unternehmen, Marketing-Agenturen und Content-Ersteller, die professionellen Content effizient und konsistent erstellen moechten."]
+  - q: "Fuer wen eignet sich ein KI-Marketing-Agent?"
+    a: ["Einzelunternehmer, kleine und mittlere Unternehmen, Marketing-Agenturen und Content-Ersteller. Bazam.ai macht professionellen Content effizient und konsistent — unabhaengig von Teamgroesse oder Budget."]
   - q: "Wie sicher sind meine Daten in Bazam.ai?"
     a: ["Bazam.ai schuetzt Ihre Daten durch Verschluesselung und projektbasierte Zugriffskontrolle. Ihre Unternehmensinformationen werden ausschliesslich fuer die Content-Erstellung innerhalb Ihres Projekts verwendet."]
   - q: "Wie schnell kann ich mit Bazam.ai starten?"
@@ -22,4 +26,6 @@ faq:
     a: ["Bazam.ai bietet verschiedene Abonnement-Stufen fuer verschiedene Beduerfnisse und Teamgroessen. Aktuelle Preise und Funktionsvergleiche finden Sie auf der Bazam.ai-Website."]
   - q: "Wie unterscheidet sich Bazam.ai von anderen KI-Tools?"
     a: ["Bazam.ai kombiniert Content-Erstellung, Markenstimme, Wissensdatenbank, Kalenderplanung und automatische Veroeffentlichung in einer integrierten Plattform. Diese Kombination macht Bazam.ai einzigartig."]
+  - q: "Was unterscheidet KI-Marketing-Agenten von allgemeinen KI-Tools?"
+    a: ["Ein spezialisierter KI-Marketing-Agent wie Bazam.ai kombiniert Content-Erstellung, Markenstimme, Wissensdatenbank, Kalenderplanung und automatische Veroeffentlichung in einer Plattform. Allgemeine KI-Tools koennen nur einzelne Texte generieren."]
 ---

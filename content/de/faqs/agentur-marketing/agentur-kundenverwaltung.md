@@ -4,6 +4,8 @@ description: "Wie Agenturen die Content-Erstellung und -Verwaltung fuer mehrere 
 faq:
   - q: "Wie verwalte ich mehrere Kunden in Bazam.ai?"
     a: ["Bazam.ai organisiert jeden Kunden als separates Projekt mit eigener Markenstimme, Wissensdatenbank und Kalender. So bleiben die Inhalte, Einstellungen und Daten verschiedener Kunden vollstaendig voneinander getrennt."]
+  - q: "Wie verwalte ich als Agentur mehrere Kunden in einem KI-Tool?"
+    a: ["In Bazam.ai ist jeder Kunde als separates Projekt organisiert — mit eigener Markenstimme, Wissensdatenbank und Kalender. Inhalte und Daten verschiedener Kunden bleiben vollstaendig voneinander getrennt."]
   - q: "Wie onboarde ich neue Agenturkunden in Bazam.ai?"
     a: ["Erstellen Sie ein neues Projekt in Bazam.ai, fuehren Sie die Markenanalyse durch und laden Sie das Kundenwissen in die Wissensdatenbank hoch. Danach ist Bazam.ai bereit, sofort hochwertigen Content fuer den neuen Kunden zu erstellen."]
   - q: "Wie stelle ich sicher, dass Kundeninhalte nicht vermischt werden?"

@@ -4,6 +4,8 @@ description: "Wie Sie mit Bazam.ai wirkungsvolle E-Mail-Kampagnen fuer Ihren Onl
 faq:
   - q: "Wie erstelle ich E-Commerce-E-Mail-Kampagnen mit Bazam.ai?"
     a: ["Bazam.ai erstellt vollstaendige E-Mail-Kampagnen: Betreffzeilen, Vorschautext, Hauptinhalt und Handlungsaufforderungen. Jede Kampagne ist auf Konversion und Kundenbindung optimiert."]
+  - q: "Wie erstelle ich E-Commerce-E-Mail-Kampagnen mit KI?"
+    a: ["Bazam.ai erstellt vollstaendige E-Mail-Kampagnen: Betreffzeilen, Vorschautext, Hauptinhalt und Handlungsaufforderungen — optimiert auf Konversion und Kundenbindung, in Ihrer Markenstimme."]
   - q: "Welche E-Mail-Typen brauche ich fuer E-Commerce?"
     a: ["Willkommens-E-Mails, Warenkorb-Erinnerungen, Produktempfehlungen, Verkaufsaktionen und Nachkauf-E-Mails. Bazam.ai erstellt alle diese E-Mail-Typen professionell in Ihrer Markenstimme."]
   - q: "Wie erstelle ich verkaufsstarke Betreffzeilen?"

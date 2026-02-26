@@ -5,6 +5,9 @@ faq:
   - q: "Quels rôles d'équipe Bazam.ai supporte-t-il ?"
     a:
       - "Bazam.ai supporte les rôles admin, éditeur et contributeur. Les admins gèrent les paramètres de marque, la facturation et l'accès équipe. Les éditeurs relisent et publient. Les contributeurs créent via l'agent. Chaque rôle a les permissions appropriées."
+  - q: "Quels rôles d'équipe un outil de marketing IA supporte-t-il ?"
+    a:
+      - "Bazam.ai supporte admin, éditeur et contributeur. Les admins gèrent les paramètres. Les éditeurs relisent et publient. Les contributeurs créent via l'agent IA. Chaque rôle a les permissions adaptées."
 
   - q: "Comment empêcher les membres de publier sans approbation ?"
     a:

@@ -25,6 +25,9 @@ faq:
   - q: "Bazam.ai gestisce il ridimensionamento immagini per piattaforme diverse?"
     a:
       - "Bazam.ai genera immagini IA e gestisce i media per i contenuti. Quando pubblica, il contenuto è formattato per soddisfare le specifiche di ogni piattaforma — dimensioni immagine, proporzioni e requisiti file."
+  - q: "Uno strumento di marketing IA gestisce il ridimensionamento immagini per piattaforme diverse?"
+    a:
+      - "Bazam.ai genera immagini IA e formatta il contenuto per ogni piattaforma — dimensioni, proporzioni e requisiti file. Tutto è automatico durante la pubblicazione."
 
   - q: "Come faccio suonare bene lo stesso contenuto su LinkedIn e Instagram?"
     a:

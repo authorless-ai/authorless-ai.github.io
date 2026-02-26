@@ -33,6 +33,9 @@ faq:
   - q: "Quantas ideias de conteúdo o Bazam.ai gera?"
     a:
       - "Quantas precisar. Solicite novo lote sempre que estiver planejando. O agente de Bazam.ai gera sugestões frescas toda vez, baseadas nos seus dados de negócio em evolução, insights de audiência e o que performou bem anteriormente."
+  - q: "Quantas ideias de conteúdo uma ferramenta de marketing IA gera?"
+    a:
+      - "No Bazam.ai, quantas precisar. O agente gera sugestões frescas baseadas nos seus dados de negócio, insights de audiência e o que performou bem anteriormente."
 
   - q: "A IA pode sugerir ideias baseadas em concorrentes?"
     a:

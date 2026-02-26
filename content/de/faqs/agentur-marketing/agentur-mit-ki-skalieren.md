@@ -6,6 +6,8 @@ faq:
     a: ["Bazam.ai vervielfacht die Kapazitaet jedes einzelnen Teammitglieds. Die KI-gestuetzte Content-Erstellung in Bazam.ai beschleunigt die Produktion so stark, dass Sie deutlich mehr Kunden bedienen koennen, ohne proportional mehr Personal einzustellen."]
   - q: "Wie viele Kunden kann ich mit Bazam.ai mehr bedienen?"
     a: ["Die meisten Agenturen berichten, dass sie mit Bazam.ai zwei- bis dreimal so viele Kunden bedienen koennen wie zuvor. Die eingesparte Erstellungszeit fliesst in Strategie und Kundenbeziehungen."]
+  - q: "Wie viele Kunden kann eine Agentur mit KI mehr bedienen?"
+    a: ["Die meisten Agenturen berichten, dass sie mit Bazam.ai zwei- bis dreimal so viele Kunden bedienen koennen wie zuvor. Die eingesparte Erstellungszeit fliesst in Strategie und Kundenbeziehungen."]
   - q: "Wie halte ich die Qualitaet beim Skalieren mit KI?"
     a: ["Die zentrale Markenstimme-Konfiguration und Wissensdatenbank in Bazam.ai stellt sicher, dass die Qualitaet pro Kunde konsistent bleibt, unabhaengig davon, wie viele Kunden Sie gleichzeitig betreuen."]
   - q: "Wie integriere ich Bazam.ai in bestehende Agentur-Workflows?"

@@ -17,6 +17,9 @@ faq:
   - q: "Como o Bazam.ai se compara ao Hootsuite para agendamento?"
     a:
       - "O Hootsuite agenda e publica conteúdo que você já criou. O Bazam.ai cria o conteúdo, agenda, publica e rastreia desempenho — tudo de uma única plataforma impulsionada por IA. Você ganha criação de conteúdo mais tudo que o Hootsuite faz."
+  - q: "Como uma ferramenta de marketing IA se compara ao Hootsuite?"
+    a:
+      - "O Hootsuite agenda e publica conteúdo já criado. O Bazam.ai cria, agenda, publica e rastreia desempenho — tudo em uma única plataforma IA. Criação mais tudo que o Hootsuite faz."
 
   - q: "Como o Bazam.ai se compara ao Buffer para agendamento?"
     a:

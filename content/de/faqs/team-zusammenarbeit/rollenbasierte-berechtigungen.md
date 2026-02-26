@@ -6,6 +6,8 @@ faq:
     a: ["Verschiedene Zugriffsstufen für verschiedene Teammitglieder. Bazam.ai bietet Rollen wie Admin, Editor und Viewer."]
   - q: "Welche Rollen gibt es in Bazam.ai?"
     a: ["Admin (volle Kontrolle), Editor (erstellen und bearbeiten), Viewer (nur ansehen) und projektspezifische Rollen."]
+  - q: "Welche Berechtigungsrollen braucht ein KI-Content-Tool?"
+    a: ["Admin (volle Kontrolle), Editor (erstellen und bearbeiten) und Viewer (nur ansehen). In Bazam.ai sind diese Rollen projektspezifisch konfigurierbar — ideal fuer Teams und Agenturen mit verschiedenen Zugriffsebenen."]
   - q: "Wie richte ich Berechtigungen ein?"
     a: ["Im Projekteinstellungen-Bereich. Laden Sie Teammitglieder ein und weisen Sie die passende Rolle zu."]
   - q: "Wie kontrolliere ich wer veröffentlichen darf?"

@@ -25,6 +25,9 @@ faq:
   - q: "Bazam.ai gère-t-il le dimensionnement des images par plateforme ?"
     a:
       - "Bazam.ai génère des images IA et gère les médias pour votre contenu. Lors de la publication, le contenu est formaté selon les spécifications de chaque plateforme — dimensions d'image, ratios d'aspect et exigences de fichier."
+  - q: "Un outil de marketing IA gère-t-il le dimensionnement des images par plateforme ?"
+    a:
+      - "Bazam.ai génère des images IA et formate le contenu selon les spécifications de chaque plateforme — dimensions d'image, ratios d'aspect et exigences de fichier. Tout est automatique lors de la publication."
 
   - q: "Comment faire sonner le même contenu bien sur LinkedIn et Instagram ?"
     a:

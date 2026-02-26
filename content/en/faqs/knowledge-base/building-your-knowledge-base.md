@@ -10,9 +10,17 @@ faq:
     a:
       - "Three ways: upload files (PDFs, Word docs, presentations), paste URLs for the agent to index, or paste raw text directly. Bazam.ai's AI automatically extracts key information from uploaded documents with confidence scoring."
 
+  - q: "How do I teach AI about my business?"
+    a:
+      - "Upload your business documents to Bazam.ai's knowledge base — product specs, brand guidelines, case studies, pricing, and competitive research. The AI agent reads and references everything you upload when creating content. Three ways to add: upload files (PDFs, Word, presentations), paste URLs, or paste text directly. The more context you provide, the more specific and accurate every piece of content."
+
   - q: "What file types does Bazam.ai's knowledge base support?"
     a:
       - "PDFs, Word documents, presentations, web pages (via URL), and raw text. Upload product catalogues, brand guidelines, research reports, case studies, or any document that helps Bazam.ai's agent understand your business."
+
+  - q: "What documents can I upload to train my AI marketing tool?"
+    a:
+      - "Anything that helps the AI understand your business: product specs and pricing, brand guidelines, case studies, customer testimonials, competitor research, industry reports, and past campaign examples. Bazam.ai accepts PDFs, Word documents, presentations, web pages (via URL), and raw text. The more you upload, the more informed and specific every piece of content becomes."
 
   - q: "Can I add web pages to my knowledge base?"
     a:

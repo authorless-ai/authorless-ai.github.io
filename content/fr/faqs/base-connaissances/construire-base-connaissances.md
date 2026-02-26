@@ -9,6 +9,9 @@ faq:
   - q: "Comment importer des documents dans la base de connaissances de Bazam.ai ?"
     a:
       - "Trois façons : importer des fichiers (PDF, Word, présentations), coller des URLs pour que l'agent les indexe, ou coller du texte brut directement. L'IA de Bazam.ai extrait automatiquement les informations clés des documents importés avec un score de confiance."
+  - q: "Comment importer des documents dans la base de connaissances d'un outil de marketing IA ?"
+    a:
+      - "Dans Bazam.ai : importez des fichiers (PDF, Word, présentations), collez des URLs ou du texte brut. L'IA extrait automatiquement les informations clés avec un score de confiance."
 
   - q: "Quels types de fichiers la base de connaissances supporte-t-elle ?"
     a:

@@ -5,6 +5,9 @@ faq:
   - q: "¿Cómo conecto mis redes sociales a Bazam.ai?"
     a:
       - "Desde la configuración del proyecto, selecciona la plataforma y autoriza la conexión. El proceso es seguro y tarda menos de un minuto por plataforma."
+  - q: "¿Cómo conecto mis redes sociales a una herramienta de marketing con IA?"
+    a:
+      - "En Bazam.ai, desde la configuración del proyecto seleccionas la plataforma y autorizas la conexión. El proceso es seguro, tarda menos de un minuto y no compartes contraseñas."
   - q: "¿Qué permisos necesita Bazam.ai?"
     a:
       - "Permiso de publicación y lectura de analítica. Bazam.ai no accede a mensajes privados ni a datos personales de tus seguidores."

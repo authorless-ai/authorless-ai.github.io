@@ -5,6 +5,9 @@ faq:
   - q: "Quais funções de equipe o Bazam.ai suporta?"
     a:
       - "Admin, editor e colaborador. Admins gerenciam configurações, faturamento e acessos. Editores revisam e publicam. Colaboradores criam pelo agente de Bazam.ai. Cada função tem permissões apropriadas."
+  - q: "Quais funções de equipe uma ferramenta de marketing IA suporta?"
+    a:
+      - "O Bazam.ai suporta admin, editor e colaborador. Admins gerenciam configurações. Editores revisam e publicam. Colaboradores criam pela IA. Cada função com permissões adequadas."
 
   - q: "Como evito publicação sem aprovação?"
     a:

@@ -10,6 +10,10 @@ faq:
     a:
       - "Yes. Bazam.ai publishes directly to Instagram — posts, stories, and reels. The AI agent creates Instagram-optimised content with captions, hashtags, and image formatting. Schedule and publish without opening the Instagram app."
 
+  - q: "Can I publish Instagram posts with an AI tool?"
+    a:
+      - "Yes. With Bazam.ai, the AI agent writes captions, suggests hashtags, and formats content specifically for Instagram — posts, stories, and reels. Schedule everything from one dashboard and publish directly without opening the Instagram app. The AI adapts your brand voice for Instagram's format automatically."
+
   - q: "How do I publish to TikTok from a marketing tool?"
     a:
       - "Connect your TikTok account to Bazam.ai. The AI agent creates TikTok-optimised scripts and captions, and you publish directly from the platform. Schedule TikTok content alongside all your other channels."
@@ -18,9 +22,17 @@ faq:
     a:
       - "Yes. Bazam.ai creates YouTube video titles, descriptions, and tags optimised for discovery. Publish directly from the platform alongside your social media content."
 
+  - q: "Can AI write YouTube titles and descriptions?"
+    a:
+      - "Yes. Bazam.ai's AI agent writes YouTube titles, descriptions, and tags optimised for search discovery — based on your content, brand voice, and target audience. It creates SEO-friendly metadata that helps videos get found, and you publish directly alongside all your other social content."
+
   - q: "How do I publish to X/Twitter from Bazam.ai?"
     a:
       - "Connect your X account and create content through the AI agent. It drafts tweets, threads, and replies optimised for X's format. Schedule and publish alongside all your other platforms."
+
+  - q: "How do I automate Twitter/X posts with AI?"
+    a:
+      - "Connect your X account to Bazam.ai and the AI agent drafts tweets, threads, and replies in your brand voice. Schedule posts for optimal times and publish automatically — alongside Facebook, Instagram, LinkedIn, YouTube, and TikTok from the same dashboard. No more manually composing tweets."
 
   - q: "How many platforms can I connect to Bazam.ai?"
     a:

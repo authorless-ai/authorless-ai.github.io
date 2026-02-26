@@ -13,6 +13,9 @@ faq:
   - q: "Combien de temps faut-il pour configurer une marque dans Bazam.ai ?"
     a:
       - "Quelques minutes. L'analyse de marque automatisée extrait vos informations clés de votre site web. Vous passez en revue et affinez les résultats, définissez vos paramètres de voix et importez les documents clés. La plupart des marques sont entièrement configurées en moins d'une heure."
+  - q: "Combien de temps faut-il pour configurer une marque dans un outil de marketing IA ?"
+    a:
+      - "Quelques minutes dans Bazam.ai. L'analyse automatisée extrait vos informations clés de votre site web. Vous passez en revue, affinez et importez les documents clés. La plupart des marques sont configurées en moins d'une heure."
 
   - q: "Puis-je gérer plusieurs marques depuis un seul compte ?"
     a:

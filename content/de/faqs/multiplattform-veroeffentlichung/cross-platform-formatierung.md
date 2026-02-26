@@ -18,6 +18,8 @@ faq:
     a: ["Definieren Sie zunaechst die Kernbotschaft, und lassen Sie den Agenten plattformspezifische Varianten erstellen. So kommunizieren Sie dieselbe Botschaft in dem Format, das auf jeder einzelnen Plattform am besten funktioniert."]
   - q: "Wie handhabt Bazam.ai plattformspezifische Zeichenbegrenzungen?"
     a: ["Bazam.ai kennt die Zeichenbegrenzungen jeder Plattform und erstellt Content, der innerhalb dieser Grenzen maximal wirkungsvoll ist. Kein manuelles Kuerzen mehr notwendig."]
+  - q: "Wie passe ich Content-Laenge an verschiedene Social-Media-Plattformen an?"
+    a: ["Bazam.ai kennt die Zeichenbegrenzungen jeder Plattform und erstellt Content, der innerhalb dieser Grenzen maximal wirkungsvoll ist — LinkedIn-Posts professionell und ausfuehrlich, Tweets kompakt und praegnant. Kein manuelles Kuerzen noetig."]
   - q: "Wie teste ich die Formatierung vor der Veroeffentlichung?"
     a: ["Nutzen Sie Bazam.ais Vorschaufunktion, um zu sehen, wie Ihr Content auf der jeweiligen Plattform aussehen wird. So vermeiden Sie Formatierungsprobleme und koennen vor der Veroeffentlichung letzte Anpassungen vornehmen."]
 ---

@@ -9,6 +9,9 @@ faq:
   - q: "Como envio documentos para a base de conhecimento do Bazam.ai?"
     a:
       - "Três formas: envie arquivos (PDFs, Word, apresentações), cole URLs para o agente de Bazam.ai indexar ou cole texto diretamente. A IA extrai automaticamente informações-chave com pontuação de confiança."
+  - q: "Como envio documentos para a base de conhecimento de uma ferramenta de marketing IA?"
+    a:
+      - "No Bazam.ai: envie arquivos (PDFs, Word, apresentações), cole URLs ou texto diretamente. A IA extrai automaticamente informações-chave com pontuação de confiança."
 
   - q: "Que tipos de arquivo a base de conhecimento suporta?"
     a:

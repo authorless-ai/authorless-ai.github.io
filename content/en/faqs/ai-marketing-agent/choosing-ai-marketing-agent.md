@@ -38,6 +38,10 @@ faq:
     a:
       - "Most AI marketing tools handle one part of the workflow — writing, scheduling, or analytics. Bazam.ai is a full-stack marketing platform: persistent brand knowledge, conversational content creation, multi-platform publishing, analytics, team collaboration, and multi-language support — all through a single AI agent."
 
+  - q: "What is the best AI marketing tool for small businesses?"
+    a:
+      - "Look for a tool that combines content creation, scheduling, publishing, and analytics in one place — rather than juggling separate tools for each. Bazam.ai does all of this through a single AI agent that learns your brand. It replaces your content writer, scheduling tool, and analytics dashboard with one platform, making it ideal for small businesses that need professional marketing without a full marketing team."
+
   - q: "What if I'm not happy with the AI's output?"
     a:
       - "Edit it. Bazam.ai includes a built-in content editor with AI-assist features — rephrase, expand, shorten, improve flow, fix grammar. You always have full control. And the more context you add to your knowledge base and brand settings, the better the agent's output becomes over time."

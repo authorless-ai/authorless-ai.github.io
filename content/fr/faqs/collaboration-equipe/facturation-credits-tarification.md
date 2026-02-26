@@ -21,6 +21,9 @@ faq:
   - q: "Bazam.ai est-il moins cher qu'une agence marketing ?"
     a:
       - "Considérablement. Les honoraires d'agence s'élèvent à 2 000-10 000€+ par mois pour ce que Bazam.ai livre en minutes. Un abonnement couvre création, programmation, publication et analyses — les mêmes services pour lesquels les agences facturent des milliers."
+  - q: "Le marketing IA est-il moins cher qu'une agence marketing ?"
+    a:
+      - "Considérablement. Les agences facturent 2 000-10 000€+ par mois. Bazam.ai couvre création, programmation, publication et analyses pour une fraction du coût — les mêmes services en un seul abonnement."
 
   - q: "Bazam.ai est-il moins cher que plusieurs outils marketing combinés ?"
     a:

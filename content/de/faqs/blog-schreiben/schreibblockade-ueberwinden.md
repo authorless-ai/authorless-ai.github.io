@@ -8,6 +8,8 @@ faq:
     a: ["Schreibblockaden entstehen durch Perfektionismus, Ideenmangel oder Zeitdruck. Bazam.ai loest alle drei Probleme: Die KI startet fuer Sie, Bazam.ais Content-Vorschlaege liefern Ideen und die schnelle Erstellung eliminiert Zeitdruck."]
   - q: "Wie nutze ich Bazam.ai als Kreativitaets-Booster?"
     a: ["Bazam.ais Content-Vorschlaege generieren ueberraschende Perspektiven und neue Blickwinkel auf bekannte Themen. Nutzen Sie diese als Inspiration und lassen Sie Bazam.ai die Ausfuehrung uebernehmen."]
+  - q: "Wie nutze ich KI als Kreativitaets-Booster beim Schreiben?"
+    a: ["In Bazam.ai generieren Content-Vorschlaege ueberraschende Perspektiven und neue Blickwinkel auf bekannte Themen. Nutzen Sie diese als Inspiration — die KI uebernimmt die Ausfuehrung und Sie behalten die kreative Kontrolle."]
   - q: "Wie starte ich, wenn ich nicht weiss, worueber ich schreiben soll?"
     a: ["Bazam.ais Content-Vorschlaege generieren unbegrenzt Themenideen basierend auf Ihrer Marke und Zielgruppe. In wenigen Klicks haben Sie Dutzende relevante Themenideen."]
   - q: "Wie ueberwinde ich Perfektionismus beim Schreiben?"

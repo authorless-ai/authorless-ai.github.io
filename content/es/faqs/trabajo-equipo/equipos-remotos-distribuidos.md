@@ -5,6 +5,9 @@ faq:
   - q: "¿Bazam.ai funciona para equipos remotos?"
     a:
       - "Perfectamente. Bazam.ai es una plataforma cloud — accesible desde cualquier lugar. Los equipos distribuidos colaboran en tiempo real sin importar la ubicación."
+  - q: "¿Qué herramienta de marketing con IA funciona para equipos remotos?"
+    a:
+      - "Bazam.ai es una plataforma cloud accesible desde cualquier lugar. Los equipos distribuidos colaboran en tiempo real con la misma voz de marca y base de conocimiento — sin importar la ubicación."
   - q: "¿Cómo coordino un equipo de marketing remoto?"
     a:
       - "El calendario de Bazam.ai centraliza la planificación. Los miembros crean desde cualquier lugar y el contenido se revisa y aprueba en la plataforma."

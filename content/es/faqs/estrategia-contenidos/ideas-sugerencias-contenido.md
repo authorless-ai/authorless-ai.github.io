@@ -5,6 +5,9 @@ faq:
   - q: "¿Cómo genera Bazam.ai ideas de contenido?"
     a:
       - "Analizando tu marca, audiencia, sector e historial de publicaciones. Las sugerencias identifican temas con potencial para tu audiencia, lagunas de cobertura y oportunidades de formato. Ideas frescas cada vez que preguntas."
+  - q: "¿Cómo genera la IA ideas de contenido para mi negocio?"
+    a:
+      - "Bazam.ai analiza tu marca, audiencia, sector e historial para sugerir temas con potencial, identificar lagunas de cobertura y recomendar formatos. Ideas frescas y relevantes cada vez que las necesitas."
   - q: "¿Las sugerencias se adaptan a mi negocio específico?"
     a:
       - "Sí. Las sugerencias se basan en tu configuración de marca, personas de audiencia y base de conocimiento. Cuanto más contexto tenga el agente de Bazam.ai, más específicas y relevantes serán las ideas."

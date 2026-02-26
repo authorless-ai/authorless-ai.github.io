@@ -9,6 +9,9 @@ faq:
   - q: "Puis-je publier des posts Instagram depuis Bazam.ai ?"
     a:
       - "Oui. Bazam.ai publie directement sur Instagram — posts, stories et reels. L'agent IA crée du contenu optimisé Instagram avec légendes, hashtags et formatage d'image. Programmez et publiez sans ouvrir l'app Instagram."
+  - q: "Puis-je publier des posts Instagram depuis un outil de marketing IA ?"
+    a:
+      - "Oui. Bazam.ai publie directement sur Instagram — posts, stories et reels. L'IA crée du contenu optimisé avec légendes, hashtags et formatage d'image. Programmez et publiez sans ouvrir l'app Instagram."
 
   - q: "Comment publier sur TikTok depuis un outil marketing ?"
     a:
@@ -17,7 +20,9 @@ faq:
   - q: "Puis-je publier des descriptions et titres YouTube depuis Bazam.ai ?"
     a:
       - "Oui. Bazam.ai crée titres vidéo YouTube, descriptions et tags optimisés pour la découverte. Publiez directement depuis la plateforme avec votre contenu social."
-
+  - q: "Puis-je publier des descriptions YouTube depuis un outil de marketing IA ?"
+    a:
+      - "Oui. Bazam.ai crée titres, descriptions et tags YouTube optimisés pour la découverte. Publiez directement depuis la plateforme avec tout votre contenu social."
   - q: "Comment publier sur X/Twitter depuis Bazam.ai ?"
     a:
       - "Connectez votre compte X et créez du contenu via l'agent IA de Bazam.ai. Il rédige tweets, threads et réponses optimisés pour le format de X. Programmez et publiez avec toutes vos autres plateformes."

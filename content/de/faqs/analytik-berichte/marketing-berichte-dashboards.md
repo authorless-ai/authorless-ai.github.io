@@ -4,6 +4,8 @@ description: "Wie Sie professionelle Marketing-Berichte und Dashboards mit Bazam
 faq:
   - q: "Wie erstelle ich Marketing-Berichte mit Bazam.ai?"
     a: ["Bazam.ais Analytik liefert Performance-Daten pro Beitrag und Plattform. Nutzen Sie diese Daten als Basis fuer professionelle Marketing-Berichte, die Sie mit weiteren Geschaeftsdaten ergaenzen."]
+  - q: "Wie erstelle ich professionelle Marketing-Berichte?"
+    a: ["Nutzen Sie Performance-Daten pro Beitrag und Plattform als Basis. Bazam.ai liefert diese Daten automatisch — Engagement, Reichweite, Veroeffentlichungsfrequenz und Plattform-Vergleiche. Ergaenzen Sie mit Geschaeftsdaten fuer einen vollstaendigen Marketing-Bericht."]
   - q: "Welche Elemente gehoeren in einen Marketing-Bericht?"
     a: ["Content-Output, Engagement-Metriken, Reichweite und Performance-Trends bilden den Kern. Bazam.ais Analytik liefert alle diese Daten und macht die Berichterstellung effizient."]
   - q: "Wie erstelle ich Berichte fuer verschiedene Stakeholder?"

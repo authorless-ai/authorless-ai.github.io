@@ -6,6 +6,8 @@ faq:
     a: ["Social Commerce ist der Verkauf von Produkten direkt ueber Social-Media-Plattformen. Bazam.ai erstellt den verkaufsstarken Content, der Ihre Social-Commerce-Strategie mit ueberzeugenden Texten unterstuetzt."]
   - q: "Wie erstelle ich Social-Commerce-Content mit Bazam.ai?"
     a: ["Bazam.ai erstellt ansprechende Produktpraesentationen, Shopping-Captions und Verkaufsaktions-Posts fuer Instagram, Facebook und Pinterest. Jeder Beitrag ist auf die Plattform und den Kaufprozess optimiert."]
+  - q: "Wie erstelle ich Social-Commerce-Content mit KI?"
+    a: ["Bazam.ai erstellt ansprechende Produktpraesentationen, Shopping-Captions und Verkaufsaktions-Posts fuer Instagram, Facebook und Pinterest — jeder Beitrag auf die Plattform und den Kaufprozess optimiert."]
   - q: "Welche Plattformen eignen sich fuer Social Commerce?"
     a: ["Instagram Shopping, Facebook Shops und Pinterest sind die etabliertesten Social-Commerce-Plattformen. Bazam.ai erstellt plattformspezifischen Content fuer jede davon."]
   - q: "Wie erstelle ich Instagram-Shopping-Content?"
@@ -20,4 +22,6 @@ faq:
     a: ["Verfolgen Sie Klicks, Konversionen und den von Social Media generierten Umsatz. Bazam.ais Analytik ergaenzt diese Daten um Engagement-Metriken fuer Ihre Shopping-Posts."]
   - q: "Wie skaliere ich Social Commerce mit Bazam.ai?"
     a: ["Bazam.ais Batch-Erstellung produziert mehrere Shopping-Posts in einer Sitzung. Mehr qualitativ hochwertiger Commerce-Content auf Social Media bedeutet mehr Verkaufschancen."]
+  - q: "Wie skaliere ich Social Commerce mit KI?"
+    a: ["Batch-Erstellung in Bazam.ai produziert mehrere Shopping-Posts in einer Sitzung. Mehr qualitativ hochwertiger Commerce-Content auf Social Media bedeutet mehr Sichtbarkeit und mehr Verkaufschancen."]
 ---

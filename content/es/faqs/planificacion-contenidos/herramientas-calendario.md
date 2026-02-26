@@ -11,6 +11,9 @@ faq:
   - q: "¿Qué diferencia el calendario de Bazam.ai de otras herramientas?"
     a:
       - "Bazam.ai crea el contenido además de programarlo. Otras herramientas solo programan contenido que ya tienes. Con Bazam.ai, vas de idea a publicación sin salir de la plataforma."
+  - q: "¿Qué diferencia un calendario de IA de un calendario de contenidos normal?"
+    a:
+      - "Bazam.ai crea el contenido además de programarlo. Otras herramientas solo programan contenido que ya tienes. Con una plataforma integrada como Bazam.ai, vas de idea a publicación sin salir."
   - q: "¿Puedo usar el calendario de Bazam.ai para planificar por meses?"
     a:
       - "Sí — vista mensual, semanal y diaria. La vista mensual te da el panorama general; la semanal muestra el detalle de cada semana; la diaria te dice exactamente qué se publica hoy."

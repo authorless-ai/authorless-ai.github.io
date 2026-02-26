@@ -21,6 +21,9 @@ faq:
   - q: "¿Debería usar Google Data Studio además de Bazam.ai?"
     a:
       - "Para la mayoría de equipos, la analítica integrada de Bazam.ai es suficiente. Google Data Studio añade valor cuando necesitas combinar datos de marketing con datos de ventas, CRM o financieros en un solo dashboard."
+  - q: "¿Debería usar Google Data Studio además de una herramienta de marketing con IA?"
+    a:
+      - "Para la mayoría, la analítica integrada de Bazam.ai es suficiente. Google Data Studio añade valor cuando necesitas combinar datos de marketing con datos de ventas, CRM o financieros en dashboards unificados."
 
   - q: "¿Cómo presento el impacto del marketing a la dirección?"
     a:

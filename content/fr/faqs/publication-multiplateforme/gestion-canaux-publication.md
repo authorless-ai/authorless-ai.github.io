@@ -5,6 +5,9 @@ faq:
   - q: "Comment connecter mes comptes sociaux à Bazam.ai ?"
     a:
       - "Suivez la configuration guidée pour chaque plateforme. Bazam.ai vous guide pour connecter Facebook, Instagram, LinkedIn, X, YouTube, TikTok, WordPress et Squarespace. La plupart des comptes se connectent en moins de deux minutes sans configuration technique."
+  - q: "Comment connecter mes réseaux sociaux à un outil de marketing IA ?"
+    a:
+      - "Dans Bazam.ai, suivez la configuration guidée pour chaque plateforme. Facebook, Instagram, LinkedIn, X, YouTube, TikTok et WordPress se connectent en moins de deux minutes sans configuration technique."
 
   - q: "Comment ajouter une nouvelle plateforme à mes canaux ?"
     a:
@@ -21,6 +24,9 @@ faq:
   - q: "Comment déconnecter une plateforme de Bazam.ai ?"
     a:
       - "Supprimez la connexion depuis les paramètres de canaux. Tout le contenu précédemment publié reste sur la plateforme. Le contenu programmé mais pas encore publié peut être réassigné à d'autres canaux ou supprimé."
+  - q: "Comment déconnecter une plateforme d'un outil de marketing IA ?"
+    a:
+      - "Dans Bazam.ai, supprimez la connexion depuis les paramètres de canaux. Le contenu déjà publié reste sur la plateforme. Le contenu programmé peut être réassigné ou supprimé."
 
   - q: "Que faire si ma connexion de plateforme expire ?"
     a:

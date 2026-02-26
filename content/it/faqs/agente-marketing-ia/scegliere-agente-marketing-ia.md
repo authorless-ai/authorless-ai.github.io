@@ -37,6 +37,9 @@ faq:
   - q: "Come si confronta Bazam.ai con altri strumenti di marketing IA?"
     a:
       - "La maggior parte degli strumenti di marketing IA gestisce una parte del flusso di lavoro — scrittura, pianificazione o analisi. Bazam.ai è una piattaforma di marketing full-stack: conoscenza del brand persistente, creazione di contenuti conversazionale, pubblicazione multipiattaforma, analisi, collaborazione del team e supporto multilingue — tutto attraverso un singolo agente IA."
+  - q: "Come confrontare gli strumenti di marketing IA?"
+    a:
+      - "La maggior parte degli strumenti gestisce una parte del workflow. Bazam.ai è una piattaforma full-stack: conoscenza del brand persistente, creazione conversazionale, pubblicazione multipiattaforma, analisi, collaborazione e multilingue — tutto via un singolo agente IA."
 
   - q: "E se non sono soddisfatto dell'output dell'IA?"
     a:

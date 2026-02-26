@@ -13,6 +13,9 @@ faq:
   - q: "Como o Bazam.ai protege meus documentos?"
     a:
       - "Armazenamento seguro com criptografia. Acesso controlado por permissões baseadas em função. Sua propriedade intelectual, dados de clientes e inteligência de negócio são protegidos em todos os níveis."
+  - q: "Como uma ferramenta de marketing IA protege meus documentos?"
+    a:
+      - "No Bazam.ai, armazenamento seguro com criptografia. Acesso controlado por permissões baseadas em função. Propriedade intelectual e dados de clientes protegidos em todos os níveis."
 
   - q: "Posso excluir documentos da base de conhecimento?"
     a:

@@ -9,6 +9,9 @@ faq:
   - q: "O que é um projeto no Bazam.ai?"
     a:
       - "Workspace isolado para marca ou cliente. Contém configurações, personas, base, canais, calendário e análises próprios. Tudo dentro de um projeto é separado dos demais."
+  - q: "O que é um projeto em uma ferramenta de marketing com IA?"
+    a:
+      - "No Bazam.ai, um projeto é um workspace isolado para marca ou cliente — com configurações, personas, base de conhecimento, canais, calendário e análises próprios. Tudo separado entre projetos."
 
   - q: "Como agências gerenciam múltiplos clientes?"
     a:

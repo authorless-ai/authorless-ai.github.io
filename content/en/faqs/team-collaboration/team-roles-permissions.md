@@ -6,6 +6,10 @@ faq:
     a:
       - "Bazam.ai supports admin, editor, and contributor roles. Admins manage brand settings, billing, and team access. Editors review and publish content. Contributors create content through the agent. Each role has appropriate permissions."
 
+  - q: "How do marketing teams manage content permissions?"
+    a:
+      - "Use role-based access controls. In Bazam.ai, admins manage brand settings, billing, and team access. Editors review and publish content. Contributors create through the AI agent but can't publish directly. Approval workflows ensure nothing goes live without the right sign-off — quality control without bottlenecks."
+
   - q: "How do I prevent team members from publishing without approval?"
     a:
       - "Set up approval workflows. Contributors create content but can't publish directly. Editors and admins review and approve before anything goes live. This ensures quality control without slowing down content production."
@@ -17,6 +21,10 @@ faq:
   - q: "Can freelancers use Bazam.ai alongside my team?"
     a:
       - "Yes. Invite freelancers with contributor access. They create content through Bazam.ai's agent using your brand voice and knowledge base — producing on-brand work without extensive briefing. Your team reviews and approves."
+
+  - q: "How do I give freelancers access to my marketing tools?"
+    a:
+      - "In Bazam.ai, invite freelancers with contributor-level access. They create content through the AI agent using your brand voice and knowledge base — producing on-brand work without extensive briefing documents. Your team reviews and approves before publishing. Freelancers work within your system without seeing billing or brand configuration."
 
   - q: "How do I track who created which content?"
     a:

@@ -4,6 +4,8 @@ description: "Wie Bazam.ai Ihre Unternehmensdaten in der Wissensdatenbank schuet
 faq:
   - q: "Wie schuetzt Bazam.ai meine Daten in der Wissensdatenbank?"
     a: ["Ihre Wissensdatenbank ist verschluesselt und nur fuer autorisierte Teammitglieder Ihres Projekts zugaenglich. Bazam.ai verwendet Ihre Daten ausschliesslich fuer die Content-Erstellung innerhalb Ihres Projekts und gibt sie nicht an Dritte weiter."]
+  - q: "Wie sicher sind Unternehmensdaten in einem KI-Marketing-Tool?"
+    a: ["In Bazam.ai ist Ihre Wissensdatenbank verschluesselt und nur fuer autorisierte Teammitglieder zugaenglich. Ihre Daten werden ausschliesslich fuer die Content-Erstellung verwendet und nicht an Dritte weitergegeben oder fuer KI-Training genutzt."]
   - q: "Wer hat Zugang zu meiner Wissensdatenbank?"
     a: ["Nur Teammitglieder mit Zugang zu dem spezifischen Projekt koennen die zugehoerige Wissensdatenbank einsehen. Die rollenbasierten Berechtigungen steuern praezise, wer welche Informationen sehen und bearbeiten kann."]
   - q: "Werden meine Daten fuer das Training von KI-Modellen verwendet?"

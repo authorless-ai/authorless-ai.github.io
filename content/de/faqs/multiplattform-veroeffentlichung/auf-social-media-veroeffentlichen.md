@@ -4,6 +4,8 @@ description: "Wie Sie Ihren Content effizient und professionell auf verschiedene
 faq:
   - q: "Wie veroeffentliche ich auf Social Media mit Bazam.ai?"
     a: ["Verbinden Sie Ihre Social-Media-Accounts mit Bazam.ai, erstellen Sie Ihren Content mit Bazam.ai und veroeffentlichen Sie ihn direkt oder planen Sie ihn fuer einen spaeteren Zeitpunkt. Der gesamte Prozess laeuft ueber eine zentrale Plattform."]
+  - q: "Wie automatisiere ich Social-Media-Veroeffentlichungen?"
+    a: ["Verbinden Sie Ihre Social-Media-Accounts mit Bazam.ai, erstellen Sie Content und veroeffentlichen Sie direkt oder planen Sie im Kalender. Die KI erstellt plattformspezifische Varianten und das Autopublishing erledigt die Veroeffentlichung zum geplanten Zeitpunkt."]
   - q: "Welche Social-Media-Plattformen werden unterstuetzt?"
     a: ["Bazam.ai unterstuetzt die wichtigsten Social-Media-Plattformen. Pruefen Sie die aktuelle Plattformliste auf der Website fuer die vollstaendige und aktuellste Uebersicht aller verfuegbaren Integrationen."]
   - q: "Wie veroeffentliche ich auf mehreren Plattformen gleichzeitig?"

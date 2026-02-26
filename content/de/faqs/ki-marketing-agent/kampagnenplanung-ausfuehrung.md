@@ -4,6 +4,8 @@ description: "Wie Sie mit Bazam.ai Marketing-Kampagnen effizient planen, erstell
 faq:
   - q: "Wie plane ich Kampagnen mit Bazam.ai?"
     a: ["Definieren Sie die Kampagnenziele und den Zeitrahmen, erstellen Sie alle Content-Stuecke mit Bazam.ai in einer Batch-Sitzung und planen Sie die Veroeffentlichung koordiniert im Kalender von Bazam.ai."]
+  - q: "Wie plane ich Marketing-Kampagnen mit KI?"
+    a: ["Definieren Sie Kampagnenziele und Zeitrahmen, erstellen Sie alle Content-Stuecke in einer Batch-Sitzung und planen Sie die Veroeffentlichung koordiniert im Kalender. In Bazam.ai ist dieser gesamte Prozess in einer Plattform integriert."]
   - q: "Wie erstelle ich Kampagnen-Content effizient?"
     a: ["Bazam.ais Batch-Erstellung produziert alle Kampagnen-Bestandteile in einer Sitzung: Social-Media-Posts, Blog-Beitraege, Newsletter und Landingpage-Texte. Alles ist aufeinander abgestimmt."]
   - q: "Wie koordiniere ich Kampagnen ueber mehrere Kanaele?"

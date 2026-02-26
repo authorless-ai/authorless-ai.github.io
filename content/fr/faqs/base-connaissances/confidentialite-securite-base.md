@@ -13,6 +13,9 @@ faq:
   - q: "Comment Bazam.ai protège-t-il mes documents importés ?"
     a:
       - "Bazam.ai stocke les documents de manière sécurisée avec un stockage chiffré. L'accès est contrôlé par des permissions basées sur les rôles. Votre propriété intellectuelle, données clients et intelligence business sont protégées à chaque niveau."
+  - q: "Comment un outil de marketing IA protège-t-il mes documents ?"
+    a:
+      - "Dans Bazam.ai, les documents sont stockés avec un chiffrement sécurisé. L'accès est contrôlé par des permissions basées sur les rôles. Votre propriété intellectuelle et données clients sont protégées à chaque niveau."
 
   - q: "Puis-je supprimer des documents de ma base ?"
     a:

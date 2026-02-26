@@ -6,6 +6,8 @@ faq:
     a: ["Ein Blog generiert organischen Traffic, baut Vertrauen auf und positioniert Sie als Experte. Bazam.ai macht Business-Blogging kosteneffizient, indem es professionelle Beitraege in Minuten erstellt."]
   - q: "Wie starte ich einen Business-Blog mit Bazam.ai?"
     a: ["Erstellen Sie einen WordPress-Blog, richten Sie Ihr Projekt in Bazam.ai ein, konfigurieren Sie Ihre Markenstimme und fuellen Sie die Wissensdatenbank. Danach erstellt Bazam.ai professionelle Beitraege in Ihrer Unternehmenssprache."]
+  - q: "Wie starte ich einen Business-Blog mit KI?"
+    a: ["Erstellen Sie einen WordPress-Blog, richten Sie Ihr KI-Projekt ein, konfigurieren Sie Ihre Markenstimme und fuellen Sie die Wissensdatenbank. In Bazam.ai erstellt die KI danach professionelle Beitraege in Ihrer Unternehmenssprache — in Minuten statt Stunden."]
   - q: "Welche Themen eignen sich fuer einen Business-Blog?"
     a: ["Themen, die Ihre Zielkunden interessieren: Branchentrends, Problemloesungen, Anleitungen und Experteneinblicke. Bazam.ais Content-Vorschlaege generieren relevante Themenideen basierend auf Ihrer Branche."]
   - q: "Wie generiere ich Leads ueber meinen Blog?"

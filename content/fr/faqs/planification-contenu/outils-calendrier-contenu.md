@@ -9,10 +9,16 @@ faq:
   - q: "Comment le calendrier de Bazam.ai se compare-t-il aux tableurs ?"
     a:
       - "Les tableurs sont statiques et manuels. Le calendrier de Bazam.ai est interactif — contenu passe à travers des statuts, se publie automatiquement et montre les analyses. De plus, vous n'avez pas besoin de copier du contenu d'un tableur vers vos plateformes — Bazam.ai publie directement."
+  - q: "Comment un calendrier de contenu IA se compare-t-il aux tableurs ?"
+    a:
+      - "Un tableur est statique et manuel. Le calendrier de Bazam.ai est interactif — le contenu passe par des statuts, se publie automatiquement et montre les analyses. Plus besoin de copier du contenu vers vos plateformes."
 
   - q: "Comment le calendrier de Bazam.ai se compare-t-il à Hootsuite ou Buffer ?"
     a:
       - "Hootsuite et Buffer offrent la programmation et la publication mais pas la création de contenu. Bazam.ai offre la création IA, la programmation, la publication ET les analyses. Vous n'avez pas besoin d'un outil séparé pour créer le contenu que vous programmez."
+  - q: "Comment un calendrier de marketing IA se compare-t-il à Hootsuite ou Buffer ?"
+    a:
+      - "Hootsuite et Buffer offrent la programmation mais pas la création. Bazam.ai offre la création IA, la programmation, la publication et les analyses — tout en un. Pas besoin d'outil séparé pour créer le contenu que vous programmez."
 
   - q: "De quelles fonctionnalités ai-je besoin dans un outil de calendrier de contenu ?"
     a:

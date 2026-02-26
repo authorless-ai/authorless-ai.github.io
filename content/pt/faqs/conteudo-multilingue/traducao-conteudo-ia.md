@@ -9,6 +9,9 @@ faq:
   - q: "Quantos idiomas o Bazam.ai suporta?"
     a:
       - "Mais de 50 idiomas. De mercados principais como espanhol, francês, alemão, português e mandarim até nichos na Ásia, Oriente Médio e África. Alcance qualquer audiência no idioma nativo."
+  - q: "Quantos idiomas uma ferramenta de marketing com IA suporta?"
+    a:
+      - "O Bazam.ai suporta mais de 50 idiomas — dos principais mercados até nichos regionais. Cada conteúdo respeita sua voz de marca em cada idioma."
 
   - q: "Tradução com IA é boa o suficiente para marketing?"
     a:

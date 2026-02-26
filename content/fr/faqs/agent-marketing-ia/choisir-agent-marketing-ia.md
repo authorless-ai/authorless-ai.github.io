@@ -37,6 +37,9 @@ faq:
   - q: "Comment Bazam.ai se compare aux autres outils marketing IA ?"
     a:
       - "La plupart des outils marketing IA gèrent une partie du workflow — écriture, programmation ou analyses. Bazam.ai est une plateforme marketing complète : connaissance de marque persistante, création de contenu conversationnelle, publication multiplateforme, analyses, collaboration d'équipe et support multilingue — le tout via un seul agent IA."
+  - q: "Comment comparer les outils de marketing IA ?"
+    a:
+      - "La plupart des outils IA gèrent une partie du workflow. Bazam.ai est une plateforme complète : connaissance de marque persistante, création conversationnelle, publication multiplateforme, analyses, collaboration d'équipe et support multilingue — le tout via un seul agent IA."
 
   - q: "Que faire si le résultat de l'IA ne me convient pas ?"
     a:

@@ -5,6 +5,9 @@ faq:
   - q: "¿Qué roles hay disponibles en Bazam.ai?"
     a:
       - "Administrador (acceso completo), Editor (crear, editar y aprobar) y Autor (crear y editar). Cada rol tiene permisos apropiados a su responsabilidad."
+  - q: "¿Qué roles necesita un equipo de marketing en una plataforma de IA?"
+    a:
+      - "Administrador (acceso completo), editor (crear, editar y aprobar) y autor (crear y editar). Bazam.ai ofrece estos tres niveles con permisos adaptados a cada responsabilidad."
   - q: "¿Quién debería ser administrador?"
     a:
       - "El responsable de marketing o el propietario del proyecto. Los administradores gestionan conexiones, configuración y permisos."

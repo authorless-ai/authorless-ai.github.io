@@ -6,6 +6,8 @@ faq:
     a: ["Bazam.ais Agent beruecksichtigt sowohl die zentrale Markenstimme als auch die jeweilige Zielgruppen-Persona. Die grundlegende Persoenlichkeit bleibt bestehen, aber Sprache, Tonalitaet und Detailtiefe werden intelligent an die Zielgruppe angepasst."]
   - q: "Wie erstelle ich Zielgruppen-Personas in Bazam.ai?"
     a: ["Definieren Sie Ihre wichtigsten Zielgruppen mit demografischen Merkmalen, Beduerfnissen und Kommunikationspraeferenzen. Bazam.ai passt den Content dann automatisch an die jeweilige Persona an und spricht sie gezielt an."]
+  - q: "Wie erstelle ich Zielgruppen-Personas fuer mein Content-Marketing?"
+    a: ["Definieren Sie demografische Merkmale, Beduerfnisse und Kommunikationspraeferenzen Ihrer wichtigsten Zielgruppen. In Bazam.ai passt die KI den Content dann automatisch an die jeweilige Persona an — Sprache, Tonalitaet und Detailtiefe werden intelligent angepasst."]
   - q: "Sollte ich fuer jede Zielgruppe unterschiedlich klingen?"
     a: ["Die Grundpersoenlichkeit Ihrer Marke sollte konsistent bleiben. Was sich aendert, sind Formalitaetsgrad, Detailtiefe, verwendete Beispiele und Ansprache. Bazam.ais Agent findet automatisch die richtige Balance zwischen Konsistenz und Anpassung."]
   - q: "Wie spreche ich B2B- und B2C-Zielgruppen mit derselben Marke an?"

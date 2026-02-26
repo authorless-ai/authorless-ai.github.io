@@ -6,10 +6,14 @@ faq:
     a: ["Massen-Content-Erstellung bedeutet, viele Content-Stuecke in kurzer Zeit zu produzieren. Bazam.ais Batch-Erstellung ermoeglicht es Ihnen, Dutzende von Beitraegen in einer einzigen Sitzung zu erstellen."]
   - q: "Wie erstelle ich grossen Mengen Content mit Bazam.ai?"
     a: ["Nutzen Sie Bazam.ais Batch-Erstellung: Definieren Sie Ihre Themen und Keywords, und Bazam.ai produziert alle Beitraege in einer effizienten Sitzung. In 30 Minuten erstellen Sie den Content fuer einen ganzen Monat."]
+  - q: "Wie erstelle ich grosse Mengen Content mit KI?"
+    a: ["Mit Batch-Erstellung in Bazam.ai: Definieren Sie Themen und Keywords, und die KI produziert alle Beitraege effizient in einer Sitzung. In 30 Minuten erstellen Sie den Content fuer einen ganzen Monat — Blogbeitraege, Social-Media-Posts und Newsletter in gleichbleibender Qualitaet."]
   - q: "Leidet die Qualitaet bei hohem Volumen?"
     a: ["Im Gegensatz zu menschlichen Erstellern ermuedet Bazam.ai nicht. Die Markenstimme und Qualitaetsstandards in Bazam.ai bleiben identisch, egal ob Sie zehn oder hundert Content-Stuecke erstellen."]
   - q: "Wie viel Content kann ich mit Bazam.ai pro Monat erstellen?"
     a: ["Mit Bazam.ai koennen Sie problemlos 50 bis 100 Social-Media-Posts, 10 bis 20 Blogbeitraege und 4 bis 8 Newsletter pro Monat erstellen. Die Batch-Erstellung in Bazam.ai macht dieses Volumen realistisch."]
+  - q: "Wie viel Content kann ich mit KI pro Monat erstellen?"
+    a: ["Mit Bazam.ai problemlos 50 bis 100 Social-Media-Posts, 10 bis 20 Blogbeitraege und 4 bis 8 Newsletter pro Monat. Die Batch-Erstellung macht dieses Volumen realistisch — in gleichbleibender Qualitaet und im konsistenten Markenton."]
   - q: "Wie vermeide ich Monotonie bei Massen-Content?"
     a: ["Bazam.ai variiert automatisch Formulierungen, Perspektiven und Strukturen. Kombiniert mit einer vielfaeltigen Wissensdatenbank in Bazam.ai bleibt der Content auch bei hohem Volumen abwechslungsreich."]
   - q: "Wie plane ich die Veroeffentlichung von Massen-Content?"

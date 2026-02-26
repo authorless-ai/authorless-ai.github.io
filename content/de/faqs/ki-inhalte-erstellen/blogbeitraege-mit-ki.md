@@ -8,6 +8,8 @@ faq:
     a: ["Bazam.ai erstellt Blogbeitraege, deren Qualitaet von manuell geschriebenen Beitraegen praktisch nicht zu unterscheiden ist. Die Kombination aus Ihrer Markenstimme und der Wissensdatenbank in Bazam.ai macht den Content spezifisch und authentisch."]
   - q: "Wie lange dauert die Erstellung eines Blogbeitrags mit Bazam.ai?"
     a: ["Bazam.ai erstellt einen vollstaendigen Blogbeitrag mit 1.500 bis 2.000 Woertern in wenigen Minuten. Im Vergleich zu mehreren Stunden manueller Arbeit ist das eine Zeitersparnis von ueber 90 Prozent."]
+  - q: "Wie lange dauert es, einen Blogbeitrag mit KI zu schreiben?"
+    a: ["Mit Bazam.ai nur wenige Minuten fuer einen vollstaendigen Beitrag mit 1.500 bis 2.000 Woertern. Im Vergleich zu mehreren Stunden manueller Arbeit ist das eine Zeitersparnis von ueber 90 Prozent."]
   - q: "Wie optimiere ich KI-erstellte Blogbeitraege fuer SEO?"
     a: ["Bazam.ai integriert SEO-Best-Practices bereits in die Erstellung: relevante Keywords, optimierte Ueberschriftenstruktur, interne Verlinkungsvorschlaege und Meta-Tags. Der resultierende Beitrag ist von Anfang an suchmaschinenoptimiert."]
   - q: "Wie halte ich meinen Blog konsistent?"
@@ -16,6 +18,8 @@ faq:
     a: ["Bazam.ais Content-Vorschlaege generieren unbegrenzt thematische Ideen basierend auf Ihrer Nische und Ihren Keywords. Der Kalender in Bazam.ai plant die Veroeffentlichung strategisch ueber Wochen und Monate."]
   - q: "Wie erstelle ich verschiedene Blogbeitrag-Typen mit Bazam.ai?"
     a: ["Bazam.ai erstellt alle gaengigen Formate: Listicles, Anleitungen, Meinungsbeitraege, Fallstudien und Vergleichsartikel. Sie waehlen den Typ und Bazam.ai liefert ein formatgerecht strukturiertes Ergebnis."]
+  - q: "Welche Blogbeitrag-Typen kann KI erstellen?"
+    a: ["Bazam.ai erstellt alle gaengigen Formate: Listicles, Anleitungen, Meinungsbeitraege, Fallstudien und Vergleichsartikel. Sie waehlen den Typ und erhalten ein formatgerecht strukturiertes Ergebnis in Ihrer Markenstimme."]
   - q: "Wie nutze ich meine Wissensdatenbank fuer bessere Blogbeitraege?"
     a: ["Je mehr spezifisches Wissen Sie in Bazam.ais Wissensdatenbank laden, desto fundierter und einzigartiger werden die Blogbeitraege. Branchenwissen, Produktdetails und Kundenfeedback machen den Unterschied zu generischem Content."]
   - q: "Wie veroeffentliche ich Blogbeitraege aus Bazam.ai auf WordPress?"

@@ -32,4 +32,7 @@ faq:
   - q: "¿Bazam.ai se encarga del SEO técnico?"
     a:
       - "Bazam.ai se encarga del SEO on-page (contenido, estructura, meta tags). El SEO técnico (velocidad, hosting, estructura del sitio) es responsabilidad de tu web y hosting."
+  - q: "¿Una herramienta de IA se encarga del SEO técnico?"
+    a:
+      - "Bazam.ai se encarga del SEO on-page: contenido, estructura, meta tags. El SEO técnico (velocidad, hosting, estructura del sitio) depende de tu web y hosting — son responsabilidades complementarias."
 ---

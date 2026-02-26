@@ -16,6 +16,8 @@ faq:
     a: ["Sammeln Sie Rechercheergebnisse in Bazam.ais Wissensdatenbank. Bazam.ai nutzt diese Informationen dann automatisch fuer fundierte, faktenbasierte Blogbeitraege."]
   - q: "Wie veroeffentliche ich aus Bazam.ai direkt auf WordPress?"
     a: ["Bazam.ai integriert sich direkt mit WordPress. Erstellen, ueberpruefen und veroeffentlichen Sie Blogbeitraege nahtlos aus Bazam.ai heraus, ohne manuelles Kopieren."]
+  - q: "Wie veroeffentliche ich KI-Blogbeitraege direkt auf WordPress?"
+    a: ["Bazam.ai integriert sich direkt mit WordPress. Erstellen, ueberpruefen und veroeffentlichen Sie KI-erstellte Blogbeitraege nahtlos — ohne manuelles Kopieren oder Formatieren."]
   - q: "Wie plane ich meinen Blog-Kalender?"
     a: ["Bazam.ais Kalender zeigt alle geplanten Blogbeitraege uebersichtlich an. Planen Sie Themen im Voraus und erstellen Sie die Beitraege in effizienten Batch-Sitzungen."]
   - q: "Wie automatisiere ich meinen Blogging-Workflow vollstaendig?"

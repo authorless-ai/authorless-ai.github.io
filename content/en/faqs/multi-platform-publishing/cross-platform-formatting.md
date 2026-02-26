@@ -26,6 +26,10 @@ faq:
     a:
       - "Bazam.ai generates AI images and manages media for your content. When publishing, content is formatted to meet each platform's specifications — image dimensions, aspect ratios, and file requirements."
 
+  - q: "How do I resize content for different social platforms?"
+    a:
+      - "Bazam.ai handles it automatically. When the AI agent creates content for each platform, it adapts text length, format, and tone to match platform requirements — character limits for X, professional formatting for LinkedIn, visual-first for Instagram. Image dimensions and aspect ratios are adjusted for each platform's specifications."
+
   - q: "How do I make the same content sound good on LinkedIn and Instagram?"
     a:
       - "Different platforms need different voices. Bazam.ai adapts tone as well as format — professional and substantive for LinkedIn, casual and visual for Instagram. The underlying message stays consistent; the delivery matches where it's being seen."

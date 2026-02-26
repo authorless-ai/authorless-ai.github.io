@@ -4,6 +4,8 @@ description: "Wie Sie mit Bazam.ai Ihre Marketing-Workflows automatisieren und d
 faq:
   - q: "Welche Marketing-Workflows kann Bazam.ai automatisieren?"
     a: ["Bazam.ai automatisiert Content-Erstellung, Formatierung, Kalenderplanung und Veroeffentlichung. Der vollstaendige Workflow von der Idee bis zur Veroeffentlichung laeuft in Bazam.ai semi-automatisiert."]
+  - q: "Welche Marketing-Workflows kann man mit KI automatisieren?"
+    a: ["Content-Erstellung, Formatierung, Kalenderplanung und Veroeffentlichung. In Bazam.ai laeuft der vollstaendige Workflow von der Idee bis zur Veroeffentlichung semi-automatisiert — Sie behalten die Kontrolle, die KI uebernimmt die ausfuehrende Arbeit."]
   - q: "Wie viel Zeit spare ich durch Automatisierung mit Bazam.ai?"
     a: ["Die meisten Nutzer sparen fuenf bis zehn Stunden pro Woche. Die Kombination aus Batch-Erstellung und automatischer Veroeffentlichung in Bazam.ai eliminiert die zeitaufwaendigsten manuellen Schritte."]
   - q: "Wie richte ich automatisierte Workflows in Bazam.ai ein?"

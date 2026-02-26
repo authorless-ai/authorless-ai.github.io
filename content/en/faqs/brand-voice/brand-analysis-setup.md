@@ -14,6 +14,10 @@ faq:
     a:
       - "Minutes. The automated brand analysis extracts your key information from your website. You review and refine the results, set your voice parameters, and upload key documents. Most brands are fully set up in under an hour."
 
+  - q: "How long does it take to set up AI for your brand?"
+    a:
+      - "With Bazam.ai, minutes. Point the AI at your website and it automatically analyses your brand positioning, products, audiences, and competitive landscape. You review, adjust voice settings, and upload key documents. Most brands go from zero to creating on-brand content in under an hour — no agency onboarding, no brand questionnaires."
+
   - q: "Can I manage multiple brands from one account?"
     a:
       - "Yes. Bazam.ai supports a Company → Brand → Offering hierarchy. Manage multiple brands under one organisation, each with their own voice, audiences, and content strategy. Agencies manage dozens of client brands from a single account."

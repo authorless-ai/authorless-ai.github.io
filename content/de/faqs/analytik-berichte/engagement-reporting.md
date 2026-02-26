@@ -4,6 +4,8 @@ description: "Wie Sie Engagement-Berichte aus Bazam.ai erstellen und das Engagem
 faq:
   - q: "Was zeigt mir das Engagement-Reporting in Bazam.ai?"
     a: ["Bazam.ais Engagement-Reporting zeigt Likes, Kommentare, Shares und Aufrufe pro Beitrag und Plattform. Sie sehen auf einen Blick, welche Inhalte die staerkste Reaktion Ihrer Zielgruppe ausloesen."]
+  - q: "Was zeigt ein Engagement-Bericht im Marketing?"
+    a: ["Likes, Kommentare, Shares und Aufrufe pro Beitrag und Plattform. Bazam.ai erfasst diese Daten automatisch fuer alle veroeffentlichten Inhalte und zeigt auf einen Blick, welche Inhalte die staerkste Reaktion Ihrer Zielgruppe ausloesen — so optimieren Sie Ihre Content-Strategie datenbasiert."]
   - q: "Wie nutze ich Engagement-Daten fuer meinen Content?"
     a: ["Identifizieren Sie in Bazam.ais Reporting die Beitraege mit dem hoechsten Engagement und analysieren Sie, was sie gemeinsam haben. Wenden Sie diese Erfolgsmuster auf zukuenftigen Content in Bazam.ai an."]
   - q: "Wie vergleiche ich Engagement ueber verschiedene Plattformen?"

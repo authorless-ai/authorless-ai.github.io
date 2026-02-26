@@ -6,6 +6,8 @@ faq:
     a: ["Eine gute Plattform integriert Content-Erstellung, Markenstimme, Wissensdatenbank und Veroeffentlichung nahtlos. Bazam.ai bietet alle diese Funktionen in einer einzigen, intuitiven Plattform."]
   - q: "Wie unterscheidet sich Bazam.ai von ChatGPT?"
     a: ["ChatGPT ist ein allgemeiner Chatbot ohne Markenstimme, Wissensdatenbank oder Veroeffentlichungsfunktion. Bazam.ai ist eine spezialisierte Marketing-Plattform, die Ihre Marke kennt und Content direkt veroeffentlicht."]
+  - q: "Was ist der Unterschied zwischen ChatGPT und einem KI-Marketing-Tool?"
+    a: ["ChatGPT ist ein allgemeiner Chatbot ohne Markenstimme, Wissensdatenbank oder Veroeffentlichungsfunktion. Bazam.ai dagegen ist eine spezialisierte Marketing-Plattform, die Ihre Marke kennt, Content in Ihrer Stimme erstellt und direkt veroeffentlicht."]
   - q: "Brauche ich mehrere KI-Tools oder reicht Bazam.ai?"
     a: ["Bazam.ai deckt den gesamten Content-Marketing-Workflow ab: von der Ideenfindung ueber die Erstellung bis zur Veroeffentlichung und Analyse. Fuer die meisten Unternehmen ist Bazam.ai als alleinstehende Loesung ausreichend."]
   - q: "Wie wichtig ist die Integration mit bestehenden Tools?"

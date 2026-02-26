@@ -4,6 +4,8 @@ description: "Welche Zusammenarbeits-Features Bazam.ai bietet und wie Sie sie nu
 faq:
   - q: "Welche Zusammenarbeits-Features bietet Bazam.ai?"
     a: ["Rollenbasierte Berechtigungen, Freigabe-Workflows, gemeinsame Kalender, Wissensdatenbank und Markenstimme — alles geteilt im Team."]
+  - q: "Welche Funktionen braucht ein KI-Marketing-Tool fuer Teams?"
+    a: ["Rollenbasierte Berechtigungen, Freigabe-Workflows, gemeinsame Kalender, Wissensdatenbank und Markenstimme. In Bazam.ai ist alles im Team geteilt — fuer konsistente Ergebnisse unabhaengig vom Ersteller."]
   - q: "Wie arbeiten mehrere Personen gleichzeitig?"
     a: ["Jedes Teammitglied hat eigenen Zugang. Alle sehen die gleichen Projekte, Kalender und Content — synchron und in Echtzeit."]
   - q: "Wie teile ich Content zur Überprüfung?"

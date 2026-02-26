@@ -34,6 +34,10 @@ faq:
     a:
       - "As many as you need. Request a new batch whenever you're planning content. Bazam.ai's agent generates fresh suggestions each time, based on your evolving business data, audience insights, and what's previously performed well."
 
+  - q: "How do I generate content ideas with AI?"
+    a:
+      - "Tell Bazam.ai's agent about your business, audience, and goals — it generates targeted content ideas based on your actual products, industry, and what's performed well previously. Unlike generic AI prompts, the suggestions draw from your knowledge base and audience data, so every idea is relevant and actionable. Request new batches anytime you're planning."
+
   - q: "Can AI suggest content ideas based on competitors?"
     a:
       - "Yes. Add competitor information to your knowledge base and Bazam.ai's agent suggests topics that differentiate your brand. It identifies angles your competitors aren't covering and opportunities to position your business more effectively."

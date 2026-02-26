@@ -4,6 +4,8 @@ description: "Schritt fuer Schritt Ihre Markenstimme in Bazam.ai konfigurieren, 
 faq:
   - q: "Wie richte ich meine Markenstimme in Bazam.ai ein?"
     a: ["Bazam.ais Markenanalyse fuehrt Sie durch einen strukturierten Prozess: Sie beschreiben Ihre Marke, definieren Ihre Werte und den gewuenschten Ton, und die KI erstellt daraus ein umfassendes Markenprofil, das die Grundlage fuer alle zukuenftigen Inhalte bildet."]
+  - q: "Wie richte ich eine KI-Markenstimme ein?"
+    a: ["In Bazam.ai fuehrt eine strukturierte Markenanalyse Sie durch den Prozess: Marke beschreiben, Werte definieren, gewuenschten Ton festlegen. Die KI erstellt daraus ein umfassendes Markenprofil als Grundlage fuer alle zukuenftigen Inhalte — in 15 bis 30 Minuten."]
   - q: "Was passiert waehrend der Markenanalyse?"
     a: ["Die Markenanalyse stellt Ihnen gezielte Fragen zu Ihrer Markenidentitaet, Ihren Werten, Ihrer Zielgruppe und Ihrem gewuenschten Kommunikationsstil. Aus Ihren Antworten erstellt die KI ein detailliertes Markenprofil, das alle relevanten Aspekte Ihrer Marke abdeckt."]
   - q: "Wie detailliert sollte mein Markenprofil sein?"

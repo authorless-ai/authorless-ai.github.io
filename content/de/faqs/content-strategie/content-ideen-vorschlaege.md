@@ -4,6 +4,8 @@ description: "Wie Sie mit Bazam.ai unbegrenzt Content-Ideen generieren und nie w
 faq:
   - q: "Wie finde ich Content-Ideen mit Bazam.ai?"
     a: ["Bazam.ais Content-Vorschlaege generieren unbegrenzt Themenideen basierend auf Ihrer Marke und Zielgruppe. Sie muessen nie wieder raten, worueber Sie schreiben sollen."]
+  - q: "Wie finde ich Content-Ideen mit KI?"
+    a: ["KI-basierte Content-Vorschlaege generieren unbegrenzt Themenideen basierend auf Ihrer Marke und Zielgruppe. In Bazam.ai muessen Sie nie wieder raten, worueber Sie schreiben sollen — die KI liefert relevante Ideen auf Knopfdruck."]
   - q: "Wie nutze ich Bazam.ai fuer die Themenrecherche?"
     a: ["Geben Sie Ihre Kernthemen und Ziel-Keywords in Bazam.ai ein. Die Content-Vorschlaege generieren dann verwandte Themen, die Ihre Zielgruppe interessieren und SEO-Potenzial haben."]
   - q: "Wie erstelle ich einen Themenplan fuer mehrere Monate?"

@@ -9,6 +9,9 @@ faq:
   - q: "¿Cuántos idiomas puede traducir Bazam.ai?"
     a:
       - "Más de 50 idiomas. Desde los principales (inglés, francés, alemán, portugués, italiano, chino, japonés) hasta idiomas de mercados emergentes. Cada traducción aplica tu configuración de voz de marca."
+  - q: "¿Cuántos idiomas puede traducir una herramienta de marketing con IA?"
+    a:
+      - "Bazam.ai traduce a más de 50 idiomas, desde los principales hasta mercados emergentes. Cada traducción aplica tu configuración de voz de marca para mantener la consistencia global."
 
   - q: "¿Es la traducción con IA lo suficientemente buena para marketing?"
     a:

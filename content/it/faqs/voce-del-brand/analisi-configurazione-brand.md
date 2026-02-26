@@ -13,6 +13,9 @@ faq:
   - q: "Quanto tempo serve per configurare un brand in Bazam.ai?"
     a:
       - "Pochi minuti. L'analisi automatizzata del brand estrae le informazioni chiave dal tuo sito web. Revisioni e perfezieni i risultati, imposti i parametri della voce e carichi documenti chiave. La maggior parte dei brand è completamente configurata in meno di un'ora."
+  - q: "Quanto tempo serve per configurare un brand in uno strumento di marketing IA?"
+    a:
+      - "Pochi minuti in Bazam.ai. L'analisi automatizzata estrae le informazioni chiave dal tuo sito web. Revisioni, perfezioni e carichi documenti chiave. La maggior parte dei brand è configurata in meno di un'ora."
 
   - q: "Posso gestire più brand da un unico account?"
     a:

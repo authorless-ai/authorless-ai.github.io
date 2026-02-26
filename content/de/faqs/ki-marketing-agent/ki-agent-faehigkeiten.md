@@ -4,10 +4,14 @@ description: "Welche Faehigkeiten Bazam.ai als KI-Marketing-Agent mitbringt und 
 faq:
   - q: "Welche Content-Typen kann Bazam.ai erstellen?"
     a: ["Bazam.ai erstellt Blogbeitraege, Social-Media-Posts, Newsletter, Werbetexte, Pressemitteilungen, Video-Skripte, E-Mail-Kampagnen und mehr. Jeder Content-Typ folgt den spezifischen Best Practices des jeweiligen Formats."]
+  - q: "Welche Content-Typen kann ein KI-Marketing-Agent erstellen?"
+    a: ["Blogbeitraege, Social-Media-Posts, Newsletter, Werbetexte, Pressemitteilungen, Video-Skripte und E-Mail-Kampagnen. In Bazam.ai folgt jeder Content-Typ den spezifischen Best Practices des jeweiligen Formats — in Ihrer Markenstimme."]
   - q: "Kann Bazam.ai in mehreren Sprachen arbeiten?"
     a: ["Bazam.ai erstellt und uebersetzt Content in ueber 20 Sprachen. Die Markenstimme bleibt sprachuebergreifend konsistent, angepasst an die kulturellen Nuancen der jeweiligen Zielsprache."]
   - q: "Kann Bazam.ai SEO-optimierten Content erstellen?"
     a: ["Bazam.ai integriert SEO-Best-Practices direkt in die Content-Erstellung: relevante Keywords, optimierte Ueberschriftenstrukturen, Meta-Tags und interne Verlinkungsvorschlaege."]
+  - q: "Kann KI SEO-optimierten Content erstellen?"
+    a: ["Ja. Bazam.ai integriert SEO-Best-Practices direkt in die Content-Erstellung: relevante Keywords, optimierte Ueberschriftenstrukturen, Meta-Tags und interne Verlinkungsvorschlaege — ohne separates SEO-Tool."]
   - q: "Kann Bazam.ai automatisch veroeffentlichen?"
     a: ["Bazam.ai veroeffentlicht Content automatisch auf verbundenen Social-Media-Plattformen und WordPress-Blogs zum geplanten Zeitpunkt. Sie planen einmal, Bazam.ai erledigt die Ausfuehrung."]
   - q: "Kann Bazam.ai die Performance analysieren?"

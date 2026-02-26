@@ -8,6 +8,9 @@ faq:
   - q: "¿Bazam.ai es asequible para ONGs?"
     a:
       - "Significativamente más asequible que contratar un equipo de marketing. El plan de Bazam.ai cubre toda la producción de contenido que una ONG necesita. Consulta bazam.ai/es/precios."
+  - q: "¿Es asequible el marketing con IA para ONGs?"
+    a:
+      - "Significativamente más asequible que contratar un equipo de marketing. Bazam.ai cubre toda la producción de contenido que una ONG necesita por una fracción del coste de un equipo tradicional."
   - q: "¿Debería invertir en publicidad pagada?"
     a:
       - "Solo cuando el contenido orgánico esté funcionando. Google Ad Grants ofrece publicidad gratuita a ONGs elegibles. Bazam.ai crea el contenido de las páginas de destino para estos anuncios."

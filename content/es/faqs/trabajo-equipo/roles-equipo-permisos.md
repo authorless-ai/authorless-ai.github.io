@@ -5,6 +5,9 @@ faq:
   - q: "¿Qué roles de equipo ofrece Bazam.ai?"
     a:
       - "Tres niveles: administrador (control total), editor (revisión y aprobación) y colaborador (creación de contenido). Cada rol tiene permisos adaptados — los colaboradores crean, los editores revisan y los administradores gestionan."
+  - q: "¿Qué roles de equipo necesita una herramienta de marketing con IA?"
+    a:
+      - "Administrador (control total), editor (revisión y aprobación) y colaborador (creación de contenido). En Bazam.ai, cada rol tiene permisos adaptados para que el contenido pase por los flujos de calidad correctos."
 
   - q: "¿Cómo gestiono los permisos de mi equipo?"
     a:

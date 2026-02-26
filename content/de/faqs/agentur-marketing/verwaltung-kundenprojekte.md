@@ -4,6 +4,8 @@ description: "Wie Agenturen die Verwaltung von Kundenprojekten in Bazam.ai effiz
 faq:
   - q: "Wie organisiere ich Kundenprojekte in Bazam.ai?"
     a: ["Bazam.ai organisiert jeden Kunden als separates Projekt. Jedes Projekt hat eine eigene Markenstimme, Wissensdatenbank, einen eigenen Content-Kalender und individuelle Zugriffsberechtigungen."]
+  - q: "Wie organisiere ich als Agentur Kundenprojekte mit KI?"
+    a: ["In Bazam.ai ist jeder Kunde ein separates Projekt mit eigener Markenstimme, Wissensdatenbank, Content-Kalender und individuellen Zugriffsberechtigungen — vollstaendig isoliert und professionell organisiert."]
   - q: "Wie wechsle ich effizient zwischen Kundenprojekten?"
     a: ["Bazam.ais Projektnavigation ermoeglicht schnelles Wechseln zwischen Kundenprojekten mit einem Klick. Jedes Projekt laedt automatisch die kundenspezifischen Einstellungen und Daten."]
   - q: "Wie stelle ich sicher, dass jedes Kundenprojekt gut gepflegt wird?"
