@@ -33,6 +33,8 @@ jobs:
 
       - name: Build Hugo site
         run: hugo
+        env:
+          HUGO_ENV: production
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
