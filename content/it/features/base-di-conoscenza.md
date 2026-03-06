@@ -1,6 +1,6 @@
 ---
 title: "La tua base di conoscenza: tutto ciò che il tuo agente deve sapere"
-heroDescription: "Carica documenti, pagine prodotto, URL e linee guida del brand. Il tuo agente IA attinge a tutto questo per creare contenuti <b>accurati, dettagliati e profondamente informati</b> — dal primo giorno."
+heroDescription: "Passa meno tempo a controllare i contenuti IA alla ricerca di errori. Carica i tuoi materiali di marca una volta e riduci drasticamente gli errori — l'agente scrive dai <b>tuoi fatti, la tua voce, le tue linee guida</b>."
 
 features:
 - title: "Alimentalo una volta. Beneficia per sempre."
@@ -38,8 +38,8 @@ features:
     - "Pensalo come il cervello del tuo brand. L'agente pensa con esso ogni volta che crea."
 
 featureList:
-  title: "Dai alla tua IA il contesto di cui ha bisogno per fare le cose bene"
-  description: "Carica i documenti del tuo brand, le specifiche prodotto e i materiali chiave una volta. L'agente attinge a tutto — ogni volta — così i tuoi contenuti sono accurati, specifici e profondamente informati."
+  title: "Proteggi il tuo brand. Riduci gli errori dell'IA."
+  description: "Carica i documenti del tuo brand, le specifiche prodotto e i materiali chiave una volta. L'agente scrive dai tuoi fatti — non dalla sua immaginazione — così passi meno tempo a controllare e più a crescere."
   features:
     - iconColor: "primary"
       title: "Carica tutto"
@@ -67,8 +67,8 @@ featureList:
         - description: "Combina la base di conoscenza con <b>voce del brand e personas del pubblico</b> per la massima qualità dei contenuti."
 
 cta:
-  title: "Dai al tuo agente il contesto che merita"
-  description: "La differenza tra contenuti IA generici e contenuti che suonano come te? Il contesto. Inizia a costruire la tua base di conoscenza e vedi la differenza immediatamente."
+  title: "Proteggi il tuo brand. Pubblica con fiducia."
+  description: "Riduci drasticamente il tempo che passi a controllare gli errori nei contenuti IA. Dai contesto al tuo agente e guarda la qualità trasformarsi."
 
 faq:
   - q: "Cos'è una base di conoscenza nel content marketing?"

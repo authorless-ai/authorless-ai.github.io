@@ -1,6 +1,6 @@
 ---
 title: "Ihre Wissensdatenbank: Alles, was Ihr Agent wissen muss"
-heroDescription: "Laden Sie Dokumente, Produktseiten, URLs und Markenrichtlinien hoch. Ihr KI-Agent greift auf all das zurück, um Inhalte zu erstellen, die <b>genau, detailliert und tiefgreifend fundiert</b> sind — vom ersten Tag an."
+heroDescription: "Verbringen Sie weniger Zeit damit, KI-Inhalte auf Fehler zu prüfen. Laden Sie Ihre Markenmaterialien einmal hoch und reduzieren Sie Fehler drastisch — der Agent schreibt aus <b>Ihren Fakten, Ihrer Stimme, Ihren Richtlinien</b>."
 
 features:
 - title: "Einmal füttern. Für immer profitieren."
@@ -38,8 +38,8 @@ features:
     - "Betrachten Sie es als das Gehirn Ihrer Marke. Der Agent denkt damit jedes Mal, wenn er etwas erstellt."
 
 featureList:
-  title: "Geben Sie Ihrer KI den Kontext, den sie braucht, um es richtig zu machen"
-  description: "Laden Sie Ihre Markendokumente, Produktspezifikationen und Schlüsselmaterialien einmal hoch. Der Agent greift jedes Mal auf alles zurück — sodass Ihre Inhalte genau, spezifisch und tiefgreifend fundiert sind."
+  title: "Schützen Sie Ihre Marke. Reduzieren Sie KI-Fehler."
+  description: "Laden Sie Ihre Markendokumente, Produktspezifikationen und Schlüsselmaterialien einmal hoch. Der Agent schreibt aus Ihren Fakten — nicht aus seiner Fantasie — damit Sie weniger Zeit mit Überprüfen und mehr mit Wachstum verbringen."
   features:
     - iconColor: "primary"
       title: "Alles hochladen"
@@ -67,8 +67,8 @@ featureList:
         - description: "Kombinieren Sie die Wissensdatenbank mit <b>Markenstimme und Zielgruppen-Personas</b> für maximale Content-Qualität."
 
 cta:
-  title: "Geben Sie Ihrem Agenten den Kontext, den er verdient"
-  description: "Der Unterschied zwischen generischem KI-Content und Content, der nach Ihnen klingt? Kontext. Beginnen Sie jetzt mit dem Aufbau Ihrer Wissensdatenbank und sehen Sie sofort den Unterschied."
+  title: "Schützen Sie Ihre Marke. Veröffentlichen Sie mit Vertrauen."
+  description: "Reduzieren Sie drastisch die Zeit, die Sie mit der Überprüfung von KI-Inhalten verbringen. Geben Sie Ihrem Agenten Kontext und beobachten Sie die Qualitätsverbesserung."
 
 faq:
   - q: "Was ist eine Wissensdatenbank im Content-Marketing?"

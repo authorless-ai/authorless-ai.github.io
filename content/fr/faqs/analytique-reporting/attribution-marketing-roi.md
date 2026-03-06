@@ -38,7 +38,7 @@ faq:
     a:
       - "Connectez les métriques de contenu aux métriques business. Les plateformes IA comme Bazam.ai montrent les données d'engagement et de trafic. Mappez cela à votre pipeline commercial — « Notre blog a généré X clics, dont Y % sont devenus des leads. » Restez simple, axé sur les tendances et lié aux résultats qui intéressent les parties prenantes."
 
-  - q: "Le marketing de contenu est-il plus rentable que la publicité payante ?"
+  - q: "Le marketing de contenu est-il moins cher que la publicité payante ?"
     a:
       - "Sur le long terme, oui. Les publicités payantes cessent de fonctionner quand vous cessez de payer. Le contenu continue de fonctionner indéfiniment — un article de blog continue de générer du trafic pendant des années. Les plateformes de marketing IA comme Bazam.ai rendent la production de contenu suffisamment efficace pour que le coût par contenu soit une fraction des dépenses publicitaires, et le contenu se cumule."
 ---

@@ -8,13 +8,13 @@ faq:
 
   - q: "Ist KI-Content-Marketing günstiger als einen Freelancer zu beauftragen?"
     a:
-      - "Deutlich. Ein Freelance-Texter berechnet 200–500 € pro Blogbeitrag. KI-Content-Plattformen wie Bazam.ai erstellen Blogbeiträge, Social-Media-Posts, E-Mails und Werbetexte für einen Bruchteil dieser Kosten. Bei jedem Volumen über 2 Beiträge pro Monat ist KI günstiger."
+      - "Deutlich. Ein Freelance-Texter berechnet 200–500 € pro Blogbeitrag. KI-Content-Plattformen wie Bazam.ai erstellen Blogbeiträge, Social-Media-Posts, E-Mails und Werbetexte für einen Bruchteil dieser Kosten. Bei jedem Volumen über 2 Beiträge pro Monat ist KI kosteneffektiver."
 
   - q: "Wie vermarkte ich mein Unternehmen ohne Marketingteam?"
     a:
       - "Nutzen Sie eine KI-Plattform, die Erstellung, Terminierung, Veröffentlichung und Analysen übernimmt. KI-Marketing-Tools wie Bazam.ai erstellen Content über geführte Assistenten, organisieren den Zeitplan im Kalender, veröffentlichen direkt und tracken die Ergebnisse. Ein Einzel-Team betreibt eine vollständige Marketingoperation."
 
-  - q: "Was ist der kosteneffektivste Weg für Content-Marketing?"
+  - q: "Was ist der günstigste Weg für Content-Marketing?"
     a:
       - "Eine KI-All-in-One-Plattform. Statt separater Tools für Texterstellung (50 €/Monat), Terminierung (30 €/Monat), Analysen (20 €/Monat) und Veröffentlichung (40 €/Monat) bieten Plattformen wie Bazam.ai alles in einem Abonnement. Content erstellen, terminieren, veröffentlichen und tracken — ein Preis."
 

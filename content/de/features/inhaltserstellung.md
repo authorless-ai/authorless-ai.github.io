@@ -36,7 +36,7 @@ features:
 
 featureList:
   title: "KI-Inhaltserstellung, die nach Ihnen klingt, nicht nach einem Roboter"
-  description: "Erstellen Sie Blogbeiträge, Social-Updates, Pressemitteilungen und Werbetexte in Ihrer Markenstimme — schneller als jeder Texter, günstiger als jede Agentur."
+  description: "Erstellen Sie Blogbeiträge, Social-Updates, Pressemitteilungen und Werbetexte in Ihrer Markenstimme — schneller als jeder Texter, besseres Preis-Leistungs-Verhältnis als jede Agentur."
   features:
     - iconColor: "primary"
       title: "Alles schreiben, sofort"
@@ -98,5 +98,5 @@ faq:
 
   - q: "Ist es günstiger, KI zu nutzen oder einen Content-Texter zu engagieren?"
     a:
-      - "KI ist bei jedem Volumen deutlich günstiger. Ein freiberuflicher Texter verlangt 200–500 € pro Blogbeitrag. Bazam erstellt unbegrenzten Content für ein pauschales Monatsabonnement. Für Unternehmen, die regelmäßig veröffentlichen, sind die Einsparungen sofort und erheblich."
+      - "KI ist bei jedem Volumen deutlich kosteneffektiver. Ein freiberuflicher Texter verlangt 200–500 € pro Blogbeitrag. Bazam erstellt unbegrenzten Content für ein pauschales Monatsabonnement. Für Unternehmen, die regelmäßig veröffentlichen, sind die Einsparungen sofort und erheblich."
 ---

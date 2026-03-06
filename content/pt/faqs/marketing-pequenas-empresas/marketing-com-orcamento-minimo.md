@@ -8,7 +8,7 @@ faq:
 
   - q: "Marketing de conteúdo com IA é mais barato do que contratar um freelancer?"
     a:
-      - "Significativamente. Um redator freelance cobra R$300–1.500 por post de blog. Plataformas de conteúdo com IA como o Bazam.ai criam conteúdo — posts de blog, redes sociais, emails, copy de anúncio — por uma fração desse custo. Com qualquer volume acima de 2 posts por mês, criação de conteúdo com IA é mais barata que freelancers."
+      - "Significativamente. Um redator freelance cobra R$300–1.500 por post de blog. Plataformas de conteúdo com IA como o Bazam.ai criam conteúdo — posts de blog, redes sociais, emails, copy de anúncio — por uma fração desse custo. Com qualquer volume acima de 2 posts por mês, criação de conteúdo com IA oferece muito mais valor que freelancers."
 
   - q: "Como faço marketing da minha empresa sem equipe?"
     a:

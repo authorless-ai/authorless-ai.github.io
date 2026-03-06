@@ -1,6 +1,6 @@
 ---
 title: "Votre base de connaissances : tout ce que votre agent doit savoir"
-heroDescription: "Importez des documents, pages produit, URLs et chartes graphiques. Votre agent IA s'appuie sur tout cela pour créer du contenu <b>précis, détaillé et profondément documenté</b> — dès le premier jour."
+heroDescription: "Passez moins de temps à vérifier le contenu IA à la recherche d'erreurs. Importez vos matériaux de marque une fois et réduisez considérablement les erreurs — l'agent rédige à partir de <b>vos faits, votre voix, vos guidelines</b>."
 
 features:
 - title: "Alimentez-le une fois. Profitez-en pour toujours."
@@ -38,8 +38,8 @@ features:
     - "Considérez-le comme le cerveau de votre marque. L'agent pense avec à chaque création."
 
 featureList:
-  title: "Donnez à votre IA le contexte dont elle a besoin pour faire juste"
-  description: "Importez vos documents de marque, spécifications produit et documents clés une fois. L'agent s'appuie sur tout — à chaque fois — pour que votre contenu soit précis, spécifique et profondément documenté."
+  title: "Protégez votre marque. Réduisez les erreurs de l'IA."
+  description: "Importez vos documents de marque, spécifications produit et documents clés une fois. L'agent rédige à partir de vos faits — pas de son imagination — pour que vous passiez moins de temps à relire et plus à grandir."
   features:
     - iconColor: "primary"
       title: "Importez tout"
@@ -67,8 +67,8 @@ featureList:
         - description: "Combinez la base de connaissances avec <b>la voix de marque et les personas d'audience</b> pour une qualité de contenu maximale."
 
 cta:
-  title: "Donnez à votre agent le contexte qu'il mérite"
-  description: "La différence entre du contenu IA générique et du contenu qui sonne comme vous ? Le contexte. Commencez à construire votre base de connaissances et constatez la différence immédiatement."
+  title: "Protégez votre marque. Publiez en confiance."
+  description: "Réduisez considérablement le temps passé à vérifier les erreurs du contenu IA. Donnez du contexte à votre agent et regardez la qualité se transformer."
 
 faq:
   - q: "Qu'est-ce qu'une base de connaissances en marketing de contenu ?"

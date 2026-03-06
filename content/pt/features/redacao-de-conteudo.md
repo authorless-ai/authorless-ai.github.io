@@ -36,7 +36,7 @@ features:
 
 featureList:
   title: "Redação de Conteúdo com IA que Soa Como Você, Não Como um Robô"
-  description: "Crie posts de blog, atualizações sociais, comunicados de imprensa e textos publicitários na sua voz de marca — mais rápido que qualquer redator, mais barato que qualquer agência."
+  description: "Crie posts de blog, atualizações sociais, comunicados de imprensa e textos publicitários na sua voz de marca — mais rápido que qualquer redator, melhor custo-benefício que qualquer agência."
   features:
     - iconColor: "primary"
       title: "Escreva Qualquer Coisa, Instantaneamente"
@@ -98,5 +98,5 @@ faq:
 
   - q: "É mais barato usar IA ou contratar um redator de conteúdo?"
     a:
-      - "A IA é significativamente mais barata em qualquer volume. Um redator freelancer cobra R$ 500–2.000 por post de blog. O Bazam cria conteúdo ilimitado por uma assinatura mensal fixa. Para empresas que publicam regularmente, a economia é imediata e substancial."
+      - "A IA é significativamente mais vantajosa em qualquer volume. Um redator freelancer cobra R$ 500–2.000 por post de blog. O Bazam cria conteúdo ilimitado por uma assinatura mensal fixa. Para empresas que publicam regularmente, a economia é imediata e substancial."
 ---

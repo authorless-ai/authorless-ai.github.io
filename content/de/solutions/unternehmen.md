@@ -153,7 +153,7 @@ faq:
 
   - q: "Sollte ich mein Marketing selbst machen oder jemanden einstellen?"
     a:
-      - "Ein KI-Agent gibt Ihnen eine dritte Option. Sie müssen kein Marketer werden, und Sie müssen keine Agenturpreise zahlen. Bazam übernimmt die Produktionsarbeit; Sie überprüfen und genehmigen nur. Es ist schneller als DIY und günstiger als Einstellen."
+      - "Ein KI-Agent gibt Ihnen eine dritte Option. Sie müssen kein Marketer werden, und Sie müssen keine Agenturpreise zahlen. Bazam übernimmt die Produktionsarbeit; Sie überprüfen und genehmigen nur. Es ist schneller als DIY und kostengünstiger als Einstellen."
 
   - q: "Was sollte ein kleines Unternehmen auf Social Media posten?"
     a:

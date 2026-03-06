@@ -7,7 +7,7 @@ faq:
       - "Usa IA para reemplazar el trabajo manual. Los asistentes de IA de plataformas como Bazam.ai crean artículos de blog, redes sociales, newsletters y copy publicitario por una suscripción mensual fija — reemplazando freelancers (200+ € por artículo) y agencias (2.000+ €/mes)."
   - q: "¿Es el marketing de contenidos con IA más barato que contratar un freelancer?"
     a:
-      - "Significativamente. Un escritor freelance cobra 200–500 € por artículo de blog. Las plataformas de IA como Bazam.ai crean contenido — artículos, redes sociales, emails, copy publicitario — por una fracción. A cualquier volumen por encima de 2 publicaciones al mes, la IA es más barata."
+      - "Significativamente. Un escritor freelance cobra 200–500 € por artículo de blog. Las plataformas de IA como Bazam.ai crean contenido — artículos, redes sociales, emails, copy publicitario — por una fracción. A cualquier volumen por encima de 2 publicaciones al mes, la IA es más rentable."
   - q: "¿Cómo promociono mi negocio sin equipo de marketing?"
     a:
       - "Usa una plataforma que gestione creación, programación, publicación y analítica. Los asistentes de IA de plataformas como Bazam.ai crean el contenido, el calendario organiza tu programación, la publicación directa lo lanza y la analítica monitoriza resultados. Una persona gestiona una operación de marketing completa."

@@ -99,7 +99,7 @@ featureList:
         - description: "Translate product content into <b>50+ languages</b> to sell in new markets."
         - description: "Each translation preserves <b>your brand voice and product specifics</b>."
         - description: "Publish directly to <b>your store, social channels, and ad platforms</b>."
-        - description: "At this volume, AI is <b>dramatically cheaper</b> than any copywriter or agency."
+        - description: "At this volume, AI delivers <b>dramatically better value</b> than any copywriter or agency."
 
 faq:
   - q: "How do I make my dropshipping store stand out from competitors?"

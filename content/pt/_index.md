@@ -51,8 +51,8 @@ carousel:
       alt: "Uma fila de conteúdo alinhado com a marca pronto para revisão"
 
 solutionsCards:
-  title: "Feito para as Equipes Que Mais Precisam"
-  description: "O Bazam é projetado para pessoas que gerenciam conteúdo em escala — e precisam fazer isso mais rápido, de forma mais inteligente e com menos recursos."
+  title: "Turbine Seu Marketing"
+  description: "O Bazam é feito para qualquer pessoa que precisa de marketing consistente e profissional mais rápido, mais inteligente e mais seguro — de fundadores solo a equipes em crescimento."
   cards:
      - title: Para Agências de Marketing
        description: "Gerencie mais contas de clientes sem precisar de mais funcionários. Seu agente de IA cuida do conteúdo e dos relatórios para que sua equipe foque em conquistar novos negócios."
@@ -109,7 +109,7 @@ featureCards:
     icon: briefcase
 
   - title: "Base de Conhecimento"
-    description: "Envie documentos, cole textos ou importe URLs. O agente utiliza essas informações para criar conteúdo preciso e bem fundamentado."
+    description: "Proteja sua marca contra erros da IA. Envie seus documentos e o agente escreve a partir dos seus fatos — não da imaginação dele. Menos correções, mais crescimento."
     url: "/pt/features/base-de-conhecimento/"
     icon: folder
 
@@ -170,7 +170,7 @@ features:
       description: "Um mês de conteúdo em uma única sessão. Ideias de campanha em segundos. Relatórios extraídos instantaneamente. Sem mais esperar por ninguém."
     - title: "Mais Inteligente"
       description: "Cada peça de conteúdo é baseada nos dados da sua audiência, posicionamento de marca e no que já está funcionando. Sem mais adivinhação."
-    - title: "Mais Barato"
+    - title: "Melhor Custo-Benefício"
       description: "A produção de uma equipe de marketing completa por uma fração do custo. Sem agências, sem freelancers, sem novas contratações."
     - title: "Sempre Ativo"
       description: "Ele não tira férias, esquece um briefing ou precisa de treinamento. Seu marketing funciona esteja você no escritório ou não."
@@ -178,14 +178,14 @@ features:
     - "Seus concorrentes ainda estão contratando. Você acabou de implantar um departamento de marketing inteiro."
 
 topFeatures:
-  title: "Por Que Equipes Escolhem o Bazam"
+  title: "Por Que Profissionais de Marketing Escolhem o Bazam"
   description: "Uma nova forma de gerenciar toda a sua operação de conteúdo."
   list:
     - title: "Agente Autônomo de IA"
       description: "Crie conteúdo, extraia relatórios, faça brainstorm de ideias e gerencie campanhas — tudo por meio de uma única conversa inteligente."
       target: /pt/features/agente/
     - title: "Inteligência Centralizada"
-      description: "Voz de marca, dados de audiência, base de conhecimento e histórico de campanhas — acessível para toda a sua equipe, instantaneamente."
+      description: "Sua voz de marca, dados de produto e diretrizes — sempre referenciados, nunca esquecidos. Proteja sua marca contra suposições da IA genérica."
       target: /pt/features/base-de-conhecimento/
     - title: "Escale Sem Contratar"
       description: "Assuma mais trabalho sem precisar aumentar proporcionalmente sua equipe. O agente cuida do trabalho pesado."
@@ -222,7 +222,7 @@ faq:
 
   - q: "Preciso de uma agência de marketing?"
     a:
-      - "Para estratégia, direção criativa e posicionamento de marca — uma agência pode agregar valor real. Para produção de conteúdo, agendamento, publicação e relatórios — um agente de IA faz o mesmo trabalho mais rápido e mais barato. A maioria das equipes descobre que precisa de ajuda estratégica, não de ajuda na produção."
+      - "Para estratégia, direção criativa e posicionamento de marca — uma agência pode agregar valor real. Para produção de conteúdo, agendamento, publicação e relatórios — um agente de IA faz o mesmo trabalho mais rápido e com menor custo. A maioria das equipes descobre que precisa de ajuda estratégica, não de ajuda na produção."
 
   - q: "Como medir o ROI do marketing de conteúdo?"
     a:

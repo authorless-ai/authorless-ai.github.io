@@ -14,7 +14,7 @@ faq:
     a:
       - "Use um assistente de IA para releases. Insira seu anúncio, por que é relevante, contexto da empresa e uma citação do porta-voz. Plataformas de conteúdo com IA como o Bazam.ai produzem um release de imprensa formatado corretamente seguindo padrões do setor. Revise, ajuste e distribua — sem taxas de assessoria, sem esperar dias por rascunhos."
 
-  - q: "Qual é a forma mais barata de criar conteúdo de marketing?"
+  - q: "Qual é a forma mais rentável de criar conteúdo de marketing?"
     a:
       - "Ferramentas de criação de conteúdo com IA. Um redator freelancer cobra de R$ 500 a R$ 2.000 por post de blog. Uma agência cobra milhares por mês. Plataformas de marketing com IA como o Bazam.ai criam uma variedade enorme de conteúdo — posts de blog, redes sociais, e-mails, textos de anúncios — por uma assinatura mensal fixa usando assistentes guiados e IA. A diferença de custo é imediata."
 

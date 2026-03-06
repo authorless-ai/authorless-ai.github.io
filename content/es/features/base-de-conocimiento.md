@@ -1,6 +1,6 @@
 ---
 title: "Tu Base de Conocimiento: Todo lo que tu Agente Necesita Saber"
-heroDescription: "Sube documentos, fichas de producto, URLs y directrices de marca. Tu agente de IA se basa en todo ello para crear contenido que sea <b>preciso, detallado y profundamente informado</b> — desde el primer día."
+heroDescription: "Dedica menos tiempo revisando contenido de IA en busca de errores. Sube tus materiales de marca una vez y reduce drásticamente los fallos — el agente escribe desde <b>tus datos, tu voz, tus directrices</b>."
 
 features:
 - title: "Aliméntalo una vez. Aprovéchalo siempre."
@@ -38,8 +38,8 @@ features:
     - "Piensa en ello como el cerebro de tu marca. El agente piensa con él cada vez que crea."
 
 featureList:
-  title: "Dale a Tu IA el Contexto Que Necesita Para Acertar"
-  description: "Sube tus documentos de marca, especificaciones de producto y materiales clave una vez. El agente se basa en todo ello — cada vez — para que tu contenido sea preciso, específico y profundamente informado."
+  title: "Protege Tu Marca. Reduce los Errores de la IA."
+  description: "Sube tus documentos de marca, especificaciones de producto y materiales clave una vez. El agente escribe desde tus datos — no desde su imaginación — para que dediques menos tiempo a revisar y más a crecer."
   features:
     - iconColor: "primary"
       title: "Sube Todo"
@@ -67,8 +67,8 @@ featureList:
         - description: "Combina la base de conocimiento con <b>voz de marca y personas de audiencia</b> para máxima calidad."
 
 cta:
-  title: "Dale a tu Agente el Contexto que Merece"
-  description: "La diferencia entre contenido genérico de IA y contenido que suena como tú es el contexto. Empieza a construir tu base de conocimiento y nota la diferencia de inmediato."
+  title: "Protege Tu Marca. Publica con Confianza."
+  description: "Reduce drásticamente el tiempo que pasas comprobando errores en el contenido de IA. Dale contexto a tu agente y observa cómo se transforma la calidad."
 
 faq:
   - q: "¿Qué es una base de conocimiento en marketing de contenidos?"

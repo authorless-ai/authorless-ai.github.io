@@ -51,8 +51,8 @@ carousel:
       alt: "Une file de contenu fidèle à la marque prêt à être revu"
 
 solutionsCards:
-  title: "Conçu pour les équipes qui en ont le plus besoin"
-  description: "Bazam est conçu pour ceux qui gèrent du contenu à grande échelle — et qui ont besoin de le faire plus vite, plus intelligemment, avec moins de ressources."
+  title: "Boostez votre marketing"
+  description: "Bazam est conçu pour tous ceux qui ont besoin d'un marketing cohérent et professionnel, plus rapide, plus intelligent et plus sûr — des fondateurs solos aux équipes en croissance."
   cards:
      - title: Pour les agences marketing
        description: "Gérez plus de comptes clients sans recruter davantage. Votre agent IA gère le contenu et le reporting pour que votre équipe se concentre sur l'acquisition de nouveaux clients."
@@ -109,7 +109,7 @@ featureCards:
     icon: briefcase
 
   - title: "Base de connaissances"
-    description: "Importez des documents, collez du texte ou importez des URLs. L'agent s'appuie sur ces informations pour créer du contenu précis et documenté."
+    description: "Protégez votre marque des erreurs de l'IA. Importez vos documents et l'agent rédige à partir de vos faits — pas de son imagination. Moins de corrections, plus de croissance."
     url: "/fr/features/base-de-connaissances/"
     icon: folder
 
@@ -170,7 +170,7 @@ features:
       description: "Un mois de contenu en une seule session. Des idées de campagne en quelques secondes. Des rapports générés instantanément. Plus besoin d'attendre qui que ce soit."
     - title: "Plus intelligent"
       description: "Chaque contenu est alimenté par vos données d'audience, votre positionnement de marque et ce qui fonctionne déjà. Fini les suppositions."
-    - title: "Moins cher"
+    - title: "Meilleur rapport qualité-prix"
       description: "La production d'une équipe marketing complète pour une fraction du coût. Pas d'agences, pas de freelances, pas de nouvelles embauches."
     - title: "Toujours actif"
       description: "Il ne prend pas de vacances, n'oublie pas un brief et n'a pas besoin d'intégration. Votre marketing tourne que vous soyez au bureau ou non."
@@ -178,14 +178,14 @@ features:
     - "Vos concurrents recrutent encore. Vous venez de déployer un département marketing entier."
 
 topFeatures:
-  title: "Pourquoi les équipes choisissent Bazam"
+  title: "Pourquoi les marketeurs choisissent Bazam"
   description: "Une nouvelle façon de gérer toute votre opération de contenu."
   list:
     - title: "Agent IA autonome"
       description: "Créez du contenu, générez des rapports, brainstormez des idées et gérez des campagnes — le tout via une seule conversation intelligente."
       target: /fr/features/agent/
     - title: "Intelligence centralisée"
-      description: "Voix de marque, données d'audience, base de connaissances et historique de campagnes — accessibles à toute votre équipe, instantanément."
+      description: "Votre voix de marque, vos données produit et vos guidelines — toujours référencées, jamais oubliées. Protégez votre marque des approximations de l'IA générique."
       target: /fr/features/base-de-connaissances/
     - title: "Scalez sans recruter"
       description: "Prenez en charge plus de travail sans augmenter proportionnellement votre équipe. L'agent gère le travail lourd."
@@ -222,7 +222,7 @@ faq:
 
   - q: "Ai-je besoin d'une agence marketing ?"
     a:
-      - "Pour la stratégie, la direction créative et le positionnement de marque — une agence peut apporter une vraie valeur ajoutée. Pour la production de contenu, la planification, la publication et le reporting — un agent IA fait le même travail plus vite et moins cher. La plupart des équipes ont besoin d'aide stratégique, pas d'aide à la production."
+      - "Pour la stratégie, la direction créative et le positionnement de marque — une agence peut apporter une vraie valeur ajoutée. Pour la production de contenu, la planification, la publication et le reporting — un agent IA fait le même travail plus vite et à moindre coût. La plupart des équipes ont besoin d'aide stratégique, pas d'aide à la production."
 
   - q: "Comment mesurer le ROI du marketing de contenu ?"
     a:

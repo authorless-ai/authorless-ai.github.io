@@ -50,7 +50,7 @@ features:
     - title: "Dites oui aux demandes de contenu"
       description: "Les mandats de contenu deviennent rentables au lieu de drainer les talents seniors. L'agent fait le gros du travail."
   footer:
-    - "Quand l'exécution coûte moins cher, chaque relation client devient plus rentable."
+    - "Quand l'exécution coûte moins, chaque relation client devient plus rentable."
 
 cta:
   title: "Prêt à développer sans recruter ?"

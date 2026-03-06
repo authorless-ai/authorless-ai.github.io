@@ -153,7 +153,7 @@ faq:
 
   - q: "Dois-je faire mon marketing moi-même ou engager quelqu'un ?"
     a:
-      - "Un agent IA vous offre une troisième option. Vous n'avez pas besoin de devenir un marketeur, et vous n'avez pas besoin de payer des tarifs d'agence. Bazam gère le travail de production ; vous relisez et approuvez. C'est plus rapide que le DIY et moins cher que recruter."
+      - "Un agent IA vous offre une troisième option. Vous n'avez pas besoin de devenir un marketeur, et vous n'avez pas besoin de payer des tarifs d'agence. Bazam gère le travail de production ; vous relisez et approuvez. C'est plus rapide que le DIY et à moindre coût que recruter."
 
   - q: "Que devrait publier une petite entreprise sur les réseaux sociaux ?"
     a:

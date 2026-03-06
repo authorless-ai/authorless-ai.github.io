@@ -73,7 +73,7 @@ cta:
 faq:
   - q: "Kann KI mein Marketingteam ersetzen?"
     a:
-      - "Das hängt von Ihrem Budget und Ihren Erwartungen ab. Für die meisten Unternehmen kann Bazam die Content-Produktion vollständig ersetzen — ein KI-Agent erstellt, plant, veröffentlicht und berichtet schneller und günstiger als jede Einstellung. Wenn Sie eine größere Marke oder ein besonders anspruchsvoller Kunde sind, der maßgeschneiderte Texte benötigt, kann ein menschlicher Texter für bestimmte Stücke besser geeignet sein — aber selbst dann beschleunigt Bazams KI-Editor die Arbeit enorm."
+      - "Das hängt von Ihrem Budget und Ihren Erwartungen ab. Für die meisten Unternehmen kann Bazam die Content-Produktion vollständig ersetzen — ein KI-Agent erstellt, plant, veröffentlicht und berichtet schneller und kostengünstiger als jede Einstellung. Wenn Sie eine größere Marke oder ein besonders anspruchsvoller Kunde sind, der maßgeschneiderte Texte benötigt, kann ein menschlicher Texter für bestimmte Stücke besser geeignet sein — aber selbst dann beschleunigt Bazams KI-Editor die Arbeit enorm."
       - "Wo Sie weiterhin Menschen brauchen, ist bei Strategie, Markenentscheidungen und kreativer Leitung. KI ist herausragend in der Ausführung, aber sie legt nicht Ihre Vision fest. Bazam übernimmt die schwere Arbeit, damit Ihr Team — ob eine Person oder zwanzig — seine Zeit für das Denken aufwenden kann, das wirklich etwas bewegt."
 
   - q: "Wie verhindere ich, dass die KI Fakten in meinen Inhalten erfindet?"

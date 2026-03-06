@@ -38,7 +38,7 @@ faq:
     a:
       - "Connect content metrics to business metrics. AI platforms like Bazam.ai show engagement and traffic data. Map this to your sales pipeline — 'Our blog generated X clicks, Y% of which became leads.' Keep it simple, trend-focused, and tied to outcomes stakeholders care about."
 
-  - q: "Is content marketing more cost-effective than paid advertising?"
+  - q: "Is content marketing cheaper than paid advertising?"
     a:
       - "Long-term, yes. Paid ads stop working when you stop paying. Content keeps working indefinitely — a blog post continues generating traffic for years. AI marketing platforms like Bazam.ai make content production efficient enough that the cost-per-piece is a fraction of paid ad spend, and the content compounds."
 ---

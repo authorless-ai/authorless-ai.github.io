@@ -145,7 +145,7 @@ faq:
 
   - q: "¿Cómo justifico el gasto en marketing de contenidos?"
     a:
-      - "Porque es más barato que la alternativa. Un redactor freelance cobra 200-500 € por blog. Una agencia cuesta 2.000-10.000 € al mes. Un empleado de marketing, 30.000-60.000 € al año. Bazam te da toda esa capacidad por una fracción del coste."
+      - "Porque es más rentable que la alternativa. Un redactor freelance cobra 200-500 € por blog. Una agencia cuesta 2.000-10.000 € al mes. Un empleado de marketing, 30.000-60.000 € al año. Bazam te da toda esa capacidad por una fracción del coste."
 
   - q: "¿Bazam se integra con las herramientas que ya uso?"
     a:

@@ -36,7 +36,7 @@ features:
 
 featureList:
   title: "Rédaction IA qui sonne comme vous, pas comme un robot"
-  description: "Créez des articles de blog, des publications sociales, des communiqués de presse et des textes publicitaires dans votre voix de marque — plus vite que n'importe quel rédacteur, moins cher que n'importe quelle agence."
+  description: "Créez des articles de blog, des publications sociales, des communiqués de presse et des textes publicitaires dans votre voix de marque — plus vite que n'importe quel rédacteur, meilleur rapport qualité-prix que n'importe quelle agence."
   features:
     - iconColor: "primary"
       title: "Écrivez n'importe quoi, instantanément"
@@ -98,5 +98,5 @@ faq:
 
   - q: "Est-il moins cher d'utiliser l'IA ou d'engager un rédacteur ?"
     a:
-      - "L'IA est nettement moins chère à tout volume. Un rédacteur freelance facture 200 à 500 € par article de blog. Bazam crée du contenu illimité pour un abonnement mensuel fixe. Pour les entreprises qui publient régulièrement, les économies sont immédiates et substantielles."
+      - "L'IA est nettement plus rentable à tout volume. Un rédacteur freelance facture 200 à 500 € par article de blog. Bazam crée du contenu illimité pour un abonnement mensuel fixe. Pour les entreprises qui publient régulièrement, les économies sont immédiates et substantielles."
 ---

@@ -35,8 +35,8 @@ carousel:
       alt: "Una lista de contenido creado estratégicamente"
 
 solutionsCards:
-  title: "Contenido que funciona, para cada industria"
-  description: "Descubre cómo Bazam puede ayudarte a alcanzar tus objetivos centrándose en la calidad y la conexión."
+  title: "Potencia tu marketing al máximo"
+  description: "Bazam está diseñado para cualquiera que necesite marketing consistente y profesional más rápido, más inteligente y más seguro — desde fundadores independientes hasta equipos en crecimiento."
   cards:
      - title: "Para agencias de marketing"
        description: "Entrega contenido que obtenga resultados reales para los clientes y deja de desperdiciar horas facturables editando borradores genéricos de IA."
@@ -154,7 +154,7 @@ features:
       description: "Un mes de contenido en una sola sesión. Ideas de campaña en segundos. Informes al instante. Sin esperar a nadie."
     - title: "Más Inteligente"
       description: "Cada pieza de contenido se basa en los datos de tu audiencia, tu posicionamiento de marca y lo que ya funciona. Sin más adivinanzas."
-    - title: "Más Barato"
+    - title: "Mayor Valor"
       description: "La producción de un equipo de marketing completo a una fracción del coste. Sin agencias, sin freelancers, sin nuevas contrataciones."
     - title: "Siempre Activo"
       description: "No se toma vacaciones, ni olvida un briefing, ni necesita incorporación. Tu marketing funciona estés en la oficina o no."
@@ -172,7 +172,7 @@ topFeatures:
       description: "Planifica y pone en cola sin esfuerzo contenido que construye la historia y la autoridad de tu marca a lo largo del tiempo."
       target: /es/features/programacion/
     - title: "Contenido que persuade"
-      description: "Aprovecha los profundos conocimientos de la audiencia para crear contenido que no solo informa, sino que convence."
+      description: "Tu voz de marca, datos de producto y directrices — siempre referenciados, nunca olvidados. Protege tu marca de las suposiciones de la IA genérica."
       target: /es/features/base-de-conocimiento/
 
 faq:

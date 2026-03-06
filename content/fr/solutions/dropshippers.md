@@ -99,7 +99,7 @@ featureList:
         - description: "Traduisez le contenu produit dans <b>plus de 50 langues</b> pour vendre sur de nouveaux marchés."
         - description: "Chaque traduction préserve <b>votre voix de marque et les spécificités produit</b>."
         - description: "Publiez directement sur <b>votre boutique, vos canaux sociaux et plateformes publicitaires</b>."
-        - description: "À ce volume, l'IA est <b>nettement moins chère</b> que n'importe quel rédacteur ou agence."
+        - description: "À ce volume, l'IA offre <b>un rapport qualité-prix nettement supérieur</b> à celui de n'importe quel rédacteur ou agence."
 
 faq:
   - q: "Comment faire ressortir ma boutique de dropshipping de la concurrence ?"

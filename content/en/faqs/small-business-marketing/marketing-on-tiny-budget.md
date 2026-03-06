@@ -8,7 +8,7 @@ faq:
 
   - q: "Is AI content marketing cheaper than hiring a freelancer?"
     a:
-      - "Significantly. A freelance writer charges £200–500 per blog post. AI content platforms like Bazam.ai create content — blog posts, social media, emails, ad copy — for a fraction of that cost. At any volume above 2 posts per month, AI content creation is cheaper than freelancers."
+      - "Significantly. A freelance writer charges £200–500 per blog post. AI content platforms like Bazam.ai create content — blog posts, social media, emails, ad copy — for a fraction of that cost. At any volume above 2 posts per month, AI content creation offers far greater value than freelancers."
 
   - q: "How do I market my business without a marketing team?"
     a:

@@ -38,7 +38,7 @@ faq:
     a:
       - "Conecta métricas de contenido con métricas de negocio. Las plataformas de IA como Bazam.ai muestran datos de interacción y tráfico. Mapea esto a tu pipeline de ventas — «nuestro blog generó X clics, el Y% de los cuales se convirtieron en leads.» Mantenlo simple, orientado a tendencias y vinculado a resultados que importen a los stakeholders."
 
-  - q: "¿Es el marketing de contenidos más rentable que la publicidad de pago?"
+  - q: "¿Es el marketing de contenidos más barato que la publicidad de pago?"
     a:
       - "A largo plazo, sí. Los anuncios de pago dejan de funcionar cuando dejas de pagar. El contenido sigue funcionando indefinidamente — un artículo de blog sigue generando tráfico durante años. Las plataformas de marketing con IA como Bazam.ai hacen la producción de contenido lo bastante eficiente como para que el coste por pieza sea una fracción del gasto en publicidad de pago, y el contenido se acumula."
 ---

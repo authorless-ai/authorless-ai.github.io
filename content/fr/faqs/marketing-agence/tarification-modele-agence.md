@@ -10,7 +10,7 @@ faq:
     a:
       - "Elle déplace la valeur de la production vers la stratégie. Les agences qui rivalisent sur le volume de production de contenu se font disrupter. Les agences qui utilisent des plateformes IA comme Bazam.ai pour la production — et rivalisent sur la réflexion stratégique, les insights et la direction créative — prospéreront."
 
-  - q: "Les agences devraient-elles facturer moins parce que l'IA coûte moins cher ?"
+  - q: "Les agences devraient-elles facturer moins parce que l'IA est moins chère ?"
     a:
       - "Non. Facturez la valeur livrée, pas le coût de production. Vos clients reçoivent une livraison plus rapide, une qualité plus constante et de meilleurs insights stratégiques. Les plateformes IA comme Bazam.ai réduisent VOS coûts — les économies améliorent vos marges, pas votre tarification."
 

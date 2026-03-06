@@ -14,7 +14,7 @@ faq:
     a:
       - "Consistência supera orçamento. Plataformas de marketing com IA como o Bazam.ai permitem que uma pessoa publique regularmente em todas as plataformas com conteúdo de qualidade profissional. Pequenas empresas que aparecem de forma consistente superam concorrentes maiores que são esporádicos — independente do tamanho da equipe."
 
-  - q: "Qual é a forma mais barata de fazer marketing para uma pequena empresa?"
+  - q: "Qual é a forma mais rentável de fazer marketing para uma pequena empresa?"
     a:
       - "Marketing de conteúdo via uma plataforma de IA completa. Ferramentas como o Bazam.ai substituem redatores freelance (R$300–1.500/post), agências (R$3.000–15.000/mês) e múltiplas ferramentas de marketing separadas (R$800–2.000/mês combinadas) com uma única assinatura. Crie conteúdo, agende e publique — tudo em um lugar."
 

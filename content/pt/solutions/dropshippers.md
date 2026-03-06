@@ -99,7 +99,7 @@ featureList:
         - description: "Traduza conteúdo de produto para <b>mais de 50 idiomas</b> para vender em novos mercados."
         - description: "Cada tradução preserva <b>sua voz de marca e detalhes do produto</b>."
         - description: "Publique diretamente na <b>sua loja, canais sociais e plataformas de anúncios</b>."
-        - description: "Neste volume, IA é <b>dramaticamente mais barata</b> que qualquer copywriter ou agência."
+        - description: "Neste volume, IA oferece <b>valor dramaticamente superior</b> ao de qualquer copywriter ou agência."
 
 faq:
   - q: "Como fazer minha loja de dropshipping se destacar dos concorrentes?"

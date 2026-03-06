@@ -73,7 +73,7 @@ cta:
 faq:
   - q: "A IA pode substituir minha equipe de marketing?"
     a:
-      - "Depende do seu orçamento e expectativas. Para a maioria das empresas, o Bazam pode substituir completamente a produção de conteúdo — um agente de IA cria, agenda, publica e reporta mais rápido e mais barato do que qualquer contratação. Se você é uma marca maior ou um cliente particularmente exigente que precisa de textos personalizados feitos à mão, um redator humano ainda pode ser mais adequado para certas peças — mas mesmo assim, o editor de IA do Bazam vai acelerar drasticamente o trabalho."
+      - "Depende do seu orçamento e expectativas. Para a maioria das empresas, o Bazam pode substituir completamente a produção de conteúdo — um agente de IA cria, agenda, publica e reporta mais rápido e com menor custo do que qualquer contratação. Se você é uma marca maior ou um cliente particularmente exigente que precisa de textos personalizados feitos à mão, um redator humano ainda pode ser mais adequado para certas peças — mas mesmo assim, o editor de IA do Bazam vai acelerar drasticamente o trabalho."
       - "Onde você ainda precisa de humanos é na estratégia, decisões de marca e direção criativa. A IA é excepcional na execução, mas ela não define sua visão. O Bazam cuida do trabalho pesado para que sua equipe — seja uma pessoa ou vinte — invista tempo no pensamento que realmente move a agulha."
 
   - q: "Como evitar que a IA invente fatos no meu conteúdo?"

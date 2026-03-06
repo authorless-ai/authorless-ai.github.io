@@ -51,8 +51,8 @@ carousel:
       alt: "A queue of on-brand content ready for review"
 
 solutionsCards:
-  title: "Built for the Teams That Need It Most"
-  description: "Bazam is designed for people who manage content at scale — and need to do it faster, smarter, and with fewer resources."
+  title: "Built to Supercharge your Marketing"
+  description: "Bazam is built for anyone who needs consistent, professional marketing faster, smarter, and safer — from solo founders to growing teams."
   cards:
      - title: For Marketing Agencies
        description: "Run more client accounts without more headcount. Your AI agent handles content and reporting so your team can focus on winning new business."
@@ -109,7 +109,7 @@ featureCards:
     icon: briefcase
 
   - title: "Knowledge Base"
-    description: "Upload docs, paste text, or import URLs. The agent draws on this information to create accurate, informed content."
+    description: "Protect your brand from AI mistakes. Upload your docs and the agent writes from your facts — not its imagination. Less time fixing, more time growing."
     url: "/features/knowledge-base/"
     icon: folder
 
@@ -170,7 +170,7 @@ features:
       description: "A month of content in a single session. Campaign ideas in seconds. Reports pulled instantly. No more waiting on anyone."
     - title: "Smarter"
       description: "Every piece of content is informed by your audience data, brand positioning, and what's already working. No more guessing."
-    - title: "Cheaper"
+    - title: "Better Value"
       description: "The output of a full marketing team at a fraction of the cost. No agencies, no freelancers, no new hires."
     - title: "Always On"
       description: "It doesn't take holidays, forget a brief, or need onboarding. Your marketing runs whether you're in the office or not."
@@ -178,14 +178,14 @@ features:
     - "Your competitors are still hiring. You just deployed an entire marketing department."
 
 topFeatures:
-  title: "Why Teams Choose Bazam"
+  title: "Why Marketers Choose Bazam"
   description: "A new way to run your entire content operation."
   list:
     - title: "Autonomous AI Agent"
       description: "Create content, pull reports, brainstorm ideas, and manage campaigns — all through a single, intelligent conversation."
       target: /features/agent/
     - title: "Centralised Intelligence"
-      description: "Brand voice, audience data, knowledge base, and campaign history — accessible to your whole team, instantly."
+      description: "Your brand voice, product facts, and guidelines — always referenced, never forgotten. Protect your brand from generic AI guesswork."
       target: /features/knowledge-base/
     - title: "Scale Without Hiring"
       description: "Take on more work without proportionally growing your team. The agent handles the heavy lifting."
@@ -222,7 +222,7 @@ faq:
 
   - q: "Do I need a marketing agency?"
     a:
-      - "For strategy, creative direction, and brand positioning — an agency can add real value. For content production, scheduling, publishing, and reporting — an AI agent does the same work faster and cheaper. Most teams find they need strategy help, not production help."
+      - "For strategy, creative direction, and brand positioning — an agency can add real value. For content production, scheduling, publishing, and reporting — an AI agent does the same work faster and at a lower cost. Most teams find they need strategy help, not production help."
 
   - q: "How do I measure content marketing ROI?"
     a:

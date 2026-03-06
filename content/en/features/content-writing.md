@@ -36,7 +36,7 @@ features:
 
 featureList:
   title: "AI Content Writing That Sounds Like You, Not a Robot"
-  description: "Create blog posts, social updates, press releases, and ad copy in your brand voice — faster than any writer, cheaper than any agency."
+  description: "Create blog posts, social updates, press releases, and ad copy in your brand voice — faster than any writer, better value than any agency."
   features:
     - iconColor: "primary"
       title: "Write Anything, Instantly"
@@ -98,5 +98,5 @@ faq:
 
   - q: "Is it cheaper to use AI or hire a content writer?"
     a:
-      - "AI is significantly cheaper at any volume. A freelance writer charges £200–500 per blog post. Bazam creates unlimited content for a flat monthly subscription. For businesses publishing regularly, the savings are immediate and substantial."
+      - "AI is significantly more cost-effective at any volume. A freelance writer charges £200–500 per blog post. Bazam creates unlimited content for a flat monthly subscription. For businesses publishing regularly, the savings are immediate and substantial."
 ---

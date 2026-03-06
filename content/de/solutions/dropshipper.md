@@ -99,7 +99,7 @@ featureList:
         - description: "Übersetzen Sie Produkt-Content in <b>mehr als 50 Sprachen</b>, um in neuen Märkten zu verkaufen."
         - description: "Jede Übersetzung bewahrt <b>Ihre Markenstimme und Produktspezifika</b>."
         - description: "Veröffentlichen Sie direkt in <b>Ihrem Shop, Social-Kanälen und Werbeplattformen</b>."
-        - description: "Bei diesem Volumen ist KI <b>dramatisch günstiger</b> als jeder Texter oder jede Agentur."
+        - description: "Bei diesem Volumen bietet KI <b>dramatisch besseren Wert</b> als jeder Texter oder jede Agentur."
 
 faq:
   - q: "Wie unterscheide ich meinen Dropshipping-Shop von Konkurrenten?"

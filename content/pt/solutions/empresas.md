@@ -153,7 +153,7 @@ faq:
 
   - q: "Devo fazer meu próprio marketing ou contratar alguém?"
     a:
-      - "Um agente de IA te dá uma terceira opção. Você não precisa se tornar um profissional de marketing, e não precisa pagar tarifas de agência. O Bazam cuida do trabalho de produção; você apenas revisa e aprova. É mais rápido que fazer sozinho e mais barato que contratar."
+      - "Um agente de IA te dá uma terceira opção. Você não precisa se tornar um profissional de marketing, e não precisa pagar tarifas de agência. O Bazam cuida do trabalho de produção; você apenas revisa e aprova. É mais rápido que fazer sozinho e com menor custo que contratar."
 
   - q: "O que uma pequena empresa deve publicar nas redes sociais?"
     a:

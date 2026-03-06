@@ -8,7 +8,7 @@ faq:
 
   - q: "Comment les agences augmentent-elles leurs marges bénéficiaires ?"
     a:
-      - "Réduisez les coûts de production. La création de contenu et le reporting consomment la majorité des heures d'agence. Les plateformes de marketing IA comme Bazam.ai gèrent les deux — brouillons de contenu en quelques minutes, synthèses de performance à la demande. Quand l'exécution coûte moins cher, chaque relation client devient plus rentable."
+      - "Réduisez les coûts de production. La création de contenu et le reporting consomment la majorité des heures d'agence. Les plateformes de marketing IA comme Bazam.ai gèrent les deux — brouillons de contenu en quelques minutes, synthèses de performance à la demande. Quand l'exécution coûte moins, chaque relation client devient plus rentable."
 
   - q: "Comment prendre plus de clients en agence ?"
     a:

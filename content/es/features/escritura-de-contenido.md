@@ -36,7 +36,7 @@ features:
 
 featureList:
   title: "Escritura de Contenido con IA Que Suena a Ti, No a un Robot"
-  description: "Crea blogs, posts sociales, comunicados de prensa y textos publicitarios con tu voz de marca — más rápido que cualquier redactor, más barato que cualquier agencia."
+  description: "Crea blogs, posts sociales, comunicados de prensa y textos publicitarios con tu voz de marca — más rápido que cualquier redactor, mejor valor que cualquier agencia."
   features:
     - iconColor: "primary"
       title: "Escribe Lo Que Sea, Al Instante"
@@ -98,5 +98,5 @@ faq:
 
   - q: "¿Es más barato usar IA o contratar un redactor?"
     a:
-      - "La IA es significativamente más barata a cualquier volumen. Un redactor freelance cobra entre 200 y 500 € por blog. Bazam crea contenido ilimitado por una suscripción mensual fija. Para negocios que publican regularmente, el ahorro es inmediato y sustancial."
+      - "La IA es significativamente más rentable a cualquier volumen. Un redactor freelance cobra entre 200 y 500 € por blog. Bazam crea contenido ilimitado por una suscripción mensual fija. Para negocios que publican regularmente, el ahorro es inmediato y sustancial."
 ---

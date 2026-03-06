@@ -51,8 +51,8 @@ carousel:
       alt: "Eine Warteschlange markengerechter Inhalte zur Überprüfung"
 
 solutionsCards:
-  title: "Entwickelt für die Teams, die es am meisten brauchen"
-  description: "Bazam ist für Menschen konzipiert, die Inhalte in großem Maßstab verwalten — und es schneller, intelligenter und mit weniger Ressourcen tun müssen."
+  title: "Turbo für Ihr Marketing"
+  description: "Bazam ist für alle gemacht, die konsistentes, professionelles Marketing brauchen — schneller, intelligenter und sicherer — vom Solo-Gründer bis zum wachsenden Team."
   cards:
      - title: Für Marketingagenturen
        description: "Betreuen Sie mehr Kundenkonten ohne mehr Mitarbeiter. Ihr KI-Agent übernimmt Inhalte und Reporting, damit Ihr Team sich auf Neukundengewinnung konzentrieren kann."
@@ -109,7 +109,7 @@ featureCards:
     icon: briefcase
 
   - title: "Wissensdatenbank"
-    description: "Laden Sie Dokumente hoch, fügen Sie Text ein oder importieren Sie URLs. Der Agent nutzt diese Informationen für genaue, fundierte Inhalte."
+    description: "Schützen Sie Ihre Marke vor KI-Fehlern. Laden Sie Ihre Dokumente hoch und der Agent schreibt aus Ihren Fakten — nicht aus seiner Fantasie. Weniger Korrekturen, mehr Wachstum."
     url: "/de/features/wissensdatenbank/"
     icon: folder
 
@@ -170,7 +170,7 @@ features:
       description: "Einen Monat Content in einer einzigen Sitzung. Kampagnenideen in Sekunden. Reports sofort abrufbar. Nie wieder auf jemanden warten."
     - title: "Intelligenter"
       description: "Jeder Inhalt basiert auf Ihren Zielgruppendaten, Markenpositionierung und dem, was bereits funktioniert. Kein Raten mehr."
-    - title: "Günstiger"
+    - title: "Besseres Preis-Leistungs-Verhältnis"
       description: "Die Leistung eines kompletten Marketing-Teams zu einem Bruchteil der Kosten. Keine Agenturen, keine Freelancer, keine Neueinstellungen."
     - title: "Immer aktiv"
       description: "Er nimmt keinen Urlaub, vergisst kein Briefing und braucht kein Onboarding. Ihr Marketing läuft, ob Sie im Büro sind oder nicht."
@@ -178,14 +178,14 @@ features:
     - "Ihre Wettbewerber stellen noch ein. Sie haben gerade eine ganze Marketingabteilung eingesetzt."
 
 topFeatures:
-  title: "Warum Teams sich für Bazam entscheiden"
+  title: "Warum Marketer sich für Bazam entscheiden"
   description: "Eine neue Art, Ihren gesamten Content-Betrieb zu führen."
   list:
     - title: "Autonomer KI-Agent"
       description: "Erstellen Sie Inhalte, rufen Sie Reports ab, brainstormen Sie Ideen und verwalten Sie Kampagnen — alles in einem einzigen, intelligenten Gespräch."
       target: /de/features/agent/
     - title: "Zentralisierte Intelligenz"
-      description: "Markenstimme, Zielgruppendaten, Wissensdatenbank und Kampagnenhistorie — sofort für Ihr ganzes Team zugänglich."
+      description: "Ihre Markenstimme, Produktdaten und Richtlinien — immer referenziert, nie vergessen. Schützen Sie Ihre Marke vor generischem KI-Raten."
       target: /de/features/wissensdatenbank/
     - title: "Skalieren ohne einzustellen"
       description: "Übernehmen Sie mehr Arbeit, ohne Ihr Team proportional zu vergrößern. Der Agent erledigt die schwere Arbeit."
@@ -222,7 +222,7 @@ faq:
 
   - q: "Brauche ich eine Marketingagentur?"
     a:
-      - "Für Strategie, kreative Ausrichtung und Markenpositionierung — eine Agentur kann echten Mehrwert bieten. Für Content-Produktion, Planung, Veröffentlichung und Reporting — ein KI-Agent erledigt die gleiche Arbeit schneller und günstiger. Die meisten Teams brauchen Strategie-Hilfe, nicht Produktions-Hilfe."
+      - "Für Strategie, kreative Ausrichtung und Markenpositionierung — eine Agentur kann echten Mehrwert bieten. Für Content-Produktion, Planung, Veröffentlichung und Reporting — ein KI-Agent erledigt die gleiche Arbeit schneller und kostengünstiger. Die meisten Teams brauchen Strategie-Hilfe, nicht Produktions-Hilfe."
 
   - q: "Wie messe ich den ROI von Content-Marketing?"
     a:

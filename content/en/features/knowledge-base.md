@@ -1,6 +1,6 @@
 ---
 title: "Your Knowledge Base: Everything Your Agent Needs to Know"
-heroDescription: "Upload docs, product pages, URLs, and brand guidelines. Your AI agent draws on all of it to create content that's <b>accurate, detailed, and deeply informed</b> — from day one."
+heroDescription: "Spend less time picking through AI content for mistakes. Upload your brand materials once, and dramatically reduce errors — the agent writes from <b>your facts, your voice, your guidelines</b>."
 
 features:
 - title: "Feed It Once. Benefit Forever."
@@ -38,8 +38,8 @@ features:
     - "Think of it as your brand's brain. The agent thinks with it every time it creates."
 
 featureList:
-  title: "Give Your AI the Context It Needs to Get It Right"
-  description: "Upload your brand docs, product specs, and key materials once. The agent draws on all of it — every time — so your content is accurate, specific, and deeply informed."
+  title: "Protect Your Brand. Reduce AI Mistakes."
+  description: "Upload your brand docs, product specs, and key materials once. The agent writes from your facts — not its imagination — so you spend less time reviewing and more time growing."
   features:
     - iconColor: "primary"
       title: "Upload Everything"
@@ -67,8 +67,8 @@ featureList:
         - description: "Combine knowledge base with <b>brand voice and audience personas</b> for maximum content quality."
 
 cta:
-  title: "Give Your Agent the Context It Deserves"
-  description: "The difference between generic AI content and content that sounds like you? Context. Start building your knowledge base and see the difference immediately."
+  title: "Protect Your Brand. Publish with Confidence."
+  description: "Dramatically reduce the time you spend checking AI content for mistakes. Give your agent context and watch the quality transform."
 
 faq:
   - q: "What is a knowledge base in content marketing?"

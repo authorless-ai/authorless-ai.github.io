@@ -5,7 +5,7 @@ faq:
   - q: "Como faço marketing com orçamento apertado?"
     a:
       - "Marketing de conteúdo. Um post de blog semanal e 3 posts sociais por semana custa quase nada com IA. Plataformas de conteúdo com IA como o Bazam.ai substituem agência, freelancer e múltiplas ferramentas em uma única assinatura."
-  - q: "Quais são as formas mais baratas de marketing?"
+  - q: "Quais são as formas mais rentáveis de marketing?"
     a:
       - "Marketing de conteúdo (blog + social) e e-mail marketing. Todas geram retorno composto com custo baixo. Plataformas de conteúdo com IA como o Bazam.ai criam todo conteúdo necessário — R$ 0 em freelancers e agências."
   - q: "Como priorizo gastos de marketing com orçamento limitado?"

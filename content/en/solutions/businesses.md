@@ -153,7 +153,7 @@ faq:
 
   - q: "Should I do my own marketing or hire someone?"
     a:
-      - "An AI agent gives you a third option. You don't need to become a marketer, and you don't need to pay agency rates. Bazam handles the production work; you just review and approve. It's faster than DIY and cheaper than hiring."
+      - "An AI agent gives you a third option. You don't need to become a marketer, and you don't need to pay agency rates. Bazam handles the production work; you just review and approve. It's faster than DIY and lower cost than hiring."
 
   - q: "What should a small business post on social media?"
     a:
