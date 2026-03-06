@@ -1,116 +1,132 @@
 ---
-title: "Deja de alimentar a la fábrica de bazofia. Empieza a crear contenido que conecte."
-superTitle: "El fin del contenido robótico de IA"
-description: "¿Cansado del contenido de IA que suena robótico y es ignorado? Internet está inundado de 'bazofia' de baja calidad que no logra generar confianza ni hacer crecer tu negocio. <br/><br/>Bazam se basa en una idea simple y poderosa: <b>la conexión humana real es lo que funciona.</b> Te ayudamos a crear contenido que hace que tu audiencia se sienta vista, comprendida y lista para dar el siguiente paso."
+title: "Tu Departamento de Marketing Virtual. Impulsado por IA."
+superTitle: "Conoce a Tu Agente de Marketing con IA"
+heroDescription:
+  - "Un agente de IA autónomo que conoce tu marca por dentro y por fuera. Pídele que cree contenido, extraiga analíticas, genere ideas de campaña, investigue a la competencia o forme a nuevos miembros del equipo — todo a través de una sola conversación."
+  - "Bazam le da a tu equipo un <b>compañero siempre disponible y experto en tu marca</b> que se encarga del trabajo que preferirías no hacer manualmente — para que puedas centrarte en lo que realmente hace crecer tu negocio."
 youtubeUrl: "4iu6ap8dJbU"
 
+segmentPills:
+  - title: "Para Agencias"
+    url: "/es/solutions/agencias/"
+  - title: "Para Empresas"
+    url: "/es/solutions/empresas/"
+  - title: "Para Líderes de Opinión"
+    url: "/es/solutions/lideres-de-opinion/"
+  - title: "Para ONG"
+    url: "/es/solutions/organizaciones-sin-fines-de-lucro/"
+  - title: "Para Creadores"
+    url: "/es/solutions/influencers/"
+  - title: "Para Dropshippers"
+    url: "/es/solutions/dropshippers/"
+
 introFeatures:
-  - title: "Contenido que se siente personal"
-    description: "Comienza con una comprensión profunda de tu cliente. Crea contenido que hable directamente de sus necesidades, haciéndolos sentir vistos y comprendidos."
+  - title: "Contenido a la Velocidad de la Conversación"
+    description: "Dile al agente lo que necesitas — blogs, campañas sociales, comunicados de prensa — y obtén borradores fieles a tu marca en minutos, no en días."
     url: "/es/features/escritura-de-contenido/"
-  - title: "Persuade, no solo publiques"
-    description: "El contenido genérico informa. El contenido resonante convierte. Genera publicaciones y artículos creados para abordar las motivaciones centrales de los clientes, convirtiendo a los lectores en compradores."
+  - title: "Tu Inteligencia de Marca, Siempre Activa"
+    description: "El agente asimila tu voz de marca, personas de audiencia, base de conocimiento e historial de campañas. Cualquier persona de tu equipo puede acceder a todo al instante a través de un chat."
     url: "/es/features/estrategia-de-marketing/"
-  - title: "Atraviesa el ruido"
-    description: "Deja de sonar como todos los demás. Desarrolla una voz consistente y memorable basada en lo que motiva a tu audiencia y conviértete en la autoridad de referencia en tu sector."
+  - title: "Todos los Canales, Un Solo Panel"
+    description: "Monitoriza engagement, alcance y crecimiento en todas tus plataformas en una sola vista. Pídele al agente un resumen en lugar de entrar en cinco herramientas."
     url: "/es/features/agente/"
 
 carousel:
-  title: "Un enfoque diferente: empieza con tu cliente"
+  title: "Míralo en Acción"
   images:
     - small: "images/carousel/1-mega-create-sm.png"
       large: "images/carousel/1-mega-create.png"
-      alt: "Interfaz de Mega Create para contenido con propósito"
+      alt: "Agente de IA creando contenido a través de una conversación"
     - small: "images/carousel/2-wizard-sm.png"
       large: "images/carousel/2-wizard.png"
-      alt: "Configuración del asistente para personas de la audiencia"
+      alt: "Configuración de voz de marca y personas de audiencia"
     - small: "images/carousel/3-select-sm.png"
       large: "images/carousel/3-select.png"
-      alt: "Selección de impulsores emocionales para una campaña"
+      alt: "Selección de objetivos de campaña y segmentación de audiencia"
     - small: "images/carousel/4-plan-sm.png"
       large: "images/carousel/4-plan.png"
-      alt: "Un plan de contenido estratégico, no una lista aleatoria"
+      alt: "Plan estratégico de contenido generado por la IA"
     - small: "images/carousel/5-list-sm.png"
       large: "images/carousel/5-list.png"
-      alt: "Una lista de contenido creado estratégicamente"
+      alt: "Una cola de contenido fiel a la marca listo para revisión"
 
 solutionsCards:
-  title: "Potencia tu marketing al máximo"
+  title: "Diseñado para Potenciar tu Marketing al Máximo"
   description: "Bazam está diseñado para cualquiera que necesite marketing consistente y profesional más rápido, más inteligente y más seguro — desde fundadores independientes hasta equipos en crecimiento."
   cards:
-     - title: "Para agencias de marketing"
-       description: "Entrega contenido que obtenga resultados reales para los clientes y deja de desperdiciar horas facturables editando borradores genéricos de IA."
+     - title: Para Agencias de Marketing
+       description: "Gestiona más cuentas de clientes sin más empleados. Tu agente de IA se encarga del contenido y los informes para que tu equipo se centre en ganar nuevos clientes."
        url: "/es/solutions/agencias/"
        icon: bullhorn
-     - title: "Para empresas"
-       description: "Construye una base de clientes leales con contenido que conecte, convirtiendo a los lectores en una fuente de crecimiento real."
+     - title: Para Empresas
+       description: "Consigue una operación de contenido profesional y constante sin contratar un equipo de marketing completo. El agente crea, programa y publica en tu nombre."
        url: "/es/solutions/empresas/"
        icon: briefcase
-     - title: "Para expertos y líderes de opinión"
-       description: "Construye tu reputación con contenido auténtico y perspicaz que suene como tú, no como un robot genérico."
+     - title: Para Expertos y Líderes de Opinión
+       description: "Mantén un flujo constante de contenido auténtico y perspicaz que refuerce tu autoridad — sin pasar el día escribiendo posts."
        url: "/es/solutions/lideres-de-opinion/"
        icon: lightbulb
-     - title: "Para organizaciones sin fines de lucro y organizaciones benéficas"
-       description: "Impulsa las donaciones y el apoyo compartiendo tu causa con historias que resuenen a un nivel humano profundo."
+     - title: Para ONG y Organizaciones Benéficas
+       description: "Estira los presupuestos pequeños con contenido impulsado por IA que amplifica tu causa e impulsa las donaciones."
        url: "/es/solutions/organizaciones-sin-fines-de-lucro/"
        icon: heart
-     - title: "Para creadores e influencers"
-       description: "Haz crecer un seguimiento apasionado con contenido que forje un vínculo genuino, no que solo persiga métricas vacías."
+     - title: Para Creadores e Influencers
+       description: "Escala tu contenido en todas las plataformas manteniendo tu voz personal consistente y genuina."
        url: "/es/solutions/influencers/"
        icon: star
-     - title: "Para dropshippers"
-       description: "Vende más productos con descripciones y publicaciones que aprovechen lo que los clientes realmente desean."
+     - title: Para Dropshippers
+       description: "Genera descripciones de producto, campañas sociales y anuncios a escala — todo basado en tu catálogo y público objetivo."
        url: "/es/solutions/dropshippers/"
        icon: truck
 
 featureCards:
-  title: "Tu conjunto de herramientas para un marketing centrado en el ser humano"
-  description: "Cada función está diseñada para ayudarte a conectar con tu audiencia a un nivel más profundo, convirtiendo tu contenido en tu mayor activo."
+  title: "Todo lo que Tu Agente Puede Hacer"
+  description: "Un agente de IA, una conversación — con toda la potencia de un departamento de marketing detrás."
   cards:
-  - title: "Contenido impulsado por las emociones"
-    description: "Nuestra principal diferencia. Crea contenido basado en lo que realmente les importa a tus clientes."
-    url: "/es/features/estrategia-de-marketing/"
+  - title: "Creación de Contenido con IA"
+    description: "Blogs, posts sociales, comunicados de prensa, textos publicitarios — el agente lo escribe todo, adaptado a tu voz de marca y audiencia."
+    url: "/es/features/escritura-de-contenido/"
     icon: edit
 
-  - title: "Programación estratégica"
-    description: "Planifica y automatiza tu calendario de contenido para que tu mensaje de conexión sea siempre coherente."
+  - title: "Programación y Calendario"
+    description: "Planifica y organiza contenido en todos los canales con un calendario visual. El agente puede sugerir los mejores horarios y llenar los huecos."
     url: "/es/features/programacion/"
     icon: calendar
 
-  - title: "Publica sin dolor"
-    description: "Envía contenido resonante directamente a tus plataformas sin el aplastante copiar-pegar."
+  - title: "Publicación Multiplataforma"
+    description: "Publica directamente en WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok desde un solo lugar."
     url: "/es/features/publicacion/"
     icon: upload
 
-  - title: "Ideas que conectan"
-    description: "Obtén sugerencias de temas basadas en los intereses genuinos de la audiencia, no solo en palabras clave genéricas."
-    url: "/es/features/sugerencias/"
-    icon: lightbulb
+  - title: "Panel de Analíticas"
+    description: "Rastrea engagement, alcance, clics y crecimiento de seguidores en todos los canales en una vista centralizada. Sin más peleas con hojas de cálculo."
+    url: "/es/features/agente/"
+    icon: chart
 
-  - title: "Construye la voz de tu marca"
-    description: "Asegúrate de que cada pieza de contenido suene auténtica y fortalezca la personalidad única de tu marca."
+  - title: "Voz de Marca y Estrategia"
+    description: "Define la voz de marca, personas de audiencia y objetivos de campaña. El agente los utiliza para garantizar que cada pieza de contenido sea fiel a tu marca."
     url: "/es/features/estrategia-de-marketing/"
     icon: briefcase
 
-  - title: "Conecta globalmente"
-    description: "Traduce tus mensajes resonantes para llegar a una audiencia global con el mismo impacto emocional."
+  - title: "Base de Conocimiento"
+    description: "Protege tu marca de los errores de la IA. Sube tus documentos y el agente escribe desde tus datos — no desde su imaginación. Menos correcciones, más crecimiento."
+    url: "/es/features/base-de-conocimiento/"
+    icon: folder
+
+  - title: "Soporte Multilingüe"
+    description: "Crea y traduce contenido en varios idiomas. Ejecuta campañas en múltiples mercados simultáneamente."
     url: "/es/features/traduccion/"
     icon: language
 
-  - title: "Conexión colaborativa"
-    description: "Capacita a todo tu equipo para crear contenido de marca y emocionalmente inteligente juntos."
+  - title: "Colaboración de Equipo"
+    description: "Gestiona múltiples marcas y miembros del equipo con permisos granulares y organización por proyectos."
     url: "/es/features/equipos/"
     icon: users
-
-  - title: "Empatía multimarca"
-    description: "Gestiona estrategias de marketing distintas y empáticas para múltiples marcas desde una sola cuenta."
-    url: "/es/features/proyectos/"
-    icon: folder
 
 features:
 - title: "Cinco Herramientas de Marketing Que No Volverás a Abrir"
   image: "/images/campaign-options.png"
-  image_alt: "Un agente de IA gestionando creación de contenido, programación, publicación, analíticas y estrategia en un solo lugar."
+  image_alt: "Un agente de IA gestionando creación de contenido, programación, publicación, analíticas y estrategia en una sola conversación."
   description:
     - "Cada día, tu equipo copia contenido en una herramienta de programación, revisa estadísticas en múltiples paneles, abre otra app para publicar y busca 'ideas de contenido para…'. Bazam lo gestiona todo en un solo lugar."
   points:
@@ -123,7 +139,7 @@ features:
     - title: "Deja de buscar ideas de contenido"
       description: "El agente sugiere temas basándose en tu marca, audiencia y lo que ya funciona — no listas genéricas de palabras clave."
   footer:
-    - "Una sola plataforma. Cada tarea de marketing. Sin más saltar entre pestañas."
+    - "Una conversación. Cada tarea de marketing. Sin más saltar entre pestañas."
 
 - title: "Ahorra 500–1.200 €/Mes en Herramientas de Marketing Que Ya No Necesitas"
   image: "/images/feature-office-1.jpg"
@@ -138,7 +154,7 @@ features:
     - title: "Panel de Analíticas — 249–499 €/mes por usuario"
       description: "Sprout Social, Iconosquare, Metricool — solo para ver cómo rindió tu contenido. Bazam tiene un panel de analíticas integrado en todos los canales."
     - title: "Herramienta de Estrategia y SEO — 110–400 €/mes"
-      description: "SEMrush, Ahrefs, Moz — herramientas caras que la mayoría apenas usa. Bazam tiene la estrategia integrada desde el primer día."
+      description: "SEMrush, Ahrefs, Moz — herramientas caras que la mayoría apenas usa. Bazam tiene la estrategia integrada."
     - title: "Plataforma de Publicación — horas/semana"
       description: "Entrar en seis plataformas individualmente. Copiar y pegar, reformatear, subir. Tiempo que nunca recuperarás."
   footer:
@@ -162,57 +178,57 @@ features:
     - "Tu competencia sigue contratando. Tú acabas de desplegar un departamento de marketing entero."
 
 topFeatures:
-  title: "La diferencia es una conexión más profunda"
-  description: "Estas no son solo características. Son nuevas formas de construir una marca que importa."
+  title: "Por Qué los Profesionales del Marketing Eligen Bazam"
+  description: "Una nueva forma de gestionar toda tu operación de contenido."
   list:
-    - title: "Escritura impulsada por las emociones"
-      description: "Crea contenido convincente basado en la psicología humana, no solo en palabras clave genéricas."
+    - title: "Agente de IA Autónomo"
+      description: "Crea contenido, extrae informes, genera ideas y gestiona campañas — todo a través de una sola conversación inteligente."
       target: /es/features/agente/
-    - title: "Automatización estratégica"
-      description: "Planifica y pone en cola sin esfuerzo contenido que construye la historia y la autoridad de tu marca a lo largo del tiempo."
-      target: /es/features/programacion/
-    - title: "Contenido que persuade"
-      description: "Tu voz de marca, datos de producto y directrices — siempre referenciados, nunca olvidados. Protege tu marca de las suposiciones de la IA genérica."
+    - title: "Inteligencia Centralizada"
+      description: "Tu voz de marca, datos de producto y directrices — siempre referenciados, nunca olvidados. Protege tu marca de las suposiciones genéricas de la IA."
       target: /es/features/base-de-conocimiento/
+    - title: "Escala Sin Contratar"
+      description: "Asume más trabajo sin aumentar tu equipo proporcionalmente. El agente se encarga del trabajo pesado."
+      target: /es/features/equipos/
 
 faq:
-  - q: "¿Cómo hago marketing de contenidos si no tengo un equipo de marketing?"
+  - q: "¿Cómo hago marketing de contenidos sin un equipo de marketing?"
     a:
-      - "Bazam reemplaza la necesidad de un equipo entero. Un agente de IA crea tu contenido, lo programa, lo publica y mide los resultados — todo desde una sola conversación. Tú lo diriges; él ejecuta."
+      - "Usa un agente de IA que se encarga del trabajo que haría un equipo. Bazam crea contenido, lo programa en todas las plataformas, lo publica automáticamente y rastrea el rendimiento — todo a través de una conversación sencilla. Tú revisas y apruebas; el agente se encarga de todo lo demás."
 
-  - q: "¿Es el marketing de contenidos demasiado caro para una pyme?"
+  - q: "¿Es el marketing de contenidos demasiado caro para las pequeñas empresas?"
     a:
-      - "No con Bazam. Contratar redactores, agencias o un equipo interno cuesta miles al mes. Bazam te da contenido ilimitado — blogs, redes sociales, newsletters — por una suscripción mensual fija."
+      - "Lo era. Un redactor freelance cobra 200–500 € por artículo de blog. Un contrato con agencia cuesta 2.000–10.000 € al mes. Un empleado de marketing cuesta 30.000–60.000+ € al año. Bazam te ofrece creación de contenido, programación, publicación y analíticas por una fracción de todo eso."
 
-  - q: "¿Se nota que el contenido está hecho con IA?"
+  - q: "¿Cómo publico en redes sociales de forma constante?"
     a:
-      - "Si la IA no tiene contexto, sí. Por eso la mayoría del contenido de IA suena a robot. Bazam trabaja con tu voz de marca, tus productos, tu audiencia y una base de conocimiento propia, así que el contenido suena a ti, no a una máquina."
+      - "Crea por lotes. Genera un mes de contenido en una sola sesión y prográmalo en todas las plataformas. El agente de IA de Bazam redacta todo con tu voz de marca, tú revisas y apruebas, y se publica en piloto automático. Constancia sin esfuerzo diario."
 
-  - q: "¿Cómo mantengo la constancia publicando contenido?"
+  - q: "¿Puede la IA realmente escribir buen contenido de marketing?"
     a:
-      - "Con un sistema que se encargue de todo. Crea el contenido del mes en una sola sesión, prográmalo y deja que Bazam lo publique automáticamente. La constancia viene de tener un sistema, no de fuerza de voluntad."
+      - "Sí — cuando tiene contexto. La diferencia entre contenido de IA malo y excelente es lo que la IA sabe sobre tu marca. El agente de Bazam trabaja con tu voz de marca, personas de audiencia y base de conocimiento, así que el resultado es específico e informado, no relleno genérico."
 
-  - q: "¿Es una pérdida de tiempo hacer marketing de contenidos?"
+  - q: "¿Cómo compito con marcas más grandes online?"
     a:
-      - "Solo si lo haces sin estrategia. Publicar al azar no funciona. Cuando cada pieza de contenido tiene un propósito — atraer atención, educar o generar ventas — el contenido se convierte en tu mejor vendedor, funcionando las 24 horas."
+      - "Las marcas grandes tienen equipos grandes que producen más contenido en más canales. Un agente de IA nivela el campo de juego — una persona con Bazam puede producir el mismo volumen y calidad de contenido que un equipo de cinco."
 
-  - q: "No sé nada de marketing. ¿Puedo usar esto?"
+  - q: "¿Es ChatGPT suficiente para el marketing?"
     a:
-      - "Sí. Bazam se diseñó para dueños de negocio, no para expertos en marketing. La estrategia está integrada en la plataforma. Cuéntale al agente sobre tu negocio y audiencia, y él se encarga del enfoque estratégico automáticamente."
+      - "ChatGPT es un chatbot genérico. No sabe nada de tu marca, olvida todo entre sesiones y no puede programar, publicar ni rastrear rendimiento. Para borradores ocasionales va bien. Para una operación de contenido real, necesitas una plataforma que recuerde tu marca y gestione todo el flujo de trabajo."
 
-  - q: "¿Cuántos tipos de contenido puede crear Bazam?"
+  - q: "¿Cómo creo un calendario de contenido rápidamente?"
     a:
-      - "Más de 70 — blogs, posts para redes sociales, newsletters, comunicados de prensa, descripciones de producto, textos para anuncios y mucho más. Todo adaptado a la voz de tu marca y optimizado para cada plataforma."
+      - "Pídele al agente. Dile tus temas, objetivos o eventos próximos y genera un calendario de contenido completo con publicaciones programadas en todas tus plataformas. Revisas, ajustas y apruebas — tu mes queda organizado en minutos."
 
-  - q: "¿Cómo funciona la publicación desde Bazam?"
+  - q: "¿Necesito una agencia de marketing?"
     a:
-      - "Bazam se conecta directamente con WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok. Programa y publica desde un solo panel. Sin copiar y pegar, sin iniciar sesión en cinco apps distintas."
+      - "Para estrategia, dirección creativa y posicionamiento de marca — una agencia puede aportar valor real. Para producción de contenido, programación, publicación e informes — un agente de IA hace el mismo trabajo más rápido y a menor coste. La mayoría de los equipos necesitan ayuda estratégica, no ayuda en producción."
 
-  - q: "¿Puedo lanzar mi marketing en otros idiomas?"
+  - q: "¿Cómo mido el ROI del marketing de contenidos?"
     a:
-      - "Sí. Crea contenido en tu idioma y tradúcelo a más de 50 idiomas con un clic. La traducción mantiene tu voz de marca, así que entras en nuevos mercados sin empezar de cero."
+      - "Bazam rastrea engagement, alcance, clics y crecimiento de seguidores en todos los canales conectados. Pregúntale al agente '¿cómo fue este mes?' y obtén un resumen claro. Con el tiempo, ves qué temas y plataformas generan resultados realmente."
 
-  - q: "¿Cómo empiezo con Bazam?"
+  - q: "¿Cómo gestiono contenido en múltiples redes sociales?"
     a:
-      - "Regístrate gratis, define tu marca y audiencia, y empieza a crear contenido. Sin contratos, sin compromisos. Pruébalo con créditos gratuitos y comprueba la diferencia tú mismo."
+      - "Crea una vez, distribuye en todas partes. El agente de Bazam adapta tu contenido al formato, longitud y audiencia de cada plataforma, y luego publica directamente en WordPress, LinkedIn, Instagram, Facebook, X, YouTube y TikTok."
 ---

@@ -1,90 +1,98 @@
 ---
-title: "Más contenido no es la respuesta. Una mejor conexión sí lo es."
-
-heroDescription: Tu marca está siendo ahogada por fábricas de contenido basura de IA que valoran el volumen por encima del valor. Para alcanzar tus objetivos de marketing, necesitas contenido que cree una conexión humana genuina. Bazam es la plataforma estratégica creada para convertir esa conexión en un ROI medible.
+title: "Un Equipo de Marketing Completo — Sin el Equipo de Marketing Completo."
+heroDescription: "El agente de IA de Bazam crea, programa y publica tu contenido — fiel a tu marca y a tu estrategia. Consigues una operación de contenido profesional sin el coste y la complejidad de construir un departamento de marketing."
 
 features:
-- title: "Deja de malgastar recursos en contenido que fracasa"
+- title: "La Trampa del Marketing para Pequeñas Empresas"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Un equipo de marketing mirando un gráfico de crecimiento de ventas, no una publicación de blog vacía."
+  image_alt: "Un dueño de negocio haciendo malabares con el marketing y todo lo demás."
   description:
-    - El activo más valioso de tu equipo es su talento estratégico. Sin embargo, las herramientas genéricas de IA los obligan a una rutina de edición de bajo valor, tratando de arreglar borradores robóticos que estaban condenados desde el principio.
-    - Bazam es el antídoto. Al construir contenido sobre una base de empatía humana, generamos borradores estratégicamente sólidos que liberan a tu equipo para que se concentre en un trabajo de alto impacto que marque la diferencia.
+    - "Sabes que el marketing de contenidos funciona. Aquí está por qué aún no está funcionando para ti."
   points:
-    - title: Crea contenido que realmente convierta
-      description: "Deja de publicar contenido que llena un calendario pero no impacta en los KPI. Cada pieza está diseñada para generar confianza e impulsar resultados."
-    - title: Elimina el ciclo de edición de bajo valor
-      description: "Reduce las horas que tu equipo desperdicia arreglando texto robótico. Obtén contenido acorde con la marca y la estrategia, al instante."
-    - title: Eleva el enfoque estratégico de tu equipo
-      description: "Reasigna los recursos de la tediosa edición a la estrategia de alto nivel que impulsa el crecimiento real de la marca."
+    - title: "Sin Personal de Marketing Dedicado"
+      description: "Llevas demasiados sombreros. El marketing compite con producto, ventas y operaciones por tu atención."
+    - title: "Producción Inconsistente"
+      description: "El contenido se publica a ráfagas — cuando alguien tiene tiempo — no como parte de un plan consistente y estratégico."
+    - title: "Los Freelancers No Conocen Tu Marca"
+      description: "Necesitan briefings constantes, la calidad varía enormemente y nunca están tan comprometidos con tu negocio como tú."
+    - title: "No Puedes Medir Qué Funciona"
+      description: "Los datos viven en cinco plataformas. Publicas contenido pero no puedes saber qué está generando resultados realmente."
+    - title: "No Sabes Por Dónde Empezar"
+      description: "Estrategia de contenido, personas de audiencia, voz de marca — todo suena importante, pero nadie en tu equipo tiene la experiencia en marketing para configurarlo."
   footer:
-    - Equipa a tu equipo para que sean estrategas, no editores de un robot.
-- title: "Implementa una estrategia más sofisticada, de forma sencilla"
+    - "No necesitas contratar un equipo de marketing. Necesitas uno que ya exista."
+
+- title: "Media Hora al Mes. Calendario de Contenido Completo."
   image: "/images/feature-office-2.jpg"
-  image_alt: "Una ilustración de un embudo de marketing sofisticado."
+  image_alt: "Un calendario de contenido lleno de publicaciones programadas en múltiples canales."
   description:
-    - Sabes que una estrategia profunda y de embudo completo es lo que funciona, pero las herramientas a tu disposición dificultan su ejecución eficaz a escala. Las fábricas de contenido basura solo producen ruido.
-    - Bazam simplifica el marketing sofisticado. Hemos codificado marcos de persuasión probados en nuestra IA, lo que permite a tu equipo crear fácilmente contenido que responda a las necesidades específicas de la audiencia en cada etapa del viaje de compra.
+    - "No necesitas experiencia en marketing. Así es tu mes con Bazam gestionando tu contenido."
   points:
-    - title: Ejecuta una estrategia de nivel profesional
-      description: "Nuestra IA utiliza marcos establecidos para convertir los objetivos de tu marca en contenido efectivo y persuasivo."
-    - title: Dirígete a las audiencias con precisión
-      description: "Ve más allá del marketing generalista. Crea contenido para perfiles específicos basado en sus principales motivadores emocionales."
-    - title: Construye una narrativa de marca poderosa
-      description: "Asegúrate de que cada pieza de contenido, desde las publicaciones en redes sociales hasta los artículos de blog, trabaje en conjunto para contar una historia coherente y convincente."
+    - title: "Inicio del Mes: Planifica Tu Contenido"
+      description: "Pídele al agente 'Crea un mes de posts sociales y 4 artículos de blog sobre [temas].' Revisa y aprueba en una sola sesión."
+    - title: "A Mitad del Mes: Consulta el Rendimiento"
+      description: "Pregunta '¿Cómo está rindiendo el contenido de este mes?' y obtén un resumen claro con los números que importan."
+    - title: "Mes Siguiente: Refina y Repite"
+      description: "El agente sugiere temas basándose en lo que funcionó bien. Aprueba el siguiente lote y tu calendario vuelve a estar lleno."
+    - title: "En Cualquier Momento: Actualizaciones Puntuales"
+      description: "¿Lanzamiento de producto? ¿Noticias del sector? ¿Anuncio de evento? Pídele al agente un borrador rápido siempre que lo necesites."
   footer:
-    - Deja de adivinar qué funciona. Empieza a implementar una estrategia más inteligente que funcione de forma consistente.
-- title: "Convierte la conexión humana en un ROI demostrable"
+    - "Marketing de contenido profesional en una sesión al mes — más alguna petición puntual."
+
+- title: "Compite por Encima de Tu Peso"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Un cliente comprando felizmente en su teléfono, lo que refleja un ROI positivo."
+  image_alt: "Crecimiento empresarial impulsado por un marketing consistente."
   description:
-    - En el mercado actual, la conexión es la herramienta de conversión definitiva. El contenido robótico no puede conectar. No le habla a nadie, así que nadie escucha y, desde luego, no tiene un impacto en los resultados.
-    - Bazam está diseñado para forjar esa conexión. Al identificar y abordar lo que realmente le importa a tu audiencia, cada pieza de contenido se convierte en un activo poderoso para generar confianza, generar clientes potenciales y demostrar el valor de tus esfuerzos de marketing.
+    - "Lo que cambia cuando tu marketing realmente funciona de forma constante."
   points:
-    - title: Habla directamente a los desencadenantes de compra del cliente
-      description: "Genera contenido que aborde el verdadero 'porqué' detrás de las decisiones de compra de tu audiencia."
-    - title: Construye un embudo de contenido de alta conversión
-      description: "Crea un camino predecible que guíe a los prospectos interesados a convertirse en clientes leales."
-    - title: Justifica tu gasto en marketing
-      description: "Transforma tu contenido de un gasto de una línea a un motor de ingresos medible para el negocio."
+    - title: "Calidad de Agencia Sin el Retainer"
+      description: "Contenido fiel a tu marca, programación estratégica y analíticas reales — a una fracción de lo que cuesta una agencia o un empleado a tiempo completo."
+    - title: "La Presencia Constante Genera Confianza"
+      description: "Los clientes se comprometen con marcas que aparecen regularmente. Bazam se asegura de que lo hagas — incluso cuando estás ocupado con el negocio."
+    - title: "Decisiones Basadas en Datos"
+      description: "Ve qué contenido genera engagement y leads. Deja de adivinar y empieza a apostar por lo que funciona."
   footer:
-    - No te limites a informar sobre la actividad. Informa sobre los ingresos.
+    - "Cuando el marketing funciona solo, puedes centrarte en lo que realmente hace crecer el negocio."
+
 cta:
-  title: ¿Listo para impulsar el crecimiento con contenido que convierte?
-  description: "Abandona la rutina del contenido y la promesa fallida de 'más es mejor'. Prueba Bazam y equipa a tu equipo con una herramienta estratégica que convierte la conexión humana en resultados comerciales innegables."
+  title: "¿Listo para Marketing al Nivel de los Grandes?"
+  description: "Pon en marcha una operación de contenido profesional en horas, no en meses. El agente de IA de Bazam se encarga del trabajo para que tú puedas centrarte en hacer crecer tu negocio."
+
 topFeatures:
-  title: "Un conjunto de herramientas para equipos de marketing de alto impacto"
-  description: "Echa un vistazo a las funciones diseñadas para ayudar a tu equipo a alcanzar sus objetivos más ambiciosos."
+  title: "Por Qué las Empresas Eligen Bazam"
+  description: "Todo lo que necesitas para gestionar una operación de contenido profesional — sin contratar para ello."
   list:
-    - title: Contenido que convierte
-      description: "Genera contenido persuasivo basado en los principales motivadores emocionales y el viaje de compra de tu audiencia."
+    - title: "Contenido Bajo Demanda"
+      description: "Pide al agente que cree blogs, posts sociales y campañas. Él redacta, tú apruebas, él publica."
+      target: /es/features/escritura-de-contenido/
+    - title: "Estrategia Integrada"
+      description: "Define tu audiencia y objetivos una vez. El agente crea contenido alineado con tu estrategia automáticamente."
       target: /es/features/estrategia-de-marketing/
-    - title: "Campañas estratégicas automatizadas"
-      description: "Planifica y automatiza embudos de contenido completos que nutran a los clientes potenciales e impulsen las ventas."
-      target: /es/features/programacion/
-    - title: "Estrategia de nivel experto accesible"
-      description: "Implementa un plan de marketing sofisticado sin necesidad de un equipo de estrategia grande y especializado."
-      target: /es/features/estrategia-de-marketing/
+    - title: "Publica en Todas Partes"
+      description: "WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok — todo desde un solo lugar."
+      target: /es/features/publicacion/
+
 featureCards:
-  title: "Diseñado para un enfoque de marketing más inteligente"
-  description: "Más funciones esenciales de Bazam que tu equipo necesita para ofrecer contenido excepcional y demostrar su impacto."
+  title: "Tu Kit Completo de Marketing"
+  description: "Todo lo que un negocio en crecimiento necesita para competir con empresas que tienen departamentos de marketing completos."
   cards:
-  - title: "Generación de ideas centrada en la conversión"
-    description: "Obtén sugerencias impulsadas por IA para temas de contenido que resonarán profundamente e impulsarán los objetivos estratégicos."
-    url: "/es/features/sugerencias/"
-    icon: lightbulb
-  - title: "Publicación multicanal"
-    description: "Publica sin problemas tu contenido estratégico en todas las plataformas clave donde vive tu audiencia."
-    url: "/es/features/publicacion/"
-    icon: upload
-  - title: "Inteligencia de embudo incorporada"
-    description: "Desarrolla estrategias efectivas con una IA que entiende cómo crear contenido para cada etapa del viaje del cliente."
+  - title: "Creación de Contenido con IA"
+    description: "Blogs, posts sociales, comunicados de prensa, textos publicitarios — el agente lo escribe todo, adaptado a tu marca."
+    url: "/es/features/escritura-de-contenido/"
+    icon: edit
+  - title: "Programación y Calendario"
+    description: "Planifica y organiza contenido en todos los canales. Mantén una presencia constante sin esfuerzo diario."
+    url: "/es/features/programacion/"
+    icon: calendar
+  - title: "Panel de Analíticas"
+    description: "Rastrea qué funciona en todos tus canales en una sola vista. Toma decisiones basadas en datos sobre tu contenido."
+    url: "/es/features/agente/"
+    icon: chart
+  - title: "Voz de Marca y Estrategia"
+    description: "Define tu voz, audiencia y objetivos. El agente se asegura de que cada pieza de contenido sea fiel a tu marca."
     url: "/es/features/estrategia-de-marketing/"
     icon: briefcase
-  - title: "Colaboración en equipo optimizada"
-    description: "Permite que todo tu equipo cree contenido acorde con la marca y alineado estratégicamente dentro de una única plataforma controlada."
-    url: "/es/features/equipos/"
-    icon: users
+
 featureList:
   title: "Una Forma Más Inteligente de Hacer Marketing de Contenidos"
   description: "Bazam le da a los negocios en crecimiento el poder de un departamento de marketing completo — a una fracción del coste."
@@ -117,41 +125,41 @@ featureList:
 faq:
   - q: "¿Cómo hago marketing cuando no sé nada de marketing?"
     a:
-      - "No necesitas saberlo. Bazam tiene la estrategia integrada. Define tu audiencia y productos, y el agente de IA se encarga del enfoque estratégico — qué contenido crear, para quién y en qué orden. Tú aportas el conocimiento de tu negocio; Bazam aporta el marketing."
+      - "No necesitas saberlo. El agente de IA de Bazam te guía en la configuración de tu marca y audiencia, y luego se encarga de la creación, programación y publicación del contenido. Dile lo que necesitas en lenguaje sencillo — 'escribe posts sociales sobre nuestros servicios' — y él hace el resto."
 
-  - q: "Un autónomo no tiene tiempo para marketing de contenidos. ¿Cómo lo resuelvo?"
+  - q: "Estoy demasiado ocupado con mi negocio para hacer marketing. ¿Qué hago?"
     a:
-      - "Automatizando la ejecución. Una sesión de 30 minutos con el agente crea un mes completo de contenido — blogs, redes sociales, emails. Programa y olvídate. Tu marketing funciona mientras tú trabajas en tu negocio."
+      - "Dedica 30 minutos al mes con Bazam. El agente crea un mes de contenido con tu voz de marca. Revisas rápidamente, apruebas, y él se encarga de la programación y publicación en todas tus plataformas. El marketing funciona en piloto automático mientras tú gestionas tu negocio."
 
-  - q: "¿Funciona el marketing de contenidos para una pyme?"
+  - q: "¿Merece la pena contratar una agencia de marketing para una pyme?"
     a:
-      - "Sí — especialmente para pymes. El contenido se posiciona en buscadores las 24 horas, atrae clientes potenciales y construye autoridad sin un presupuesto publicitario continuo. Las pymes que publican consistentemente superan a competidores más grandes que solo hacen publicidad pagada."
+      - "Para estrategia y dirección creativa — a veces. Para producción de contenido — normalmente no. Un retainer de agencia cuesta 2.000–10.000 €/mes por lo que un agente de IA hace en minutos. La mayoría de las pymes necesitan ejecución constante, no presentaciones de estrategia caras."
 
-  - q: "¿Puede la IA escribir contenido de marketing tan bueno como el de una persona?"
+  - q: "¿Cómo compiten las pymes con empresas más grandes online?"
     a:
-      - "Con el contexto adecuado, sí. La diferencia entre contenido de IA genérico y contenido profesional es el contexto. Bazam trabaja con tu voz de marca, tu audiencia y tu conocimiento de producto — así que el resultado suena a ti, no a una máquina."
+      - "Apareciendo de forma constante. Las empresas grandes tienen equipos grandes, pero una persona con un agente de IA puede igualar su producción de contenido en todas las plataformas. Las pymes que publican regularmente superan a competidores más grandes que publican de forma esporádica."
 
-  - q: "Ya paso demasiado tiempo editando contenido de IA. ¿Esto es diferente?"
+  - q: "¿Cómo consigo más clientes a través del marketing online?"
     a:
-      - "Sí. El problema con las herramientas genéricas es que no conocen tu marca, así que los borradores necesitan horas de edición. Bazam construye el contenido sobre tu estrategia desde el principio, así que obtienes borradores útiles a la primera."
+      - "Publica de forma constante, habla de los problemas de tu audiencia y está presente en las plataformas que usan. Bazam crea contenido dirigido desde tu voz de marca y personas de audiencia, y luego publica en todos tus canales — construyendo visibilidad que genera leads."
 
-  - q: "No soy un escritor. ¿Cómo creo contenido para mi negocio?"
+  - q: "Odio hacer marketing. ¿Hay una forma más fácil?"
     a:
-      - "Habla con el agente como si fuera un colega. Dile 'escríbeme un blog sobre nuestro nuevo servicio' o 'necesito posts para redes sobre nuestra oferta de verano'. Sin fórmulas, sin prompts. Conversación natural."
+      - "Sí. Deja de pensar en el marketing como algo que 'haces' y empieza a tratarlo como una conversación. Dile al agente de Bazam qué hace tu negocio, a quién sirves, y él se encarga del resto — creando, programando y publicando contenido del que estarías orgulloso."
 
-  - q: "¿El marketing de contenidos realmente genera ventas?"
+  - q: "¿Cómo hago que mi pyme se vea profesional online?"
     a:
-      - "Cuando está bien hecho, sí. Contenido aleatorio no vende. Contenido estratégico — diseñado para abordar lo que le importa al cliente en cada etapa de su decisión de compra — convierte lectores en clientes. Bazam se encarga de esa estrategia por ti."
+      - "Contenido constante y bien escrito en todos tus canales. Bazam crea contenido de marketing profesional con tu voz de marca y lo publica según lo programado. Tu presencia online parece la de una empresa con equipo de marketing — porque ahora tienes uno."
 
-  - q: "¿Cómo justifico el gasto en marketing de contenidos?"
+  - q: "¿Debería hacer mi propio marketing o contratar a alguien?"
     a:
-      - "Porque es más rentable que la alternativa. Un redactor freelance cobra 200-500 € por blog. Una agencia cuesta 2.000-10.000 € al mes. Un empleado de marketing, 30.000-60.000 € al año. Bazam te da toda esa capacidad por una fracción del coste."
+      - "Un agente de IA te da una tercera opción. No necesitas convertirte en marketero, y no necesitas pagar tarifas de agencia. Bazam se encarga del trabajo de producción; tú solo revisas y apruebas. Es más rápido que hacerlo tú mismo y más barato que contratar."
 
-  - q: "¿Bazam se integra con las herramientas que ya uso?"
+  - q: "¿Qué debería publicar una pyme en redes sociales?"
     a:
-      - "Bazam publica directamente en WordPress, Facebook, Instagram, LinkedIn, X, YouTube y TikTok. Programa y publica desde un solo panel — sin copiar y pegar entre plataformas."
+      - "Contenido que ayude a tu audiencia. Consejos, detrás de cámaras, historias de clientes, insights del sector y novedades de producto — todo con tu voz de marca. El agente de Bazam sugiere temas basados en tu negocio y audiencia, y luego crea los posts por ti."
 
-  - q: "¿Puedo probarlo antes de comprometerme?"
+  - q: "¿Cómo sé si mi marketing está funcionando realmente?"
     a:
-      - "Sí. Regístrate gratis y usa los créditos de prueba para crear contenido real. Sin tarjeta de crédito, sin compromiso. Comprueba la diferencia tú mismo."
+      - "Bazam rastrea engagement, alcance, clics y crecimiento de seguidores en todos los canales conectados. Pregúntale al agente '¿cómo nos fue este mes?' y obtén una respuesta clara. Con el tiempo, ves qué funciona y haces más de eso."
 ---

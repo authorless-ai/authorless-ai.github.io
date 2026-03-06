@@ -1,93 +1,99 @@
 ---
-title: "Contenido de IA basado en la comprensión de la audiencia, no solo en palabras clave."
-heroDescription: "El mayor activo de tu agencia es su capacidad para entender a las personas. Esta es la primera plataforma de contenido de IA diseñada para amplificar esa experiencia estratégica, convirtiendo tus profundos conocimientos de la audiencia en contenido excepcional que impulsa los resultados de los clientes, a escala."
+title: "Un Compañero de IA Que Conoce la Marca de Cada Cliente."
+heroDescription: "Gestiona más cuentas sin más empleados. El agente de IA de Bazam crea contenido, extrae analíticas, forma a nuevos empleados y gestiona campañas — todo a través de una conversación. Tu equipo se centra en la estrategia, el agente se encarga de la ejecución."
 
 features:
-- title: "Codifica tu genio: la base de la calidad"
+- title: "El Desafío de las Agencias"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Un equipo de estrategas de agencia definiendo perfiles de clientes y motivadores emocionales."
+  image_alt: "Un equipo de agencia repartido entre múltiples cuentas de clientes."
   description:
-    - El mejor trabajo que produce tu agencia proviene de una profunda comprensión del cliente del cliente. Bazam es la primera plataforma diseñada para capturar y escalar esa visión estratégica única.
-    - |
-      Nuestro marco te ayuda a codificar la audiencia de cada cliente: sus necesidades, motivaciones y motivadores emocionales. Esto se convierte en la base inteligente para cada pieza de contenido que la IA te ayuda a crear.
+    - "Todas las agencias llegan al mismo techo. Así es como se ve."
   points:
-    - title: "Incorpora tu visión estratégica"
-      description: "Define los perfiles de audiencia y los desencadenantes de compra únicos de cada cliente para guiar el pensamiento de la IA desde el principio."
-    - title: "Asegura una voz de marca auténtica"
-      description: "Crea contenido que siempre sea fiel a la marca de tu cliente porque está construido sobre sus principios estratégicos centrales."
-    - title: "Crea contenido que conecte"
-      description: "Genera mensajes que resuenen a nivel humano porque hablan de las motivaciones reales de un cliente."
+    - title: "El Conocimiento del Cliente Vive en la Cabeza de las Personas"
+      description: "Directrices de marca, insights de audiencia e historial de campañas están dispersos en documentos, Slack y recuerdos. Cuando alguien se va, sus cuentas se paralizan."
+    - title: "La Incorporación Lleva Semanas"
+      description: "Los nuevos empleados acompañan al personal senior, leen briefings dispersos y aun así cometen errores. Es caro y lento."
+    - title: "El Contenido Consume Tu Tiempo de Estrategia"
+      description: "Los clientes te piden entregar contenido cuando tu valor real es estratégico. Aceptar aleja al talento senior del trabajo que gana nuevos negocios."
+    - title: "Los Informes Son un Sumidero de Tiempo"
+      description: "Crear una actualización semanal para el cliente significa entrar en cinco plataformas y copiar números en una hoja de cálculo. Todas. Las. Semanas."
   footer:
-    - "Esto no es un reemplazo para tu estrategia. Es el motor que la escala."
-- title: "Logra la escala sin sacrificar la excelencia"
+    - "No necesitas más contrataciones junior. Necesitas un compañero de equipo más inteligente."
+
+- title: "Tu Equipo Acaba de Conseguir Superpoderes"
   image: "/images/feature-office-2.jpg"
-  image_alt: "Equipo de la agencia celebrando una exitosa campaña de cliente basada en contenido efectivo."
+  image_alt: "Un equipo de agencia usando el agente de IA en sus flujos de trabajo diarios."
   description:
-    - El dilema clásico de la agencia es elegir entre calidad y velocidad. Aumentar la escala a menudo significa comprometer la misma calidad que te hizo exitoso.
-    - Al comenzar con una base estratégica sólida, Bazam produce borradores iniciales inteligentes y acordes con la marca. Esto reduce drásticamente el tiempo perdido en revisiones, liberando a tu equipo para que se concentre en el pulido creativo final que hace que el trabajo brille.
+    - "Así es el flujo de trabajo de tu equipo con Bazam en la mezcla."
   points:
-    - title: "Aumenta la verdadera capacidad de tu equipo"
-      description: "Capacita a tu equipo para producir más contenido de alta calidad y listo para el cliente sin trabajar más horas."
-    - title: "Céntrate en la creatividad de alto valor"
-      description: "Cambia la energía de tu equipo de arreglar borradores básicos a proporcionar el refinamiento experto por el que pagan los clientes."
-    - title: "Incorpora y entrega, más rápido"
-      description: "Implementa tus estrategias probadas para nuevos clientes y comienza a producir trabajo de alta calidad desde el primer día."
+    - title: "9am: Un nuevo empleado pregunta al agente sobre el Cliente X"
+      description: "Recibe un briefing completo sobre voz de marca, personas de audiencia, campañas recientes y directrices de contenido — en minutos, no semanas."
+    - title: "10am: Un junior crea un mes de contenido social"
+      description: "Le dice al agente 'Redacta 20 posts de LinkedIn para la campaña Q2 del Cliente Y.' Un senior revisa rápidamente el lote y aprueba."
+    - title: "2pm: El account manager extrae un resumen de rendimiento"
+      description: "Pregunta '¿Cómo le fue al Cliente Z la semana pasada?' y obtiene un resumen claro de todos los canales — sin hojas de cálculo."
+    - title: "4pm: El líder de estrategia hace brainstorming de ideas de campaña"
+      description: "Pide 10 ángulos de campaña basados en las motivaciones de la audiencia del Cliente X. Los datos de marca de cada cliente están completamente aislados."
   footer:
-    - "Finalmente, puedes escalar el mejor trabajo de tu agencia, no su trabajo más ocupado."
-- title: "Entrega el valor estratégico que retiene a los clientes"
+    - "Tu equipo hace en horas lo que antes llevaba días."
+
+- title: "Más Clientes. Mismo Equipo. Mayores Márgenes."
   image: "/images/feature-office-1.jpg"
-  image_alt: "Un gráfico que muestra el crecimiento rentable de una agencia impulsado por los resultados de los clientes."
+  image_alt: "Métricas de crecimiento de la agencia mostrando mayor capacidad."
   description:
-    - Los clientes se quedan con las agencias que ofrecen resultados tangibles. El contenido basado en un profundo conocimiento de la audiencia es fundamentalmente más eficaz para persuadir a los clientes y hacer crecer un negocio.
-    - Esta calidad superior se convierte en la ventaja definitiva de tu agencia. Te permite ofrecer el claro impacto comercial que justifica honorarios más altos y construye asociaciones inquebrantables a largo plazo.
+    - "Bazam cambia la economía unitaria de tu agencia."
   points:
-    - title: "Diferencia el servicio de tu agencia"
-      description: "Ofrece un nivel de profundidad estratégica y efectividad de contenido que los competidores que dependen del relleno de palabras clave no pueden igualar."
-    - title: "Justifica el valor de tu agencia"
-      description: "Entrega los resultados comerciales tangibles que hacen que tus honorarios sean una inversión obvia para tus clientes."
-    - title: "Conviértete en un socio indispensable"
-      description: "Cuando tu trabajo impulsa constantemente el crecimiento de un cliente, tu agencia se convierte en una parte fundamental de su éxito."
+    - title: "Más Cuentas, Mismo Equipo"
+      description: "El agente se encarga de la producción de contenido y los informes, así que cada account manager puede gestionar más clientes."
+    - title: "Ingresos Más Rápidos de Nuevos Clientes"
+      description: "La incorporación que solía llevar semanas ahora lleva horas. Empiezas a entregar — y a facturar — antes."
+    - title: "Di Sí a las Solicitudes de Contenido"
+      description: "Los retainers de contenido se vuelven rentables en lugar de drenar al talento senior. El agente hace el trabajo pesado."
   footer:
-    - "Cuando entregas este nivel de calidad a escala, tu agencia se vuelve invaluable."
+    - "Cuando la ejecución cuesta menos, cada relación con un cliente se vuelve más rentable."
+
 cta:
-  title: "¿Listo para escalar la experiencia estratégica de tu agencia?"
-  description: "Descubre cómo Bazam puede ayudarte a ofrecer el contenido efectivo y centrado en la audiencia que hace crecer los negocios de tus clientes y el tuyo."
+  title: "¿Listo para Escalar Sin Contratar?"
+  description: "Descubre cómo el agente de IA de Bazam puede ayudarte a gestionar más cuentas de clientes, incorporar nuevo personal más rápido y entregar contenido excepcional — sin aumentar tu equipo."
+
 topFeatures:
-  title: "Un conjunto de herramientas para la agencia estratégica moderna"
-  description: "Echa un vistazo a las funciones diseñadas para amplificar la principal fortaleza de tu agencia: comprender a las audiencias."
+  title: "Por Qué las Agencias Eligen Bazam"
+  description: "Una nueva forma de gestionar tu agencia."
   list:
-    - title: "Gestión de audiencias de múltiples clientes"
-      description: "Crea y gestiona estrategias de marca y audiencia distintas y empáticas para cada cliente en un entorno seguro y aislado."
-      target: "/es/features/proyectos/"
-    - title: "Un motor de IA para la conexión humana"
-      description: "Ve más allá de las palabras clave para generar contenido que hable a las audiencias de tus clientes a un nivel verdaderamente humano."
+    - title: "Incorporación Instantánea de Clientes"
+      description: "Los nuevos empleados chatean con el agente para aprender voz de marca, audiencia e historial de campañas. Productivos desde el primer día."
       target: "/es/features/base-de-conocimiento/"
-    - title: "Publicación estratégica automatizada"
-      description: "Planifica e implementa contenido que construya una narrativa poderosa, cohesiva y efectiva para tus clientes a lo largo del tiempo."
-      target: "/es/features/programacion/"
+    - title: "Gestión Multicliente"
+      description: "Cada cliente tiene su propia voz de marca, audiencias, base de conocimiento y calendario de contenido aislados — todo en una sola cuenta."
+      target: "/es/features/proyectos/"
+    - title: "Escala Sin Contratar"
+      description: "Asume más cuentas sin más empleados. El agente se encarga del contenido y los informes."
+      target: "/es/features/equipos/"
+
 featureCards:
-  title: "Diseñado para amplificar el valor de tu agencia"
-  description: "Más funciones esenciales de Bazam para ayudarte a ofrecer resultados excepcionales y hacer crecer tu negocio."
+  title: "Diseñado para la Forma en que Trabajan las Agencias"
+  description: "Cada función diseñada para multiplicar la producción de tu equipo — no para reemplazarlo."
   cards:
-  - title: "Constructor de estrategias centrado en el ser humano"
-    description: "Desarrolla estrategias de contenido efectivas basadas en marcos probados de viajes de audiencia y motivadores emocionales."
-    url: "/es/features/estrategia-de-marketing/"
-    icon: briefcase
-  - title: "Entrega multiplataforma optimizada"
-    description: "Publica contenido resonante directamente en los canales del cliente sin el flujo de trabajo de copiar y pegar que acaba con el alma."
-    url: "/es/features/publicacion/"
-    icon: upload
-  - title: "Generación de ideas perspicaces"
-    description: "Obtén sugerencias de temas arraigadas en intereses genuinos de la audiencia, no solo en un relleno robótico de palabras clave."
-    url: "/es/features/sugerencias/"
-    icon: lightbulb
-  - title: "Colaboración en equipo perfecta"
-    description: "Capacita a todo tu equipo para que trabaje en conjunto creando contenido de marca y emocionalmente inteligente para cada cliente."
+  - title: "Creación de Contenido con IA"
+    description: "Blogs, campañas sociales, comunicados de prensa — el agente lo escribe todo, adaptado a la voz y audiencia de cada cliente."
+    url: "/es/features/escritura-de-contenido/"
+    icon: edit
+  - title: "Analíticas Centralizadas"
+    description: "Rastrea el engagement, alcance y crecimiento de cada cliente en todos los canales en un solo panel. Sin más peleas con hojas de cálculo."
+    url: "/es/features/agente/"
+    icon: chart
+  - title: "Base de Conocimiento"
+    description: "Sube documentos del cliente, directrices de marca e información de producto. El agente los utiliza al crear contenido."
+    url: "/es/features/base-de-conocimiento/"
+    icon: folder
+  - title: "Colaboración de Equipo"
+    description: "Permisos por roles, flujos de aprobación y organización por proyectos para la gestión multicliente."
     url: "/es/features/equipos/"
     icon: users
+
 featureList:
-  title: "Un socio estratégico de IA para agencias de marketing"
-  description: "Bazam ayuda a las agencias a escapar del doloroso dilema entre calidad y escala, capacitándolas para ofrecer su mejor trabajo, de manera más eficiente, para más clientes."
+  title: "Un Multiplicador de Fuerza para Agencias de Marketing"
+  description: "Bazam ayuda a las agencias a escalar la ejecución sin escalar la plantilla — para que tu equipo se centre en la estrategia y las relaciones que ganan nuevos clientes."
   features:
     - iconColor: "primary"
       title: "Escala Cuentas de Clientes"
@@ -113,6 +119,7 @@ featureList:
         - description: "Rastrea <b>engagement, alcance y crecimiento</b> en todos los canales en un solo panel."
         - description: "Pide al agente que <b>resuma el rendimiento semanal</b> en lenguaje sencillo."
         - description: "Libera al talento senior del reporting para centrarse en <b>estrategia y relaciones</b>."
+
 faq:
   - q: "¿Cómo asumo más clientes en la agencia sin contratar más gente?"
     a:

@@ -1,54 +1,77 @@
 ---
-title: "Amplifica tu misión: historias atractivas, programación sin esfuerzo"
-heroDescription: Haz más con menos. Comparte tu historia, conecta con tus seguidores e impulsa el impacto. Bazam ayuda a las organizaciones sin fines de lucro y a las organizaciones benéficas a crear contenido atractivo que inspire a la acción, sin arruinar el banco ni a tu equipo.
+title: "Amplifica Tu Misión — Sin Agotar a Tu Equipo."
+heroDescription: "El agente de IA de Bazam ayuda a equipos pequeños a crear contenido convincente que impulsa donaciones y concienciación — para que puedas dedicar tu tiempo a la causa, no al calendario de contenido."
 
 features:
-- title: "Cuenta tu historia de manera efectiva"
+- title: "La Realidad de las ONG"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Imagen de característica de oficina 1"
+  image_alt: "Un pequeño equipo de ONG repartido entre demasiadas responsabilidades."
   description:
-    - ¿Tienes dificultades para llegar a nuevos donantes y atraer a los seguidores existentes? Bazam te permite destacar tu impacto con contenido cautivador que resuene con tu audiencia.
-    - Deja de gastar valiosos recursos en redacción publicitaria costosa. Bazam capacita a tu equipo para crear historias que muevan a la gente a la acción, impulsando las donaciones y la conciencia.
+    - "Tu impacto es poderoso. Tus comunicaciones no lo reflejan."
   points:
-    - title: Comparte tu impacto
-      description: Crea narrativas convincentes que muestren el impacto real de tu trabajo.
-    - title: Aumenta la participación de los donantes
-      description: Crea contenido que resuene con tu audiencia, manteniéndolos conectados a tu misión.
-    - title: Atrae a nuevos seguidores
-      description: Llega a una audiencia más amplia con contenido atractivo que muestre los valores de tu organización.
+    - title: "Sin Personal de Marketing Dedicado"
+      description: "Tu equipo lleva demasiados sombreros. La creación de contenido compite con la ejecución de programas, la captación de fondos y la administración."
+    - title: "El Presupuesto No Da para una Agencia"
+      description: "Cada euro gastado en marketing es un euro no invertido en tu misión. Las agencias y los freelancers son caros."
+    - title: "Narrativa Inconsistente"
+      description: "Publicas cuando alguien tiene tiempo, no como parte de un plan. Los donantes y colaboradores oyen de ti de forma esporádica."
+    - title: "Múltiples Audiencias, Un Equipo Agotado"
+      description: "Donantes, voluntarios, beneficiarios, socios — cada uno necesita mensajes diferentes. Adaptar contenido para todos es abrumador."
   footer:
-    - Cada historia importa. Asegúrate de que la tuya se escuche con Bazam.
-- title: "Creación de contenido sin esfuerzo"
+    - "Tu misión merece ser escuchada. Ahora puede serlo — sin contratar un equipo de marketing."
+
+- title: "Tu Misión, Amplificada"
   image: "/images/feature-office-2.jpg"
-  image_alt: "Imagen de característica de oficina 2"
+  image_alt: "Transformando datos de programas en narrativas convincentes."
   description:
-    - El tiempo es el recurso más preciado de una organización benéfica. Bazam te ayuda a maximizar tu impacto al optimizar tu proceso de creación de contenido, liberando a tu equipo para que se concentre en el trabajo de primera línea.
-    - Desde la generación de publicaciones de blog hasta la programación de actualizaciones de redes sociales, Bazam se encarga del trabajo pesado, lo que te permite mantener una presencia online constante sin la abrumadora carga de trabajo.
+    - "Tu base de conocimiento convierte datos brutos e informes en el tipo de historias que mueven a la gente a actuar."
   points:
-    - title: Optimiza tu flujo de trabajo
-      description: Reduce el tiempo y el esfuerzo necesarios para crear contenido de alta calidad.
-    - title: Mantén una presencia constante
-      description: Mantén a tu audiencia informada y comprometida with actualizaciones e historias periódicas.
-    - title: Maximiza tu impacto
-      description: Enfoca la energía de tu equipo en el trabajo que más importa.
+    - title: "Sube Tus Informes de Impacto"
+      description: "Informes anuales, evaluaciones de programas, casos de estudio — el agente se basa en este material para crear contenido preciso y específico."
+    - title: "Adapta el Contenido a Cada Audiencia"
+      description: "Los donantes reciben historias de impacto. Los voluntarios reciben llamadas a la acción. Los socios reciben actualizaciones de programas. El agente adapta el tono y el enfoque para cada uno."
+    - title: "Campañas de Recaudación"
+      description: "'Crea una campaña social para nuestra colecta de fin de año.' El agente redacta posts que conectan tu misión con las motivaciones de los donantes."
+    - title: "Promoción de Eventos"
+      description: "El agente crea anuncios de eventos, secuencias de recordatorios y contenido de seguimiento — adaptado a tu audiencia y canales."
   footer:
-    - La eficiencia es clave. Bazam te ayuda a hacer más bien con menos.
+    - "Tu impacto merece ser comunicado con la misma fuerza con que se ejecuta."
+
+- title: "Todos en Tu Equipo Se Convierten en Comunicadores"
+  image: "/images/feature-office-1.jpg"
+  image_alt: "Un miembro del equipo no técnico chateando con el agente de IA."
+  description:
+    - "Tu coordinador de programas no necesita ser experto en marketing. Así es usar Bazam."
+  points:
+    - title: "Lenguaje Sencillo, Resultados Reales"
+      description: "Escribe 'Haz un post de Facebook sobre nuestro nuevo programa de mentoría' y obtén un borrador profesional y fiel a tu marca listo para revisión."
+    - title: "Voz Consistente en Todo el Equipo"
+      description: "No importa quién de tu equipo hable con el agente, el resultado se ajusta a la voz y directrices de marca de tu organización."
+    - title: "Revisa y Aprueba"
+      description: "Cada pieza de contenido pasa por tu equipo antes de publicarse. El agente redacta, tu gente aprueba."
+    - title: "Alcance Multilingüe"
+      description: "Crea contenido en un idioma y tradúcelo para llegar a comunidades y colaboradores en otros mercados."
+  footer:
+    - "Deja de elegir entre tus programas y tus comunicaciones. Haz ambas cosas."
+
 cta:
-  title: ¡Transforma las comunicaciones de tu organización benéfica ahora!
-  description: ¿Listo para amplificar tu misión, atraer a tus seguidores y ahorrar un tiempo valioso? ¡Prueba Bazam ahora y experimenta una creación de contenido sin esfuerzo que impulsa un impacto real! ¡Reclama tus créditos gratuitos ahora!
+  title: "¿Listo para Amplificar Tu Impacto?"
+  description: "Dale a tu misión la voz que merece. El agente de IA de Bazam ayuda a equipos pequeños a crear contenido potente que impulsa donaciones y concienciación."
+
 topFeatures:
-  title: A las organizaciones sin fines de lucro les encantan estas características de Bazam
-  description: Echa un vistazo a las innovaciones que cambiarán tu forma de trabajar
+  title: "Por Qué las ONG Eligen Bazam"
+  description: "Herramientas de comunicación diseñadas para equipos que necesitan hacer más con menos."
   list:
-    - title: Redacción de contenido de IA
-      description: Crea contenido atractivo de forma rápida y sencilla con la ayuda de la IA
+    - title: "Escritura de Contenido con IA"
+      description: "Crea historias de impacto convincentes, actualizaciones para donantes y contenido social en minutos — sin necesidad de redactor."
       target: /es/features/escritura-de-contenido/
-    - title: Programación multiplataforma
-      description: Planifica y pon en cola tu contenido sin esfuerzo en múltiples plataformas para un impacto máximo
+    - title: "Programación Multiplataforma"
+      description: "Planifica y programa contenido en todos tus canales con semanas de antelación. Mantén la constancia sin el estrés."
       target: /es/features/programacion/
-    - title: Estrategia de marketing
-      description: ¡Crea una estrategia de contenido efectiva con la guía de la IA, no se requiere experiencia en marketing!
-      target: /es/features/estrategia-de-marketing/
+    - title: "Base de Conocimiento"
+      description: "Sube informes y documentos. El agente los utiliza para crear contenido preciso y detallado sobre tu trabajo."
+      target: /es/features/base-de-conocimiento/
+
 featureList:
   title: "Dale a Tu Misión la Voz Que Merece"
   description: "Bazam ayuda a equipos pequeños a crear comunicaciones potentes para donantes, historias de impacto y campañas de concienciación — sin presupuesto de marketing ni personal de comunicación dedicado."
@@ -81,37 +104,37 @@ featureList:
 faq:
   - q: "¿Cómo hace marketing una ONG sin presupuesto para marketing?"
     a:
-      - "Automatizando lo que un equipo entero haría. Un agente de IA crea tu contenido, lo programa y lo publica — por una fracción de lo que costaría un redactor. Cada euro se queda en tu misión, no en honorarios de agencia."
+      - "No necesitas presupuesto para un redactor o una agencia. El agente de IA de Bazam crea contenido fiel a tu marca por una fracción de lo que pagarías por cualquiera de ellos. Una suscripción reemplaza la necesidad de personal de marketing dedicado — para que cada céntimo se centre en tu misión."
 
-  - q: "Somos un equipo pequeño. ¿Cuánto tiempo nos ahorra realmente?"
+  - q: "No tenemos un responsable de marketing. ¿Cómo contamos nuestra historia?"
     a:
-      - "La mayoría de las ONG crean las actualizaciones de la semana en una fracción del tiempo habitual. Tiempo que se libera para lo que realmente importa: tu trabajo de primera línea."
+      - "Cualquier persona de tu equipo puede usar Bazam — incluso voluntarios. El agente funciona mediante conversación natural. 'Haz un post sobre nuestra colecta de alimentos del fin de semana' es suficiente. La configuración de voz de marca y misión garantiza que todo sea auténtico, sin importar quién lo cree."
 
-  - q: "¿El contenido sonará auténtico o a robot genérico?"
+  - q: "¿Cómo escribo un llamamiento de recaudación convincente?"
     a:
-      - "Sonará como tu organización. Define tu voz, misión y valores en Bazam, y la IA escribe desde ese contexto. Siempre revisas y apruebas antes de publicar — tu historia, contada a tu manera."
+      - "Lidera con impacto, no con necesidad. Sube los datos y resultados de tus programas a la base de conocimiento de Bazam. El agente crea llamamientos que muestran a los donantes exactamente qué hace su dinero — convirtiendo números en historias humanas que motivan a donar."
 
-  - q: "¿Cómo conseguimos que más gente done a nuestra causa?"
+  - q: "¿Cómo mantengo a los donantes comprometidos entre campañas?"
     a:
-      - "Con historias que conecten emocionalmente. Bazam crea contenido diseñado para resonar con lo que motiva a tus donantes — porque parte de su comprensión, no de palabras genéricas. Contenido que conmueve genera más donaciones que contenido que informa."
+      - "Actualizaciones regulares mostrando a dónde fue su dinero. Usa el agente para crear comunicaciones mensuales para donantes — historias de impacto, actualizaciones de programas, spotlight de beneficiarios. La comunicación constante genera confianza e impulsa las donaciones recurrentes."
 
-  - q: "¿Nos quedamos sin ideas de qué comunicar?"
+  - q: "¿Cómo hago más visible a nuestra ONG online?"
     a:
-      - "El agente sugiere temas basados en tu misión, actividades y audiencia. Historias de impacto, actualizaciones de programas, llamadas a la acción — las ideas llegan a ti para que dejes de mirar una pantalla en blanco."
+      - "Publica de forma constante en redes sociales y tu blog. La mayoría de las ONG publican de forma esporádica porque no tienen recursos para contenido regular. El agente de Bazam crea y programa un mes completo de contenido en una sola sesión — tu presencia online funciona sola."
 
-  - q: "¿Funciona para comunicar en varios idiomas?"
+  - q: "¿Cómo consigo que los voluntarios ayuden con el marketing?"
     a:
-      - "Sí. Crea contenido en tu idioma y tradúcelo a más de 50 idiomas con un clic. Esencial para organizaciones que trabajan con comunidades internacionales."
+      - "Dales una herramienta que no necesite formación. El agente de Bazam funciona mediante conversación sencilla — sin jerga de marketing, sin habilidades de diseño necesarias. La configuración de voz de marca garantiza que todo se mantenga alineado con la misión, sin importar quién lo cree."
 
-  - q: "¿Qué tipos de contenido puede crear?"
+  - q: "¿Cómo cuentan las ONG historias de impacto de forma efectiva?"
     a:
-      - "Blogs, publicaciones para redes sociales, newsletters, comunicados de prensa y más. Todo adaptado a la voz de tu organización y a las plataformas donde está tu audiencia."
+      - "Sube tus informes de programas, datos de resultados e información de beneficiarios a la base de conocimiento. El agente transforma números en bruto en historias humanas para redes sociales, newsletters e informes anuales — las historias que inspiran a donantes y colaboradores."
 
-  - q: "Nuestro equipo no es muy técnico. ¿Es fácil de usar?"
+  - q: "¿Cómo llego a colaboradores y comunidades internacionales?"
     a:
-      - "Muy fácil. Habla con el agente como si fuera un compañero de trabajo — 'escribe un post sobre nuestra campaña de verano' — y listo. Sin curvas de aprendizaje complicadas."
+      - "Crea tu contenido en tu idioma y tradúcelo a más de 50 idiomas con Bazam. Llega a donantes internacionales, comunidades de la diáspora y poblaciones beneficiarias en su propio idioma."
 
-  - q: "¿Podemos probarlo antes de comprometernos?"
+  - q: "¿Cómo redacto las secciones narrativas de solicitudes de subvenciones?"
     a:
-      - "Sí. Regístrate gratis y usa los créditos de prueba para crear contenido real para tu organización. Sin tarjeta de crédito, sin compromiso."
+      - "Sube los datos de tu programa y métricas de impacto a la base de conocimiento. El agente redacta secciones narrativas que dan vida a tu impacto — la narrativa que convierte datos en un caso convincente para la financiación."
 ---

@@ -1,55 +1,77 @@
 ---
-title: "Contenido de alta calidad a escala, rápido"
-
-heroDescription: Deja de perder horas en la creación de contenido y empieza a impulsar las ventas. Genera contenido relevante y atractivo a escala, automatiza tu marketing y crece más rápido
+title: "Contenido a Escala. Productos Que Se Venden Solos."
+heroDescription: "El agente de IA de Bazam crea descripciones de producto, campañas sociales y contenido de blog en masa — adaptado a tu audiencia y optimizado para conversiones. Muévete más rápido que tu competencia."
 
 features:
-- title: "Contenido relevante a la velocidad del rayo"
+- title: "El Problema de Contenido del Dropshipping"
   image: "/images/feature-office-1.jpg"
-  image_alt: "Imagen de característica de oficina 1"
+  image_alt: "Un catálogo de productos con contenido incompleto e inconsistente."
   description:
-    - ¿Tienes dificultades para mantenerte al día con las demandas de contenido de un negocio de dropshipping de ritmo rápido? Bazam te permite crear grandes volúmenes de contenido de alta calidad en minutos, no en semanas.
-    - Deja de sacrificar la calidad por la cantidad. Bazam utiliza la IA para generar contenido único y atractivo que resuene con tu público objetivo, incluso al crear en grandes cantidades.
+    - "Puedes conseguir productos rápido. Crear contenido para ellos es el cuello de botella."
   points:
-    - title: Generación rápida de contenido
-      description: Crea publicaciones de blog y actualizaciones de redes sociales en minutos.
-    - title: Creación de contenido en masa
-      description: Genera varias piezas de contenido simultáneamente.
-    - title: Calidad impulsada por IA
-      description: Asegura un contenido atractivo y sin errores, incluso a escala.
+    - title: "Demasiados Productos, Poco Contenido"
+      description: "Cada producto necesita descripciones únicas, posts sociales y textos publicitarios. Hacerlo manualmente no escala."
+    - title: "El Contenido Genérico de IA No Convierte"
+      description: "Las descripciones generadas por IA suenan todas igual — insípidas, sin personalidad y escritas para nadie en particular. Los clientes pasan de largo del contenido que no les habla."
+    - title: "Sin Tiempo para Estrategia"
+      description: "Estás tan ocupado listando productos y gestionando logística que la estrategia de marketing queda en segundo plano."
+    - title: "Sin Forma de Probar Qué Funciona"
+      description: "No sabes qué productos o ángulos conectan con tu audiencia porque no puedes producir suficientes variaciones para probar."
   footer:
-    - Aprovecha al máximo tu tiempo con contenido de alta calidad
-- title: "Contenido ultra específico: análisis de la audiencia y la marca"
+    - "Necesitas contenido en masa que no parezca ni se sienta como contenido en masa."
+
+- title: "50 Productos. Contenido Único. Una Conversación."
   image: "/images/feature-office-2.jpg"
-  image_alt: "Imagen de característica de oficina 2"
+  image_alt: "Un pipeline de contenido de producto generado a escala."
   description:
-    - ¿Tus esfuerzos de marketing no funcionan porque tu contenido no es relevante? Bazam analiza tus productos y públicos objetivo para generar contenido que realmente resuene.
-    - Convierte cada pieza de contenido en una oportunidad de venta. Bazam te ayuda a crear contenido que educa, atrae y, en última instancia, impulsa las conversiones.
+    - "Así es el pipeline del catálogo de productos al contenido publicado."
   points:
-    - title: Análisis de productos
-      description: Bazam entiende tus productos y sus características clave.
-    - title: Información de la audiencia
-      description: Identifica las necesidades y preferencias de tu público objetivo.
-    - title: Contenido relevante
-      description: Crea contenido que hable directamente a tus clientes ideales.
+    - title: "Alimenta al Agente con Tus Productos"
+      description: "Sube detalles de producto — nombres, descripciones, características, imágenes. El agente aprende tu catálogo."
+    - title: "Define Tu Audiencia"
+      description: "Construye personas de cliente — quiénes son, qué les importa y qué les hace comprar. El agente escribe para esos disparadores."
+    - title: "Genera en Masa"
+      description: "Pide 'Crea descripciones y posts sociales para estos 50 productos' y obtén contenido único y dirigido para cada uno."
+    - title: "Revisa y Publica"
+      description: "Revisa el lote, edita lo que necesite ajustes y publica directamente en tu tienda y canales sociales."
   footer:
-    - Muévete más rápido con contenido relevante que da en el clavo
+    - "50 productos, 50 descripciones únicas. Creadas en minutos, no semanas."
+
+- title: "Contenido Que Convierte, No Que Solo Rellena"
+  image: "/images/feature-office-2.jpg"
+  image_alt: "Contenido de producto dirigido a la audiencia comparado con textos genéricos."
+  description:
+    - "La diferencia entre contenido que llena una página y contenido que llena un carrito de compra."
+  points:
+    - title: "Textos Centrados en Beneficios"
+      description: "El agente escribe sobre lo que el producto hace por el cliente, no solo sobre lo que es. Las características se convierten en beneficios, las especificaciones en puntos de venta."
+    - title: "Anuncios Nativos por Plataforma"
+      description: "Las campañas sociales están formateadas para cada plataforma — carruseles de Instagram, anuncios de Facebook, posts de X — no un formato único para todo."
+    - title: "Campañas de Temporada"
+      description: "Pídele al agente que cree campañas de Black Friday, festivas o de lanzamiento para todo tu catálogo. Contenido coordinado en todos los canales."
+    - title: "Alcance Internacional"
+      description: "Traduce contenido de producto y campañas a múltiples idiomas para llegar a nuevos mercados sin contratar traductores."
+  footer:
+    - "Cuando tu contenido es tan bueno como tus precios, ganas."
+
 cta:
-  title: ¡Obtén mejor contenido más rápido, ahora!
-  description: ¿Listo para generar contenido de gran volumen y ultra específico a la velocidad del rayo? ¡Prueba Bazam ahora y despídete de la basura genérica de la IA. ¡Obtén tus créditos de prueba gratuitos hoy!
+  title: "¿Listo para Escalar Tu Operación de Contenido?"
+  description: "Deja de elegir entre volumen y calidad. El agente de IA de Bazam crea contenido dirigido y persuasivo para todos tus productos — en minutos, no semanas."
+
 topFeatures:
-  title: A los dropshippers les encantan estas características de Bazam
-  description: Echa un vistazo a las innovaciones que cambiarán tu forma de trabajar
+  title: "Por Qué los Dropshippers Eligen Bazam"
+  description: "Herramientas diseñadas para velocidad, volumen y conversiones."
   list:
-    - title: Redacción de contenido de IA en masa
-      description: Crea contenido atractivo de forma rápida y sencilla con la ayuda de la IA
+    - title: "Escritura Masiva con IA"
+      description: "Genera descripciones únicas, posts sociales y textos publicitarios para todo tu catálogo de una sola vez."
       target: /es/features/escritura-de-contenido/
-    - title: Estrategia de marketing
-      description: ¡Crea sin esfuerzo una estrategia de contenido en torno a tu viaje de compra, no se requiere experiencia en marketing!
+    - title: "Estrategia de Marketing"
+      description: "Define tu audiencia y viaje de compra. El agente crea contenido que convierte — no que solo ocupa espacio."
       target: /es/features/estrategia-de-marketing/
-    - title: Sugerencias de contenido de IA
-      description: Sugerencias de contenido infinitas y de alto rendimiento adaptadas a tu audiencia
-      target: /es/features/sugerencias/
+    - title: "Soporte Multilingüe"
+      description: "Llega a mercados globales con traducción automática de contenido para todos tus productos."
+      target: /es/features/traduccion/
+
 featureList:
   title: "Contenido en Volumen Que No Parece Ni Se Siente Como Volumen"
   description: "Genera descripciones de producto únicas, campañas sociales y textos publicitarios para todo tu catálogo — cada pieza orientada a tu audiencia y optimizada para conversiones."
@@ -80,43 +102,43 @@ featureList:
         - description: "A este volumen, la IA ofrece <b>un valor drásticamente superior</b> al de cualquier redactor o agencia."
 
 faq:
-  - q: "¿Cómo destaco mi tienda de dropshipping frente a miles de competidores?"
+  - q: "¿Cómo destaco mi tienda de dropshipping frente a los competidores?"
     a:
-      - "Con contenido que conecte con lo que tus clientes realmente quieren, no descripciones genéricas de producto. Bazam crea contenido basado en las motivaciones de tu audiencia — seguridad, estatus, comodidad — para que tu marca se sienta diferente aunque vendas productos similares."
+      - "Descripciones de producto y contenido de marketing únicos. La mayoría de dropshippers copian y pegan las descripciones del proveedor, así que todas las tiendas se ven idénticas. Bazam crea contenido adaptado individualmente para cada producto — basado en tu voz de marca y público objetivo — para que tu tienda tenga una identidad propia."
 
-  - q: "Necesito contenido para docenas de productos. ¿Puede la IA con eso?"
+  - q: "¿Cómo escribo descripciones de producto que realmente vendan?"
     a:
-      - "Sí. Bazam está diseñado para creación de contenido a gran volumen. Introduce información sobre múltiples productos y genera contenido en masa. Cada pieza es única y relevante para el producto y audiencia específicos."
+      - "Deja de listar características y empieza a hablar de motivaciones. Define las personas de tus clientes en Bazam — sus puntos de dolor, deseos y disparadores de compra — y el agente escribe descripciones que abordan lo que realmente les importa."
 
-  - q: "No sé nada de marketing. ¿Puedo crear contenido que venda?"
+  - q: "¿Cómo escribo descripciones de producto SEO para ecommerce?"
     a:
-      - "Sí. No necesitas ser experto en marketing. Bazam usa marcos como AIDA para crear contenido que impulse conversiones automáticamente. La estrategia viene integrada — tú solo aportas el conocimiento de tus productos."
+      - "El agente de Bazam crea descripciones de producto que incorporan naturalmente términos de búsqueda relevantes mientras siguen siendo atractivas de leer. Cada descripción es única — no duplicada entre productos — lo cual es esencial para el SEO de ecommerce."
 
-  - q: "¿Cómo creo contenido para redes sociales que genere ventas?"
+  - q: "Estoy usando las mismas descripciones del proveedor que todos. ¿Cómo lo soluciono?"
     a:
-      - "Pídele al agente contenido enfocado en las motivaciones de compra de tu audiencia. El agente crea publicaciones que no solo informan, sino que persuaden — tocando los puntos que convierten navegantes en compradores."
+      - "Sube la información de tus productos y los detalles del proveedor a Bazam, define tu voz de marca y audiencia, y el agente reescribe cada descripción desde cero. Cada una es única, fiel a tu marca y dirigida a tu cliente específico — no un copiar y pegar genérico."
 
-  - q: "¿Cómo publico consistentemente si estoy solo gestionando todo el negocio?"
+  - q: "¿Cómo vendo productos de dropshipping a nivel internacional?"
     a:
-      - "Genera contenido por lotes en una sesión y programa todo el mes. Bazam publica automáticamente mientras tú te ocupas de proveedores, pedidos y servicio al cliente."
+      - "Crea el contenido de tus productos en tu idioma y luego tradúcelo a más de 50 idiomas con Bazam. Cada traducción mantiene tu voz de marca y las especificidades del producto — para que tu tienda hable a los clientes en su propio idioma."
 
-  - q: "¿Cómo entiendo mejor a mi público objetivo?"
+  - q: "¿Cómo hago marketing de productos de dropshipping sin experiencia en marketing?"
     a:
-      - "Bazam analiza tu audiencia basándose en demografía, intereses y comportamiento. Define tus personas de audiencia y el agente crea contenido que habla directamente a lo que les importa."
+      - "Dile al agente sobre tus productos y para quién son. Él crea descripciones de producto, campañas para redes sociales y textos publicitarios adaptados a tu audiencia. No necesitas saber de marketing — solo aprueba lo que te guste."
 
-  - q: "Mis clientes están en diferentes países. ¿Puedo crear contenido en varios idiomas?"
+  - q: "¿Cómo pruebo qué descripciones de producto convierten mejor?"
     a:
-      - "Sí. Crea contenido en tu idioma y tradúcelo a más de 50 idiomas con un clic. Ideal para dropshippers que quieren expandir su alcance internacional."
+      - "Pídele al agente que genere múltiples versiones de la misma descripción — diferentes ángulos, tonos u objetivos de audiencia. Pruébalas y compara las tasas de conversión. Bazam hace que el testing A/B de textos de producto sea trivialmente fácil."
 
-  - q: "¿Bazam se conecta con mis redes sociales?"
+  - q: "¿Cómo creo contenido para nuevos productos rápidamente?"
     a:
-      - "Sí. Publica directamente en Facebook, Instagram, LinkedIn, X, YouTube, TikTok y WordPress. Sin copiar y pegar — todo desde un solo panel."
+      - "Añade la información del producto a tu base de conocimiento y pídele al agente que genere descripciones, posts sociales y textos publicitarios. Ya sean 5 productos nuevos o 50, obtienes contenido único para cada uno en minutos."
 
-  - q: "¿Qué tipos de contenido puede crear para dropshipping?"
+  - q: "¿Es más barato usar IA o contratar un redactor para descripciones de producto?"
     a:
-      - "Descripciones de producto, blogs, posts para redes sociales, guías de compra, comparativas, listas y más. Todo optimizado para SEO para atraer tráfico a tu tienda."
+      - "A escala, la IA gana de forma aplastante. Un redactor produce 5–10 descripciones al día. El agente de Bazam produce más de 50 en una sesión — cada una adaptada al producto y la audiencia. Para un negocio que añade productos semanalmente, las cuentas son abrumadoras."
 
-  - q: "¿Puedo probarlo gratis?"
+  - q: "¿Cómo creo anuncios para redes sociales de mis productos de dropshipping?"
     a:
-      - "Sí. Regístrate y obtén créditos de prueba gratuitos. Crea contenido real para tu tienda y comprueba la diferencia antes de comprometerte."
+      - "Dile al agente qué productos promocionar y quién es el cliente objetivo. Genera textos publicitarios específicos por plataforma — Instagram, Facebook, TikTok — dirigidos a tus personas de audiencia. Programa y publica directamente desde Bazam."
 ---
