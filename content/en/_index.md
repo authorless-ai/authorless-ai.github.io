@@ -1,5 +1,5 @@
 ---
-title: "Your Virtual Marketing Department. Powered by AI."
+title: "Your Always-on Virtual Marketing Department"
 superTitle: "Meet Your AI Marketing Agent"
 heroDescription:
   - "An autonomous AI agent that knows your brand inside out. Ask it to create content, pull analytics, brainstorm campaigns, research competitors, or brief new team members — all through a single conversation."

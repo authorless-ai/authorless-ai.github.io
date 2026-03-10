@@ -1,5 +1,5 @@
 ---
-title: "Il tuo reparto marketing virtuale. Alimentato dall'IA."
+title: "Il tuo reparto marketing virtuale, sempre attivo"
 superTitle: "Incontra il tuo agente di marketing IA"
 heroDescription:
   - "Un agente IA autonomo che conosce il tuo brand a fondo. Chiedigli di creare contenuti, analizzare i dati, fare brainstorming sulle campagne, studiare la concorrenza o formare nuovi membri del team — il tutto attraverso un'unica conversazione."

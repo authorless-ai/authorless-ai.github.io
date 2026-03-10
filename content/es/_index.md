@@ -1,5 +1,5 @@
 ---
-title: "Tu Departamento de Marketing Virtual. Impulsado por IA."
+title: "Tu Departamento de Marketing Virtual Siempre Activo"
 superTitle: "Conoce a Tu Agente de Marketing con IA"
 heroDescription:
   - "Un agente de IA autónomo que conoce tu marca por dentro y por fuera. Pídele que cree contenido, extraiga analíticas, genere ideas de campaña, investigue a la competencia o forme a nuevos miembros del equipo — todo a través de una sola conversación."

@@ -1,5 +1,5 @@
 ---
-title: "Ihre virtuelle Marketingabteilung. Powered by KI."
+title: "Ihre virtuelle Marketingabteilung — rund um die Uhr im Einsatz"
 superTitle: "Lernen Sie Ihren KI-Marketing-Agenten kennen"
 heroDescription:
   - "Ein autonomer KI-Agent, der Ihre Marke in- und auswendig kennt. Bitten Sie ihn, Inhalte zu erstellen, Analysen abzurufen, Kampagnen zu brainstormen, Wettbewerber zu recherchieren oder neue Teammitglieder einzuarbeiten — alles in einem einzigen Gespräch."
