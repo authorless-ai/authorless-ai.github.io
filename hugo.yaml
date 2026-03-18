@@ -633,9 +633,9 @@ menus:
   - name: "Solutions"
     weight: 20
     identifier: "solutions"
-  - name: "Pricing"
-    url: "/pricing/"
-    weight: 30
+#  - name: "Pricing"
+#    url: "/pricing/"
+#    weight: 30
   - name: "Contact"
     url: "/contact/"
     weight: 40
