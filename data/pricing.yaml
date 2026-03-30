@@ -1,0 +1,8 @@
+currency_prefix: "$"
+currency_suffix: ""
+individual:
+  monthly: 39
+  yearly: 29
+team:
+  monthly: 109
+  yearly: 89

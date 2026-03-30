@@ -22,7 +22,7 @@ faq:
     - "I crediti IA inclusi nel tuo piano di abbonamento mensile non vengono trasferiti al mese successivo."
     - "Tuttavia, i crediti IA aggiuntivi acquistati separatamente vengono trasferiti."
 ---
-<section class="bg-white dark:bg-gray-900 mb-16" x-data="{ yearly: true, plans: { timeSaver: { monthly: 29, yearly: 22 }, team: { monthly: 75, yearly: 57 } } }">
+<section class="bg-white dark:bg-gray-900 mb-16" x-data="{{< pricing-data >}}">
   <div class="max-w-screen-xl py-8 px-4 mx-auto text-center lg:py-16 lg:px-12">
     <h2 class="mx-auto text-center lg:mb-12 mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Marketing senza stress — inizia ora</h2>
     <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
@@ -36,7 +36,7 @@ faq:
     <div class="grid gap-8 mt-8 lg:grid-cols-3 lg:gap-10 sm:mt-12">
       <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">Individual</h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'€' + (yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400"><span x-show="yearly">al mese, fatturato annualmente</span><span x-show="!yearly">al mese, fatturato mensilmente</span></p>
         <a href="{{< signup-url >}}" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Inizia ora</a>
         <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
@@ -48,7 +48,7 @@ faq:
       </div>
       <div class="flex flex-col p-6 text-center bg-white border rounded-lg shadow border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8">
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">Team</h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'€' + (yearly ? plans.team.yearly : plans.team.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.team.yearly : plans.team.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400"><span x-show="yearly">al mese, fatturato annualmente</span><span x-show="!yearly">al mese, fatturato mensilmente</span></p>
         <a href="{{< signup-url >}}" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 dark:focus:ring-primary-900 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8">Inizia ora</a>
         <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">

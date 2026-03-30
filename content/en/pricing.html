@@ -23,19 +23,7 @@ faq:
     - "The AI credits that come with your monthly subscription plan do not roll over to the next month. These credits are meant to be used within your current billing cycle."
     - "However, any additional AI credits that you purchase separately do roll over. This means if you buy extra credits and don't use them all, they'll still be available for you to use in future months until they're gone."
 ---
-<section class="bg-white dark:bg-gray-900 mb-16" x-data="{
-  yearly: true,
-  plans: {
-    timeSaver: {
-      monthly: 39,
-      yearly: 29
-    },
-    team: {
-      monthly: 109,
-      yearly: 89
-    }
-  }
-}">
+<section class="bg-white dark:bg-gray-900 mb-16" x-data="{{< pricing-data >}}">
   <div class="max-w-screen-xl py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
     <h2 class="mx-auto text-center lg:mb-12 mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
       Get Stress-Free Marketing Now
@@ -69,7 +57,7 @@ faq:
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
           Individual
         </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'$' + (yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
           <span x-show="yearly">per month, billed annually</span>
           <span x-show="!yearly">per month, billed monthly</span>
@@ -107,7 +95,7 @@ faq:
         <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
           Team
         </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="'$' + (yearly ? plans.team.yearly : plans.team.monthly)"></span>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.team.yearly : plans.team.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
             <span x-show="yearly">per month, billed annually</span>
             <span x-show="!yearly">per month, billed monthly</span>

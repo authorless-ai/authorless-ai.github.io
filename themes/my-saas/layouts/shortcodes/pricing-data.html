@@ -1,0 +1,18 @@
+{{ $pricing := .Site.Data.pricing }}{
+  yearly: true,
+  currencyPrefix: '{{ $pricing.currency_prefix }}',
+  currencySuffix: '{{ $pricing.currency_suffix }}',
+  plans: {
+    timeSaver: {
+      monthly: {{ $pricing.individual.monthly }},
+      yearly: {{ $pricing.individual.yearly }}
+    },
+    team: {
+      monthly: {{ $pricing.team.monthly }},
+      yearly: {{ $pricing.team.yearly }}
+    }
+  },
+  formatPrice(amount) {
+    return this.currencyPrefix + amount + this.currencySuffix;
+  }
+}
