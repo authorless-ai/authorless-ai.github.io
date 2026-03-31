@@ -68,11 +68,11 @@ sections:
         values:
           - check: true
           - check: true
-      - id: best_time
-        feature: "Best Time to Publish"
-        values:
-          - check: false
-          - check: true
+#      - id: best_time
+#        feature: "Best Time to Publish"
+#        values:
+#          - check: false
+#          - check: true
 
   - id: strategy
     name: "Strategy & Analytics"
