@@ -1,0 +1,3 @@
+{{- $gridName := .Get 0 -}}
+{{- $grid := index .Site.Data $gridName -}}
+{{- partial "components/feature-grid.html" (dict "grid" $grid "context" .) -}}

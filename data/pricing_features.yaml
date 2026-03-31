@@ -1,0 +1,173 @@
+id: pricing_features
+prefix: fg_pricing
+title: "Compare Plans"
+subtitle: "Everything you need at every level"
+
+columns:
+  - id: individual
+    heading: "Individual"
+  - id: team
+    heading: "Team"
+    highlight: true
+  - id: enterprise
+    heading: "Enterprise"
+
+sections:
+  - id: core
+    name: "Core"
+    rows:
+      - id: users
+        feature: "Users"
+        values:
+          - text: "1"
+          - text: "Unlimited"
+          - text: "Unlimited"
+      - id: connected_accounts
+        feature: "Connected Accounts"
+        values:
+          - text: "5"
+          - text: "15"
+          - text: "Unlimited"
+      - id: ai_credits
+        feature: "AI Credits Per Month"
+        values:
+          - text: "300"
+          - text: "900"
+          - text: "Custom"
+      - id: scheduling_horizon
+        feature: "Scheduling Horizon"
+        values:
+          - check: true
+            text: "2 weeks"
+          - check: true
+            text: "1 year"
+          - check: true
+            text: "Unlimited"
+
+  - id: content
+    name: "Content Creation"
+    rows:
+      - id: ai_writing
+        feature: "AI Content Writing"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: ai_images
+        feature: "AI Image Generation"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: bulk_create
+        feature: "Bulk Content Creation"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: content_suggestions
+        feature: "AI Content Suggestions"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: translation
+        feature: "AI Translation"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: knowledge_base
+        feature: "Knowledge Base"
+        values:
+          - check: true
+          - check: true
+          - check: true
+
+  - id: publishing
+    name: "Publishing & Scheduling"
+    rows:
+      - id: social_publishing
+        feature: "Social Media Publishing"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: wordpress
+        feature: "WordPress Publishing"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: content_calendar
+        feature: "Visual Content Calendar"
+        values:
+          - check: true
+          - check: true
+          - check: true
+
+  - id: strategy
+    name: "Strategy & Analytics"
+    rows:
+      - id: marketing_strategy
+        feature: "Automated Marketing Strategy"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: audience_personas
+        feature: "Audience Personas"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: brand_voice
+        feature: "Brand Voice Configuration"
+        values:
+          - check: true
+          - check: true
+          - check: true
+
+  - id: team_features
+    name: "Team & Management"
+    rows:
+      - id: projects
+        feature: "Multiple Projects"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: team_members
+        feature: "Team Collaboration"
+        values:
+          - check: false
+          - check: true
+          - check: true
+      - id: approval_workflows
+        feature: "Approval Workflows"
+        values:
+          - check: false
+          - check: true
+          - check: true
+
+  - id: support
+    name: "Support"
+    rows:
+      - id: email_support
+        feature: "Email Support"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: priority_support
+        feature: "Priority Support"
+        values:
+          - check: false
+          - check: false
+          - check: true
+      - id: dedicated_onboarding
+        feature: "Dedicated Onboarding"
+        values:
+          - check: false
+          - check: false
+          - check: true

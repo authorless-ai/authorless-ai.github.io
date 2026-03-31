@@ -23,7 +23,7 @@ faq:
     - "Les crédits IA inclus dans votre abonnement mensuel ne sont pas reportés au mois suivant. Ces crédits sont destinés à être utilisés pendant votre cycle de facturation en cours."
     - "Cependant, les crédits IA supplémentaires que vous achetez séparément sont reportés. Cela signifie que si vous achetez des crédits supplémentaires et ne les utilisez pas tous, ils restent disponibles pour les mois suivants jusqu'à épuisement."
 ---
-<section class="bg-white dark:bg-gray-900 mb-16" x-data="{{< pricing-data >}}">
+<section class="bg-white dark:bg-gray-900" x-data="{{< pricing-data >}}">
   <div class="max-w-screen-xl py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
     <h2 class="mx-auto text-center lg:mb-12 mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
       Un marketing sans stress, maintenant
@@ -159,3 +159,5 @@ faq:
     </div>
   </div>
 </section>
+
+{{< feature-grid "pricing_features" >}}

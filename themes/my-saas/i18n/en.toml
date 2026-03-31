@@ -156,3 +156,253 @@ other = "in"
 
 [on]
 other = "on"
+
+
+[fg_cmp_hootsuite__title]
+other = "Bazam vs Hootsuite"
+
+[fg_cmp_hootsuite__subtitle]
+other = "See how Bazam compares to Hootsuite across key marketing features"
+
+[fg_cmp_hootsuite__bazam]
+other = "Bazam"
+
+[fg_cmp_hootsuite__hootsuite]
+other = "Hootsuite"
+
+[fg_cmp_hootsuite__content_creation]
+other = "Content Creation"
+
+[fg_cmp_hootsuite__content_creation__ai_writing]
+other = "AI Content Writing"
+
+[fg_cmp_hootsuite__content_creation__ai_writing__bazam]
+other = "Blog posts, social, ads, press releases"
+
+[fg_cmp_hootsuite__content_creation__ai_images]
+other = "AI Image Generation"
+
+[fg_cmp_hootsuite__content_creation__ai_images__hootsuite]
+other = "Via Canva integration"
+
+[fg_cmp_hootsuite__content_creation__bulk_create]
+other = "Bulk Content Creation"
+
+[fg_cmp_hootsuite__content_creation__content_suggestions]
+other = "AI Content Suggestions"
+
+[fg_cmp_hootsuite__content_creation__content_suggestions__bazam]
+other = "Strategy-driven suggestions"
+
+[fg_cmp_hootsuite__content_creation__content_suggestions__hootsuite]
+other = "Basic recommendations"
+
+[fg_cmp_hootsuite__content_creation__translation]
+other = "AI Content Translation"
+
+[fg_cmp_hootsuite__content_creation__knowledge_base]
+other = "Knowledge Base"
+
+[fg_cmp_hootsuite__content_creation__knowledge_base__bazam]
+other = "Docs, URLs, product info"
+
+[fg_cmp_hootsuite__publishing]
+other = "Publishing & Scheduling"
+
+[fg_cmp_hootsuite__publishing__social_publishing]
+other = "Social Media Publishing"
+
+[fg_cmp_hootsuite__publishing__wordpress]
+other = "WordPress Publishing"
+
+[fg_cmp_hootsuite__publishing__content_calendar]
+other = "Visual Content Calendar"
+
+[fg_cmp_hootsuite__publishing__best_time]
+other = "Best Time to Publish"
+
+[fg_cmp_hootsuite__strategy]
+other = "Strategy & Analytics"
+
+[fg_cmp_hootsuite__strategy__marketing_strategy]
+other = "Automated Marketing Strategy"
+
+[fg_cmp_hootsuite__strategy__marketing_strategy__bazam]
+other = "Full customer journey mapping"
+
+[fg_cmp_hootsuite__strategy__audience_personas]
+other = "Audience Personas"
+
+[fg_cmp_hootsuite__strategy__audience_personas__bazam]
+other = "AI-generated with demographics, motivations, buying behaviour"
+
+[fg_cmp_hootsuite__strategy__brand_voice]
+other = "Brand Voice"
+
+[fg_cmp_hootsuite__strategy__analytics]
+other = "Analytics & Reporting"
+
+[fg_cmp_hootsuite__strategy__analytics__hootsuite]
+other = "Advanced analytics"
+
+[fg_cmp_hootsuite__team_features]
+other = "Team & Management"
+
+[fg_cmp_hootsuite__team_features__team_collab]
+other = "Team Collaboration"
+
+[fg_cmp_hootsuite__team_features__projects]
+other = "Multiple Brands/Projects"
+
+[fg_cmp_hootsuite__team_features__approval_workflows]
+other = "Approval Workflows"
+
+[fg_cmp_hootsuite__pricing]
+other = "Pricing"
+
+[fg_cmp_hootsuite__pricing__starting_price]
+other = "Starting Price"
+
+[fg_cmp_hootsuite__pricing__starting_price__bazam]
+other = "$29/mo"
+
+[fg_cmp_hootsuite__pricing__starting_price__hootsuite]
+other = "$99/mo"
+
+[fg_cmp_hootsuite__pricing__free_trial]
+other = "Free Trial"
+
+[fg_pricing__title]
+other = "Compare Plans"
+
+[fg_pricing__subtitle]
+other = "Everything you need at every level"
+
+[fg_pricing__individual]
+other = "Individual"
+
+[fg_pricing__team]
+other = "Team"
+
+[fg_pricing__enterprise]
+other = "Enterprise"
+
+[fg_pricing__core]
+other = "Core"
+
+[fg_pricing__core__users]
+other = "Users"
+
+[fg_pricing__core__users__individual]
+other = "1"
+
+[fg_pricing__core__users__team]
+other = "Unlimited"
+
+[fg_pricing__core__users__enterprise]
+other = "Unlimited"
+
+[fg_pricing__core__connected_accounts]
+other = "Connected Accounts"
+
+[fg_pricing__core__connected_accounts__individual]
+other = "5"
+
+[fg_pricing__core__connected_accounts__team]
+other = "15"
+
+[fg_pricing__core__connected_accounts__enterprise]
+other = "Unlimited"
+
+[fg_pricing__core__ai_credits]
+other = "AI Credits Per Month"
+
+[fg_pricing__core__ai_credits__individual]
+other = "300"
+
+[fg_pricing__core__ai_credits__team]
+other = "900"
+
+[fg_pricing__core__ai_credits__enterprise]
+other = "Custom"
+
+[fg_pricing__core__scheduling_horizon]
+other = "Scheduling Horizon"
+
+[fg_pricing__core__scheduling_horizon__individual]
+other = "2 weeks"
+
+[fg_pricing__core__scheduling_horizon__team]
+other = "1 year"
+
+[fg_pricing__core__scheduling_horizon__enterprise]
+other = "Unlimited"
+
+[fg_pricing__content]
+other = "Content Creation"
+
+[fg_pricing__content__ai_writing]
+other = "AI Content Writing"
+
+[fg_pricing__content__ai_images]
+other = "AI Image Generation"
+
+[fg_pricing__content__bulk_create]
+other = "Bulk Content Creation"
+
+[fg_pricing__content__content_suggestions]
+other = "AI Content Suggestions"
+
+[fg_pricing__content__translation]
+other = "AI Translation"
+
+[fg_pricing__content__knowledge_base]
+other = "Knowledge Base"
+
+[fg_pricing__publishing]
+other = "Publishing & Scheduling"
+
+[fg_pricing__publishing__social_publishing]
+other = "Social Media Publishing"
+
+[fg_pricing__publishing__wordpress]
+other = "WordPress Publishing"
+
+[fg_pricing__publishing__content_calendar]
+other = "Visual Content Calendar"
+
+[fg_pricing__strategy]
+other = "Strategy & Analytics"
+
+[fg_pricing__strategy__marketing_strategy]
+other = "Automated Marketing Strategy"
+
+[fg_pricing__strategy__audience_personas]
+other = "Audience Personas"
+
+[fg_pricing__strategy__brand_voice]
+other = "Brand Voice Configuration"
+
+[fg_pricing__team_features]
+other = "Team & Management"
+
+[fg_pricing__team_features__projects]
+other = "Multiple Projects"
+
+[fg_pricing__team_features__team_members]
+other = "Team Collaboration"
+
+[fg_pricing__team_features__approval_workflows]
+other = "Approval Workflows"
+
+[fg_pricing__support]
+other = "Support"
+
+[fg_pricing__support__email_support]
+other = "Email Support"
+
+[fg_pricing__support__priority_support]
+other = "Priority Support"
+
+[fg_pricing__support__dedicated_onboarding]
+other = "Dedicated Onboarding"

@@ -1,0 +1,134 @@
+id: comparison_hootsuite
+prefix: fg_cmp_hootsuite
+title: "Bazam vs Hootsuite"
+subtitle: "See how Bazam compares to Hootsuite across key marketing features"
+
+columns:
+  - id: bazam
+    heading: "Bazam"
+    highlight: true
+  - id: hootsuite
+    heading: "Hootsuite"
+
+sections:
+  - id: content_creation
+    name: "Content Creation"
+    rows:
+      - id: ai_writing
+        feature: "AI Content Writing"
+        values:
+          - check: true
+            text: "Blog posts, social, ads, press releases"
+          - check: false
+      - id: ai_images
+        feature: "AI Image Generation"
+        values:
+          - check: true
+          - check: true
+            text: "Via Canva integration"
+      - id: bulk_create
+        feature: "Bulk Content Creation"
+        values:
+          - check: true
+          - check: false
+      - id: content_suggestions
+        feature: "AI Content Suggestions"
+        values:
+          - check: true
+            text: "Strategy-driven suggestions"
+          - check: true
+            text: "Basic recommendations"
+      - id: translation
+        feature: "AI Content Translation"
+        values:
+          - check: true
+          - check: false
+      - id: knowledge_base
+        feature: "Knowledge Base"
+        values:
+          - check: true
+            text: "Docs, URLs, product info"
+          - check: false
+
+  - id: publishing
+    name: "Publishing & Scheduling"
+    rows:
+      - id: social_publishing
+        feature: "Social Media Publishing"
+        values:
+          - check: true
+          - check: true
+      - id: wordpress
+        feature: "WordPress Publishing"
+        values:
+          - check: true
+          - check: false
+      - id: content_calendar
+        feature: "Visual Content Calendar"
+        values:
+          - check: true
+          - check: true
+      - id: best_time
+        feature: "Best Time to Publish"
+        values:
+          - check: false
+          - check: true
+
+  - id: strategy
+    name: "Strategy & Analytics"
+    rows:
+      - id: marketing_strategy
+        feature: "Automated Marketing Strategy"
+        values:
+          - check: true
+            text: "Full customer journey mapping"
+          - check: false
+      - id: audience_personas
+        feature: "Audience Personas"
+        values:
+          - check: true
+            text: "AI-generated with demographics, motivations, buying behaviour"
+          - check: false
+      - id: brand_voice
+        feature: "Brand Voice"
+        values:
+          - check: true
+          - check: false
+      - id: analytics
+        feature: "Analytics & Reporting"
+        values:
+          - check: true
+          - check: true
+
+  - id: team_features
+    name: "Team & Management"
+    rows:
+      - id: team_collab
+        feature: "Team Collaboration"
+        values:
+          - check: true
+          - check: true
+      - id: projects
+        feature: "Multiple Brands/Projects"
+        values:
+          - check: true
+          - check: true
+      - id: approval_workflows
+        feature: "Approval Workflows"
+        values:
+          - check: true
+          - check: true
+
+  - id: pricing
+    name: "Pricing"
+    rows:
+      - id: starting_price
+        feature: "Starting Price"
+        values:
+          - text: "$29/mo"
+          - text: "$99/mo"
+      - id: free_trial
+        feature: "Free Trial"
+        values:
+          - check: true
+          - check: true
