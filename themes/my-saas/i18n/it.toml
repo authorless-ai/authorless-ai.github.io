@@ -159,250 +159,250 @@ other = "il"
 
 
 [fg_cmp_hootsuite__title]
-other = "Bazam vs Hootsuite"  # TODO: translate
+other = "Bazam vs Hootsuite"
 
 [fg_cmp_hootsuite__subtitle]
-other = "See how Bazam compares to Hootsuite across key marketing features"  # TODO: translate
+other = "Scopri come Bazam si confronta con Hootsuite sulle principali funzionalità di marketing"
 
 [fg_cmp_hootsuite__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_hootsuite__hootsuite]
-other = "Hootsuite"  # TODO: translate
+other = "Hootsuite"
 
 [fg_cmp_hootsuite__content_creation]
-other = "Content Creation"  # TODO: translate
+other = "Creazione di contenuti"
 
 [fg_cmp_hootsuite__content_creation__ai_writing]
-other = "AI Content Writing"  # TODO: translate
+other = "Scrittura di contenuti IA"
 
 [fg_cmp_hootsuite__content_creation__ai_writing__bazam]
-other = "Blog posts, social, ads, press releases"  # TODO: translate
+other = "Post del blog, social, annunci, comunicati stampa"
 
 [fg_cmp_hootsuite__content_creation__ai_images]
-other = "AI Image Generation"  # TODO: translate
+other = "Generazione di immagini IA"
 
 [fg_cmp_hootsuite__content_creation__ai_images__hootsuite]
-other = "Via Canva integration"  # TODO: translate
+other = "Tramite integrazione Canva"
 
 [fg_cmp_hootsuite__content_creation__bulk_create]
-other = "Bulk Content Creation"  # TODO: translate
+other = "Creazione di contenuti in massa"
 
 [fg_cmp_hootsuite__content_creation__content_suggestions]
-other = "AI Content Suggestions"  # TODO: translate
+other = "Suggerimenti di contenuti IA"
 
 [fg_cmp_hootsuite__content_creation__content_suggestions__bazam]
-other = "Strategy-driven suggestions"  # TODO: translate
+other = "Suggerimenti basati sulla strategia"
 
 [fg_cmp_hootsuite__content_creation__content_suggestions__hootsuite]
-other = "Basic recommendations"  # TODO: translate
+other = "Raccomandazioni di base"
 
 [fg_cmp_hootsuite__content_creation__translation]
-other = "AI Content Translation"  # TODO: translate
+other = "Traduzione di contenuti IA"
 
 [fg_cmp_hootsuite__content_creation__knowledge_base]
-other = "Knowledge Base"  # TODO: translate
+other = "Base di conoscenza"
 
 [fg_cmp_hootsuite__content_creation__knowledge_base__bazam]
-other = "Docs, URLs, product info"  # TODO: translate
+other = "Documenti, URL, info prodotto"
 
 [fg_cmp_hootsuite__publishing]
-other = "Publishing & Scheduling"  # TODO: translate
+other = "Pubblicazione e pianificazione"
 
 [fg_cmp_hootsuite__publishing__social_publishing]
-other = "Social Media Publishing"  # TODO: translate
+other = "Pubblicazione sui social media"
 
 [fg_cmp_hootsuite__publishing__wordpress]
-other = "WordPress Publishing"  # TODO: translate
+other = "Pubblicazione WordPress"
 
 [fg_cmp_hootsuite__publishing__content_calendar]
-other = "Visual Content Calendar"  # TODO: translate
+other = "Calendario dei contenuti visuale"
 
 [fg_cmp_hootsuite__publishing__best_time]
-other = "Best Time to Publish"  # TODO: translate
+other = "Orario migliore per pubblicare"
 
 [fg_cmp_hootsuite__strategy]
-other = "Strategy & Analytics"  # TODO: translate
+other = "Strategia e analisi"
 
 [fg_cmp_hootsuite__strategy__marketing_strategy]
-other = "Automated Marketing Strategy"  # TODO: translate
+other = "Strategia di marketing automatizzata"
 
 [fg_cmp_hootsuite__strategy__marketing_strategy__bazam]
-other = "Full customer journey mapping"  # TODO: translate
+other = "Mappatura completa del percorso cliente"
 
 [fg_cmp_hootsuite__strategy__audience_personas]
-other = "Audience Personas"  # TODO: translate
+other = "Personas del pubblico"
 
 [fg_cmp_hootsuite__strategy__audience_personas__bazam]
-other = "AI-generated with demographics, motivations, buying behaviour"  # TODO: translate
+other = "Generate dall'IA con dati demografici, motivazioni, comportamento d'acquisto"
 
 [fg_cmp_hootsuite__strategy__brand_voice]
-other = "Brand Voice"  # TODO: translate
+other = "Voce del brand"
 
 [fg_cmp_hootsuite__strategy__analytics]
-other = "Analytics & Reporting"  # TODO: translate
+other = "Analisi e reportistica"
 
 [fg_cmp_hootsuite__strategy__analytics__hootsuite]
-other = "Advanced analytics"  # TODO: translate
+other = "Analisi avanzate"
 
 [fg_cmp_hootsuite__team_features]
-other = "Team & Management"  # TODO: translate
+other = "Team e gestione"
 
 [fg_cmp_hootsuite__team_features__team_collab]
-other = "Team Collaboration"  # TODO: translate
+other = "Collaborazione in team"
 
 [fg_cmp_hootsuite__team_features__projects]
-other = "Multiple Brands/Projects"  # TODO: translate
+other = "Marchi/progetti multipli"
 
 [fg_cmp_hootsuite__team_features__approval_workflows]
-other = "Approval Workflows"  # TODO: translate
+other = "Flussi di approvazione"
 
 [fg_cmp_hootsuite__pricing]
-other = "Pricing"  # TODO: translate
+other = "Prezzi"
 
 [fg_cmp_hootsuite__pricing__starting_price]
-other = "Starting Price"  # TODO: translate
+other = "Prezzo iniziale"
 
 [fg_cmp_hootsuite__pricing__starting_price__bazam]
-other = "$29/mo"  # TODO: translate
+other = "$29/mo"
 
 [fg_cmp_hootsuite__pricing__starting_price__hootsuite]
-other = "$99/mo"  # TODO: translate
+other = "$99/mo"
 
 [fg_cmp_hootsuite__pricing__free_trial]
-other = "Free Trial"  # TODO: translate
+other = "Prova gratuita"
 
 [fg_pricing__title]
-other = "Compare Plans"  # TODO: translate
+other = "Confronta i piani"
 
 [fg_pricing__subtitle]
-other = "Everything you need at every level"  # TODO: translate
+other = "Tutto ciò di cui hai bisogno a ogni livello"
 
 [fg_pricing__individual]
-other = "Individual"  # TODO: translate
+other = "Individuale"
 
 [fg_pricing__team]
-other = "Team"  # TODO: translate
+other = "Team"
 
 [fg_pricing__enterprise]
-other = "Enterprise"  # TODO: translate
+other = "Azienda"
 
 [fg_pricing__core]
-other = "Core"  # TODO: translate
+other = "Base"
 
 [fg_pricing__core__users]
-other = "Users"  # TODO: translate
+other = "Utenti"
 
 [fg_pricing__core__users__individual]
-other = "1"  # TODO: translate
+other = "1"
 
 [fg_pricing__core__users__team]
-other = "Unlimited"  # TODO: translate
+other = "Illimitato"
 
 [fg_pricing__core__users__enterprise]
-other = "Unlimited"  # TODO: translate
+other = "Illimitato"
 
 [fg_pricing__core__connected_accounts]
-other = "Connected Accounts"  # TODO: translate
+other = "Account collegati"
 
 [fg_pricing__core__connected_accounts__individual]
-other = "5"  # TODO: translate
+other = "5"
 
 [fg_pricing__core__connected_accounts__team]
-other = "15"  # TODO: translate
+other = "15"
 
 [fg_pricing__core__connected_accounts__enterprise]
-other = "Unlimited"  # TODO: translate
+other = "Illimitato"
 
 [fg_pricing__core__ai_credits]
-other = "AI Credits Per Month"  # TODO: translate
+other = "Crediti IA al mese"
 
 [fg_pricing__core__ai_credits__individual]
-other = "300"  # TODO: translate
+other = "300"
 
 [fg_pricing__core__ai_credits__team]
-other = "900"  # TODO: translate
+other = "900"
 
 [fg_pricing__core__ai_credits__enterprise]
-other = "Custom"  # TODO: translate
+other = "Personalizzato"
 
 [fg_pricing__core__scheduling_horizon]
-other = "Scheduling Horizon"  # TODO: translate
+other = "Orizzonte di pianificazione"
 
 [fg_pricing__core__scheduling_horizon__individual]
-other = "2 weeks"  # TODO: translate
+other = "2 settimane"
 
 [fg_pricing__core__scheduling_horizon__team]
-other = "1 year"  # TODO: translate
+other = "1 anno"
 
 [fg_pricing__core__scheduling_horizon__enterprise]
-other = "Unlimited"  # TODO: translate
+other = "Illimitato"
 
 [fg_pricing__content]
-other = "Content Creation"  # TODO: translate
+other = "Creazione di contenuti"
 
 [fg_pricing__content__ai_writing]
-other = "AI Content Writing"  # TODO: translate
+other = "Scrittura di contenuti IA"
 
 [fg_pricing__content__ai_images]
-other = "AI Image Generation"  # TODO: translate
+other = "Generazione di immagini IA"
 
 [fg_pricing__content__bulk_create]
-other = "Bulk Content Creation"  # TODO: translate
+other = "Creazione di contenuti in massa"
 
 [fg_pricing__content__content_suggestions]
-other = "AI Content Suggestions"  # TODO: translate
+other = "Suggerimenti di contenuti IA"
 
 [fg_pricing__content__translation]
-other = "AI Translation"  # TODO: translate
+other = "Traduzione IA"
 
 [fg_pricing__content__knowledge_base]
-other = "Knowledge Base"  # TODO: translate
+other = "Base di conoscenza"
 
 [fg_pricing__publishing]
-other = "Publishing & Scheduling"  # TODO: translate
+other = "Pubblicazione e pianificazione"
 
 [fg_pricing__publishing__social_publishing]
-other = "Social Media Publishing"  # TODO: translate
+other = "Pubblicazione sui social media"
 
 [fg_pricing__publishing__wordpress]
-other = "WordPress Publishing"  # TODO: translate
+other = "Pubblicazione WordPress"
 
 [fg_pricing__publishing__content_calendar]
-other = "Visual Content Calendar"  # TODO: translate
+other = "Calendario dei contenuti visuale"
 
 [fg_pricing__strategy]
-other = "Strategy & Analytics"  # TODO: translate
+other = "Strategia e analisi"
 
 [fg_pricing__strategy__marketing_strategy]
-other = "Automated Marketing Strategy"  # TODO: translate
+other = "Strategia di marketing automatizzata"
 
 [fg_pricing__strategy__audience_personas]
-other = "Audience Personas"  # TODO: translate
+other = "Personas del pubblico"
 
 [fg_pricing__strategy__brand_voice]
-other = "Brand Voice Configuration"  # TODO: translate
+other = "Configurazione della voce del brand"
 
 [fg_pricing__team_features]
-other = "Team & Management"  # TODO: translate
+other = "Team e gestione"
 
 [fg_pricing__team_features__projects]
-other = "Multiple Projects"  # TODO: translate
+other = "Progetti multipli"
 
 [fg_pricing__team_features__team_members]
-other = "Team Collaboration"  # TODO: translate
+other = "Collaborazione in team"
 
 [fg_pricing__team_features__approval_workflows]
-other = "Approval Workflows"  # TODO: translate
+other = "Flussi di approvazione"
 
 [fg_pricing__support]
-other = "Support"  # TODO: translate
+other = "Supporto"
 
 [fg_pricing__support__email_support]
-other = "Email Support"  # TODO: translate
+other = "Supporto via e-mail"
 
 [fg_pricing__support__priority_support]
-other = "Priority Support"  # TODO: translate
+other = "Supporto prioritario"
 
 [fg_pricing__support__dedicated_onboarding]
-other = "Dedicated Onboarding"  # TODO: translate
+other = "Onboarding dedicato"
