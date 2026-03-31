@@ -16,8 +16,8 @@ params:
   privacyPolicy: https://app.bazam.ai/pages/legals/privacy-policy/
   termsUrl: https://app.bazam.ai/pages/legals/terms/
   mailingListSubscribe: https://app.bazam.ai/feedback/subscribe
-#  signupUrl: https://app.bazam.ai/accounts/signup/
-  signupUrl: /ea/#contact-form
+  signupUrl: https://app.bazam.ai/accounts/signup/
+#  signupUrl: /ea/#contact-form
 
 services:
   googleAnalytics:
