@@ -305,6 +305,9 @@ other = "Unlimited"
 [fg_pricing__core__connected_accounts]
 other = "Connected Accounts"
 
+[fg_pricing__core__connected_accounts__desc]
+other = "Extra accounts are $10/mo each"
+
 [fg_pricing__core__connected_accounts__individual]
 other = "5"
 
@@ -316,6 +319,9 @@ other = "Unlimited"
 
 [fg_pricing__core__ai_credits]
 other = "AI Credits Per Month"
+
+[fg_pricing__core__ai_credits__desc]
+other = "1 credit ≈ 1 post. Advanced features use more"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"
@@ -350,11 +356,17 @@ other = "AI Image Generation"
 [fg_pricing__content__bulk_create]
 other = "Bulk Content Creation"
 
+[fg_pricing__content__bulk_create__desc]
+other = "80+ wizards"
+
 [fg_pricing__content__content_suggestions]
 other = "AI Content Suggestions"
 
 [fg_pricing__content__translation]
 other = "AI Translation"
+
+[fg_pricing__content__translation__desc]
+other = "60+ languages"
 
 [fg_pricing__content__knowledge_base]
 other = "Knowledge Base"
@@ -365,8 +377,11 @@ other = "Publishing & Scheduling"
 [fg_pricing__publishing__social_publishing]
 other = "Social Media Publishing"
 
+[fg_pricing__publishing__social_publishing__desc]
+other = "X; LinkedIn, Facebook, Insta, Tiktok coming very soon"
+
 [fg_pricing__publishing__wordpress]
-other = "WordPress Publishing"
+other = "WordPress & Shopify Publishing"
 
 [fg_pricing__publishing__content_calendar]
 other = "Visual Content Calendar"
@@ -377,8 +392,14 @@ other = "Strategy & Analytics"
 [fg_pricing__strategy__marketing_strategy]
 other = "Automated Marketing Strategy"
 
+[fg_pricing__strategy__marketing_strategy__desc]
+other = "AI builds your marketing plan based on your brand"
+
 [fg_pricing__strategy__audience_personas]
 other = "Audience Personas"
+
+[fg_pricing__strategy__audience_personas__desc]
+other = "Define who you're speaking to for better content"
 
 [fg_pricing__strategy__brand_voice]
 other = "Brand Voice Configuration"

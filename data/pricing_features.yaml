@@ -24,12 +24,14 @@ sections:
           - text: "Unlimited"
       - id: connected_accounts
         feature: "Connected Accounts"
+        desc: "Extra accounts are $10/mo each"
         values:
           - text: "5"
           - text: "15"
           - text: "Unlimited"
       - id: ai_credits
         feature: "AI Credits Per Month"
+        desc: "1 credit ≈ 1 post. Advanced features use more"
         values:
           - text: "300"
           - text: "900"
@@ -61,6 +63,7 @@ sections:
           - check: true
       - id: bulk_create
         feature: "Bulk Content Creation"
+        desc: "80+ wizards"
         values:
           - check: true
           - check: true
@@ -73,6 +76,7 @@ sections:
           - check: true
       - id: translation
         feature: "AI Translation"
+        desc: "60+ languages"
         values:
           - check: true
           - check: true
@@ -89,12 +93,13 @@ sections:
     rows:
       - id: social_publishing
         feature: "Social Media Publishing"
+        desc: "X; LinkedIn, Facebook, Instagram, Tiktok coming very soon"
         values:
           - check: true
           - check: true
           - check: true
       - id: wordpress
-        feature: "WordPress Publishing"
+        feature: "WordPress & Shopify Publishing"
         values:
           - check: true
           - check: true
@@ -111,12 +116,14 @@ sections:
     rows:
       - id: marketing_strategy
         feature: "Automated Marketing Strategy"
+        desc: "AI builds your marketing plan based on your brand"
         values:
           - check: true
           - check: true
           - check: true
       - id: audience_personas
         feature: "Audience Personas"
+        desc: "Define who you're speaking to for better content"
         values:
           - check: true
           - check: true

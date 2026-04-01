@@ -305,6 +305,9 @@ other = "Illimitato"
 [fg_pricing__core__connected_accounts]
 other = "Account collegati"
 
+[fg_pricing__core__connected_accounts__desc]
+other = "Account aggiuntivi a $10/mese ciascuno"
+
 [fg_pricing__core__connected_accounts__individual]
 other = "5"
 
@@ -316,6 +319,9 @@ other = "Illimitato"
 
 [fg_pricing__core__ai_credits]
 other = "Crediti IA al mese"
+
+[fg_pricing__core__ai_credits__desc]
+other = "1 credito ≈ 1 post. Le funzionalità avanzate usano di più"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"
@@ -350,11 +356,17 @@ other = "Generazione di immagini IA"
 [fg_pricing__content__bulk_create]
 other = "Creazione di contenuti in massa"
 
+[fg_pricing__content__bulk_create__desc]
+other = "80+ assistenti"
+
 [fg_pricing__content__content_suggestions]
 other = "Suggerimenti di contenuti IA"
 
 [fg_pricing__content__translation]
 other = "Traduzione IA"
+
+[fg_pricing__content__translation__desc]
+other = "60+ lingue"
 
 [fg_pricing__content__knowledge_base]
 other = "Base di conoscenza"
@@ -365,8 +377,11 @@ other = "Pubblicazione e pianificazione"
 [fg_pricing__publishing__social_publishing]
 other = "Pubblicazione sui social media"
 
+[fg_pricing__publishing__social_publishing__desc]
+other = "X; LinkedIn, Facebook, Instagram, Tiktok in arrivo"
+
 [fg_pricing__publishing__wordpress]
-other = "Pubblicazione WordPress"
+other = "Pubblicazione WordPress e Shopify"
 
 [fg_pricing__publishing__content_calendar]
 other = "Calendario dei contenuti visuale"
@@ -377,8 +392,14 @@ other = "Strategia e analisi"
 [fg_pricing__strategy__marketing_strategy]
 other = "Strategia di marketing automatizzata"
 
+[fg_pricing__strategy__marketing_strategy__desc]
+other = "L'IA costruisce il tuo piano marketing basato sul tuo brand"
+
 [fg_pricing__strategy__audience_personas]
 other = "Personas del pubblico"
+
+[fg_pricing__strategy__audience_personas__desc]
+other = "Definisci a chi ti rivolgi per creare contenuti migliori"
 
 [fg_pricing__strategy__brand_voice]
 other = "Configurazione della voce del brand"

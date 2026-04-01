@@ -73,6 +73,12 @@
               <tr class="border-b border-gray-100 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors">
                 <td class="py-4 px-6 font-medium text-gray-900 dark:text-white">
                   {{ T $featureKey }}
+                  {{ if .desc }}
+                    {{ $descKey := printf "%s__%s__%s__desc" $prefix $secId $rowId }}
+                    <p class="text-sm font-normal text-gray-500 dark:text-gray-400 mt-0.5">
+                      {{ T $descKey }}
+                    </p>
+                  {{ end }}
                 </td>
                 {{ range $colIdx, $val := .values }}
                   {{ $col := index $columns $colIdx }}
@@ -131,6 +137,12 @@
               <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
                 <h4 class="font-medium text-gray-900 dark:text-white mb-3">
                   {{ T $featureKey }}
+                  {{ if .desc }}
+                    {{ $descKey := printf "%s__%s__%s__desc" $prefix $secId $rowId }}
+                    <p class="text-sm font-normal text-gray-500 dark:text-gray-400 mt-0.5">
+                      {{ T $descKey }}
+                    </p>
+                  {{ end }}
                 </h4>
                 <div class="grid grid-cols-{{ len $columns }} gap-2">
                   {{ range $colIdx, $val := .values }}

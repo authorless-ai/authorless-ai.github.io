@@ -305,6 +305,9 @@ other = "Ilimitado"
 [fg_pricing__core__connected_accounts]
 other = "Cuentas conectadas"
 
+[fg_pricing__core__connected_accounts__desc]
+other = "Cuentas adicionales a $10/mes cada una"
+
 [fg_pricing__core__connected_accounts__individual]
 other = "5"
 
@@ -316,6 +319,9 @@ other = "Ilimitado"
 
 [fg_pricing__core__ai_credits]
 other = "Créditos de IA al mes"
+
+[fg_pricing__core__ai_credits__desc]
+other = "1 crédito ≈ 1 publicación. Las funciones avanzadas usan más"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"
@@ -350,11 +356,17 @@ other = "Generación de imágenes con IA"
 [fg_pricing__content__bulk_create]
 other = "Creación de contenido en masa"
 
+[fg_pricing__content__bulk_create__desc]
+other = "80+ asistentes"
+
 [fg_pricing__content__content_suggestions]
 other = "Sugerencias de contenido con IA"
 
 [fg_pricing__content__translation]
 other = "Traducción con IA"
+
+[fg_pricing__content__translation__desc]
+other = "60+ idiomas"
 
 [fg_pricing__content__knowledge_base]
 other = "Base de conocimiento"
@@ -365,8 +377,11 @@ other = "Publicación y programación"
 [fg_pricing__publishing__social_publishing]
 other = "Publicación en redes sociales"
 
+[fg_pricing__publishing__social_publishing__desc]
+other = "X; LinkedIn, Facebook, Instagram, Tiktok muy pronto"
+
 [fg_pricing__publishing__wordpress]
-other = "Publicación en WordPress"
+other = "Publicación en WordPress y Shopify"
 
 [fg_pricing__publishing__content_calendar]
 other = "Calendario de contenido visual"
@@ -377,8 +392,14 @@ other = "Estrategia y analíticas"
 [fg_pricing__strategy__marketing_strategy]
 other = "Estrategia de marketing automatizada"
 
+[fg_pricing__strategy__marketing_strategy__desc]
+other = "La IA crea tu plan de marketing basado en tu marca"
+
 [fg_pricing__strategy__audience_personas]
 other = "Personas de audiencia"
+
+[fg_pricing__strategy__audience_personas__desc]
+other = "Define a quién te diriges para crear mejor contenido"
 
 [fg_pricing__strategy__brand_voice]
 other = "Configuración de la voz de marca"

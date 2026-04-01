@@ -305,6 +305,9 @@ other = "Unbegrenzt"
 [fg_pricing__core__connected_accounts]
 other = "Verbundene Konten"
 
+[fg_pricing__core__connected_accounts__desc]
+other = "Zusätzliche Konten kosten $10/Monat"
+
 [fg_pricing__core__connected_accounts__individual]
 other = "5"
 
@@ -316,6 +319,9 @@ other = "Unbegrenzt"
 
 [fg_pricing__core__ai_credits]
 other = "KI-Credits pro Monat"
+
+[fg_pricing__core__ai_credits__desc]
+other = "1 Credit ≈ 1 Beitrag. Erweiterte Funktionen verbrauchen mehr"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"
@@ -350,11 +356,17 @@ other = "KI-Bildgenerierung"
 [fg_pricing__content__bulk_create]
 other = "Massen-Inhaltserstellung"
 
+[fg_pricing__content__bulk_create__desc]
+other = "80+ Assistenten"
+
 [fg_pricing__content__content_suggestions]
 other = "KI-Inhaltsvorschläge"
 
 [fg_pricing__content__translation]
 other = "KI-Übersetzung"
+
+[fg_pricing__content__translation__desc]
+other = "60+ Sprachen"
 
 [fg_pricing__content__knowledge_base]
 other = "Wissensdatenbank"
@@ -365,8 +377,11 @@ other = "Veröffentlichung und Planung"
 [fg_pricing__publishing__social_publishing]
 other = "Social-Media-Veröffentlichung"
 
+[fg_pricing__publishing__social_publishing__desc]
+other = "X; LinkedIn, Facebook, Instagram, Tiktok kommt sehr bald"
+
 [fg_pricing__publishing__wordpress]
-other = "WordPress-Veröffentlichung"
+other = "WordPress- und Shopify-Veröffentlichung"
 
 [fg_pricing__publishing__content_calendar]
 other = "Visueller Inhaltskalender"
@@ -377,8 +392,14 @@ other = "Strategie und Analysen"
 [fg_pricing__strategy__marketing_strategy]
 other = "Automatisierte Marketingstrategie"
 
+[fg_pricing__strategy__marketing_strategy__desc]
+other = "KI erstellt Ihren Marketingplan basierend auf Ihrer Marke"
+
 [fg_pricing__strategy__audience_personas]
 other = "Zielgruppen-Personas"
+
+[fg_pricing__strategy__audience_personas__desc]
+other = "Definieren Sie, wen Sie ansprechen, für besseren Content"
 
 [fg_pricing__strategy__brand_voice]
 other = "Markenstimme-Konfiguration"
