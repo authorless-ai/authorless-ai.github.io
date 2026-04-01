@@ -321,7 +321,7 @@ other = "Unbegrenzt"
 other = "KI-Credits pro Monat"
 
 [fg_pricing__core__ai_credits__desc]
-other = "1 Credit ≈ 1 Beitrag. Erweiterte Funktionen verbrauchen mehr"
+other = "1 Credit = ~1 Beitrag. Erweiterte Funktionen verbrauchen mehr. Mehr bei Bedarf kaufen"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"

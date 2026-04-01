@@ -321,7 +321,7 @@ other = "Illimité"
 other = "Crédits IA par mois"
 
 [fg_pricing__core__ai_credits__desc]
-other = "1 crédit ≈ 1 publication. Les fonctionnalités avancées en utilisent plus"
+other = "1 crédit = ~1 publication. Les fonctionnalités avancées en utilisent plus. Achetez-en plus à la demande"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"

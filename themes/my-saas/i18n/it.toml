@@ -321,7 +321,7 @@ other = "Illimitato"
 other = "Crediti IA al mese"
 
 [fg_pricing__core__ai_credits__desc]
-other = "1 credito ≈ 1 post. Le funzionalità avanzate usano di più"
+other = "1 credito = ~1 post. Le funzionalità avanzate usano di più. Acquista di più on-demand"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"

@@ -31,7 +31,7 @@ sections:
           - text: "Unlimited"
       - id: ai_credits
         feature: "AI Credits Per Month"
-        desc: "1 credit ≈ 1 post. Advanced features use more"
+        desc: "1 credit = ~1 post. Advanced features use more. Buy more on-demand"
         values:
           - text: "300"
           - text: "900"

@@ -321,7 +321,7 @@ other = "Unlimited"
 other = "AI Credits Per Month"
 
 [fg_pricing__core__ai_credits__desc]
-other = "1 credit ≈ 1 post. Advanced features use more"
+other = "1 credit = ~1 post. Advanced features use more. Buy more on-demand"
 
 [fg_pricing__core__ai_credits__individual]
 other = "300"
