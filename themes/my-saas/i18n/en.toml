@@ -330,7 +330,7 @@ other = "Custom"
 other = "Scheduling Horizon"
 
 [fg_pricing__core__scheduling_horizon__individual]
-other = "2 weeks"
+other = "4 weeks"
 
 [fg_pricing__core__scheduling_horizon__team]
 other = "1 year"

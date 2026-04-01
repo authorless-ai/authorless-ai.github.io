@@ -38,7 +38,7 @@ sections:
         feature: "Scheduling Horizon"
         values:
           - check: true
-            text: "2 weeks"
+            text: "4 weeks"
           - check: true
             text: "1 year"
           - check: true

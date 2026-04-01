@@ -330,7 +330,7 @@ other = "Individuell"
 other = "Planungshorizont"
 
 [fg_pricing__core__scheduling_horizon__individual]
-other = "2 Wochen"
+other = "4 Wochen"
 
 [fg_pricing__core__scheduling_horizon__team]
 other = "1 Jahr"
