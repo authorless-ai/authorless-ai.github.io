@@ -1,4 +1,4 @@
 {{- $gridName := .Get 0 -}}
 {{- $showCta := .Get 1 | default "false" -}}
-{{- $grid := index .Site.Data $gridName -}}
+{{- $grid := index hugo.Data $gridName -}}
 {{- partial "components/feature-grid.html" (dict "grid" $grid "context" . "showCta" (eq $showCta "true")) -}}

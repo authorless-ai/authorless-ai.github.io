@@ -5,7 +5,7 @@ canonifyURLs: false
 build:
   writeStats: true
 
-languageCode: 'en-us'
+locale: 'en-us'
 title: 'Bazam'
 theme: 'my-saas'
 
@@ -27,14 +27,14 @@ languages:
   en:
     contentDir: 'content/en'
     disabled: false
-    languageCode: 'en-US'
-    languageName: 'English'
+    locale: 'en-US'
+    label: 'English'
     weight: 1
   fr:
     contentDir: 'content/fr'
     disabled: false
-    languageCode: 'fr'
-    languageName: 'Français'
+    locale: 'fr'
+    label: 'Français'
     weight: 2
     params:
       pricingPageName: "tarifs"
@@ -149,8 +149,8 @@ languages:
   es:
     contentDir: 'content/es'
     disabled: false
-    languageCode: 'es'
-    languageName: 'Español'
+    locale: 'es'
+    label: 'Español'
     weight: 3
     params:
       pricingPageName: "precios"
@@ -265,8 +265,8 @@ languages:
   de:
     contentDir: 'content/de'
     disabled: false
-    languageCode: 'de'
-    languageName: 'Deutsch'
+    locale: 'de'
+    label: 'Deutsch'
     weight: 4
     params:
       pricingPageName: "preise"
@@ -381,8 +381,8 @@ languages:
   pt:
     contentDir: 'content/pt'
     disabled: false
-    languageCode: 'pt-BR'
-    languageName: 'Português'
+    locale: 'pt-BR'
+    label: 'Português'
     weight: 5
     params:
       pricingPageName: "precos"
@@ -497,8 +497,8 @@ languages:
   it:
     contentDir: 'content/it'
     disabled: false
-    languageCode: 'it'
-    languageName: 'Italiano'
+    locale: 'it'
+    label: 'Italiano'
     weight: 6
     params:
       pricingPageName: "prezzi"

@@ -1,4 +1,4 @@
-{{ $pricing := .Site.Data.pricing }}{
+{{ $pricing := hugo.Data.pricing }}{
   yearly: true,
   currencyPrefix: '{{ $pricing.currency_prefix }}',
   currencySuffix: '{{ $pricing.currency_suffix }}',

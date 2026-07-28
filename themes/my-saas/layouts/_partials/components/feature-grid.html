@@ -5,7 +5,7 @@
   Supports: competitor comparisons and pricing tier breakdowns.
 
   Usage:
-    {{ partial "components/feature-grid.html" (dict "grid" .Site.Data.pricing_features "context" .) }}
+    {{ partial "components/feature-grid.html" (dict "grid" hugo.Data.pricing_features "context" .) }}
 
   The partial derives i18n keys from the grid's `prefix` + element `id` fields
   and looks up translations via Hugo's {{ T }} function.

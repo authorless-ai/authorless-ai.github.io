@@ -24,7 +24,7 @@
       {{ partial "faq.html" . }}
   {{ end }}
 
-  {{ partial "feature/cta.html" (index .Site.Data .Site.Language.Lang).cta }}
+  {{ partial "feature/cta.html" (index hugo.Data .Site.Language.Lang).cta }}
 
   {{ partial "json-ld-website.html" . }}
 {{ end }}
@@ -42,7 +42,7 @@
 
   <script type="text/javascript">
   if (window.location.pathname === '/') {
-    const supportedLangs = [{{ range site.Languages }}"{{ .Lang }}",{{ end }}];
+    const supportedLangs = [{{ range hugo.Sites }}"{{ .Language.Lang }}",{{ end }}];
     const defaultLang = "{{ site.Home.Lang }}";
     const userLang = navigator.language || navigator.userLanguage;
 

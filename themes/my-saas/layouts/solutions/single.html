@@ -22,7 +22,7 @@
     {{ partial "faq.html" . }}
   {{ end }}
 
-  {{ partial "feature/cta.html" (index .Site.Data .Site.Language.Lang).cta }}
+  {{ partial "feature/cta.html" (index hugo.Data .Site.Language.Lang).cta }}
 
 </article>
 {{ end }}
