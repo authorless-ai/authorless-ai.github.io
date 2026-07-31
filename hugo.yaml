@@ -614,9 +614,6 @@ languages:
 disableKinds:
   - taxonomy
 
-# Hugo >= 0.162 denies text/html content files by default (CVE-2026-50133).
-# The pricing/contact/ea pages are hand-authored HTML, so opt back in.
-# Both types must be listed: an allowlist with no deny rules permits only what it matches.
 security:
   allowContent:
     - ^text/markdown$
