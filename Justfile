@@ -1,5 +1,3 @@
-hugo_version := "0.151.2"
-
 # Extract feature grid i18n strings
 extract-i18n:
     venv/bin/python scripts/extract_feature_grid_strings.py
@@ -13,15 +11,6 @@ runserver: extract-i18n
 build: extract-i18n
     -rm -rf public/
     hugo
-
-# Install on linux
-install-hugo:
-    wget -O /tmp/hugo_extended_withdeploy_{{hugo_version}}_Linux-64bit.tar.gz https://github.com/gohugoio/hugo/releases/download/v{{hugo_version}}/hugo_extended_withdeploy_{{hugo_version}}_Linux-64bit.tar.gz
-    tar xzf  /tmp/hugo_extended_withdeploy_{{hugo_version}}_Linux-64bit.tar.gz -C /tmp
-    sudo mv /tmp/hugo /usr/local/bin/
-    sudo chmod +x /usr/local/bin/hugo
-    rm /tmp/hugo_extended_withdeploy_{{hugo_version}}_Linux-64bit.tar.gz
-    rm /tmp/hugo
 
 # Install dependencies
 install:
