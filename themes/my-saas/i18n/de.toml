@@ -427,3 +427,6 @@ other = "Prioritäts-Support"
 
 [fg_pricing__support__dedicated_onboarding]
 other = "Dediziertes Onboarding"
+
+[cookiePreferences]
+other = "Cookie-Einstellungen"

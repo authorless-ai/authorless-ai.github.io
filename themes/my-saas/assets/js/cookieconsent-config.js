@@ -19,7 +19,15 @@ CookieConsent.run({
         necessary: {
             readOnly: true
         },
-        analytics: {}
+        analytics: {
+            // Remove the GA cookies if a visitor accepts then later rejects.
+            autoClear: {
+                cookies: [
+                    { name: /^_ga/ },
+                    { name: '_gid' }
+                ]
+            }
+        }
     },
     language: {
         default: "en",

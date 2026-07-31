@@ -45,6 +45,11 @@
                     <li class="mb-4">
                       <a href="{{- .Site.Params.termsUrl -}}" class="hover:underline">{{ T "terms" }}</a>
                     </li>
+                    {{/* Withdrawing consent must be as easy as giving it. `data-cc`
+                         is CookieConsent's own trigger; no extra JS needed. */}}
+                    <li class="mb-4">
+                      <button type="button" data-cc="show-preferencesModal" class="cursor-pointer hover:underline">{{ T "cookiePreferences" }}</button>
+                    </li>
                   </ul>
                   <ul>
                     <li class="mt-4">

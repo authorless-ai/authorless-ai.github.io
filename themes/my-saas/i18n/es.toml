@@ -427,3 +427,6 @@ other = "Soporte prioritario"
 
 [fg_pricing__support__dedicated_onboarding]
 other = "Incorporación dedicada"
+
+[cookiePreferences]
+other = "Preferencias de cookies"
