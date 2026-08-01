@@ -7,7 +7,7 @@ ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "ChatGPT writes the draft and stops. Bazam knows who the draft is for, still knows next month, and publishes it to six channels for you."
+  - "ChatGPT/Claude writes the draft and stops. Bazam knows who the draft is for, still knows next month, and publishes it to six channels for you."
   - "It also plugs into ChatGPT & Claude over <b>MCP</b>, so you can use them to drive Bazam directly."
 
 comparisonGrid: "comparison_chatgpt"
@@ -28,13 +28,13 @@ features:
       - title: "Price"
         description: "Twenty dollars a month for a general-purpose assistant is very hard to argue with, and we're not trying to."
     footer:
-      - "If that's the shape of your problem, use ChatGPT."
+      - "If that's all you need, use ChatGPT."
 
-  - title: "Where the difference shows up"
+  - title: "Where we're better"
     image: "/images/persona.png"
     image_alt: "A structured audience model driving generation"
     description:
-      - "All of that stays true right up to the moment you're publishing every week, to three different audiences, across six channels."
+      - "You want to publish daily or weekly to multiple audiences, across six channels, plan in advance and get analytics."
     points:
       - title: "The brief doesn't survive the session"
         description: "Everything you know about your reader gets re-typed every time, and it gets shorter every time, until it's a phrase. Bazam holds thirty points that never degrade."

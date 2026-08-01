@@ -135,7 +135,7 @@ featureCards:
       description: "You are the marketing department for several businesses at once. Separate projects keep each client's audiences, voice and knowledge apart, so nothing bleeds between them."
     - title: "Marketing agencies"
       icon: bullhorn
-      description: "You already sell audience research and bill for the deck. Bazam produces that deliverable in minutes, then writes every campaign downstream from it. Clients sign off in their own portal and never hand over a password."
+      description: "You already sell audience research and bill for the deck. Bazam produces that in minutes, then writes every campaign downstream from it. Clients sign off in their own portal and never hand over their social passwords."
 
 # ---------------------------------------------------------------------------
 # 9. Comparison
@@ -146,11 +146,11 @@ comparisonGrid: "comparison_chatgpt"
 # 10. Objections
 # ---------------------------------------------------------------------------
 faq:
-  - q: "Isn't this just ChatGPT with extra steps?"
+  - q: "Isn't this just ChatGPT/Claude with extra steps?"
     a:
       - "No. ChatGPT gives you a draft in a chat window and stops there. It won't schedule anything, won't publish to Facebook, Instagram, TikTok, X, LinkedIn or WordPress, won't route work through approvals, won't reformat one brief into a version per platform, won't translate a campaign into 50+ languages, and won't tell you how any of it performed."
       - "Bazam does all of that, and does it off a thirty-point model of your reader that it keeps. In ChatGPT everything you know about that reader lives in the prompt you typed this time and is gone by the next session. Writing the draft is one step of about six."
-      - "If you like working in ChatGPT, keep it. Bazam runs an MCP server, so you can pull your audience models and brand voice straight into ChatGPT or Claude, draft there, and publish through us."
+      - "If you like working in ChatGPT/Claude, keep them. Bazam runs an MCP server, so you can pull your audience models and brand voice straight into ChatGPT or Claude, draft there, and publish through us."
 
   - q: "Do I really have to fill in thirty fields?"
     a:

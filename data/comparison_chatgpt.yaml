@@ -1,7 +1,7 @@
 id: comparison_chatgpt
 prefix: fg_cmp_chatgpt
 title: "Bazam, ChatGPT, and the AI writing tools"
-subtitle: "Everyone in this market builds on the same frontier models. We just brief them properly."
+subtitle: "We use the same frontier models as everyone else. We just brief them properly."
 
 columns:
   - id: chatgpt

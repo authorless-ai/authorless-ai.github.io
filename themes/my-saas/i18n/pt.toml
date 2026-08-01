@@ -620,7 +620,7 @@ other = "Clients connect their own accounts. You publish on their behalf without
 
 
 [fg_cmp_chatgpt__subtitle]
-other = "Everyone in this market builds on the same frontier models. We just brief them properly."  # TODO: translate
+other = "We use the same frontier models as everyone else. We just brief them properly."  # TODO: translate
 
 [fg_cmp_chatgpt__generating__quality__bazam]
 other = "Same frontier models"  # TODO: translate
