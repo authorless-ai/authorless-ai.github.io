@@ -10,6 +10,7 @@ features:
       - description: "Repurpose what you already have. Point Bazam at a <b>URL, a document, or an audio or video file</b> and a podcast becomes a listicle."
       - description: "Set a <b>brand voice</b> once (formality, enthusiasm, directness, plus your own guidelines) and every piece inherits it."
       - description: "Feed in a <b>knowledge base</b> of docs, URLs and product facts so content works from what's true, not what the AI assumed."
+      - description: "Work where you already are. Bazam's <b>MCP server</b> pulls your audiences, brand voice and channels into Claude, ChatGPT or any other MCP client."
   - iconColor: "primary"
     title: "Publish everywhere"
     icon: upload
@@ -26,5 +27,5 @@ features:
       - description: "Translate any campaign into <b>50+ languages</b>, keeping your brand voice intact in each one."
       - description: "Run the same launch across <b>multiple markets</b> at once, on one calendar."
       - description: "Compare channels on equal terms. TikTok views and LinkedIn impressions are <b>normalised into one set of metrics</b>."
-      - description: "Connect Google Analytics for <b>conversions and revenue per post</b>, not just likes."
+      - description: "Roll results up by <b>campaign, channel or post</b>, with snapshots over time so you can see what moved and when."
       - description: "Keep <b>separate projects</b> per brand or client, with role-based access across the team."

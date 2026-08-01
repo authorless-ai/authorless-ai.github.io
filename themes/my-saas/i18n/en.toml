@@ -277,9 +277,6 @@ other = "Free Trial"
 [fg_cmp_chatgpt__title]
 other = "Bazam, ChatGPT, and the AI writing tools"
 
-[fg_cmp_chatgpt__subtitle]
-other = "We run on the same AI models everyone else does. What differs is what those models get told about your reader, so that is where the comparison is worth making."
-
 [fg_cmp_chatgpt__chatgpt]
 other = "ChatGPT"
 
@@ -339,9 +336,6 @@ other = "Excellent"
 
 [fg_cmp_chatgpt__generating__quality__writers]
 other = "Excellent"
-
-[fg_cmp_chatgpt__generating__quality__bazam]
-other = "Same models"
 
 [fg_cmp_chatgpt__generating__angles]
 other = "Different angles per audience"
@@ -403,9 +397,6 @@ other = "From $39/month"
 
 [fg_pricing__title]
 other = "Compare plans"
-
-[fg_pricing__subtitle]
-other = "Every plan includes the full 30-point audience model and every content type. Plans differ by scale, not by capability."
 
 [fg_pricing__starter]
 other = "Starter"
@@ -563,9 +554,6 @@ other = "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"
 [fg_pricing__publishing__analytics]
 other = "Cross-channel analytics"
 
-[fg_pricing__publishing__analytics__desc]
-other = "Engagement and reach normalised across channels, plus Google Analytics conversions and revenue per post"
-
 [fg_pricing__team_features]
 other = "Team & management"
 
@@ -592,3 +580,50 @@ other = "Priority support"
 
 [fg_pricing__support__dedicated_onboarding]
 other = "Dedicated onboarding"
+
+
+[fg_pricing__subtitle]
+other = "Every plan gets the full 30-point audience model and every content type. Pay for scale, never for features."
+
+
+[fg_pricing__publishing__analytics__desc]
+other = "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"
+
+
+[fg_cmp_chatgpt__generating__mcp]
+other = "Brings your setup into other AI tools"
+
+[fg_cmp_chatgpt__generating__mcp__desc]
+other = "Over MCP, so your audiences and brand voice travel with you"
+
+[fg_cmp_chatgpt__generating__mcp__chatgpt]
+other = "Nothing to bring"
+
+[fg_cmp_chatgpt__generating__mcp__writers]
+other = "Jasper: brand context"
+
+[fg_cmp_chatgpt__generating__mcp__bazam]
+other = "Audiences, voice, publishing"
+
+
+[fg_pricing__team_features__approval_workflows__desc]
+other = "Nothing goes live without a yes"
+
+[fg_pricing__team_features__client_portal]
+other = "Client approval portal"
+
+[fg_pricing__team_features__client_portal__desc]
+other = "Invite a client to review and sign off their own posts, when you turn approvals on"
+
+[fg_pricing__team_features__no_shared_credentials]
+other = "No shared passwords"
+
+[fg_pricing__team_features__no_shared_credentials__desc]
+other = "Clients connect their own accounts. You publish on their behalf without ever handling their logins"
+
+
+[fg_cmp_chatgpt__subtitle]
+other = "Everyone in this market builds on the same frontier models. We just brief them properly."
+
+[fg_cmp_chatgpt__generating__quality__bazam]
+other = "Same frontier models"

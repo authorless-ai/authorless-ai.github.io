@@ -274,9 +274,6 @@ other = "Free Trial"  # TODO: translate
 [fg_cmp_chatgpt__title]
 other = "Bazam, ChatGPT, and the AI writing tools"  # TODO: translate
 
-[fg_cmp_chatgpt__subtitle]
-other = "We run on the same AI models everyone else does. What differs is what those models get told about your reader, so that is where the comparison is worth making."  # TODO: translate
-
 [fg_cmp_chatgpt__chatgpt]
 other = "ChatGPT"  # TODO: translate
 
@@ -336,9 +333,6 @@ other = "Excellent"  # TODO: translate
 
 [fg_cmp_chatgpt__generating__quality__writers]
 other = "Excellent"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__quality__bazam]
-other = "Same models"  # TODO: translate
 
 [fg_cmp_chatgpt__generating__angles]
 other = "Different angles per audience"  # TODO: translate
@@ -400,9 +394,6 @@ other = "From $39/month"  # TODO: translate
 
 [fg_pricing__title]
 other = "Compare plans"  # TODO: translate
-
-[fg_pricing__subtitle]
-other = "Every plan includes the full 30-point audience model and every content type. Plans differ by scale, not by capability."  # TODO: translate
 
 [fg_pricing__starter]
 other = "Starter"  # TODO: translate
@@ -560,9 +551,6 @@ other = "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"  # TO
 [fg_pricing__publishing__analytics]
 other = "Cross-channel analytics"  # TODO: translate
 
-[fg_pricing__publishing__analytics__desc]
-other = "Engagement and reach normalised across channels, plus Google Analytics conversions and revenue per post"  # TODO: translate
-
 [fg_pricing__team_features]
 other = "Team & management"  # TODO: translate
 
@@ -589,3 +577,50 @@ other = "Priority support"  # TODO: translate
 
 [fg_pricing__support__dedicated_onboarding]
 other = "Dedicated onboarding"  # TODO: translate
+
+
+[fg_pricing__subtitle]
+other = "Every plan gets the full 30-point audience model and every content type. Pay for scale, never for features."  # TODO: translate
+
+
+[fg_pricing__publishing__analytics__desc]
+other = "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"  # TODO: translate
+
+
+[fg_cmp_chatgpt__generating__mcp]
+other = "Brings your setup into other AI tools"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__mcp__desc]
+other = "Over MCP, so your audiences and brand voice travel with you"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__mcp__chatgpt]
+other = "Nothing to bring"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__mcp__writers]
+other = "Jasper: brand context"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__mcp__bazam]
+other = "Audiences, voice, publishing"  # TODO: translate
+
+
+[fg_pricing__team_features__approval_workflows__desc]
+other = "Nothing goes live without a yes"  # TODO: translate
+
+[fg_pricing__team_features__client_portal]
+other = "Client approval portal"  # TODO: translate
+
+[fg_pricing__team_features__client_portal__desc]
+other = "Invite a client to review and sign off their own posts, when you turn approvals on"  # TODO: translate
+
+[fg_pricing__team_features__no_shared_credentials]
+other = "No shared passwords"  # TODO: translate
+
+[fg_pricing__team_features__no_shared_credentials__desc]
+other = "Clients connect their own accounts. You publish on their behalf without ever handling their logins"  # TODO: translate
+
+
+[fg_cmp_chatgpt__subtitle]
+other = "Everyone in this market builds on the same frontier models. We just brief them properly."  # TODO: translate
+
+[fg_cmp_chatgpt__generating__quality__bazam]
+other = "Same frontier models"  # TODO: translate

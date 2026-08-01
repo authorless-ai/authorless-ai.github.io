@@ -1,27 +1,27 @@
 ---
 layout: marketing
 title: "The 30-Point Audience Model"
-superTitle: "How Bazam works"
-description: "The structured, 30+ point model of your reader that drives every piece of content Bazam writes: what it holds, why each part changes the output, and where it goes next."
+superTitle: "Why Bazam is better"
+description: "Thirty points about one reader: what they want, what worries them, what makes them buy. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Every AI writing tool runs on roughly the same models. What separates good output from generic output is how much the model was told about the person reading."
-  - "This is the part of Bazam that does that work."
+  - "Thirty points about one reader: what they want, what worries them, what makes them buy. Fill it in once and every blog post, ad, email and social campaign you generate speaks directly to them."
+  - "Your competitors are briefing the same AI with eight words in a text box."
 
 # ---------------------------------------------------------------------------
 # What's in it
 # ---------------------------------------------------------------------------
 featureList:
   title: "What's in the model"
-  description: "Over thirty individual points, grouped into three things worth knowing about anyone you're trying to persuade. You don't fill them in by hand. Bazam generates the model from a short description and you sharpen it from there."
+  description: "Over thirty points, grouped into the three things worth knowing about anyone you want to persuade. You don't fill them in by hand: describe the audience in a sentence and Bazam writes the model for you."
   features:
     - iconColor: "primary"
       title: "Who they are"
       icon: users
       points:
-        - description: "<b>Demographics.</b> The basics, kept to what affects how you'd write to them."
+        - description: "<b>Demographics.</b> The basics, kept to what changes how you'd write to them."
         - description: "<b>Expertise level.</b> How much they already know, which sets how much you explain and how much you assume."
         - description: "<b>Interests.</b> What they pay attention to when they're not thinking about your category."
         - description: "<b>Psychographic profile.</b> How they see themselves, and how they'd like to be seen."
@@ -30,24 +30,24 @@ featureList:
       icon: heart
       points:
         - description: "<b>Emotional drivers.</b> What they're moving away from. Ambition and anxiety produce very different sentences."
-        - description: "<b>Motivations.</b> What they're moving towards, and what a good outcome looks like from where they're sitting."
-        - description: "<b>Values and beliefs.</b> What makes an argument work rather than bounce off."
+        - description: "<b>Motivations.</b> What they're moving towards, and what a win looks like from where they're sitting."
+        - description: "<b>Values and beliefs.</b> What makes your argument work rather than bounce off."
         - description: "<b>Personality traits.</b> How direct, how cautious, how playful you can afford to be."
     - iconColor: "primary"
       title: "How they decide"
       icon: chart
       points:
-        - description: "<b>Buying behaviour.</b> Impulsive, considered, risk-averse, price-led. This changes how hard you push and how much proof you show."
-        - description: "<b>What they weigh.</b> Speed, reliability, cost, ease, novelty: which of these decides it for them."
-        - description: "<b>Tone that works.</b> The register this particular reader takes seriously."
-        - description: "…and the rest of the thirty. The full list is visible the moment you open a model."
+        - description: "<b>Buying behaviour.</b> Impulsive, considered, risk-averse, price-led. Sets how hard you push and how much proof you show."
+        - description: "<b>What they weigh.</b> Speed, reliability, cost, ease, novelty: which of these closes it for them."
+        - description: "<b>Tone that works.</b> The register this reader takes seriously."
+        - description: "…and the rest of the thirty, visible the moment you open a model."
 
 # ---------------------------------------------------------------------------
 # Contrast
 # ---------------------------------------------------------------------------
 contrast:
   title: "Why a model and not a sentence"
-  description: "Ask any AI to write a post and it produces something competent, fluent and forgettable. That isn't a limit of the model. It was asked to write to nobody in particular, and it did."
+  description: "Competent. Fluent. Forgettable. That's what comes back when the AI has been told to write for everyone."
   left:
     badge: "A description"
     label: "What you'd type into any other tool"
@@ -61,7 +61,7 @@ contrast:
     label: "What Bazam holds instead"
     tone: "brand"
     placeholder: "Screenshot of a single audience model with every section expanded. The same one used on the homepage works well here. Show enough of the field labels that a visitor can count roughly thirty of them without reading closely."
-    caption: "Structured, not prose. That matters: because each point is its own field rather than a paragraph, every wizard can read it, vary by it, and write to it consistently across channels and languages."
+    caption: "Structured, not prose. Each point is its own field, so every wizard can read it, vary by it, and write to it the same way across channels and languages."
   footer: "Same models underneath. A completely different brief going in."
 
 # ---------------------------------------------------------------------------
@@ -72,29 +72,29 @@ features:
     image: "/images/analyse-voice.png"
     image_alt: "Bazam generating an audience model from a short description"
     description:
-      - "Nobody wants to fill in thirty fields, so you don't. Describe the audience the way you'd describe them to a new colleague and Bazam builds the model out from there."
+      - "Nobody wants to fill in thirty fields, so you don't. Describe the audience the way you'd describe them to a new colleague and Bazam writes the rest."
     points:
       - title: "Start with a sentence"
         description: "“Operations managers at UK logistics firms, 50-200 staff, drowning in manual scheduling.” That's a complete brief as far as Bazam is concerned."
       - title: "Review, don't author"
-        description: "You get a populated model back. Change what's wrong, deepen what's thin, delete what doesn't apply. Editing a draft is far quicker than facing an empty form."
+        description: "A populated model comes back. Change what's wrong, deepen what's thin, delete what doesn't apply. Two minutes of editing beats an hour staring at an empty form."
       - title: "It stays sharpened"
-        description: "Every correction you make is permanent. The next campaign, the next channel and the next language all start from the improved version."
+        description: "Every correction sticks. The next campaign, the next channel and the next language all start from the better version."
     footer:
-      - "Bazam can also analyse your website and pull out your positioning, offerings and likely audiences to get you started."
+      - "Point Bazam at your website and it will pull out your positioning, offerings and likely audiences to start you off."
 
-  - title: "One model, every surface"
+  - title: "One model, every platform"
     image: "/images/projects.png"
     image_alt: "One audience model driving content across channels and languages"
     description:
-      - "The reason to model a reader properly is that you only have to do it once. Everything downstream reads from the same model."
+      - "Model a reader properly once and you never do it again. Everything downstream reads from the same model."
     points:
       - title: "Every content type"
         description: "30+ of them, from blog posts and social campaigns to case studies, how-tos and comparison pieces, all generated against the audience you selected."
       - title: "Every channel"
         description: "One brief becomes a distinct version per platform, with copy, tone and media aspect ratio adapted to each, then published direct to Facebook, Instagram, TikTok, X, LinkedIn and WordPress."
       - title: "Every language"
-        description: "Translated into 50+ languages with your brand voice intact, so a reader in another market gets the same argument rather than a flattened one."
+        description: "Translated into 50+ languages with your brand voice intact, so a reader in another market gets the full argument rather than a flattened one."
       - title: "Every angle"
         description: "Pick a different angle for the same audience, or the same angle for a different audience. The model holds; the emphasis moves."
     footer:
@@ -104,43 +104,43 @@ features:
 # Evidence
 # ---------------------------------------------------------------------------
 evidence:
-  title: "Why this is the part worth building"
-  description: "Two findings sit underneath the design."
+  title: "The message is where the money is"
+  description: "It's definitive: what you say beats who you say it to."
   stats:
     - figure: "47%"
       against: "vs 9% for targeting"
-      title: "The message does most of the work."
-      description: "Nielsen decomposed sales lift across roughly 500 campaigns. Creative accounted for 47% of it, rising to <b>56% in digital</b>. Targeting accounted for 9%. Ad platforms compete on the 9%, and almost nobody is helping you with the 47%."
+      title: "Creative drives 47% of sales lift. Targeting drives 9%."
+      description: "Nielsen broke down what moved the numbers across roughly 500 campaigns. Creative came top at 47%, rising to <b>56% in digital</b>. Your fastest win is a sharper message to the people you already reach."
       source: "Nielsen Catalina Solutions, 2017"
     - figure: "106,000"
       against: "people, across 88 studies"
-      title: "Tailoring works, and it compounds."
-      description: "A meta-analysis of 88 interventions covering 106,243 people found tailored messages beat generic ones, and that tailoring which adapts over time beat tailoring done once. <b>Depth in the model turns into performance in the message.</b>"
-      source: "Krebs, Prochaska &amp; Rossi, Preventive Medicine, 2010"
-  footer: "Nobody can promise you a number. What we can say is that the lever exists, it is well documented, and almost every tool in this market is pulling the other one."
+      title: "The more you know about the reader, the harder the message works."
+      description: "88 studies, 106,243 people. Tailored messages beat generic ones every time, and the gap widened the more the writer knew. <b>Every point you fill in buys you performance.</b>"
+      source: "Krebs, Prochaska & Rossi, Preventive Medicine, 2010"
+  footer: "Everyone else helps you produce more. Bazam helps you produce content that performs."
 
 # ---------------------------------------------------------------------------
 # Where it goes
 # ---------------------------------------------------------------------------
 topFeatures:
-  title: "Where the model goes next"
-  description: "The model is useful the day you build it. It gets considerably more useful after that."
+  title: "This is just the start"
+  description: "Bazam is useful today. Our exciting roadmap takes things to a whole new level, coming soon."
   list:
     - title: "The Bazam agent"
-      description: "Ask for a campaign, a report or a month of content in a conversation, and it runs against your audiences and your brand. No wizards involved."
+      description: "Ask for a campaign, a report or a month of content in one conversation and it runs against your audiences and your brand. No wizards."
     - title: "Models that learn"
-      description: "Published results feed back in, so the model stops being your best guess and becomes a record of what your market responds to."
+      description: "Published results feed straight back in. Your best guess turns into a record of what your market responds to."
     - title: "Proven angles, per audience"
-      description: "Test angles against each audience and promote the winners. The model compounds with every campaign, and it belongs to you rather than to an ad platform."
+      description: "Test angles against each audience and promote the winners. The model sharpens with every campaign, and it belongs to you rather than to an ad platform."
 
 faq:
   - q: "How long does it take to build an audience model?"
     a:
-      - "Minutes. You describe the audience, Bazam generates the model, and you spend the rest of the time editing rather than authoring. Most people have their first two or three audiences modelled in a single sitting."
+      - "Minutes. Describe the audience, Bazam generates the model, and you spend the rest of the time editing rather than authoring. Most people have their first two or three audiences modelled in a single sitting."
 
   - q: "How many audiences should I model?"
     a:
-      - "Fewer than you think. Two or three distinct readers usually covers a small business, and modelling those properly beats sketching eight badly. Consultants and agencies tend to want one set per client, which is what the larger plans are for."
+      - "Fewer than you think. Two or three distinct readers covers most small businesses, and modelling those properly beats sketching eight badly. Consultants and agencies want one set per client, which is what the larger plans are for."
 
   - q: "Can I edit a model later?"
     a:
@@ -148,11 +148,11 @@ faq:
 
   - q: "What if my audience is really niche?"
     a:
-      - "That's where this works best. The vaguer the audience, the more generic any tool's output has to be. A sharply defined reader gives the model something to hold on to, and the difference in the output is correspondingly larger."
+      - "Then you'll see the biggest difference of anyone. The vaguer the audience, the more generic any tool's output has to be. A sharply defined reader gives the model something to grip, and the output changes accordingly."
 
 waitlist:
   id: "early-access"
   title: "Model your first audience"
-  description: "Bazam is in early access and we're onboarding a small number of accounts at a time. Tell us who you are and we'll set you up, including a first pass at your audience models, built with you."
+  description: "We take on a small number of accounts at a time so we can set each one up properly. Tell us who you sell to and we'll build your first audience models with you."
   button: "Request access"
 ---

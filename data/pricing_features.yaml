@@ -1,7 +1,7 @@
 id: pricing_features
 prefix: fg_pricing
 title: "Compare plans"
-subtitle: "Every plan includes the full 30-point audience model and every content type. Plans differ by scale, not by capability."
+subtitle: "Every plan gets the full 30-point audience model and every content type. Pay for scale, never for features."
 
 columns:
   - id: starter
@@ -152,7 +152,7 @@ sections:
           - check: true
       - id: analytics
         feature: "Cross-channel analytics"
-        desc: "Engagement and reach normalised across channels, plus Google Analytics conversions and revenue per post"
+        desc: "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"
         values:
           - check: true
           - check: true
@@ -175,8 +175,23 @@ sections:
           - check: true
       - id: approval_workflows
         feature: "Approval workflows"
+        desc: "Nothing goes live without a yes"
         values:
           - check: false
+          - check: true
+          - check: true
+      - id: client_portal
+        feature: "Client approval portal"
+        desc: "Invite a client to review and sign off their own posts, when you turn approvals on"
+        values:
+          - check: false
+          - check: true
+          - check: true
+      - id: no_shared_credentials
+        feature: "No shared passwords"
+        desc: "Clients connect their own accounts. You publish on their behalf without ever handling their logins"
+        values:
+          - check: true
           - check: true
           - check: true
       - id: roles

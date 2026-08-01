@@ -1,7 +1,7 @@
 id: comparison_chatgpt
 prefix: fg_cmp_chatgpt
 title: "Bazam, ChatGPT, and the AI writing tools"
-subtitle: "We run on the same AI models everyone else does. What differs is what those models get told about your reader, so that is where the comparison is worth making."
+subtitle: "Everyone in this market builds on the same frontier models. We just brief them properly."
 
 columns:
   - id: chatgpt
@@ -62,7 +62,7 @@ sections:
           - check: true
             text: "Excellent"
           - check: true
-            text: "Same models"
+            text: "Same frontier models"
       - id: angles
         feature: "Different angles per audience"
         values:
@@ -89,6 +89,16 @@ sections:
             text: "If you upload them each time"
           - check: true
           - check: true
+      - id: mcp
+        feature: "Brings your setup into other AI tools"
+        desc: "Over MCP, so your audiences and brand voice travel with you"
+        values:
+          - check: false
+            text: "Nothing to bring"
+          - check: true
+            text: "Jasper: brand context"
+          - check: true
+            text: "Audiences, voice, publishing"
 
   - id: shipping
     name: "Getting it out the door"

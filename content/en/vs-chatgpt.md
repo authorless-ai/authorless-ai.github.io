@@ -1,14 +1,14 @@
 ---
 layout: marketing
 title: "Bazam vs ChatGPT"
-superTitle: "A straight comparison"
-description: "ChatGPT is a good writer. Here is exactly where Bazam is different, where it isn't, and when you should keep using ChatGPT."
+superTitle: "The showdown"
+description: "ChatGPT writes well. So does Bazam. The difference is that Bazam knows who your reader is, remembers it next month, and publishes the finished piece."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "We're not going to tell you ChatGPT writes badly. It doesn't, and we run on the same class of models it does. Given the same brief you'd struggle to tell the output apart."
-  - "The difference is what those models get told before they start, and what happens to the draft afterwards."
+  - "ChatGPT writes the draft and stops. Bazam knows who the draft is for, still knows next month, and publishes it to six channels for you."
+  - "It also plugs into ChatGPT & Claude over <b>MCP</b>, so you can use them to drive Bazam directly."
 
 comparisonGrid: "comparison_chatgpt"
 
@@ -17,12 +17,12 @@ features:
     image: "/images/blog-wizard.png"
     image_alt: "A general-purpose chat interface"
     description:
-      - "Worth saying plainly, because most comparison pages won't."
+      - "Every comparison page pretends the rival is useless. Here are four things ChatGPT does better than us."
     points:
       - title: "Anything that isn't marketing"
-        description: "Code, analysis, research, planning, arguing with you about an idea. Bazam does one job; ChatGPT does hundreds."
+        description: "Code, analysis, research, planning, arguing with you about an idea. Bazam does one job. ChatGPT does hundreds."
       - title: "One-off writing"
-        description: "If you need a single email to one person right now, opening a chat is faster than opening anything else. That's a real advantage and we're not going to pretend otherwise."
+        description: "Need a single email to one person right now? Opening a chat is faster than opening anything else."
       - title: "Thinking out loud"
         description: "For working out what you want to say in the first place, a conversation beats a form. Plenty of good briefs start in ChatGPT and end up in Bazam."
       - title: "Price"
@@ -34,40 +34,41 @@ features:
     image: "/images/persona.png"
     image_alt: "A structured audience model driving generation"
     description:
-      - "It shows up the moment you're publishing regularly, to more than one kind of person, across more than one channel."
+      - "All of that stays true right up to the moment you're publishing every week, to three different audiences, across six channels."
     points:
       - title: "The brief doesn't survive the session"
-        description: "Everything you know about your reader has to be re-typed each time, and in practice it gets shorter each time, until it's a phrase. Bazam holds a 30-point model that doesn't degrade."
+        description: "Everything you know about your reader gets re-typed every time, and it gets shorter every time, until it's a phrase. Bazam holds thirty points that never degrade."
       - title: "One reader, or none"
-        description: "Getting ChatGPT to write the same launch three ways for three audiences means running three carefully-prompted conversations and keeping them straight. Bazam picks an audience and an angle from a dropdown."
+        description: "Writing the same launch three ways for three audiences in ChatGPT means three carefully-prompted conversations and keeping them straight. In Bazam it's a dropdown."
       - title: "The draft is where it stops"
-        description: "You still have to reformat for each platform, translate it, load it into a scheduler, publish it, and go and find out how it did. That's most of the work, and it's the part Bazam does."
+        description: "You still reformat for each platform, translate it, load it into a scheduler, publish it, then go hunting for how it did. That's most of the work, and Bazam does all of it."
       - title: "Nothing accumulates"
-        description: "A year of prompting leaves you with a year of chat history. A year of Bazam leaves you with a set of audience models you own and keep getting value from."
+        description: "A year of prompting leaves you with a year of chat history. A year of Bazam leaves you owning a set of audience models that keep paying out."
     footer:
-      - "None of this is a criticism of the model. The software around the model is doing a different job."
+      - "ChatGPT hands you a draft. Bazam hands you a published campaign and an asset that keeps working."
 
 faq:
   - q: "Couldn't I just save a really good prompt and reuse it?"
     a:
-      - "You can, and it's a decent halfway house. Plenty of people do exactly this. It breaks down for the usual reasons: the prompt lives in a doc nobody else on the team opens, it doesn't vary by channel, it can't hold three audiences at once, and the moment you want to change one detail you're editing a wall of text rather than a field."
-      - "A 30-point model is that saved prompt, made structured, shared, and wired into everything downstream."
+      - "You can, and it's a decent halfway house. Plenty of people do exactly this. It breaks down for the usual reasons: the prompt lives in a doc nobody else on the team opens, it doesn't vary by channel, it can't hold three audiences at once, and changing one detail means editing a wall of text rather than a field."
+      - "A thirty-point model is that saved prompt, made structured, shared with your team, and wired into everything downstream."
 
-  - q: "Do you use the same AI models as ChatGPT?"
+  - q: "Which AI models do you use?"
     a:
-      - "The same class of models, yes. We're not claiming a secret model, which would be a strange thing to compete on when everyone has access to the same frontier systems. We compete on what goes into them and what happens to the output."
+      - "Frontier models, the same tier every serious tool in this market builds on. What makes us different is what goes into them and what happens to the output."
 
   - q: "So is Bazam just a wrapper?"
     a:
-      - "The generation is one step of about six. The audience model, the brand voice, the knowledge base, the calendar, the direct publishing to six platforms and the cross-channel analytics are all Bazam. Take the AI writing out entirely and you'd still have a content operations tool."
+      - "Generation is one step of about six. The audience model, the brand voice, the knowledge base, the calendar, the direct publishing to six platforms and the cross-channel analytics are all ours. Take the AI writing out entirely and you'd still have a content operations tool."
 
   - q: "What if I already pay for ChatGPT?"
     a:
-      - "Keep it. Most of our early users do. They're different tools, and the overlap, producing a draft, is the cheapest part of either one."
+      - "Keep it, and connect it. Bazam runs an MCP server, so you can pull your audience models, brand voice and knowledge base straight into ChatGPT or Claude, generate there, then schedule and publish through Bazam without leaving the chat."
+      - "You get the assistant you already like, working from a brief worth using."
 
 waitlist:
   id: "early-access"
-  title: "See the difference on your own audience"
-  description: "The fastest way to settle this is to run the same brief both ways. Tell us who you're marketing to and we'll build you an audience model and show you the comparison."
+  title: "See it on your own audience"
+  description: "The fastest way to settle this is to run the same brief both ways. Tell us who you sell to and we'll build the audience model and send you both versions."
   button: "Request access"
 ---
