@@ -21,6 +21,12 @@
   </section>
   {{ end }}
 
+  {{ if .Params.introFeatures }}
+    {{ partial "index/features-3-cols-icons.html" . }}
+  {{ end }}
+
+  {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
+
   {{/* The comparison table is the payload on a "vs" page, so it sits directly
        under the prose that sets it up rather than at the end. */}}
   {{ with .Params.comparisonGrid }}

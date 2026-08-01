@@ -87,7 +87,7 @@ markup:
 menus:
   main:
   - name: "How it works"
-    url: "/#how-it-works"
+    url: "/how-it-works/"
     weight: 10
   - name: "The audience model"
     url: "/audience-model/"
@@ -95,9 +95,13 @@ menus:
   - name: "Pricing"
     url: "/pricing/"
     weight: 30
-  - name: "vs ChatGPT"
-    url: "/vs-chatgpt/"
-    weight: 40
   - name: "Contact"
     url: "/contact/"
     weight: 50
+  compareMenu:
+  - name: "Bazam vs ChatGPT"
+    url: "/vs-chatgpt/"
+    weight: 10
+  - name: "Bazam vs Blaze"
+    url: "/vs-blaze/"
+    weight: 20

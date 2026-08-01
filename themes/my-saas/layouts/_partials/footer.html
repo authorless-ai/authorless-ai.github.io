@@ -104,6 +104,11 @@
                     <li class="mb-4">
                         <a href="/#early-access" class="hover:underline">{{ T "signUp" }}</a>
                     </li>
+                    {{ range .Site.Menus.comparemenu }}
+                      <li class="mb-4">
+                          <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
+                      </li>
+                    {{ end }}
                     <li class="mb-4">
                         <a href="{{ "faqs/" | relLangURL }}" class="hover:underline">{{ T "faq" }}</a>
                     </li>

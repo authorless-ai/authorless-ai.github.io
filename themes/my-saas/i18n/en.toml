@@ -274,127 +274,6 @@ other = "$99/mo"
 other = "Free Trial"
 
 
-[fg_cmp_chatgpt__title]
-other = "Bazam, ChatGPT, and the AI writing tools"
-
-[fg_cmp_chatgpt__chatgpt]
-other = "ChatGPT"
-
-[fg_cmp_chatgpt__writers]
-other = "Jasper / Copy.ai"
-
-[fg_cmp_chatgpt__bazam]
-other = "Bazam"
-
-[fg_cmp_chatgpt__brief]
-other = "What the AI is told"
-
-[fg_cmp_chatgpt__brief__reader]
-other = "Who it's writing to"
-
-[fg_cmp_chatgpt__brief__reader__chatgpt]
-other = "Whatever you typed this time"
-
-[fg_cmp_chatgpt__brief__reader__writers]
-other = "A text box you filled in once"
-
-[fg_cmp_chatgpt__brief__reader__bazam]
-other = "A 30-point model, per audience"
-
-[fg_cmp_chatgpt__brief__drivers]
-other = "Knows what drives them emotionally"
-
-[fg_cmp_chatgpt__brief__beliefs]
-other = "Knows their values and beliefs"
-
-[fg_cmp_chatgpt__brief__behaviour]
-other = "Knows how they make decisions"
-
-[fg_cmp_chatgpt__brief__behaviour__desc]
-other = "Impulsive, considered, risk-averse, price-led"
-
-[fg_cmp_chatgpt__brief__persists]
-other = "Survives between sessions"
-
-[fg_cmp_chatgpt__brief__persists__chatgpt]
-other = "Gone with the chat"
-
-[fg_cmp_chatgpt__brief__persists__writers]
-other = "The box does"
-
-[fg_cmp_chatgpt__brief__persists__bazam]
-other = "The model is yours"
-
-[fg_cmp_chatgpt__generating]
-other = "Generating"
-
-[fg_cmp_chatgpt__generating__quality]
-other = "Draft quality from a good prompt"
-
-[fg_cmp_chatgpt__generating__quality__chatgpt]
-other = "Excellent"
-
-[fg_cmp_chatgpt__generating__quality__writers]
-other = "Good"
-
-[fg_cmp_chatgpt__generating__angles]
-other = "Different angles per audience"
-
-[fg_cmp_chatgpt__generating__angles__chatgpt]
-other = "Only if you re-prompt"
-
-[fg_cmp_chatgpt__generating__formats]
-other = "Marketing formats built in"
-
-[fg_cmp_chatgpt__generating__voice]
-other = "Brand voice applied automatically"
-
-[fg_cmp_chatgpt__generating__knowledge]
-other = "Writes from your own documents"
-
-[fg_cmp_chatgpt__generating__knowledge__chatgpt]
-other = "If you upload them each time"
-
-[fg_cmp_chatgpt__shipping]
-other = "Getting it out the door"
-
-[fg_cmp_chatgpt__shipping__translation]
-other = "Translation into 50+ languages"
-
-[fg_cmp_chatgpt__shipping__translation__chatgpt]
-other = "One piece at a time, by hand"
-
-[fg_cmp_chatgpt__shipping__publishing]
-other = "Publishes to your channels"
-
-[fg_cmp_chatgpt__shipping__publishing__bazam]
-other = "6 platforms, direct"
-
-[fg_cmp_chatgpt__shipping__scheduling]
-other = "Content calendar and scheduling"
-
-[fg_cmp_chatgpt__shipping__analytics]
-other = "Cross-channel analytics"
-
-[fg_cmp_chatgpt__shipping__approvals]
-other = "Approval workflow"
-
-[fg_cmp_chatgpt__cost]
-other = "Cost"
-
-[fg_cmp_chatgpt__cost__price]
-other = "Typical price"
-
-[fg_cmp_chatgpt__cost__price__chatgpt]
-other = "~$20/month"
-
-[fg_cmp_chatgpt__cost__price__writers]
-other = "$39–69/month per seat"
-
-[fg_cmp_chatgpt__cost__price__bazam]
-other = "From $29/month"
-
-
 [fg_pricing__title]
 other = "Compare plans"
 
@@ -590,22 +469,6 @@ other = "Every plan gets the full 30-point audience model and every content type
 other = "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"
 
 
-[fg_cmp_chatgpt__generating__mcp]
-other = "Brings your setup into other AI tools"
-
-[fg_cmp_chatgpt__generating__mcp__desc]
-other = "Over MCP, so your audiences and brand voice travel with you"
-
-[fg_cmp_chatgpt__generating__mcp__chatgpt]
-other = "Nothing to bring"
-
-[fg_cmp_chatgpt__generating__mcp__writers]
-other = "Jasper: brand context"
-
-[fg_cmp_chatgpt__generating__mcp__bazam]
-other = "Audiences, voice, publishing"
-
-
 [fg_pricing__team_features__approval_workflows__desc]
 other = "Nothing goes live without a yes"
 
@@ -621,28 +484,6 @@ other = "No shared passwords"
 [fg_pricing__team_features__no_shared_credentials__desc]
 other = "Clients connect their own accounts. You publish on their behalf without ever handling their logins"
 
-
-[fg_cmp_chatgpt__subtitle]
-other = "We use the same frontier models as everyone else. But we brief them properly and manage campaigns."
-
-[fg_cmp_chatgpt__generating__quality__bazam]
-other = "Excellent"
-
-
-[fg_cmp_chatgpt__brief__subject]
-other = "What it's writing about"
-
-[fg_cmp_chatgpt__brief__subject__desc]
-other = "Your company, brand and offerings, held as profiles"
-
-[fg_cmp_chatgpt__brief__subject__chatgpt]
-other = "Re-paste it every time"
-
-[fg_cmp_chatgpt__brief__subject__writers]
-other = "Brand kit"
-
-[fg_cmp_chatgpt__brief__subject__bazam]
-other = "Company, brand, offering"
 
 [fg_pricing__audience__brand_profiles]
 other = "Company, brand and offering profiles"
@@ -661,3 +502,198 @@ other = "Multiple brands per project"
 
 [fg_pricing__audience__multi_brand__desc]
 other = "Each with their own offerings, voice and audiences. Personal brands too"
+
+[fg_cmp_tools__title]
+other = "Bazam vs the tools you're probably weighing up"
+
+[fg_cmp_tools__subtitle]
+other = "Everyone here builds on the same frontier models. What differs is what those models get told, and how much of the job is left for you afterwards. "
+
+[fg_cmp_tools__chatgpt]
+other = "ChatGPT"
+
+[fg_cmp_tools__blaze]
+other = "Blaze"
+
+[fg_cmp_tools__anyword]
+other = "Anyword"
+
+[fg_cmp_tools__bazam]
+other = "Bazam"
+
+[fg_cmp_tools__brief]
+other = "What the AI is told"
+
+[fg_cmp_tools__brief__reader]
+other = "Who it's writing to"
+
+[fg_cmp_tools__brief__reader__chatgpt]
+other = "Whatever you typed this time"
+
+[fg_cmp_tools__brief__reader__blaze]
+other = "Your brand and industry"
+
+[fg_cmp_tools__brief__reader__anyword]
+other = "A persona you write yourself"
+
+[fg_cmp_tools__brief__reader__bazam]
+other = "A 30-point model, per audience"
+
+[fg_cmp_tools__brief__subject]
+other = "What it's writing about"
+
+[fg_cmp_tools__brief__subject__desc]
+other = "Your company, brand and offerings, held as profiles"
+
+[fg_cmp_tools__brief__subject__chatgpt]
+other = "Re-paste it every time"
+
+[fg_cmp_tools__brief__subject__blaze]
+other = "Brand profile"
+
+[fg_cmp_tools__brief__subject__anyword]
+other = "Brand voice and guidelines"
+
+[fg_cmp_tools__brief__subject__bazam]
+other = "Company, brand, offering"
+
+[fg_cmp_tools__brief__depth]
+other = "Knows their drivers, values and buying behaviour"
+
+[fg_cmp_tools__brief__depth__anyword]
+other = "Pain points only"
+
+[fg_cmp_tools__brief__persists]
+other = "Survives between sessions"
+
+[fg_cmp_tools__brief__persists__chatgpt]
+other = "Gone with the chat"
+
+[fg_cmp_tools__brief__persists__bazam]
+other = "The model is yours"
+
+[fg_cmp_tools__brief__mcp]
+other = "Brings your setup into other AI tools"
+
+[fg_cmp_tools__brief__mcp__chatgpt]
+other = "Nothing to bring"
+
+[fg_cmp_tools__brief__mcp__anyword]
+other = "ChatGPT, Notion, Gemini"
+
+[fg_cmp_tools__brief__mcp__bazam]
+other = "MCP: audiences, voice, publishing"
+
+[fg_cmp_tools__generating]
+other = "Generating"
+
+[fg_cmp_tools__generating__quality]
+other = "Draft quality from a good prompt"
+
+[fg_cmp_tools__generating__quality__chatgpt]
+other = "Excellent"
+
+[fg_cmp_tools__generating__quality__blaze]
+other = "Excellent"
+
+[fg_cmp_tools__generating__quality__anyword]
+other = "Excellent"
+
+[fg_cmp_tools__generating__quality__bazam]
+other = "Excellent"
+
+[fg_cmp_tools__generating__angles]
+other = "Different angles per audience"
+
+[fg_cmp_tools__generating__angles__chatgpt]
+other = "Only if you re-prompt"
+
+[fg_cmp_tools__generating__types]
+other = "Marketing content types built in"
+
+[fg_cmp_tools__generating__types__bazam]
+other = "30+"
+
+[fg_cmp_tools__generating__prediction]
+other = "Predicts performance before you publish"
+
+[fg_cmp_tools__generating__prediction__anyword]
+other = "Their core feature"
+
+[fg_cmp_tools__shipping]
+other = "Getting it out the door"
+
+[fg_cmp_tools__shipping__publishing]
+other = "Publishes to your channels"
+
+[fg_cmp_tools__shipping__publishing__blaze]
+other = "8 channels"
+
+[fg_cmp_tools__shipping__publishing__bazam]
+other = "6 platforms, direct"
+
+[fg_cmp_tools__shipping__scheduling]
+other = "Content calendar and scheduling"
+
+[fg_cmp_tools__shipping__translation]
+other = "Translation into 50+ languages"
+
+[fg_cmp_tools__shipping__translation__chatgpt]
+other = "One at a time, by hand"
+
+[fg_cmp_tools__shipping__analytics]
+other = "Analytics on what you published"
+
+[fg_cmp_tools__shipping__analytics__anyword]
+other = "Content intelligence"
+
+[fg_cmp_tools__shipping__analytics__bazam]
+other = "Normalised across channels"
+
+[fg_cmp_tools__shipping__approvals]
+other = "Approvals and client sign-off"
+
+[fg_cmp_tools__shipping__approvals__desc]
+other = "Clients review in their own portal, without your passwords"
+
+[fg_cmp_tools__beyond]
+other = "Beyond content"
+
+[fg_cmp_tools__beyond__ads]
+other = "Paid ad campaigns"
+
+[fg_cmp_tools__beyond__ads__blaze]
+other = "Google and Meta"
+
+[fg_cmp_tools__beyond__landing]
+other = "Landing pages"
+
+[fg_cmp_tools__beyond__landing__anyword]
+other = "Website automation"
+
+[fg_cmp_tools__beyond__reputation]
+other = "Reputation management and AI SDR"
+
+[fg_cmp_tools__beyond__managed]
+other = "Fully managed, done for you"
+
+[fg_cmp_tools__beyond__managed__blaze]
+other = "From $2,499/mo"
+
+[fg_cmp_tools__cost]
+other = "Cost"
+
+[fg_cmp_tools__cost__price]
+other = "Entry price"
+
+[fg_cmp_tools__cost__price__chatgpt]
+other = "~$20/mo"
+
+[fg_cmp_tools__cost__price__blaze]
+other = "$79/mo"
+
+[fg_cmp_tools__cost__price__anyword]
+other = "$49/mo"
+
+[fg_cmp_tools__cost__price__bazam]
+other = "$39/mo"

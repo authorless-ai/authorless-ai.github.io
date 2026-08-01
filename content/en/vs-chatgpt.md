@@ -10,26 +10,9 @@ heroDescription:
   - "ChatGPT/Claude writes the draft and stops. Bazam knows who the draft is for, still knows next month, and publishes it to six channels for you."
   - "It also plugs into ChatGPT & Claude over <b>MCP</b>, so you can use them to drive Bazam directly."
 
-comparisonGrid: "comparison_chatgpt"
+comparisonGrid: "comparison_tools"
 
 features:
-  - title: "What ChatGPT is better at"
-    image: "/images/blog-wizard.png"
-    image_alt: "A general-purpose chat interface"
-    description:
-      - "Every comparison page pretends the rival is useless. Here are four things ChatGPT does better than us."
-    points:
-      - title: "Anything that isn't marketing"
-        description: "Code, analysis, research, planning, arguing with you about an idea. Bazam does one job. ChatGPT does hundreds."
-      - title: "One-off writing"
-        description: "Need a single email to one person right now? Opening a chat is faster than opening anything else."
-      - title: "Thinking out loud"
-        description: "For working out what you want to say in the first place, a conversation beats a form. Plenty of good briefs start in ChatGPT and end up in Bazam."
-      - title: "Price"
-        description: "Twenty dollars a month for a general-purpose assistant is very hard to argue with, and we're not trying to."
-    footer:
-      - "If that's all you need, use ChatGPT."
-
   - title: "Where we're better"
     image: "/images/persona.png"
     image_alt: "A structured audience model driving generation"
@@ -46,6 +29,23 @@ features:
         description: "A year of prompting leaves you with a year of chat history. A year of Bazam leaves you owning a set of audience models that keep paying out."
     footer:
       - "ChatGPT hands you a draft. Bazam hands you a published campaign and an asset that keeps working."
+
+  - title: "Keep ChatGPT. Bazam plugs straight into it."
+    image: "/images/blog-wizard.png"
+    image_alt: "Bazam's audience models available inside a chat assistant"
+    description:
+      - "You don't have to pick one. Bazam runs an MCP server, so everything it knows about your readers and your brand is available inside the assistant you already have open."
+    points:
+      - title: "Draft in the chat you already like"
+        description: "Pull your audience models, brand voice and knowledge base into ChatGPT or Claude, generate there, then schedule and publish through Bazam without leaving the conversation."
+      - title: "Your brief stops evaporating"
+        description: "The reader you spent an hour describing last month is still there this month, in thirty structured fields, applied automatically to whatever you generate next."
+      - title: "Keep the chat for thinking"
+        description: "Work out what you want to say in a conversation, then hand the finished angle to Bazam and let it write to a real audience across every channel."
+      - title: "One tool for the marketing, one for everything else"
+        description: "Code, research, planning and arguing with an AI about an idea are jobs Bazam has no interest in. Marketing content is the only thing we do."
+    footer:
+      - "The overlap between them is producing a draft, which is the cheapest part of either one."
 
 faq:
   - q: "Couldn't I just save a really good prompt and reuse it?"

@@ -271,127 +271,6 @@ other = "$99/mo"  # TODO: translate
 other = "Free Trial"  # TODO: translate
 
 
-[fg_cmp_chatgpt__title]
-other = "Bazam, ChatGPT, and the AI writing tools"  # TODO: translate
-
-[fg_cmp_chatgpt__chatgpt]
-other = "ChatGPT"  # TODO: translate
-
-[fg_cmp_chatgpt__writers]
-other = "Jasper / Copy.ai"  # TODO: translate
-
-[fg_cmp_chatgpt__bazam]
-other = "Bazam"  # TODO: translate
-
-[fg_cmp_chatgpt__brief]
-other = "What the AI is told"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__reader]
-other = "Who it's writing to"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__reader__chatgpt]
-other = "Whatever you typed this time"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__reader__writers]
-other = "A text box you filled in once"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__drivers]
-other = "Knows what drives them emotionally"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__beliefs]
-other = "Knows their values and beliefs"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__behaviour]
-other = "Knows how they make decisions"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__behaviour__desc]
-other = "Impulsive, considered, risk-averse, price-led"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__persists]
-other = "Survives between sessions"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__persists__chatgpt]
-other = "Gone with the chat"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__persists__writers]
-other = "The box does"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__persists__bazam]
-other = "The model is yours"  # TODO: translate
-
-[fg_cmp_chatgpt__generating]
-other = "Generating"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__quality]
-other = "Draft quality from a good prompt"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__quality__chatgpt]
-other = "Excellent"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__quality__writers]
-other = "Excellent"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__angles]
-other = "Different angles per audience"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__angles__chatgpt]
-other = "Only if you re-prompt"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__formats]
-other = "Marketing formats built in"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__voice]
-other = "Brand voice applied automatically"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__knowledge]
-other = "Writes from your own documents"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__knowledge__chatgpt]
-other = "If you upload them each time"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping]
-other = "Getting it out the door"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__translation__chatgpt]
-other = "One piece at a time, by hand"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__publishing__bazam]
-other = "6 platforms, direct"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__analytics]
-other = "Cross-channel analytics"  # TODO: translate
-
-[fg_cmp_chatgpt__shipping__approvals]
-other = "Approval workflow"  # TODO: translate
-
-[fg_cmp_chatgpt__cost]
-other = "Cost"  # TODO: translate
-
-[fg_cmp_chatgpt__cost__price]
-other = "Typical price"  # TODO: translate
-
-[fg_cmp_chatgpt__cost__price__chatgpt]
-other = "~$20/month"  # TODO: translate
-
-[fg_cmp_chatgpt__cost__price__writers]
-other = "$39–69/month per seat"  # TODO: translate
-
-[fg_cmp_chatgpt__cost__price__bazam]
-other = "From $39/month"  # TODO: translate
-
-
 [fg_pricing__title]
 other = "Compare plans"  # TODO: translate
 
@@ -587,22 +466,6 @@ other = "Every plan gets the full 30-point audience model and every content type
 other = "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"  # TODO: translate
 
 
-[fg_cmp_chatgpt__generating__mcp]
-other = "Brings your setup into other AI tools"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__mcp__desc]
-other = "Over MCP, so your audiences and brand voice travel with you"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__mcp__chatgpt]
-other = "Nothing to bring"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__mcp__writers]
-other = "Jasper: brand context"  # TODO: translate
-
-[fg_cmp_chatgpt__generating__mcp__bazam]
-other = "Audiences, voice, publishing"  # TODO: translate
-
-
 [fg_pricing__team_features__approval_workflows__desc]
 other = "Nothing goes live without a yes"  # TODO: translate
 
@@ -618,28 +481,6 @@ other = "No shared passwords"  # TODO: translate
 [fg_pricing__team_features__no_shared_credentials__desc]
 other = "Clients connect their own accounts. You publish on their behalf without ever handling their logins"  # TODO: translate
 
-
-[fg_cmp_chatgpt__subtitle]
-other = "We use the same frontier models as everyone else. We just brief them properly."  # TODO: translate
-
-[fg_cmp_chatgpt__generating__quality__bazam]
-other = "Same frontier models"  # TODO: translate
-
-
-[fg_cmp_chatgpt__brief__subject]
-other = "What it's writing about"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__subject__desc]
-other = "Your company, brand and offerings, held as profiles"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__subject__chatgpt]
-other = "Re-paste it every time"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__subject__writers]
-other = "Brand kit"  # TODO: translate
-
-[fg_cmp_chatgpt__brief__subject__bazam]
-other = "Company, brand, offering"  # TODO: translate
 
 [fg_pricing__audience__brand_profiles]
 other = "Company, brand and offering profiles"  # TODO: translate
@@ -658,3 +499,198 @@ other = "Multiple brands per project"  # TODO: translate
 
 [fg_pricing__audience__multi_brand__desc]
 other = "Each with their own offerings, voice and audiences. Personal brands too"  # TODO: translate
+
+[fg_cmp_tools__title]
+other = "Bazam vs the tools you're probably weighing up"  # TODO: translate
+
+[fg_cmp_tools__subtitle]
+other = "Everyone here builds on the same frontier models. What differs is what those models get told, and how much of the job is left for you afterwards. Competitor detail taken from their own marketing, August 2026."  # TODO: translate
+
+[fg_cmp_tools__chatgpt]
+other = "ChatGPT"  # TODO: translate
+
+[fg_cmp_tools__blaze]
+other = "Blaze"  # TODO: translate
+
+[fg_cmp_tools__anyword]
+other = "Anyword"  # TODO: translate
+
+[fg_cmp_tools__bazam]
+other = "Bazam"  # TODO: translate
+
+[fg_cmp_tools__brief]
+other = "What the AI is told"  # TODO: translate
+
+[fg_cmp_tools__brief__reader]
+other = "Who it's writing to"  # TODO: translate
+
+[fg_cmp_tools__brief__reader__chatgpt]
+other = "Whatever you typed this time"  # TODO: translate
+
+[fg_cmp_tools__brief__reader__blaze]
+other = "Your brand and industry"  # TODO: translate
+
+[fg_cmp_tools__brief__reader__anyword]
+other = "A persona you write yourself"  # TODO: translate
+
+[fg_cmp_tools__brief__reader__bazam]
+other = "A 30-point model, per audience"  # TODO: translate
+
+[fg_cmp_tools__brief__subject]
+other = "What it's writing about"  # TODO: translate
+
+[fg_cmp_tools__brief__subject__desc]
+other = "Your company, brand and offerings, held as profiles"  # TODO: translate
+
+[fg_cmp_tools__brief__subject__chatgpt]
+other = "Re-paste it every time"  # TODO: translate
+
+[fg_cmp_tools__brief__subject__blaze]
+other = "Brand profile"  # TODO: translate
+
+[fg_cmp_tools__brief__subject__anyword]
+other = "Brand voice and guidelines"  # TODO: translate
+
+[fg_cmp_tools__brief__subject__bazam]
+other = "Company, brand, offering"  # TODO: translate
+
+[fg_cmp_tools__brief__depth]
+other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+
+[fg_cmp_tools__brief__depth__anyword]
+other = "Pain points only"  # TODO: translate
+
+[fg_cmp_tools__brief__persists]
+other = "Survives between sessions"  # TODO: translate
+
+[fg_cmp_tools__brief__persists__chatgpt]
+other = "Gone with the chat"  # TODO: translate
+
+[fg_cmp_tools__brief__persists__bazam]
+other = "The model is yours"  # TODO: translate
+
+[fg_cmp_tools__brief__mcp]
+other = "Brings your setup into other AI tools"  # TODO: translate
+
+[fg_cmp_tools__brief__mcp__chatgpt]
+other = "Nothing to bring"  # TODO: translate
+
+[fg_cmp_tools__brief__mcp__anyword]
+other = "ChatGPT, Notion, Gemini"  # TODO: translate
+
+[fg_cmp_tools__brief__mcp__bazam]
+other = "MCP: audiences, voice, publishing"  # TODO: translate
+
+[fg_cmp_tools__generating]
+other = "Generating"  # TODO: translate
+
+[fg_cmp_tools__generating__quality]
+other = "Draft quality from a good prompt"  # TODO: translate
+
+[fg_cmp_tools__generating__quality__chatgpt]
+other = "Excellent"  # TODO: translate
+
+[fg_cmp_tools__generating__quality__blaze]
+other = "Excellent"  # TODO: translate
+
+[fg_cmp_tools__generating__quality__anyword]
+other = "Excellent"  # TODO: translate
+
+[fg_cmp_tools__generating__quality__bazam]
+other = "Excellent"  # TODO: translate
+
+[fg_cmp_tools__generating__angles]
+other = "Different angles per audience"  # TODO: translate
+
+[fg_cmp_tools__generating__angles__chatgpt]
+other = "Only if you re-prompt"  # TODO: translate
+
+[fg_cmp_tools__generating__types]
+other = "Marketing content types built in"  # TODO: translate
+
+[fg_cmp_tools__generating__types__bazam]
+other = "30+"  # TODO: translate
+
+[fg_cmp_tools__generating__prediction]
+other = "Predicts performance before you publish"  # TODO: translate
+
+[fg_cmp_tools__generating__prediction__anyword]
+other = "Their core feature"  # TODO: translate
+
+[fg_cmp_tools__shipping]
+other = "Getting it out the door"  # TODO: translate
+
+[fg_cmp_tools__shipping__publishing]
+other = "Publishes to your channels"  # TODO: translate
+
+[fg_cmp_tools__shipping__publishing__blaze]
+other = "8 channels"  # TODO: translate
+
+[fg_cmp_tools__shipping__publishing__bazam]
+other = "6 platforms, direct"  # TODO: translate
+
+[fg_cmp_tools__shipping__scheduling]
+other = "Content calendar and scheduling"  # TODO: translate
+
+[fg_cmp_tools__shipping__translation]
+other = "Translation into 50+ languages"  # TODO: translate
+
+[fg_cmp_tools__shipping__translation__chatgpt]
+other = "One at a time, by hand"  # TODO: translate
+
+[fg_cmp_tools__shipping__analytics]
+other = "Analytics on what you published"  # TODO: translate
+
+[fg_cmp_tools__shipping__analytics__anyword]
+other = "Content intelligence"  # TODO: translate
+
+[fg_cmp_tools__shipping__analytics__bazam]
+other = "Normalised across channels"  # TODO: translate
+
+[fg_cmp_tools__shipping__approvals]
+other = "Approvals and client sign-off"  # TODO: translate
+
+[fg_cmp_tools__shipping__approvals__desc]
+other = "Clients review in their own portal, without your passwords"  # TODO: translate
+
+[fg_cmp_tools__beyond]
+other = "Beyond content"  # TODO: translate
+
+[fg_cmp_tools__beyond__ads]
+other = "Paid ad campaigns"  # TODO: translate
+
+[fg_cmp_tools__beyond__ads__blaze]
+other = "Google and Meta"  # TODO: translate
+
+[fg_cmp_tools__beyond__landing]
+other = "Landing pages"  # TODO: translate
+
+[fg_cmp_tools__beyond__landing__anyword]
+other = "Website automation"  # TODO: translate
+
+[fg_cmp_tools__beyond__reputation]
+other = "Reputation management and AI SDR"  # TODO: translate
+
+[fg_cmp_tools__beyond__managed]
+other = "Fully managed, done for you"  # TODO: translate
+
+[fg_cmp_tools__beyond__managed__blaze]
+other = "From $2,499/mo"  # TODO: translate
+
+[fg_cmp_tools__cost]
+other = "Cost"  # TODO: translate
+
+[fg_cmp_tools__cost__price]
+other = "Entry price"  # TODO: translate
+
+[fg_cmp_tools__cost__price__chatgpt]
+other = "~$20/mo"  # TODO: translate
+
+[fg_cmp_tools__cost__price__blaze]
+other = "$79/mo"  # TODO: translate
+
+[fg_cmp_tools__cost__price__anyword]
+other = "$49/mo"  # TODO: translate
+
+[fg_cmp_tools__cost__price__bazam]
+other = "$39/mo"  # TODO: translate
