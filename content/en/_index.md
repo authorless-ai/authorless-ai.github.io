@@ -148,14 +148,15 @@ calendar:
 # ---------------------------------------------------------------------------
 introFeatures:
   - step: "1"
-    title: "Describe your audience"
-    description: "A sentence or two is enough. <b>“Operations managers at UK logistics firms, 50-200 staff, drowning in manual scheduling.”</b>"
+    title: "Point us at your website"
+    description: "Bazam reads your business, your brand and your offerings, then comes back with <b>the audiences you're selling to</b>."
   - step: "2"
-    title: "Bazam builds the model"
-    description: "All thirty points come back filled in: motivations, drivers, beliefs, buying behaviour, tone. <b>Tweak it to taste</b> and it's yours for good."
+    title: "Check what it came up with"
+    description: "Each audience arrives as a 30-point model: drivers, motivations, values, buying behaviour, tone. <b>Tweak anything you disagree with</b> and it's yours for good."
   - step: "3"
     title: "Generate, schedule, publish"
-    description: "Every wizard writes to that model. <b>Pick a channel and an angle</b>, drop it on the calendar, and Bazam publishes it while you get on with something else."
+    description: "That's the setup finished. <b>From then on it's pick an audience, pick an angle, run a wizard</b>, and Bazam schedules and publishes it while you get on with something else."
+
 
 # ---------------------------------------------------------------------------
 # 8. Who it's for
@@ -194,7 +195,8 @@ faq:
 
   - q: "Do I really have to fill in thirty fields?"
     a:
-      - "No. Describe your audience in a sentence or two and Bazam builds the full model from it. You review, sharpen anything you disagree with, and you're done in a couple of minutes. Deepen a model whenever you learn something new and every future piece of content picks it up."
+      - "You may not have to write anything at all. Point Bazam at your website and it works out your business, your brand and the audiences you're selling to, then hands you the 30-point models to check. Tweak what you disagree with, add one it missed, and you're done."
+      - "If you would rather start from scratch, describing an audience in a sentence or two works too. Either way you deepen a model whenever you learn something new, and every future piece of content picks it up."
 
   - q: "Will the content read any differently?"
     a:

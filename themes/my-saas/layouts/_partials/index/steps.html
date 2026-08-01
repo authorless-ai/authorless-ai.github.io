@@ -1,0 +1,86 @@
+{{/*
+  Steps Partial — vertical alternating timeline
+
+  For sequences that have to read as a sequence. A numbered node sits on a
+  centre rail, with every step title to the left of it and every description to
+  the right, so the eye tracks straight down each column. Below md the rail
+  moves to the left and each step stacks title-then-description against it.
+
+  Usage:
+    {{ partial "index/steps.html" (dict "data" .Params.steps "context" .) }}
+
+  Data shape:
+    title / description   section heading and subhead
+    items:
+      - phase             optional group label. When it changes, a band is
+                          drawn across the rail, so "set up once" and "every
+                          time after that" read as separate phases
+        number            defaults to position in the list
+        title             short, the thing that happens at this step
+        description       one sentence on what it means
+    footer                closing line
+*/}}
+
+{{ $data := .data }}
+{{ if $data }}
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+
+    {{ if or $data.title $data.description }}
+    <div class="mx-auto max-w-screen-md text-center mb-10 lg:mb-16">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="relative mx-auto max-w-5xl">
+
+      {{/* Connecting rail: left on mobile, centre from md up */}}
+      <div class="absolute top-4 bottom-4 left-5 w-0.5 bg-primary-200 dark:bg-gray-700 md:left-1/2 md:-translate-x-1/2" aria-hidden="true"></div>
+
+      {{ range $i, $step := $data.items }}
+
+        {{/* Phase band, drawn only when the phase changes */}}
+        {{ $prevPhase := "" }}
+        {{ if gt $i 0 }}{{ $prevPhase = (index $data.items (sub $i 1)).phase }}{{ end }}
+        {{ if and $step.phase (ne $step.phase $prevPhase) }}
+        <div class="relative mb-8 pl-16 md:pl-0 md:text-center {{ if gt $i 0 }}mt-14{{ end }}">
+          <span class="relative z-10 inline-block rounded-full bg-primary-100 px-5 py-2 text-xs font-bold uppercase tracking-widest text-primary-800 ring-4 ring-white dark:bg-primary-900 dark:text-primary-300 dark:ring-gray-900">{{ $step.phase }}</span>
+        </div>
+        {{ end }}
+
+        <div class="relative mb-10 last:mb-0 pl-16 md:pl-0">
+
+          {{/* Numbered node sitting on the rail */}}
+          <div class="absolute left-0 top-0 z-10 flex h-10 w-10 items-center justify-center rounded-full bg-primary-600 text-lg font-extrabold text-white shadow-md md:left-1/2 md:top-4 md:-translate-x-1/2">
+            {{ $step.number | default (add $i 1) }}
+          </div>
+
+          <div class="md:grid md:grid-cols-2 md:items-center md:gap-20">
+
+            {{/* Title always left of the rail, hugging it */}}
+            <div class="md:row-start-1 md:col-start-1 md:text-right">
+              <h3 class="text-xl lg:text-2xl font-bold text-gray-900 dark:text-white">{{ $step.title | safeHTML }}</h3>
+            </div>
+
+            {{/* Description always right of the rail */}}
+            <div class="mt-2 md:mt-0 md:row-start-1 md:col-start-2">
+              <p class="text-gray-600 dark:text-gray-400 lg:text-lg">{{ $step.description | safeHTML }}</p>
+            </div>
+
+          </div>
+        </div>
+      {{ end }}
+    </div>
+
+    {{ with $data.footer }}
+    <p class="mt-12 text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | safeHTML }}</p>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

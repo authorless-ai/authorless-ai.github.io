@@ -68,20 +68,20 @@ contrast:
 # Depth
 # ---------------------------------------------------------------------------
 features:
-  - title: "You describe. Bazam models."
+  - title: "It works your audiences out for you"
     image: "/images/analyse-voice.png"
     image_alt: "Bazam generating an audience model from a short description"
     description:
-      - "Nobody wants to fill in thirty fields, so you don't. Describe the audience the way you'd describe them to a new colleague and Bazam writes the rest."
+      - "Nobody wants to fill in thirty fields, so you don't fill in any. Bazam reads your website and comes back with the audiences you're selling to, each already modelled."
     points:
-      - title: "Start with a sentence"
-        description: "“Operations managers at UK logistics firms, 50-200 staff, drowning in manual scheduling.” That's a complete brief as far as Bazam is concerned."
-      - title: "Review, don't author"
-        description: "A populated model comes back. Change what's wrong, deepen what's thin, delete what doesn't apply. Two minutes of editing beats an hour staring at an empty form."
+      - title: "Start with your URL"
+        description: "Bazam reads your positioning, your offerings and your market, then hands back audiences that are already built. Most people recognise them straight away."
+      - title: "Tweak, don't author"
+        description: "Change what's wrong, deepen what's thin, delete one it invented, add one it missed. Two minutes of editing beats an hour staring at an empty form."
       - title: "It stays sharpened"
         description: "Every correction sticks. The next campaign, the next channel and the next language all start from the better version."
     footer:
-      - "Point Bazam at your website and it will pull out your positioning, offerings and likely audiences to start you off."
+      - "Prefer to start from scratch? Describe an audience in a sentence and Bazam builds the model from that instead."
 
   - title: "One model, every platform"
     image: "/images/projects.png"

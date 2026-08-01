@@ -8,36 +8,42 @@ ctaUrl: "#early-access"
 
 heroDescription:
   - "Every AI writing tool hands you a draft and leaves the rest to you: the reformatting, the six logins, the scheduler, the chasing up what worked."
-  - "Bazam runs all of it. One line about your reader in, published and measured out."
+  - "Point Bazam at your website and it works out your business, your brand and who you're selling to. After that every campaign is: pick an audience, pick a content type, and Bazam writes it, schedules it, publishes it and reports back."
 
 # ---------------------------------------------------------------------------
 # The pipeline
 # ---------------------------------------------------------------------------
-introFeatures:
-  - step: "1"
-    title: "Describe your reader"
-    description: "One or two sentences. <b>“Operations managers at UK logistics firms, 50-200 staff, drowning in manual scheduling.”</b>"
-  - step: "2"
-    title: "Bazam builds the model"
-    description: "All thirty points come back filled in: drivers, motivations, values, buying behaviour, tone. <b>Change anything you disagree with.</b>"
-  - step: "3"
-    title: "Generate to that model"
-    description: "Pick the audience, the angle and the format. Your <b>brand voice and knowledge base</b> apply automatically, so it sounds like you and gets the facts right."
-  - step: "4"
-    title: "One brief, a version per platform"
-    description: "Copy, tone and media aspect ratio <b>adapted for each channel</b>, including threaded posts and links moved to the first comment where that performs better."
-  - step: "5"
-    title: "Queue it, translate it"
-    description: "Drop it on the calendar weeks or months out and push it into <b>50+ languages</b> at the same time, brand voice intact in each."
-  - step: "6"
-    title: "It publishes. You get the numbers."
-    description: "Straight to Facebook, Instagram, TikTok, X, LinkedIn and WordPress, then <b>engagement, reach and growth</b> normalised across every channel."
+steps:
+  title: "Two steps to set up. Three steps forever."
+  description: "Bazam works your business out from your website, so onboarding is mostly checking that it got you right."
+  items:
+    - phase: "One-time, 5-minute setup"
+      number: "1"
+      title: "Point Bazam at your website"
+      description: "It reads your business, brand and offerings, and audiences you sell to, built as a 30-point model. Tweak them to taste or add more."
+    - phase: "One-time, 5-minute setup"
+      number: "2"
+      title: "Connect your channels"
+      description: "Facebook, Instagram, TikTok, X, LinkedIn and WordPress. If you publish for clients, they connect their own accounts, so you never see anyone's login. "
+    - phase: "Every time after that"
+      number: "3"
+      title: "Pick an audience, run a wizard"
+      description: "Choose who it's for and optional angle, then pick the format. Your brand voice, knowledge base and audience model are already applied, so there is no prompt to write."
+    - phase: "Every time after that"
+      number: "4"
+      title: "Drop it on the calendar"
+      description: "One brief becomes a version per platform, with copy, tone and aspect ratio adapted to each, plus translations into 50+ languages if you want them. Drag it anywhere in the month."
+    - phase: "Every time after that"
+      number: "5"
+      title: "It publishes. You get the numbers."
+      description: "Straight to your channels on schedule, then engagement, reach and growth normalised across all of them and rolled up by campaign."
+  footer: "Steps 1 and 2 happen once and take minutes. Do steps 3 to 5 weekly or monthly to fill your calendar."
 
 # ---------------------------------------------------------------------------
 # The calendar
 # ---------------------------------------------------------------------------
 calendar:
-  title: "Steps 4 to 6 are the half nobody else does."
+  title: "Steps 4 to 6 are the half AI writers skip."
   description: "This is where a writing tool stops and hands the work back to you."
   placeholder: "Animation or screenshot of the content calendar. A month view with posts across many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date and then publishing is by far the strongest version and is the single most persuasive asset on this page."
   points:
@@ -64,7 +70,7 @@ comparisonGrid: "comparison_tools"
 # Depth
 # ---------------------------------------------------------------------------
 features:
-  - title: "Run it for other people without running their passwords"
+  - title: "Run it for other people without their passwords"
     image: "/images/approve.png"
     image_alt: "Client approval and role-based access in Bazam"
     description:
@@ -95,7 +101,7 @@ features:
 faq:
   - q: "How long does setup take?"
     a:
-      - "Under an hour for most people. The bulk of it is connecting channels and reviewing the audience models Bazam generates for you. After that, a month of content is one sitting."
+      - "Under an hour for most people, and you only do it once. Most of that is reading through the audiences Bazam came back with and connecting your channels. After that, a month of content is a single sitting."
 
   - q: "Do I have to use the whole pipeline?"
     a:
