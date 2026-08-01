@@ -335,7 +335,7 @@ other = "Draft quality from a good prompt"
 other = "Excellent"
 
 [fg_cmp_chatgpt__generating__quality__writers]
-other = "Excellent"
+other = "Good"
 
 [fg_cmp_chatgpt__generating__angles]
 other = "Different angles per audience"
@@ -392,7 +392,7 @@ other = "~$20/month"
 other = "$39–69/month per seat"
 
 [fg_cmp_chatgpt__cost__price__bazam]
-other = "From $39/month"
+other = "From $29/month"
 
 
 [fg_pricing__title]
@@ -623,7 +623,7 @@ other = "Clients connect their own accounts. You publish on their behalf without
 
 
 [fg_cmp_chatgpt__subtitle]
-other = "We use the same frontier models as everyone else. We just brief them properly."
+other = "We use the same frontier models as everyone else. But we brief them properly and manage campaigns."
 
 [fg_cmp_chatgpt__generating__quality__bazam]
 other = "Excellent"

@@ -1,7 +1,7 @@
 id: comparison_chatgpt
 prefix: fg_cmp_chatgpt
 title: "Bazam, ChatGPT, and the AI writing tools"
-subtitle: "We use the same frontier models as everyone else. We just brief them properly."
+subtitle: "We use the same frontier models as everyone else. But we brief them properly and manage campaigns."
 
 columns:
   - id: chatgpt
@@ -70,7 +70,7 @@ sections:
           - check: true
             text: "Excellent"
           - check: true
-            text: "Excellent"
+            text: "Good"
           - check: true
             text: "Excellent"
       - id: angles
@@ -154,4 +154,4 @@ sections:
         values:
           - text: "~$20/month"
           - text: "$39–69/month per seat"
-          - text: "From $39/month"
+          - text: "From $29/month"

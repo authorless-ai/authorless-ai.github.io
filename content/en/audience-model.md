@@ -1,7 +1,7 @@
 ---
 layout: marketing
 title: "The 30-Point Audience Model"
-superTitle: "Why Bazam is better"
+superTitle: "More knowledge, better content"
 description: "Thirty points about one reader: what they want, what worries them, what makes them buy. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
@@ -118,7 +118,7 @@ evidence:
       against: "people, across 88 studies"
       title: "The more you know about the reader, the harder the message works."
       description: "88 studies, 106,243 people. Tailored messages beat generic ones every time, and the gap widened the more the writer knew. <b>Every point you fill in buys you performance.</b>"
-      source: "Krebs, Prochaska & Rossi, Preventive Medicine, 2010"
+      source: "Krebs, Prochaska & Rossi, 2010"
   footer: "Everyone else helps you produce more. Bazam helps you produce content that performs."
 
 # ---------------------------------------------------------------------------

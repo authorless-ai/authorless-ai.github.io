@@ -14,7 +14,7 @@ heroDescription:
 # ---------------------------------------------------------------------------
 contrast:
   title: "Every other tool asks you to describe your audience in a text box."
-  description: "Then it writes to whatever you typed, which is why it reads like AI slop."
+  description: "Then it writes to whatever you typed, which is why it's ignored."
   left:
     badge: "Every other AI tool"
     label: "What they call an audience"
@@ -47,7 +47,7 @@ evidence:
       against: "people, across 88 studies"
       title: "The more you know about the reader, the harder the message works."
       description: "88 studies, 106,243 people. Tailored messages beat generic ones every time, and the gap widened the more the writer knew. <b>Every point you fill in makes your content work harder.</b>"
-      source: "Krebs, Prochaska & Rossi, Preventive Medicine, 2010"
+      source: "Krebs, Prochaska & Rossi, 2010"
   footer: "Thirty points give the AI thirty things to get right. A text box gives it eight words and a guess."
 
 # ---------------------------------------------------------------------------
@@ -141,7 +141,7 @@ featureCards:
   cards:
     - title: "Solo marketers"
       icon: star
-      description: "A team of one with five channels and no time to write a persona deck nobody will read. Model your audiences once and generate against them for good."
+      description: "One person, five channels, and no time to write a persona deck nobody will read. Model your audiences once and generate against them for good."
     - title: "Small in-house teams"
       icon: users
       description: "Two or three people covering every channel and every market. Shared audience models mean everyone writes to the same reader, whoever happens to be drafting."
