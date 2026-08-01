@@ -97,6 +97,8 @@ features:
         description: "Translated into 50+ languages with your brand voice intact, so a reader in another market gets the full argument rather than a flattened one."
       - title: "Every angle"
         description: "Pick a different angle for the same audience, or the same angle for a different audience. The model holds; the emphasis moves."
+      - title: "Both sides of the brief"
+        description: "Bazam profiles your company, brand and offerings as well, so it knows what it is writing about and not only who it is writing for."
     footer:
       - "Keep separate projects per brand or client, each with their own audiences, voice and knowledge base."
 

@@ -75,51 +75,77 @@ def collect_strings(grid: dict) -> list[tuple[str, str]]:
     return pairs
 
 
-def parse_toml_keys(filepath: str) -> set[str]:
-    """Parse a Hugo i18n TOML file and return the set of existing keys."""
-    keys: set[str] = set()
-    if not os.path.exists(filepath):
-        return keys
-    with open(filepath, "r", encoding="utf-8") as f:
-        for line in f:
-            m = re.match(r"^\[(\S+)\]", line.strip())
-            if m:
-                keys.add(m.group(1))
-    return keys
-
-
-def append_to_toml(
+def sync_toml(
     filepath: str,
     pairs: list[tuple[str, str]],
     is_english: bool,
     dry_run: bool,
-) -> int:
-    """Append new i18n entries to a TOML file. Returns count of new keys added."""
-    existing = parse_toml_keys(filepath)
-    new_pairs = [(k, v) for k, v in pairs if k not in existing]
-    if not new_pairs:
-        return 0
+) -> tuple[int, int]:
+    """Sync grid strings into a Hugo i18n TOML file.
 
-    lines: list[str] = []
-    for key, value in new_pairs:
-        escaped = value.replace('"', '\\"')
-        lines.append(f"\n[{key}]")
-        if is_english:
-            lines.append(f'other = "{escaped}"')
-        else:
-            lines.append(f'other = "{escaped}"  # TODO: translate')
+    English is the canonical language (see AGENTS.md), so for en.toml an edit to
+    the source YAML overwrites the existing value. Other locales are append-only:
+    new keys are added with a TODO marker, but human translations are never
+    clobbered by the English text.
 
-    if dry_run:
-        locale = os.path.basename(filepath)
-        for line in lines:
-            print(f"  [{locale}] {line.strip()}")
-    else:
-        with open(filepath, "a", encoding="utf-8") as f:
-            f.write("\n")
-            f.write("\n".join(lines))
-            f.write("\n")
+    Returns (added, updated).
+    """
+    if not os.path.exists(filepath):
+        return (0, 0)
 
-    return len(new_pairs)
+    src = open(filepath, encoding="utf-8").read()
+    wanted = dict(pairs)
+    locale = os.path.basename(filepath)
+
+    # Split into the leading preamble plus one chunk per [key] block.
+    chunks = re.split(r"(?m)^(?=\[)", src)
+    out: list[str] = []
+    seen: set[str] = set()
+    updated = 0
+
+    for chunk in chunks:
+        m = re.match(r"^\[(\S+)\]", chunk)
+        if not m:
+            out.append(chunk)
+            continue
+        key = m.group(1)
+        seen.add(key)
+
+        if is_english and key in wanted:
+            escaped = wanted[key].replace('"', '\\"')
+            new_chunk, n = re.subn(
+                r'(?m)^other = ".*"(?:\s+#.*)?$',
+                f'other = "{escaped}"',
+                chunk,
+                count=1,
+            )
+            if n and new_chunk != chunk:
+                updated += 1
+                if dry_run:
+                    print(f"  [{locale}] UPDATE {key} -> {wanted[key]}")
+                chunk = new_chunk
+        out.append(chunk)
+
+    new_pairs = [(k, v) for k, v in pairs if k not in seen]
+    body = "".join(out).rstrip() + "\n"
+
+    if new_pairs:
+        lines: list[str] = []
+        for key, value in new_pairs:
+            escaped = value.replace('"', '\\"')
+            lines.append(f"\n[{key}]")
+            suffix = "" if is_english else "  # TODO: translate"
+            lines.append(f'other = "{escaped}"{suffix}')
+        if dry_run:
+            for line in lines:
+                if line.strip():
+                    print(f"  [{locale}] ADD {line.strip()}")
+        body = body + "\n".join(lines) + "\n"
+
+    if not dry_run and body != src:
+        open(filepath, "w", encoding="utf-8").write(body)
+
+    return (len(new_pairs), updated)
 
 
 def main():
@@ -164,6 +190,7 @@ def main():
 
     # Write to each locale's TOML file
     total_new = 0
+    total_updated = 0
     for locale in LOCALES:
         toml_path = os.path.join(I18N_DIR, f"{locale}.toml")
         if not os.path.exists(toml_path):
@@ -173,15 +200,26 @@ def main():
             )
             continue
         is_english = locale == "en"
-        count = append_to_toml(toml_path, all_pairs, is_english, args.dry_run)
-        total_new += count
-        if count and not args.dry_run:
-            print(f"  {locale}.toml: added {count} new keys")
+        added, updated = sync_toml(
+            toml_path, all_pairs, is_english, args.dry_run
+        )
+        total_new += added
+        total_updated += updated
+        if (added or updated) and not args.dry_run:
+            bits = []
+            if added:
+                bits.append(f"added {added}")
+            if updated:
+                bits.append(f"updated {updated}")
+            print(f"  {locale}.toml: {', '.join(bits)}")
 
     if args.dry_run:
         print(f"\nDry run complete. {len(all_pairs)} total strings found.")
     else:
-        print(f"\nDone. {total_new} new key entries added across all locales.")
+        print(
+            f"\nDone. {total_new} added, {total_updated} updated "
+            f"(English re-syncs from YAML; translations are never overwritten)."
+        )
 
 
 if __name__ == "__main__":

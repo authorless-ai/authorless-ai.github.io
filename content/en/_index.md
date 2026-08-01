@@ -7,7 +7,7 @@ ctaUrl: "#early-access"
 
 heroDescription:
   - "So it writes something anyone could have written, for anyone at all. You already know how that reads."
-  - "Bazam builds a <b>30-point model of your reader</b>: what drives them, what worries them, how they decide. Everything you generate gets written to that person, in your voice, then scheduled, translated and published for you."
+  - "Bazam builds a <b>30-point model of your reader</b>: what drives them, what worries them, how they decide. Everything you generate gets written to that person, in your brand voice, about what you really sell, then scheduled, translated and published for you."
 
 # ---------------------------------------------------------------------------
 # 2. Contrast
@@ -83,6 +83,21 @@ features:
         description: "Your brand voice and knowledge base apply to every piece, so the arguments change and the brand never does."
     footer:
       - "Model your audiences once. Everything downstream inherits them."
+
+  - title: "It knows your side of the conversation too."
+    image: "/images/analyse-voice.png"
+    image_alt: "Company, brand and offering profiles in Bazam"
+    description:
+      - "An audience model tells Bazam who is reading. Your company, brand and offering profiles tell it what it is talking about. Both halves of the brief, so the content is accurate about you as well as aimed at them."
+    points:
+      - title: "Company, brand, offering"
+        description: "Model your business once: what you do, how you are positioned, what you sell. Run several brands, each with their own offerings, voice and audiences."
+      - title: "Built from your website"
+        description: "Point Bazam at your site and it pulls out your positioning, your offerings, and your likely audiences, then fills the profiles in for you."
+      - title: "Your facts, not the AI's"
+        description: "Add docs, URLs and product detail to the knowledge base and the specifics in your content come from what's true."
+    footer:
+      - "So your content names your product, your positioning and your proof, instead of guessing."
 
 # ---------------------------------------------------------------------------
 # 5. Before/after

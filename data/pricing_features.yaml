@@ -54,7 +54,7 @@ sections:
             text: "Unlimited"
 
   - id: audience
-    name: "The audience model"
+    name: "Both sides of the brief"
     rows:
       - id: thirty_point
         feature: "30-point audience model"
@@ -74,6 +74,27 @@ sections:
         feature: "Generate per audience and per angle"
         values:
           - check: true
+          - check: true
+          - check: true
+      - id: brand_profiles
+        feature: "Company, brand and offering profiles"
+        desc: "What you do, how you are positioned and what you sell, so content is accurate about you"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: brand_analysis
+        feature: "Profiles built from your website"
+        desc: "Bazam reads your site and fills in positioning, offerings, audiences and competitors"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: multi_brand
+        feature: "Multiple brands per project"
+        desc: "Each with their own offerings, voice and audiences. Personal brands too"
+        values:
+          - check: false
           - check: true
           - check: true
 

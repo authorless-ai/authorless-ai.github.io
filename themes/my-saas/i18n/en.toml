@@ -480,7 +480,7 @@ other = "1 year"
 other = "Unlimited"
 
 [fg_pricing__audience]
-other = "The audience model"
+other = "Both sides of the brief"
 
 [fg_pricing__audience__thirty_point]
 other = "30-point audience model"
@@ -626,4 +626,38 @@ other = "Clients connect their own accounts. You publish on their behalf without
 other = "We use the same frontier models as everyone else. We just brief them properly."
 
 [fg_cmp_chatgpt__generating__quality__bazam]
-other = "Same frontier models"
+other = "Excellent"
+
+
+[fg_cmp_chatgpt__brief__subject]
+other = "What it's writing about"
+
+[fg_cmp_chatgpt__brief__subject__desc]
+other = "Your company, brand and offerings, held as profiles"
+
+[fg_cmp_chatgpt__brief__subject__chatgpt]
+other = "Re-paste it every time"
+
+[fg_cmp_chatgpt__brief__subject__writers]
+other = "Brand kit"
+
+[fg_cmp_chatgpt__brief__subject__bazam]
+other = "Company, brand, offering"
+
+[fg_pricing__audience__brand_profiles]
+other = "Company, brand and offering profiles"
+
+[fg_pricing__audience__brand_profiles__desc]
+other = "What you do, how you are positioned and what you sell, so content is accurate about you"
+
+[fg_pricing__audience__brand_analysis]
+other = "Profiles built from your website"
+
+[fg_pricing__audience__brand_analysis__desc]
+other = "Bazam reads your site and fills in positioning, offerings, audiences and competitors"
+
+[fg_pricing__audience__multi_brand]
+other = "Multiple brands per project"
+
+[fg_pricing__audience__multi_brand__desc]
+other = "Each with their own offerings, voice and audiences. Personal brands too"

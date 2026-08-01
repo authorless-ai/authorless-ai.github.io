@@ -22,6 +22,16 @@ sections:
           - text: "Whatever you typed this time"
           - text: "A text box you filled in once"
           - text: "A 30-point model, per audience"
+      - id: subject
+        feature: "What it's writing about"
+        desc: "Your company, brand and offerings, held as profiles"
+        values:
+          - check: false
+            text: "Re-paste it every time"
+          - check: true
+            text: "Brand kit"
+          - check: true
+            text: "Company, brand, offering"
       - id: drivers
         feature: "Knows what drives them emotionally"
         values:
@@ -62,7 +72,7 @@ sections:
           - check: true
             text: "Excellent"
           - check: true
-            text: "Same frontier models"
+            text: "Excellent"
       - id: angles
         feature: "Different angles per audience"
         values:

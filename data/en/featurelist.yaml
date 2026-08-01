@@ -10,6 +10,7 @@ features:
       - description: "Repurpose what you already have. Point Bazam at a <b>URL, a document, or an audio or video file</b> and a podcast becomes a listicle."
       - description: "Set a <b>brand voice</b> once (formality, enthusiasm, directness, plus your own guidelines) and every piece inherits it."
       - description: "Feed in a <b>knowledge base</b> of docs, URLs and product facts so content works from what's true, not what the AI assumed."
+      - description: "Bazam profiles <b>your side too</b>: company, brand and offerings, pulled from your website, so the content is accurate about you as well as aimed at them."
       - description: "Work where you already are. Bazam's <b>MCP server</b> pulls your audiences, brand voice and channels into Claude, ChatGPT or any other MCP client."
   - iconColor: "primary"
     title: "Publish everywhere"

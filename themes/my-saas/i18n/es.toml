@@ -624,3 +624,37 @@ other = "We use the same frontier models as everyone else. We just brief them pr
 
 [fg_cmp_chatgpt__generating__quality__bazam]
 other = "Same frontier models"  # TODO: translate
+
+
+[fg_cmp_chatgpt__brief__subject]
+other = "What it's writing about"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__subject__desc]
+other = "Your company, brand and offerings, held as profiles"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__subject__chatgpt]
+other = "Re-paste it every time"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__subject__writers]
+other = "Brand kit"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__subject__bazam]
+other = "Company, brand, offering"  # TODO: translate
+
+[fg_pricing__audience__brand_profiles]
+other = "Company, brand and offering profiles"  # TODO: translate
+
+[fg_pricing__audience__brand_profiles__desc]
+other = "What you do, how you are positioned and what you sell, so content is accurate about you"  # TODO: translate
+
+[fg_pricing__audience__brand_analysis]
+other = "Profiles built from your website"  # TODO: translate
+
+[fg_pricing__audience__brand_analysis__desc]
+other = "Bazam reads your site and fills in positioning, offerings, audiences and competitors"  # TODO: translate
+
+[fg_pricing__audience__multi_brand]
+other = "Multiple brands per project"  # TODO: translate
+
+[fg_pricing__audience__multi_brand__desc]
+other = "Each with their own offerings, voice and audiences. Personal brands too"  # TODO: translate
