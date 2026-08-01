@@ -1,43 +1,50 @@
 id: pricing_features
 prefix: fg_pricing
-title: "Compare Plans"
-subtitle: "Everything you need at every level"
+title: "Compare plans"
+subtitle: "Every plan includes the full 30-point audience model and every content type. Plans differ by scale, not by capability."
 
 columns:
-  - id: individual
-    heading: "Individual"
+  - id: starter
+    heading: "Starter"
+  - id: growth
+    heading: "Growth"
+    highlight: true
   - id: team
     heading: "Team"
-    highlight: true
-  - id: enterprise
-    heading: "Enterprise"
 
 sections:
   - id: core
     name: "Core"
     rows:
+      - id: audiences
+        feature: "Audience models"
+        desc: "The 30-point model of each reader you write for"
+        values:
+          - text: "3"
+          - text: "15"
+          - text: "Unlimited"
       - id: users
         feature: "Users"
         values:
           - text: "1"
-          - text: "Unlimited"
+          - text: "3"
           - text: "Unlimited"
       - id: connected_accounts
-        feature: "Connected Accounts"
+        feature: "Connected accounts"
         desc: "Extra accounts are $10/mo each"
         values:
           - text: "5"
           - text: "15"
-          - text: "Unlimited"
+          - text: "40"
       - id: ai_credits
-        feature: "AI Credits Per Month"
-        desc: "1 credit = ~1 post. Advanced features use more. Buy more on-demand"
+        feature: "AI credits per month"
+        desc: "Roughly 1 credit per piece of content. Buy more on demand"
         values:
           - text: "300"
           - text: "900"
-          - text: "Custom"
+          - text: "3,000"
       - id: scheduling_horizon
-        feature: "Scheduling Horizon"
+        feature: "Scheduling horizon"
         values:
           - check: true
             text: "4 weeks"
@@ -46,112 +53,134 @@ sections:
           - check: true
             text: "Unlimited"
 
+  - id: audience
+    name: "The audience model"
+    rows:
+      - id: thirty_point
+        feature: "30-point audience model"
+        desc: "Demographics, psychographics, motivations, emotional drivers, values, personality, buying behaviour and expertise"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: auto_build
+        feature: "Built from a one-line description"
+        desc: "Describe your audience in a sentence; edit anything you disagree with"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: angles
+        feature: "Generate per audience and per angle"
+        values:
+          - check: true
+          - check: true
+          - check: true
+
   - id: content
-    name: "Content Creation"
+    name: "Content creation"
     rows:
       - id: ai_writing
-        feature: "AI Content Writing"
+        feature: "AI content writing"
+        desc: "30+ content types: blog posts, social, ads, case studies, how-tos, listicles, FAQs"
         values:
           - check: true
           - check: true
           - check: true
       - id: ai_images
-        feature: "AI Image Generation"
+        feature: "AI image generation"
         values:
           - check: true
           - check: true
           - check: true
       - id: bulk_create
-        feature: "Bulk Content Creation"
-        desc: "80+ wizards"
+        feature: "Bulk content creation"
+        desc: "Hundreds of pieces from one set of parameters, with near-duplicates removed"
         values:
           - check: true
           - check: true
           - check: true
       - id: content_suggestions
-        feature: "AI Content Suggestions"
+        feature: "AI content suggestions"
         values:
           - check: true
           - check: true
           - check: true
       - id: translation
-        feature: "AI Translation"
-        desc: "60+ languages"
+        feature: "AI translation"
+        desc: "50+ languages, in your brand voice"
         values:
           - check: true
           - check: true
           - check: true
       - id: knowledge_base
-        feature: "Knowledge Base"
+        feature: "Knowledge base"
+        desc: "Your docs, URLs and product facts, used as source material"
+        values:
+          - check: true
+          - check: true
+          - check: true
+      - id: brand_voice
+        feature: "Brand voice configuration"
         values:
           - check: true
           - check: true
           - check: true
 
   - id: publishing
-    name: "Publishing & Scheduling"
+    name: "Publishing & scheduling"
     rows:
       - id: social_publishing
-        feature: "Social Media Publishing"
-        desc: "X; LinkedIn, Facebook, Instagram, Tiktok coming very soon"
+        feature: "Social publishing"
+        desc: "Facebook, Instagram, TikTok, X and LinkedIn, direct"
         values:
           - check: true
           - check: true
           - check: true
       - id: wordpress
-        feature: "WordPress & Shopify Publishing"
+        feature: "WordPress publishing"
         values:
           - check: true
           - check: true
           - check: true
       - id: content_calendar
-        feature: "Visual Content Calendar"
+        feature: "Visual content calendar"
+        desc: "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"
         values:
           - check: true
           - check: true
           - check: true
-
-  - id: strategy
-    name: "Strategy & Analytics"
-    rows:
-      - id: marketing_strategy
-        feature: "Automated Marketing Strategy"
-        desc: "AI builds your marketing plan based on your brand"
-        values:
-          - check: true
-          - check: true
-          - check: true
-      - id: audience_personas
-        feature: "Audience Personas"
-        desc: "Define who you're speaking to for better content"
-        values:
-          - check: true
-          - check: true
-          - check: true
-      - id: brand_voice
-        feature: "Brand Voice Configuration"
+      - id: analytics
+        feature: "Cross-channel analytics"
+        desc: "Engagement and reach normalised across channels, plus Google Analytics conversions and revenue per post"
         values:
           - check: true
           - check: true
           - check: true
 
   - id: team_features
-    name: "Team & Management"
+    name: "Team & management"
     rows:
       - id: projects
-        feature: "Multiple Projects"
+        feature: "Multiple projects and brands"
         values:
           - check: true
           - check: true
           - check: true
       - id: team_members
-        feature: "Team Collaboration"
+        feature: "Team collaboration"
         values:
           - check: false
           - check: true
           - check: true
       - id: approval_workflows
-        feature: "Approval Workflows"
+        feature: "Approval workflows"
+        values:
+          - check: false
+          - check: true
+          - check: true
+      - id: roles
+        feature: "Role-based access control"
         values:
           - check: false
           - check: true
@@ -161,19 +190,19 @@ sections:
     name: "Support"
     rows:
       - id: email_support
-        feature: "Email Support"
+        feature: "Email support"
         values:
           - check: true
           - check: true
           - check: true
       - id: priority_support
-        feature: "Priority Support"
+        feature: "Priority support"
         values:
           - check: false
           - check: false
           - check: true
       - id: dedicated_onboarding
-        feature: "Dedicated Onboarding"
+        feature: "Dedicated onboarding"
         values:
           - check: false
           - check: false

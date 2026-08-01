@@ -58,6 +58,12 @@ def collect_strings(grid: dict) -> list[tuple[str, str]]:
             if row.get("feature"):
                 pairs.append((f"{prefix}__{sec_id}__{row_id}", row["feature"]))
 
+            # Optional sub-label rendered under the feature name
+            if row.get("desc"):
+                pairs.append(
+                    (f"{prefix}__{sec_id}__{row_id}__desc", row["desc"])
+                )
+
             # Cell values (positional — matched to columns by index)
             for idx, val in enumerate(row.get("values", [])):
                 if val.get("text"):

@@ -7,17 +7,20 @@
 
   <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 relative z-10">
       <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
-          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ .title }}</h2>
-          <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ .description }}</p>
+          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ .title | safeHTML }}</h2>
+          <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ .description | safeHTML }}</p>
       </div>
-      <div class="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 md:gap-8 xl:gap-8 md:space-y-0">
+      {{/* Flex rather than grid so a row that isn't full stays centred. Card
+           count can change without leaving a gap hanging off one side. */}}
+      <div class="flex flex-wrap justify-center gap-8">
         {{ range .cards }}
-          <div class="p-6 bg-white rounded shadow dark:bg-gray-800 cursor-pointer hover:bg-gray-50">
-            <a href="{{ .url }}" class="block h-full">
+          <div class="w-full md:w-[calc(50%-1rem)] xl:w-[calc(25%-1.5rem)] p-6 bg-white rounded shadow dark:bg-gray-800 {{ if .url }}cursor-pointer hover:bg-gray-50{{ end }}">
+            {{ if .url }}<a href="{{ .url }}" class="block h-full">{{ else }}<div class="block h-full">{{ end }}
               <div class="flex justify-between items-start">
                 <div class="flex justify-center items-center mb-4 w-10 h-10 rounded bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-900">
                   {{ partial "components/icons.html" (dict "icon" .icon "class" "w-8 h-8 lg:w-6 lg:h-6") }}
                 </div>
+                {{ if .url }}
                 <p class="inline-flex items-center text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-600 hover:underline">
                   <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                     <path fill-rule="evenodd"
@@ -25,10 +28,11 @@
                           clip-rule="evenodd"></path>
                   </svg>
                 </p>
+                {{ end }}
               </div>
               <h3 class="mb-2 text-xl font-bold dark:text-white">{{ .title }}</h3>
-              <p class="text-gray-500 dark:text-gray-400">{{ .description }}</p>
-            </a>
+              <p class="text-gray-500 dark:text-gray-400">{{ .description | safeHTML }}</p>
+            {{ if .url }}</a>{{ else }}</div>{{ end }}
           </div>
         {{ end }}
       </div>

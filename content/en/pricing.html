@@ -1,189 +1,202 @@
 ---
 title: Pricing
+description: "Bazam starts at $39/month. Every plan includes the full 30-point audience model, every content type, publishing to six channels and 50+ languages."
+waitlist:
+  id: "early-access"
+  title: "Get early access"
+  description: "We're onboarding a small number of accounts at a time so every one gets set up properly: audiences modelled, brand voice tuned, channels connected. Tell us who you are and we'll be in touch with a plan that fits."
+  button: "Request access"
 faq:
-  - q: "Can I cancel my subscription?"
+  - q: "Why do you charge by number of audiences?"
     a:
-    - "Yes, you can cancel your Bazam subscription whenever you want. If you cancel, you can still use your account and all its features until your current billing period ends (like the end of the month or year)."
-    - "When your current billing period ends, your access to Bazam and any leftover credits will also end. You won’t be charged again after that."
-  - q: "Can I upgrade or change my Bazam subscription plan?"
+    - "Because the audience model is what does the work. It is what makes your content read as though it was written for someone rather than everyone, and it is what every wizard, channel and translation draws on."
+    - "A solo marketer usually has two or three audiences worth modelling properly. A consultant juggling six clients has a lot more. Charging on audiences means you pay for the depth you use, rather than for a word count you can't predict."
+  - q: "What counts as an AI credit?"
     a:
-    - "Yes, you can upgrade your Bazam plan anytime to get more features, higher credit limits, or other perks that fit what you're doing now."
-    - "To upgrade, just contact us. Upgrades usually start right away, and we'll clearly explain any changes to your bill for the current month."
-  - q: "What does 'X AI Words Per Month' mean, and how is my usage calculated?"
+    - "Roughly one credit per piece of content. Generating a social post, a blog section, an image, or a set of suggestions all draw from the same monthly pool, with the heavier features costing more than the light ones."
+    - "You can see your balance in your account at any time, and buy more whenever you need them."
+  - q: "What happens if I run out of credits?"
     a:
-    - "The 'AI Words Per Month' stated in your plan (e.g., 100k words) is an estimate of the text content you can produce based on typical usage. Your actual content creation depends on how you use Bazam."
-    - "Your allowance covers all AI-powered features, not just generating text. This includes creating AI images, using AI suggestions, and leveraging our AI editor for various tasks. All these activities consume from your monthly quota."
-    - "For example, if you frequently generate images or extensively use AI tools for suggestions and editing, this will reduce the amount of text content you can produce within your plan's allowance. Your usage is flexible, allowing you to prioritize the AI features most valuable to your workflow."
-  - q: "What happens if I run out of AI credits? Can I buy more?"
+    - "Nothing breaks, you just top up. Every plan includes a monthly allowance, and you can buy additional credits on demand from inside your account."
+    - "Credits included with your monthly plan are used within that billing cycle. Credits you buy separately roll over and stay available until you've used them."
+  - q: "Can I change plan later?"
     a:
-    - "Yes, you can! Every Bazam plan gives you a certain amount of AI credits for making content. If you use up your credits before your next bill is due, you can buy more to keep going."
-    - "Buying extra AI credits is easy. Just follow the steps in your account or ask your Bazam contact for help."
-  - q: "Do my Bazam AI credits roll over to the next month?"
+    - "Yes, any time. Upgrades take effect straight away and we'll show you exactly what changes on your current bill."
+    - "If you outgrow a plan mid-month, you don't need to wait for a renewal date."
+  - q: "Can I cancel?"
     a:
-    - "The AI credits that come with your monthly subscription plan do not roll over to the next month. These credits are meant to be used within your current billing cycle."
-    - "However, any additional AI credits that you purchase separately do roll over. This means if you buy extra credits and don't use them all, they'll still be available for you to use in future months until they're gone."
+    - "Whenever you like. You keep full access to your account, your audience models and your remaining credits until the end of the billing period you've already paid for, and you won't be charged again after that."
+  - q: "Do I need a card to join early access?"
+    a:
+    - "No. Early access is an introduction, not a checkout. Tell us who you are and what you're marketing, and we'll get you set up and help you model your first audiences before you decide on a plan."
 ---
 <section class="bg-white dark:bg-gray-900" x-data="{{< pricing-data >}}">
-  <div class="max-w-screen-xl py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
-    <h2 class="logo-font mx-auto text-center lg:mb-12 mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">
-      Get Stress-Free Marketing Now
+  <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
+    <h2 class="logo-font mx-auto text-center lg:mb-8 mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">
+      From $39 a month
     </h2>
     <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
       <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">
-        Experience smarter marketing that works. Get the AI marketing solution you need. Choose your plan for faster, easier results.
+        Every plan includes the full 30-point audience model, every content type, direct publishing to all six channels and 50+ languages. Plans differ by how many audiences, accounts and people you need, not by which features you're allowed.
       </p>
 
-      <div class="flex items-center justify-center mt-4 space-x-3">
+      <div class="flex items-center justify-center mt-6 space-x-3">
         <span class="text-xl text-gray-500 dark:text-white hover:cursor-pointer" :class="{ 'text-gray-900 font-bold': !yearly }"
         @click="yearly = !yearly">
           Monthly
         </span>
-        <!-- Switch Container -->
         <label class="inline-flex items-center cursor-pointer">
           <input type="checkbox" value="" checked class="sr-only peer" x-model="yearly">
           <div class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div>
         </label>
         <span class="text-xl text-gray-900 font-bold dark:text-white hover:cursor-pointer" :class="{ 'text-gray-500 font-normal': !yearly }"
           @click="yearly = !yearly">
-          Yearly
+          Yearly <span class="text-base font-normal text-primary-600">(save ~20%)</span>
         </span>
       </div>
     </div>
 
     <div class="grid gap-8 mt-8 lg:grid-cols-3 lg:gap-10 sm:mt-12">
-      <!-- Pricing Card: Time saver -->
-      <div
-        class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
-          Individual
-        </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
+
+      <!-- Starter -->
+      <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
+        <h3 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Starter</h3>
+        <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">For a team of one</p>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.starter.yearly : plans.starter.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
           <span x-show="yearly">per month, billed annually</span>
           <span x-show="!yearly">per month, billed monthly</span>
         </p>
-        <a href="{{< signup-url >}}"
-          class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white  dark:hover:bg-gray-500 dark:focus:ring-gray-600">Get
-          started</a>
-        <!-- List -->
+        <a href="#early-access"
+          class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Get early access</a>
         <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>1 User</span>
+            <span><b>3</b> audience models</span>
           </li>
-
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>1 user</span>
+          </li>
           <li>
             <div class="flex items-center space-x-3">
               <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>5 Connected Accounts</span>
-              <button data-tooltip-target="tooltip-accounts-ind" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-accounts-ind" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">A social media or other account you connect so we can post on your behalf<div class="tooltip-arrow" data-popper-arrow></div></div>
+              <span>5 connected accounts</span>
+              <button data-tooltip-target="tooltip-accounts-starter" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
+              <div id="tooltip-accounts-starter" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">A social or blog account you connect so Bazam can publish on your behalf<div class="tooltip-arrow" data-popper-arrow></div></div>
             </div>
             <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Extra accounts are $10/mo</p>
           </li>
           <li>
             <div class="flex items-center space-x-3">
               <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>300 AI Credits Per Month</span>
-              <button data-tooltip-target="tooltip-credits-ind" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-credits-ind" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">1 Credit is roughly 1 post. Advanced features use more credits<div class="tooltip-arrow" data-popper-arrow></div></div>
+              <span>300 AI credits per month</span>
+              <button data-tooltip-target="tooltip-credits-starter" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
+              <div id="tooltip-credits-starter" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">Roughly 1 credit per piece of content. Heavier features use more<div class="tooltip-arrow" data-popper-arrow></div></div>
             </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Buy more on-demand</p>
+            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Buy more on demand</p>
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Plan posts 4 weeks in advance</span>
+            <span>Schedule 4 weeks ahead</span>
           </li>
         </ul>
       </div>
 
-      <!-- Pricing Card: Team -->
-      <div
-        class="flex flex-col p-6 text-center bg-white border rounded-lg shadow border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
-          Team
-        </h3>
+      <!-- Growth -->
+      <div class="flex flex-col p-6 text-center bg-white border rounded-lg shadow border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8">
+        <h3 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Growth</h3>
+        <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">For a small marketing team</p>
+        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.growth.yearly : plans.growth.monthly)"></span>
+        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
+          <span x-show="yearly">per month, billed annually</span>
+          <span x-show="!yearly">per month, billed monthly</span>
+        </p>
+        <a href="#early-access"
+          class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 dark:focus:ring-primary-900 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8">Get early access</a>
+        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span><b>15</b> audience models</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>3 users</span>
+          </li>
+          <li>
+            <div class="flex items-center space-x-3">
+              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+              <span>15 connected accounts</span>
+              <button data-tooltip-target="tooltip-accounts-growth" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
+              <div id="tooltip-accounts-growth" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">A social or blog account you connect so Bazam can publish on your behalf<div class="tooltip-arrow" data-popper-arrow></div></div>
+            </div>
+            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Extra accounts are $10/mo</p>
+          </li>
+          <li>
+            <div class="flex items-center space-x-3">
+              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+              <span>900 AI credits per month</span>
+              <button data-tooltip-target="tooltip-credits-growth" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
+              <div id="tooltip-credits-growth" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">Roughly 1 credit per piece of content. Heavier features use more<div class="tooltip-arrow" data-popper-arrow></div></div>
+            </div>
+            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Buy more on demand</p>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Schedule a year ahead</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Team collaboration &amp; approvals</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Team -->
+      <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
+        <h3 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Team</h3>
+        <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">For agencies and multi-brand teams</p>
         <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.team.yearly : plans.team.monthly)"></span>
         <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
-            <span x-show="yearly">per month, billed annually</span>
-            <span x-show="!yearly">per month, billed monthly</span>
+          <span x-show="yearly">per month, billed annually</span>
+          <span x-show="!yearly">per month, billed monthly</span>
         </p>
-        <a href="{{< signup-url >}}"
-          class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 dark:focus:ring-primary-900 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8">Get
-          started</a>
-        <!-- List -->
+        <a href="#early-access"
+          class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Get early access</a>
         <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Unlimited Users</span>
-          </li>
-          <li>
-            <div class="flex items-center space-x-3">
-              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>15 Connected Accounts</span>
-              <button data-tooltip-target="tooltip-accounts-team" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-accounts-team" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">A social media or other account you connect so we can post on your behalf<div class="tooltip-arrow" data-popper-arrow></div></div>
-            </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Extra accounts are $10/mo</p>
-          </li>
-          <li>
-            <div class="flex items-center space-x-3">
-              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>900 AI Credits Per Month</span>
-              <button data-tooltip-target="tooltip-credits-team" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-credits-team" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">1 Credit is roughly 1 post. Advanced features use more credits<div class="tooltip-arrow" data-popper-arrow></div></div>
-            </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Buy more on-demand</p>
+            <span><b>Unlimited</b> audience models</span>
           </li>
           <li class="flex items-center space-x-3">
             <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-             <span>Plan posts 1 year in advance</span>
+            <span>Unlimited users</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>40 connected accounts</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>3,000 AI credits per month</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Unlimited scheduling horizon</span>
+          </li>
+          <li class="flex items-center space-x-3">
+            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            <span>Priority support &amp; onboarding</span>
           </li>
         </ul>
       </div>
-
-      <!-- Pricing Card: Enterprise -->
-      <div
-        class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">
-          Enterprise
-        </h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white">Custom</span>
-        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">
-          tailored to your needs
-        </p>
-        <a href="/contact/"
-          class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Talk
-          to sales</a>
-        <!-- List -->
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Everything in Team</span>
-          </li>
-
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Unlimited Social Accounts</span>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Custom AI Credits</span>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Dedicated Onboarding</span>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Priority Support</span>
-          </li>
-        </ul>
-      </div>
-
 
     </div>
+
+    <p class="mt-10 text-gray-500 dark:text-gray-400">
+      Need more than this, or something shaped differently? <a href="/contact/" class="text-primary-600 dark:text-primary-500 font-medium hover:underline">Talk to us</a>.
+    </p>
   </div>
 </section>
 
-{{< feature-grid "pricing_features" "true" >}}
+{{< feature-grid "pricing_features" "false" >}}

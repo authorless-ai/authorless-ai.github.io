@@ -4,7 +4,7 @@
         <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. All Rights Reserved.</span>
   {{ else }}
     <div class="p-4 py-6 mx-auto max-w-screen-xl md:p-8 lg:-10">
-        <div class="grid grid-cols-2 gap-8 lg:grid-cols-5">
+        <div class="grid grid-cols-2 gap-8 lg:grid-cols-4">
             <div class="col-span-2">
                 <a href="/" class="flex items-center mb-2 text-2xl font-semibold text-gray-900 sm:mb-0 dark:text-white">
                     {{/**
@@ -89,21 +89,11 @@
                 </div>
             </div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "features" }}</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "product" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
-                  {{ range .Site.Menus.featuresmenu }}
+                  {{ range .Site.Menus.main }}
                     <li class="mb-4">
-                        <a href="{{ .URL }}" class=" hover:underline">{{ .Name }}</a>
-                    </li>
-                  {{ end }}
-                </ul>
-            </div>
-            <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "solutions" }}</h2>
-                <ul class="text-gray-500 dark:text-gray-400">
-                  {{ range .Site.Menus.solutionsmenu }}
-                    <li class="mb-4">
-                        <a href="{{ .URL }}" class=" hover:underline">{{ .Name }}</a>
+                        <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
                     </li>
                   {{ end }}
                 </ul>
@@ -112,7 +102,7 @@
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "resources" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
-                        <a href="{{ "blog/" | relLangURL }}" class="hover:underline">{{ T "blog" }}</a>
+                        <a href="/#early-access" class="hover:underline">{{ T "signUp" }}</a>
                     </li>
                     <li class="mb-4">
                         <a href="{{ "faqs/" | relLangURL }}" class="hover:underline">{{ T "faq" }}</a>

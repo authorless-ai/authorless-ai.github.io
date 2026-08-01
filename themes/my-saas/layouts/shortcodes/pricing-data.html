@@ -3,9 +3,13 @@
   currencyPrefix: '{{ $pricing.currency_prefix }}',
   currencySuffix: '{{ $pricing.currency_suffix }}',
   plans: {
-    timeSaver: {
-      monthly: {{ $pricing.individual.monthly }},
-      yearly: {{ $pricing.individual.yearly }}
+    starter: {
+      monthly: {{ $pricing.starter.monthly }},
+      yearly: {{ $pricing.starter.yearly }}
+    },
+    growth: {
+      monthly: {{ $pricing.growth.monthly }},
+      yearly: {{ $pricing.growth.yearly }}
     },
     team: {
       monthly: {{ $pricing.team.monthly }},

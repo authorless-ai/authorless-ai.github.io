@@ -158,275 +158,434 @@ other = "in"
 other = "am"
 
 
-[fg_cmp_hootsuite__title]
-other = "Bazam vs Hootsuite"
-
-[fg_cmp_hootsuite__subtitle]
-other = "Vergleichen Sie Bazam mit Hootsuite bei den wichtigsten Marketing-Funktionen"
-
-[fg_cmp_hootsuite__bazam]
-other = "Bazam"
-
-[fg_cmp_hootsuite__hootsuite]
-other = "Hootsuite"
-
-[fg_cmp_hootsuite__content_creation]
-other = "Inhaltserstellung"
-
-[fg_cmp_hootsuite__content_creation__ai_writing]
-other = "KI-Inhaltserstellung"
-
-[fg_cmp_hootsuite__content_creation__ai_writing__bazam]
-other = "Blogbeiträge, Social Media, Anzeigen, Pressemitteilungen"
-
-[fg_cmp_hootsuite__content_creation__ai_images]
-other = "KI-Bildgenerierung"
-
-[fg_cmp_hootsuite__content_creation__ai_images__hootsuite]
-other = "Über Canva-Integration"
-
-[fg_cmp_hootsuite__content_creation__bulk_create]
-other = "Massen-Inhaltserstellung"
-
-[fg_cmp_hootsuite__content_creation__content_suggestions]
-other = "KI-Inhaltsvorschläge"
-
-[fg_cmp_hootsuite__content_creation__content_suggestions__bazam]
-other = "Strategiebasierte Vorschläge"
-
-[fg_cmp_hootsuite__content_creation__content_suggestions__hootsuite]
-other = "Einfache Empfehlungen"
-
-[fg_cmp_hootsuite__content_creation__translation]
-other = "KI-Inhaltsübersetzung"
-
-[fg_cmp_hootsuite__content_creation__knowledge_base]
-other = "Wissensdatenbank"
-
-[fg_cmp_hootsuite__content_creation__knowledge_base__bazam]
-other = "Dokumente, URLs, Produktinfos"
-
-[fg_cmp_hootsuite__publishing]
-other = "Veröffentlichung und Planung"
-
-[fg_cmp_hootsuite__publishing__social_publishing]
-other = "Social-Media-Veröffentlichung"
-
-[fg_cmp_hootsuite__publishing__wordpress]
-other = "WordPress-Veröffentlichung"
-
-[fg_cmp_hootsuite__publishing__content_calendar]
-other = "Visueller Inhaltskalender"
-
-[fg_cmp_hootsuite__publishing__best_time]
-other = "Beste Veröffentlichungszeit"
-
-[fg_cmp_hootsuite__strategy]
-other = "Strategie und Analysen"
-
-[fg_cmp_hootsuite__strategy__marketing_strategy]
-other = "Automatisierte Marketingstrategie"
-
-[fg_cmp_hootsuite__strategy__marketing_strategy__bazam]
-other = "Vollständige Customer-Journey-Abbildung"
-
-[fg_cmp_hootsuite__strategy__audience_personas]
-other = "Zielgruppen-Personas"
-
-[fg_cmp_hootsuite__strategy__audience_personas__bazam]
-other = "KI-generiert mit Demografie, Motivationen, Kaufverhalten"
-
-[fg_cmp_hootsuite__strategy__brand_voice]
-other = "Markenstimme"
-
-[fg_cmp_hootsuite__strategy__analytics]
-other = "Analysen und Berichte"
-
-[fg_cmp_hootsuite__strategy__analytics__hootsuite]
-other = "Erweiterte Analysen"
-
-[fg_cmp_hootsuite__team_features]
-other = "Team und Verwaltung"
-
-[fg_cmp_hootsuite__team_features__team_collab]
-other = "Teamzusammenarbeit"
-
-[fg_cmp_hootsuite__team_features__projects]
-other = "Mehrere Marken/Projekte"
-
-[fg_cmp_hootsuite__team_features__approval_workflows]
-other = "Genehmigungsworkflows"
-
-[fg_cmp_hootsuite__pricing]
-other = "Preise"
-
-[fg_cmp_hootsuite__pricing__starting_price]
-other = "Einstiegspreis"
-
-[fg_cmp_hootsuite__pricing__starting_price__bazam]
-other = "$29/mo"
-
-[fg_cmp_hootsuite__pricing__starting_price__hootsuite]
-other = "$99/mo"
-
-[fg_cmp_hootsuite__pricing__free_trial]
-other = "Kostenlose Testversion"
-
-[fg_pricing__title]
-other = "Pläne vergleichen"
-
-[fg_pricing__subtitle]
-other = "Alles, was Sie auf jeder Stufe brauchen"
-
-[fg_pricing__individual]
-other = "Einzelperson"
-
-[fg_pricing__team]
-other = "Team"
-
-[fg_pricing__enterprise]
-other = "Unternehmen"
-
-[fg_pricing__core]
-other = "Kernfunktionen"
-
-[fg_pricing__core__users]
-other = "Benutzer"
-
-[fg_pricing__core__users__individual]
-other = "1"
-
-[fg_pricing__core__users__team]
-other = "Unbegrenzt"
-
-[fg_pricing__core__users__enterprise]
-other = "Unbegrenzt"
-
-[fg_pricing__core__connected_accounts]
-other = "Verbundene Konten"
-
-[fg_pricing__core__connected_accounts__desc]
-other = "Zusätzliche Konten kosten $10/Monat"
-
-[fg_pricing__core__connected_accounts__individual]
-other = "5"
-
-[fg_pricing__core__connected_accounts__team]
-other = "15"
-
-[fg_pricing__core__connected_accounts__enterprise]
-other = "Unbegrenzt"
-
-[fg_pricing__core__ai_credits]
-other = "KI-Credits pro Monat"
-
-[fg_pricing__core__ai_credits__desc]
-other = "1 Credit = ~1 Beitrag. Erweiterte Funktionen verbrauchen mehr. Mehr bei Bedarf kaufen"
-
-[fg_pricing__core__ai_credits__individual]
-other = "300"
-
-[fg_pricing__core__ai_credits__team]
-other = "900"
-
-[fg_pricing__core__ai_credits__enterprise]
-other = "Individuell"
-
-[fg_pricing__core__scheduling_horizon]
-other = "Planungshorizont"
-
-[fg_pricing__core__scheduling_horizon__individual]
-other = "4 Wochen"
-
-[fg_pricing__core__scheduling_horizon__team]
-other = "1 Jahr"
-
-[fg_pricing__core__scheduling_horizon__enterprise]
-other = "Unbegrenzt"
-
-[fg_pricing__content]
-other = "Inhaltserstellung"
-
-[fg_pricing__content__ai_writing]
-other = "KI-Inhaltserstellung"
-
-[fg_pricing__content__ai_images]
-other = "KI-Bildgenerierung"
-
-[fg_pricing__content__bulk_create]
-other = "Massen-Inhaltserstellung"
-
-[fg_pricing__content__bulk_create__desc]
-other = "80+ Assistenten"
-
-[fg_pricing__content__content_suggestions]
-other = "KI-Inhaltsvorschläge"
-
-[fg_pricing__content__translation]
-other = "KI-Übersetzung"
-
-[fg_pricing__content__translation__desc]
-other = "60+ Sprachen"
-
-[fg_pricing__content__knowledge_base]
-other = "Wissensdatenbank"
-
-[fg_pricing__publishing]
-other = "Veröffentlichung und Planung"
-
-[fg_pricing__publishing__social_publishing]
-other = "Social-Media-Veröffentlichung"
-
-[fg_pricing__publishing__social_publishing__desc]
-other = "X; LinkedIn, Facebook, Instagram, Tiktok kommt sehr bald"
-
-[fg_pricing__publishing__wordpress]
-other = "WordPress- und Shopify-Veröffentlichung"
-
-[fg_pricing__publishing__content_calendar]
-other = "Visueller Inhaltskalender"
-
-[fg_pricing__strategy]
-other = "Strategie und Analysen"
-
-[fg_pricing__strategy__marketing_strategy]
-other = "Automatisierte Marketingstrategie"
-
-[fg_pricing__strategy__marketing_strategy__desc]
-other = "KI erstellt Ihren Marketingplan basierend auf Ihrer Marke"
-
-[fg_pricing__strategy__audience_personas]
-other = "Zielgruppen-Personas"
-
-[fg_pricing__strategy__audience_personas__desc]
-other = "Definieren Sie, wen Sie ansprechen, für besseren Content"
-
-[fg_pricing__strategy__brand_voice]
-other = "Markenstimme-Konfiguration"
-
-[fg_pricing__team_features]
-other = "Team und Verwaltung"
-
-[fg_pricing__team_features__projects]
-other = "Mehrere Projekte"
-
-[fg_pricing__team_features__team_members]
-other = "Teamzusammenarbeit"
-
-[fg_pricing__team_features__approval_workflows]
-other = "Genehmigungsworkflows"
-
-[fg_pricing__support]
-other = "Support"
-
-[fg_pricing__support__email_support]
-other = "E-Mail-Support"
-
-[fg_pricing__support__priority_support]
-other = "Prioritäts-Support"
-
-[fg_pricing__support__dedicated_onboarding]
-other = "Dediziertes Onboarding"
-
 [cookiePreferences]
 other = "Cookie-Einstellungen"
+
+
+[fg_cmp_hootsuite__title]
+other = "Bazam vs Hootsuite"  # TODO: translate
+
+[fg_cmp_hootsuite__subtitle]
+other = "See how Bazam compares to Hootsuite across key marketing features"  # TODO: translate
+
+[fg_cmp_hootsuite__bazam]
+other = "Bazam"  # TODO: translate
+
+[fg_cmp_hootsuite__hootsuite]
+other = "Hootsuite"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation]
+other = "Content Creation"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__ai_writing]
+other = "AI Content Writing"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__ai_writing__bazam]
+other = "Blog posts, social, ads, press releases"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__ai_images]
+other = "AI Image Generation"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__ai_images__hootsuite]
+other = "Via Canva integration"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__bulk_create]
+other = "Bulk Content Creation"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__content_suggestions]
+other = "AI Content Suggestions"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__content_suggestions__bazam]
+other = "Strategy-driven suggestions"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__content_suggestions__hootsuite]
+other = "Basic recommendations"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__translation]
+other = "AI Content Translation"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__knowledge_base]
+other = "Knowledge Base"  # TODO: translate
+
+[fg_cmp_hootsuite__content_creation__knowledge_base__bazam]
+other = "Docs, URLs, product info"  # TODO: translate
+
+[fg_cmp_hootsuite__publishing]
+other = "Publishing & Scheduling"  # TODO: translate
+
+[fg_cmp_hootsuite__publishing__social_publishing]
+other = "Social Media Publishing"  # TODO: translate
+
+[fg_cmp_hootsuite__publishing__wordpress]
+other = "WordPress Publishing"  # TODO: translate
+
+[fg_cmp_hootsuite__publishing__content_calendar]
+other = "Visual Content Calendar"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy]
+other = "Strategy & Analytics"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy__marketing_strategy]
+other = "Automated Marketing Strategy"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy__marketing_strategy__bazam]
+other = "Full customer journey mapping"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy__audience_personas]
+other = "Audience Personas"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy__audience_personas__bazam]
+other = "AI-generated with demographics, motivations, buying behaviour"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy__brand_voice]
+other = "Brand Voice"  # TODO: translate
+
+[fg_cmp_hootsuite__strategy__analytics]
+other = "Analytics & Reporting"  # TODO: translate
+
+[fg_cmp_hootsuite__team_features]
+other = "Team & Management"  # TODO: translate
+
+[fg_cmp_hootsuite__team_features__team_collab]
+other = "Team Collaboration"  # TODO: translate
+
+[fg_cmp_hootsuite__team_features__projects]
+other = "Multiple Brands/Projects"  # TODO: translate
+
+[fg_cmp_hootsuite__team_features__approval_workflows]
+other = "Approval Workflows"  # TODO: translate
+
+[fg_cmp_hootsuite__pricing]
+other = "Pricing"  # TODO: translate
+
+[fg_cmp_hootsuite__pricing__starting_price]
+other = "Starting Price"  # TODO: translate
+
+[fg_cmp_hootsuite__pricing__starting_price__bazam]
+other = "$29/mo"  # TODO: translate
+
+[fg_cmp_hootsuite__pricing__starting_price__hootsuite]
+other = "$99/mo"  # TODO: translate
+
+[fg_cmp_hootsuite__pricing__free_trial]
+other = "Free Trial"  # TODO: translate
+
+
+[fg_cmp_chatgpt__title]
+other = "Bazam, ChatGPT, and the AI writing tools"  # TODO: translate
+
+[fg_cmp_chatgpt__subtitle]
+other = "We run on the same AI models everyone else does. What differs is what those models get told about your reader, so that is where the comparison is worth making."  # TODO: translate
+
+[fg_cmp_chatgpt__chatgpt]
+other = "ChatGPT"  # TODO: translate
+
+[fg_cmp_chatgpt__writers]
+other = "Jasper / Copy.ai"  # TODO: translate
+
+[fg_cmp_chatgpt__bazam]
+other = "Bazam"  # TODO: translate
+
+[fg_cmp_chatgpt__brief]
+other = "What the AI is told"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__reader]
+other = "Who it's writing to"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__reader__chatgpt]
+other = "Whatever you typed this time"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__reader__writers]
+other = "A text box you filled in once"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__reader__bazam]
+other = "A 30-point model, per audience"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__drivers]
+other = "Knows what drives them emotionally"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__beliefs]
+other = "Knows their values and beliefs"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__behaviour]
+other = "Knows how they make decisions"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__behaviour__desc]
+other = "Impulsive, considered, risk-averse, price-led"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__persists]
+other = "Survives between sessions"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__persists__chatgpt]
+other = "Gone with the chat"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__persists__writers]
+other = "The box does"  # TODO: translate
+
+[fg_cmp_chatgpt__brief__persists__bazam]
+other = "The model is yours"  # TODO: translate
+
+[fg_cmp_chatgpt__generating]
+other = "Generating"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__quality]
+other = "Draft quality from a good prompt"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__quality__chatgpt]
+other = "Excellent"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__quality__writers]
+other = "Excellent"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__quality__bazam]
+other = "Same models"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__angles]
+other = "Different angles per audience"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__angles__chatgpt]
+other = "Only if you re-prompt"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__formats]
+other = "Marketing formats built in"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__voice]
+other = "Brand voice applied automatically"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__knowledge]
+other = "Writes from your own documents"  # TODO: translate
+
+[fg_cmp_chatgpt__generating__knowledge__chatgpt]
+other = "If you upload them each time"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping]
+other = "Getting it out the door"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__translation]
+other = "Translation into 50+ languages"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__translation__chatgpt]
+other = "One piece at a time, by hand"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__publishing]
+other = "Publishes to your channels"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__publishing__bazam]
+other = "6 platforms, direct"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__scheduling]
+other = "Content calendar and scheduling"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__analytics]
+other = "Cross-channel analytics"  # TODO: translate
+
+[fg_cmp_chatgpt__shipping__approvals]
+other = "Approval workflow"  # TODO: translate
+
+[fg_cmp_chatgpt__cost]
+other = "Cost"  # TODO: translate
+
+[fg_cmp_chatgpt__cost__price]
+other = "Typical price"  # TODO: translate
+
+[fg_cmp_chatgpt__cost__price__chatgpt]
+other = "~$20/month"  # TODO: translate
+
+[fg_cmp_chatgpt__cost__price__writers]
+other = "$39–69/month per seat"  # TODO: translate
+
+[fg_cmp_chatgpt__cost__price__bazam]
+other = "From $39/month"  # TODO: translate
+
+
+[fg_pricing__title]
+other = "Compare plans"  # TODO: translate
+
+[fg_pricing__subtitle]
+other = "Every plan includes the full 30-point audience model and every content type. Plans differ by scale, not by capability."  # TODO: translate
+
+[fg_pricing__starter]
+other = "Starter"  # TODO: translate
+
+[fg_pricing__growth]
+other = "Growth"  # TODO: translate
+
+[fg_pricing__team]
+other = "Team"  # TODO: translate
+
+[fg_pricing__core]
+other = "Core"  # TODO: translate
+
+[fg_pricing__core__audiences]
+other = "Audience models"  # TODO: translate
+
+[fg_pricing__core__audiences__desc]
+other = "The 30-point model of each reader you write for"  # TODO: translate
+
+[fg_pricing__core__audiences__starter]
+other = "3"  # TODO: translate
+
+[fg_pricing__core__audiences__growth]
+other = "15"  # TODO: translate
+
+[fg_pricing__core__audiences__team]
+other = "Unlimited"  # TODO: translate
+
+[fg_pricing__core__users]
+other = "Users"  # TODO: translate
+
+[fg_pricing__core__users__starter]
+other = "1"  # TODO: translate
+
+[fg_pricing__core__users__growth]
+other = "3"  # TODO: translate
+
+[fg_pricing__core__users__team]
+other = "Unlimited"  # TODO: translate
+
+[fg_pricing__core__connected_accounts]
+other = "Connected accounts"  # TODO: translate
+
+[fg_pricing__core__connected_accounts__desc]
+other = "Extra accounts are $10/mo each"  # TODO: translate
+
+[fg_pricing__core__connected_accounts__starter]
+other = "5"  # TODO: translate
+
+[fg_pricing__core__connected_accounts__growth]
+other = "15"  # TODO: translate
+
+[fg_pricing__core__connected_accounts__team]
+other = "40"  # TODO: translate
+
+[fg_pricing__core__ai_credits]
+other = "AI credits per month"  # TODO: translate
+
+[fg_pricing__core__ai_credits__desc]
+other = "Roughly 1 credit per piece of content. Buy more on demand"  # TODO: translate
+
+[fg_pricing__core__ai_credits__starter]
+other = "300"  # TODO: translate
+
+[fg_pricing__core__ai_credits__growth]
+other = "900"  # TODO: translate
+
+[fg_pricing__core__ai_credits__team]
+other = "3,000"  # TODO: translate
+
+[fg_pricing__core__scheduling_horizon]
+other = "Scheduling horizon"  # TODO: translate
+
+[fg_pricing__core__scheduling_horizon__starter]
+other = "4 weeks"  # TODO: translate
+
+[fg_pricing__core__scheduling_horizon__growth]
+other = "1 year"  # TODO: translate
+
+[fg_pricing__core__scheduling_horizon__team]
+other = "Unlimited"  # TODO: translate
+
+[fg_pricing__audience]
+other = "The audience model"  # TODO: translate
+
+[fg_pricing__audience__thirty_point]
+other = "30-point audience model"  # TODO: translate
+
+[fg_pricing__audience__thirty_point__desc]
+other = "Demographics, psychographics, motivations, emotional drivers, values, personality, buying behaviour and expertise"  # TODO: translate
+
+[fg_pricing__audience__auto_build]
+other = "Built from a one-line description"  # TODO: translate
+
+[fg_pricing__audience__auto_build__desc]
+other = "Describe your audience in a sentence; edit anything you disagree with"  # TODO: translate
+
+[fg_pricing__audience__angles]
+other = "Generate per audience and per angle"  # TODO: translate
+
+[fg_pricing__content]
+other = "Content creation"  # TODO: translate
+
+[fg_pricing__content__ai_writing]
+other = "AI content writing"  # TODO: translate
+
+[fg_pricing__content__ai_writing__desc]
+other = "30+ content types: blog posts, social, ads, case studies, how-tos, listicles, FAQs"  # TODO: translate
+
+[fg_pricing__content__ai_images]
+other = "AI image generation"  # TODO: translate
+
+[fg_pricing__content__bulk_create]
+other = "Bulk content creation"  # TODO: translate
+
+[fg_pricing__content__bulk_create__desc]
+other = "Hundreds of pieces from one set of parameters, with near-duplicates removed"  # TODO: translate
+
+[fg_pricing__content__content_suggestions]
+other = "AI content suggestions"  # TODO: translate
+
+[fg_pricing__content__translation]
+other = "AI translation"  # TODO: translate
+
+[fg_pricing__content__translation__desc]
+other = "50+ languages, in your brand voice"  # TODO: translate
+
+[fg_pricing__content__knowledge_base]
+other = "Knowledge base"  # TODO: translate
+
+[fg_pricing__content__knowledge_base__desc]
+other = "Your docs, URLs and product facts, used as source material"  # TODO: translate
+
+[fg_pricing__content__brand_voice]
+other = "Brand voice configuration"  # TODO: translate
+
+[fg_pricing__publishing]
+other = "Publishing & scheduling"  # TODO: translate
+
+[fg_pricing__publishing__social_publishing]
+other = "Social publishing"  # TODO: translate
+
+[fg_pricing__publishing__social_publishing__desc]
+other = "Facebook, Instagram, TikTok, X and LinkedIn, direct"  # TODO: translate
+
+[fg_pricing__publishing__wordpress]
+other = "WordPress publishing"  # TODO: translate
+
+[fg_pricing__publishing__content_calendar]
+other = "Visual content calendar"  # TODO: translate
+
+[fg_pricing__publishing__content_calendar__desc]
+other = "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"  # TODO: translate
+
+[fg_pricing__publishing__analytics]
+other = "Cross-channel analytics"  # TODO: translate
+
+[fg_pricing__publishing__analytics__desc]
+other = "Engagement and reach normalised across channels, plus Google Analytics conversions and revenue per post"  # TODO: translate
+
+[fg_pricing__team_features]
+other = "Team & management"  # TODO: translate
+
+[fg_pricing__team_features__projects]
+other = "Multiple projects and brands"  # TODO: translate
+
+[fg_pricing__team_features__team_members]
+other = "Team collaboration"  # TODO: translate
+
+[fg_pricing__team_features__approval_workflows]
+other = "Approval workflows"  # TODO: translate
+
+[fg_pricing__team_features__roles]
+other = "Role-based access control"  # TODO: translate
+
+[fg_pricing__support]
+other = "Support"  # TODO: translate
+
+[fg_pricing__support__email_support]
+other = "Email support"  # TODO: translate
+
+[fg_pricing__support__priority_support]
+other = "Priority support"  # TODO: translate
+
+[fg_pricing__support__dedicated_onboarding]
+other = "Dedicated onboarding"  # TODO: translate

@@ -1,0 +1,54 @@
+{{/*
+  Marketing page layout.
+
+  A flexible single-page layout for the small set of marketing pages beyond the
+  homepage. Every block is optional — set the matching front-matter key and it
+  renders; omit it and it doesn't. Order is fixed so the argument always runs
+  the same way: claim → prose → mechanism → contrast → depth → evidence →
+  comparison → what's next → objections → ask.
+
+  Opt in with `layout: marketing` in front matter.
+*/}}
+{{ define "main" }}
+
+  {{ partial "index/hero.html" . }}
+
+  {{ with .Content }}
+  <section class="bg-white dark:bg-gray-900">
+    <div class="py-8 px-4 mx-auto w-full max-w-2xl sm:py-16 lg:px-6 format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
+      {{ . }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* The comparison table is the payload on a "vs" page, so it sits directly
+       under the prose that sets it up rather than at the end. */}}
+  {{ with .Params.comparisonGrid }}
+    {{ partial "components/feature-grid.html" (dict "grid" (index hugo.Data .) "context" $ "showCta" false) }}
+  {{ end }}
+
+  {{ if .Params.featureList }}
+    {{ partial "index/features-3-cols-stripe.html" . }}
+  {{ end }}
+
+  {{ partial "index/two-panel.html" (dict "data" .Params.contrast "context" .) }}
+
+  {{ if .Params.features }}
+    {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" (len .Params.features)) }}
+  {{ end }}
+
+  {{ partial "index/evidence.html" (dict "data" .Params.evidence "context" .) }}
+
+  {{ partial "index/two-panel.html" (dict "data" .Params.sample "context" .) }}
+
+  {{ with .Params.topFeatures }}
+    {{ partial "solution/feature-list.html" $ }}
+  {{ end }}
+
+  {{ if .Params.faq }}
+    {{ partial "faq.html" . }}
+  {{ end }}
+
+  {{ partial "waitlist-form.html" (dict "data" .Params.waitlist "context" .) }}
+
+{{ end }}

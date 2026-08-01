@@ -1,0 +1,68 @@
+{{/*
+  Evidence Partial
+
+  Cited third-party research, shown as stat cards with visible sources.
+  This block does the job that customer logos and case-study numbers do on
+  competitor sites. It turns the hero's claim into a measured one.
+
+  Usage:
+    {{ partial "index/evidence.html" (dict "data" .Params.evidence "context" .) }}
+
+  Data shape:
+    title / description   section heading and subhead
+    stats:
+      - figure            the big number, e.g. "47%"
+        against           optional contrast figure, e.g. "vs 9% for targeting"
+        title             one-line claim
+        description       what it means for the reader
+        source            citation text
+        sourceUrl         optional link
+    footer                closing line
+*/}}
+
+{{ $data := .data }}
+{{ if $data }}
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+    {{ if or $data.title $data.description }}
+    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="grid gap-8 md:grid-cols-2 lg:gap-10">
+      {{ range $data.stats }}
+      <div class="flex flex-col h-full p-6 sm:p-8 bg-slate-50 dark:bg-gray-800 rounded-xl border border-slate-200 dark:border-gray-700">
+        <div class="flex items-baseline flex-wrap gap-x-3 mb-4">
+          <span class="logo-font text-5xl lg:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to">{{ .figure }}</span>
+          {{ with .against }}
+          <span class="text-lg font-medium text-gray-400 dark:text-gray-500">{{ . | safeHTML }}</span>
+          {{ end }}
+        </div>
+        <h3 class="mb-3 text-xl font-bold text-gray-900 dark:text-white">{{ .title | safeHTML }}</h3>
+        <p class="flex-1 text-gray-600 dark:text-gray-400 lg:text-lg">{{ .description | safeHTML }}</p>
+        {{ if .source }}
+        <p class="mt-5 pt-4 border-t border-slate-200 dark:border-gray-700 text-sm text-gray-500 dark:text-gray-400">
+          <span class="font-medium">Source:</span>
+          {{ if .sourceUrl }}
+          <a href="{{ .sourceUrl }}" rel="nofollow noopener" target="_blank" class="text-primary-600 dark:text-primary-500 hover:underline">{{ .source }}</a>
+          {{ else }}
+          {{ .source }}
+          {{ end }}
+        </p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{ with $data.footer }}
+    <p class="mt-10 mx-auto max-w-3xl text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | safeHTML }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

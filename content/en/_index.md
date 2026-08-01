@@ -1,234 +1,196 @@
 ---
-title: "Your Always-on Virtual Marketing Department"
-superTitle: "Meet Your AI Marketing Agent"
+title: "Your AI doesn't know who it's writing to."
+superTitle: "The 30-Point Audience Model"
+description: "Bazam builds a 30-point model of your reader, then writes, translates, schedules and publishes everything to it. Content written for someone, not everyone."
+ctaText: "Get early access"
+ctaUrl: "#early-access"
+
 heroDescription:
-  - "An autonomous AI agent that knows your brand inside out. Ask it to create content, pull analytics, brainstorm campaigns, research competitors, or brief new team members — all through a single conversation."
-  - "Bazam gives your team an <b>always-on, brand-aware teammate</b> that handles the work you'd rather not do manually — so you can focus on what actually grows your business."
-youtubeUrl: "4iu6ap8dJbU"
+  - "Ask any AI to write you a post and it writes to nobody in particular, because nobody in particular is who you told it about."
+  - "Bazam builds a <b>30-point model of your reader</b>: what drives them, what they believe, how they decide. Then it writes, translates, schedules and publishes everything to that model."
 
-segmentPills:
-  - title: "For Agencies"
-    url: "/solutions/agencies/"
-  - title: "For Businesses"
-    url: "/solutions/businesses/"
-  - title: "For Thought Leaders"
-    url: "/solutions/thought-leaders/"
-  - title: "For Non-Profits"
-    url: "/solutions/non-profits/"
-  - title: "For Creators"
-    url: "/solutions/influencers/"
-  - title: "For Dropshippers"
-    url: "/solutions/dropshippers/"
+# ---------------------------------------------------------------------------
+# 2. Contrast
+# ---------------------------------------------------------------------------
+contrast:
+  title: "Every other tool asks you to describe your audience in a text box."
+  description: "Then it writes to whatever you typed."
+  left:
+    badge: "Every other AI tool"
+    label: "What they call an audience"
+    tone: "muted"
+    field:
+      label: "Who is this for?"
+      value: "small business owners, 30-50"
+    caption: "Eight words. That is the entire brief your AI is working from, and it is the same eight words for every piece of content you will ever generate."
+  right:
+    badge: "Bazam"
+    label: "What we call an audience"
+    tone: "brand"
+    placeholder: "Screenshot of a fully-populated audience model in Bazam, with every section expanded so the field count reads at a glance. Use a recognisable audience and make sure the emotional drivers, values and buying-behaviour fields contain real, specific text. This image is the most important asset on the site."
+    caption: "30+ points covering demographics, psychographics, motivations, emotional drivers, values and beliefs, personality traits, interests, buying behaviour and expertise. Built once, then used by every wizard, every channel and every language."
+  footer: "Same AI models. Same prompt. Completely different brief."
 
-introFeatures:
-  - title: "Content at the Speed of Conversation"
-    description: "Tell the agent what you need — blog posts, social campaigns, press releases — and get on-brand drafts in minutes, not days."
-    url: "/features/content-writing/"
-  - title: "Your Brand Intelligence, Always On"
-    description: "The agent absorbs your brand voice, audience personas, knowledge base, and campaign history. Anyone on your team can access it instantly through a chat."
-    url: "/features/marketing-strategy/"
-  - title: "Every Channel, One Dashboard"
-    description: "Track engagement, reach, and growth across all your platforms in a single view. Ask the agent for a summary instead of logging into five tools."
-    url: "/features/agent/"
+# ---------------------------------------------------------------------------
+# 3. Evidence
+# ---------------------------------------------------------------------------
+evidence:
+  title: "The words are the lever. Every ad platform optimises the other half."
+  description: "Two findings sit underneath the design."
+  stats:
+    - figure: "47%"
+      against: "vs 9% for targeting"
+      title: "What you say is worth five times what the targeting is worth."
+      description: "Nielsen decomposed sales lift across roughly 500 campaigns. Creative accounted for 47% of it, rising to <b>56% in digital</b>. Targeting accounted for 9%. Meta and Google pour their effort into the 9%. Bazam works on the half that moves the number."
+      source: "Nielsen Catalina Solutions, 2017"
+    - figure: "106,000"
+      against: "people, across 88 studies"
+      title: "Writing to the reader beats writing to everyone."
+      description: "A meta-analysis of 88 interventions covering 106,243 people found tailored messages outperformed generic ones, and that tailoring which adapts over time outperformed tailoring done once. <b>The more the writer knows about the reader, the harder the message works.</b>"
+      source: "Krebs, Prochaska &amp; Rossi, Preventive Medicine, 2010"
+  footer: "That is the argument for a 30-point model over a text box. Every field you fill in is one more thing the message can be right about."
 
-carousel:
-  title: "See It in Action"
-  images:
-    - small: "images/carousel/1-mega-create-sm.png"
-      large: "images/carousel/1-mega-create.png"
-      alt: "AI agent creating content through conversation"
-    - small: "images/carousel/2-wizard-sm.png"
-      large: "images/carousel/2-wizard.png"
-      alt: "Setting up brand voice and audience personas"
-    - small: "images/carousel/3-select-sm.png"
-      large: "images/carousel/3-select.png"
-      alt: "Selecting campaign goals and audience targeting"
-    - small: "images/carousel/4-plan-sm.png"
-      large: "images/carousel/4-plan.png"
-      alt: "Strategic content plan generated by the AI"
-    - small: "images/carousel/5-list-sm.png"
-      large: "images/carousel/5-list.png"
-      alt: "A queue of on-brand content ready for review"
-
-solutionsCards:
-  title: "Built to Supercharge your Marketing"
-  description: "Bazam is built for anyone who needs consistent, professional marketing faster, smarter, and safer — from solo founders to growing teams."
-  cards:
-     - title: For Marketing Agencies
-       description: "Run more client accounts without more headcount. Your AI agent handles content and reporting so your team can focus on winning new business."
-       url: "/solutions/agencies/"
-       icon: bullhorn
-     - title: For Businesses
-       description: "Get a consistent, professional content operation without hiring a full marketing team. The agent creates, schedules, and publishes on your behalf."
-       url: "/solutions/businesses/"
-       icon: briefcase
-     - title: For Experts & Thought Leaders
-       description: "Maintain a steady stream of authentic, insightful content that builds your authority — without spending your day writing posts."
-       url: "/solutions/thought-leaders/"
-       icon: lightbulb
-     - title: For Non-Profits & Charities
-       description: "Stretch small budgets further with AI-powered content that amplifies your cause and drives donations."
-       url: "/solutions/non-profits/"
-       icon: heart
-     - title: For Creators & Influencers
-       description: "Scale your content across every platform while keeping your personal voice consistent and genuine."
-       url: "/solutions/influencers/"
-       icon: star
-     - title: For Dropshippers
-       description: "Generate product descriptions, social campaigns, and ads at scale — all informed by your catalogue and target audience."
-       url: "/solutions/dropshippers/"
-       icon: truck
-
-featureCards:
-  title: "Everything Your Agent Can Do"
-  description: "One AI agent, one conversation — with the full power of a marketing department behind it."
-  cards:
-  - title: "AI Content Creation"
-    description: "Blog posts, social updates, press releases, ad copy — the agent writes it all, tailored to your brand voice and audience."
-    url: "/features/content-writing/"
-    icon: edit
-
-  - title: "Scheduling & Calendar"
-    description: "Plan and queue content across channels with a visual calendar. The agent can suggest optimal times and fill gaps."
-    url: "/features/scheduling/"
-    icon: calendar
-
-  - title: "Multi-Platform Publishing"
-    description: "Publish directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok from one place."
-    url: "/features/publishing/"
-    icon: upload
-
-  - title: "Analytics Dashboard"
-    description: "Track engagement, reach, clicks, and follower growth across all channels in one centralised view. No more spreadsheet wrangling."
-    url: "/features/agent/"
-    icon: chart
-
-  - title: "Brand Voice & Strategy"
-    description: "Define brand voice, audience personas, and campaign goals. The agent uses these to ensure every piece of content is on-brand."
-    url: "/features/marketing-strategy/"
-    icon: briefcase
-
-  - title: "Knowledge Base"
-    description: "Protect your brand from AI mistakes. Upload your docs and the agent writes from your facts — not its imagination. Less time fixing, more time growing."
-    url: "/features/knowledge-base/"
-    icon: folder
-
-  - title: "Multi-Language Support"
-    description: "Create and translate content across languages. Run campaigns in multiple markets simultaneously."
-    url: "/features/translation/"
-    icon: language
-
-  - title: "Team Collaboration"
-    description: "Manage multiple brands and team members with granular permissions and project-based organisation."
-    url: "/features/teams/"
-    icon: users
-
+# ---------------------------------------------------------------------------
+# 4. Three fields, and per-angle generation
+# ---------------------------------------------------------------------------
 features:
-- title: "Five Marketing Tools You'll Never Open Again"
-  image: "/images/campaign-options.png"
-  image_alt: "An AI agent handling content creation, scheduling, publishing, analytics, and strategy in one conversation."
-  description:
-    - "Every day, your team copies content into a scheduling tool, checks stats across multiple dashboards, opens a separate app to publish, and searches 'content ideas for…'. Bazam handles all of it in one place."
-  points:
-    - title: "Stop copy-pasting into your scheduler"
-      description: "Create content and schedule it in the same conversation. No exporting, no reformatting, no switching tabs."
-    - title: "Stop logging into every platform to publish"
-      description: "Bazam publishes directly to WordPress, Facebook, Instagram, LinkedIn, X, YouTube, and TikTok. One click, every channel."
-    - title: "Stop scraping stats from five dashboards"
-      description: "One centralised analytics dashboard for every connected channel. Engagement, reach, growth — all in one view, or ask the agent for a summary."
-    - title: "Stop searching for content ideas"
-      description: "The agent suggests topics based on your brand, audience, and what's already working — not generic keyword lists."
-  footer:
-    - "One conversation. Every marketing task. No more tab-hopping."
+  - title: "Three fields no other tool asks for"
+    image: "/images/persona.png"
+    image_alt: "A populated 30-point audience model in Bazam"
+    description:
+      - "Plenty of the thirty points are what you would expect: role, seniority, expertise, goals, interests, tone. These three change the output the moment you fill them in, and none of them fits in a text box."
+    points:
+      - title: "What drives them emotionally"
+        description: "Ambition reads nothing like anxiety. The same feature, framed for the right driver, is a different sentence."
+      - title: "What they believe"
+        description: "Values and beliefs decide whether an argument works or bounces off. A reader who prizes independence needs a different case from one who wants reassurance."
+      - title: "How they decide"
+        description: "Impulsive, considered, risk-averse, price-led. Buying behaviour changes how hard you push, how much proof you show, and where the call to action goes."
+    footer:
+      - "Fill in those three, regenerate, and read the difference."
 
-- title: "Save £500–1,200/Month on Marketing Tools You No Longer Need"
-  image: "/images/feature-office-1.jpg"
-  image_alt: "Marketing tool subscriptions being replaced by a single platform."
-  description:
-    - "Here's what those five tools actually cost — and what you're about to stop paying for."
-  points:
-    - title: "AI Writing Tool — £39–69/month"
-      description: "Jasper, Copy.ai, ChatGPT Plus — generic tools that aren't built for marketers and can't publish, schedule, or track a thing."
-    - title: "Scheduling Tool — £99–249/month"
-      description: "Hootsuite, Buffer, Later — they schedule posts, but can't create them. Another login, another subscription."
-    - title: "Analytics Dashboard — £249–499/month per seat"
-      description: "Sprout Social, Iconosquare, Metricool — just to see how your content performed. Bazam has a built-in analytics dashboard across every channel."
-    - title: "Strategy & SEO Tool — £110–400/month"
-      description: "SEMrush, Ahrefs, Moz — expensive tools that most teams barely scratch the surface of. Bazam has strategy built in."
-    - title: "Publishing Platform — hours/week"
-      description: "Logging into six platforms individually. Copy-pasting, reformatting, uploading. Time you'll never get back."
-  footer:
-    - "That's £500–1,200+/month in subscriptions — before anyone's created a single post. Bazam starts at a fraction of that. <a href='/pricing/' class='text-primary-600 hover:underline font-semibold'>Explore plans →</a>"
+  - title: "One product. Different arguments for different people."
+    image: "/images/campaign-options.png"
+    image_alt: "Choosing an audience and an angle before generating a campaign"
+    description:
+      - "Your audiences don't want the same things, so they shouldn't be sent the same content. Bazam generates against a chosen audience <i>and</i> a chosen angle, so one launch reaches each of them on their own terms."
+    points:
+      - title: "Pick the audience, pick the angle"
+        description: "Same product, same brand voice. A time-saving hook for one audience, a risk-and-compliance hook for the next."
+      - title: "Every format, from the same model"
+        description: "30+ content types, from blog posts and social campaigns to case studies, how-tos, listicles and comparison pieces, all written to the audience you selected."
+      - title: "Different, not inconsistent"
+        description: "Your brand voice and knowledge base apply to every piece, so the arguments change and the brand doesn't."
+    footer:
+      - "Model your audiences once. Everything downstream inherits them."
 
-- title: "The Future of Marketing Is Already Here"
-  image: "/images/persona.png"
-  image_alt: "Marketing results accelerating with an AI agent."
-  description:
-    - "Small teams are about to out-market companies ten times their size. An AI agent that knows your brand, creates your content, and runs your publishing — that's not a nice-to-have. It's an unfair advantage."
-  points:
-    - title: "Faster"
-      description: "A month of content in a single session. Campaign ideas in seconds. Reports pulled instantly. No more waiting on anyone."
-    - title: "Smarter"
-      description: "Every piece of content is informed by your audience data, brand positioning, and what's already working. No more guessing."
-    - title: "Better Value"
-      description: "The output of a full marketing team at a fraction of the cost. No agencies, no freelancers, no new hires."
-    - title: "Always On"
-      description: "It doesn't take holidays, forget a brief, or need onboarding. Your marketing runs whether you're in the office or not."
-  footer:
-    - "Your competitors are still hiring. You just deployed an entire marketing department."
+# ---------------------------------------------------------------------------
+# 5. Before/after
+# ---------------------------------------------------------------------------
+sample:
+  background: "white"
+  title: "Same request. One of them knows who's reading."
+  description: "The difference is in what the writer was told."
+  left:
+    badge: "Briefed with a text box"
+    label: "“small business owners, 30-50”"
+    tone: "muted"
+    placeholder: "Paste the real generated output here. One short piece (a LinkedIn post or a brief email works best) generated from a one-line audience description only. Keep it to 60-80 words so both panels stay readable side by side. Don't tidy it up; the flatness is the point."
+  right:
+    badge: "Briefed with the 30-point model"
+    label: "The identical request, run against a full audience"
+    tone: "brand"
+    placeholder: "Paste the real generated output here. The identical brief, same content type and same length, run against a fully-populated audience model. Bold the two or three phrases that could only exist because the model knew this reader's drivers, beliefs and buying behaviour."
+  footer: "If those two panels don't read differently, nothing else on this page matters. Ask us to run the comparison on one of your own audiences."
 
-topFeatures:
-  title: "Why Marketers Choose Bazam"
-  description: "A new way to run your entire content operation."
-  list:
-    - title: "Autonomous AI Agent"
-      description: "Create content, pull reports, brainstorm ideas, and manage campaigns — all through a single, intelligent conversation."
-      target: /features/agent/
-    - title: "Centralised Intelligence"
-      description: "Your brand voice, product facts, and guidelines — always referenced, never forgotten. Protect your brand from generic AI guesswork."
-      target: /features/knowledge-base/
-    - title: "Scale Without Hiring"
-      description: "Take on more work without proportionally growing your team. The agent handles the heavy lifting."
-      target: /features/teams/
+# ---------------------------------------------------------------------------
+# 7. How it works
+# ---------------------------------------------------------------------------
+introFeatures:
+  - step: "1"
+    title: "Describe your audience"
+    description: "A sentence or two is enough. <b>“Operations managers at UK logistics firms, 50-200 staff, drowning in manual scheduling.”</b>"
+  - step: "2"
+    title: "Bazam builds the model"
+    description: "You get all thirty points filled in: motivations, drivers, beliefs, buying behaviour, tone. <b>Review it, sharpen anything you disagree with</b>, and it's yours."
+  - step: "3"
+    title: "Generate, schedule, publish"
+    description: "Every wizard writes to that model. <b>Pick a channel and an angle</b>, queue it on the calendar, and Bazam publishes it for you."
 
+# ---------------------------------------------------------------------------
+# 8. Who it's for
+# ---------------------------------------------------------------------------
+featureCards:
+  title: "Built for anyone writing to more than one kind of reader"
+  description: "One person or a team of twenty, one brand or thirty. Bazam is for people who need to understand several audiences properly and have no research department to do it for them."
+  cards:
+    - title: "Solo marketers"
+      icon: star
+      description: "A team of one with five channels and no time to write a persona deck nobody will read. Model your audiences once and generate against them for good."
+    - title: "Small in-house teams"
+      icon: users
+      description: "Two or three people covering every channel and every market. Shared audience models mean everyone writes to the same reader, whoever happens to be drafting."
+    - title: "Freelancers & consultants"
+      icon: briefcase
+      description: "You are the marketing department for several businesses at once. Separate projects keep each client's audiences, voice and knowledge apart, so nothing bleeds between them."
+    - title: "Marketing agencies"
+      icon: bullhorn
+      description: "Audience research is something you already do and already bill for. Bazam produces that deliverable in minutes and writes everything downstream from it, with approvals and role-based access across the team."
+
+# ---------------------------------------------------------------------------
+# 9. Comparison
+# ---------------------------------------------------------------------------
+comparisonGrid: "comparison_chatgpt"
+
+# ---------------------------------------------------------------------------
+# 10. Objections
+# ---------------------------------------------------------------------------
 faq:
-  - q: "How do I do content marketing without a marketing team?"
+  - q: "Isn't this just ChatGPT with extra steps?"
     a:
-      - "Use an AI agent that handles the work a team would do. Bazam creates content, schedules it across platforms, publishes automatically, and tracks performance — all through a simple conversation. You review and approve; the agent handles everything else."
+      - "It's ChatGPT with the step everyone skips. In ChatGPT, whatever you know about your reader lives in the prompt you typed this time, and it's gone by the next session. In Bazam the audience is a permanent object: 30+ structured fields, saved, editable, and applied to every piece of content, every channel and every language. You do the thinking once instead of every time."
 
-  - q: "Is content marketing too expensive for small businesses?"
+  - q: "Do I really have to fill in thirty fields?"
     a:
-      - "It used to be. A freelance writer charges £200–500 per blog post. An agency retainer runs £2,000–10,000 per month. A marketing hire costs £30,000–60,000+ per year. Bazam gives you content creation, scheduling, publishing, and analytics for a fraction of any of those."
+      - "No. You describe your audience in a sentence or two and Bazam builds the full model from that. You review it, sharpen anything you disagree with, and you're done. Most people spend more time editing than filling. You can go back and deepen a model at any point, and every future piece of content picks up the change."
 
-  - q: "How do I post on social media consistently?"
+  - q: "Will the content read any differently?"
     a:
-      - "Batch it. Create a month of content in one sitting and schedule it across all platforms. Bazam's AI agent drafts everything in your brand voice, you review and approve, and it publishes on autopilot. Consistency without daily effort."
+      - "That's the right question, and it's what the side-by-side above is for. The fields that change the output most are the ones no other tool collects: emotional drivers, values and beliefs, and buying behaviour. Once those are filled in, the content stops making generic claims and starts making a specific case to a specific person."
 
-  - q: "Can AI actually write good marketing content?"
+  - q: "I already have personas in a doc somewhere."
     a:
-      - "Yes — when it has context. The difference between bad AI content and great AI content is what the AI knows about your brand. Bazam's agent works from your brand voice, audience personas, and knowledge base, so the output is specific and informed, not generic filler."
+      - "Most people do, and they're almost always prose, which is fine for a slide deck and useless to software. Prose can't be applied per channel, can't be varied by angle, and can't be picked up by whoever drafts next. Paste what you've got into Bazam and it becomes a structured model you can generate from."
 
-  - q: "How do I compete with bigger brands online?"
+  - q: "Can Bazam publish, or does it only write?"
     a:
-      - "Bigger brands have bigger teams producing more content across more channels. An AI agent levels the playing field — one person with Bazam can produce the same volume and quality of content as a team of five."
+      - "It publishes. Facebook, Instagram, TikTok, X, LinkedIn and WordPress, directly, on a schedule you set from a drag-and-drop calendar. One brief becomes a distinct version per platform, adapted for copy, tone and aspect ratio. It also translates into 50+ languages, and reports engagement, reach and (with Google Analytics connected) conversions and revenue per post."
 
-  - q: "Is ChatGPT good enough for marketing?"
+  - q: "How is this different from Jasper, Copy.ai or Anyword?"
     a:
-      - "ChatGPT is a general chatbot. It knows nothing about your brand, forgets everything between sessions, and can't schedule, publish, or track performance. For occasional drafts it's fine. For a real content operation, you need a platform that remembers your brand and handles the full workflow."
+      - "They're good tools, and they run on the same underlying AI models we do. What differs is what those models get told. Jasper and Copy.ai let you type an audience into a box; Anyword predicts how copy might perform before you run it. None of them holds a structured, 30-point model of each audience that drives every generation, in every format and every language."
+      - "That is the difference, which is why we'd rather show you the comparison above than argue about output quality."
 
-  - q: "How do I create a content calendar quickly?"
-    a:
-      - "Ask the agent. Tell it your themes, goals, or upcoming events and it generates a full content calendar with posts scheduled across all your platforms. You review, adjust, and approve — your month is sorted in minutes."
+# ---------------------------------------------------------------------------
+# 11. Coming soon
+# ---------------------------------------------------------------------------
+topFeatures:
+  title: "Coming soon"
+  description: "What early access gets you a front-row seat to."
+  list:
+    - title: "The Bazam agent"
+      description: "Skip the wizards. Ask for a campaign, a report, or a month of content in a single conversation, and the agent runs it against your audiences and your brand."
+    - title: "Audience models that learn"
+      description: "Published results feed back into the model, so it stops being your best guess and becomes a record of what your market responds to."
+    - title: "Proven angles, per audience"
+      description: "Test angles against each audience and promote the winners. Your models compound with every campaign, and the asset belongs to you rather than to an ad platform."
 
-  - q: "Do I need a marketing agency?"
-    a:
-      - "For strategy, creative direction, and brand positioning — an agency can add real value. For content production, scheduling, publishing, and reporting — an AI agent does the same work faster and at a lower cost. Most teams find they need strategy help, not production help."
-
-  - q: "How do I measure content marketing ROI?"
-    a:
-      - "Bazam tracks engagement, reach, clicks, and follower growth across every connected channel. Ask the agent 'how did this month perform?' and get a plain-English summary. Over time, you see which topics and platforms actually drive results."
-
-  - q: "How do I manage content across multiple social media platforms?"
-    a:
-      - "Create once, distribute everywhere. Bazam's agent adapts your content for each platform's format, length, and audience, then publishes directly to WordPress, LinkedIn, Instagram, Facebook, X, YouTube, and TikTok."
+# ---------------------------------------------------------------------------
+# 12. Early access
+# ---------------------------------------------------------------------------
+waitlist:
+  id: "early-access"
+  title: "Get early access"
+  description: "We're opening Bazam to a small number of accounts at a time, so every one gets set up properly: audiences modelled, brand voice tuned, channels connected. Tell us who you are and we'll be in touch."
+  button: "Request access"
 ---

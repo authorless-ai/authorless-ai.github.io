@@ -1,8 +1,11 @@
 currency_prefix: "$"
 currency_suffix: ""
-individual:
+starter:
   monthly: 39
   yearly: 29
+growth:
+  monthly: 99
+  yearly: 79
 team:
-  monthly: 109
-  yearly: 89
+  monthly: 299
+  yearly: 249
