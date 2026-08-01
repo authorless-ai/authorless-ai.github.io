@@ -193,6 +193,6 @@ topFeatures:
 waitlist:
   id: "early-access"
   title: "Get early access"
-  description: "We take on a small number of accounts at a time so we can set each one up properly: audiences modelled, brand voice tuned, channels connected. Tell us who you are and we'll get you in."
+  description: "Tell us who you are and who you sell to. We'll help you model your audiences, tune your brand voice and connect your channels, and you'll be publishing to real people in no time."
   button: "Request access"
 ---

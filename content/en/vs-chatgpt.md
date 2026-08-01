@@ -69,6 +69,6 @@ faq:
 waitlist:
   id: "early-access"
   title: "See it on your own audience"
-  description: "The fastest way to settle this is to run the same brief both ways. Tell us who you sell to and we'll build the audience model and send you both versions."
+  description: "Tell us who you sell to. We'll build the audience model and send you back content written for that exact person vs what most alternatives write."
   button: "Request access"
 ---

@@ -153,6 +153,6 @@ faq:
 waitlist:
   id: "early-access"
   title: "Model your first audience"
-  description: "We take on a small number of accounts at a time so we can set each one up properly. Tell us who you sell to and we'll build your first audience models with you."
+  description: "Tell us who you sell to and we'll build your first audience models with you. Then watch what your content does when it finally knows who it's talking to."
   button: "Request access"
 ---
