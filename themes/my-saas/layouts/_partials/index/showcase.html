@@ -1,0 +1,94 @@
+{{/*
+  Showcase Partial
+
+  A full-width block built around one large visual. Use it where the product
+  needs to be seen rather than described (the content calendar, the audience
+  model screen). The image is the argument; the copy is a caption.
+
+  Usage:
+    {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
+
+  Data shape:
+    title / description   heading and subhead
+    image / image_alt     a real screenshot, animated GIF or MP4 poster
+    placeholder           description of the asset that belongs here. Renders a
+                          large dashed block so a missing visual is never an
+                          invisible gap
+    points                up to 3 { title, description } shown under the visual
+    logos:
+      title               small label above the row, e.g. "Publishes direct to"
+      items               list of { name, image } — each renders a dashed box
+                          with the platform name until an image is supplied
+    footer                closing line
+*/}}
+
+{{ $data := .data }}
+{{ if $data }}
+<section class="bg-[#f7f7ff] dark:bg-gray-900 border-y border-primary-100 dark:border-gray-700">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+
+    {{ if or $data.title $data.description }}
+    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* The visual, sized to dominate the block */}}
+    <div class="relative rounded-2xl overflow-hidden shadow-xl bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700">
+      {{ with $data.image }}
+      <img class="w-full block" src="{{ . | absURL }}" alt="{{ $data.image_alt | default $data.title }}">
+      {{ end }}
+      {{ with $data.placeholder }}
+      <div class="flex flex-col items-center justify-center text-center border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40 px-6 py-20 min-h-[28rem]">
+        <svg class="w-14 h-14 mb-4 text-primary-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 10h16M8 7V4m8 3V4M5 20h14a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1Z"/>
+        </svg>
+        <p class="text-xs font-bold uppercase tracking-widest text-primary-500 dark:text-gray-500 mb-3">Image or animation to add</p>
+        <p class="max-w-xl text-base text-gray-600 dark:text-gray-400">{{ . | safeHTML }}</p>
+      </div>
+      {{ end }}
+    </div>
+
+    {{ with $data.points }}
+    <div class="mt-10 grid gap-8 md:grid-cols-3">
+      {{ range . }}
+      <div>
+        <h3 class="mb-2 text-lg font-bold text-gray-900 dark:text-white">{{ .title | safeHTML }}</h3>
+        <p class="text-gray-600 dark:text-gray-400">{{ .description | safeHTML }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ with $data.logos }}
+    <div class="mt-12 text-center">
+      {{ with .title }}
+      <p class="mb-5 text-xs font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">{{ . }}</p>
+      {{ end }}
+      <div class="flex flex-wrap justify-center items-center gap-4 sm:gap-6">
+        {{ range .items }}
+          {{ if .image }}
+          <img class="h-8 sm:h-10 w-auto" src="{{ .image | absURL }}" alt="{{ .name }}">
+          {{ else }}
+          {{/* Logo to add. Drop an `image:` on this item to replace the box. */}}
+          <div class="flex items-center justify-center h-12 px-4 rounded-lg border-2 border-dashed border-gray-300 dark:border-gray-600 bg-white/60 dark:bg-gray-800/60">
+            <span class="text-sm font-medium text-gray-400 dark:text-gray-500">{{ .name }} logo</span>
+          </div>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    {{ with $data.footer }}
+    <p class="mt-10 text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | safeHTML }}</p>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

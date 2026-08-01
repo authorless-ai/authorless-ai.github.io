@@ -17,7 +17,10 @@
   {{/* 5. Before/after — the same brief, thin vs full model */}}
   {{ partial "index/two-panel.html" (dict "data" .Params.sample "context" .) }}
 
-  {{/* 6. One audience in, everything out — the capability block */}}
+  {{/* 6. The calendar — seen, not described */}}
+  {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
+
+  {{/* 7. One audience in, everything out — the capability block */}}
   {{ partial "index/features-3-cols-stripe.html" . }}
 
   {{/* 7. How it works — three steps */}}

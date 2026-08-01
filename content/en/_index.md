@@ -119,6 +119,31 @@ sample:
   footer: "Want this run on one of your own audiences? Create an audience in 30s and see the difference."
 
 # ---------------------------------------------------------------------------
+# 6. The calendar
+# ---------------------------------------------------------------------------
+calendar:
+  title: "Write it Monday. It posts itself all month."
+  description: "Queue a month of content across six platforms and a dozen languages, then close the tab."
+  placeholder: "Animation or screenshot of the content calendar. A month view with posts on many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date, then publishing, is the strongest version of this and is worth the effort: it is the only asset on the page that proves Bazam does the boring half of the job."
+  points:
+    - title: "Drag, drop, done"
+      description: "Move a post to another day and the whole campaign shifts with it. Set recurring slots and multi-day runs once and stop thinking about them."
+    - title: "Six platforms, one queue"
+      description: "Each one gets the version built for it, with the copy, tone and aspect ratio already adapted. No exporting, no reformatting, no logging in six times."
+    - title: "Nothing goes live without a yes"
+      description: "Turn approvals on and everything waits for sign-off. Clients can review and approve in their own portal, without ever seeing your password."
+  logos:
+    title: "Publishes direct to"
+    items:
+      - name: "Facebook"
+      - name: "Instagram"
+      - name: "TikTok"
+      - name: "X"
+      - name: "LinkedIn"
+      - name: "WordPress"
+  footer: "Publishing consistently is what makes content marketing work, and it is the first thing to slip when you get busy. Hand it over."
+
+# ---------------------------------------------------------------------------
 # 7. How it works
 # ---------------------------------------------------------------------------
 introFeatures:
@@ -127,7 +152,7 @@ introFeatures:
     description: "A sentence or two is enough. <b>“Operations managers at UK logistics firms, 50-200 staff, drowning in manual scheduling.”</b>"
   - step: "2"
     title: "Bazam builds the model"
-    description: "All thirty points come back filled in: motivations, drivers, beliefs, buying behaviour, tone. <b>Tweak anything you disagree with</b> and it's yours for good."
+    description: "All thirty points come back filled in: motivations, drivers, beliefs, buying behaviour, tone. <b>Tweak it to taste</b> and it's yours for good."
   - step: "3"
     title: "Generate, schedule, publish"
     description: "Every wizard writes to that model. <b>Pick a channel and an angle</b>, drop it on the calendar, and Bazam publishes it while you get on with something else."
