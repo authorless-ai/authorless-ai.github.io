@@ -122,8 +122,8 @@ sample:
 # 6. The calendar
 # ---------------------------------------------------------------------------
 calendar:
-  title: "Write it Monday. It posts itself all month."
-  description: "Queue a month of content across six platforms and a dozen languages, then close the tab."
+  title: "Write it Monday. Post all month."
+  description: "Queue a month of content across six platforms and a dozen languages."
   placeholder: "Animation or screenshot of the content calendar. A month view with posts on many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date, then publishing, is the strongest version of this and is worth the effort: it is the only asset on the page that proves Bazam does the boring half of the job."
   points:
     - title: "Drag, drop, done"
