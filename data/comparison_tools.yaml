@@ -74,9 +74,9 @@ sections:
           - check: true
             text: "Excellent"
           - check: true
-            text: "Excellent"
+            text: "Good"
           - check: true
-            text: "Excellent"
+            text: "Good"
           - check: true
             text: "Excellent"
       - id: angles
@@ -149,40 +149,40 @@ sections:
           - check: false
           - check: true
 
-  - id: beyond
-    name: "Beyond content"
-    rows:
-      - id: ads
-        feature: "Paid ad campaigns"
-        values:
-          - check: false
-          - check: true
-            text: "Google and Meta"
-          - check: false
-          - check: false
-      - id: landing
-        feature: "Landing pages"
-        values:
-          - check: false
-          - check: true
-          - check: true
-            text: "Website automation"
-          - check: false
-      - id: reputation
-        feature: "Reputation management and AI SDR"
-        values:
-          - check: false
-          - check: true
-          - check: false
-          - check: false
-      - id: managed
-        feature: "Fully managed, done for you"
-        values:
-          - check: false
-          - check: true
-            text: "From $2,499/mo"
-          - check: false
-          - check: false
+#  - id: beyond
+#    name: "Beyond content"
+#    rows:
+#      - id: ads
+#        feature: "Paid ad campaigns"
+#        values:
+#          - check: false
+#          - check: true
+#            text: "Google and Meta"
+#          - check: false
+#          - check: false
+#      - id: landing
+#        feature: "Landing pages"
+#        values:
+#          - check: false
+#          - check: true
+#          - check: true
+#            text: "Website automation"
+#          - check: false
+#      - id: reputation
+#        feature: "Reputation management and AI SDR"
+#        values:
+#          - check: false
+#          - check: true
+#          - check: false
+#          - check: false
+#      - id: managed
+#        feature: "Fully managed, done for you"
+#        values:
+#          - check: false
+#          - check: true
+#            text: "From $2,499/mo"
+#          - check: false
+#          - check: false
 
   - id: cost
     name: "Cost"

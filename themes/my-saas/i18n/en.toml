@@ -594,10 +594,10 @@ other = "Draft quality from a good prompt"
 other = "Excellent"
 
 [fg_cmp_tools__generating__quality__blaze]
-other = "Excellent"
+other = "Good"
 
 [fg_cmp_tools__generating__quality__anyword]
-other = "Excellent"
+other = "Good"
 
 [fg_cmp_tools__generating__quality__bazam]
 other = "Excellent"
