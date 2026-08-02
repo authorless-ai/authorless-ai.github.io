@@ -29,7 +29,7 @@ contrast:
     tone: "brand"
     placeholder: "Screenshot of a fully-populated audience model in Bazam, with every section expanded so the field count reads at a glance. Use a recognisable audience and make sure the emotional drivers, values and buying-behaviour fields contain real, specific text. This image is the most important asset on the site."
     caption: "Thirty points: what they want, what worries them, what they believe, how they buy. Build it once and every wizard, channel and language writes from it."
-  footer: "Same AI models. Same prompt. Completely different brief."
+  footer: "Same AI models. Same task. Completely different brief."
 
 # ---------------------------------------------------------------------------
 # 3. Evidence
@@ -141,7 +141,7 @@ calendar:
       - name: "X"
       - name: "LinkedIn"
       - name: "WordPress"
-  footer: "Publishing consistently is what makes content marketing work, and it is the first thing to slip when you get busy. Hand it over."
+  footer: "Publishing consistently is what makes content marketing work, and it is the first thing to slip when you get busy. Let us handle it."
 
 # ---------------------------------------------------------------------------
 # 7. How it works
