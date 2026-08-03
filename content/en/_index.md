@@ -6,7 +6,7 @@ ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "So it writes something anyone could have written, for anyone at all. You already know how that reads."
+  - "So it writes something anyone could have written, for no one specific, and which everyone ignores."
   - "Bazam builds a <b>30-point model of your reader</b>: what drives them, what worries them, how they decide. Everything you generate gets written to that person, in your brand voice, about what you really sell, then scheduled, translated and published for you."
 
 # ---------------------------------------------------------------------------
