@@ -371,7 +371,7 @@ other = "Demographics, psychographics, motivations, emotional drivers, values, p
 other = "Built from a one-line description"
 
 [fg_pricing__audience__auto_build__desc]
-other = "Describe your audience in a sentence; edit anything you disagree with"
+other = "Describe your audience in a sentence; edit to taste"
 
 [fg_pricing__audience__angles]
 other = "Generate per audience and per angle"
@@ -504,7 +504,7 @@ other = "Multiple brands per project"
 other = "Each with their own offerings, voice and audiences. Personal brands too"
 
 [fg_cmp_tools__title]
-other = "Bazam vs the tools you're probably weighing up"
+other = "Bazam vs the alternatives you may be considering"
 
 [fg_cmp_tools__subtitle]
 other = "Everyone here builds on the same frontier models. What differs is what those models get told, and how much of the job is left for you afterwards. "

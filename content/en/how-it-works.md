@@ -8,7 +8,7 @@ ctaUrl: "#early-access"
 
 heroDescription:
   - "Every AI writing tool hands you a draft and leaves the rest to you: the reformatting, the six logins, the scheduler, the chasing up what worked."
-  - "Point Bazam at your website and it works out your business, your brand and who you're selling to. After that every campaign is: pick an audience, pick a content type, and Bazam writes it, schedules it, publishes it and reports back."
+  - "Point Bazam at your website and it works out your business, your brand and who you're selling to. After that every campaign is: pick an audience, pick a content type, and Bazam writes, schedules, publishes and reports back."
 
 # ---------------------------------------------------------------------------
 # The pipeline

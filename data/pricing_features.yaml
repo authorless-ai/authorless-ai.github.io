@@ -65,7 +65,7 @@ sections:
           - check: true
       - id: auto_build
         feature: "Built from a one-line description"
-        desc: "Describe your audience in a sentence; edit anything you disagree with"
+        desc: "Describe your audience in a sentence; edit to taste"
         values:
           - check: true
           - check: true

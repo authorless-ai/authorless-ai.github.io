@@ -13,29 +13,29 @@ heroDescription:
 # 2. Contrast
 # ---------------------------------------------------------------------------
 contrast:
-  title: "Every other tool asks you to describe your audience in a text box."
-  description: "Then it writes to whatever you typed, which is why it's ignored."
+  title: "The alternatives ask you to describe your audience in a text box."
+  description: "Then they write to whoever you typed, which is why it's ignored."
   left:
-    badge: "Every other AI tool"
+    badge: "The alternatives"
     label: "What they call an audience"
     tone: "muted"
     field:
       label: "Who is this for?"
       value: "small business owners, 30-50"
-    caption: "Eight words. That is the whole brief, and it is the same eight words behind every piece of content you will ever generate."
+    caption: "That's the whole brief, and it's the same few words behind every piece of content they generate."
   right:
     badge: "Bazam"
     label: "What we call an audience"
     tone: "brand"
     placeholder: "Screenshot of a fully-populated audience model in Bazam, with every section expanded so the field count reads at a glance. Use a recognisable audience and make sure the emotional drivers, values and buying-behaviour fields contain real, specific text. This image is the most important asset on the site."
     caption: "Thirty points: what they want, what worries them, what they believe, how they buy. Build it once and every wizard, channel and language writes from it."
-  footer: "Same AI models. Same task. Completely different brief."
+  footer: "Similar AI models. Same task. Completely different brief."
 
 # ---------------------------------------------------------------------------
 # 3. Evidence
 # ---------------------------------------------------------------------------
 evidence:
-  title: "The message does five times more work than the targeting."
+  title: "The message does five times more work than targeting."
   description: "Everyone worries about reach. But the words are where the value is. Better words, more engagement, more reach."
   stats:
     - figure: "47%"
@@ -48,7 +48,7 @@ evidence:
       title: "The more you know about the reader, the harder the message works."
       description: "88 studies, 106,243 people. Tailored messages beat generic ones every time, and the gap widened the more the writer knew. <b>Every point you fill in makes your content work harder.</b>"
       source: "Krebs, Prochaska & Rossi, 2010"
-  footer: "Thirty points give the AI thirty things to get right. A text box gives it eight words and a guess."
+  footer: "Thirty points give the AI thirty ways to understand your audience. A text box gives it a couple of words and a guess."
 
 # ---------------------------------------------------------------------------
 # 4. Three fields, and per-angle generation
@@ -63,7 +63,7 @@ features:
       - title: "What drives them emotionally"
         description: "Ambition reads nothing like anxiety. The same feature, framed for the right driver, becomes a different sentence."
       - title: "What they believe"
-        description: "A reader who prizes independence needs a completely different case from one who wants reassurance. Tell Bazam which, and watch the argument change."
+        description: "A reader who prizes independence needs a completely different case from one who wants reassurance. Tell Bazam which, and watch your posts change."
       - title: "How they decide"
         description: "Impulsive, considered, risk-averse, price-led. Buying behaviour sets how hard you push, how much proof you show, and where the call to action goes."
     footer:
@@ -80,7 +80,7 @@ features:
       - title: "Every format, from the same model"
         description: "30+ content types, from blog posts and social campaigns to case studies, how-tos, listicles and comparison pieces, all written to the audience you selected."
       - title: "Different, not inconsistent"
-        description: "Your brand voice and knowledge base apply to every piece, so the arguments change and the brand never does."
+        description: "Your brand voice and knowledge base apply to every piece, so your posts change while your brand never does."
     footer:
       - "Model your audiences once. Everything downstream inherits them."
 
@@ -88,7 +88,7 @@ features:
     image: "/images/analyse-voice.png"
     image_alt: "Company, brand and offering profiles in Bazam"
     description:
-      - "An audience model tells Bazam who is reading. Your company, brand and offering profiles tell it what it is talking about. Both halves of the brief, so the content is accurate about you as well as aimed at them."
+      - "An audience model tells Bazam who's reading. Your company, brand and offering profiles tell it what it's talking about. Both halves of the brief, so the content's accurate about you as well as aimed at them."
     points:
       - title: "Company, brand, offering"
         description: "Model your business once: what you do, how you are positioned, what you sell. Run several brands, each with their own offerings, voice and audiences."
@@ -116,7 +116,7 @@ sample:
     label: "The identical request, run against a full audience"
     tone: "brand"
     placeholder: "Paste the real generated output here. The identical brief, same content type and same length, run against a fully-populated audience model. Bold the two or three phrases that could only exist because the model knew this reader's drivers, beliefs and buying behaviour."
-  footer: "Want this run on one of your own audiences? Create an audience in 30s and see the difference."
+  footer: "Want this to run on one of your own audiences? Create an audience in 30s and see the difference."
 
 # ---------------------------------------------------------------------------
 # 6. The calendar
@@ -141,7 +141,7 @@ calendar:
       - name: "X"
       - name: "LinkedIn"
       - name: "WordPress"
-  footer: "Publishing consistently is what makes content marketing work, and it is the first thing to slip when you get busy. Let us handle it."
+  footer: "Publishing consistently is what makes content marketing work, and it's the first thing to slip when you get busy. Let us handle it."
 
 # ---------------------------------------------------------------------------
 # 7. How it works
@@ -152,7 +152,7 @@ introFeatures:
     description: "Bazam reads your business, your brand and your offerings, then comes back with <b>the audiences you're selling to</b>."
   - step: "2"
     title: "Check what it came up with"
-    description: "Each audience arrives as a 30-point model: drivers, motivations, values, buying behaviour, tone. <b>Tweak anything you disagree with</b> and it's yours for good."
+    description: "Each audience arrives as a 30-point model: drivers, motivations, values, buying behaviour, tone. <b>Tweak to taste</b> and it's yours for good."
   - step: "3"
     title: "Generate, schedule, publish"
     description: "That's the setup finished. <b>From then on it's pick an audience, pick an angle, run a wizard</b>, and Bazam schedules and publishes it while you get on with something else."
@@ -195,7 +195,7 @@ faq:
 
   - q: "Do I really have to fill in thirty fields?"
     a:
-      - "You may not have to write anything at all. Point Bazam at your website and it works out your business, your brand and the audiences you're selling to, then hands you the 30-point models to check. Tweak what you disagree with, add one it missed, and you're done."
+      - "You may not have to write anything at all. Point Bazam at your website and it works out your business, your brand and the audiences you're selling to, then hands you the 30-point models to check. Tweak to taste, add one it missed, and you're done."
       - "If you would rather start from scratch, describing an audience in a sentence or two works too. Either way you deepen a model whenever you learn something new, and every future piece of content picks it up."
 
   - q: "Will the content read any differently?"
