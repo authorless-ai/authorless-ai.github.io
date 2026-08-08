@@ -2,77 +2,108 @@
 layout: marketing
 title: "Bazam vs Blaze"
 superTitle: "A straight comparison"
-description: "Blaze writes for your brand. Bazam writes for the person reading it, then publishes to six channels on your calendar. From $39 against their $79."
+description: "Blaze writes for your brand. Bazam writes for each of your customers, then schedules and publishes it. From $39 against their $79."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Blaze writes for your brand and industry. Bazam writes for one specific reader, and a different one tomorrow."
-  - "Thirty structured points about that person drive every post, ad and email, then Bazam publishes them to six channels on your calendar. <b>From $39 a month against their $79.</b>"
+  - "Blaze writes for your brand. Bazam writes for each of your customers separately, then schedules and publishes it for you. <b>From $39 a month against their $79.</b>"
 
 comparisonGrid: "comparison_blaze"
 aliases:
   - "/vs-blaze/"
 
 features:
-  - title: "Where we're better"
+  - title: "Your brand is not your customer"
     image: "/images/persona.png"
-    image_alt: "A 30-point audience model driving generation"
+    image_alt: "A populated 30-point audience model in Bazam"
     description:
-      - "Blaze promises “truly great content. Not AI slop.” We want the same result. The difference is that we will tell you the mechanism."
+      - "Writing that sounds like your brand still has to sell to somebody. Bazam holds a persona for each type of customer you have."
     points:
-      - title: "We fix the brief, not the wording"
-        description: "Content reads generic because the tool was told nothing about who's reading. Thirty structured points per audience is a fix for the cause. Polishing the output afterwards treats the symptom, and every tool in this market claims to do it."
-      - title: "A different argument for each audience"
-        description: "Blaze writes for your brand and industry. Bazam writes for one specific person, and writes something different for the next one. Pick the audience and the angle before you generate."
-      - title: "50+ languages from the same brief"
-        description: "One campaign, every market, brand voice intact in each. Blaze doesn't publish a translation feature."
-      - title: "Client sign-off without shared passwords"
-        description: "Clients connect their own accounts and approve their own posts in their own portal. Blaze doesn't publish an approvals workflow."
-      - title: "It works inside ChatGPT and Claude"
-        description: "Our MCP server pulls your audience models, brand voice and channels into the assistant you already use."
+      - title: "One emotion, more sales"
+        description: "Every customer buys for one reason. Write to that reason and more of them buy."
+      - title: "The same offer, two ways"
+        description: '"Only two places left this month" sells to one customer. "Your best quarter yet" sells to the next.'
+      - title: "Bazam rewrites everything to match"
+        description: "Choose the emotion and every post that month is written that way."
     footer:
-      - "Same job, different bet. They bet on doing more things. We bet on the brief."
+      - "Up to 50% more purchases from the same offer, for matching the message to the customer."
+    source: "Field experiments across 3.5 million people. Matz, Kosinski, Nave & Stillwell, PNAS, 2017."
 
-  - title: "Built to run for other people"
+  - title: "Sell in every market you're in"
+    image: "/images/schedule.png"
+    image_alt: "The Bazam content calendar with posts scheduled across platforms"
+    description:
+      - "One campaign, written once, out everywhere you sell."
+    points:
+      - title: "50+ languages"
+        description: "Your brand voice intact in each of them."
+      - title: "Six platforms and your blog"
+        description: "Facebook, Instagram, TikTok, X, LinkedIn and WordPress, each with the version built for it."
+      - title: "A month of content in ten minutes"
+        description: "Queue it on a calendar you can drag. Move one post and the campaign moves with it."
+    footer:
+      - "Then it tells you what every post did."
+
+  - title: "Running it for clients"
     image: "/images/approve.png"
     image_alt: "Client approval and role-based access in Bazam"
     description:
-      - "If you publish for clients, the writing was never the awkward part. It's the logins, the sign-off chase, and the post that went live before anyone checked."
+      - "The writing was never the awkward part. The logins and the sign-off chase were."
     points:
-      - title: "Clients keep their own accounts"
-        description: "They connect their channels themselves. You publish on their behalf and never handle a password, which removes the most uncomfortable email in onboarding."
-      - title: "Clients sign off in their own portal"
-        description: "Invite them to review and approve their own posts. No shared inbox, no screenshots in Slack, no wondering whether silence counts as a yes. Blaze publishes no approvals workflow."
-      - title: "A separate world per client"
-        description: "Own project, own audiences, own brand voice, own knowledge base, own role-based access. Nothing bleeds between accounts."
-      - title: "Their audiences, not your guesses"
-        description: "Every client gets their own 30-point models, so the content sounds like it came from someone who knows their market."
+      - title: "Clients keep their own logins"
+        description: "They connect their channels. You never handle a password."
+      - title: "Nothing goes live without a yes"
+        description: "Clients approve their own posts in their own portal."
+      - title: "One project per client"
+        description: "Separate personas, brand voice and knowledge. Nothing bleeds across."
     footer:
-      - "Audience research is something you already bill for. Bazam produces it in minutes and writes every campaign downstream from it."
+      - "Take on more clients without taking on more admin."
 
 faq:
-  - q: "Blaze says “truly great content, not AI slop”. Isn't that the same promise?"
-    a:
-      - "Same promise, different mechanism, and they don't name theirs. Ours is thirty structured points about the reader driving every generation, and you can see the fields."
-      - "Ask both tools what specifically stops the output being generic, then see which one can answer with something you could point at."
-
-  - q: "Blaze runs my ads. Do you?"
-    a:
-      - "No. Bazam is a content platform: audiences, writing, scheduling, publishing, translation and analytics. Paid campaigns, landing pages, review chasing and lead qualification are outside what we do, and we would rather be excellent at one job than passable at six."
-
   - q: "Which one is cheaper?"
     a:
-      - "We start at $39 against their $79, with the full audience model included from the first plan."
-      - "Every plan includes the full 30-point audience model, every content type, all six publishing channels and 50+ languages. You pay for scale, never for features we have held back."
+      - "Bazam starts at $39 a month, Blaze at $79. Our entry plan includes the full 30-Point Audience Model, every content type, all six publishing channels and 50+ languages."
 
-  - q: "Could I use both?"
+  - q: "Can my clients sign off before anything goes live?"
     a:
-      - "Nothing stops you. Most people find the content and the calendar is the part they were unhappy with, which is the part we do."
+      - "Yes. Clients connect their own channels and approve their own posts in their own portal, so nothing publishes without a yes and you never hold anyone's password."
+
+  - q: "Can I keep writing in ChatGPT or Claude?"
+    a:
+      - "Yes. Bazam runs an MCP server, so your personas and brand voice appear inside the chat. Write there, then schedule and publish through Bazam."
+
+  - q: "Do I have to write the personas myself?"
+    a:
+      - "No. Bazam reads your website, works out who you sell to, and builds a persona for each of them: what they want, what worries them, why they buy. You read them, fix anything it got wrong, and they're yours."
+
+  - q: "I sell to businesses and to consumers. Can it handle both?"
+    a:
+      - "Yes. Set up a persona for each one: your consumers, your business buyers, the customers who drifted off. You pick which persona you're writing to before you generate, and every post in that campaign is written to them."
+
+  - q: "Will it still sound like us?"
+    a:
+      - "Yes. Bazam holds your brand voice, your offerings and your own facts, and applies all three to every post. The customer it writes to changes, your brand stays the same."
+
+  - q: "Does it post for me, or do I still do that bit?"
+    a:
+      - "Bazam posts it. Facebook, Instagram, TikTok, X, LinkedIn and WordPress, each getting the version written for it, on a schedule you set once."
+
+  - q: "Do I find out what worked?"
+    a:
+      - "Yes. Bazam collects likes, comments, clicks, impressions, reach, saves and follower growth from every channel you've connected, and shows them in one place grouped by campaign, so you can see which campaign was worth running."
+
+  - q: "I sell in more than one country."
+    a:
+      - "One campaign goes out in 50+ languages with your brand voice kept in each. You write it once and post it in every market you sell in."
+
+  - q: "How long before I'm posting?"
+    a:
+      - "Five minutes. Bazam reads your website, builds your personas and your offerings, and you connect your channels. After that, a month of content takes ten minutes."
 
 waitlist:
   id: "early-access"
-  title: "See it on your own audience"
-  description: "Tell us who you sell to. We'll build the audience model and send you back content written for that exact person, so you can put it next to anything else you're considering."
+  title: "See it on your own customers"
+  description: "Tell us who you sell to. We'll build the persona and send you back posts written for that customer."
   button: "Request access"
 ---

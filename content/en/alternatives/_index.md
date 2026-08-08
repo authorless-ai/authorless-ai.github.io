@@ -10,8 +10,8 @@ heroDescription:
   - "Every tool uses great AI models. What separates them is how much they're told about the person reading, and how much of the job you have to do yourself."
 
 featureCards:
-  title: "Pick the one you're weighing us against"
-  description: "Each page is a straight head-to-head: what the AI gets told, what it generates, and what still lands on your desk afterwards."
+  title: "Considering someone else?"
+  description: "Each page is a straight head-to-head: what the AI knows about your customer, what it writes, and what it leaves you to do yourself."
   cards:
     - title: "Bazam vs ChatGPT"
       icon: edit

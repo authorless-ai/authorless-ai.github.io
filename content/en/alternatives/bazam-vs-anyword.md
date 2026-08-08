@@ -36,7 +36,7 @@ features:
     points:
       - title: "Six platforms and your blog"
         description: "Facebook, Instagram, TikTok, X, LinkedIn and WordPress, each with the version built for it."
-      - title: "A month in an afternoon"
+      - title: "A month of content in ten minutes"
         description: "Queue it on a calendar you can drag. Move one post and the campaign moves with it."
       - title: "50+ languages"
         description: "One campaign, every market you sell in."
@@ -61,24 +61,43 @@ features:
 faq:
   - q: "Doesn't a performance score do the same job?"
     a:
-      - "No. A score ranks your draft against copy that has performed before. It doesn't know who your customer is or why they buy."
-      - "Bazam starts there instead, with thirty points about that customer."
+      - "No. A score ranks the words you already wrote against copy that performed before. It doesn't know who your customer is or why they buy, so you rewrite the same message until the number goes up."
 
   - q: "I already have personas written up somewhere."
     a:
-      - "Prose personas are fine for a slide deck and useless to software. Paste yours into Bazam and every post gets written from it."
-
-  - q: "Can Bazam publish, or does it stop at the copy?"
-    a:
-      - "It publishes. Six platforms and your blog, on a schedule, with approvals if you want them and analytics after."
+      - "Paste them in. Bazam turns them into structured personas, so instead of sitting in a document they get applied to every post, on every platform, in every language."
 
   - q: "Which one is cheaper?"
     a:
-      - "$39 a month against their $49, with the full 30-Point Audience Model on the entry plan."
+      - "Bazam starts at $39 a month, Anyword at $49. Our entry plan includes the full 30-Point Audience Model, every content type, all six publishing channels and 50+ languages."
 
-  - q: "Could I use both?"
+  - q: "Do I have to write the personas myself?"
     a:
-      - "Nothing stops you. Most people find the content and the calendar is the part they wanted fixed."
+      - "No. Bazam reads your website, works out who you sell to, and builds a persona for each of them: what they want, what worries them, why they buy. You read them, fix anything it got wrong, and they're yours."
+
+  - q: "I sell to businesses and to consumers. Can it handle both?"
+    a:
+      - "Yes. Set up a persona for each one: your consumers, your business buyers, the customers who drifted off. You pick which persona you're writing to before you generate, and every post in that campaign is written to them."
+
+  - q: "Will it still sound like us?"
+    a:
+      - "Yes. Bazam holds your brand voice, your offerings and your own facts, and applies all three to every post. The customer it writes to changes, your brand stays the same."
+
+  - q: "Does it post for me, or do I still do that bit?"
+    a:
+      - "Bazam posts it. Facebook, Instagram, TikTok, X, LinkedIn and WordPress, each getting the version written for it, on a schedule you set once."
+
+  - q: "Do I find out what worked?"
+    a:
+      - "Yes. Bazam collects likes, comments, clicks, impressions, reach, saves and follower growth from every channel you've connected, and shows them in one place grouped by campaign, so you can see which campaign was worth running."
+
+  - q: "I sell in more than one country."
+    a:
+      - "One campaign goes out in 50+ languages with your brand voice kept in each. You write it once and post it in every market you sell in."
+
+  - q: "How long before I'm posting?"
+    a:
+      - "Five minutes. Bazam reads your website, builds your personas and your offerings, and you connect your channels. After that, a month of content takes ten minutes."
 
 waitlist:
   id: "early-access"
