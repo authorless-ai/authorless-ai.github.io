@@ -1,0 +1,189 @@
+{{/*
+  Angle Carousel Partial
+
+  One persona pinned on the left, the same announcement written from a
+  different angle on the right. The point a visitor should get in three
+  seconds: pick a persona, pick an angle, and the words change completely.
+
+  Usage:
+    {{ partial "index/angle-carousel.html" (dict "data" .Params.angles "context" .) }}
+
+  Data shape:
+    title / description   section heading and subhead
+    brief                 small label above the cards, e.g. the one announcement
+                          every card is a version of
+    persona:
+      name                display name, e.g. "Dan, 34"
+      role                one line of context under the name
+      placeholder         description of the persona photo that belongs here.
+                          Renders a dashed avatar so a missing asset is visible
+      image / image_alt   a real image, once there is one
+      traits              list of { label, value } shown as the model's key fields
+      footnote            small line under the persona card
+    slides                list of:
+      angle               the angle name, e.g. "Fear of missing out"
+      channel             platform label shown in the post mock
+      copy                the generated post, written in that angle
+      note                one line on why this angle suits this persona
+    footer                closing line under the carousel
+*/}}
+
+{{ $data := .data }}
+{{ if and $data $data.slides }}
+{{ $count := len $data.slides }}
+<section class="bg-[#f7f7ff] dark:bg-gray-900 border-y border-primary-100 dark:border-gray-700">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+
+    {{ if or $data.title $data.description }}
+    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="grid gap-8 lg:grid-cols-12 lg:gap-10 items-start"
+      x-data="{
+        index: 0,
+        count: {{ $count }},
+        move(dir) { this.jump(Math.min(Math.max(this.index + dir, 0), this.count - 1)) },
+        jump(i) {
+          const track = this.$refs.track;
+          const card = track.children[i];
+          if (!card) return;
+          track.scrollTo({ left: card.offsetLeft - (track.clientWidth - card.clientWidth) / 2, behavior: 'smooth' });
+          this.index = i;
+        },
+        sync() {
+          const track = this.$refs.track;
+          const middle = track.scrollLeft + track.clientWidth / 2;
+          let best = 0, bestDist = Infinity;
+          Array.from(track.children).forEach((card, i) => {
+            const dist = Math.abs(card.offsetLeft + card.clientWidth / 2 - middle);
+            if (dist < bestDist) { bestDist = dist; best = i; }
+          });
+          this.index = best;
+        }
+      }">
+
+      {{/* Left: the persona, fixed while the angles move */}}
+      {{ with $data.persona }}
+      <div class="lg:col-span-4">
+        <div class="lg:sticky lg:top-24 rounded-2xl bg-white dark:bg-gray-800 shadow-xl ring-1 ring-gray-200 dark:ring-gray-700 p-6">
+          <p class="mb-4 text-xs font-bold uppercase tracking-widest text-primary-600 dark:text-primary-400">Writing to</p>
+
+          {{ if .image }}
+          <img class="w-28 h-28 rounded-full object-cover mb-4" src="{{ .image | absURL }}" alt="{{ .image_alt | default .name }}">
+          {{ else if .placeholder }}
+          {{/* Persona photo to add. Drop an `image:` on the persona to replace this. */}}
+          <div class="flex flex-col items-center justify-center text-center w-28 h-28 mb-4 rounded-full border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40">
+            <svg class="w-8 h-8 text-primary-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 0c-3.3 0-6 2.2-6 5v3h12v-3c0-2.8-2.7-5-6-5Z"/>
+            </svg>
+            <span class="mt-1 px-2 text-[10px] font-bold uppercase tracking-widest text-primary-500 dark:text-gray-500">Photo</span>
+          </div>
+          {{ end }}
+
+          {{ with .name }}<h3 class="text-2xl font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h3>{{ end }}
+          {{ with .role }}<p class="mt-1 mb-5 text-gray-500 dark:text-gray-400">{{ . | safeHTML }}</p>{{ end }}
+
+          {{ with .traits }}
+          <dl class="space-y-3 border-t border-gray-100 dark:border-gray-700 pt-5">
+            {{ range . }}
+            <div>
+              <dt class="text-xs font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">{{ .label }}</dt>
+              <dd class="text-base text-gray-700 dark:text-gray-300">{{ .value | safeHTML }}</dd>
+            </div>
+            {{ end }}
+          </dl>
+          {{ end }}
+
+          {{ with .placeholder }}
+          <p class="mt-5 text-xs text-gray-400 dark:text-gray-500">Image to add: {{ . | safeHTML }}</p>
+          {{ end }}
+
+          {{ with .footnote }}
+          <p class="mt-5 pt-5 border-t border-gray-100 dark:border-gray-700 text-sm text-gray-500 dark:text-gray-400">{{ . | safeHTML }}</p>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{/* Right: the same message, angle by angle */}}
+      <div class="lg:col-span-8 min-w-0">
+        <div class="flex flex-wrap items-end justify-between gap-4 mb-4">
+          {{ with $data.brief }}
+          <p class="text-sm text-gray-500 dark:text-gray-400"><span class="font-bold uppercase tracking-widest text-xs text-gray-400 dark:text-gray-500 mr-2">One announcement</span>{{ . | safeHTML }}</p>
+          {{ end }}
+          <div class="flex gap-2 ml-auto">
+            <button type="button" aria-label="Previous angle" @click="move(-1)" :disabled="index === 0"
+              class="flex items-center justify-center w-10 h-10 rounded-full bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-40">
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+            </button>
+            <button type="button" aria-label="Next angle" @click="move(1)" :disabled="index === count - 1"
+              class="flex items-center justify-center w-10 h-10 rounded-full bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-40">
+              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
+            </button>
+          </div>
+        </div>
+
+        {{/* The padding is load-bearing: overflow-x-auto clips vertically as well,
+             so without it the active card's ring and the card shadows get cut off
+             at the edges of the scrollport. The negative margin puts the cards back
+             in line with the heading above. */}}
+        <div class="relative flex gap-4 overflow-x-auto snap-x snap-mandatory scroll-smooth px-1.5 -mx-1.5 pt-1.5 pb-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+          x-ref="track" @scroll.debounce.100ms="sync()">
+          {{ range $i, $slide := $data.slides }}
+          {{/* The ring lives only in the binding. Alpine adds classes without
+               removing static ones, so a static ring-1 here would fight the
+               active ring-2 and the winner would depend on stylesheet order. */}}
+          <article class="snap-center shrink-0 w-[88%] sm:w-[70%] lg:w-[calc(60%-0.5rem)] rounded-2xl bg-white dark:bg-gray-800 shadow-xl p-6 flex flex-col border border-gray-200 dark:border-gray-700"
+            :class="index === {{ $i }} ? 'ring-2 ring-inset ring-primary-500' : ''">
+            <div class="flex items-center justify-between gap-3 mb-4">
+              <span class="px-3 py-1 text-xs font-bold uppercase tracking-widest rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-300">{{ $slide.angle }}</span>
+              {{ with $slide.channel }}
+              <span class="text-xs font-medium text-gray-400 dark:text-gray-500">{{ . }}</span>
+              {{ end }}
+            </div>
+
+            <div class="flex-1 rounded-xl bg-gray-50 dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700 p-5">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="w-9 h-9 rounded-full border-2 border-dashed border-gray-300 dark:border-gray-600"></div>
+                <div>
+                  <p class="text-sm font-bold text-gray-900 dark:text-white leading-tight">{{ with $data.brand }}{{ . }}{{ else }}Your brand{{ end }}</p>
+                  <p class="text-xs text-gray-400 dark:text-gray-500 leading-tight">Scheduled by Bazam</p>
+                </div>
+              </div>
+              <p class="text-base leading-relaxed text-gray-800 dark:text-gray-200">{{ $slide.copy | safeHTML }}</p>
+            </div>
+
+            {{ with $slide.note }}
+            <p class="mt-4 text-sm text-gray-500 dark:text-gray-400">{{ . | safeHTML }}</p>
+            {{ end }}
+          </article>
+          {{ end }}
+        </div>
+
+        {{/* Dots, and the angle names on wider screens */}}
+        <div class="mt-5 flex flex-wrap items-center gap-2">
+          {{ range $i, $slide := $data.slides }}
+          <button type="button" @click="jump({{ $i }})"
+            class="px-3 py-1.5 text-sm font-medium rounded-full border transition-colors"
+            :class="index === {{ $i }} ? 'bg-primary-700 text-white border-primary-700' : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700'">
+            {{ $slide.angle }}
+          </button>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    {{ with $data.footer }}
+    <p class="mt-10 text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | safeHTML }}</p>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

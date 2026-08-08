@@ -1,0 +1,113 @@
+{{/*
+  Persona Grid Partial
+
+  Sits under the angle carousel. The carousel proves one persona changes the
+  words; this proves you can hold several and talk to each of them separately
+  (the business buyer and the consumer are not the same reader).
+
+  Usage:
+    {{ partial "index/persona-grid.html" (dict "data" .Params.personas "context" .) }}
+
+  Data shape:
+    title / description   section heading and subhead
+    personas              list of:
+      badge               short label, e.g. "B2C" / "B2B"
+      name                display name
+      role                one line of context
+      image / image_alt   a real image, once there is one
+      placeholder         description of the persona photo that belongs here
+      sample              the opening line a post to this persona actually uses
+      note                one line on what the model changed
+    placeholder           description of the supporting screenshot under the cards
+    image / image_alt     a real screenshot, once there is one
+    caption               small line under the screenshot
+    footer                closing line
+*/}}
+
+{{ $data := .data }}
+{{ if $data }}
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+
+    {{ if or $data.title $data.description }}
+    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ with $data.personas }}
+    <div class="grid gap-6 md:grid-cols-3 items-stretch">
+      {{ range . }}
+      <div class="flex flex-col rounded-2xl bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6">
+        <div class="flex items-center gap-4 mb-4">
+          {{ if .image }}
+          <img class="w-16 h-16 rounded-full object-cover shrink-0" src="{{ .image | absURL }}" alt="{{ .image_alt | default .name }}">
+          {{ else }}
+          {{/* Persona photo to add. Drop an `image:` on this persona to replace it. */}}
+          <div class="flex items-center justify-center w-16 h-16 shrink-0 rounded-full border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40">
+            <svg class="w-7 h-7 text-primary-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+              <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm0 0c-3.3 0-6 2.2-6 5v3h12v-3c0-2.8-2.7-5-6-5Z"/>
+            </svg>
+          </div>
+          {{ end }}
+          <div class="min-w-0">
+            {{ with .badge }}
+            <span class="inline-block mb-1 px-2 py-0.5 text-[10px] font-bold uppercase tracking-widest rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-300">{{ . }}</span>
+            {{ end }}
+            <h3 class="text-lg font-bold text-gray-900 dark:text-white leading-tight">{{ .name | safeHTML }}</h3>
+            {{ with .role }}<p class="text-sm text-gray-500 dark:text-gray-400">{{ . | safeHTML }}</p>{{ end }}
+          </div>
+        </div>
+
+        {{ with .sample }}
+        <div class="flex-1 rounded-xl bg-white dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700 p-4">
+          <p class="mb-2 text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">How a post opens for them</p>
+          <p class="text-base leading-relaxed text-gray-800 dark:text-gray-200">{{ . | safeHTML }}</p>
+        </div>
+        {{ end }}
+
+        {{ with .note }}
+        <p class="mt-4 text-sm text-gray-500 dark:text-gray-400">{{ . | safeHTML }}</p>
+        {{ end }}
+
+        {{ with .placeholder }}
+        <p class="mt-3 text-xs text-gray-400 dark:text-gray-500">Image to add: {{ . | safeHTML }}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ if or $data.image $data.placeholder }}
+    <div class="mt-10 rounded-2xl overflow-hidden shadow-xl bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700">
+      {{ with $data.image }}
+      <img class="w-full block" src="{{ . | absURL }}" alt="{{ $data.image_alt | default $data.title }}">
+      {{ end }}
+      {{ with $data.placeholder }}
+      <div class="flex flex-col items-center justify-center text-center border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40 px-6 py-16 min-h-[22rem]">
+        <svg class="w-12 h-12 mb-4 text-primary-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16.5 8.5 12l3 3L16 10.5l4 4M4 5h16a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1Z"/>
+        </svg>
+        <p class="text-xs font-bold uppercase tracking-widest text-primary-500 dark:text-gray-500 mb-3">Image to add</p>
+        <p class="max-w-xl text-base text-gray-600 dark:text-gray-400">{{ . | safeHTML }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{ with $data.caption }}
+    <p class="mt-3 text-center text-sm text-gray-500 dark:text-gray-400">{{ . | safeHTML }}</p>
+    {{ end }}
+
+    {{ with $data.footer }}
+    <p class="mt-10 text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | safeHTML }}</p>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

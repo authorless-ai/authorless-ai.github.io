@@ -1,38 +1,110 @@
 ---
-title: "Your AI doesn't know who it's writing to."
-superTitle: "The 30-Point Audience Model"
-description: "Bazam builds a 30-point model of your reader, then writes, translates, schedules and publishes everything to it. Content written for someone, not everyone."
+title: "A month of posts written to each of your audiences"
+superTitle: "30-Point Audience Model. Publish to six platforms."
+description: "Bazam writes, schedules and publishes your social posts and blog, so your business is always out there. Personas let you talk to each kind of customer in their own language."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "So it writes something anyone could have written, for no one specific, and which everyone ignores."
-  - "Bazam builds a <b>30-point model of your reader</b>: what drives them, what worries them, how they decide. Everything you generate gets written to that person, in your brand voice, about what you really sell, then scheduled, translated and published for you."
+  - "You sell to more than one kind of person. Bazam's <b>personas</b> let you <b>write, schedule and publish</b> for each of them, so you get more attention"
 
 # ---------------------------------------------------------------------------
-# 2. Contrast
+# 2. One persona, six angles
 # ---------------------------------------------------------------------------
-contrast:
-  title: "The alternatives ask you to describe your audience in a text box."
-  description: "Then they write to whoever you typed, which is why it's ignored."
-  left:
-    badge: "The alternatives"
-    label: "What they call an audience"
-    tone: "muted"
-    field:
-      label: "Who is this for?"
-      value: "small business owners, 30-50"
-    caption: "That's the whole brief, and it's the same few words behind every piece of content they generate."
-  right:
-    badge: "Bazam"
-    label: "What we call an audience"
-    tone: "brand"
-    placeholder: "Screenshot of a fully-populated audience model in Bazam, with every section expanded so the field count reads at a glance. Use a recognisable audience and make sure the emotional drivers, values and buying-behaviour fields contain real, specific text. This image is the most important asset on the site."
-    caption: "Thirty points: what they want, what worries them, what they believe, how they buy. Build it once and every wizard, channel and language writes from it."
-  footer: "Similar AI models. Same task. Completely different brief."
+angles:
+  title: "One persona. Six ways to say the same thing."
+  description: "This is one gym announcing one thing to one customer. Pick a different angle and the post changes completely, because Bazam knows who is reading it."
+  brief: "The 6-week strength programme starts Monday."
+  brand: "Northgate Strength"
+  persona:
+    name: "Dan, 34"
+    role: "Pays monthly. Trains around a full-time job and two kids."
+    placeholder: "photo or illustrated avatar of this persona, around 300x300. A real-looking headshot beats an icon here, because the whole point is that the reader is a person."
+    traits:
+      - label: "What drives him"
+        value: "Wants to feel strong again, and keep beating his personal best."
+      - label: "What worries him"
+        value: "Starting, missing two weeks, and dropping it like last time."
+      - label: "How he decides"
+        value: "Fast, on impulse, when the next step is small and obvious."
+    footnote: "Three of the thirty points in Dan's 30-Point Audience Model. Every one of them moves the writing."
+  slides:
+    - angle: "Fear of missing out"
+      copy: "12 places. 6 weeks. Starts Monday. The last round filled in a day and the waitlist never got a look in. If you want one of these, take it now."
+      note: "Scarcity and a deadline, because Dan decides fast when something is about to close."
+    - angle: "Loss"
+      copy: "You earned that strength in January. Six weeks off and your body starts to sag. Monday we start putting it back, with a plan that fits round a full-time job."
+      note: "Names what he already has and stands to lose, which lands harder than anything he might gain."
+    - angle: "Aspiration"
+      copy: "Six weeks from Monday you could be lifting more than you ever have. Same you, better numbers, and a programme that treats you like an athlete rather than a beginner."
+      note: "Speaks to the competitive streak: his old numbers are the target, and he wants to beat them."
+    - angle: "Social proof"
+      copy: "41 people finished the last round. 38 of them added weight to every main lift, most of them training three mornings a week before work. The next six weeks start Monday."
+      note: "People like him, doing it around a job, so the programme reads as achievable rather than aspirational."
+    - angle: "Curiosity"
+      copy: "Most people train hard for four weeks and then stall. There is a reason for it, and it has nothing to do with effort. Our 6-week programme starts Monday, and week three is where it gets interesting."
+      note: "Opens a question instead of an offer, for the days he scrolls past anything that looks like an ad."
+    - angle: "Practical"
+      copy: "Three sessions a week, 45 minutes each, planned for you in advance. Nothing to decide when you walk in. Six weeks, starting Monday, built around a working week."
+      note: "Removes the friction he is worried about: time, and having to think about it."
+  footer: "Same gym, same news, same brand voice. You pick the angle, Bazam writes it, schedules it and posts it."
 
 # ---------------------------------------------------------------------------
-# 3. Evidence
+# 3. More than one kind of reader
+# ---------------------------------------------------------------------------
+personas:
+  title: "Most businesses sell to more than one kind of person."
+  description: "So set up a persona for each: the consumers who buy from you, the businesses that buy from you, the customers who drifted off. Pick one before you generate and everything downstream is written to that reader."
+  personas:
+    - badge: "Consumer"
+      name: "Dan, 34"
+      role: "Pays monthly, trains around a full-time job"
+      placeholder: "headshot-style avatar, 200x200"
+      sample: "Three sessions a week, 45 minutes each, planned for you in advance. Six weeks, starts Monday."
+      note: "Short on time and decides on impulse, so the offer lands first and the detail follows."
+    - badge: "Business buyer"
+      name: "Priya"
+      role: "HR lead, buys corporate memberships for 200 staff"
+      placeholder: "headshot-style avatar, 200x200"
+      sample: "Staff absence is the quietest line on your budget. Here is what twelve weeks of structured training did to ours."
+      note: "Has to justify the spend to someone else, so the same programme leads with cost and proof."
+    - badge: "Win-back"
+      name: "Ellie, 29"
+      role: "Member for a year, stopped coming in March"
+      placeholder: "headshot-style avatar, 200x200"
+      sample: "You did the hard part back in January. Picking it up again takes one session, and we kept your programme."
+      note: "Worried about walking back in as a beginner, so nothing in the post makes her feel behind."
+  placeholder: "Screenshot of the audience list in Bazam with several audiences on screen at once, and one of them expanded to show a fully-populated 30-Point Audience Model. Use real, specific text in the emotional drivers, values and buying-behaviour fields. This is the most important image on the site."
+  caption: "Build each persona once. Every wizard, channel and language writes from it after that."
+  footer: "Other tools give you one text box and a sentence like “small business owners, 30-50”, then write everything to that. A Bazam persona is a <b>30-Point Audience Model</b>: what drives them, what worries them, what they believe, how they buy."
+
+# ---------------------------------------------------------------------------
+# 4. The calendar
+# ---------------------------------------------------------------------------
+calendar:
+  title: "Write it Monday. Post all month."
+  description: "Queue a month of content across six platforms and a dozen languages."
+  placeholder: "Animation or screenshot of the content calendar. A month view with posts on many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date, then publishing, is the strongest version of this and is worth the effort: it is the only asset on the page that proves Bazam does the boring half of the job."
+  points:
+    - title: "Drag, drop, done"
+      description: "Move a post to another day and the whole campaign shifts with it. Set recurring slots and multi-day runs once and stop thinking about them."
+    - title: "Six platforms, one queue"
+      description: "Each one gets the version built for it, with the copy, tone and aspect ratio already adapted. No exporting, no reformatting, no logging in six times."
+    - title: "Nothing goes live without a yes"
+      description: "Turn approvals on and everything waits for sign-off. Clients can review and approve in their own portal, without ever seeing your password."
+  logos:
+    title: "Publishes direct to"
+    items:
+      - name: "Facebook"
+      - name: "Instagram"
+      - name: "TikTok"
+      - name: "X"
+      - name: "LinkedIn"
+      - name: "WordPress"
+  footer: "Publishing consistently is what makes content marketing work, and it's the first thing to slip when you get busy. Let us handle it."
+
+# ---------------------------------------------------------------------------
+# 5. Evidence
 # ---------------------------------------------------------------------------
 evidence:
   title: "The message does five times more work than targeting."
@@ -51,7 +123,7 @@ evidence:
   footer: "Thirty points give the AI thirty ways to understand your audience. A text box gives it a couple of words and a guess."
 
 # ---------------------------------------------------------------------------
-# 4. Three fields, and per-angle generation
+# 6. Three fields, and per-angle generation
 # ---------------------------------------------------------------------------
 features:
   - title: "Three fields no other tool asks for"
@@ -69,11 +141,11 @@ features:
     footer:
       - "Fill in those three, regenerate, and read the difference."
 
-  - title: "One product. Different angles for different people."
+  - title: "Every format you publish, from the same persona."
     image: "/images/campaign-options.png"
     image_alt: "Choosing an audience and an angle before generating a campaign"
     description:
-      - "Your audiences don't want the same things, so stop sending them the same content. Pick an audience <i>and</i> an angle, and one launch reaches each of them on their own terms."
+      - "You saw the angles at the top of the page. The same persona sits behind every format too, so a blog post, a launch campaign and a case study all speak to the reader you picked."
     points:
       - title: "Pick the audience, pick the angle"
         description: "Same product, same brand voice. A time-saving hook for one audience, a risk-and-compliance hook for the next."
@@ -100,7 +172,7 @@ features:
       - "So your content names your product, your positioning and your proof, instead of guessing."
 
 # ---------------------------------------------------------------------------
-# 5. Before/after
+# 7. Before/after
 # ---------------------------------------------------------------------------
 sample:
   background: "white"
@@ -119,32 +191,7 @@ sample:
   footer: "Want this to run on one of your own audiences? Create an audience in 30s and see the difference."
 
 # ---------------------------------------------------------------------------
-# 6. The calendar
-# ---------------------------------------------------------------------------
-calendar:
-  title: "Write it Monday. Post all month."
-  description: "Queue a month of content across six platforms and a dozen languages."
-  placeholder: "Animation or screenshot of the content calendar. A month view with posts on many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date, then publishing, is the strongest version of this and is worth the effort: it is the only asset on the page that proves Bazam does the boring half of the job."
-  points:
-    - title: "Drag, drop, done"
-      description: "Move a post to another day and the whole campaign shifts with it. Set recurring slots and multi-day runs once and stop thinking about them."
-    - title: "Six platforms, one queue"
-      description: "Each one gets the version built for it, with the copy, tone and aspect ratio already adapted. No exporting, no reformatting, no logging in six times."
-    - title: "Nothing goes live without a yes"
-      description: "Turn approvals on and everything waits for sign-off. Clients can review and approve in their own portal, without ever seeing your password."
-  logos:
-    title: "Publishes direct to"
-    items:
-      - name: "Facebook"
-      - name: "Instagram"
-      - name: "TikTok"
-      - name: "X"
-      - name: "LinkedIn"
-      - name: "WordPress"
-  footer: "Publishing consistently is what makes content marketing work, and it's the first thing to slip when you get busy. Let us handle it."
-
-# ---------------------------------------------------------------------------
-# 7. How it works
+# 9. How it works
 # ---------------------------------------------------------------------------
 introFeatures:
   - step: "1"
@@ -159,7 +206,7 @@ introFeatures:
 
 
 # ---------------------------------------------------------------------------
-# 8. Who it's for
+# 10. Who it's for
 # ---------------------------------------------------------------------------
 featureCards:
   title: "Built for anyone writing to more than one kind of reader"
@@ -179,12 +226,12 @@ featureCards:
       description: "You already sell audience research and bill for the deck. Bazam produces that in minutes, then writes every campaign downstream from it. Clients sign off in their own portal and never hand over their social passwords."
 
 # ---------------------------------------------------------------------------
-# 9. Comparison
+# 11. Comparison
 # ---------------------------------------------------------------------------
 comparisonGrid: "comparison_tools"
 
 # ---------------------------------------------------------------------------
-# 10. Objections
+# 12. Objections
 # ---------------------------------------------------------------------------
 faq:
   - q: "Isn't this just ChatGPT/Claude with extra steps?"
@@ -216,7 +263,7 @@ faq:
       - "Second, where they stop. They hand you copy. Bazam schedules it, adapts it per platform, publishes it to six channels, translates it into 50+ languages and reports back on how it did. Look at the table above and judge it on both."
 
 # ---------------------------------------------------------------------------
-# 11. Coming soon
+# 13. Coming soon
 # ---------------------------------------------------------------------------
 topFeatures:
   title: "Coming soon"
@@ -230,7 +277,7 @@ topFeatures:
       description: "Test angles against each audience and promote the winners. Your models get sharper with every campaign, and they belong to you rather than to an ad platform."
 
 # ---------------------------------------------------------------------------
-# 12. Early access
+# 14. Early access
 # ---------------------------------------------------------------------------
 waitlist:
   id: "early-access"
