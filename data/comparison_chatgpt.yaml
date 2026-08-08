@@ -1,0 +1,125 @@
+### Head-to-head grid for /alternatives/bazam-vs-chatgpt/.
+###
+### Two columns only. ChatGPT and Claude are also things Bazam plugs into over
+### MCP, so this grid concedes the drafting row and wins on the brief and on
+### everything that happens after the draft.
+
+id: comparison_chatgpt
+prefix: fg_cmp_chatgpt
+title: "Bazam vs ChatGPT"
+subtitle: "Producing a draft is one step of about six. Here is the rest of the job, and who does it."
+
+columns:
+  - id: chatgpt
+    heading: "ChatGPT"
+  - id: bazam
+    heading: "Bazam"
+    highlight: true
+
+sections:
+  - id: brief
+    name: "What the AI is told"
+    rows:
+      - id: reader
+        feature: "Who it's writing to"
+        values:
+          - text: "Whatever you typed this time"
+          - text: "A 30-point model, per audience"
+      - id: depth
+        feature: "Knows their drivers, values and buying behaviour"
+        values:
+          - check: false
+          - check: true
+      - id: persists
+        feature: "Still knows next month"
+        values:
+          - check: false
+            text: "Gone with the chat"
+          - check: true
+            text: "The model is yours"
+      - id: subject
+        feature: "Knows your company, brand and offerings"
+        desc: "Held as profiles, applied to everything you generate"
+        values:
+          - check: false
+            text: "Re-paste it every time"
+          - check: true
+            text: "Company, brand, offering"
+      - id: shared
+        feature: "The whole team writes from the same brief"
+        values:
+          - check: false
+          - check: true
+
+  - id: generating
+    name: "Generating"
+    rows:
+      - id: quality
+        feature: "Draft quality from a good prompt"
+        values:
+          - check: true
+            text: "Excellent"
+          - check: true
+            text: "Excellent"
+      - id: angles
+        feature: "A different angle for each audience, from one brief"
+        values:
+          - check: false
+            text: "Only if you re-prompt"
+          - check: true
+      - id: types
+        feature: "Marketing content types built in"
+        values:
+          - check: false
+          - check: true
+            text: "30+"
+      - id: perchannel
+        feature: "One brief becomes a version per platform"
+        values:
+          - check: false
+          - check: true
+
+  - id: shipping
+    name: "Getting it out the door"
+    rows:
+      - id: publishing
+        feature: "Publishes to your channels"
+        values:
+          - check: false
+          - check: true
+            text: "6 platforms and your blog"
+      - id: scheduling
+        feature: "Content calendar and scheduling"
+        values:
+          - check: false
+          - check: true
+      - id: translation
+        feature: "Translation into 50+ languages"
+        values:
+          - check: false
+            text: "One at a time, by hand"
+          - check: true
+      - id: analytics
+        feature: "Analytics on what you published"
+        values:
+          - check: false
+          - check: true
+            text: "Normalised across channels"
+      - id: approvals
+        feature: "Approvals and client sign-off"
+        desc: "Clients review in their own portal, without your passwords"
+        values:
+          - check: false
+          - check: true
+
+  - id: together
+    name: "Using both"
+    rows:
+      - id: mcp
+        feature: "Your audiences and brand voice inside the chat"
+        desc: "Bazam runs an MCP server, so you can draft in the chat and publish through us"
+        values:
+          - check: true
+            text: "Via Bazam"
+          - check: true
+            text: "MCP: audiences, voice, publishing"

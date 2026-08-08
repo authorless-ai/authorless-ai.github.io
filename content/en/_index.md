@@ -209,7 +209,7 @@ featureCards:
 # ---------------------------------------------------------------------------
 # 11. Comparison
 # ---------------------------------------------------------------------------
-comparisonGrid: "comparison_tools"
+comparisonGrid: "comparison_generic"
 
 # ---------------------------------------------------------------------------
 # 12. Objections
@@ -238,10 +238,11 @@ faq:
     a:
       - "It publishes. Facebook, Instagram, TikTok, X, LinkedIn and WordPress, direct, on a schedule you set from a drag-and-drop calendar. One brief becomes a distinct version per platform, with copy, tone and aspect ratio adapted to each. It translates into 50+ languages, and it tracks likes, shares, comments, clicks, impressions, reach, saves and follower growth across every connected channel, rolled up by campaign so you can see which one pulled its weight."
 
-  - q: "How is this different from Jasper, Copy.ai or Anyword?"
+  - q: "How is this different from the other AI writing tools?"
     a:
-      - "They're good tools running on the same frontier models we do. Two things separate us. First, what those models get told: Jasper and Copy.ai let you type an audience into a box, and Anyword predicts how copy might perform before you run it. Not one of them holds a thirty-point model of each audience that drives every generation, in every format and every language."
-      - "Second, where they stop. They hand you copy. Bazam schedules it, adapts it per platform, publishes it to six channels, translates it into 50+ languages and reports back on how it did. Look at the table above and judge it on both."
+      - "Two things. First, what the AI is told. The rest of the market gives you a text box and one line about your audience, then writes everything from it. Bazam holds a thirty-point model of each of your audiences and applies it to every piece, in every format and every language."
+      - "Second, where they stop. They hand you copy. Bazam schedules it, adapts it per platform, publishes it to six channels and your blog, translates it into 50+ languages and reports back on how it did."
+      - "If you're weighing us against something specific, the [head-to-head comparisons](/alternatives/) go through it row by row."
 
 # ---------------------------------------------------------------------------
 # 13. Coming soon

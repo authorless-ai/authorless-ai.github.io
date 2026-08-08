@@ -1,14 +1,13 @@
 ---
 layout: marketing
-title: "Brief to published, without you in the middle"
+title: "From brief to published, and analytics pulled in"
 superTitle: "How Bazam works"
 description: "From a one-line description of your reader to content written, adapted per platform, translated, scheduled, published and measured. The whole pipeline in one place."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Every AI writing tool hands you a draft and leaves the rest to you: the reformatting, the six logins, the scheduler, the chasing up what worked."
-  - "Point Bazam at your website and it works out your business, your brand and who you're selling to. After that every campaign is: pick an audience, pick a content type, and Bazam writes, schedules, publishes and reports back."
+  - "Every AI writing tool hands you a draft and leaves the rest to you: the reformatting, the six logins, the scheduler, the chasing up what worked. Bazam writes, schedules, publishes and pulls your analytics"
 
 # ---------------------------------------------------------------------------
 # The pipeline
@@ -64,7 +63,7 @@ calendar:
       - name: "WordPress"
   footer: "Publishing consistently is what makes content marketing work, and it is the first thing to slip when you get busy."
 
-comparisonGrid: "comparison_tools"
+comparisonGrid: "comparison_generic"
 
 # ---------------------------------------------------------------------------
 # Depth

@@ -34,9 +34,9 @@ faq:
     a:
       - "No. AI marketing agents like Bazam.ai work through natural conversation — no prompts, templates, or technical jargon. Type 'write a blog post about our new service' or 'how did Instagram perform last week?' and the agent handles it. If you can send a message, you can use it."
 
-  - q: "How is an AI agent different from AI writing tools like Jasper?"
+  - q: "How is an AI agent different from an AI writing tool?"
     a:
-      - "AI writing tools generate text. AI marketing agents like Bazam.ai create content, schedule it, publish across 8+ platforms, track analytics, suggest strategy, and remember everything about your brand. Jasper gives you a draft. A marketing agent gives you a marketing department."
+      - "AI writing tools generate text. AI marketing agents like Bazam.ai create content, schedule it, publish across your platforms, track analytics, suggest strategy, and remember everything about your brand. A writing tool gives you a draft. A marketing agent gives you a marketing department."
 
   - q: "What is the best AI marketing agent?"
     a:

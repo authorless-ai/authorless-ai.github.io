@@ -10,7 +10,9 @@ heroDescription:
   - "Blaze writes for your brand and industry. Bazam writes for one specific reader, and a different one tomorrow."
   - "Thirty structured points about that person drive every post, ad and email, then Bazam publishes them to six channels on your calendar. <b>From $39 a month against their $79.</b>"
 
-comparisonGrid: "comparison_tools"
+comparisonGrid: "comparison_blaze"
+aliases:
+  - "/vs-blaze/"
 
 features:
   - title: "Where we're better"

@@ -697,3 +697,474 @@ other = "$49/mo"
 
 [fg_cmp_tools__cost__price__bazam]
 other = "$39/mo"
+
+[fg_cmp_anyword__title]
+other = "Bazam vs Anyword"
+
+[fg_cmp_anyword__subtitle]
+other = "Both produce marketing copy. The difference is how much the tool is told about the person reading it, and how much of the job it finishes."
+
+[fg_cmp_anyword__anyword]
+other = "Anyword"
+
+[fg_cmp_anyword__bazam]
+other = "Bazam"
+
+[fg_cmp_anyword__brief]
+other = "What the AI is told"
+
+[fg_cmp_anyword__brief__reader]
+other = "Who it's writing to"
+
+[fg_cmp_anyword__brief__reader__anyword]
+other = "A persona you write yourself"
+
+[fg_cmp_anyword__brief__reader__bazam]
+other = "A 30-point model, per audience"
+
+[fg_cmp_anyword__brief__depth]
+other = "Knows their drivers, values and buying behaviour"
+
+[fg_cmp_anyword__brief__subject]
+other = "Knows your company, brand and offerings"
+
+[fg_cmp_anyword__brief__subject__desc]
+other = "Held as profiles, applied to everything you generate"
+
+[fg_cmp_anyword__brief__subject__anyword]
+other = "Brand voice only"
+
+[fg_cmp_anyword__brief__subject__bazam]
+other = "Company, brand, offering"
+
+[fg_cmp_anyword__brief__knowledge]
+other = "Your own facts, docs and URLs in a knowledge base"
+
+[fg_cmp_anyword__generating]
+other = "Generating"
+
+[fg_cmp_anyword__generating__angles]
+other = "A different angle for each audience, from one brief"
+
+[fg_cmp_anyword__generating__types]
+other = "Marketing content types built in"
+
+[fg_cmp_anyword__generating__types__bazam]
+other = "30+"
+
+[fg_cmp_anyword__generating__perchannel]
+other = "One brief becomes a version per platform"
+
+[fg_cmp_anyword__generating__prediction]
+other = "Scores copy before you publish"
+
+[fg_cmp_anyword__generating__prediction__bazam]
+other = "We measure what happened instead"
+
+[fg_cmp_anyword__shipping]
+other = "Getting it out the door"
+
+[fg_cmp_anyword__shipping__publishing]
+other = "Publishes to your channels"
+
+[fg_cmp_anyword__shipping__publishing__anyword]
+other = "Copy it out yourself"
+
+[fg_cmp_anyword__shipping__publishing__bazam]
+other = "6 platforms and your blog"
+
+[fg_cmp_anyword__shipping__scheduling]
+other = "Content calendar and scheduling"
+
+[fg_cmp_anyword__shipping__translation]
+other = "Translation into 50+ languages"
+
+[fg_cmp_anyword__shipping__analytics]
+other = "Reports on the posts it published for you"
+
+[fg_cmp_anyword__shipping__analytics__anyword]
+other = "Nothing published to measure"
+
+[fg_cmp_anyword__shipping__analytics__bazam]
+other = "Normalised across channels"
+
+[fg_cmp_anyword__shipping__approvals]
+other = "Approvals and client sign-off"
+
+[fg_cmp_anyword__shipping__approvals__desc]
+other = "Clients review in their own portal, without your passwords"
+
+[fg_cmp_anyword__shipping__mcp]
+other = "Brings your setup into the AI chat you already use"
+
+[fg_cmp_anyword__shipping__mcp__bazam]
+other = "MCP: audiences, voice, publishing"
+
+[fg_cmp_anyword__cost]
+other = "Cost"
+
+[fg_cmp_anyword__cost__price]
+other = "Entry price"
+
+[fg_cmp_anyword__cost__price__anyword]
+other = "$49/mo"
+
+[fg_cmp_anyword__cost__price__bazam]
+other = "$39/mo"
+
+[fg_cmp_anyword__cost__included]
+other = "Full audience model on the entry plan"
+
+[fg_cmp_blaze__title]
+other = "Bazam vs Blaze"
+
+[fg_cmp_blaze__subtitle]
+other = "Both write and publish. The difference is who the writing is aimed at, and what happens when you run this for other people."
+
+[fg_cmp_blaze__blaze]
+other = "Blaze"
+
+[fg_cmp_blaze__bazam]
+other = "Bazam"
+
+[fg_cmp_blaze__brief]
+other = "What the AI is told"
+
+[fg_cmp_blaze__brief__reader]
+other = "Who it's writing to"
+
+[fg_cmp_blaze__brief__reader__blaze]
+other = "Your brand and industry"
+
+[fg_cmp_blaze__brief__reader__bazam]
+other = "A 30-point model, per audience"
+
+[fg_cmp_blaze__brief__depth]
+other = "Knows their drivers, values and buying behaviour"
+
+[fg_cmp_blaze__brief__several]
+other = "Holds several audiences and writes to each separately"
+
+[fg_cmp_blaze__brief__subject]
+other = "Knows your company, brand and offerings"
+
+[fg_cmp_blaze__brief__subject__desc]
+other = "Held as profiles, applied to everything you generate"
+
+[fg_cmp_blaze__brief__subject__blaze]
+other = "Brand profile"
+
+[fg_cmp_blaze__brief__subject__bazam]
+other = "Company, brand, offering"
+
+[fg_cmp_blaze__generating]
+other = "Generating"
+
+[fg_cmp_blaze__generating__angles]
+other = "A different angle for each audience, from one brief"
+
+[fg_cmp_blaze__generating__types]
+other = "Marketing content types built in"
+
+[fg_cmp_blaze__generating__types__bazam]
+other = "30+"
+
+[fg_cmp_blaze__generating__perchannel]
+other = "One brief becomes a version per platform"
+
+[fg_cmp_blaze__shipping]
+other = "Getting it out the door"
+
+[fg_cmp_blaze__shipping__publishing]
+other = "Publishes to your channels"
+
+[fg_cmp_blaze__shipping__publishing__bazam]
+other = "6 platforms and your blog"
+
+[fg_cmp_blaze__shipping__scheduling]
+other = "Content calendar and scheduling"
+
+[fg_cmp_blaze__shipping__translation]
+other = "Translation into 50+ languages"
+
+[fg_cmp_blaze__shipping__analytics]
+other = "Analytics on what you published"
+
+[fg_cmp_blaze__shipping__analytics__bazam]
+other = "Normalised across channels"
+
+[fg_cmp_blaze__shipping__approvals]
+other = "Approvals and client sign-off"
+
+[fg_cmp_blaze__shipping__approvals__desc]
+other = "Clients review in their own portal, without your passwords"
+
+[fg_cmp_blaze__shipping__projects]
+other = "A separate project per client"
+
+[fg_cmp_blaze__shipping__projects__desc]
+other = "Own audiences, brand voice, knowledge base and access"
+
+[fg_cmp_blaze__shipping__mcp]
+other = "Brings your setup into the AI chat you already use"
+
+[fg_cmp_blaze__shipping__mcp__bazam]
+other = "MCP: audiences, voice, publishing"
+
+[fg_cmp_blaze__cost]
+other = "Cost"
+
+[fg_cmp_blaze__cost__price]
+other = "Entry price"
+
+[fg_cmp_blaze__cost__price__blaze]
+other = "$79/mo"
+
+[fg_cmp_blaze__cost__price__bazam]
+other = "$39/mo"
+
+[fg_cmp_blaze__cost__included]
+other = "Full audience model on the entry plan"
+
+[fg_cmp_chatgpt__title]
+other = "Bazam vs ChatGPT"
+
+[fg_cmp_chatgpt__subtitle]
+other = "Producing a draft is one step of about six. Here is the rest of the job, and who does it."
+
+[fg_cmp_chatgpt__chatgpt]
+other = "ChatGPT"
+
+[fg_cmp_chatgpt__bazam]
+other = "Bazam"
+
+[fg_cmp_chatgpt__brief]
+other = "What the AI is told"
+
+[fg_cmp_chatgpt__brief__reader]
+other = "Who it's writing to"
+
+[fg_cmp_chatgpt__brief__reader__chatgpt]
+other = "Whatever you typed this time"
+
+[fg_cmp_chatgpt__brief__reader__bazam]
+other = "A 30-point model, per audience"
+
+[fg_cmp_chatgpt__brief__depth]
+other = "Knows their drivers, values and buying behaviour"
+
+[fg_cmp_chatgpt__brief__persists]
+other = "Still knows next month"
+
+[fg_cmp_chatgpt__brief__persists__chatgpt]
+other = "Gone with the chat"
+
+[fg_cmp_chatgpt__brief__persists__bazam]
+other = "The model is yours"
+
+[fg_cmp_chatgpt__brief__subject]
+other = "Knows your company, brand and offerings"
+
+[fg_cmp_chatgpt__brief__subject__desc]
+other = "Held as profiles, applied to everything you generate"
+
+[fg_cmp_chatgpt__brief__subject__chatgpt]
+other = "Re-paste it every time"
+
+[fg_cmp_chatgpt__brief__subject__bazam]
+other = "Company, brand, offering"
+
+[fg_cmp_chatgpt__brief__shared]
+other = "The whole team writes from the same brief"
+
+[fg_cmp_chatgpt__generating]
+other = "Generating"
+
+[fg_cmp_chatgpt__generating__quality]
+other = "Draft quality from a good prompt"
+
+[fg_cmp_chatgpt__generating__quality__chatgpt]
+other = "Excellent"
+
+[fg_cmp_chatgpt__generating__quality__bazam]
+other = "Excellent"
+
+[fg_cmp_chatgpt__generating__angles]
+other = "A different angle for each audience, from one brief"
+
+[fg_cmp_chatgpt__generating__angles__chatgpt]
+other = "Only if you re-prompt"
+
+[fg_cmp_chatgpt__generating__types]
+other = "Marketing content types built in"
+
+[fg_cmp_chatgpt__generating__types__bazam]
+other = "30+"
+
+[fg_cmp_chatgpt__generating__perchannel]
+other = "One brief becomes a version per platform"
+
+[fg_cmp_chatgpt__shipping]
+other = "Getting it out the door"
+
+[fg_cmp_chatgpt__shipping__publishing]
+other = "Publishes to your channels"
+
+[fg_cmp_chatgpt__shipping__publishing__bazam]
+other = "6 platforms and your blog"
+
+[fg_cmp_chatgpt__shipping__scheduling]
+other = "Content calendar and scheduling"
+
+[fg_cmp_chatgpt__shipping__translation]
+other = "Translation into 50+ languages"
+
+[fg_cmp_chatgpt__shipping__translation__chatgpt]
+other = "One at a time, by hand"
+
+[fg_cmp_chatgpt__shipping__analytics]
+other = "Analytics on what you published"
+
+[fg_cmp_chatgpt__shipping__analytics__bazam]
+other = "Normalised across channels"
+
+[fg_cmp_chatgpt__shipping__approvals]
+other = "Approvals and client sign-off"
+
+[fg_cmp_chatgpt__shipping__approvals__desc]
+other = "Clients review in their own portal, without your passwords"
+
+[fg_cmp_chatgpt__together]
+other = "Using both"
+
+[fg_cmp_chatgpt__together__mcp]
+other = "Your audiences and brand voice inside the chat"
+
+[fg_cmp_chatgpt__together__mcp__desc]
+other = "Bazam runs an MCP server, so you can draft in the chat and publish through us"
+
+[fg_cmp_chatgpt__together__mcp__chatgpt]
+other = "Via Bazam"
+
+[fg_cmp_chatgpt__together__mcp__bazam]
+other = "MCP: audiences, voice, publishing"
+
+[fg_cmp_generic__title]
+other = "Bazam against the way it's done now"
+
+[fg_cmp_generic__subtitle]
+other = "Most people cover this job with a chat assistant, an AI writing tool, a scheduler, or all three. Here's what each one leaves you to do yourself."
+
+[fg_cmp_generic__chat]
+other = "A chat assistant"
+
+[fg_cmp_generic__writers]
+other = "AI writing tools"
+
+[fg_cmp_generic__schedulers]
+other = "Social schedulers"
+
+[fg_cmp_generic__bazam]
+other = "Bazam"
+
+[fg_cmp_generic__brief]
+other = "What it knows about your reader"
+
+[fg_cmp_generic__brief__reader]
+other = "Who it's writing to"
+
+[fg_cmp_generic__brief__reader__chat]
+other = "Whatever you typed this time"
+
+[fg_cmp_generic__brief__reader__writers]
+other = "One line in a text box"
+
+[fg_cmp_generic__brief__reader__schedulers]
+other = "Nobody. You write the post"
+
+[fg_cmp_generic__brief__reader__bazam]
+other = "A 30-point model, per audience"
+
+[fg_cmp_generic__brief__depth]
+other = "Knows their drivers, values and buying behaviour"
+
+[fg_cmp_generic__brief__persists]
+other = "Still knows next month"
+
+[fg_cmp_generic__brief__persists__chat]
+other = "Gone with the chat"
+
+[fg_cmp_generic__brief__persists__writers]
+other = "Only the sentence you saved"
+
+[fg_cmp_generic__brief__persists__bazam]
+other = "The model is yours"
+
+[fg_cmp_generic__brief__subject]
+other = "Knows your company, brand and offerings"
+
+[fg_cmp_generic__brief__subject__desc]
+other = "Held as profiles, applied to everything you generate"
+
+[fg_cmp_generic__brief__subject__chat]
+other = "Re-paste it every time"
+
+[fg_cmp_generic__brief__subject__writers]
+other = "Brand voice only"
+
+[fg_cmp_generic__generating]
+other = "Generating"
+
+[fg_cmp_generic__generating__angles]
+other = "A different angle for each audience, from one brief"
+
+[fg_cmp_generic__generating__angles__chat]
+other = "Only if you re-prompt"
+
+[fg_cmp_generic__generating__types]
+other = "Marketing content types built in"
+
+[fg_cmp_generic__generating__types__bazam]
+other = "30+"
+
+[fg_cmp_generic__generating__perchannel]
+other = "One brief becomes a version per platform"
+
+[fg_cmp_generic__generating__perchannel__schedulers]
+other = "Same text everywhere"
+
+[fg_cmp_generic__shipping]
+other = "Getting it out the door"
+
+[fg_cmp_generic__shipping__publishing]
+other = "Publishes to your channels"
+
+[fg_cmp_generic__shipping__publishing__bazam]
+other = "6 platforms and your blog"
+
+[fg_cmp_generic__shipping__scheduling]
+other = "Content calendar and scheduling"
+
+[fg_cmp_generic__shipping__translation]
+other = "Translation into 50+ languages"
+
+[fg_cmp_generic__shipping__translation__chat]
+other = "One at a time, by hand"
+
+[fg_cmp_generic__shipping__analytics]
+other = "Analytics on what you published"
+
+[fg_cmp_generic__shipping__analytics__bazam]
+other = "Normalised across channels"
+
+[fg_cmp_generic__shipping__approvals]
+other = "Approvals and client sign-off"
+
+[fg_cmp_generic__shipping__approvals__desc]
+other = "Clients review in their own portal, without your passwords"
+
+[fg_cmp_generic__shipping__approvals__bazam]
+other = "Clients keep their own logins"
+
+[fg_cmp_generic__shipping__whole]
+other = "Written, scheduled and published in one place"

@@ -25,6 +25,7 @@
     {{ partial "index/features-3-cols-icons.html" . }}
   {{ end }}
 
+
   {{ partial "index/steps.html" (dict "data" .Params.steps "context" .) }}
 
   {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
@@ -33,6 +34,13 @@
        under the prose that sets it up rather than at the end. */}}
   {{ with .Params.comparisonGrid }}
     {{ partial "components/feature-grid.html" (dict "grid" (index hugo.Data .) "context" $ "showCta" false) }}
+  {{ end }}
+
+  {{/* Linkable cards, sitting under the grid. On the alternatives hub these are
+       the individual head-to-head pages: read the general argument first, then
+       pick the product you came to compare. */}}
+  {{ with .Params.featureCards }}
+    {{ partial "index/feature-cards.html" . }}
   {{ end }}
 
   {{ if .Params.featureList }}

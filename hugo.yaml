@@ -99,9 +99,15 @@ menus:
     url: "/contact/"
     weight: 50
   compareMenu:
-  - name: "Bazam vs ChatGPT"
-    url: "/vs-chatgpt/"
+  - name: "Alternatives compared"
+    url: "/alternatives/"
     weight: 10
-  - name: "Bazam vs Blaze"
-    url: "/vs-blaze/"
+  - name: "Bazam vs ChatGPT"
+    url: "/alternatives/bazam-vs-chatgpt/"
     weight: 20
+  - name: "Bazam vs Anyword"
+    url: "/alternatives/bazam-vs-anyword/"
+    weight: 30
+  - name: "Bazam vs Blaze"
+    url: "/alternatives/bazam-vs-blaze/"
+    weight: 40

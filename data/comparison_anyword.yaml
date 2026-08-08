@@ -1,0 +1,116 @@
+### Head-to-head grid for /alternatives/bazam-vs-anyword/.
+###
+### Two columns only. A visitor on this page searched for one name, so there is
+### nothing to gain by putting three other products in front of them.
+
+id: comparison_anyword
+prefix: fg_cmp_anyword
+title: "Bazam vs Anyword"
+subtitle: "Both produce marketing copy. The difference is how much the tool is told about the person reading it, and how much of the job it finishes."
+
+columns:
+  - id: anyword
+    heading: "Anyword"
+  - id: bazam
+    heading: "Bazam"
+    highlight: true
+
+sections:
+  - id: brief
+    name: "What the AI is told"
+    rows:
+      - id: reader
+        feature: "Who it's writing to"
+        values:
+          - text: "A persona you write yourself"
+          - text: "A 30-point model, per audience"
+      - id: depth
+        feature: "Knows their drivers, values and buying behaviour"
+        values:
+          - check: false
+          - check: true
+      - id: subject
+        feature: "Knows your company, brand and offerings"
+        desc: "Held as profiles, applied to everything you generate"
+        values:
+          - check: false
+            text: "Brand voice only"
+          - check: true
+            text: "Company, brand, offering"
+      - id: knowledge
+        feature: "Your own facts, docs and URLs in a knowledge base"
+        values:
+          - check: false
+          - check: true
+
+  - id: generating
+    name: "Generating"
+    rows:
+      - id: angles
+        feature: "A different angle for each audience, from one brief"
+        values:
+          - check: false
+          - check: true
+      - id: types
+        feature: "Marketing content types built in"
+        values:
+          - check: true
+          - check: true
+            text: "30+"
+      - id: perchannel
+        feature: "One brief becomes a version per platform"
+        values:
+          - check: false
+          - check: true
+  - id: shipping
+    name: "Getting it out the door"
+    rows:
+      - id: publishing
+        feature: "Publishes to your channels"
+        values:
+          - check: false
+            text: "Copy it out yourself"
+          - check: true
+            text: "6 platforms and your blog"
+      - id: scheduling
+        feature: "Content calendar and scheduling"
+        values:
+          - check: false
+          - check: true
+      - id: translation
+        feature: "Translation into 50+ languages"
+        values:
+          - check: false
+          - check: true
+      - id: analytics
+        feature: "Reports on the posts it published for you"
+        values:
+          - check: false
+          - check: true
+            text: "Normalised across channels"
+      - id: approvals
+        feature: "Approvals and client sign-off"
+        desc: "Clients review in their own portal, without your passwords"
+        values:
+          - check: false
+          - check: true
+      - id: mcp
+        feature: "Brings your setup into the AI chat you already use"
+        values:
+          - check: false
+          - check: true
+            text: "MCP: audiences, voice, publishing"
+
+  - id: cost
+    name: "Cost"
+    rows:
+      - id: price
+        feature: "Entry price"
+        values:
+          - text: "$49/mo"
+          - text: "$39/mo"
+      - id: included
+        feature: "Full audience model on the entry plan"
+        values:
+          - check: false
+          - check: true

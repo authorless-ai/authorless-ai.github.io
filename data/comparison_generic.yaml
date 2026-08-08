@@ -1,0 +1,141 @@
+### The homepage comparison.
+###
+### Deliberately unnamed: the homepage compares Bazam to the three kinds of
+### tool people already use, not to specific products. Named, per-competitor
+### grids live in comparison_chatgpt / comparison_blaze / comparison_anyword
+### and are used only on the /alternatives/ pages, where someone has already
+### searched for that name.
+
+id: comparison_generic
+prefix: fg_cmp_generic
+title: "Bazam against the way it's done now"
+subtitle: "Most people cover this job with a chat assistant, an AI writing tool, a scheduler, or all three. Here's what each one leaves you to do yourself."
+
+columns:
+  - id: chat
+    heading: "A chat assistant"
+  - id: writers
+    heading: "AI writing tools"
+  - id: schedulers
+    heading: "Social schedulers"
+  - id: bazam
+    heading: "Bazam"
+    highlight: true
+
+sections:
+  - id: brief
+    name: "What it knows about your reader"
+    rows:
+      - id: reader
+        feature: "Who it's writing to"
+        values:
+          - text: "Whatever you typed this time"
+          - text: "One line in a text box"
+          - text: "Nobody. You write the post"
+          - text: "A 30-point model, per audience"
+      - id: depth
+        feature: "Knows their drivers, values and buying behaviour"
+        values:
+          - check: false
+          - check: false
+          - check: false
+          - check: true
+      - id: persists
+        feature: "Still knows next month"
+        values:
+          - check: false
+            text: "Gone with the chat"
+          - check: false
+            text: "Only the sentence you saved"
+          - check: false
+          - check: true
+            text: "The model is yours"
+      - id: subject
+        feature: "Knows your company, brand and offerings"
+        desc: "Held as profiles, applied to everything you generate"
+        values:
+          - check: false
+            text: "Re-paste it every time"
+          - check: false
+            text: "Brand voice only"
+          - check: false
+          - check: true
+
+  - id: generating
+    name: "Generating"
+    rows:
+      - id: angles
+        feature: "A different angle for each audience, from one brief"
+        values:
+          - check: false
+            text: "Only if you re-prompt"
+          - check: false
+          - check: false
+          - check: true
+      - id: types
+        feature: "Marketing content types built in"
+        values:
+          - check: false
+          - check: true
+          - check: false
+          - check: true
+            text: "30+"
+      - id: perchannel
+        feature: "One brief becomes a version per platform"
+        values:
+          - check: false
+          - check: false
+          - check: false
+            text: "Same text everywhere"
+          - check: true
+
+  - id: shipping
+    name: "Getting it out the door"
+    rows:
+      - id: publishing
+        feature: "Publishes to your channels"
+        values:
+          - check: false
+          - check: false
+          - check: true
+          - check: true
+            text: "6 platforms and your blog"
+      - id: scheduling
+        feature: "Content calendar and scheduling"
+        values:
+          - check: false
+          - check: false
+          - check: true
+          - check: true
+      - id: translation
+        feature: "Translation into 50+ languages"
+        values:
+          - check: false
+            text: "One at a time, by hand"
+          - check: false
+          - check: false
+          - check: true
+      - id: analytics
+        feature: "Analytics on what you published"
+        values:
+          - check: false
+          - check: false
+          - check: true
+          - check: true
+            text: "Normalised across channels"
+      - id: approvals
+        feature: "Approvals and client sign-off"
+        desc: "Clients review in their own portal, without your passwords"
+        values:
+          - check: false
+          - check: false
+          - check: true
+          - check: true
+            text: "Clients keep their own logins"
+      - id: whole
+        feature: "Written, scheduled and published in one place"
+        values:
+          - check: false
+          - check: false
+          - check: false
+          - check: true

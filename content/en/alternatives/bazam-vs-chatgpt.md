@@ -10,7 +10,9 @@ heroDescription:
   - "ChatGPT/Claude writes the draft and stops. Bazam knows who the draft is for, still knows next month, and publishes it to six channels for you."
   - "It also plugs into ChatGPT & Claude over <b>MCP</b>, so you can use them to drive Bazam directly."
 
-comparisonGrid: "comparison_tools"
+comparisonGrid: "comparison_chatgpt"
+aliases:
+  - "/vs-chatgpt/"
 
 features:
   - title: "Where we're better"

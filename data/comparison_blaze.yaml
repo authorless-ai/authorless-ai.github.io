@@ -1,0 +1,122 @@
+### Head-to-head grid for /alternatives/bazam-vs-blaze/.
+###
+### Two columns only. Rows are chosen around the brief, the per-audience work
+### and client delivery, which is where the argument is ours to make.
+
+id: comparison_blaze
+prefix: fg_cmp_blaze
+title: "Bazam vs Blaze"
+subtitle: "Both write and publish. The difference is who the writing is aimed at, and what happens when you run this for other people."
+
+columns:
+  - id: blaze
+    heading: "Blaze"
+  - id: bazam
+    heading: "Bazam"
+    highlight: true
+
+sections:
+  - id: brief
+    name: "What the AI is told"
+    rows:
+      - id: reader
+        feature: "Who it's writing to"
+        values:
+          - text: "Your brand and industry"
+          - text: "A 30-point model, per audience"
+      - id: depth
+        feature: "Knows their drivers, values and buying behaviour"
+        values:
+          - check: false
+          - check: true
+      - id: several
+        feature: "Holds several audiences and writes to each separately"
+        values:
+          - check: false
+          - check: true
+      - id: subject
+        feature: "Knows your company, brand and offerings"
+        desc: "Held as profiles, applied to everything you generate"
+        values:
+          - check: true
+            text: "Brand profile"
+          - check: true
+            text: "Company, brand, offering"
+
+  - id: generating
+    name: "Generating"
+    rows:
+      - id: angles
+        feature: "A different angle for each audience, from one brief"
+        values:
+          - check: false
+          - check: true
+      - id: types
+        feature: "Marketing content types built in"
+        values:
+          - check: true
+          - check: true
+            text: "30+"
+      - id: perchannel
+        feature: "One brief becomes a version per platform"
+        values:
+          - check: false
+          - check: true
+
+  - id: shipping
+    name: "Getting it out the door"
+    rows:
+      - id: publishing
+        feature: "Publishes to your channels"
+        values:
+          - check: true
+          - check: true
+            text: "6 platforms and your blog"
+      - id: scheduling
+        feature: "Content calendar and scheduling"
+        values:
+          - check: true
+          - check: true
+      - id: translation
+        feature: "Translation into 50+ languages"
+        values:
+          - check: false
+          - check: true
+      - id: analytics
+        feature: "Analytics on what you published"
+        values:
+          - check: true
+          - check: true
+            text: "Normalised across channels"
+      - id: approvals
+        feature: "Approvals and client sign-off"
+        desc: "Clients review in their own portal, without your passwords"
+        values:
+          - check: false
+          - check: true
+      - id: projects
+        feature: "A separate project per client"
+        desc: "Own audiences, brand voice, knowledge base and access"
+        values:
+          - check: false
+          - check: true
+      - id: mcp
+        feature: "Brings your setup into the AI chat you already use"
+        values:
+          - check: false
+          - check: true
+            text: "MCP: audiences, voice, publishing"
+
+  - id: cost
+    name: "Cost"
+    rows:
+      - id: price
+        feature: "Entry price"
+        values:
+          - text: "$79/mo"
+          - text: "$39/mo"
+      - id: included
+        feature: "Full audience model on the entry plan"
+        values:
+          - check: false
+          - check: true
