@@ -80,6 +80,11 @@
                 <p class="mb-8 font-normal lg:text-xl">{{ . | safeHTML }}</p>
                 {{ end }}
                 {{ end }}
+                {{/* Small print. For citations behind a figure quoted above, so the
+                     reference never competes with the copy. */}}
+                {{ with $feature.source }}
+                <p class="-mt-6 mb-8 text-sm text-gray-400 dark:text-gray-500">{{ . | safeHTML }}</p>
+                {{ end }}
                 {{ if $isEven }}
                 <div class="flex justify-end">
                     <a href="{{ with $.context.Params.ctaUrl }}{{ . }}{{ else }}{{ site.Params.signupUrl }}{{ end }}"

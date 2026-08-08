@@ -126,20 +126,21 @@ evidence:
 # 6. Three fields, and per-angle generation
 # ---------------------------------------------------------------------------
 features:
-  - title: "Three fields no other tool asks for"
+  - title: "People buy on emotion. Bazam knows which one."
     image: "/images/persona.png"
     image_alt: "A populated 30-point audience model in Bazam"
     description:
-      - "Plenty of the thirty points are what you would expect: role, seniority, expertise, goals, interests, tone. These three change the output the moment you fill them in, and none of them fits in a text box."
+      - "Nobody buys a feature list. They buy to gain, or to stop losing. Hit the right emotion and you get up to 50% more purchases from the same offer."
     points:
-      - title: "What drives them emotionally"
-        description: "Ambition reads nothing like anxiety. The same feature, framed for the right driver, becomes a different sentence."
-      - title: "What they believe"
-        description: "A reader who prizes independence needs a completely different case from one who wants reassurance. Tell Bazam which, and watch your posts change."
-      - title: "How they decide"
-        description: "Impulsive, considered, risk-averse, price-led. Buying behaviour sets how hard you push, how much proof you show, and where the call to action goes."
+      - title: "One emotion, more sales"
+        description: "Every customer has a main reason they buy. Write for that and more of them buy."
+      - title: "The same offer, two ways"
+        description: '"Only two places left this month" sells to one customer. "Your best quarter yet" sells to the next.'
+      - title: "Easy, endless content angles"
+        description: "Choose target emotions, motivations and more.  Bazam writes the whole campaign around them, on every platform."
     footer:
-      - "Fill in those three, regenerate, and read the difference."
+      - "Talk to your audience's emotions and they'll love you forever."
+    source: "Field experiments across 3.5 million people. Matz, Kosinski, Nave & Stillwell, PNAS, 2017."
 
   - title: "Every format you publish, from the same persona."
     image: "/images/campaign-options.png"
@@ -228,7 +229,7 @@ faq:
 
   - q: "Will the content read any differently?"
     a:
-      - "Yes, and the side-by-side above shows you exactly how. The fields that move the output most are the ones no other tool collects: emotional drivers, values and beliefs, and buying behaviour. Fill those in and your content stops making claims into the air and starts making a case to a person."
+      - "Yes, and the side-by-side above shows you exactly how. The fields that move the output most are the ones go beyond a one-line description: emotional drivers, values and beliefs, and buying behaviour. Fill those in and your content stops being ignorable and starts talking to a person."
 
   - q: "I already have personas in a doc somewhere."
     a:
@@ -240,7 +241,7 @@ faq:
 
   - q: "How is this different from the other AI writing tools?"
     a:
-      - "Two things. First, what the AI is told. The rest of the market gives you a text box and one line about your audience, then writes everything from it. Bazam holds a thirty-point model of each of your audiences and applies it to every piece, in every format and every language."
+      - "Two things. First, what the AI is told. Other tools give you a text box and one line about your audience, then write everything from it. Bazam holds a thirty-point model of each of your audiences and applies it to every piece, in every format and every language."
       - "Second, where they stop. They hand you copy. Bazam schedules it, adapts it per platform, publishes it to six channels and your blog, translates it into 50+ languages and reports back on how it did."
       - "If you're weighing us against something specific, the [head-to-head comparisons](/alternatives/) go through it row by row."
 
