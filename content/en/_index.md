@@ -172,25 +172,6 @@ features:
       - "So your content names your product, your positioning and your proof, instead of guessing."
 
 # ---------------------------------------------------------------------------
-# 7. Before/after
-# ---------------------------------------------------------------------------
-sample:
-  background: "white"
-  title: "Same request. One of them knows who's reading."
-  description: "Same product, same voice, same word count. The only difference is what the writer was told."
-  left:
-    badge: "Briefed with a text box"
-    label: "“small business owners, 30-50”"
-    tone: "muted"
-    placeholder: "Paste the real generated output here. One short piece (a LinkedIn post or a brief email works best) generated from a one-line audience description only. Keep it to 60-80 words so both panels stay readable side by side. Don't tidy it up; the flatness is the point."
-  right:
-    badge: "Briefed with the 30-point model"
-    label: "The identical request, run against a full audience"
-    tone: "brand"
-    placeholder: "Paste the real generated output here. The identical brief, same content type and same length, run against a fully-populated audience model. Bold the two or three phrases that could only exist because the model knew this reader's drivers, beliefs and buying behaviour."
-  footer: "Want this to run on one of your own audiences? Create an audience in 30s and see the difference."
-
-# ---------------------------------------------------------------------------
 # 9. How it works
 # ---------------------------------------------------------------------------
 introFeatures:

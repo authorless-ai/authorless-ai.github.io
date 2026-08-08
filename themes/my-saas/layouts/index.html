@@ -20,9 +20,6 @@
     {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" 3 "swapBackgrounds" false) }}
   {{ end }}
 
-  {{/* 7. Before/after — the same brief, thin vs full model */}}
-  {{ partial "index/two-panel.html" (dict "data" .Params.sample "context" .) }}
-
   {{/* 8. One audience in, everything out — the capability block */}}
   {{ partial "index/features-3-cols-stripe.html" . }}
 
