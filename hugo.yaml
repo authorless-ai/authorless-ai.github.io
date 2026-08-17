@@ -72,6 +72,14 @@ security:
   allowContent:
     - ^text/markdown$
     - ^text/html$
+  exec:
+    allow:
+      - ^(dart-)?sass$
+      - ^go$
+      - ^git$
+      - ^node$
+      - ^postcss$
+      - ^tailwindcss$
 
 markup:
   goldmark:
