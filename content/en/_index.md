@@ -8,6 +8,9 @@ ctaUrl: "#early-access"
 heroDescription:
   - "You sell to more than one kind of person. Bazam's <b>personas</b> let you <b>write, schedule and publish</b> for each of them, so you get more attention"
 
+heroVideo: "/videos/personas.mp4"
+heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Audience Model"
+
 # ---------------------------------------------------------------------------
 # 2. One persona, six angles
 # ---------------------------------------------------------------------------
@@ -75,7 +78,6 @@ personas:
       icon: "female_3"
       sample: "You did the hard part back in January. Picking it up again takes one session, and we kept your programme."
       note: "Worried about walking back in as a beginner, so nothing in the post makes her feel behind."
-  placeholder: "Screenshot of the audience list in Bazam with several audiences on screen at once, and one of them expanded to show a fully-populated 30-Point Audience Model. Use real, specific text in the emotional drivers, values and buying-behaviour fields. This is the most important image on the site."
   caption: "Build each persona once. Every wizard, channel and language writes from it after that."
   footer: "Other tools give you one text box and a sentence like “small business owners, 30-50”, then write everything to that. A Bazam persona is a <b>30-Point Audience Model</b>: what drives them, what worries them, what they believe, how they buy."
 
