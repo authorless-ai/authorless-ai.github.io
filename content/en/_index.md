@@ -59,6 +59,8 @@ angles:
 personas:
   title: "Most businesses sell to more than one kind of person."
   description: "So set up a persona for each: the consumers who buy from you, the businesses that buy from you, the customers who drifted off. Pick one before you generate and everything downstream is written to that reader."
+  title_image: "/images/persona-list.png"
+  title_image_alt: "List of audience personas in Bazam"
   personas:
     - badge: "Consumer"
       name: "Dan, 34"

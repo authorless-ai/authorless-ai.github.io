@@ -10,6 +10,8 @@
 
   Data shape:
     title / description   section heading and subhead
+    title_image / title_image_alt   a real image shown to the right of the
+                          heading, once there is one
     personas              list of:
       badge               short label, e.g. "B2C" / "B2B"
       name                display name
@@ -34,14 +36,35 @@
   <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
 
     {{ if or $data.title $data.description }}
-    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-      {{ with $data.title }}
-      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ if $data.title_image }}
+      <div class="mb-8 lg:mb-12 gap-8 items-center md:grid md:grid-cols-2">
+        <div class="text-center md:text-left">
+          {{ with $data.title }}
+          <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+          {{ end }}
+          {{ with $data.description }}
+          <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+          {{ end }}
+        </div>
+        <div class="relative overflow-hidden mb-6 sm:mx-4 md:mt-0 rounded-xl md:rounded-s-xl">
+          <img class="absolute inset-0 w-full h-full object-none object-top-left" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
+          <div class="relative z-10 sm:p-4 md:p-8">
+            <div class="sm:backdrop-blur-[54px] bg-white/54 rounded-xl sm:shadow-xl p-4">
+              <img class="flex rounded-lg w-full" src="{{ $data.title_image | absURL }}" alt="{{ $data.title_image_alt | default $data.title }}">
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ else }}
+      <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+        {{ with $data.title }}
+        <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+        {{ end }}
+        {{ with $data.description }}
+        <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+        {{ end }}
+      </div>
       {{ end }}
-      {{ with $data.description }}
-      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
-      {{ end }}
-    </div>
     {{ end }}
 
     {{ with $data.personas }}
