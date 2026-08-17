@@ -94,7 +94,7 @@ calendar:
     - title: "Nothing goes live without a yes"
       description: "Turn approvals on and everything waits for sign-off. Clients can review and approve in their own portal, without ever seeing your password."
   logos:
-    title: "Publishes direct to"
+    title: "Schedule & publish to"
     items:
       - name: "Facebook"
         icon: "facebook"
