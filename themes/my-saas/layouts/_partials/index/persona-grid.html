@@ -15,6 +15,8 @@
       name                display name
       role                one line of context
       image / image_alt   a real image, once there is one
+      icon                filename (without extension) of an illustrated avatar in
+                          /images/personas/, used until a real image is set
       placeholder         description of the persona photo that belongs here
       sample              the opening line a post to this persona actually uses
       note                one line on what the model changed
@@ -47,6 +49,8 @@
         <div class="flex items-center gap-4 mb-4">
           {{ if .image }}
           <img class="w-16 h-16 rounded-full object-cover shrink-0" src="{{ .image | absURL }}" alt="{{ .image_alt | default .name }}">
+          {{ else if .icon }}
+          <img class="w-16 h-16 rounded-full object-cover shrink-0 bg-primary-50/40 dark:bg-gray-900/40" src="{{ printf "/images/personas/%s.svg" .icon | absURL }}" alt="{{ .image_alt | default .name }}">
           {{ else }}
           {{/* Persona photo to add. Drop an `image:` on this persona to replace it. */}}
           <div class="flex items-center justify-center w-16 h-16 shrink-0 rounded-full border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40">
