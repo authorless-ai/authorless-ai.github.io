@@ -17,8 +17,10 @@
     points                up to 3 { title, description } shown under the visual
     logos:
       title               small label above the row, e.g. "Publishes direct to"
-      items               list of { name, image } — each renders a dashed box
-                          with the platform name until an image is supplied
+      items               list of { name, icon, image } — icon is a filename
+                          (without extension) in /images/icons/; image overrides
+                          it with a real logo; without either, renders a dashed
+                          box with the platform name
     footer                closing line
 */}}
 
@@ -74,8 +76,12 @@
         {{ range .items }}
           {{ if .image }}
           <img class="h-8 sm:h-10 w-auto" src="{{ .image | absURL }}" alt="{{ .name }}">
+          {{ else if .icon }}
+          <div class="flex items-center justify-center h-10 w-10 sm:h-12 sm:w-12 rounded-xl bg-white dark:bg-gray-100 shadow-sm ring-1 ring-gray-200 dark:ring-gray-700 p-1.5">
+            <img class="h-full w-full" src="{{ printf "/images/icons/%s.svg" .icon | absURL }}" alt="{{ .name }}">
+          </div>
           {{ else }}
-          {{/* Logo to add. Drop an `image:` on this item to replace the box. */}}
+          {{/* Logo to add. Drop an `icon:` or `image:` on this item to replace the box. */}}
           <div class="flex items-center justify-center h-12 px-4 rounded-lg border-2 border-dashed border-gray-300 dark:border-gray-600 bg-white/60 dark:bg-gray-800/60">
             <span class="text-sm font-medium text-gray-400 dark:text-gray-500">{{ .name }} logo</span>
           </div>

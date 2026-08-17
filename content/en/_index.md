@@ -97,11 +97,17 @@ calendar:
     title: "Publishes direct to"
     items:
       - name: "Facebook"
+        icon: "facebook"
       - name: "Instagram"
+        icon: "instagram"
       - name: "TikTok"
+        icon: "tiktok"
       - name: "X"
+        icon: "x"
       - name: "LinkedIn"
+        icon: "linkedin"
       - name: "WordPress"
+        icon: "wordpress"
   footer: "Publishing consistently is what makes content marketing work, and it's the first thing to slip when you get busy. Let us handle it."
 
 # ---------------------------------------------------------------------------
