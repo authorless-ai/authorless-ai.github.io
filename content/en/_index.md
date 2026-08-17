@@ -16,6 +16,7 @@ angles:
   description: "This is one gym announcing one thing to one customer. Pick a different angle and the post changes completely, because Bazam knows who is reading it."
   brief: "The 6-week strength programme starts Monday."
   brand: "Northgate Strength"
+  brand_icon: "barbell"
   persona:
     name: "Dan, 34"
     role: "Pays monthly. Trains around a full-time job and two kids."
