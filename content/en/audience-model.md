@@ -1,21 +1,21 @@
 ---
 layout: marketing
 title: "The 30-Point Audience Model"
-superTitle: "More knowledge, better content"
+superTitle: "More knowledge, more conversions"
 description: "Thirty points about one reader: what they want, what worries them, what makes them buy. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
   - "Thirty points about one reader: what they want, what worries them, what makes them buy. Fill it in once and every blog post, ad, email and social campaign you generate speaks directly to them."
-  - "Your competitors are briefing the same AI with eight words in a text box."
+  - "Understanding your audience is what makes content convert. Now your AI marketer knows too."
 
 # ---------------------------------------------------------------------------
 # What's in it
 # ---------------------------------------------------------------------------
 featureList:
   title: "What's in the model"
-  description: "Over thirty points, grouped into the three things worth knowing about anyone you want to persuade. You don't fill them in by hand: describe the audience in a sentence and Bazam writes the model for you."
+  description: "30+ points, grouped into the 3 things you need to persuade. Bazam generates them from a description or reading your website."
   features:
     - iconColor: "primary"
       title: "Who they are"
@@ -63,7 +63,7 @@ contrast:
     video: "/videos/personas.mp4"
     video_alt: "The audience list in Bazam, with a persona expanded to show its 30-Point Audience Model"
     caption: "Structured, not prose. Each point is its own field, so every wizard can read it, vary by it, and write to it the same way across channels and languages."
-  footer: "Same models underneath. A completely different brief going in."
+  footer: "A sentence is a guess. Thirty points is insight"
 
 # ---------------------------------------------------------------------------
 # Depth

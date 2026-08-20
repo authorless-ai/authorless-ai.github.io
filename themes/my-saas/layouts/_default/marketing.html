@@ -4,7 +4,7 @@
   A flexible single-page layout for the small set of marketing pages beyond the
   homepage. Every block is optional — set the matching front-matter key and it
   renders; omit it and it doesn't. Order is fixed so the argument always runs
-  the same way: claim → prose → mechanism → contrast → depth → evidence →
+  the same way: claim → prose → contrast → mechanism → depth → evidence →
   comparison → what's next → objections → ask.
 
   Opt in with `layout: marketing` in front matter.
@@ -43,11 +43,11 @@
     {{ partial "index/feature-cards.html" . }}
   {{ end }}
 
+  {{ partial "index/two-panel.html" (dict "data" .Params.contrast "context" .) }}
+
   {{ if .Params.featureList }}
     {{ partial "index/features-3-cols-stripe.html" . }}
   {{ end }}
-
-  {{ partial "index/two-panel.html" (dict "data" .Params.contrast "context" .) }}
 
   {{ if .Params.features }}
     {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" (len .Params.features)) }}
