@@ -119,7 +119,7 @@ other = "Enter your email"
 other = "Subscribe"
 
 [privacyNotice]
-other = "We never sell your data. Please read our <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Privacy Policy</a>."
+other = "We never sell your data. By subscribing you agree to our <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Privacy Policy</a> and to us emailing you the newsletter. Unsubscribe any time."
 
 [footerTagline]
 other = "Marketing for busy people"

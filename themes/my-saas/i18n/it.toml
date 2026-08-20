@@ -116,7 +116,7 @@ other = "Inserisci la tua email"
 other = "Iscriviti"
 
 [privacyNotice]
-other = "Non vendiamo mai i tuoi dati. Leggi la nostra <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Informativa sulla privacy</a>."
+other = "Non vendiamo mai i tuoi dati. Iscrivendoti accetti la nostra <a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\" class=\"hover:underline\">Informativa sulla privacy</a> e che ti inviamo la newsletter via email. Puoi disiscriverti quando vuoi."
 
 [footerTagline]
 other = "Bazam è una suite di content marketing automatizzata perfetta per imprenditori, team e agenzie. Scrivi meno, ottieni di più."
