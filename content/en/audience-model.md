@@ -60,7 +60,8 @@ contrast:
     badge: "A model"
     label: "What Bazam holds instead"
     tone: "brand"
-    placeholder: "Screenshot of a single audience model with every section expanded. The same one used on the homepage works well here. Show enough of the field labels that a visitor can count roughly thirty of them without reading closely."
+    video: "/videos/personas.mp4"
+    video_alt: "The audience list in Bazam, with a persona expanded to show its 30-Point Audience Model"
     caption: "Structured, not prose. Each point is its own field, so every wizard can read it, vary by it, and write to it the same way across channels and languages."
   footer: "Same models underneath. A completely different brief going in."
 
@@ -68,18 +69,18 @@ contrast:
 # Depth
 # ---------------------------------------------------------------------------
 features:
-  - title: "It works your audiences out for you"
+  - title: "Create your audiences in 30s"
     image: "/images/analyse-voice.png"
     image_alt: "Bazam generating an audience model from a short description"
     description:
-      - "Nobody wants to fill in thirty fields, so you don't fill in any. Bazam reads your website and comes back with the audiences you're selling to, each already modelled."
+      - "Bazam reads your website and creates your 30-point model for each audience you sell to, in seconds."
     points:
-      - title: "Start with your URL"
-        description: "Bazam reads your positioning, your offerings and your market, then hands back audiences that are already built. Most people recognise them straight away."
-      - title: "Tweak, don't author"
-        description: "Change what's wrong, deepen what's thin, delete one it invented, add one it missed. Two minutes of editing beats an hour staring at an empty form."
-      - title: "It stays sharpened"
-        description: "Every correction sticks. The next campaign, the next channel and the next language all start from the better version."
+      - title: "No workshop required"
+        description: "What used to need a deck and a room full of people takes as long as it takes Bazam to read your homepage."
+      - title: "More than a name"
+        description: "Bazam doesn't hand you \"small business owners, 25-50\" and call it done. Every audience comes back with buying behaviour, emotional drivers and the rest already filled in, ready to write from."
+      - title: "Pulled from what you sell, not a template"
+        description: "The audiences come from your actual offerings and positioning, not a generic persona with your logo dropped in."
     footer:
       - "Prefer to start from scratch? Describe an audience in a sentence and Bazam builds the model from that instead."
 

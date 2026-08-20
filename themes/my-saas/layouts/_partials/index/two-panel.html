@@ -20,6 +20,7 @@
       text                string or list of paragraphs rendered inside the panel
       list                list of { title, description } rendered as ticked bullets
       image / image_alt   a real screenshot
+      video / video_alt   a looping screen recording (autoplay, muted)
       placeholder         description of the screenshot that belongs here. Renders a
                           visible dashed block so a missing asset is never an invisible gap
       caption             small note under the panel
@@ -77,6 +78,10 @@
 
       {{ with $p.image }}
       <img class="rounded-lg w-full" src="{{ . | absURL }}" alt="{{ $p.image_alt | default $p.label }}">
+      {{ end }}
+
+      {{ with $p.video }}
+      <video class="rounded-lg w-full" src="{{ . | absURL }}" autoplay loop muted playsinline aria-label="{{ $p.video_alt | default $p.label }}"></video>
       {{ end }}
 
       {{ with $p.placeholder }}
