@@ -69,7 +69,7 @@ faq:
 
   - q: "Which one is cheaper?"
     a:
-      - "Bazam starts at $39 a month, Anyword at $49. Our entry plan includes the full 30-Point Audience Model, every content type, all six publishing channels and 50+ languages."
+      - "Bazam starts at $39 a month, Anyword at $49. Our entry plan includes the full 30-Point Buyer Profile, every content type, all six publishing channels and 50+ languages."
 
   - q: "Do I have to write the personas myself?"
     a:

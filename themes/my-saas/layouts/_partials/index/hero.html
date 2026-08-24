@@ -18,7 +18,7 @@
         {{ $desc := .Params.heroDescription | default .Description }}
         {{ $descList := cond (reflect.IsSlice $desc) $desc (slice $desc) }}
         {{ range $descList }}
-        <p class="mx-auto mb-4 max-w-xl font-normal text-gray-500 lg:mx-0 xl:mb-6 md:text-lg xl:text-xl dark:text-gray-400 p-4 lg:p-0 bg-white/50 rounded-lg lg:bg-transparent">{{ . | safeHTML }}</p>
+        <div class="mx-auto mb-4 max-w-xl font-normal text-gray-500 lg:mx-0 xl:mb-6 md:text-lg xl:text-xl dark:text-gray-400 p-4 lg:p-0 bg-white/50 rounded-lg lg:bg-transparent [&>p]:mb-3 [&>p:last-child]:mb-0">{{ . | markdownify }}</div>
         {{ end }}
 
         <a href="{{ with .Params.ctaUrl }}{{ . }}{{ else }}{{ site.Params.signupUrl }}{{ end }}"
@@ -76,7 +76,7 @@
       {{ $desc := .Params.heroDescription | default .Description }}
       {{ $descList := cond (reflect.IsSlice $desc) $desc (slice $desc) }}
       {{ range $descList }}
-      <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">{{ . | safeHTML }}</p>
+      <div class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400 [&>p]:mb-3 [&>p:last-child]:mb-0">{{ . | markdownify }}</div>
       {{ end }}
 
       <a href="{{ with .Params.ctaUrl }}{{ . }}{{ else }}{{ site.Params.signupUrl }}{{ end }}"

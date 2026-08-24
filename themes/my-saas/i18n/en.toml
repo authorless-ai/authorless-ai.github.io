@@ -362,7 +362,7 @@ other = "Unlimited"
 other = "Both sides of the brief"
 
 [fg_pricing__audience__thirty_point]
-other = "30-point audience model"
+other = "30-point buyer profile"
 
 [fg_pricing__audience__thirty_point__desc]
 other = "Demographics, psychographics, motivations, emotional drivers, values, personality, buying behaviour and expertise"
@@ -462,7 +462,7 @@ other = "Dedicated onboarding"
 
 
 [fg_pricing__subtitle]
-other = "Every plan gets the full 30-point audience model and every content type. Pay for scale, never for features."
+other = "Every plan gets the full 30-point buyer profile and every content type. Pay for scale, never for features."
 
 
 [fg_pricing__publishing__analytics__desc]
@@ -813,7 +813,7 @@ other = "$49/mo"
 other = "$39/mo"
 
 [fg_cmp_anyword__cost__included]
-other = "Full audience model on the entry plan"
+other = "Full buyer profile on the entry plan"
 
 [fg_cmp_blaze__title]
 other = "Bazam vs Blaze"
@@ -924,7 +924,7 @@ other = "$79/mo"
 other = "$39/mo"
 
 [fg_cmp_blaze__cost__included]
-other = "Full audience model on the entry plan"
+other = "Full buyer profile on the entry plan"
 
 [fg_cmp_chatgpt__title]
 other = "Bazam vs ChatGPT"

@@ -63,7 +63,7 @@ features:
 faq:
   - q: "Which one is cheaper?"
     a:
-      - "Bazam starts at $39 a month, Blaze at $79. Our entry plan includes the full 30-Point Audience Model, every content type, all six publishing channels and 50+ languages."
+      - "Bazam starts at $39 a month, Blaze at $79. Our entry plan includes the full 30-Point Buyer Profile, every content type, all six publishing channels and 50+ languages."
 
   - q: "Can my clients sign off before anything goes live?"
     a:

@@ -9,7 +9,7 @@ heroDescription:
   - "You sell to more than one kind of person. Bazam's <b>detailed buyer profiles</b> let you <b>write, schedule and publish</b> the right message for each of them to increase engagement."
 
 heroVideo: "/videos/personas.mp4"
-heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Audience Model"
+heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"
 
 # ---------------------------------------------------------------------------
 # 2. More than one kind of reader

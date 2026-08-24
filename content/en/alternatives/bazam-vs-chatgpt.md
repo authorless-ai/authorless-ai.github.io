@@ -79,7 +79,7 @@ faq:
 
   - q: "How much is it?"
     a:
-      - "From $39 a month. The entry plan includes the full 30-Point Audience Model, every content type, all six publishing channels and 50+ languages."
+      - "From $39 a month. The entry plan includes the full 30-Point Buyer Profile, every content type, all six publishing channels and 50+ languages."
 
   - q: "Do I have to write the personas myself?"
     a:
