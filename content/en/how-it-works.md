@@ -104,6 +104,11 @@ features:
         description: "Update a piece and every translation of it is marked for a refresh, so you're never publishing last quarter's message in three languages."
 
 faq:
+  - q: "What if I don't have 'buyers'?"
+    a:
+      - "The label is just a shortcut. A buyer profile describes anyone you write to: the people who open your emails, read your blog, or scroll past your posts. A charity has donors and volunteers. A creator has fans. A local business has regulars. The profile works the same way for all of them."
+      - "Marketers call these personas. Whatever you call them, the questions inside are the same: what does this person care about, what puts them off, what kind of language do they take seriously? Fill those in and your content gets written for that person instead of nobody in particular."
+
   - q: "How long does setup take?"
     a:
       - "Under an hour for most people, and you only do it once. Most of that is reading through the audiences Bazam came back with and connecting your channels. After that, a month of content is a single sitting."

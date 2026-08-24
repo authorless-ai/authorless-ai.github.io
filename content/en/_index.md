@@ -8,6 +8,9 @@ ctaUrl: "#early-access"
 heroDescription:
   - "You sell to more than one kind of person. Bazam's <b>detailed buyer profiles</b> let you <b>write, schedule and publish</b> the right message for each of them to increase engagement."
 
+# todo - add links to pages for influencers, charities, etc. and other 
+#   people who don't 'sell'. On those pages don't talk about buyer profiles
+
 heroVideo: "/videos/personas.mp4"
 heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"
 
@@ -227,6 +230,11 @@ faq:
     a:
       - "Most marketing starts from the message: decide what you want to say, then send it everywhere. Buyer-driven marketing starts from the reader instead: build a real model of who they are, and let that decide the words, the angle and the offer."
       - "Bazam works this way by default. Every audience gets a detailed profile before a single word gets written, and every piece of content, on every platform, is generated from it."
+
+  - q: "What if I don't have 'buyers'?"
+    a:
+      - "The label is just a shortcut. A buyer profile describes anyone you write to: the people who open your emails, scroll past your posts, or decide whether to follow you. A charity has donors and volunteers. A creator has fans. A restaurant has regulars. The profile works the same way for all of them."
+      - "Marketers call these personas. Whatever you call them, the questions inside are the same: what does this person care about, what puts them off, what kind of language do they take seriously? Fill those in and your content gets written for that person instead of nobody in particular."
 
   - q: "Isn't this just ChatGPT/Claude with extra steps?"
     a:

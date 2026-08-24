@@ -137,6 +137,11 @@ topFeatures:
       description: "Test angles against each buyer profile and promote the winners. The profile sharpens with every campaign, and it belongs to you rather than to an ad platform."
 
 faq:
+  - q: "What if I don't have 'buyers'?"
+    a:
+      - "The label is just a shortcut. A buyer profile describes anyone you write to: the people who read your blog, open your emails, or scroll past your posts. A charity has donors and volunteers. A creator has fans. A local business has regulars. The profile works the same way for all of them."
+      - "Marketers call these personas. Whatever you call them, the questions inside are the same: what does this person care about, what puts them off, what kind of language do they take seriously? Fill those in and every piece of content gets written for that person instead of nobody in particular."
+
   - q: "How long does it take to build a buyer profile?"
     a:
       - "Minutes. Describe the buyer, Bazam generates the profile, and you spend the rest of the time editing rather than authoring. Most people have their first two or three profiles built in a single sitting."
