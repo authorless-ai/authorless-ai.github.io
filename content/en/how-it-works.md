@@ -44,7 +44,8 @@ steps:
 calendar:
   title: "Steps 4 & 5 are what AI writers skip"
   description: "This is where a writing tool stops and hands the work back to you."
-  placeholder: "Animation or screenshot of the content calendar. A month view with posts across many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date and then publishing is by far the strongest version and is the single most persuasive asset on this page."
+  video: "/videos/calendar.mp4"
+  image_alt: "The content calendar, showing a month of posts scheduled across platforms"
   points:
     - title: "Drag, drop, done"
       description: "Move a post and the campaign moves with it. Set recurring slots and multi-day runs once, then stop thinking about them."

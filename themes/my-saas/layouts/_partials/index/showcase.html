@@ -10,11 +10,17 @@
 
   Data shape:
     title / description   heading and subhead
-    image / image_alt     a real screenshot, animated GIF or MP4 poster
+    video / image_alt     a real screen-capture video (autoplay, muted, loop).
+                          Rendered at half the block's width since a screen
+                          recording is usually much lower-res than a real
+                          screenshot and looks soft stretched full-width
+    image / image_alt     a real screenshot or animated GIF
     placeholder           description of the asset that belongs here. Renders a
                           large dashed block so a missing visual is never an
                           invisible gap
-    points                up to 3 { title, description } shown under the visual
+    points                up to 3 { title, description }. Shown stacked beside
+                          the visual when there's a video, otherwise in a row
+                          underneath it
     logos:
       title               small label above the row, e.g. "Publishes direct to"
       items               list of { name, icon, image } — icon is a filename
@@ -40,32 +46,38 @@
     </div>
     {{ end }}
 
-    {{/* The visual, sized to dominate the block */}}
-    <div class="relative rounded-2xl overflow-hidden shadow-xl bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700">
-      {{ with $data.image }}
-      <img class="w-full block" src="{{ . | absURL }}" alt="{{ $data.image_alt | default $data.title }}">
-      {{ end }}
-      {{ with $data.placeholder }}
-      <div class="flex flex-col items-center justify-center text-center border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40 px-6 py-20 min-h-[28rem]">
-        <svg class="w-14 h-14 mb-4 text-primary-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 10h16M8 7V4m8 3V4M5 20h14a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1Z"/>
-        </svg>
-        <p class="text-xs font-bold uppercase tracking-widest text-primary-500 dark:text-gray-500 mb-3">Image or animation to add</p>
-        <p class="max-w-xl text-base text-gray-600 dark:text-gray-400">{{ . | safeHTML }}</p>
+    {{/* The visual, sized to dominate the block. With a video, the points sit
+         stacked beside it rather than below, so the recording can stay at a
+         natural, non-upscaled width */}}
+    <div class="{{ if $data.video }}flex flex-col md:flex-row md:items-center gap-8{{ end }}">
+      <div class="relative rounded-2xl overflow-hidden shadow-xl bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 {{ if $data.video }}w-full md:w-1/2{{ end }}">
+        {{ if $data.video }}
+        <video class="w-full block" src="{{ $data.video | absURL }}" autoplay loop muted playsinline aria-label="{{ $data.image_alt | default $data.title }}"></video>
+        {{ else if $data.image }}
+        <img class="w-full block" src="{{ $data.image | absURL }}" alt="{{ $data.image_alt | default $data.title }}">
+        {{ end }}
+        {{ with $data.placeholder }}
+        <div class="flex flex-col items-center justify-center text-center border-2 border-dashed border-primary-300 dark:border-gray-600 bg-primary-50/40 dark:bg-gray-900/40 px-6 py-20 min-h-[28rem]">
+          <svg class="w-14 h-14 mb-4 text-primary-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 10h16M8 7V4m8 3V4M5 20h14a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1Z"/>
+          </svg>
+          <p class="text-xs font-bold uppercase tracking-widest text-primary-500 dark:text-gray-500 mb-3">Image or animation to add</p>
+          <p class="max-w-xl text-base text-gray-600 dark:text-gray-400">{{ . | safeHTML }}</p>
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
-    </div>
 
-    {{ with $data.points }}
-    <div class="mt-10 grid gap-8 md:grid-cols-3">
-      {{ range . }}
-      <div>
-        <h3 class="mb-2 text-lg font-bold text-gray-900 dark:text-white">{{ .title | safeHTML }}</h3>
-        <p class="text-gray-600 dark:text-gray-400">{{ .description | safeHTML }}</p>
+      {{ with $data.points }}
+      <div class="{{ if $data.video }}flex-1 flex flex-col gap-6 justify-center{{ else }}mt-10 grid gap-8 md:grid-cols-3{{ end }}">
+        {{ range . }}
+        <div>
+          <h3 class="mb-2 text-lg font-bold text-gray-900 dark:text-white">{{ .title | safeHTML }}</h3>
+          <p class="text-gray-600 dark:text-gray-400">{{ .description | safeHTML }}</p>
+        </div>
+        {{ end }}
       </div>
       {{ end }}
     </div>
-    {{ end }}
 
     {{ with $data.logos }}
     <div class="mt-12 text-center">
