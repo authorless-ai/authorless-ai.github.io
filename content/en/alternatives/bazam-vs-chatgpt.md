@@ -16,7 +16,7 @@ aliases:
 features:
   - title: "Every chat starts from nothing"
     image: "/images/persona.png"
-    image_alt: "A populated 30-point audience model in Bazam"
+    image_alt: "A populated 30-point audience profile in Bazam"
     description:
       - "Whatever you told ChatGPT about your customer last month is gone. You retype it, shorter each time, until it's four words."
     points:
@@ -79,7 +79,7 @@ faq:
 
   - q: "How much is it?"
     a:
-      - "From $39 a month. The entry plan includes the full 30-Point Buyer Profile, every content type, all six publishing channels and 50+ languages."
+      - "From $39 a month. The entry plan includes the full 30-Point Audience Profile, every content type, all six publishing channels and 50+ languages."
 
   - q: "Do I have to write the personas myself?"
     a:

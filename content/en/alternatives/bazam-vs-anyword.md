@@ -14,7 +14,7 @@ comparisonGrid: "comparison_anyword"
 features:
   - title: "A score can't tell you why they buy"
     image: "/images/persona.png"
-    image_alt: "A populated 30-point audience model in Bazam"
+    image_alt: "A populated 30-point audience profile in Bazam"
     description:
       - "Scoring ranks the words you already have. It never asks who is reading them, so you rewrite the same message until the number goes up."
     points:
@@ -69,7 +69,7 @@ faq:
 
   - q: "Which one is cheaper?"
     a:
-      - "Bazam starts at $39 a month, Anyword at $49. Our entry plan includes the full 30-Point Buyer Profile, every content type, all six publishing channels and 50+ languages."
+      - "Bazam starts at $39 a month, Anyword at $49. Our entry plan includes the full 30-Point Audience Profile, every content type, all six publishing channels and 50+ languages."
 
   - q: "Do I have to write the personas myself?"
     a:

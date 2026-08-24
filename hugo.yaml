@@ -97,8 +97,8 @@ menus:
   - name: "How it works"
     url: "/how-it-works/"
     weight: 10
-  - name: "Buyer profiles"
-    url: "/buyer-profile/"
+  - name: "Audience profiles"
+    url: "/audience-profile/"
     weight: 20
   - name: "Pricing"
     url: "/pricing/"

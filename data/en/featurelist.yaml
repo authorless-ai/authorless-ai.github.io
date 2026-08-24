@@ -1,8 +1,8 @@
-title: "One buyer profile for all content creation"
-description: "Create a buyer profile once and Bazam uses it for all content creation. Then it translates, schedules, publishes and reports back."
+title: "One audience profile for all content creation"
+description: "Create an audience profile once and Bazam uses it for all content creation. Then it translates, schedules, publishes and reports back."
 features:
   - iconColor: "primary"
-    title: "Write from the buyer profile"
+    title: "Write from the audience profile"
     icon: edit
     points:
       - description: "Generate <b>30+ content types</b>: blog posts, social campaigns, ad copy, case studies, how-tos, listicles, comparisons, FAQs and quote cards, every one written to the audience you picked."

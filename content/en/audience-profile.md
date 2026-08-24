@@ -1,13 +1,13 @@
 ---
 layout: marketing
-title: "The 30-Point Buyer Profile"
+title: "The 30-Point Audience Profile"
 superTitle: "More knowledge, more conversions"
-description: "Thirty points about one buyer: what they want, what worries them, what makes them buy. Fill it in once and every piece of content you generate speaks to that person."
+description: "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Thirty points about one buyer: what they want, what worries them, what makes them buy. Fill it in once and every blog post, ad, email and social campaign you generate speaks directly to them."
+  - "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every blog post, ad, email and social campaign you generate speaks directly to them."
   - "**Marketers call these personas**. Bazam structures them into thirty points so our AI can actually use them."
 
 # ---------------------------------------------------------------------------
@@ -57,11 +57,11 @@ contrast:
       value: "small business owners, 30-50"
     caption: "Nothing here tells the AI what this person is afraid of, what they believe, or how they make a decision. So it writes something that could be addressed to anyone, because as briefed, it is."
   right:
-    badge: "A buyer profile"
+    badge: "An audience profile"
     label: "What Bazam knows instead"
     tone: "brand"
     video: "/videos/personas.mp4"
-    video_alt: "The audience list in Bazam, with a buyer profile expanded to show its thirty points"
+    video_alt: "The audience list in Bazam, with an audience profile expanded to show its thirty points"
     caption: "Structured, not prose. Each point is its own field, so every wizard can read it, vary by it, and write to it the same way across channels and languages."
   footer: "A sentence is a guess. Thirty points is insight"
 
@@ -69,26 +69,26 @@ contrast:
 # Depth
 # ---------------------------------------------------------------------------
 features:
-  - title: "Create your buyer profiles in under 60s"
+  - title: "Create your audience profiles in under 60s"
     image: "/images/analyse-voice.png"
-    image_alt: "Bazam generating a buyer profile from a short description"
+    image_alt: "Bazam generating an audience profile from a short description"
     description:
-      - "Bazam reads your website and creates a 30-point buyer profile for each audience you sell to, in seconds."
+      - "Bazam reads your website and creates a 30-point audience profile for each audience you sell to, in seconds."
     points:
       - title: "No workshop required"
         description: "What used to need a deck and a room full of people takes as long as it takes Bazam to read your homepage."
       - title: "More than a name"
-        description: "Bazam doesn't hand you \"small business owners, 25-50\" and call it done. Every buyer profile comes back with buying behaviour, emotional drivers and the rest already filled in, ready to write from."
+        description: "Bazam doesn't hand you \"small business owners, 25-50\" and call it done. Every audience profile comes back with buying behaviour, emotional drivers and the rest already filled in, ready to write from."
       - title: "Pulled from what you sell, not a template"
         description: "The profiles come from your actual offerings and positioning, not a generic persona with your logo dropped in."
     footer:
-      - "Prefer to start from scratch? Describe a buyer in a sentence and Bazam builds the profile from that instead."
+      - "Prefer to start from scratch? Describe a reader in a sentence and Bazam builds the profile from that instead."
 
   - title: "One profile, every platform"
     image: "/images/projects.png"
-    image_alt: "One buyer profile driving content across channels and languages"
+    image_alt: "One audience profile driving content across channels and languages"
     description:
-      - "Build a buyer profile properly once and you never do it again. Everything downstream reads from the same profile."
+      - "Build an audience profile properly once and you never do it again. Everything downstream reads from the same profile."
     points:
       - title: "Every content type"
         description: "30+ of them, from blog posts and social campaigns to case studies, how-tos and comparison pieces, all generated against the audience you selected."
@@ -101,7 +101,7 @@ features:
       - title: "Both sides of the brief"
         description: "Bazam profiles your company, brand and offerings as well, so it knows what it is writing about and not only who it is writing for."
     footer:
-      - "Keep separate projects per brand or client, each with their own buyer profiles, voice and knowledge base."
+      - "Keep separate projects per brand or client, each with their own audience profiles, voice and knowledge base."
 
 # ---------------------------------------------------------------------------
 # Evidence
@@ -134,19 +134,19 @@ topFeatures:
     - title: "Profiles that learn"
       description: "Published results feed straight back in. Your best guess turns into a record of what your market responds to."
     - title: "Proven angles, per buyer"
-      description: "Test angles against each buyer profile and promote the winners. The profile sharpens with every campaign, and it belongs to you rather than to an ad platform."
+      description: "Test angles against each audience profile and promote the winners. The profile sharpens with every campaign, and it belongs to you rather than to an ad platform."
 
 faq:
-  - q: "What if I don't have 'buyers'?"
+  - q: "Do I need to have 'buyers' for this to work?"
     a:
-      - "The label is just a shortcut. A buyer profile describes anyone you write to: the people who read your blog, open your emails, or scroll past your posts. A charity has donors and volunteers. A creator has fans. A local business has regulars. The profile works the same way for all of them."
+      - "No. An audience profile describes anyone you write to: the people who read your blog, open your emails, or scroll past your posts. A charity has donors and volunteers. A creator has fans. A local business has regulars. The profile works the same way for all of them."
       - "Marketers call these personas. Whatever you call them, the questions inside are the same: what does this person care about, what puts them off, what kind of language do they take seriously? Fill those in and every piece of content gets written for that person instead of nobody in particular."
 
-  - q: "How long does it take to build a buyer profile?"
+  - q: "How long does it take to build an audience profile?"
     a:
-      - "Minutes. Describe the buyer, Bazam generates the profile, and you spend the rest of the time editing rather than authoring. Most people have their first two or three profiles built in a single sitting."
+      - "Minutes. Describe your reader, Bazam generates the profile, and you spend the rest of the time editing rather than authoring. Most people have their first two or three profiles built in a single sitting."
 
-  - q: "How many buyer profiles do I need?"
+  - q: "How many audience profiles do I need?"
     a:
       - "Fewer than you think. Two or three distinct readers covers most small businesses, and building those properly beats sketching eight badly. Consultants and agencies want one set per client, which is what the larger plans are for."
 
@@ -160,7 +160,7 @@ faq:
 
 waitlist:
   id: "early-access"
-  title: "Build your first buyer profile"
-  description: "Tell us who you sell to and we'll build your first buyer profiles with you. Then watch what your content does when it finally knows who it's talking to."
+  title: "Build your first audience profile"
+  description: "Tell us who you sell to and we'll build your first audience profiles with you. Then watch what your content does when it finally knows who it's talking to."
   button: "Request access"
 ---

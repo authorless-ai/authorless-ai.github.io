@@ -16,7 +16,7 @@ aliases:
 features:
   - title: "Your brand is not your customer"
     image: "/images/persona.png"
-    image_alt: "A populated 30-point audience model in Bazam"
+    image_alt: "A populated 30-point audience profile in Bazam"
     description:
       - "Writing that sounds like your brand still has to sell to somebody. Bazam holds a persona for each type of customer you have."
     points:
@@ -63,7 +63,7 @@ features:
 faq:
   - q: "Which one is cheaper?"
     a:
-      - "Bazam starts at $39 a month, Blaze at $79. Our entry plan includes the full 30-Point Buyer Profile, every content type, all six publishing channels and 50+ languages."
+      - "Bazam starts at $39 a month, Blaze at $79. Our entry plan includes the full 30-Point Audience Profile, every content type, all six publishing channels and 50+ languages."
 
   - q: "Can my clients sign off before anything goes live?"
     a:

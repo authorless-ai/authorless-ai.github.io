@@ -19,7 +19,7 @@ steps:
     - phase: "One-time, 5-minute setup"
       number: "1"
       title: "Point Bazam at your website"
-      description: "It reads your business, brand and offerings, and audiences you sell to, then builds a detailed 30-point buyer profile for each. Tweak them to taste or add more."
+      description: "It reads your business, brand and offerings, and audiences you sell to, then builds a detailed 30-point audience profile for each. Tweak them to taste or add more."
     - phase: "One-time, 5-minute setup"
       number: "2"
       title: "Connect your channels"
@@ -27,7 +27,7 @@ steps:
     - phase: "Every time after that"
       number: "3"
       title: "Pick an audience, run a wizard"
-      description: "Choose who it's for and optional angle, then pick the format. Your brand voice, knowledge base and buyer profile are already applied, so there is no prompt to write."
+      description: "Choose who it's for and optional angle, then pick the format. Your brand voice, knowledge base and audience profile are already applied, so there is no prompt to write."
     - phase: "Every time after that"
       number: "4"
       title: "Drop it on the calendar"
@@ -106,7 +106,7 @@ features:
 faq:
   - q: "What if I don't have 'buyers'?"
     a:
-      - "The label is just a shortcut. A buyer profile describes anyone you write to: the people who open your emails, read your blog, or scroll past your posts. A charity has donors and volunteers. A creator has fans. A local business has regulars. The profile works the same way for all of them."
+      - "The label is just a shortcut. An audience profile describes anyone you write to: the people who open your emails, read your blog, or scroll past your posts. A charity has donors and volunteers. A creator has fans. A local business has regulars. The profile works the same way for all of them."
       - "Marketers call these personas. Whatever you call them, the questions inside are the same: what does this person care about, what puts them off, what kind of language do they take seriously? Fill those in and your content gets written for that person instead of nobody in particular."
 
   - q: "How long does setup take?"
@@ -115,7 +115,7 @@ faq:
 
   - q: "Do I have to use the whole pipeline?"
     a:
-      - "No. Plenty of people generate in Bazam and publish somewhere else, or connect one channel and add the rest later. The buyer profile is the part that changes the output, and it works from step two onwards."
+      - "No. Plenty of people generate in Bazam and publish somewhere else, or connect one channel and add the rest later. The audience profile is the part that changes the output, and it works from step two onwards."
 
   - q: "What if I want to write it myself?"
     a:

@@ -110,7 +110,7 @@ sections:
           - text: "$49/mo"
           - text: "$39/mo"
       - id: included
-        feature: "Full buyer profile on the entry plan"
+        feature: "Full audience profile on the entry plan"
         values:
           - check: false
           - check: true
