@@ -1,6 +1,6 @@
 ---
 title: "Say the right thing to each of your buyers"
-superTitle: "AI Buyer-driven marketing. Publish to six platforms"
+superTitle: "Audience-driven marketing. Publish to six platforms"
 description: "Bazam writes, schedules and publishes your social posts and blog, so your business is always out there. Personas let you talk to each kind of customer in their own language."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
@@ -25,7 +25,7 @@ personas:
 
       * A corporate organiser cares about the conference facilities.
       * A couple booking a weekend away cares about room service.
-    - "Bazam calls this **buyer-driven marketing**: understand exactly who's reading, and let that guide every message to increase conversions."
+    - "Bazam calls this **audience-driven marketing**: understand exactly who's reading, and let that guide every message to increase conversions."
   title_image: "/images/persona-list.png"
   title_image_alt: "List of audience personas in Bazam"
   personas:
@@ -227,9 +227,9 @@ comparisonGrid: "comparison_generic"
 # 12. Objections
 # ---------------------------------------------------------------------------
 faq:
-  - q: "What is buyer-driven marketing?"
+  - q: "What is audience-driven marketing?"
     a:
-      - "Most marketing starts from the message: decide what you want to say, then send it everywhere. Buyer-driven marketing starts from the reader instead: build a real model of who they are, and let that decide the words, the angle and the offer."
+      - "Most marketing starts from the message: decide what you want to say, then send it everywhere. Audience-driven marketing starts from the reader instead: build a real model of who they are, and let that decide the words, the angle and the offer."
       - "Bazam works this way by default. Every audience gets a detailed profile before a single word gets written, and every piece of content, on every platform, is generated from it."
 
   - q: "What if I don't have 'buyers'?"
