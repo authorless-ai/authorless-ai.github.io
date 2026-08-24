@@ -25,7 +25,6 @@
     {{ partial "index/features-3-cols-icons.html" . }}
   {{ end }}
 
-
   {{ partial "index/steps.html" (dict "data" .Params.steps "context" .) }}
 
   {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
@@ -45,6 +44,8 @@
 
   {{ partial "index/two-panel.html" (dict "data" .Params.contrast "context" .) }}
 
+  {{ partial "index/evidence.html" (dict "data" .Params.evidence "context" .) }}
+
   {{ if .Params.featureList }}
     {{ partial "index/features-3-cols-stripe.html" . }}
   {{ end }}
@@ -52,8 +53,6 @@
   {{ if .Params.features }}
     {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" (len .Params.features)) }}
   {{ end }}
-
-  {{ partial "index/evidence.html" (dict "data" .Params.evidence "context" .) }}
 
   {{ partial "index/two-panel.html" (dict "data" .Params.sample "context" .) }}
 

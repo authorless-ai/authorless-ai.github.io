@@ -1,14 +1,16 @@
 ---
 layout: marketing
 title: "The 30-Point Audience Profile"
-superTitle: "More knowledge, more conversions"
+superTitle: "More knowledge, better content, more engagement"
 description: "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every blog post, ad, email and social campaign you generate speaks directly to them."
-  - "**Marketers call these personas**. Bazam structures them into thirty points so our AI can actually use them."
+  - "An **audience** is **anyone who consumes or your content**, e.g. readers, viewers, followers, etc."
+  - "Bazam lets you create detailed profiles for each kind of audience capturing their problems, dream solutions and more."
+  - "Every piece of content then gets written to a specific profile. Your experts want depth. Your newcomers want reassurance"
+  - "**Marketers call these personas**. Bazam structures them into 30 points so our AI deeply understands who it's writing for."
 
 # ---------------------------------------------------------------------------
 # What's in it
@@ -47,23 +49,23 @@ featureList:
 # ---------------------------------------------------------------------------
 contrast:
   title: "Why a profile and not a sentence"
-  description: "Competent. Fluent. Forgettable. That's what comes back when the AI has been told to write for everyone."
+  description: "Competent. Fluent. Forgettable. That's what AI writes when it doesn't know the audience."
   left:
     badge: "A description"
-    label: "What you'd type into any other tool"
+    label: "Standard AI tools might ask for a sentence..."
     tone: "muted"
     field:
       label: "Target audience"
       value: "small business owners, 30-50"
-    caption: "Nothing here tells the AI what this person is afraid of, what they believe, or how they make a decision. So it writes something that could be addressed to anyone, because as briefed, it is."
+    caption: "The AI doesn't know this person's fears, beliefs, or how they make a decision. So it guesses and writes generic output."
   right:
     badge: "An audience profile"
-    label: "What Bazam knows instead"
+    label: "Bazam builds a deep understanding"
     tone: "brand"
     video: "/videos/personas.mp4"
     video_alt: "The audience list in Bazam, with an audience profile expanded to show its thirty points"
-    caption: "Structured, not prose. Each point is its own field, so every wizard can read it, vary by it, and write to it the same way across channels and languages."
-  footer: "A sentence is a guess. Thirty points is insight"
+    caption: "Structured & easily editable. Lets Bazam write the right message to each audience across languages."
+  footer: "A sentence is a guess. Thirty points is knowledge"
 
 # ---------------------------------------------------------------------------
 # Depth
