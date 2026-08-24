@@ -57,7 +57,7 @@ angles:
         value: "Room service, and whether the hot tub is private or shared."
       - label: "How she decides"
         value: "Compares two or three hotels side by side, books whichever answers those questions first."
-    footnote: "Three things from Jo's audience model."
+    footnote: "Three things from Jo's buyer profile."
   slides:
     - angle: "Aspiration"
       copy: "Two nights, no plans, and a hot tub that's all yours. This is what switching off looks like."
@@ -135,7 +135,7 @@ evidence:
 features:
   - title: "People buy on emotion. Bazam can find which one."
     image: "/images/persona.png"
-    image_alt: "A populated 30-point audience model in Bazam"
+    image_alt: "A populated 30-point buyer profile in Bazam"
     description:
       - "Nobody buys a feature list. They buy to gain, or to stop losing. Hit the right emotion and you get up to 50% more purchases from the same offer."
     points:
@@ -149,26 +149,26 @@ features:
       - "Talk to your audience's emotions and they'll love you forever."
     source: "Field experiments across 3.5 million people. Matz, Kosinski, Nave & Stillwell, PNAS, 2017."
 
-  - title: "Every format you publish, from the same persona."
+  - title: "Every format you publish, from the same buyer profile."
     image: "/images/campaign-options.png"
     image_alt: "Choosing an audience and an angle before generating a campaign"
     description:
-      - "You saw the angles at the top of the page. The same persona sits behind every format too, so a blog post, a launch campaign and a case study all speak to the reader you picked."
+      - "You saw the angles at the top of the page. The same buyer profile sits behind every format too, so a blog post, a launch campaign and a case study all speak to the reader you picked."
     points:
       - title: "Pick the audience, pick the angle"
         description: "Same product, same brand voice. A time-saving hook for one audience, a risk-and-compliance hook for the next."
-      - title: "Every format, from the same model"
+      - title: "Every format, from the same profile"
         description: "30+ content types, from blog posts and social campaigns to case studies, how-tos, listicles and comparison pieces, all written to the audience you selected."
       - title: "Different, not inconsistent"
         description: "Your brand voice and knowledge base apply to every piece, so your posts change while your brand never does."
     footer:
-      - "Model your audiences once. Everything downstream inherits them."
+      - "Build your buyer profiles once. Everything downstream inherits them."
 
   - title: "It knows your side of the conversation too."
     image: "/images/analyse-voice.png"
     image_alt: "Company, brand and offering profiles in Bazam"
     description:
-      - "An audience model tells Bazam who's reading. Your company, brand and offering profiles tell it what it's talking about. Both halves of the brief, so the content's accurate about you as well as aimed at them."
+      - "A buyer profile tells Bazam who's reading. Your company, brand and offering profiles tell it what it's talking about. Both halves of the brief, so the content's accurate about you as well as aimed at them."
     points:
       - title: "Company, brand, offering"
         description: "Model your business once: what you do, how you are positioned, what you sell. Run several brands, each with their own offerings, voice and audiences."
@@ -188,7 +188,7 @@ introFeatures:
     description: "Bazam reads your business, your brand and your offerings, then comes back with <b>the audiences you're selling to</b>."
   - step: "2"
     title: "Check what it came up with"
-    description: "Each audience arrives as a 30-point model: drivers, motivations, values, buying behaviour, tone. <b>Tweak to taste</b> and it's yours for good."
+    description: "Each buyer arrives as a detailed profile: their drivers, motivations, values, buying behaviour, and tone. <b>Tweak to taste</b> and it's yours for good."
   - step: "3"
     title: "Generate, schedule, publish"
     description: "That's the setup finished. <b>From then on it's pick an audience, pick an angle, run a wizard</b>, and Bazam schedules and publishes it while you get on with something else."
@@ -203,16 +203,16 @@ featureCards:
   cards:
     - title: "Solo marketers"
       icon: star
-      description: "One person, five channels, and no time to write a persona deck nobody will read. Model your audiences once and generate against them for good."
+      description: "One person, five channels, and no time to research buyer profiles from scratch. Set them up once and generate against them for good."
     - title: "Small in-house teams"
       icon: users
-      description: "Two or three people covering every channel and every market. Shared audience models mean everyone writes to the same reader, whoever happens to be drafting."
+      description: "Two or three people covering every channel and every market. Shared buyer profiles/personas mean everyone writes to the same reader, whoever happens to be drafting."
     - title: "Freelancers & consultants"
       icon: briefcase
       description: "You are the marketing department for several businesses at once. Separate projects keep each client's audiences, voice and knowledge apart, so nothing bleeds between them."
     - title: "Marketing agencies"
       icon: bullhorn
-      description: "You already sell audience research and bill for the deck. Bazam produces that in minutes, then writes every campaign downstream from it. Clients sign off in their own portal and never hand over their social passwords."
+      description: "You already sell audience research and buyer profiles/personas. Bazam produces them in a minute, then writes every piece of content for them. Clients sign off in their own portal and never hand over their social passwords."
 
 # ---------------------------------------------------------------------------
 # 11. Comparison
@@ -231,13 +231,13 @@ faq:
   - q: "Isn't this just ChatGPT/Claude with extra steps?"
     a:
       - "No. ChatGPT gives you a draft in a chat window and stops there. It won't schedule anything, won't publish to Facebook, Instagram, TikTok, X, LinkedIn or WordPress, won't route work through approvals, won't reformat one brief into a version per platform, won't translate a campaign into 50+ languages, and won't tell you how any of it performed."
-      - "Bazam does all of that, and does it off a thirty-point model of your reader that it keeps. In ChatGPT everything you know about that reader lives in the prompt you typed this time and is gone by the next session. Writing the draft is one step of about six."
-      - "If you like working in ChatGPT/Claude, keep them. Bazam runs an MCP server, so you can pull your audience models and brand voice straight into ChatGPT or Claude, draft there, and publish through us."
+      - "Bazam does all of that, and does it off a 30-point buyer profile it keeps. In ChatGPT everything you know about that reader lives in the prompt you typed this time and is gone by the next session. Writing the draft is one step of about six."
+      - "If you like working in ChatGPT/Claude, keep them. Bazam runs an MCP server, so you can pull your buyer profiles and brand voice straight into ChatGPT or Claude, draft there, and publish through us."
 
-  - q: "Do I really have to fill in thirty fields?"
+  - q: "Do I have to fill in my buyer profiles manually?"
     a:
-      - "You may not have to write anything at all. Point Bazam at your website and it works out your business, your brand and the audiences you're selling to, then hands you the 30-point models to check. Tweak to taste, add one it missed, and you're done."
-      - "If you would rather start from scratch, describing an audience in a sentence or two works too. Either way you deepen a model whenever you learn something new, and every future piece of content picks it up."
+      - "Probably not. Point Bazam at your website and it works out your business, your brand and the audiences you're selling to, then hands you the 30-point buyer profiles to check. Tweak to taste, add one it missed, and you're done."
+      - "If you would rather start from scratch, describing an audience in a sentence or two works too. Either way you enhance a profile whenever you learn something new, and every future piece of content picks it up."
 
   - q: "Will the content read any differently?"
     a:
@@ -245,7 +245,7 @@ faq:
 
   - q: "I already have personas in a doc somewhere."
     a:
-      - "Most people do, and they're almost always prose, which is fine for a slide deck and useless to software. Prose can't be applied per channel, can't be varied by angle, and can't be picked up by whoever drafts next. Paste what you've got into Bazam and it becomes a model you can generate from."
+      - "Most people do, and they're almost always prose, which is fine for a slide deck and useless to software. Prose can't be applied per channel, can't be varied by angle, and can't be picked up by whoever drafts next. Paste what you've got into Bazam and it becomes a buyer profile you can generate from."
 
   - q: "Can Bazam publish, or does it only write?"
     a:
@@ -253,7 +253,7 @@ faq:
 
   - q: "How is this different from the other AI writing tools?"
     a:
-      - "Two things. First, what the AI is told. Other tools give you a text box and one line about your audience, then write everything from it. Bazam holds a thirty-point model of each of your audiences and applies it to every piece, in every format and every language."
+      - "Two things. First, what the AI is told. Other tools give you a text box and one line about your audience, then write everything from it. Bazam holds a detailed 30-point buyer profile for each of your audiences and applies it to every piece, in every format and every language."
       - "Second, where they stop. They hand you copy. Bazam schedules it, adapts it per platform, publishes it to six channels and your blog, translates it into 50+ languages and reports back on how it did."
       - "If you're weighing us against something specific, the [head-to-head comparisons](/alternatives/) go through it row by row."
 

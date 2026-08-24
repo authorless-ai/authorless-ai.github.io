@@ -13,13 +13,13 @@ heroDescription:
 # The pipeline
 # ---------------------------------------------------------------------------
 steps:
-  title: "Two steps to set up. Three steps forever."
+  title: "Two-step set up, three-step publishing"
   description: "Bazam works your business out from your website, so onboarding is mostly checking that it got you right."
   items:
     - phase: "One-time, 5-minute setup"
       number: "1"
       title: "Point Bazam at your website"
-      description: "It reads your business, brand and offerings, and audiences you sell to, built as a 30-point model. Tweak them to taste or add more."
+      description: "It reads your business, brand and offerings, and audiences you sell to, then builds a detailed 30-point buyer profile for each. Tweak them to taste or add more."
     - phase: "One-time, 5-minute setup"
       number: "2"
       title: "Connect your channels"
@@ -27,7 +27,7 @@ steps:
     - phase: "Every time after that"
       number: "3"
       title: "Pick an audience, run a wizard"
-      description: "Choose who it's for and optional angle, then pick the format. Your brand voice, knowledge base and audience model are already applied, so there is no prompt to write."
+      description: "Choose who it's for and optional angle, then pick the format. Your brand voice, knowledge base and buyer profile are already applied, so there is no prompt to write."
     - phase: "Every time after that"
       number: "4"
       title: "Drop it on the calendar"
@@ -42,7 +42,7 @@ steps:
 # The calendar
 # ---------------------------------------------------------------------------
 calendar:
-  title: "Steps 4 to 6 are the half AI writers skip."
+  title: "Steps 4 & 5 are what AI writers skip"
   description: "This is where a writing tool stops and hands the work back to you."
   placeholder: "Animation or screenshot of the content calendar. A month view with posts across many days, platform icons visible on each entry, ideally caught mid drag-and-drop. An animated GIF or short MP4 of a post being dragged to a new date and then publishing is by far the strongest version and is the single most persuasive asset on this page."
   points:
@@ -110,7 +110,7 @@ faq:
 
   - q: "Do I have to use the whole pipeline?"
     a:
-      - "No. Plenty of people generate in Bazam and publish somewhere else, or connect one channel and add the rest later. The audience model is the part that changes the output, and it works from step two onwards."
+      - "No. Plenty of people generate in Bazam and publish somewhere else, or connect one channel and add the rest later. The buyer profile is the part that changes the output, and it works from step two onwards."
 
   - q: "What if I want to write it myself?"
     a:
