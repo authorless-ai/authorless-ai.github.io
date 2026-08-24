@@ -61,7 +61,7 @@
     </div>
 
     {{ with $data.footer }}
-    <p class="mt-10 mx-auto max-w-3xl text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | safeHTML }}</p>
+    <p class="mt-10 mx-auto max-w-3xl text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | markdownify }}</p>
     {{ end }}
   </div>
 </section>

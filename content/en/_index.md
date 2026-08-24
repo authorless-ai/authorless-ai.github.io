@@ -1,87 +1,83 @@
 ---
-title: "A month of posts written to each of your audiences"
-superTitle: "30-Point Audience Model. Publish to six platforms."
+title: "Say the right thing to each of your buyers"
+superTitle: "AI Buyer-driven marketing. Publish to six platforms"
 description: "Bazam writes, schedules and publishes your social posts and blog, so your business is always out there. Personas let you talk to each kind of customer in their own language."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "You sell to more than one kind of person. Bazam's <b>personas</b> let you <b>write, schedule and publish</b> for each of them, so you get more attention"
+  - "You sell to more than one kind of person. Bazam's <b>detailed buyer profiles</b> let you <b>write, schedule and publish</b> the right message for each of them to increase engagement."
 
 heroVideo: "/videos/personas.mp4"
 heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Audience Model"
 
 # ---------------------------------------------------------------------------
-# 2. One persona, six angles
-# ---------------------------------------------------------------------------
-angles:
-  title: "One persona. Six ways to say the same thing."
-  description: "This is one gym announcing one thing to one customer. Pick a different angle and the post changes completely, because Bazam knows who is reading it."
-  brief: "The 6-week strength programme starts Monday."
-  brand: "Northgate Strength"
-  brand_icon: "barbell"
-  persona:
-    name: "Dan, 34"
-    role: "Pays monthly. Trains around a full-time job and two kids."
-    icon: "male_1"
-    traits:
-      - label: "What drives him"
-        value: "Wants to feel strong again, and keep beating his personal best."
-      - label: "What worries him"
-        value: "Starting, missing two weeks, and dropping it like last time."
-      - label: "How he decides"
-        value: "Fast, on impulse, when the next step is small and obvious."
-    footnote: "Three of the thirty points in Dan's 30-Point Audience Model. Every one of them moves the writing."
-  slides:
-    - angle: "Fear of missing out"
-      copy: "12 places. 6 weeks. Starts Monday. The last round filled in a day and the waitlist never got a look in. If you want one of these, take it now."
-      note: "Scarcity and a deadline, because Dan decides fast when something is about to close."
-    - angle: "Loss"
-      copy: "You earned that strength in January. Six weeks off and your body starts to sag. Monday we start putting it back, with a plan that fits round a full-time job."
-      note: "Names what he already has and stands to lose, which lands harder than anything he might gain."
-    - angle: "Aspiration"
-      copy: "Six weeks from Monday you could be lifting more than you ever have. Same you, better numbers, and a programme that treats you like an athlete rather than a beginner."
-      note: "Speaks to the competitive streak: his old numbers are the target, and he wants to beat them."
-    - angle: "Social proof"
-      copy: "41 people finished the last round. 38 of them added weight to every main lift, most of them training three mornings a week before work. The next six weeks start Monday."
-      note: "People like him, doing it around a job, so the programme reads as achievable rather than aspirational."
-    - angle: "Curiosity"
-      copy: "Most people train hard for four weeks and then stall. There is a reason for it, and it has nothing to do with effort. Our 6-week programme starts Monday, and week three is where it gets interesting."
-      note: "Opens a question instead of an offer, for the days he scrolls past anything that looks like an ad."
-    - angle: "Practical"
-      copy: "Three sessions a week, 45 minutes each, planned for you in advance. Nothing to decide when you walk in. Six weeks, starting Monday, built around a working week."
-      note: "Removes the friction he is worried about: time, and having to think about it."
-  footer: "Same gym, same news, same brand voice. You pick the angle, Bazam writes it, schedules it and posts it."
-
-# ---------------------------------------------------------------------------
-# 3. More than one kind of reader
+# 2. More than one kind of reader
 # ---------------------------------------------------------------------------
 personas:
-  title: "Most businesses sell to more than one kind of person."
-  description: "So set up a persona for each: the consumers who buy from you, the businesses that buy from you, the customers who drifted off. Pick one before you generate and everything downstream is written to that reader."
+  title: "Most businesses sell to more than one kind of buyer"
+  description:
+    - |
+      **Example: a hotel**
+
+      * A corporate organiser cares about the conference facilities.
+      * A couple booking a weekend away cares about room service.
+    - "Bazam calls this **buyer-driven marketing**: understand exactly who's reading, and let that guide every message to increase conversions."
   title_image: "/images/persona-list.png"
   title_image_alt: "List of audience personas in Bazam"
   personas:
-    - badge: "Consumer"
-      name: "Dan, 34"
-      role: "Pays monthly, trains around a full-time job"
+    - badge: "Corporate buyer"
+      name: "James"
+      role: "Books offsite meetings for teams of 20 to 100"
       icon: "male_1"
-      sample: "Three sessions a week, 45 minutes each, planned for you in advance. Six weeks, starts Monday."
-      note: "Short on time and decides on impulse, so the offer lands first and the detail follows."
-    - badge: "Business buyer"
-      name: "Priya"
-      role: "HR lead, buys corporate memberships for 200 staff"
+      sample: "A boardroom that seats forty, fast wifi in every room, and a pool & sauna for downtime."
+    - badge: "Romantic getaway"
+      name: "Jo"
+      role: "Booking a weekend away for two, no kids for once"
       icon: "female_1"
-      sample: "Staff absence is the quietest line on your budget. Here is what twelve weeks of structured training did to ours."
-      note: "Has to justify the spend to someone else, so the same programme leads with cost and proof."
-    - badge: "Win-back"
-      name: "Ellie, 29"
-      role: "Member for a year, stopped coming in March"
-      icon: "female_3"
-      sample: "You did the hard part back in January. Picking it up again takes one session, and we kept your programme."
-      note: "Worried about walking back in as a beginner, so nothing in the post makes her feel behind."
-  caption: "Build each persona once. Every wizard, channel and language writes from it after that."
-  footer: "Other tools give you one text box and a sentence like “small business owners, 30-50”, then write everything to that. A Bazam persona is a <b>30-Point Audience Model</b>: what drives them, what worries them, what they believe, how they buy."
+      sample: "Late checkout, dinner for two included, and a private hot tub."
+  footer: "Bazam makes it a breeze to say the right things to each type of buyer"
+
+# ---------------------------------------------------------------------------
+# 3. One persona, six angles
+# ---------------------------------------------------------------------------
+angles:
+  title: "It's not just what you say, but how you say it"
+  description: "The same buyer needs different messages at different times. Bazam makes it easy to experiment to find what works."
+  brief: "New: the Weekend Away package. Dinner for two, late checkout, and a private hot tub."
+  brand: "Millbrook Hotel"
+  persona:
+    name: "Jo"
+    role: "Booking a weekend away for two, no kids for once"
+    icon: "female_1"
+    traits:
+      - label: "What she's looking for"
+        value: "A weekend that feels different from home: nothing to plan, nothing to cook."
+      - label: "What she's checking for"
+        value: "Room service, and whether the hot tub is private or shared."
+      - label: "How she decides"
+        value: "Compares two or three hotels side by side, books whichever answers those questions first."
+    footnote: "Three things from Jo's audience model."
+  slides:
+    - angle: "Aspiration"
+      copy: "Two nights, no plans, and a hot tub that's all yours. This is what switching off looks like."
+      note: "Sells the feeling, not the room, because that's what she's booking."
+    - angle: "Scarcity"
+      copy: "Only six rooms have the private hot tub, and weekends book up fast. Dinner for two and late checkout are both included - just book and relax."
+      note: "A real limit, for the reader who decides quickly once something is close to selling out."
+    - angle: "Social proof"
+      copy: "Booked solid every weekend since March. Try our hot tub suite and find out why for yourself."
+      note: "Other couples already chose it, which carries more weight than any description of the room."
+    - angle: "Practical"
+      copy: "Book and relax. With dinner reserved, late checkout confirmed, and the hot tub suite waiting for you, all you need to do is arrive."
+      note: "Removes the planning she's trying to get away from in the first place."
+    - angle: "Curiosity"
+      copy: "Find out for yourself why our restaurant is rated 4.8 stars by other guests."
+      note: "Build curiosity, for the reader who scrolls past anything that reads like an ad."
+    - angle: "Your own words"
+      copy: "Need some 'you' time? Recharge in our spa and experience our award-winning restaurant for a weekend you'll remember."
+      note: "Use a custom angle, e.g. “weekend without the kids”, and Bazam writes to that."
+  footer: "Same hotel, same offer, same brand voice. Pick the angle, or type your own, and Bazam writes it, schedules it and posts it."
 
 # ---------------------------------------------------------------------------
 # 4. The calendar
@@ -118,7 +114,7 @@ calendar:
 # 5. Evidence
 # ---------------------------------------------------------------------------
 evidence:
-  title: "The message does five times more work than targeting."
+  title: "Better words beat better targeting, five to one."
   description: "Everyone worries about reach. But the words are where the value is. Better words, more engagement, more reach."
   stats:
     - figure: "47%"
@@ -131,13 +127,13 @@ evidence:
       title: "The more you know about the reader, the harder the message works."
       description: "88 studies, 106,243 people. Tailored messages beat generic ones every time, and the gap widened the more the writer knew. <b>Every point you fill in makes your content work harder.</b>"
       source: "Krebs, Prochaska & Rossi, 2010"
-  footer: "Thirty points give the AI thirty ways to understand your audience. A text box gives it a couple of words and a guess."
+  footer: "Bazam's detailed thirty-point buyer profiles let it write posts your audiences actually _want_ to read."
 
 # ---------------------------------------------------------------------------
 # 6. Three fields, and per-angle generation
 # ---------------------------------------------------------------------------
 features:
-  - title: "People buy on emotion. Bazam knows which one."
+  - title: "People buy on emotion. Bazam can find which one."
     image: "/images/persona.png"
     image_alt: "A populated 30-point audience model in Bazam"
     description:
@@ -227,6 +223,11 @@ comparisonGrid: "comparison_generic"
 # 12. Objections
 # ---------------------------------------------------------------------------
 faq:
+  - q: "What is buyer-driven marketing?"
+    a:
+      - "Most marketing starts from the message: decide what you want to say, then send it everywhere. Buyer-driven marketing starts from the reader instead: build a real model of who they are, and let that decide the words, the angle and the offer."
+      - "Bazam works this way by default. Every audience gets a detailed profile before a single word gets written, and every piece of content, on every platform, is generated from it."
+
   - q: "Isn't this just ChatGPT/Claude with extra steps?"
     a:
       - "No. ChatGPT gives you a draft in a chat window and stops there. It won't schedule anything, won't publish to Facebook, Instagram, TikTok, X, LinkedIn or WordPress, won't route work through approvals, won't reformat one brief into a version per platform, won't translate a campaign into 50+ languages, and won't tell you how any of it performed."
@@ -268,7 +269,7 @@ topFeatures:
     - title: "Audience models that learn"
       description: "Published results feed straight back into the model. Your best guess turns into a record of what your market responds to."
     - title: "Proven angles, per audience"
-      description: "Test angles against each audience and promote the winners. Your models get sharper with every campaign, and they belong to you rather than to an ad platform."
+      description: "Test angles against each audience and promote the winners. Your profiles get smarter with every campaign."
 
 # ---------------------------------------------------------------------------
 # 14. Early access

@@ -1,15 +1,18 @@
 {{/*
   Persona Grid Partial
 
-  Sits under the angle carousel. The carousel proves one persona changes the
-  words; this proves you can hold several and talk to each of them separately
-  (the business buyer and the consumer are not the same reader).
+  Sits above the angle carousel. This proves a business holds several
+  personas and talks to each of them separately (the business buyer and the
+  consumer are not the same reader); the carousel that follows proves one of
+  those personas changes the words too.
 
   Usage:
     {{ partial "index/persona-grid.html" (dict "data" .Params.personas "context" .) }}
 
   Data shape:
-    title / description   section heading and subhead
+    title                  section heading
+    description            subhead: a single string or a list of strings (one
+                          per paragraph), markdown-rendered so **bold** works
     title_image / title_image_alt   a real image shown to the right of the
                           heading, once there is one
     personas              list of:
@@ -32,6 +35,8 @@
 
 {{ $data := .data }}
 {{ if $data }}
+{{ $descList := "" }}
+{{ with $data.description }}{{ $descList = cond (reflect.IsSlice .) . (slice .) }}{{ end }}
 <section class="bg-white dark:bg-gray-900">
   <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
 
@@ -42,8 +47,8 @@
           {{ with $data.title }}
           <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
           {{ end }}
-          {{ with $data.description }}
-          <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+          {{ range $descList }}
+          <div class="mb-4 last:mb-0 text-gray-500 dark:text-gray-400 sm:text-xl [&>p]:mb-3 [&>p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mt-2 [&_ul]:space-y-1 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mt-2 [&_ol]:space-y-1">{{ . | markdownify }}</div>
           {{ end }}
         </div>
         <div class="relative overflow-hidden mb-6 sm:mx-4 md:mt-0 rounded-xl md:rounded-s-xl">
@@ -60,15 +65,15 @@
         {{ with $data.title }}
         <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
         {{ end }}
-        {{ with $data.description }}
-        <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+        {{ range $descList }}
+        <p class="mb-4 last:mb-0 text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | markdownify }}</p>
         {{ end }}
       </div>
       {{ end }}
     {{ end }}
 
     {{ with $data.personas }}
-    <div class="grid gap-6 md:grid-cols-3 items-stretch">
+    <div class="grid gap-6 md:grid-cols-2 max-w-3xl mx-auto items-stretch">
       {{ range . }}
       <div class="flex flex-col rounded-2xl bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6">
         <div class="flex items-center gap-4 mb-4">
@@ -95,7 +100,7 @@
 
         {{ with .sample }}
         <div class="flex-1 rounded-xl bg-white dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700 p-4">
-          <p class="mb-2 text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">How a post opens for them</p>
+          <p class="mb-2 text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">What they care about</p>
           <p class="text-base leading-relaxed text-gray-800 dark:text-gray-200">{{ . | safeHTML }}</p>
         </div>
         {{ end }}

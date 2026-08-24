@@ -3,11 +3,11 @@
   {{/* 1. Hero — what it does, and the persona that makes it work */}}
   {{ partial "index/hero.html" . }}
 
-  {{/* 2. One persona, six angles — the USP, shown rather than argued */}}
-  {{ partial "index/angle-carousel.html" (dict "data" .Params.angles "context" .) }}
-
-  {{/* 3. Several personas — one business, several kinds of reader */}}
+  {{/* 2. Several personas — one business, several kinds of reader */}}
   {{ partial "index/persona-grid.html" (dict "data" .Params.personas "context" .) }}
+
+  {{/* 3. One persona, six angles — the USP, shown rather than argued */}}
+  {{ partial "index/angle-carousel.html" (dict "data" .Params.angles "context" .) }}
 
   {{/* 4. The calendar — delivers on "never forget to post" */}}
   {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
