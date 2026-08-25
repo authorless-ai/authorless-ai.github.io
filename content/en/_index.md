@@ -1,12 +1,12 @@
 ---
-title: "Say the right thing to each of your buyers"
-superTitle: "Audience-driven marketing. Publish to six platforms"
-description: "Bazam writes, schedules and publishes your social posts and blog, so your business is always out there. Personas let you talk to each kind of customer in their own language."
+title: "Say the right thing to every audience your clients serve"
+superTitle: "Audience-driven marketing for small agencies"
+description: "Bazam helps small agencies write, schedule and publish content that speaks to each of their clients' audiences."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "You sell to more than one kind of person. Bazam's <b>detailed buyer profiles</b> let you <b>write, schedule and publish</b> the right message for each of them to increase engagement."
+  - "Every client sells to more than one kind of person. Bazam's <b>detailed buyer profiles</b> let you <b>write, schedule and publish</b> the right message for each of them to increase engagement."
 
 # todo - add links to pages for influencers, charities, etc. and other 
 #   people who don't 'sell'. On those pages don't talk about buyer profiles
@@ -18,10 +18,10 @@ heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 3
 # 2. More than one kind of reader
 # ---------------------------------------------------------------------------
 personas:
-  title: "Most businesses sell to more than one kind of buyer"
+  title: "Every client has more than one kind of buyer"
   description:
     - |
-      **Example: a hotel**
+      **Example: a hotel client**
 
       * A corporate organiser cares about the conference facilities.
       * A couple booking a weekend away cares about room service.
@@ -39,14 +39,14 @@ personas:
       role: "Booking a weekend away for two, no kids for once"
       icon: "female_1"
       sample: "Late checkout, dinner for two included, and a private hot tub."
-  footer: "Bazam makes it a breeze to say the right things to each type of buyer"
+  footer: "Bazam makes it a breeze to say the right things to every audience your clients serve"
 
 # ---------------------------------------------------------------------------
 # 3. One persona, six angles
 # ---------------------------------------------------------------------------
 angles:
   title: "It's not just what you say, but how you say it"
-  description: "The same buyer needs different messages at different times. Bazam makes it easy to experiment to find what works."
+  description: "The same audience needs different messages at different times. Bazam makes it easy to experiment to find what works."
   brief: "New: the Weekend Away package. Dinner for two, late checkout, and a private hot tub."
   brand: "Millbrook Hotel"
   persona:
@@ -131,7 +131,7 @@ evidence:
       title: "The more you know about the reader, the harder the message works."
       description: "88 studies, 106,243 people. Tailored messages beat generic ones every time, and the gap widened the more the writer knew. <b>Every point you fill in makes your content work harder.</b>"
       source: "Krebs, Prochaska & Rossi, 2010"
-  footer: "Bazam's detailed thirty-point buyer profiles let it write posts your audiences actually _want_ to read."
+  footer: "Bazam's detailed thirty-point buyer profiles let it write posts your clients' audiences actually _want_ to read."
 
 # ---------------------------------------------------------------------------
 # 6. Three fields, and per-angle generation
@@ -153,11 +153,11 @@ features:
       - "Talk to your audience's emotions and they'll love you forever."
     source: "Field experiments across 3.5 million people. Matz, Kosinski, Nave & Stillwell, PNAS, 2017."
 
-  - title: "Every format you publish, from the same buyer profile."
+  - title: "Every format you create, from the same buyer profile."
     image: "/images/campaign-options.png"
     image_alt: "Choosing an audience and an angle before generating a campaign"
     description:
-      - "You saw the angles at the top of the page. The same buyer profile sits behind every format too, so a blog post, a launch campaign and a case study all speak to the reader you picked."
+      - "Your buyer profile sits behind every format too, so a blog post, a launch campaign and a case study all speak to the reader you picked for that client."
     points:
       - title: "Pick the audience, pick the angle"
         description: "Same product, same brand voice. A time-saving hook for one audience, a risk-and-compliance hook for the next."
@@ -166,16 +166,16 @@ features:
       - title: "Different, not inconsistent"
         description: "Your brand voice and knowledge base apply to every piece, so your posts change while your brand never does."
     footer:
-      - "Build your buyer profiles once. Everything downstream inherits them."
+      - "Build each client's buyer profiles once. Everything downstream inherits them."
 
-  - title: "It knows your side of the conversation too."
+  - title: "It knows your client's side of the conversation too."
     image: "/images/analyse-voice.png"
     image_alt: "Company, brand and offering profiles in Bazam"
     description:
-      - "A buyer profile tells Bazam who's reading. Your company, brand and offering profiles tell it what it's talking about. Both halves of the brief, so the content's accurate about you as well as aimed at them."
+      - "A buyer profile tells Bazam who's reading. Your client's company, brand and offering profiles tell it what it's talking about. Both halves of the brief, so the content is accurate about them as well as aimed at their audience."
     points:
       - title: "Company, brand, offering"
-        description: "Model your business once: what you do, how you are positioned, what you sell. Run several brands, each with their own offerings, voice and audiences."
+        description: "Model each client once: what they do, how they are positioned, what they sell. Keep every client's offerings, voice and audiences separate."
       - title: "Built from your website"
         description: "Point Bazam at your site and it pulls out your positioning, your offerings, and your likely audiences, then fills the profiles in for you."
       - title: "Your facts, not the AI's"
@@ -188,11 +188,11 @@ features:
 # ---------------------------------------------------------------------------
 introFeatures:
   - step: "1"
-    title: "Point us at your website"
-    description: "Bazam reads your business, your brand and your offerings, then comes back with <b>the audiences you're selling to</b>."
+    title: "Point us at your client's website"
+    description: "Bazam reads their business, brand and offerings, then comes back with <b>the audiences they're selling to</b>."
   - step: "2"
     title: "Check what it came up with"
-    description: "Each buyer arrives as a detailed profile: their drivers, motivations, values, buying behaviour, and tone. <b>Tweak to taste</b> and it's yours for good."
+    description: "Each buyer arrives as a detailed profile: their drivers, motivations, values, buying behaviour, and tone. <b>Tweak to taste</b> with your client and it is theirs for good."
   - step: "3"
     title: "Generate, schedule, publish"
     description: "That's the setup finished. <b>From then on it's pick an audience, pick an angle, run a wizard</b>, and Bazam schedules and publishes it while you get on with something else."
@@ -202,21 +202,21 @@ introFeatures:
 # 10. Who it's for
 # ---------------------------------------------------------------------------
 featureCards:
-  title: "Built for anyone writing to more than one kind of reader"
-  description: "One person or a team of twenty, one brand or thirty. If you need to understand several audiences properly and have no research department to do it for you, try Bazam."
+  title: "Built for small agencies writing to several audiences"
+  description: "When you manage several client brands, every brief needs to stay specific and every campaign needs to get out the door. Bazam gives your team the audience understanding and publishing workflow to do both."
   cards:
-    - title: "Solo marketers"
+    - title: "Content agencies"
       icon: star
-      description: "One person, five channels, and no time to research buyer profiles from scratch. Set them up once and generate against them for good."
-    - title: "Small in-house teams"
+      description: "Several client calendars, several audiences per client, and no time to build buyer profiles from scratch. Set them up once and generate against them for good."
+    - title: "Social media agencies"
       icon: users
-      description: "Two or three people covering every channel and every market. Shared buyer profiles/personas mean everyone writes to the same reader, whoever happens to be drafting."
-    - title: "Freelancers & consultants"
+      description: "One team covering every channel and every market. Shared buyer profiles mean every post speaks to the same reader, whoever happens to be drafting."
+    - title: "Brand & creative agencies"
       icon: briefcase
-      description: "You are the marketing department for several businesses at once. Separate projects keep each client's audiences, voice and knowledge apart, so nothing bleeds between them."
-    - title: "Marketing agencies"
+      description: "Turn the audience research you already do into a working system: every client profile, brand voice and fact stays available to every campaign."
+    - title: "Fractional marketing teams"
       icon: bullhorn
-      description: "You already sell audience research and buyer profiles/personas. Bazam produces them in a minute, then writes every piece of content for them. Clients sign off in their own portal and never hand over their social passwords."
+      description: "Be the marketing department for several businesses at once. Separate projects keep each client's audiences, voice and knowledge apart, and clients sign off in their own portal."
 
 # ---------------------------------------------------------------------------
 # 11. Comparison
@@ -232,9 +232,9 @@ faq:
       - "Most marketing starts from the message: decide what you want to say, then send it everywhere. Audience-driven marketing starts from the reader instead: build a real model of who they are, and let that decide the words, the angle and the offer."
       - "Bazam works this way by default. Every audience gets a detailed profile before a single word gets written, and every piece of content, on every platform, is generated from it."
 
-  - q: "What if I don't have 'buyers'?"
+  - q: "What if my client's audience isn't made up of 'buyers'?"
     a:
-      - "The label is just a shortcut. A buyer profile describes anyone you write to: the people who open your emails, scroll past your posts, or decide whether to follow you. A charity has donors and volunteers. A creator has fans. A restaurant has regulars. The profile works the same way for all of them."
+      - "The label is just a shortcut. A buyer profile describes anyone your client writes to: the people who open their emails, scroll past their posts, or decide whether to follow them. A charity has donors and volunteers. A creator has fans. A restaurant has regulars. The profile works the same way for all of them."
       - "Marketers call these personas. Whatever you call them, the questions inside are the same: what does this person care about, what puts them off, what kind of language do they take seriously? Fill those in and your content gets written for that person instead of nobody in particular."
 
   - q: "Isn't this just ChatGPT/Claude with extra steps?"
@@ -243,9 +243,9 @@ faq:
       - "Bazam does all of that, and does it off a 30-point buyer profile it keeps. In ChatGPT everything you know about that reader lives in the prompt you typed this time and is gone by the next session. Writing the draft is one step of about six."
       - "If you like working in ChatGPT/Claude, keep them. Bazam runs an MCP server, so you can pull your buyer profiles and brand voice straight into ChatGPT or Claude, draft there, and publish through us."
 
-  - q: "Do I have to fill in my buyer profiles manually?"
+  - q: "Do I have to fill in every client's buyer profiles manually?"
     a:
-      - "Probably not. Point Bazam at your website and it works out your business, your brand and the audiences you're selling to, then hands you the 30-point buyer profiles to check. Tweak to taste, add one it missed, and you're done."
+      - "Probably not. Point Bazam at a client's website and it works out their business, their brand and the audiences they are selling to, then hands you the 30-point buyer profiles to check. Tweak to taste, add one it missed, and you're done."
       - "If you would rather start from scratch, describing an audience in a sentence or two works too. Either way you enhance a profile whenever you learn something new, and every future piece of content picks it up."
 
   - q: "Will the content read any differently?"
@@ -254,7 +254,7 @@ faq:
 
   - q: "I already have personas in a doc somewhere."
     a:
-      - "Most people do, and they're almost always prose, which is fine for a slide deck and useless to software. Prose can't be applied per channel, can't be varied by angle, and can't be picked up by whoever drafts next. Paste what you've got into Bazam and it becomes a buyer profile you can generate from."
+      - "Most agencies do, and those profiles are almost always prose: fine for a slide deck, useless to software. Prose cannot be applied per channel, varied by angle, or picked up by whoever drafts next. Paste what you have into Bazam and it becomes a buyer profile you can generate from."
 
   - q: "Can Bazam publish, or does it only write?"
     a:
@@ -286,6 +286,6 @@ topFeatures:
 waitlist:
   id: "early-access"
   title: "Get early access"
-  description: "Tell us who you are and who you sell to. We'll help you model your audiences, tune your brand voice and connect your channels, and you'll be publishing to real people in no time."
+  description: "Tell us about your agency and a client you want to start with. We'll help you model their audiences, tune their brand voice and connect their channels, and you'll be publishing to real people in no time."
   button: "Request access"
 ---
