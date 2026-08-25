@@ -25,7 +25,7 @@ personas:
 
       * A corporate organiser cares about the conference facilities.
       * A couple booking a weekend away cares about room service.
-    - "Bazam calls this **audience-driven marketing**: understand exactly who's reading, and let that guide every message to increase conversions."
+    - "Bazam calls this [audience-driven marketing](/audience-driven-marketing/): understand exactly who's reading, and let that guide every message to increase conversions."
   title_image: "/images/persona-list.png"
   title_image_alt: "List of audience personas in Bazam"
   personas:
@@ -231,6 +231,7 @@ faq:
     a:
       - "Most marketing starts from the message: decide what you want to say, then send it everywhere. Audience-driven marketing starts from the reader instead: build a real model of who they are, and let that decide the words, the angle and the offer."
       - "Bazam works this way by default. Every audience gets a detailed profile before a single word gets written, and every piece of content, on every platform, is generated from it."
+      - "Read more about [how audience-driven marketing becomes a learning loop](/audience-driven-marketing/): every campaign tests a message, and the result improves the next brief."
 
   - q: "What if my client's audience isn't made up of 'buyers'?"
     a:

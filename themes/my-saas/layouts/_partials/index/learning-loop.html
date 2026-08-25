@@ -1,0 +1,38 @@
+{{/*
+  Audience learning loop.
+
+  A native, responsive diagram rather than a static illustration: each stage
+  remains legible on a phone and its copy can be supplied per marketing page.
+*/}}
+{{ $data := .data }}
+{{ if $data }}
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+
+    <ol class="relative mx-auto max-w-5xl" aria-label="The audience learning loop">
+      <div class="absolute top-4 bottom-4 left-5 w-px bg-primary-100 dark:bg-primary-900 md:left-1/2 md:-translate-x-1/2" aria-hidden="true"></div>
+      {{ range $index, $step := $data.steps }}
+      <li class="relative mb-12 last:mb-0 pl-16 md:pl-0">
+        <span class="absolute left-0 top-0 z-10 flex h-10 w-10 items-center justify-center rounded-full bg-primary-100 dark:bg-primary-900 text-base font-extrabold text-primary-800 dark:text-primary-300 md:left-1/2 md:top-1 md:-translate-x-1/2">{{ add $index 1 }}</span>
+        <div class="md:grid md:grid-cols-2 md:items-start md:gap-20">
+          <h3 class="text-xl font-bold text-gray-900 dark:text-white md:text-right lg:text-2xl">{{ $step.title | safeHTML }}</h3>
+          <p class="mt-2 text-gray-600 dark:text-gray-400 md:mt-0 lg:text-lg">{{ $step.description | safeHTML }}</p>
+        </div>
+      </li>
+      {{ end }}
+    </ol>
+
+    {{ with $data.footer }}
+    <p class="mt-12 mx-auto max-w-3xl text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | markdownify }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

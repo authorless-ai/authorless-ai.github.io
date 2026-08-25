@@ -1,0 +1,47 @@
+{{/* A visual proof that one offer changes when the audience changes. */}}
+{{ $data := .data }}
+{{ if $data }}
+<section class="bg-white dark:bg-gray-900">
+  <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+    <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
+      {{ with $data.title }}
+      <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
+      {{ end }}
+      {{ with $data.description }}
+      <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ . | safeHTML }}</p>
+      {{ end }}
+    </div>
+
+    <div class="max-w-4xl mx-auto">
+      <div class="relative mx-auto max-w-sm overflow-hidden rounded-2xl shadow-xl ring-1 ring-gray-200 dark:ring-gray-700">
+        <img class="absolute inset-0 w-full h-full object-cover" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="">
+        <div class="relative m-3 rounded-xl bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm px-6 py-5 text-center">
+          <p class="text-xs font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">{{ $data.offer.label | default "Same offer" }}</p>
+          <h3 class="mt-1 text-xl font-bold text-gray-900 dark:text-white">{{ $data.offer.title }}</h3>
+          {{ with $data.offer.description }}<p class="mt-1 text-sm text-gray-600 dark:text-gray-300">{{ . }}</p>{{ end }}
+        </div>
+      </div>
+      <div class="mt-6 grid gap-6 md:grid-cols-2">
+        {{ range $data.audiences }}
+        <article class="relative rounded-2xl bg-white dark:bg-gray-800 border border-primary-100 dark:border-gray-700 p-6 shadow-xl">
+          <p class="inline-block rounded-full bg-primary-100 dark:bg-primary-900 px-3 py-1 text-xs font-bold uppercase tracking-widest text-primary-800 dark:text-primary-300">{{ .label }}</p>
+          <h3 class="mt-2 text-xl font-bold text-gray-900 dark:text-white">{{ .title }}</h3>
+          <div class="mt-5 rounded-xl bg-primary-50/40 dark:bg-gray-900/40 border border-primary-100 dark:border-gray-700 p-4">
+            <p class="text-[10px] font-bold uppercase tracking-widest text-primary-600 dark:text-primary-400">What they care about</p>
+            <p class="mt-1 text-base font-medium text-gray-800 dark:text-gray-200">{{ .care }}</p>
+          </div>
+          <div class="mt-4 border-l-4 border-primary-400 pl-4">
+            <p class="text-[10px] font-bold uppercase tracking-widest text-primary-600 dark:text-primary-400">The message leads with</p>
+            <p class="mt-1 text-lg font-semibold leading-snug text-gray-800 dark:text-white">{{ .message }}</p>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ with $data.footer }}
+    <p class="mt-10 mx-auto max-w-3xl text-center text-lg font-medium text-gray-900 dark:text-white">{{ . | markdownify }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

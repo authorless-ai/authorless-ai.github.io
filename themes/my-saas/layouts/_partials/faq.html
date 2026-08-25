@@ -13,7 +13,7 @@
                 <div id="accordion-flush-body-{{ $index }}" class="" aria-labelledby="accordion-flush-heading-{{ $index }}">
                     <div class="pt-3 pb-5 border-b border-gray-200 dark:border-gray-700">
                       {{ range $index, $value := $value.a }}
-                        <p class="mb-4 text-gray-500 dark:text-gray-400 text-lg {{ if gt $index 0 }}hidden sm:block{{ end }}">{{ $value|markdownify }}</p>
+                        <p class="mb-4 text-gray-500 dark:text-gray-400 text-lg [&_a]:underline [&_a]:decoration-1 [&_a]:underline-offset-2 [&_a]:text-primary-700 dark:[&_a]:text-primary-400 {{ if gt $index 0 }}hidden sm:block{{ end }}">{{ $value|markdownify }}</p>
                       {{ end }}
                     </div>
                 </div>
