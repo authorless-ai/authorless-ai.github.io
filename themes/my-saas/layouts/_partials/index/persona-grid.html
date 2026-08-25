@@ -48,7 +48,7 @@
           <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
           {{ end }}
           {{ range $descList }}
-          <div class="mb-4 last:mb-0 text-gray-500 dark:text-gray-400 sm:text-xl [&>p]:mb-3 [&>p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mt-2 [&_ul]:space-y-1 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mt-2 [&_ol]:space-y-1 [&_a]:underline [&_a]:decoration-1 [&_a]:underline-offset-2 [&_a]:text-primary-700 dark:[&_a]:text-primary-400">{{ . | markdownify }}</div>
+          <div class="mb-4 last:mb-0 text-gray-500 dark:text-gray-400 sm:text-xl [&>p]:mb-3 [&>p:last-child]:mb-0 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mt-2 [&_ul]:space-y-1 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:mt-2 [&_ol]:space-y-1 [&_a]:text-primary-700 [&_a]:hover:underline dark:[&_a]:text-primary-400">{{ . | markdownify }}</div>
           {{ end }}
         </div>
         <div class="relative overflow-hidden mb-6 sm:mx-4 md:mt-0 rounded-xl md:rounded-s-xl">
@@ -66,7 +66,7 @@
         <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ . | safeHTML }}</h2>
         {{ end }}
         {{ range $descList }}
-          <p class="mb-4 last:mb-0 text-gray-500 dark:text-gray-400 sm:text-xl [&_a]:underline [&_a]:decoration-1 [&_a]:underline-offset-2 [&_a]:text-primary-700 dark:[&_a]:text-primary-400">{{ . | markdownify }}</p>
+          <p class="mb-4 last:mb-0 text-gray-500 dark:text-gray-400 sm:text-xl [&_a]:text-primary-700 [&_a]:hover:underline dark:[&_a]:text-primary-400">{{ . | markdownify }}</p>
         {{ end }}
       </div>
       {{ end }}
