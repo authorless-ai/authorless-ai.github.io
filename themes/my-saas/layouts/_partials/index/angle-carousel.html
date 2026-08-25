@@ -55,6 +55,7 @@
       x-data="{
         index: 0,
         count: {{ $count }},
+        paused: false,
         move(dir) { this.jump(Math.min(Math.max(this.index + dir, 0), this.count - 1)) },
         jump(i) {
           const track = this.$refs.track;
@@ -72,8 +73,14 @@
             if (dist < bestDist) { bestDist = dist; best = i; }
           });
           this.index = best;
+        },
+        autoplay() {
+          setInterval(() => {
+            if (this.paused) return;
+            this.jump((this.index + 1) % this.count);
+          }, 4000);
         }
-      }">
+      }" x-init="autoplay()">
 
       {{/* Left: the persona, fixed while the angles move */}}
       {{ with $data.persona }}
@@ -149,7 +156,8 @@
                removing static ones, so a static ring-1 here would fight the
                active ring-2 and the winner would depend on stylesheet order. */}}
           <article class="snap-center shrink-0 w-[88%] sm:w-[70%] lg:w-[calc(60%-0.5rem)] rounded-2xl bg-white dark:bg-gray-800 shadow-xl p-6 flex flex-col border border-gray-200 dark:border-gray-700"
-            :class="index === {{ $i }} ? 'ring-2 ring-inset ring-primary-500' : ''">
+            :class="index === {{ $i }} ? 'ring-2 ring-inset ring-primary-500' : ''"
+            @mouseenter="paused = true" @mouseleave="paused = false">
             <div class="flex items-center justify-between gap-3 mb-4">
               <span class="px-3 py-1 text-xs font-bold uppercase tracking-widest rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-300">{{ $slide.angle }}</span>
               {{ with $slide.channel }}
