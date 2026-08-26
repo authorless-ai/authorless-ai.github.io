@@ -17,6 +17,30 @@ heroItems:
   - title: "Bazam adapts every piece"
     description: "Experts get depth. Newcomers get reassurance. Each audience gets the message that works for them."
 
+personas:
+  title: "One business. Two audiences. Two completely different messages."
+  description:
+    - |
+      **Example: an independent hotel**
+
+      * A corporate organiser cares about conference facilities and reliable wifi.
+      * A couple booking a weekend away cares about room service and a private hot tub.
+    - "Same hotel, different reasons to choose it. Bazam builds a detailed profile for each audience, then writes the message each one needs to hear."
+  title_image: "/images/persona-list.png"
+  title_image_alt: "List of audience profiles in Bazam"
+  personas:
+    - badge: "Corporate buyer"
+      name: "James"
+      role: "Books offsite meetings for teams of 20 to 100"
+      icon: "male_1"
+      sample: "A boardroom that seats forty, fast wifi in every room, and a pool and sauna for downtime."
+    - badge: "Romantic getaway"
+      name: "Jo"
+      role: "Booking a weekend away for two, no kids for once"
+      icon: "female_1"
+      sample: "Late checkout, dinner for two included, and a private hot tub."
+  footer: "The audience changes what matters, so Bazam changes what it says."
+
 # ---------------------------------------------------------------------------
 # What's in it
 # ---------------------------------------------------------------------------
