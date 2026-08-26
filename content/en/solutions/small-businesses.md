@@ -165,23 +165,29 @@ featureList:
   description: "Bazam connects the audience, the message and the publishing work that generic tools leave separate."
   features:
     - iconColor: "primary"
-      title: "A buyer model, not a prompt"
+      title: "Content your customers care about"
       icon: users
       points:
-        - description: "Keep a detailed profile for each audience and use it in every campaign."
-        - description: "Stop explaining the same customer from scratch in every chat."
+        - description: "Speak to what makes each kind of customer choose."
+        - description: "Give different customers different reasons to care."
+        - description: "Bazam remembers what you know, so you only explain it once."
+        - description: "Every new piece starts with that understanding."
     - iconColor: "primary"
-      title: "A campaign, not loose copy"
+      title: "More from every good idea"
       icon: bullhorn
       points:
-        - description: "Create platform-specific posts, long-form content and translations from one brief."
-        - description: "Change the angle without losing your voice or facts."
+        - description: "Turn one idea into a complete set of posts."
+        - description: "Create blogs and longer content from the same starting point."
+        - description: "Get a version made for each platform."
+        - description: "Sound like the same business everywhere."
     - iconColor: "primary"
-      title: "Publishing, not another handoff"
+      title: "Get your marketing done, faster"
       icon: chart
       points:
-        - description: "Schedule and publish direct to your channels from one calendar."
-        - description: "Keep the work moving even when running the business takes over."
+        - description: "Plan everything in one calendar."
+        - description: "Publish to every channel without copying and pasting."
+        - description: "Stay visible even during your busiest weeks."
+        - description: "Spend less time posting and more time running the business."
 
 introFeatures:
   - step: "1"
