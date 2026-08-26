@@ -72,7 +72,7 @@
       <p class="inline uppercase text-gray-900 font-extrabold mb-4 text-base">{{ .Params.superTitle }}</p>
       {{ end }}
 
-      <h1 class="logo-font mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">{{ .Title }}</h1>
+      <h1 class="logo-font mx-auto mb-4 max-w-5xl pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">{{ .Title }}</h1>
       {{ with .Params.heroItems }}
       {{ with $.Params.heroItemsTitle }}
       <h2 class="mx-auto mb-5 max-w-3xl text-xl font-bold text-gray-900 dark:text-white sm:text-2xl">{{ . }}</h2>
@@ -103,6 +103,17 @@
           <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
         </svg>
       </a>
+
+      {{ with .Params.heroBenefits }}
+      <ul class="mx-auto mt-10 grid w-full max-w-5xl gap-5 border-t border-gray-200 pt-7 text-left dark:border-gray-700 sm:grid-cols-3 sm:gap-0">
+        {{ range . }}
+        <li class="sm:px-6 sm:border-r sm:border-gray-200 sm:last:border-r-0 dark:sm:border-gray-700">
+          <h2 class="text-lg font-bold text-gray-900 dark:text-white">{{ .title }}</h2>
+          <p class="mt-1 leading-relaxed text-gray-500 dark:text-gray-400">{{ .description }}</p>
+        </li>
+        {{ end }}
+      </ul>
+      {{ end }}
 
       {{ with .Params.calendar.logos }}
       <div class="mt-6 flex flex-col items-center gap-2">

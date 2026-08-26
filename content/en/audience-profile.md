@@ -16,6 +16,13 @@ heroItems:
     description: "Choose a profile and every piece is created for that specific person, not a generic crowd."
   - title: "Bazam adapts every piece"
     description: "Experts get depth. Newcomers get reassurance. Each audience gets the message that works for them."
+heroBenefits:
+  - title: "Capture what you learn"
+    description: "Add insights from calls, campaigns and customer feedback."
+  - title: "Shared audience knowledge"
+    description: "Give the whole team one shared view of every audience."
+  - title: "Make every brief smarter"
+    description: "Everything you create starts with what your team already knows."
 
 personas:
   title: "One business. Two audiences. Two completely different messages."
