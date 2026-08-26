@@ -203,7 +203,7 @@ introFeatures:
 # ---------------------------------------------------------------------------
 featureCards:
   title: "Built for small agencies writing to several audiences"
-  description: "When you manage several client brands, every brief needs to stay specific and every campaign needs to get out the door. Bazam gives your team the audience understanding and publishing workflow to do both."
+  description: "Create content each client's buyers care about, without adding hours to every campaign."
   cards:
     - title: "Content agencies"
       icon: star

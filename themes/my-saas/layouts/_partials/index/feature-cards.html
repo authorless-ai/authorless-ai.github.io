@@ -8,7 +8,7 @@
   <div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 relative z-10">
       <div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
           <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">{{ .title | safeHTML }}</h2>
-          <p class="text-gray-500 dark:text-gray-400 sm:text-xl">{{ .description | safeHTML }}</p>
+          <p class="inline-block p-4 rounded-xl bg-white/70 dark:bg-gray-800/80 backdrop-blur-sm shadow-sm ring-1 ring-white/60 dark:ring-gray-700/60 text-gray-500 dark:text-gray-400 sm:text-xl">{{ .description | safeHTML }}</p>
       </div>
       {{/* Flex rather than grid so a row that isn't full stays centred. Card
            count can change without leaving a gap hanging off one side. */}}

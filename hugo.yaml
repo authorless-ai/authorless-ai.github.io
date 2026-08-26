@@ -16,6 +16,10 @@ params:
   privacyPolicy: https://app.bazam.ai/pages/legals/privacy-policy/
   termsUrl: https://app.bazam.ai/pages/legals/terms/
   mailingListSubscribe: https://app.bazam.ai/feedback/subscribe
+  socials:
+    - name: Instagram
+      url: https://www.instagram.com/bazam.ai/
+      icon: instagram
   # The site is in early access: every primary CTA goes to the waitlist form,
   # not to self-serve signup.
   signupUrl: /#early-access
@@ -119,3 +123,7 @@ menus:
   - name: "Bazam vs Blaze"
     url: "/alternatives/bazam-vs-blaze/"
     weight: 40
+  solutionsMenu:
+  - name: "Small businesses"
+    url: "/solutions/small-businesses/"
+    weight: 10
