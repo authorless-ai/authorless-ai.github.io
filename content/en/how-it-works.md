@@ -1,6 +1,6 @@
 ---
 layout: marketing
-title: "From brief to published, and analytics pulled in"
+title: "Automatically write and publish social and blog posts, then fetch analytics"
 superTitle: "How Bazam works"
 description: "From a one-line description of your reader to content written, adapted per platform, translated, scheduled, published and measured. The whole pipeline in one place."
 ctaText: "Get early access"
