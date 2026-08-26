@@ -48,7 +48,7 @@ audienceSplit:
       title: "Corporate organiser"
       care: "A reliable venue, fast wifi, room for the whole team and somewhere to unwind after work."
       message: "A productive offsite, with the practical details already taken care of."
-  footer: "Same hotel. Same offer. The audience drives what deserves to be said first."
+  footer: "Same hotel. Same offer. The audience drives what's said."
 
 # ---------------------------------------------------------------------------
 # Contrast
