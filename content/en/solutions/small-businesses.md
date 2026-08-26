@@ -8,8 +8,8 @@ ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "You do not need another AI that fills a calendar with generic posts. "
-  - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to <b>write, schedule and publish</b> social & blog posts that give each buyer a reason to care."
+  - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to <b>write, schedule and publish</b> your socials & blog. Give each buyer a reason to care, not just generic posts."
+  - "Queue a month of posts in 15 minutes, then get back to your business."
 
 heroVideo: "/videos/personas.mp4"
 heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"

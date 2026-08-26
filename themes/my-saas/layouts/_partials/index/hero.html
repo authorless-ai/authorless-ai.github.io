@@ -73,10 +73,27 @@
       {{ end }}
 
       <h1 class="logo-font mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">{{ .Title }}</h1>
+      {{ with .Params.heroItems }}
+      {{ with $.Params.heroItemsTitle }}
+      <h2 class="mx-auto mb-5 max-w-3xl text-xl font-bold text-gray-900 dark:text-white sm:text-2xl">{{ . }}</h2>
+      {{ end }}
+      <ol class="mx-auto mb-8 max-w-3xl text-left border-y border-gray-200 dark:border-gray-700">
+        {{ range $index, $item := . }}
+        <li class="grid grid-cols-[2.75rem_1fr] gap-x-4 py-4 border-b border-gray-200 last:border-b-0 dark:border-gray-700 sm:grid-cols-[3rem_12rem_1fr] sm:items-center sm:gap-x-5">
+          <span class="row-span-2 flex h-11 w-11 items-center justify-center rounded-full bg-primary-100 text-sm font-extrabold text-primary-700 dark:bg-primary-900 dark:text-primary-200 sm:row-span-1">
+            {{ printf "%02d" (add $index 1) }}
+          </span>
+          <h3 class="self-end text-base font-bold text-gray-900 dark:text-white sm:self-auto sm:text-lg">{{ $item.title }}</h3>
+          <p class="mt-1 self-start text-base leading-relaxed text-gray-500 dark:text-gray-400 sm:mt-0 md:text-lg">{{ $item.description }}</p>
+        </li>
+        {{ end }}
+      </ol>
+      {{ else }}
       {{ $desc := .Params.heroDescription | default .Description }}
       {{ $descList := cond (reflect.IsSlice $desc) $desc (slice $desc) }}
       {{ range $descList }}
       <div class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400 [&>p]:mb-3 [&>p:last-child]:mb-0">{{ . | markdownify }}</div>
+      {{ end }}
       {{ end }}
 
       <a href="{{ with .Params.ctaUrl }}{{ . }}{{ else }}{{ site.Params.signupUrl }}{{ end }}"

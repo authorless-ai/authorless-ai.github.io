@@ -1,16 +1,21 @@
 ---
 layout: marketing
-title: "The 30-Point Audience Profile"
-superTitle: "More knowledge, better content, more engagement"
+title: "Create content that knows exactly who it's talking to"
+#superTitle: "More knowledge, better content, more engagement"
 description: "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
-heroDescription:
-  - "An **audience** is **anyone who consumes or your content**, e.g. readers, viewers, followers, etc."
-  - "Bazam lets you create detailed profiles for each kind of audience capturing their problems, dream solutions and more."
-  - "Every piece of content then gets written to a specific profile. Your experts want depth. Your newcomers want reassurance"
-  - "**Marketers call these personas**. Bazam structures them into 30 points so our AI deeply understands who it's writing for."
+heroItemsTitle: "Bazam builds your audience profile - and writes from it - for more engaging posts"
+heroItems:
+  - title: "Tell Bazam who you're writing for"
+    description: "Give it your website or a one-line description of your readers, viewers, followers or buyers."
+  - title: "Bazam builds the profile"
+    description: "It fills in 30 points, including their problems, motivations, dream solutions and buying behaviour."
+  - title: "Bazam writes to that audience"
+    description: "Choose a profile and every piece is created for that specific person, not a generic crowd."
+  - title: "Bazam adapts every piece"
+    description: "Experts get depth. Newcomers get reassurance. Each audience gets the message that works for them."
 
 # ---------------------------------------------------------------------------
 # What's in it
