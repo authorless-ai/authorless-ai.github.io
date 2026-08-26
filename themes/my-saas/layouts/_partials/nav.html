@@ -3,7 +3,7 @@
         <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           {{ if .Params.hideNav }}
           <span class="flex items-center">
-              <span class="logo-font self-center text-3xl font-semibold whitespace-nowrap dark:text-white">{{ .Params.siteTitle | default .Site.Title }}!</span>
+              <span class="logo-font self-center text-3xl font-semibold whitespace-nowrap text-transparent bg-clip-text bg-gradient-to-b from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to">{{ .Params.siteTitle | default .Site.Title }}!</span>
           </span>
           {{ else }}
           <a href="/" class="flex items-center">
@@ -11,7 +11,7 @@
               {{ $logo := resources.Get "images/logo.png" }}
                 <img src="{{ $logo.RelPermalink }}" class="mr-3 h-6 sm:h-9" alt="{{ .Site.Title }} Logo" />
             {{ end **/}}
-              <span class="logo-font self-center text-3xl font-semibold whitespace-nowrap dark:text-white">{{ .Params.siteTitle | default .Site.Title }}!</span>
+              <span class="logo-font self-center text-3xl font-semibold whitespace-nowrap text-transparent bg-clip-text bg-gradient-to-b from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to">{{ .Params.siteTitle | default .Site.Title }}!</span>
           </a>
           {{ end }}
           {{ if not .Params.hideNav }}
