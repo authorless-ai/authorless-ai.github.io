@@ -8,8 +8,8 @@ ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to <b>write, schedule and publish</b> your socials & blog. Give each buyer a reason to care, not just generic posts."
-  - "Queue a month of posts in 15 minutes, then get back to your business."
+  - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to <b>write, schedule and publish</b> your socials & blog."
+  - "Capture what only you know about your customers, so anyone on your team can create informed content, not forgettable generic posts."
 
 heroVideo: "/videos/personas.mp4"
 heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"
@@ -116,7 +116,7 @@ evidence:
   footer: "Bazam's detailed buyer profiles give every post a real person to persuade."
 
 features:
-  - title: "Know your buyers without hiring a research team."
+  - title: "Turn what you know about buyers into a team resource."
     image: "/images/persona.png"
     image_alt: "A populated 30-point buyer profile in Bazam"
     description:
@@ -128,8 +128,10 @@ features:
         description: "Motivations, objections, values, emotions and buying behaviour shape what gets written."
       - title: "Improve it as you learn"
         description: "Add what you hear in sales calls and customer conversations; every future campaign inherits it."
+      - title: "Share your owner's instinct"
+        description: "Staff create from the same buyer knowledge, instead of guessing what makes your customers tick."
     footer:
-      - "Build each buyer profile once. Put it to work in everything you publish."
+      - "Get buyer knowledge out of one person's head and into everything your team publishes."
 
   - title: "Your business in the brief, every time."
     image: "/images/analyse-voice.png"
