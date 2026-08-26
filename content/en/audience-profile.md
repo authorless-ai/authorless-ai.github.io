@@ -6,7 +6,7 @@ description: "Thirty points about one reader: what they want, what worries them,
 ctaText: "Get early access"
 ctaUrl: "#early-access"
 
-heroItemsTitle: "Bazam builds your audience profile - and writes from it - for more engaging posts"
+heroItemsTitle: "Bazam builds your audience profile and writes from it. Replace generic posts with real engagement"
 heroItems:
   - title: "Tell Bazam who you're writing for"
     description: "Give it your website or a one-line description of your readers, viewers, followers or buyers."
