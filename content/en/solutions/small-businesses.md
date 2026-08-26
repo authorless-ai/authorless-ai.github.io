@@ -82,7 +82,7 @@ calendar:
   image_alt: "The Bazam content calendar showing a month of scheduled posts"
   points:
     - title: "Drag, drop, done"
-      description: "Move a post and the campaign shifts with it. Set recurring slots once and stop rebuilding your calendar every week."
+      description: "Put content on the calendar as you create it, then drag and drop to adjust the plan whenever you need."
     - title: "Six platforms, one queue"
       description: "Every channel gets a version made for it, with the copy, tone and format already adapted."
     - title: "You stay in control"

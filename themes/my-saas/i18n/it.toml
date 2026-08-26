@@ -425,7 +425,7 @@ other = "WordPress publishing"  # TODO: translate
 other = "Visual content calendar"  # TODO: translate
 
 [fg_pricing__publishing__content_calendar__desc]
-other = "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"  # TODO: translate
+other = "Schedule as you create, then adjust with drag and drop"  # TODO: translate
 
 [fg_pricing__publishing__analytics]
 other = "Cross-channel analytics"  # TODO: translate

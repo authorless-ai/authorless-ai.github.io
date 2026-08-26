@@ -48,7 +48,7 @@ calendar:
   image_alt: "The content calendar, showing a month of posts scheduled across platforms"
   points:
     - title: "Drag, drop, done"
-      description: "Move a post and the campaign moves with it. Set recurring slots and multi-day runs once, then stop thinking about them."
+      description: "Put content on the calendar as you create it, then drag and drop to adjust the plan whenever you need."
     - title: "Six platforms, one queue"
       description: "No exporting, no reformatting, no logging into six places on a Sunday night."
     - title: "Nothing goes live without a yes"

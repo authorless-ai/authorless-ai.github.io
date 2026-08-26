@@ -37,7 +37,7 @@ features:
       - title: "Six platforms and your blog"
         description: "Facebook, Instagram, TikTok, X, LinkedIn and WordPress, each with the version built for it."
       - title: "A month of content in ten minutes"
-        description: "Queue it on a calendar you can drag. Move one post and the campaign moves with it."
+        description: "Schedule content as you create it, then drag and drop posts whenever the plan changes."
       - title: "50+ languages"
         description: "One campaign, every market you sell in."
     footer:

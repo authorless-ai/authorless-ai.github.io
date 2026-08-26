@@ -19,7 +19,7 @@ features:
       - description: "Publish direct to <b>Facebook, Instagram, TikTok, X, LinkedIn and WordPress</b>. No exporting, no copy-pasting."
       - description: "One brief becomes a <b>distinct version per platform</b>, with the copy, tone and media aspect ratio adapted to each."
       - description: "Handles the formats each channel rewards: <b>threaded posts</b>, and links moved to the first comment where that performs better."
-      - description: "Plan and queue everything on a <b>visual calendar</b> with drag-and-drop rescheduling, recurring slots and multi-day campaigns."
+      - description: "Put everything on a <b>visual calendar</b> as you create it, then drag and drop to adjust the plan."
       - description: "Route work through <b>approvals</b> so nothing goes live without a yes."
   - iconColor: "primary"
     title: "Every market, every metric"

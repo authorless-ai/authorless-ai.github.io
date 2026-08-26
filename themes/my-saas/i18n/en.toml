@@ -431,7 +431,7 @@ other = "WordPress publishing"
 other = "Visual content calendar"
 
 [fg_pricing__publishing__content_calendar__desc]
-other = "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"
+other = "Schedule as you create, then adjust with drag and drop"
 
 [fg_pricing__publishing__analytics]
 other = "Cross-channel analytics"

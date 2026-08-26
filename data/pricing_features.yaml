@@ -166,7 +166,7 @@ sections:
           - check: true
       - id: content_calendar
         feature: "Visual content calendar"
-        desc: "Drag-and-drop rescheduling, recurring slots, multi-day campaigns"
+        desc: "Schedule as you create, then adjust with drag and drop"
         values:
           - check: true
           - check: true
