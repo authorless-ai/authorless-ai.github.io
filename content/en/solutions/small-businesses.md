@@ -9,7 +9,7 @@ ctaUrl: "#early-access"
 
 heroDescription:
   - "**Queue a month of social/blog posts in 15 minutes**, then get back to your business."
-  - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to **write, schedule and publish** your socials & blog."
+  - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to **write, schedule and publish** to your social media & blog."
   - "Share your customer knowledge, so **anyone on your team can create great content**, not forgettable posts."
 
 heroVideo: "/videos/personas.mp4"
