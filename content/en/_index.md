@@ -6,7 +6,7 @@ ctaText: "Get early access"
 ctaUrl: "#early-access"
 
 heroDescription:
-  - "Every client sells to more than one kind of person. Bazam's <b>detailed buyer profiles</b> let you <b>write, schedule and publish</b> the right message for each of them to increase engagement."
+  - "Every client sells to more than one kind of person. Bazam's **detailed buyer profiles** let you **write, schedule and publish** the right message for each of them to increase engagement."
 
 # todo - add links to pages for influencers, charities, etc. and other 
 #   people who don't 'sell'. On those pages don't talk about buyer profiles

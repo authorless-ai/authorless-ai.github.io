@@ -10,7 +10,7 @@ ctaUrl: "#early-access"
 heroDescription:
   - "**Queue a month of social/blog posts in 15 minutes**, then get back to your business."
   - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to **write, schedule and publish** your socials & blog."
-  - "Capture what only you know about your customers, so **anyone on your team can create great content**, not forgettable posts."
+  - "Share your customer knowledge, so **anyone on your team can create great content**, not forgettable posts."
 
 heroVideo: "/videos/personas.mp4"
 heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"
