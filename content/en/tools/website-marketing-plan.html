@@ -1,0 +1,308 @@
+---
+title: "Free AI website marketing plan generator"
+description: "Generate a complete website marketing campaign with audience profiles, brand voice analysis and social posts already written and scheduled."
+aliases:
+  - "/free-website-marketing-plan/"
+faq:
+  - q: "What does the website marketing plan include?"
+    a:
+      - "The report shows who you are selling to, what matters to each audience and how your business sounds. It also gives you a complete campaign with social posts already written and scheduled."
+  - q: "Do I need a Bazam account?"
+    a:
+      - "No. You can generate and read the full report without creating an account. Sign up only when you are ready to claim the finished campaign and launch it."
+  - q: "How long does it take?"
+    a:
+      - "Usually a few minutes. Your finished plan opens as soon as the research and posts are ready."
+  - q: "What kind of website can I analyse?"
+    a:
+      - "Use a publicly accessible business website with enough information to explain what the organisation does, offers and who it serves."
+---
+
+<section class="relative overflow-hidden bg-white dark:bg-gray-900">
+  <div class="absolute inset-y-0 left-1/2 hidden w-1/2 bg-cover bg-left bg-no-repeat pointer-events-none lg:block"
+    style="background-image: url('/images/bg-blob.png');"></div>
+
+  <div class="relative px-4 py-10 mx-auto max-w-screen-xl lg:px-6 lg:py-20">
+    <div class="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
+      <div>
+        <p class="mb-4 text-base font-extrabold text-gray-900 uppercase dark:text-white">Free website marketing tool</p>
+        <h1 class="logo-font pb-2 text-4xl font-extrabold tracking-tight leading-tight text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to sm:text-5xl xl:text-6xl dark:text-white">
+          Your next marketing campaign, ready to launch
+        </h1>
+        <p class="mt-5 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-300 sm:text-xl">
+          Enter your website. Bazam works out who you should be talking to, plans the campaign, writes the posts and puts them on the calendar. Sign up, connect your accounts and launch.
+        </p>
+
+        <ul class="mt-7 grid gap-3 text-gray-700 dark:text-gray-200 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
+          <li class="flex items-start gap-3">
+            <span class="flex items-center justify-center w-6 h-6 mt-0.5 text-sm font-bold text-gray-900 bg-gray-100 rounded-full dark:bg-gray-700 dark:text-white" aria-hidden="true">✓</span>
+            <span>Your customer profiles built for you</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="flex items-center justify-center w-6 h-6 mt-0.5 text-sm font-bold text-gray-900 bg-gray-100 rounded-full dark:bg-gray-700 dark:text-white" aria-hidden="true">✓</span>
+            <span>Your brand voice carried into every post</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="flex items-center justify-center w-6 h-6 mt-0.5 text-sm font-bold text-gray-900 bg-gray-100 rounded-full dark:bg-gray-700 dark:text-white" aria-hidden="true">✓</span>
+            <span>A complete campaign written around what you sell</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="flex items-center justify-center w-6 h-6 mt-0.5 text-sm font-bold text-gray-900 bg-gray-100 rounded-full dark:bg-gray-700 dark:text-white" aria-hidden="true">✓</span>
+            <span>LinkedIn and X posts scheduled and ready to launch</span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="p-6 bg-white border border-gray-200 shadow-xl rounded-2xl dark:bg-gray-800 dark:border-gray-700 sm:p-8">
+        <h2 class="text-2xl font-extrabold text-gray-900 dark:text-white">Build my ready-to-launch campaign</h2>
+        <p class="mt-2 text-gray-500 dark:text-gray-400">No account. No card. Your campaign will be ready in a few minutes.</p>
+
+        <form method="post" action="{{< appurl >}}/tools/website-marketing-plan/" class="mt-7" id="leadgen-form">
+          <label for="leadgen-url" class="block mb-2 text-base font-medium text-gray-900 dark:text-white">Your website</label>
+          <div class="flex flex-col gap-3 sm:flex-row">
+            <input
+              type="text"
+              name="url"
+              id="leadgen-url"
+              inputmode="url"
+              autocomplete="url"
+              autocapitalize="none"
+              autocorrect="off"
+              spellcheck="false"
+              placeholder="example.com"
+              aria-describedby="leadgen-url-help"
+              class="block w-full p-3 text-gray-900 bg-gray-50 border border-gray-300 rounded-lg focus:ring-gray-500 focus:border-gray-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-400 dark:focus:border-gray-400"
+              required>
+            <button
+              type="submit"
+              id="leadgen-submit"
+              class="inline-flex shrink-0 items-center justify-center px-6 py-3 text-base font-medium text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 disabled:cursor-wait disabled:opacity-70 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+              <span id="leadgen-submit-label">Build my campaign</span>
+              <svg class="hidden w-5 h-5 ml-2 animate-spin" id="leadgen-spinner" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
+              </svg>
+            </button>
+          </div>
+          <p id="leadgen-url-help" class="mt-2 text-sm text-gray-500 dark:text-gray-400">Use a public website that explains what your business offers.</p>
+          <input type="hidden" name="captcha" id="leadgen-captcha">
+
+          <p id="leadgen-error" class="hidden p-3 mt-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-700 dark:text-red-300" role="alert" aria-live="polite"></p>
+
+          <p class="mt-5 text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+            By generating a report you agree to our <a href="{{< privacyurl >}}" class="font-medium text-gray-900 underline dark:text-white">Privacy Policy</a>. This form is protected by reCAPTCHA, so Google's <a href="https://policies.google.com/privacy" class="font-medium text-gray-900 underline dark:text-white">Privacy Policy</a> and <a href="https://policies.google.com/terms" class="font-medium text-gray-900 underline dark:text-white">Terms of Service</a> apply.
+          </p>
+          <noscript><p class="p-3 mt-4 text-sm text-amber-800 rounded-lg bg-amber-50">JavaScript is required to protect this free tool from automated abuse.</p></noscript>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="px-4 py-6 bg-white dark:bg-gray-900 lg:px-6">
+  <div class="grid items-center max-w-screen-xl gap-6 p-7 mx-auto bg-primary-50 border border-primary-100 rounded-2xl dark:bg-gray-800 dark:border-gray-700 sm:grid-cols-[1fr_auto] sm:p-10">
+    <div>
+      <p class="mb-2 text-sm font-extrabold tracking-widest text-gray-900 uppercase dark:text-white">See the finished result now</p>
+      <h2 class="text-3xl font-extrabold text-gray-900 dark:text-white">Open a real sample marketing report</h2>
+      <p class="mt-2 text-lg text-gray-600 dark:text-gray-300">See the audience research, brand voice, campaign thinking and scheduled posts you will get, before you enter anything.</p>
+    </div>
+    <a href="/sample-report.pdf" target="_blank" rel="noopener" class="inline-flex items-center justify-center px-6 py-3 text-base font-bold text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">View sample report</a>
+  </div>
+</section>
+
+<section class="bg-gray-50 border-y border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+  <div class="px-4 py-12 mx-auto max-w-screen-xl lg:px-6 lg:py-16">
+    <div class="max-w-3xl mx-auto text-center">
+      <p class="text-sm font-extrabold tracking-widest text-gray-900 uppercase dark:text-white">What you'll get</p>
+      <h2 class="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl">A finished campaign built for your business</h2>
+      <p class="mt-4 text-lg text-gray-600 dark:text-gray-300">Not ideas for you to turn into a plan later. The audiences, brand voice, campaign, posts and publishing calendar are already done.</p>
+    </div>
+
+    <div class="grid gap-6 mt-10 md:grid-cols-3">
+      <article class="p-6 bg-white border border-gray-200 rounded-xl dark:bg-gray-900 dark:border-gray-700">
+        <span class="logo-font block text-5xl font-extrabold leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to" aria-hidden="true">01</span>
+        <h3 class="mt-4 text-xl font-bold text-gray-900 dark:text-white">Your customers worked out</h3>
+        <p class="mt-2 leading-relaxed text-gray-500 dark:text-gray-400">Get detailed profiles of the audiences your business serves, what each one wants and what could stop them buying.</p>
+      </article>
+      <article class="p-6 bg-white border border-gray-200 rounded-xl dark:bg-gray-900 dark:border-gray-700">
+        <span class="logo-font block text-5xl font-extrabold leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to" aria-hidden="true">02</span>
+        <h3 class="mt-4 text-xl font-bold text-gray-900 dark:text-white">Your campaign planned and written</h3>
+        <p class="mt-2 leading-relaxed text-gray-500 dark:text-gray-400">Bazam turns your offer, positioning and brand voice into different messages for each audience, then writes the posts.</p>
+      </article>
+      <article class="p-6 bg-white border border-gray-200 rounded-xl dark:bg-gray-900 dark:border-gray-700">
+        <span class="logo-font block text-5xl font-extrabold leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to" aria-hidden="true">03</span>
+        <h3 class="mt-4 text-xl font-bold text-gray-900 dark:text-white">Your posts ready to publish</h3>
+        <p class="mt-2 leading-relaxed text-gray-500 dark:text-gray-400">The LinkedIn and X posts are already on the calendar. Claim the campaign, connect your accounts and launch.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="overflow-hidden bg-white dark:bg-gray-900">
+  <div class="grid items-center gap-12 px-4 py-14 mx-auto max-w-screen-xl lg:grid-cols-2 lg:px-6 lg:py-24">
+    <div>
+      <p class="text-sm font-extrabold tracking-widest text-gray-900 uppercase dark:text-white">Marketing without the false starts</p>
+      <h2 class="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl">The easiest way to start marketing regularly</h2>
+      <p class="mt-5 text-lg leading-relaxed text-gray-600 dark:text-gray-300">Starting is usually the hard part. You need to understand the customer, settle on a message, think of enough things to say, write every post and work out when each one should go live.</p>
+      <p class="mt-4 text-lg leading-relaxed text-gray-600 dark:text-gray-300">Bazam does that setup from your website. Instead of opening an empty calendar, you open a campaign that is already full.</p>
+
+      <div class="grid gap-4 mt-8 sm:grid-cols-2">
+        <div class="p-5 border border-gray-200 rounded-xl dark:border-gray-700">
+          <p class="text-3xl font-extrabold text-gray-900 dark:text-white">One URL</p>
+          <p class="mt-1 text-gray-500 dark:text-gray-400">is all Bazam needs to build the first campaign.</p>
+        </div>
+        <div class="p-5 border border-gray-200 rounded-xl dark:border-gray-700">
+          <p class="text-3xl font-extrabold text-gray-900 dark:text-white">A few minutes</p>
+          <p class="mt-1 text-gray-500 dark:text-gray-400">from an empty calendar to scheduled posts.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="p-4 border border-gray-200 shadow-xl rounded-2xl bg-gray-50 dark:bg-gray-800 dark:border-gray-700 sm:p-6">
+      <div class="flex items-center justify-between gap-4 pb-4 border-b border-gray-200 dark:border-gray-700">
+        <div>
+          <p class="text-xs font-bold tracking-widest text-gray-400 uppercase">Your first campaign</p>
+          <p class="mt-1 text-xl font-bold text-gray-900 dark:text-white">Scheduled and ready</p>
+        </div>
+        <span class="inline-flex items-center px-3 py-1 text-sm font-bold text-green-700 bg-green-100 rounded-full dark:text-green-300 dark:bg-green-900/40">
+          <span class="w-2 h-2 mr-2 bg-green-500 rounded-full"></span>Ready to launch
+        </span>
+      </div>
+
+      <div class="mt-5 space-y-3">
+        <div class="grid grid-cols-[3.5rem_2.5rem_1fr] items-center gap-3 p-3 bg-white border border-gray-200 rounded-xl dark:bg-gray-900 dark:border-gray-700">
+          <div class="text-center"><p class="text-xs font-bold text-gray-400 uppercase">Mon</p><p class="text-xl font-extrabold text-gray-900 dark:text-white">12</p></div>
+          <div class="flex items-center justify-center w-10 h-10 p-2 bg-gray-100 rounded-lg"><img src="/images/icons/linkedin.svg" alt="LinkedIn"></div>
+          <div><p class="font-bold text-gray-900 dark:text-white">Written for your first audience</p><p class="mt-1 text-sm text-gray-500 dark:text-gray-400">A message built around what matters to them.</p></div>
+        </div>
+        <div class="grid grid-cols-[3.5rem_2.5rem_1fr] items-center gap-3 p-3 bg-white border border-gray-200 rounded-xl dark:bg-gray-900 dark:border-gray-700">
+          <div class="text-center"><p class="text-xs font-bold text-gray-400 uppercase">Wed</p><p class="text-xl font-extrabold text-gray-900 dark:text-white">14</p></div>
+          <div class="flex items-center justify-center w-10 h-10 p-2 bg-gray-100 rounded-lg"><img src="/images/icons/x.svg" alt="X"></div>
+          <div><p class="font-bold text-gray-900 dark:text-white">A different reason to care</p><p class="mt-1 text-sm text-gray-500 dark:text-gray-400">Same business and voice, a fresh campaign angle.</p></div>
+        </div>
+        <div class="grid grid-cols-[3.5rem_2.5rem_1fr] items-center gap-3 p-3 bg-white border border-gray-200 rounded-xl dark:bg-gray-900 dark:border-gray-700">
+          <div class="text-center"><p class="text-xs font-bold text-gray-400 uppercase">Fri</p><p class="text-xl font-extrabold text-gray-900 dark:text-white">16</p></div>
+          <div class="flex items-center justify-center w-10 h-10 p-2 bg-gray-100 rounded-lg"><img src="/images/icons/linkedin.svg" alt="LinkedIn"></div>
+          <div><p class="font-bold text-gray-900 dark:text-white">Written for your next audience</p><p class="mt-1 text-sm text-gray-500 dark:text-gray-400">A post matched to how they make the decision.</p></div>
+        </div>
+      </div>
+
+      <p class="mt-4 text-sm text-center text-gray-500 dark:text-gray-400">Connect your accounts, review the posts and switch the campaign on.</p>
+    </div>
+  </div>
+</section>
+
+<section class="bg-gray-50 border-y border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+  <div class="px-4 py-14 mx-auto max-w-screen-xl lg:px-6 lg:py-20">
+    <div class="max-w-3xl mx-auto text-center">
+      <p class="text-sm font-extrabold tracking-widest text-gray-900 uppercase dark:text-white">Skip the weeks of setup</p>
+      <h2 class="mt-2 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl">The whole first campaign, without the whole first campaign process</h2>
+    </div>
+
+    <div class="grid gap-6 mt-10 lg:grid-cols-2">
+      <div class="p-6 bg-white border border-gray-200 rounded-2xl dark:bg-gray-900 dark:border-gray-700 sm:p-8">
+        <p class="text-sm font-extrabold tracking-widest text-gray-400 uppercase">The usual way</p>
+        <h3 class="mt-2 text-2xl font-extrabold text-gray-900 dark:text-white">Start with six jobs</h3>
+        <ul class="grid gap-3 mt-6 text-gray-600 dark:text-gray-300 sm:grid-cols-2">
+          <li class="p-3 rounded-lg bg-gray-50 dark:bg-gray-800">Research your customers</li>
+          <li class="p-3 rounded-lg bg-gray-50 dark:bg-gray-800">Define your brand voice</li>
+          <li class="p-3 rounded-lg bg-gray-50 dark:bg-gray-800">Plan campaign themes</li>
+          <li class="p-3 rounded-lg bg-gray-50 dark:bg-gray-800">Think of post ideas</li>
+          <li class="p-3 rounded-lg bg-gray-50 dark:bg-gray-800">Write every post</li>
+          <li class="p-3 rounded-lg bg-gray-50 dark:bg-gray-800">Build the calendar</li>
+        </ul>
+      </div>
+
+      <div class="p-6 bg-primary-50 border border-primary-100 shadow-xl rounded-2xl dark:bg-gray-900 dark:border-gray-700 sm:p-8">
+        <p class="text-sm font-extrabold tracking-widest uppercase text-primary-700 dark:text-primary-400">The Bazam way</p>
+        <h3 class="mt-2 text-2xl font-extrabold text-gray-900 dark:text-white">Start with your website</h3>
+        <ol class="mt-6 space-y-5 text-gray-700 dark:text-gray-200">
+          <li class="flex items-center gap-4"><span class="flex items-center justify-center w-10 h-10 text-lg font-extrabold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-300">1</span><span class="text-lg">Enter your website address.</span></li>
+          <li class="flex items-center gap-4"><span class="flex items-center justify-center w-10 h-10 text-lg font-extrabold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-300">2</span><span class="text-lg">Review your finished campaign.</span></li>
+          <li class="flex items-center gap-4"><span class="flex items-center justify-center w-10 h-10 text-lg font-extrabold rounded-full bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-300">3</span><span class="text-lg">Connect your accounts and launch.</span></li>
+        </ol>
+        <a href="#leadgen-form" class="inline-flex items-center justify-center px-5 py-3 mt-7 font-bold text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Build my campaign <span class="ml-2" aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-white dark:bg-gray-900">
+  <div class="grid gap-10 px-4 py-12 mx-auto max-w-screen-xl lg:grid-cols-2 lg:px-6 lg:py-20">
+    <div>
+      <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white">From website to scheduled campaign in minutes</h2>
+      <p class="mt-4 text-lg leading-relaxed text-gray-600 dark:text-gray-300">Most website marketing plan tools leave you with advice and another job to do. Bazam leaves you with the campaign itself.</p>
+      <p class="mt-4 text-lg leading-relaxed text-gray-600 dark:text-gray-300">The strategy reflects what you sell and why different customers buy it. The posts are written in your voice and dated on your calendar. All that is left is to connect your accounts and start publishing.</p>
+    </div>
+    <div class="p-7 bg-primary-50 border border-primary-100 rounded-2xl dark:bg-gray-800 dark:border-gray-700">
+      <h2 class="text-2xl font-extrabold text-gray-900 dark:text-white">Nothing held back</h2>
+      <ul class="mt-5 space-y-4 text-gray-700 dark:text-gray-200">
+        <li class="flex gap-3"><span class="font-bold text-gray-900 dark:text-white" aria-hidden="true">✓</span><span>Read the full strategy without creating an account.</span></li>
+        <li class="flex gap-3"><span class="font-bold text-gray-900 dark:text-white" aria-hidden="true">✓</span><span>See the posts written for each audience and where they sit on the calendar.</span></li>
+        <li class="flex gap-3"><span class="font-bold text-gray-900 dark:text-white" aria-hidden="true">✓</span><span>Download the report to keep or share.</span></li>
+        <li class="flex gap-3"><span class="font-bold text-gray-900 dark:text-white" aria-hidden="true">✓</span><span>Sign up to claim the finished campaign, connect your accounts and launch it.</span></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="px-4 pb-14 bg-white dark:bg-gray-900 lg:px-6 lg:pb-24">
+  <div class="grid items-center max-w-screen-xl gap-6 p-7 mx-auto bg-primary-50 border border-primary-100 rounded-2xl dark:bg-gray-800 dark:border-gray-700 sm:grid-cols-[1fr_auto] sm:p-10">
+    <div>
+      <h2 class="text-3xl font-extrabold text-gray-900 dark:text-white">Your first campaign could already be on the calendar</h2>
+      <p class="mt-2 text-lg text-gray-600 dark:text-gray-300">Give Bazam the website. Get the strategy, posts and schedule. Start marketing regularly without spending another week getting ready.</p>
+    </div>
+    <a href="#leadgen-form" class="inline-flex items-center justify-center px-6 py-3 text-base font-bold text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Build my free campaign</a>
+  </div>
+</section>
+<script src="https://www.google.com/recaptcha/api.js?render={{< recaptcha >}}"></script>
+<script>
+  (function () {
+    'use strict';
+
+    var form = document.getElementById('leadgen-form');
+    var button = document.getElementById('leadgen-submit');
+    var buttonLabel = document.getElementById('leadgen-submit-label');
+    var spinner = document.getElementById('leadgen-spinner');
+    var captcha = document.getElementById('leadgen-captcha');
+    var error = document.getElementById('leadgen-error');
+    var siteKey = '{{< recaptcha >}}';
+
+    if (!form) return;
+
+    function setSubmitting(submitting) {
+      button.disabled = submitting;
+      buttonLabel.textContent = submitting ? 'Building your campaign…' : 'Build my campaign';
+      spinner.classList.toggle('hidden', !submitting);
+    }
+
+    function showError(message) {
+      error.textContent = message;
+      error.classList.remove('hidden');
+      setSubmitting(false);
+    }
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      error.classList.add('hidden');
+
+      if (!form.reportValidity()) return;
+      if (!window.grecaptcha) {
+        showError('We could not start the spam check. Please refresh the page and try again.');
+        return;
+      }
+
+      setSubmitting(true);
+      grecaptcha.ready(function () {
+        grecaptcha.execute(siteKey, { action: 'leadgen_preview' })
+          .then(function (token) {
+            captcha.value = token;
+            form.submit();
+          })
+          .catch(function () {
+            showError('We could not complete the spam check. Please try again.');
+          });
+      });
+    });
+  })();
+</script>

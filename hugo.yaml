@@ -127,3 +127,7 @@ menus:
   - name: "Small businesses"
     url: "/solutions/small-businesses/"
     weight: 10
+  toolsMenu:
+  - name: "Website marketing plan"
+    url: "/tools/website-marketing-plan/"
+    weight: 10
