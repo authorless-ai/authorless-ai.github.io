@@ -9,6 +9,8 @@
 {{ define "main" }}
   {{ partial "index/hero.html" . }}
 
+  {{ partial "index/lead-gen-banner.html" . }}
+
   {{ partial "index/persona-grid.html" (dict "data" .Params.personas "context" .) }}
   {{ partial "index/angle-carousel.html" (dict "data" .Params.angles "context" .) }}
   {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}

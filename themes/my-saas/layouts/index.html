@@ -3,6 +3,8 @@
   {{/* 1. Hero — what it does, and the persona that makes it work */}}
   {{ partial "index/hero.html" . }}
 
+  {{ partial "index/lead-gen-banner.html" . }}
+
   {{/* 2. Several personas — one business, several kinds of reader */}}
   {{ partial "index/persona-grid.html" (dict "data" .Params.personas "context" .) }}
 
