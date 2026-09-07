@@ -55,42 +55,77 @@ faq:
 
       <div class="p-6 bg-primary-50 border border-gray-200 shadow-xl rounded-2xl dark:bg-gray-800 dark:border-gray-700 sm:p-8">
         <h2 class="text-2xl font-extrabold text-gray-900 dark:text-white">Build my ready-to-launch campaign</h2>
-        <p class="mt-2 text-gray-500 dark:text-gray-400">No account. No card. Your campaign will be ready in a few minutes.</p>
+        <p class="mt-2 text-gray-500 dark:text-gray-400">No account or card needed. We'll email your marketing report and PDF as soon as they're ready.</p>
 
         <form method="post" action="{{< appurl >}}/tools/website-marketing-plan/" class="mt-7" id="leadgen-form">
           <label for="leadgen-url" class="block mb-2 text-base font-medium text-gray-900 dark:text-white">Your website</label>
-          <div class="flex flex-col gap-3 sm:flex-row">
-            <input
-              type="text"
-              name="url"
-              id="leadgen-url"
-              inputmode="url"
-              autocomplete="url"
-              autocapitalize="none"
-              autocorrect="off"
-              spellcheck="false"
-              placeholder="example.com"
-              aria-describedby="leadgen-url-help"
-              class="block w-full p-3 text-gray-900 bg-gray-50 border border-gray-300 rounded-lg focus:ring-gray-500 focus:border-gray-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-400 dark:focus:border-gray-400"
-              required>
-            <button
-              type="submit"
-              id="leadgen-submit"
-              class="inline-flex shrink-0 items-center justify-center px-6 py-3 text-base font-medium text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 disabled:cursor-wait disabled:opacity-70 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
-              <span id="leadgen-submit-label">Build my campaign</span>
-              <svg class="hidden w-5 h-5 ml-2 animate-spin" id="leadgen-spinner" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
-                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
-              </svg>
-            </button>
+          <input
+            type="text"
+            name="url"
+            id="leadgen-url"
+            inputmode="url"
+            autocomplete="url"
+            autocapitalize="none"
+            autocorrect="off"
+            spellcheck="false"
+            placeholder="example.com"
+            class="block w-full p-3 text-gray-900 bg-gray-50 border border-gray-300 rounded-lg focus:ring-gray-500 focus:border-gray-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-400 dark:focus:border-gray-400"
+            required>
+          <label for="leadgen-email" class="block mt-5 mb-2 text-base font-medium text-gray-900 dark:text-white">Email address</label>
+          <input
+            type="email"
+            name="email"
+            id="leadgen-email"
+            autocomplete="email"
+            placeholder="you@example.com"
+            class="block w-full p-3 text-gray-900 bg-gray-50 border border-gray-300 rounded-lg focus:ring-gray-500 focus:border-gray-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-400 dark:focus:border-gray-400"
+            required>
+
+          <fieldset class="mt-5">
+            <legend class="mb-2 text-base font-medium text-gray-900 dark:text-white">Business type</legend>
+            <div class="space-y-2 text-sm text-gray-700 dark:text-gray-300">
+              <label class="flex items-start gap-2">
+                <input type="radio" name="business_type" value="corporate" class="w-4 h-4 mt-0.5 border-gray-300 text-primary-600 focus:ring-primary-500" required>
+                <span>Limited company, LLP or other incorporated organisation</span>
+              </label>
+              <label class="flex items-start gap-2">
+                <input type="radio" name="business_type" value="individual" class="w-4 h-4 mt-0.5 border-gray-300 text-primary-600 focus:ring-primary-500" required>
+                <span>Sole trader, unincorporated partnership or individual</span>
+              </label>
+            </div>
+          </fieldset>
+
+          <div class="mt-4">
+            <label class="flex items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
+              <input type="checkbox" name="marketing_opt_in" id="leadgen-marketing" value="1" class="w-4 h-4 mt-0.5 border-gray-300 rounded-sm text-primary-600 focus:ring-primary-500">
+              <span>Send me occasional emails from Bazam with practical marketing advice, product updates and offers. I can unsubscribe at any time.</span>
+            </label>
           </div>
-          <p id="leadgen-url-help" class="mt-2 text-sm text-gray-500 dark:text-gray-400">Use a public website that explains what your business offers.</p>
+
+          <div style="position:absolute;left:-10000px" aria-hidden="true">
+            <label for="leadgen-address-line-2">Address line 2</label>
+            <input type="text" name="address_line_2" id="leadgen-address-line-2" tabindex="-1" autocomplete="off">
+          </div>
+
           <input type="hidden" name="captcha" id="leadgen-captcha">
+          <input type="hidden" name="language" value="{{ site.Language.Lang }}">
+          <input type="hidden" name="marketing_default" id="leadgen-marketing-default" value="">
+
+          <button
+            type="submit"
+            id="leadgen-submit"
+            class="inline-flex w-full items-center justify-center px-6 py-3 mt-6 text-base font-medium text-white rounded-lg bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 disabled:cursor-wait disabled:opacity-70 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+            <span id="leadgen-submit-label">Email my report</span>
+            <svg class="hidden w-5 h-5 ml-2 animate-spin" id="leadgen-spinner" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
+            </svg>
+          </button>
 
           <p id="leadgen-error" class="hidden p-3 mt-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-700 dark:text-red-300" role="alert" aria-live="polite"></p>
 
           <p class="mt-5 text-xs leading-relaxed text-gray-500 dark:text-gray-400">
-            By generating a report you agree to our <a href="{{< privacyurl >}}" class="text-primary-600 hover:underline dark:text-primary-500">Privacy Policy</a>. This form is protected by reCAPTCHA, so Google's <a href="https://policies.google.com/privacy" class="text-primary-600 hover:underline dark:text-primary-500">Privacy Policy</a> and <a href="https://policies.google.com/terms" class="text-primary-600 hover:underline dark:text-primary-500">Terms of Service</a> apply.
+            We use your email to deliver the report whether or not you tick the box above. See our <a href="{{< privacyurl >}}" class="text-primary-600 hover:underline dark:text-primary-500">Privacy Policy</a>. This form is protected by reCAPTCHA, so Google's <a href="https://policies.google.com/privacy" class="text-primary-600 hover:underline dark:text-primary-500">Privacy Policy</a> and <a href="https://policies.google.com/terms" class="text-primary-600 hover:underline dark:text-primary-500">Terms of Service</a> apply.
           </p>
           <noscript><p class="p-3 mt-4 text-sm text-amber-800 rounded-lg bg-amber-50">JavaScript is required to protect this free tool from automated abuse.</p></noscript>
         </form>
@@ -254,20 +289,42 @@ faq:
     'use strict';
 
     var form = document.getElementById('leadgen-form');
+    if (!form) return;
+
     var button = document.getElementById('leadgen-submit');
     var buttonLabel = document.getElementById('leadgen-submit-label');
     var spinner = document.getElementById('leadgen-spinner');
     var captcha = document.getElementById('leadgen-captcha');
     var error = document.getElementById('leadgen-error');
+    var businessTypes = form.querySelectorAll('input[name="business_type"]');
+    var marketing = document.getElementById('leadgen-marketing');
+    var marketingDefault = document.getElementById('leadgen-marketing-default');
     var siteKey = '{{< recaptcha >}}';
-
-    if (!form) return;
 
     function setSubmitting(submitting) {
       button.disabled = submitting;
-      buttonLabel.textContent = submitting ? 'Building your campaign…' : 'Build my campaign';
+      buttonLabel.textContent = submitting ? 'Building your report…' : 'Email my report';
       spinner.classList.toggle('hidden', !submitting);
     }
+
+    // The box arrives ticked so the corporate default survives without us.
+    // Setting it here is not the visitor's choice, and marketing_default says
+    // so: the server only ever reads an untouched tick as the B2B corporate
+    // exception, never as consent.
+    function applyMarketingDefault() {
+      var selected = form.querySelector('input[name="business_type"]:checked');
+      var isCorporate = selected && selected.value === 'corporate';
+      marketing.checked = isCorporate;
+      marketingDefault.value = '1';
+    }
+
+    businessTypes.forEach(function (input) {
+      input.addEventListener('change', applyMarketingDefault);
+    });
+    marketing.addEventListener('change', function () {
+      marketingDefault.value = '';
+    });
+    applyMarketingDefault();
 
     function showError(message) {
       error.textContent = message;
