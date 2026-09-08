@@ -104,12 +104,71 @@ menus:
   - name: "Audience profiles"
     url: "/audience-profile/"
     weight: 20
+  - name: "Features"
+    identifier: "features"
+    weight: 25
   - name: "Pricing"
     url: "/pricing/"
     weight: 30
   - name: "Contact"
     url: "/contact/"
     weight: 50
+  features:
+  - name: "AI marketing assistant"
+    url: "/features/agent/"
+    weight: 10
+    params:
+      description: "Create, research, plan and check results through a conversation."
+  - name: "Audience profiles"
+    url: "/audience-profile/"
+    weight: 20
+    params:
+      description: "Understand who you are talking to before you start writing."
+  - name: "AI content creation"
+    url: "/features/content-writing/"
+    weight: 30
+    params:
+      description: "Create 30+ types of content without starting from a blank page."
+  - name: "Content ideas"
+    url: "/features/suggestions/"
+    weight: 40
+    params:
+      description: "Get relevant topics based on your brand, audience and goals."
+  - name: "Campaigns"
+    url: "/features/marketing-strategy/"
+    weight: 50
+    params:
+      description: "Keep every piece tied to an audience and a clear goal."
+  - name: "Knowledge base"
+    url: "/features/knowledge-base/"
+    weight: 60
+    params:
+      description: "Give Bazam your real facts, sources and brand guidance."
+  - name: "Content calendar"
+    url: "/features/scheduling/"
+    weight: 70
+    params:
+      description: "Plan, schedule and rearrange work across every channel."
+  - name: "Direct publishing"
+    url: "/features/publishing/"
+    weight: 80
+    params:
+      description: "Publish platform-ready content without copying and pasting."
+  - name: "Translation"
+    url: "/features/translation/"
+    weight: 90
+    params:
+      description: "Take campaigns into 50+ languages and preserve your voice."
+  - name: "Projects"
+    url: "/features/projects/"
+    weight: 100
+    params:
+      description: "Keep every client or brand's work and context separate."
+  - name: "Team collaboration"
+    url: "/features/teams/"
+    weight: 110
+    params:
+      description: "Share work, control access and approve before publishing."
   compareMenu:
   - name: "Alternatives compared"
     url: "/alternatives/"

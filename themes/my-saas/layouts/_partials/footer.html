@@ -90,9 +90,11 @@
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "product" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                   {{ range .Site.Menus.main }}
+                    {{ if ne .Identifier "features" }}
                     <li class="mb-4">
                         <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
                     </li>
+                    {{ end }}
                   {{ end }}
                 </ul>
             </div>

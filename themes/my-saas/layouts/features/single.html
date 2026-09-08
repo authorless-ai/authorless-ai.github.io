@@ -1,0 +1,27 @@
+{{ define "main" }}
+<article>
+  {{ partial "index/hero.html" . }}
+
+  {{ if .Params.features }}
+    {{ partial "feature/stage.html" . }}
+  {{ end }}
+
+  {{ if .Params.featureList }}
+    {{ partial "feature/capabilities.html" . }}
+  {{ end }}
+
+  {{ if .Params.faq }}
+    {{ partial "faq.html" . }}
+    {{ partial "json-ld-faq.html" . }}
+  {{ end }}
+
+  {{ partial "waitlist-form.html" (dict "data" .Params.waitlist "context" .) }}
+</article>
+{{ end }}
+
+{{ define "scripts" }}
+  {{ $js := resources.Get "js/scroll-reveal.js" | fingerprint }}
+  <script src="{{ $js.RelPermalink }}"></script>
+  {{ $featureTabs := resources.Get "js/feature-tabs.js" | minify | fingerprint }}
+  <script src="{{ $featureTabs.RelPermalink }}" defer></script>
+{{ end }}
