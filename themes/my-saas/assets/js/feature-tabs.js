@@ -1,6 +1,7 @@
 document.querySelectorAll('[data-feature-stage]').forEach((stage) => {
   const tabs = Array.from(stage.querySelectorAll('[data-feature-tab]'));
   const panels = Array.from(stage.querySelectorAll('[data-feature-panel]'));
+  const desktopLayout = window.matchMedia('(min-width: 1024px)');
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   let activeIndex = Math.max(0, tabs.findIndex((tab) => tab.getAttribute('aria-selected') === 'true'));
   let autoplayTimer;
@@ -27,7 +28,9 @@ document.querySelectorAll('[data-feature-stage]').forEach((stage) => {
     });
 
     panels.forEach((panel) => {
-      panel.hidden = panel.dataset.featurePanel !== selected;
+      const active = panel.dataset.featurePanel === selected;
+      panel.classList.toggle('lg:hidden', !active);
+      panel.setAttribute('aria-hidden', String(!active));
     });
 
     if (animate && !prefersReducedMotion) {
@@ -49,7 +52,7 @@ document.querySelectorAll('[data-feature-stage]').forEach((stage) => {
 
   function startAutoplay() {
     window.clearInterval(autoplayTimer);
-    if (autoplayStopped || prefersReducedMotion || tabs.length < 2 || document.hidden) return;
+    if (autoplayStopped || prefersReducedMotion || tabs.length < 2 || document.hidden || !desktopLayout.matches) return;
 
     autoplayTimer = window.setInterval(() => {
       activate(tabs[(activeIndex + 1) % tabs.length], true);
@@ -79,6 +82,19 @@ document.querySelectorAll('[data-feature-stage]').forEach((stage) => {
   const linkedTab = tabs.find((tab) => tab.getAttribute('aria-controls') === linkedPanel);
   if (linkedTab) activate(linkedTab);
 
+  function syncLayout() {
+    window.clearInterval(autoplayTimer);
+
+    if (desktopLayout.matches) {
+      activate(tabs[activeIndex]);
+      startAutoplay();
+      return;
+    }
+
+    panels.forEach((panel) => panel.removeAttribute('aria-hidden'));
+  }
+
   document.addEventListener('visibilitychange', startAutoplay);
-  startAutoplay();
+  desktopLayout.addEventListener('change', syncLayout);
+  syncLayout();
 });
