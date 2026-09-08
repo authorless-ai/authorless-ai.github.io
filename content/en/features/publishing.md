@@ -33,8 +33,8 @@ featureList:
 features:
   - title: "Create once, then make it feel native everywhere"
     tab: "Adapt every channel"
-    image: "/images/features/illustration-reach.webp"
-    image_alt: "One campaign becoming content for several channels"
+    image: "/images/features/illustration-channels.webp"
+    image_alt: "One message becoming several channel-ready formats"
     description:
       - "A LinkedIn post should not read like an Instagram caption. Bazam creates a distinct version for each destination, including the copy, media shape and format that channel expects."
     points:
@@ -58,6 +58,19 @@ features:
         description: "Choose a date on the calendar or send approved content immediately."
       - title: "Prepare before connecting"
         description: "Create platform-ready drafts first and attach the right account later."
+  - title: "Coordinate the rollout without posting everything at once"
+    tab: "Plan the rollout"
+    image: "/images/features/illustration-plan.webp"
+    image_alt: "Channel-ready content moving through a coordinated publishing schedule"
+    description:
+      - "Choose when each approved version should go out and let the calendar hold the plan together. Every channel can follow its own timing without becoming a separate job."
+    points:
+      - title: "Schedule each destination"
+        description: "Give every channel version the date and time it needs."
+      - title: "Keep campaigns together"
+        description: "See related posts as one coordinated rollout."
+      - title: "Change plans safely"
+        description: "Move scheduled work without losing its content, media or approval state."
 
 faq:
   - q: "Which platforms can Bazam publish to?"

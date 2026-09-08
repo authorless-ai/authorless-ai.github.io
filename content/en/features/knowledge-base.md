@@ -58,6 +58,19 @@ features:
         description: "The same approved knowledge can inform blogs, social posts and campaigns."
       - title: "Separate for every client"
         description: "Each project has its own knowledge, so one brand's facts do not leak into another's work."
+  - title: "Keep useful information current as the business changes"
+    tab: "Keep it current"
+    image: "/images/features/illustration-plan.webp"
+    image_alt: "Business knowledge moving through a simple review cycle"
+    description:
+      - "Set review dates for information that may change. Bazam makes older material visible before it quietly finds its way into a new campaign."
+    points:
+      - title: "Add review dates"
+        description: "Choose when a document should be checked again."
+      - title: "Spot stale material"
+        description: "See which sources may need attention before using them."
+      - title: "Retain the source"
+        description: "Keep a clear route back to the document or page behind each fact."
 
 faq:
   - q: "What is a marketing knowledge base?"

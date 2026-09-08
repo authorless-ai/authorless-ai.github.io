@@ -60,6 +60,19 @@ features:
         description: "Create and edit content without leaving the calendar view."
       - title: "Translations stay aligned"
         description: "Copy dates and publishing status between the original and its translations."
+  - title: "Create new work while you can still see the shape of the plan"
+    tab: "Fill the gaps"
+    image: "/images/features/illustration-create.webp"
+    image_alt: "New content being created to fill gaps in a publishing plan"
+    description:
+      - "Start a new post from the calendar when a gap becomes obvious. The date is already part of the brief, so planning and creating remain one connected job."
+    points:
+      - title: "Create in context"
+        description: "Start from the date and campaign you are already reviewing."
+      - title: "See gaps sooner"
+        description: "A month view makes quiet weeks and crowded days easy to spot."
+      - title: "Keep the calendar useful"
+        description: "Draft, approved and scheduled work all stay visible in one plan."
 
 faq:
   - q: "What is a social media content calendar?"

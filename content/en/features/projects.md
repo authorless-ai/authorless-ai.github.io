@@ -58,6 +58,19 @@ features:
         description: "Control who can view, create, edit, approve and publish."
       - title: "One place to oversee delivery"
         description: "Manage work for several brands without maintaining a separate tool stack for each."
+  - title: "Switch projects without carrying the wrong context with you"
+    tab: "Switch cleanly"
+    image: "/images/features/illustration-projects.webp"
+    image_alt: "Three client workspaces kept separate and easy to switch between"
+    description:
+      - "Moving to another project changes the brands, audiences, knowledge, media and channels available to you. Each brief starts with the right client's world already in place."
+    points:
+      - title: "One project, one context"
+        description: "Only the relevant brand information appears while you work."
+      - title: "Faster handovers"
+        description: "A colleague can pick up the project without rebuilding its background."
+      - title: "Room to grow"
+        description: "Add new clients, brands and offerings without flattening them into one account."
 
 faq:
   - q: "What is a project in Bazam?"

@@ -58,6 +58,19 @@ features:
         description: "Bulk creation checks titles so the plan does not fill up with the same idea in different words."
       - title: "Create at the scale you need"
         description: "Make one post now or generate a large batch from the same direction."
+  - title: "Find different angles without drifting away from the audience"
+    tab: "Explore new angles"
+    image: "/images/features/illustration-ideas.webp"
+    image_alt: "Several content ideas growing from one audience's needs and goals"
+    description:
+      - "Explore practical, emotional and persuasive ways into the same subject. The ideas can vary widely while still growing from what the audience cares about."
+    points:
+      - title: "More than one way in"
+        description: "Try questions, motivations, objections and goals as starting points."
+      - title: "Variety with a reason"
+        description: "Change the angle without losing the campaign's purpose."
+      - title: "Choose before creating"
+        description: "Review the suggestions and develop only the ideas worth pursuing."
 
 faq:
   - q: "How does Bazam generate content ideas?"

@@ -58,6 +58,19 @@ features:
         description: "Rephrase, expand, shorten, improve the flow or fix spelling and grammar."
       - title: "You approve the result"
         description: "Every generated piece stays in review until someone is happy to publish it."
+  - title: "Shape the draft until it sounds like something you would publish"
+    tab: "Refine the draft"
+    image: "/images/features/illustration-edit.webp"
+    image_alt: "A draft being refined with brand and audience context"
+    description:
+      - "Work on the finished piece in the built-in editor. Make changes yourself or ask Bazam to improve a selected passage without rewriting everything around it."
+    points:
+      - title: "Change only what needs changing"
+        description: "Rephrase, expand, shorten or improve a selected passage."
+      - title: "Keep the right context"
+        description: "The audience, brand voice and business knowledge remain attached to the draft."
+      - title: "Stay in control"
+        description: "Review every change before the content moves towards publication."
 
 faq:
   - q: "What types of content can Bazam create?"

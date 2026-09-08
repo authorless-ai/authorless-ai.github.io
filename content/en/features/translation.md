@@ -57,6 +57,19 @@ features:
         description: "Copy dates and statuses from the primary version to its translations, or back again."
       - title: "Group channels by language"
         description: "Send each version to the right social channel or WordPress site."
+  - title: "Review every version as part of the same campaign"
+    tab: "Review together"
+    image: "/images/features/illustration-approval.webp"
+    image_alt: "Linked content versions passing through a shared approval step"
+    description:
+      - "Keep translated versions beside the original while they are checked and approved. Everyone can see what is ready and what still needs attention before the campaign goes live."
+    points:
+      - title: "One approval workflow"
+        description: "Use the same clear stages for the original and translated versions."
+      - title: "Changes stay visible"
+        description: "See when an update to the source may require another translation pass."
+      - title: "Publish to the right place"
+        description: "Keep language versions connected to the channels intended for them."
 
 faq:
   - q: "How many languages can Bazam translate content into?"

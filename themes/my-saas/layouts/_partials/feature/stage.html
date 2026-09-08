@@ -7,7 +7,7 @@
       {{ range $index, $feature := $features }}
       <button
         type="button"
-        class="min-w-max rounded-lg px-4 py-2.5 text-sm font-bold transition-colors {{ if eq $index 0 }}bg-primary-700 text-white shadow-sm dark:bg-primary-600{{ else }}text-gray-600 hover:bg-primary-50 hover:text-primary-700 dark:text-gray-300 dark:hover:bg-gray-700{{ end }}"
+        class="min-w-max rounded-lg px-4 py-2.5 text-sm font-bold transition-colors {{ if eq $index 0 }}bg-primary-100 text-primary-800 shadow-sm dark:bg-primary-900 dark:text-primary-100{{ else }}text-gray-600 hover:bg-primary-50 hover:text-primary-700 dark:text-gray-300 dark:hover:bg-gray-700{{ end }}"
         id="feature-tab-{{ $index }}"
         role="tab"
         aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}"

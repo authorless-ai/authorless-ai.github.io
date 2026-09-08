@@ -46,8 +46,8 @@ features:
         description: "Ask for a rewrite, a new angle or an accompanying image without starting again."
   - title: "Ask what is happening across your marketing"
     tab: "Find answers"
-    image: "/images/features/illustration-knowledge.webp"
-    image_alt: "Business knowledge flowing into a clear answer"
+    image: "/images/features/illustration-insights.webp"
+    image_alt: "Marketing results being examined to reveal a clear next step"
     description:
       - "The conversation does not stop when the draft is written. Ask what is scheduled, publish after confirming, or get a plain-English explanation of performance."
     points:
@@ -57,6 +57,19 @@ features:
         description: "Ask Bazam to research the web and show the sources behind its answer."
       - title: "Understand the results"
         description: "Compare campaigns, channels or posts without assembling a spreadsheet first."
+  - title: "Bring the material you already have into the conversation"
+    tab: "Use your sources"
+    image: "/images/features/illustration-knowledge.webp"
+    image_alt: "Source material and content brought together through one conversation"
+    description:
+      - "Attach a document or image, point Bazam at a useful page, or ask it to research a subject. The source stays part of the conversation while you decide what to make from it."
+    points:
+      - title: "Attach useful material"
+        description: "Add files and images without leaving the conversation."
+      - title: "Research with evidence"
+        description: "Ask for current information and see the sources used."
+      - title: "Move straight into making"
+        description: "Turn what you find into a brief, draft or campaign while the context is fresh."
 
 faq:
   - q: "What is an AI marketing assistant?"

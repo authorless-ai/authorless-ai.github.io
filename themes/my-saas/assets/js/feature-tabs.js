@@ -9,9 +9,10 @@ document.querySelectorAll('[data-feature-stage]').forEach((stage) => {
       const active = candidate === tab;
       candidate.setAttribute('aria-selected', String(active));
       candidate.tabIndex = active ? 0 : -1;
-      candidate.classList.toggle('bg-primary-700', active);
-      candidate.classList.toggle('dark:bg-primary-600', active);
-      candidate.classList.toggle('text-white', active);
+      candidate.classList.toggle('bg-primary-100', active);
+      candidate.classList.toggle('dark:bg-primary-900', active);
+      candidate.classList.toggle('text-primary-800', active);
+      candidate.classList.toggle('dark:text-primary-100', active);
       candidate.classList.toggle('shadow-sm', active);
       candidate.classList.toggle('text-gray-600', !active);
       candidate.classList.toggle('dark:text-gray-300', !active);

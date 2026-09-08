@@ -58,6 +58,19 @@ features:
         description: "Use campaign links that show which content brought people to your site."
       - title: "Results in context"
         description: "Review performance for the whole campaign or drill into a channel or post."
+  - title: "Use the results to make the next campaign better"
+    tab: "Learn what works"
+    image: "/images/features/illustration-insights.webp"
+    image_alt: "Marketing results being examined to reveal a clear next step"
+    description:
+      - "Bring campaign, channel and post results back to the original plan. That makes it easier to see which ideas deserve another run and which ones need changing."
+    points:
+      - title: "Compare at the right level"
+        description: "Look across a campaign or focus on one channel or post."
+      - title: "Connect visits to content"
+        description: "Use campaign links to see what brought people to your site."
+      - title: "Improve the next plan"
+        description: "Carry useful lessons forward instead of starting from instinct alone."
 
 faq:
   - q: "What is content campaign management?"

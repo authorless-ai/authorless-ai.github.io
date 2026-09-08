@@ -58,6 +58,19 @@ features:
         description: "Keep drafts away from live channels until they have been checked."
       - title: "One visible process"
         description: "The team can see where work stands without chasing updates through messages."
+  - title: "Give each person access to the clients they actually work with"
+    tab: "Control access"
+    image: "/images/features/illustration-projects.webp"
+    image_alt: "Separate client workspaces with clearly controlled access"
+    description:
+      - "Invite people into the organisation, then keep their access focused on the relevant projects. Clients and collaborators can participate without seeing unrelated work."
+    points:
+      - title: "Invite by email"
+        description: "Bring employees, freelancers and client reviewers into the right workspace."
+      - title: "Match roles to responsibilities"
+        description: "Separate viewing, creating, editing, approving and publishing."
+      - title: "Keep clients separate"
+        description: "Access to one project does not expose the rest of the organisation's work."
 
 faq:
   - q: "Can marketing teams collaborate in Bazam?"
