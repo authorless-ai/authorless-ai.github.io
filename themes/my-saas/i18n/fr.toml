@@ -272,25 +272,25 @@ other = "Free Trial"  # TODO: translate
 
 
 [fg_pricing__title]
-other = "Compare plans"  # TODO: translate
+other = "Comparer les forfaits"
 
 [fg_pricing__starter]
-other = "Starter"  # TODO: translate
+other = "Essentiel"
 
 [fg_pricing__growth]
-other = "Growth"  # TODO: translate
+other = "Croissance"
 
 [fg_pricing__team]
-other = "Team"  # TODO: translate
+other = "Équipe"
 
 [fg_pricing__core]
-other = "Core"  # TODO: translate
+other = "L’essentiel"
 
 [fg_pricing__core__audiences]
-other = "Audience models"  # TODO: translate
+other = "Profils d’audience"
 
 [fg_pricing__core__audiences__desc]
-other = "The 30-point model of each reader you write for"  # TODO: translate
+other = "Le profil en 30 points de chaque lecteur auquel vous vous adressez"
 
 [fg_pricing__core__audiences__starter]
 other = "3"  # TODO: translate
@@ -299,10 +299,10 @@ other = "3"  # TODO: translate
 other = "15"  # TODO: translate
 
 [fg_pricing__core__audiences__team]
-other = "Unlimited"  # TODO: translate
+other = "Illimités"
 
 [fg_pricing__core__users]
-other = "Users"  # TODO: translate
+other = "Utilisateurs"
 
 [fg_pricing__core__users__starter]
 other = "1"  # TODO: translate
@@ -311,13 +311,13 @@ other = "1"  # TODO: translate
 other = "3"  # TODO: translate
 
 [fg_pricing__core__users__team]
-other = "Unlimited"  # TODO: translate
+other = "Illimités"
 
 [fg_pricing__core__connected_accounts]
-other = "Connected accounts"  # TODO: translate
+other = "Comptes connectés"
 
 [fg_pricing__core__connected_accounts__desc]
-other = "Extra accounts are $10/mo each"  # TODO: translate
+other = "Chaque compte supplémentaire coûte 10 $ par mois"
 
 [fg_pricing__core__connected_accounts__starter]
 other = "5"  # TODO: translate
@@ -329,10 +329,10 @@ other = "15"  # TODO: translate
 other = "40"  # TODO: translate
 
 [fg_pricing__core__ai_credits]
-other = "AI credits per month"  # TODO: translate
+other = "Crédits IA par mois"
 
 [fg_pricing__core__ai_credits__desc]
-other = "Roughly 1 credit per piece of content. Buy more on demand"  # TODO: translate
+other = "Environ un crédit par contenu ; achetez-en davantage à la demande"
 
 [fg_pricing__core__ai_credits__starter]
 other = "300"  # TODO: translate
@@ -341,164 +341,164 @@ other = "300"  # TODO: translate
 other = "900"  # TODO: translate
 
 [fg_pricing__core__ai_credits__team]
-other = "3,000"  # TODO: translate
+other = "3 000"
 
 [fg_pricing__core__scheduling_horizon]
-other = "Scheduling horizon"  # TODO: translate
+other = "Horizon de planification"
 
 [fg_pricing__core__scheduling_horizon__starter]
-other = "4 weeks"  # TODO: translate
+other = "4 semaines"
 
 [fg_pricing__core__scheduling_horizon__growth]
-other = "1 year"  # TODO: translate
+other = "1 an"
 
 [fg_pricing__core__scheduling_horizon__team]
-other = "Unlimited"  # TODO: translate
+other = "Illimité"
 
 [fg_pricing__audience]
-other = "The audience model"  # TODO: translate
+other = "Le profil d’audience"
 
 [fg_pricing__audience__thirty_point]
-other = "30-point audience model"  # TODO: translate
+other = "Profil d’audience en 30 points"
 
 [fg_pricing__audience__thirty_point__desc]
-other = "Demographics, psychographics, motivations, emotional drivers, values, personality, buying behaviour and expertise"  # TODO: translate
+other = "Données démographiques et psychographiques, motivations, ressorts émotionnels, valeurs, personnalité, comportement d’achat et expertise"
 
 [fg_pricing__audience__auto_build]
-other = "Built from a one-line description"  # TODO: translate
+other = "Créé à partir d’une description en une phrase"
 
 [fg_pricing__audience__auto_build__desc]
-other = "Describe your audience in a sentence; edit anything you disagree with"  # TODO: translate
+other = "Décrivez votre audience en une phrase, puis modifiez ce qui ne vous convient pas"
 
 [fg_pricing__audience__angles]
-other = "Generate per audience and per angle"  # TODO: translate
+other = "Génération par audience et par angle"
 
 [fg_pricing__content]
-other = "Content creation"  # TODO: translate
+other = "Création de contenu"
 
 [fg_pricing__content__ai_writing]
-other = "AI content writing"  # TODO: translate
+other = "Rédaction de contenu par IA"
 
 [fg_pricing__content__ai_writing__desc]
-other = "30+ content types: blog posts, social, ads, case studies, how-tos, listicles, FAQs"  # TODO: translate
+other = "Plus de 30 formats : articles, réseaux sociaux, publicités, études de cas, guides, listes et FAQ"
 
 [fg_pricing__content__ai_images]
-other = "AI image generation"  # TODO: translate
+other = "Génération d’images par IA"
 
 [fg_pricing__content__bulk_create]
-other = "Bulk content creation"  # TODO: translate
+other = "Création de contenu en masse"
 
 [fg_pricing__content__bulk_create__desc]
-other = "Hundreds of pieces from one set of parameters, with near-duplicates removed"  # TODO: translate
+other = "Des centaines de contenus à partir d’un seul ensemble de paramètres, sans quasi-doublons"
 
 [fg_pricing__content__content_suggestions]
-other = "AI content suggestions"  # TODO: translate
+other = "Suggestions de contenu par IA"
 
 [fg_pricing__content__translation]
-other = "AI translation"  # TODO: translate
+other = "Traduction par IA"
 
 [fg_pricing__content__translation__desc]
-other = "50+ languages, in your brand voice"  # TODO: translate
+other = "Plus de 50 langues, avec la voix de votre marque"
 
 [fg_pricing__content__knowledge_base]
-other = "Knowledge base"  # TODO: translate
+other = "Base de connaissances"
 
 [fg_pricing__content__knowledge_base__desc]
-other = "Your docs, URLs and product facts, used as source material"  # TODO: translate
+other = "Vos documents, URL et informations produit utilisés comme sources"
 
 [fg_pricing__content__brand_voice]
-other = "Brand voice configuration"  # TODO: translate
+other = "Configuration de la voix de marque"
 
 [fg_pricing__publishing]
-other = "Publishing & scheduling"  # TODO: translate
+other = "Publication et planification"
 
 [fg_pricing__publishing__social_publishing]
-other = "Social publishing"  # TODO: translate
+other = "Publication sur les réseaux sociaux"
 
 [fg_pricing__publishing__social_publishing__desc]
-other = "Facebook, Instagram, TikTok, X and LinkedIn, direct"  # TODO: translate
+other = "Publication directe sur Facebook, Instagram, TikTok, X et LinkedIn"
 
 [fg_pricing__publishing__wordpress]
-other = "WordPress publishing"  # TODO: translate
+other = "Publication sur WordPress"
 
 [fg_pricing__publishing__content_calendar]
-other = "Visual content calendar"  # TODO: translate
+other = "Calendrier éditorial visuel"
 
 [fg_pricing__publishing__content_calendar__desc]
-other = "Schedule as you create, then adjust with drag and drop"  # TODO: translate
+other = "Planifiez pendant la création, puis ajustez par glisser-déposer"
 
 [fg_pricing__publishing__analytics]
-other = "Cross-channel analytics"  # TODO: translate
+other = "Analyses multicanales"
 
 [fg_pricing__team_features]
-other = "Team & management"  # TODO: translate
+other = "Équipe et gestion"
 
 [fg_pricing__team_features__projects]
-other = "Multiple projects and brands"  # TODO: translate
+other = "Plusieurs projets et marques"
 
 [fg_pricing__team_features__team_members]
-other = "Team collaboration"  # TODO: translate
+other = "Collaboration en équipe"
 
 [fg_pricing__team_features__approval_workflows]
-other = "Approval workflows"  # TODO: translate
+other = "Circuits de validation"
 
 [fg_pricing__team_features__roles]
-other = "Role-based access control"  # TODO: translate
+other = "Contrôle d’accès par rôle"
 
 [fg_pricing__support]
-other = "Support"  # TODO: translate
+other = "Assistance"
 
 [fg_pricing__support__email_support]
-other = "Email support"  # TODO: translate
+other = "Assistance par e-mail"
 
 [fg_pricing__support__priority_support]
-other = "Priority support"  # TODO: translate
+other = "Assistance prioritaire"
 
 [fg_pricing__support__dedicated_onboarding]
-other = "Dedicated onboarding"  # TODO: translate
+other = "Accompagnement dédié"
 
 
 [fg_pricing__subtitle]
-other = "Every plan gets the full 30-point audience model and every content type. Pay for scale, never for features."  # TODO: translate
+other = "Tous les forfaits incluent le profil d’audience complet en 30 points et tous les types de contenu. Vous payez pour l’échelle, jamais pour les fonctionnalités."
 
 
 [fg_pricing__publishing__analytics__desc]
-other = "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"  # TODO: translate
+other = "Mentions J’aime, partages, commentaires, clics, impressions, portée, enregistrements et croissance des abonnés, normalisés entre les canaux"
 
 
 [fg_pricing__team_features__approval_workflows__desc]
-other = "Nothing goes live without a yes"  # TODO: translate
+other = "Rien n’est publié sans validation"
 
 [fg_pricing__team_features__client_portal]
-other = "Client approval portal"  # TODO: translate
+other = "Portail de validation client"
 
 [fg_pricing__team_features__client_portal__desc]
-other = "Invite a client to review and sign off their own posts, when you turn approvals on"  # TODO: translate
+other = "Invitez un client à relire et valider ses publications lorsque vous activez les validations"
 
 [fg_pricing__team_features__no_shared_credentials]
-other = "No shared passwords"  # TODO: translate
+other = "Aucun mot de passe partagé"
 
 [fg_pricing__team_features__no_shared_credentials__desc]
-other = "Clients connect their own accounts. You publish on their behalf without ever handling their logins"  # TODO: translate
+other = "Les clients connectent leurs propres comptes ; vous publiez pour eux sans jamais gérer leurs identifiants"
 
 
 [fg_pricing__audience__brand_profiles]
-other = "Company, brand and offering profiles"  # TODO: translate
+other = "Profils d’entreprise, de marque et d’offres"
 
 [fg_pricing__audience__brand_profiles__desc]
-other = "What you do, how you are positioned and what you sell, so content is accurate about you"  # TODO: translate
+other = "Votre activité, votre positionnement et vos offres, pour un contenu fidèle à votre entreprise"
 
 [fg_pricing__audience__brand_analysis]
-other = "Profiles built from your website"  # TODO: translate
+other = "Profils créés à partir de votre site"
 
 [fg_pricing__audience__brand_analysis__desc]
-other = "Bazam reads your site and fills in positioning, offerings, audiences and competitors"  # TODO: translate
+other = "Bazam lit votre site et renseigne le positionnement, les offres, les audiences et les concurrents"
 
 [fg_pricing__audience__multi_brand]
-other = "Multiple brands per project"  # TODO: translate
+other = "Plusieurs marques par projet"
 
 [fg_pricing__audience__multi_brand__desc]
-other = "Each with their own offerings, voice and audiences. Personal brands too"  # TODO: translate
+other = "Chacune avec ses offres, sa voix et ses audiences, y compris les marques personnelles"
 
 [fg_cmp_tools__title]
 other = "Bazam vs the tools you're probably weighing up"  # TODO: translate

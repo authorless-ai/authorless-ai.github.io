@@ -1,105 +1,50 @@
 ---
-title: Preços
+title: "Preços"
 translationKey: pricing
+description: "Todos os planos incluem o perfil completo de público em 30 pontos, todos os tipos de conteúdo, publicação em seis canais e mais de 50 idiomas."
+waitlist:
+  id: "early-access"
+  title: "Obtenha acesso antecipado"
+  description: "Conte-nos quem você é e o que está divulgando. Vamos configurar tudo com você e criar seus primeiros perfis de público; você escolhe um plano depois de ver o Bazam funcionando."
+  button: "Solicitar acesso"
 faq:
-  - q: "Posso cancelar minha assinatura?"
+  - q: "Por que vocês cobram pelo número de públicos?"
     a:
-    - "Sim, você pode cancelar sua assinatura do Bazam quando quiser. Se cancelar, você ainda poderá usar sua conta e todos os seus recursos até o final do período de cobrança atual."
-    - "Quando seu período de cobrança atual terminar, seu acesso ao Bazam e quaisquer créditos restantes também se encerrarão. Você não será cobrado novamente após isso."
-  - q: "Posso fazer upgrade ou alterar meu plano do Bazam?"
+      - "Porque é o perfil de público que faz o trabalho. Ele faz seu conteúdo parecer escrito para alguém, e não para todo mundo, e cada assistente, canal e tradução usa esse perfil."
+      - "Quem cuida do marketing sozinho costuma ter dois ou três públicos que vale a pena modelar bem. Um consultor com seis clientes tem muito mais. Assim, você paga pela profundidade que usa, e não por uma quantidade imprevisível de palavras."
+  - q: "O que conta como crédito de IA?"
     a:
-    - "Sim, você pode fazer upgrade do seu plano do Bazam a qualquer momento para obter mais funcionalidades, limites de crédito maiores ou outras vantagens."
-    - "Para fazer upgrade, basta entrar em contato conosco. Os upgrades geralmente começam imediatamente."
-  - q: "O que significa 'X Palavras de IA por Mês'?"
+      - "Aproximadamente um crédito por conteúdo. Gerar uma publicação social, uma seção de artigo, uma imagem ou um conjunto de sugestões usa o mesmo saldo mensal; recursos mais pesados consomem mais."
+      - "Você pode consultar seu saldo a qualquer momento e comprar mais créditos quando precisar."
+  - q: "O que acontece se meus créditos acabarem?"
     a:
-    - "As 'Palavras de IA por Mês' indicadas no seu plano são uma estimativa do conteúdo que você pode produzir com base no uso típico."
-    - "Sua cota cobre todas as funcionalidades com IA, não apenas a geração de texto."
-  - q: "O que acontece se eu ficar sem créditos de IA?"
+      - "Nada para de funcionar: basta recarregar. Cada plano inclui uma cota mensal e você pode comprar créditos adicionais na sua conta."
+      - "Os créditos incluídos no plano são usados naquele ciclo de cobrança. Os comprados separadamente acumulam até você usá-los."
+  - q: "Posso mudar de plano depois?"
     a:
-    - "Sim, você pode comprar mais! Todo plano do Bazam oferece uma quantidade de créditos de IA para criação de conteúdo."
-    - "Comprar créditos de IA extras é fácil. Basta seguir os passos na sua conta ou pedir ajuda ao seu contato no Bazam."
-  - q: "Meus créditos de IA do Bazam acumulam para o próximo mês?"
+      - "Sim, a qualquer momento. Os upgrades entram em vigor imediatamente e mostramos exatamente o que muda na fatura atual."
+      - "Se o plano ficar pequeno no meio do mês, você não precisa esperar a renovação."
+  - q: "Posso cancelar?"
     a:
-    - "Os créditos de IA que vêm com seu plano de assinatura mensal não acumulam para o próximo mês."
-    - "No entanto, quaisquer créditos de IA adicionais que você comprar separadamente acumulam sim."
+      - "Quando quiser. Você mantém acesso total à conta, aos perfis de público e aos créditos restantes até o fim do período já pago, e não haverá nova cobrança."
+  - q: "Preciso de cartão para solicitar acesso antecipado?"
+    a:
+      - "Não. Conte-nos quem você é e o que está divulgando. Vamos configurar tudo e criar seus primeiros perfis com você. Você escolhe um plano depois de ver o Bazam funcionando."
 ---
+
 <section class="bg-white dark:bg-gray-900" x-data="{{< pricing-data >}}">
-  <div class="max-w-screen-xl py-8 px-4 mx-auto text-center lg:py-16 lg:px-12">
-    <h2 class="logo-font mx-auto text-center lg:mb-12 mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">Marketing Sem Estresse Agora</h2>
-    <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
-      <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">Experimente um marketing mais inteligente que funciona. Escolha seu plano para resultados mais rápidos.</p>
-      <div class="flex items-center justify-center mt-4 space-x-3">
-        <span class="text-xl text-gray-500 dark:text-white hover:cursor-pointer" :class="{ 'text-gray-900 font-bold': !yearly }" @click="yearly = !yearly">Mensal</span>
-        <label class="inline-flex items-center cursor-pointer"><input type="checkbox" value="" checked class="sr-only peer" x-model="yearly"><div class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div></label>
-        <span class="text-xl text-gray-900 font-bold dark:text-white hover:cursor-pointer" :class="{ 'text-gray-500 font-normal': !yearly }" @click="yearly = !yearly">Anual</span>
-      </div>
+  <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
+    <h1 class="logo-font mx-auto mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">A partir de <span x-text="formatPrice(plans.starter.yearly)"></span> por mês</h1>
+    <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12"><p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">Todos os planos incluem o perfil completo de público em 30 pontos, todos os tipos de conteúdo, publicação direta nos seis canais e mais de 50 idiomas. Você paga pelo número de públicos, contas e pessoas de que precisa, nunca por recursos que deixamos de fora.</p><p class="mt-4 font-medium text-gray-700 dark:text-gray-300">Solicite acesso antecipado, teste o Bazam com o seu negócio e escolha o plano certo depois.</p>
+      <div class="flex items-center justify-center mt-6 space-x-3"><button type="button" class="text-xl text-gray-500 dark:text-white" :class="{ 'text-gray-900 font-bold': !yearly }" @click="yearly = false">Mensal</button><label class="inline-flex items-center cursor-pointer"><input type="checkbox" checked class="sr-only peer" x-model="yearly"><span class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></span></label><button type="button" class="text-xl text-gray-900 font-bold dark:text-white" :class="{ 'text-gray-500 font-normal': !yearly }" @click="yearly = true">Anual <span class="text-base font-normal text-primary-600">(economize cerca de 20%)</span></button></div>
     </div>
     <div class="grid gap-8 mt-8 lg:grid-cols-3 lg:gap-10 sm:mt-12">
-      <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">Individual</h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
-        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400"><span x-show="yearly">por mês, cobrado anualmente</span><span x-show="!yearly">por mês, cobrado mensalmente</span></p>
-        <a href="{{< signup-url >}}" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Começar</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>1 Usuário</span>
-          </li>
-
-          <li>
-            <div class="flex items-center space-x-3">
-              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>5 Contas conectadas</span>
-              <button data-tooltip-target="tooltip-accounts-ind" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-accounts-ind" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">Uma conta de redes sociais ou outra que você conecta para que possamos publicar em seu nome<div class="tooltip-arrow" data-popper-arrow></div></div>
-            </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Contas extras custam $10/mês</p>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>300 Créditos de IA por mês</span>
-            <button data-tooltip-target="tooltip-credits-ind" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-            <div id="tooltip-credits-ind" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">1 Crédito equivale aproximadamente a 1 publicação. Recursos avançados usam mais créditos<div class="tooltip-arrow" data-popper-arrow></div></div>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Agende posts com 4 semanas de antecedência</span>
-          </li>
-        </ul>
-      </div>
-      <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">Enterprise</h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white">Custom</span>
-        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">adaptado às suas necessidades</p>
-        <a href="/contato/" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Falar com vendas</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Usuários ilimitados</span>
-          </li>
-          <li>
-            <div class="flex items-center space-x-3">
-              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>15 Contas conectadas</span>
-              <button data-tooltip-target="tooltip-accounts-team" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-accounts-team" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">Uma conta de redes sociais ou outra que você conecta para que possamos publicar em seu nome<div class="tooltip-arrow" data-popper-arrow></div></div>
-            </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Contas extras custam $10/mês</p>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>900 Créditos de IA por mês</span>
-            <button data-tooltip-target="tooltip-credits-team" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-            <div id="tooltip-credits-team" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">1 Crédito equivale aproximadamente a 1 publicação. Recursos avançados usam mais créditos<div class="tooltip-arrow" data-popper-arrow></div></div>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-             <span>Agende posts com 1 ano de antecedência</span>
-          </li>
-        </ul>
-      </div>
+      <article class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8"><h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Inicial</h2><p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Para uma pessoa que faz tudo</p><span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.starter.yearly : plans.starter.monthly)"></span><p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">por mês, cobrado anualmente</span><span x-show="!yearly">por mês, cobrado mensalmente</span></p><a href="#early-access" class="text-white bg-gray-900 hover:bg-gray-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8 dark:bg-gray-600">Obter acesso antecipado</a><ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400"><li>✓ <b>3</b> perfis de público</li><li>✓ 1 usuário</li><li>✓ 5 contas conectadas</li><li>✓ 300 créditos de IA por mês</li><li>✓ Agendamento com 4 semanas de antecedência</li></ul></article>
+      <article class="flex flex-col p-6 text-center bg-white border rounded-lg shadow border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8"><h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Crescimento</h2><p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Para uma pequena equipe de marketing</p><span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.growth.yearly : plans.growth.monthly)"></span><p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">por mês, cobrado anualmente</span><span x-show="!yearly">por mês, cobrado mensalmente</span></p><a href="#early-access" class="text-white bg-primary-600 hover:bg-primary-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8">Obter acesso antecipado</a><ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400"><li>✓ <b>15</b> perfis de público</li><li>✓ 3 usuários</li><li>✓ 15 contas conectadas</li><li>✓ 900 créditos de IA por mês</li><li>✓ Agendamento com um ano de antecedência</li><li>✓ Colaboração e aprovações</li></ul></article>
+      <article class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8"><h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Equipe</h2><p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Para agências e equipes com várias marcas</p><span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.team.yearly : plans.team.monthly)"></span><p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">por mês, cobrado anualmente</span><span x-show="!yearly">por mês, cobrado mensalmente</span></p><a href="#early-access" class="text-white bg-gray-900 hover:bg-gray-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8 dark:bg-gray-600">Obter acesso antecipado</a><ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400"><li>✓ Perfis de público ilimitados</li><li>✓ Usuários ilimitados</li><li>✓ 40 contas conectadas</li><li>✓ 3.000 créditos de IA por mês</li><li>✓ Horizonte de agendamento ilimitado</li><li>✓ Suporte e integração prioritários</li></ul></article>
     </div>
+    <p class="mt-10 text-gray-500 dark:text-gray-400">Precisa de mais ou de uma configuração diferente? <a href="/pt/contato/" class="text-primary-600 dark:text-primary-500 font-medium hover:underline">Fale conosco</a>.</p>
   </div>
 </section>
 
-{{< feature-grid "pricing_features" "true" >}}
+{{< feature-grid "pricing_features" "false" >}}

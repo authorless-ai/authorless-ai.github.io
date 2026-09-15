@@ -1,105 +1,52 @@
 ---
-title: Preise
+title: "Preise"
 translationKey: pricing
+description: "Jeder Tarif enthält das vollständige 30-Punkte-Zielgruppenprofil, alle Inhaltstypen, die Veröffentlichung auf sechs Kanälen und mehr als 50 Sprachen."
+waitlist:
+  id: "early-access"
+  title: "Frühzugang erhalten"
+  description: "Sagen Sie uns, wer Sie sind und was Sie vermarkten. Wir richten alles mit Ihnen ein und erstellen gemeinsam Ihre ersten Zielgruppenprofile. Einen Tarif wählen Sie erst, nachdem Sie Bazam in Aktion gesehen haben."
+  button: "Zugang anfragen"
 faq:
-  - q: "Kann ich mein Abonnement kündigen?"
+  - q: "Warum richtet sich der Preis nach der Anzahl der Zielgruppen?"
     a:
-    - "Ja, Sie können Ihr Bazam-Abonnement jederzeit kündigen. Nach der Kündigung können Sie Ihr Konto und alle Funktionen noch bis zum Ende des aktuellen Abrechnungszeitraums nutzen."
-    - "Wenn Ihr aktueller Abrechnungszeitraum endet, enden auch Ihr Zugang zu Bazam und alle verbleibenden Credits. Danach werden Sie nicht mehr belastet."
-  - q: "Kann ich meinen Bazam-Abo-Plan upgraden oder ändern?"
+      - "Weil das Zielgruppenprofil die eigentliche Arbeit leistet. Dadurch wirkt Ihr Inhalt, als wäre er für jemanden statt für alle geschrieben; jeder Assistent, Kanal und jede Übersetzung greift darauf zurück."
+      - "Wer allein Marketing betreibt, hat meist zwei oder drei Zielgruppen, die sich genau modellieren lassen. Ein Berater mit sechs Kunden hat deutlich mehr. So zahlen Sie für die benötigte Tiefe und nicht für eine unvorhersehbare Wortzahl."
+  - q: "Was zählt als KI-Credit?"
     a:
-    - "Ja, Sie können Ihren Bazam-Plan jederzeit upgraden, um mehr Funktionen, höhere Credit-Limits oder andere Vorteile zu erhalten."
-    - "Kontaktieren Sie uns einfach für ein Upgrade. Upgrades treten in der Regel sofort in Kraft."
-  - q: "Was bedeutet 'X KI-Wörter pro Monat'?"
+      - "Ungefähr ein Credit pro Inhalt. Ein Social-Media-Beitrag, ein Blogabschnitt, ein Bild oder eine Reihe von Vorschlägen wird aus demselben monatlichen Guthaben bezahlt; aufwendigere Funktionen verbrauchen mehr."
+      - "Sie können Ihren Kontostand jederzeit einsehen und bei Bedarf weitere Credits kaufen."
+  - q: "Was passiert, wenn meine Credits aufgebraucht sind?"
     a:
-    - "Die in Ihrem Plan angegebenen 'KI-Wörter pro Monat' sind eine Schätzung der Textinhalte, die Sie bei typischer Nutzung erstellen können."
-    - "Ihr Kontingent deckt alle KI-gestützten Funktionen ab, nicht nur Textgenerierung."
-  - q: "Was passiert, wenn mir die KI-Credits ausgehen?"
+      - "Nichts geht kaputt: Sie laden einfach nach. Jeder Tarif umfasst ein monatliches Kontingent; zusätzliche Credits können Sie jederzeit in Ihrem Konto kaufen."
+      - "Im Tarif enthaltene Credits gelten für den jeweiligen Abrechnungszeitraum. Separat gekaufte Credits werden übertragen, bis Sie sie verwenden."
+  - q: "Kann ich später den Tarif wechseln?"
     a:
-    - "Ja, das können Sie! Jeder Bazam-Plan gibt Ihnen eine bestimmte Menge an KI-Credits für die Inhaltserstellung."
-    - "Zusätzliche KI-Credits zu kaufen ist einfach. Folgen Sie den Schritten in Ihrem Konto oder wenden Sie sich an Ihren Bazam-Ansprechpartner."
-  - q: "Werden meine Bazam-KI-Credits in den nächsten Monat übertragen?"
+      - "Ja, jederzeit. Upgrades gelten sofort, und wir zeigen Ihnen genau, was sich auf Ihrer aktuellen Rechnung ändert."
+      - "Wenn Sie mitten im Monat mehr benötigen, müssen Sie nicht bis zur Verlängerung warten."
+  - q: "Kann ich kündigen?"
     a:
-    - "Die KI-Credits, die in Ihrem monatlichen Abo-Plan enthalten sind, werden nicht in den nächsten Monat übertragen."
-    - "Zusätzlich gekaufte KI-Credits werden jedoch übertragen."
+      - "Jederzeit. Bis zum Ende des bereits bezahlten Abrechnungszeitraums behalten Sie vollen Zugriff auf Ihr Konto, Ihre Zielgruppenprofile und verbleibenden Credits. Danach wird nichts mehr berechnet."
+  - q: "Brauche ich für den Frühzugang eine Kreditkarte?"
+    a:
+      - "Nein. Sagen Sie uns, wer Sie sind und was Sie vermarkten. Wir richten alles ein und erstellen gemeinsam Ihre ersten Profile. Einen Tarif wählen Sie, nachdem Sie Bazam in Aktion gesehen haben."
 ---
+
 <section class="bg-white dark:bg-gray-900" x-data="{{< pricing-data >}}">
-  <div class="max-w-screen-xl py-8 px-4 mx-auto text-center lg:py-16 lg:px-12">
-    <h2 class="logo-font mx-auto text-center lg:mb-12 mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">Stressfreies Marketing — jetzt starten</h2>
+  <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
+    <h1 class="logo-font mx-auto mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">Ab <span x-text="formatPrice(plans.starter.yearly)"></span> pro Monat</h1>
     <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
-      <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">Erleben Sie smarteres Marketing, das funktioniert. Wählen Sie Ihren Plan für schnellere, einfachere Ergebnisse.</p>
-      <div class="flex items-center justify-center mt-4 space-x-3">
-        <span class="text-xl text-gray-500 dark:text-white hover:cursor-pointer" :class="{ 'text-gray-900 font-bold': !yearly }" @click="yearly = !yearly">Monatlich</span>
-        <label class="inline-flex items-center cursor-pointer"><input type="checkbox" value="" checked class="sr-only peer" x-model="yearly"><div class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div></label>
-        <span class="text-xl text-gray-900 font-bold dark:text-white hover:cursor-pointer" :class="{ 'text-gray-500 font-normal': !yearly }" @click="yearly = !yearly">Jährlich</span>
-      </div>
+      <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">Jeder Tarif enthält das vollständige 30-Punkte-Zielgruppenprofil, alle Inhaltstypen, die direkte Veröffentlichung auf allen sechs Kanälen und mehr als 50 Sprachen. Sie zahlen für die benötigte Anzahl an Zielgruppen, Konten und Personen – nie für zurückgehaltene Funktionen.</p>
+      <p class="mt-4 font-medium text-gray-700 dark:text-gray-300">Fordern Sie Frühzugang an, testen Sie Bazam mit Ihrem eigenen Unternehmen und wählen Sie anschließend den passenden Tarif.</p>
+      <div class="flex items-center justify-center mt-6 space-x-3"><button type="button" class="text-xl text-gray-500 dark:text-white" :class="{ 'text-gray-900 font-bold': !yearly }" @click="yearly = false">Monatlich</button><label class="inline-flex items-center cursor-pointer"><input type="checkbox" checked class="sr-only peer" x-model="yearly"><span class="relative w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></span></label><button type="button" class="text-xl text-gray-900 font-bold dark:text-white" :class="{ 'text-gray-500 font-normal': !yearly }" @click="yearly = true">Jährlich <span class="text-base font-normal text-primary-600">(rund 20 % sparen)</span></button></div>
     </div>
     <div class="grid gap-8 mt-8 lg:grid-cols-3 lg:gap-10 sm:mt-12">
-      <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">Individual</h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.timeSaver.yearly : plans.timeSaver.monthly)"></span>
-        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400"><span x-show="yearly">pro Monat, jährlich abgerechnet</span><span x-show="!yearly">pro Monat, monatlich abgerechnet</span></p>
-        <a href="{{< signup-url >}}" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Jetzt starten</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>1 Nutzer</span>
-          </li>
-
-          <li>
-            <div class="flex items-center space-x-3">
-              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>5 Verbundene Konten</span>
-              <button data-tooltip-target="tooltip-accounts-ind" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-accounts-ind" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">Ein Social-Media- oder anderes Konto, das Sie verbinden, damit wir in Ihrem Namen posten können<div class="tooltip-arrow" data-popper-arrow></div></div>
-            </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Zusätzliche Konten kosten $10/Monat</p>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>300 KI-Credits pro Monat</span>
-            <button data-tooltip-target="tooltip-credits-ind" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-            <div id="tooltip-credits-ind" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">1 Credit entspricht ungefähr 1 Beitrag. Erweiterte Funktionen verbrauchen mehr Credits<div class="tooltip-arrow" data-popper-arrow></div></div>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Beiträge 4 Wochen im Voraus planen</span>
-          </li>
-        </ul>
-      </div>
-      <div class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h3 class="mb-4 text-2xl font-medium text-gray-900 dark:text-white">Enterprise</h3>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white">Custom</span>
-        <p class="mt-4 mb-1 text-gray-500 text-light dark:text-gray-400">auf Ihre Bedürfnisse zugeschnitten</p>
-        <a href="/kontakt/" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600">Vertrieb kontaktieren</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>Unbegrenzte Nutzer</span>
-          </li>
-          <li>
-            <div class="flex items-center space-x-3">
-              <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-              <span>15 Verbundene Konten</span>
-              <button data-tooltip-target="tooltip-accounts-team" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-              <div id="tooltip-accounts-team" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">Ein Social-Media- oder anderes Konto, das Sie verbinden, damit wir in Ihrem Namen posten können<div class="tooltip-arrow" data-popper-arrow></div></div>
-            </div>
-            <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">Zusätzliche Konten kosten $10/Monat</p>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-            <span>900 KI-Credits pro Monat</span>
-            <button data-tooltip-target="tooltip-credits-team" type="button"><svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg></button>
-            <div id="tooltip-credits-team" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">1 Credit entspricht ungefähr 1 Beitrag. Erweiterte Funktionen verbrauchen mehr Credits<div class="tooltip-arrow" data-popper-arrow></div></div>
-          </li>
-          <li class="flex items-center space-x-3">
-            <svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
-             <span>Beiträge 1 Jahr im Voraus planen</span>
-          </li>
-        </ul>
-      </div>
+      <article class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8"><h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Einstieg</h2><p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Für eine Person, die alles selbst erledigt</p><span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.starter.yearly : plans.starter.monthly)"></span><p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">pro Monat, jährlich abgerechnet</span><span x-show="!yearly">pro Monat, monatlich abgerechnet</span></p><a href="#early-access" class="text-white bg-gray-900 hover:bg-gray-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8 dark:bg-gray-600">Frühzugang erhalten</a><ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400"><li>✓ <b>3</b> Zielgruppenprofile</li><li>✓ 1 Nutzer</li><li>✓ 5 verbundene Konten</li><li>✓ 300 KI-Credits pro Monat</li><li>✓ 4 Wochen im Voraus planen</li></ul></article>
+      <article class="flex flex-col p-6 text-center bg-white border rounded-lg shadow border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8"><h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Wachstum</h2><p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Für ein kleines Marketingteam</p><span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.growth.yearly : plans.growth.monthly)"></span><p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">pro Monat, jährlich abgerechnet</span><span x-show="!yearly">pro Monat, monatlich abgerechnet</span></p><a href="#early-access" class="text-white bg-primary-600 hover:bg-primary-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8">Frühzugang erhalten</a><ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400"><li>✓ <b>15</b> Zielgruppenprofile</li><li>✓ 3 Nutzer</li><li>✓ 15 verbundene Konten</li><li>✓ 900 KI-Credits pro Monat</li><li>✓ Ein Jahr im Voraus planen</li><li>✓ Zusammenarbeit und Freigaben</li></ul></article>
+      <article class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8"><h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Team</h2><p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Für Agenturen und Teams mit mehreren Marken</p><span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.team.yearly : plans.team.monthly)"></span><p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">pro Monat, jährlich abgerechnet</span><span x-show="!yearly">pro Monat, monatlich abgerechnet</span></p><a href="#early-access" class="text-white bg-gray-900 hover:bg-gray-700 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8 dark:bg-gray-600">Frühzugang erhalten</a><ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400"><li>✓ Unbegrenzte Zielgruppenprofile</li><li>✓ Unbegrenzte Nutzer</li><li>✓ 40 verbundene Konten</li><li>✓ 3.000 KI-Credits pro Monat</li><li>✓ Unbegrenzter Planungshorizont</li><li>✓ Bevorzugter Support und Onboarding</li></ul></article>
     </div>
+    <p class="mt-10 text-gray-500 dark:text-gray-400">Benötigen Sie mehr oder eine andere Zusammenstellung? <a href="/de/kontakt/" class="text-primary-600 dark:text-primary-500 font-medium hover:underline">Sprechen Sie mit uns</a>.</p>
   </div>
 </section>
 
-{{< feature-grid "pricing_features" "true" >}}
+{{< feature-grid "pricing_features" "false" >}}
