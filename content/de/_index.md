@@ -1,234 +1,238 @@
 ---
-title: "Ihre virtuelle Marketingabteilung — rund um die Uhr im Einsatz"
-superTitle: "Lernen Sie Ihren KI-Marketing-Agenten kennen"
+title: "Sagen Sie für jede Zielgruppe Ihrer Kunden das Richtige"
+superTitle: "Zielgruppenorientiertes Marketing für kleine Agenturen"
+description: "Bazam hilft kleinen Agenturen, Inhalte zu schreiben, zu planen und zu veröffentlichen, die jede Zielgruppe ihrer Kunden ansprechen."
+ctaText: "Frühzugang anfragen"
+ctaUrl: "#early-access"
 heroDescription:
-  - "Ein autonomer KI-Agent, der Ihre Marke in- und auswendig kennt. Bitten Sie ihn, Inhalte zu erstellen, Analysen abzurufen, Kampagnen zu brainstormen, Wettbewerber zu recherchieren oder neue Teammitglieder einzuarbeiten — alles in einem einzigen Gespräch."
-  - "Bazam gibt Ihrem Team einen <b>jederzeit verfügbaren, markenkundigen Teamkollegen</b>, der die Arbeit erledigt, die Sie lieber nicht manuell machen — damit Sie sich auf das konzentrieren können, was Ihr Unternehmen wirklich voranbringt."
-youtubeUrl: "4iu6ap8dJbU"
+  - "Jeder Kunde verkauft an mehr als einen Menschentyp. Mit Bazams **detaillierten Käuferprofilen** können Sie für jeden die passende Botschaft **schreiben, planen und veröffentlichen** und so das Engagement steigern."
+heroVideo: "/videos/personas.mp4"
+heroVideoAlt: "Die Zielgruppenliste in Bazam mit einem geöffneten Persona-Profil und seinem 30-Punkte-Käuferprofil"
 
-segmentPills:
-  - title: "Für Agenturen"
-    url: "/de/solutions/agenturen/"
-  - title: "Für Unternehmen"
-    url: "/de/solutions/unternehmen/"
-  - title: "Für Meinungsführer"
-    url: "/de/solutions/meinungsfuehrer/"
-  - title: "Für gemeinnützige Organisationen"
-    url: "/de/solutions/gemeinnuetzige/"
-  - title: "Für Creator"
-    url: "/de/solutions/influencer/"
-  - title: "Für Dropshipper"
-    url: "/de/solutions/dropshipper/"
+personas:
+  title: "Jeder Kunde hat mehr als einen Käufertyp"
+  description:
+    - |
+      **Beispiel: ein Hotelkunde**
 
-introFeatures:
-  - title: "Inhalte in Gesprächsgeschwindigkeit"
-    description: "Sagen Sie dem Agenten, was Sie brauchen — Blogbeiträge, Social-Media-Kampagnen, Pressemitteilungen — und erhalten Sie markengerechte Entwürfe in Minuten, nicht Tagen."
-    url: "/de/features/inhaltserstellung/"
-  - title: "Ihre Markenintelligenz, immer verfügbar"
-    description: "Der Agent absorbiert Ihre Markenstimme, Zielgruppen-Personas, Wissensdatenbank und Kampagnenhistorie. Jeder in Ihrem Team kann sofort per Chat darauf zugreifen."
-    url: "/de/features/marketingstrategie/"
-  - title: "Alle Kanäle, ein Dashboard"
-    description: "Verfolgen Sie Engagement, Reichweite und Wachstum über alle Plattformen in einer einzigen Ansicht. Fragen Sie den Agenten nach einer Zusammenfassung, anstatt sich in fünf Tools einzuloggen."
-    url: "/de/features/agent/"
+      * Für einen Firmenorganisator zählen die Tagungsräume.
+      * Für ein Paar auf Wochenendreise zählt der Zimmerservice.
+    - "Bazam nennt das [zielgruppenorientiertes Marketing](/audience-driven-marketing/): genau verstehen, wer liest, und jede Botschaft danach ausrichten, um mehr Conversions zu erzielen."
+  title_image: "/images/persona-list.png"
+  title_image_alt: "Liste der Zielgruppen-Personas in Bazam"
+  personas:
+    - badge: "Geschäftskunde"
+      name: "James"
+      role: "Bucht externe Meetings für Teams mit 20 bis 100 Personen"
+      icon: "male_1"
+      sample: "Ein Konferenzraum für vierzig Personen, schnelles WLAN in jedem Zimmer sowie Pool und Sauna für die Pause."
+    - badge: "Romantische Auszeit"
+      name: "Jo"
+      role: "Bucht ein Wochenende zu zweit – ausnahmsweise ohne Kinder"
+      icon: "female_1"
+      sample: "Später Check-out, Abendessen für zwei inklusive und ein privater Whirlpool."
+  footer: "Mit Bazam sagen Sie jeder Zielgruppe Ihrer Kunden mühelos das Richtige"
 
-carousel:
-  title: "Sehen Sie es in Aktion"
-  images:
-    - small: "images/carousel/1-mega-create-sm.png"
-      large: "images/carousel/1-mega-create.png"
-      alt: "KI-Agent erstellt Inhalte per Gespräch"
-    - small: "images/carousel/2-wizard-sm.png"
-      large: "images/carousel/2-wizard.png"
-      alt: "Markenstimme und Zielgruppen-Personas einrichten"
-    - small: "images/carousel/3-select-sm.png"
-      large: "images/carousel/3-select.png"
-      alt: "Kampagnenziele und Zielgruppen-Targeting auswählen"
-    - small: "images/carousel/4-plan-sm.png"
-      large: "images/carousel/4-plan.png"
-      alt: "Vom KI generierter strategischer Inhaltsplan"
-    - small: "images/carousel/5-list-sm.png"
-      large: "images/carousel/5-list.png"
-      alt: "Eine Warteschlange markengerechter Inhalte zur Überprüfung"
+angles:
+  title: "Es zählt nicht nur, was Sie sagen, sondern auch wie"
+  description: "Dieselbe Zielgruppe braucht zu verschiedenen Zeiten andere Botschaften. Mit Bazam testen Sie einfach, was funktioniert."
+  brief: "Neu: das Wochenendpaket. Abendessen für zwei, später Check-out und privater Whirlpool."
+  brand: "Millbrook Hotel"
+  persona:
+    name: "Jo"
+    role: "Bucht ein Wochenende zu zweit – ausnahmsweise ohne Kinder"
+    icon: "female_1"
+    traits:
+      - label: "Was sie sucht"
+        value: "Ein Wochenende, das sich anders anfühlt als zu Hause: nichts planen, nichts kochen."
+      - label: "Was sie prüft"
+        value: "Zimmerservice und ob der Whirlpool privat oder gemeinschaftlich ist."
+      - label: "Wie sie entscheidet"
+        value: "Sie vergleicht zwei oder drei Hotels und bucht das, das diese Fragen zuerst beantwortet."
+    footnote: "Drei Punkte aus Jos Käuferprofil."
+  slides:
+    - angle: "Sehnsucht"
+      copy: "Zwei Nächte, keine Pläne und ein Whirlpool nur für Sie. So fühlt sich Abschalten an."
+      note: "Verkauft das Gefühl statt des Zimmers, denn genau das bucht sie."
+    - angle: "Knappheit"
+      copy: "Nur sechs Zimmer haben einen privaten Whirlpool, und die Wochenenden sind schnell ausgebucht. Abendessen für zwei und später Check-out inklusive – einfach buchen und entspannen."
+      note: "Eine echte Begrenzung für Leserinnen, die sich entscheiden, sobald etwas fast ausverkauft ist."
+    - angle: "Soziale Bewährtheit"
+      copy: "Seit März jedes Wochenende ausgebucht. Probieren Sie unsere Whirlpool-Suite und finden Sie selbst heraus, warum."
+      note: "Andere Paare haben sie bereits gewählt – das wiegt mehr als jede Zimmerbeschreibung."
+    - angle: "Praktisch"
+      copy: "Buchen und entspannen. Abendessen reserviert, später Check-out bestätigt, Whirlpool-Suite bereit – Sie müssen nur noch ankommen."
+      note: "Nimmt ihr genau die Planung ab, der sie entkommen möchte."
+    - angle: "Neugier"
+      copy: "Finden Sie heraus, warum andere Gäste unser Restaurant mit 4,8 Sternen bewerten."
+      note: "Weckt die Neugier von Leserinnen, die alles überspringen, was wie Werbung klingt."
+    - angle: "Ihre eigenen Worte"
+      copy: "Brauchen Sie Zeit für sich? Tanken Sie in unserem Spa neue Kraft und erleben Sie unser preisgekröntes Restaurant bei einem unvergesslichen Wochenende."
+      note: "Geben Sie einen eigenen Blickwinkel ein, etwa „Wochenende ohne Kinder“, und Bazam schreibt dazu."
+  footer: "Dasselbe Hotel, dasselbe Angebot, dieselbe Markenstimme. Winkel wählen oder selbst eingeben – Bazam schreibt, plant und veröffentlicht."
 
-solutionsCards:
-  title: "Turbo für Ihr Marketing"
-  description: "Bazam ist für alle gemacht, die konsistentes, professionelles Marketing brauchen — schneller, intelligenter und sicherer — vom Solo-Gründer bis zum wachsenden Team."
-  cards:
-     - title: Für Marketingagenturen
-       description: "Betreuen Sie mehr Kundenkonten ohne mehr Mitarbeiter. Ihr KI-Agent übernimmt Inhalte und Reporting, damit Ihr Team sich auf Neukundengewinnung konzentrieren kann."
-       url: "/de/solutions/agenturen/"
-       icon: bullhorn
-     - title: Für Unternehmen
-       description: "Professionelles Content-Marketing ohne volles Marketingteam. Der Agent erstellt, plant und veröffentlicht in Ihrem Namen."
-       url: "/de/solutions/unternehmen/"
-       icon: briefcase
-     - title: Für Experten & Meinungsführer
-       description: "Pflegen Sie einen kontinuierlichen Strom authentischer, aufschlussreicher Inhalte, die Ihre Autorität aufbauen — ohne Ihren Tag mit Schreiben zu verbringen."
-       url: "/de/solutions/meinungsfuehrer/"
-       icon: lightbulb
-     - title: Für gemeinnützige Organisationen
-       description: "Strecken Sie kleine Budgets weiter mit KI-gestützten Inhalten, die Ihre Sache verstärken und Spenden fördern."
-       url: "/de/solutions/gemeinnuetzige/"
-       icon: heart
-     - title: Für Creator & Influencer
-       description: "Skalieren Sie Ihre Inhalte über alle Plattformen und bewahren Sie dabei Ihre persönliche Stimme konsistent und authentisch."
-       url: "/de/solutions/influencer/"
-       icon: star
-     - title: Für Dropshipper
-       description: "Generieren Sie Produktbeschreibungen, Social-Media-Kampagnen und Anzeigen in großem Maßstab — alles basierend auf Ihrem Katalog und Ihrer Zielgruppe."
-       url: "/de/solutions/dropshipper/"
-       icon: truck
+calendar:
+  title: "Montags schreiben. Den ganzen Monat posten."
+  description: "Planen Sie einen Monat Inhalte für sechs Plattformen und ein Dutzend Sprachen."
+  video: "/videos/calendar.mp4"
+  image_alt: "Der Inhaltskalender mit einem Monat geplanter Beiträge auf mehreren Plattformen"
+  points:
+    - title: "Ziehen, ablegen, fertig"
+      description: "Legen Sie Inhalte beim Erstellen in den Kalender und passen Sie den Plan jederzeit per Drag-and-drop an."
+    - title: "Sechs Plattformen, eine Warteschlange"
+      description: "Jede erhält ihre eigene Version, bereits bei Text, Ton und Seitenverhältnis angepasst. Kein Exportieren, Umformatieren oder sechsmaliges Anmelden."
+    - title: "Ohne Freigabe geht nichts live"
+      description: "Aktivieren Sie Freigaben und alles wartet auf Zustimmung. Kunden prüfen und genehmigen im eigenen Portal, ohne je Ihr Passwort zu sehen."
+  logos:
+    title: "Plant und veröffentlicht auf"
+    items:
+      - { name: "Facebook", icon: "facebook" }
+      - { name: "Instagram", icon: "instagram" }
+      - { name: "TikTok", icon: "tiktok" }
+      - { name: "X", icon: "x" }
+      - { name: "LinkedIn", icon: "linkedin" }
+      - { name: "WordPress", icon: "wordpress" }
+  footer: "Regelmäßiges Veröffentlichen macht Content-Marketing wirksam – und fällt bei Zeitdruck zuerst aus. Überlassen Sie es uns."
 
-featureCards:
-  title: "Alles, was Ihr Agent kann"
-  description: "Ein KI-Agent, ein Gespräch — mit der vollen Power einer Marketingabteilung dahinter."
-  cards:
-  - title: "KI-Inhaltserstellung"
-    description: "Blogbeiträge, Social-Media-Updates, Pressemitteilungen, Werbetexte — der Agent schreibt alles, maßgeschneidert auf Ihre Markenstimme und Zielgruppe."
-    url: "/de/features/inhaltserstellung/"
-    icon: edit
-
-  - title: "Planung & Kalender"
-    description: "Planen und reihen Sie Inhalte kanalübergreifend mit einem visuellen Kalender ein. Der Agent kann optimale Zeiten vorschlagen und Lücken füllen."
-    url: "/de/features/planung/"
-    icon: calendar
-
-  - title: "Multiplattform-Veröffentlichung"
-    description: "Veröffentlichen Sie direkt auf WordPress, Facebook, Instagram, LinkedIn, X, YouTube und TikTok — alles an einem Ort."
-    url: "/de/features/veroeffentlichung/"
-    icon: upload
-
-  - title: "Analytics-Dashboard"
-    description: "Verfolgen Sie Engagement, Reichweite, Klicks und Follower-Wachstum über alle Kanäle in einer zentralen Ansicht. Kein Tabellenchaos mehr."
-    url: "/de/features/agent/"
-    icon: chart
-
-  - title: "Markenstimme & Strategie"
-    description: "Definieren Sie Markenstimme, Zielgruppen-Personas und Kampagnenziele. Der Agent nutzt diese, um sicherzustellen, dass jeder Inhalt markenkonform ist."
-    url: "/de/features/marketingstrategie/"
-    icon: briefcase
-
-  - title: "Wissensdatenbank"
-    description: "Schützen Sie Ihre Marke vor KI-Fehlern. Laden Sie Ihre Dokumente hoch und der Agent schreibt aus Ihren Fakten — nicht aus seiner Fantasie. Weniger Korrekturen, mehr Wachstum."
-    url: "/de/features/wissensdatenbank/"
-    icon: folder
-
-  - title: "Mehrsprachige Unterstützung"
-    description: "Erstellen und übersetzen Sie Inhalte in verschiedene Sprachen. Führen Sie Kampagnen in mehreren Märkten gleichzeitig durch."
-    url: "/de/features/uebersetzung/"
-    icon: language
-
-  - title: "Teamzusammenarbeit"
-    description: "Verwalten Sie mehrere Marken und Teammitglieder mit granularen Berechtigungen und projektbasierter Organisation."
-    url: "/de/features/teams/"
-    icon: users
+evidence:
+  title: "Bessere Worte schlagen besseres Targeting fünf zu eins."
+  description: "Alle sorgen sich um Reichweite. Doch der Wert liegt in den Worten. Bessere Worte, mehr Engagement, mehr Reichweite."
+  stats:
+    - figure: "47 %"
+      against: "gegenüber 9 % durch Targeting"
+      title: "Kreativität erzeugt 47 % des Umsatzanstiegs. Targeting 9 %."
+      description: "Nielsen untersuchte bei rund 500 Kampagnen, was die Zahlen bewegte. Kreativität lag mit 47 % vorn, digital sogar bei <b>56 %</b>. Der schnellste Gewinn ist eine präzisere Botschaft an die Menschen, die Sie bereits erreichen."
+      source: "Nielsen Catalina Solutions, 2017"
+    - figure: "106.000"
+      against: "Menschen in 88 Studien"
+      title: "Je mehr Sie über Leser wissen, desto stärker wirkt die Botschaft."
+      description: "88 Studien, 106.243 Menschen. Maßgeschneiderte Botschaften übertrafen generische jedes Mal, und der Abstand wuchs mit dem Wissen der Autoren. <b>Jeder ausgefüllte Punkt lässt Ihre Inhalte härter arbeiten.</b>"
+      source: "Krebs, Prochaska & Rossi, 2010"
+  footer: "Mit Bazams detaillierten 30-Punkte-Käuferprofilen entstehen Beiträge, die die Zielgruppen Ihrer Kunden wirklich _lesen wollen_."
 
 features:
-- title: "Fünf Marketing-Tools, die Sie nie wieder öffnen werden"
-  image: "/images/campaign-options.png"
-  image_alt: "Ein KI-Agent, der Inhaltserstellung, Planung, Veröffentlichung, Analyse und Strategie in einem Gespräch vereint."
-  description:
-    - "Jeden Tag kopiert Ihr Team Inhalte in ein Planungstool, prüft Statistiken in mehreren Dashboards, öffnet eine separate App zum Veröffentlichen und sucht nach 'Content-Ideen für…'. Bazam erledigt all das an einem Ort."
-  points:
-    - title: "Schluss mit Copy-Paste in den Planer"
-      description: "Erstellen Sie Inhalte und planen Sie sie im selben Gespräch. Kein Exportieren, kein Umformatieren, kein Tab-Wechsel."
-    - title: "Schluss mit Einloggen auf jeder Plattform"
-      description: "Bazam veröffentlicht direkt auf WordPress, Facebook, Instagram, LinkedIn, X, YouTube und TikTok. Ein Klick, alle Kanäle."
-    - title: "Schluss mit Statistiken aus fünf Dashboards"
-      description: "Ein zentrales Analytics-Dashboard für alle verbundenen Kanäle. Engagement, Reichweite, Wachstum — alles auf einen Blick, oder fragen Sie den Agenten nach einer Zusammenfassung."
-    - title: "Schluss mit der Suche nach Content-Ideen"
-      description: "Der Agent schlägt Themen basierend auf Ihrer Marke, Zielgruppe und dem vor, was bereits funktioniert — keine generischen Keyword-Listen."
-  footer:
-    - "Ein Gespräch. Jede Marketing-Aufgabe. Kein Tab-Hopping mehr."
+  - title: "Menschen kaufen aus Emotion. Bazam findet heraus, aus welcher."
+    image: "/images/persona.png"
+    image_alt: "Ein ausgefülltes 30-Punkte-Käuferprofil in Bazam"
+    description:
+      - "Niemand kauft eine Funktionsliste. Menschen kaufen, um etwas zu gewinnen oder einen Verlust zu vermeiden. Treffen Sie die richtige Emotion, entstehen mit demselben Angebot bis zu 50 % mehr Käufe."
+    points:
+      - title: "Eine Emotion, mehr Verkäufe"
+        description: "Jeder Kunde hat einen Hauptgrund zu kaufen. Schreiben Sie dafür, kaufen mehr Menschen."
+      - title: "Dasselbe Angebot, zwei Wege"
+        description: '„Nur noch zwei Plätze diesen Monat“ verkauft an einen Kunden. „Ihr bestes Quartal“ an den nächsten.'
+      - title: "Einfache, endlose Inhaltswinkel"
+        description: "Wählen Sie Emotionen, Motive und mehr. Bazam baut auf jeder Plattform die ganze Kampagne darum."
+    footer:
+      - "Sprechen Sie die Emotionen Ihrer Zielgruppe an, und sie erinnert sich an Sie."
+    source: "Feldexperimente mit 3,5 Millionen Menschen. Matz, Kosinski, Nave & Stillwell, PNAS, 2017."
+  - title: "Jedes Format aus demselben Käuferprofil."
+    image: "/images/campaign-options.png"
+    image_alt: "Auswahl einer Zielgruppe und eines Winkels vor dem Erstellen einer Kampagne"
+    description:
+      - "Das Käuferprofil liegt jedem Format zugrunde. Blogbeitrag, Launch-Kampagne und Fallstudie sprechen alle den Leser an, den Sie für diesen Kunden gewählt haben."
+    points:
+      - title: "Zielgruppe wählen, Winkel wählen"
+        description: "Gleiches Produkt, gleiche Markenstimme. Ein Zeitgewinn für die eine Zielgruppe, Risiko und Compliance für die nächste."
+      - title: "Jedes Format aus demselben Profil"
+        description: "Über 30 Inhaltsarten – von Blogs und Social-Kampagnen bis zu Fallstudien, Anleitungen, Listen und Vergleichen – alle für die gewählte Zielgruppe."
+      - title: "Anders, nicht inkonsistent"
+        description: "Markenstimme und Wissensdatenbank gelten für jedes Stück. Die Beiträge wechseln, die Marke nie."
+    footer:
+      - "Erstellen Sie die Käuferprofile jedes Kunden einmal. Alles danach übernimmt sie."
+  - title: "Es kennt auch die Seite Ihres Kunden im Gespräch."
+    image: "/images/analyse-voice.png"
+    image_alt: "Unternehmens-, Marken- und Angebotsprofile in Bazam"
+    description:
+      - "Das Käuferprofil sagt Bazam, wer liest. Unternehmens-, Marken- und Angebotsprofile sagen, worum es geht. Beide Hälften machen Inhalte korrekt über den Kunden und passend für seine Zielgruppe."
+    points:
+      - title: "Unternehmen, Marke, Angebot"
+        description: "Modellieren Sie jeden Kunden einmal: Tätigkeit, Positionierung und Angebot. Halten Sie Angebote, Stimme und Zielgruppen sauber getrennt."
+      - title: "Aus Ihrer Website erstellt"
+        description: "Zeigen Sie Bazam Ihre Website; es extrahiert Positionierung, Angebote und wahrscheinliche Zielgruppen und füllt die Profile aus."
+      - title: "Ihre Fakten, nicht die der KI"
+        description: "Ergänzen Sie Dokumente, URLs und Produktdetails, damit konkrete Aussagen aus Ihrer Wissensdatenbank statt aus Vermutungen stammen."
+    footer:
+      - "So nennt Ihr Inhalt Produkt, Positionierung und Belege, statt sie zu erfinden."
 
-- title: "Sparen Sie 500–1.200 €/Monat an Marketing-Tools, die Sie nicht mehr brauchen"
-  image: "/images/feature-office-1.jpg"
-  image_alt: "Marketing-Tool-Abonnements werden durch eine einzige Plattform ersetzt."
-  description:
-    - "Das kosten diese fünf Tools tatsächlich — und das werden Sie bald nicht mehr zahlen."
-  points:
-    - title: "KI-Schreibtool — 39–69 €/Monat"
-      description: "Jasper, Copy.ai, ChatGPT Plus — generische Tools, die nicht für Marketer gebaut sind und weder veröffentlichen, planen noch messen können."
-    - title: "Planungstool — 99–249 €/Monat"
-      description: "Hootsuite, Buffer, Later — sie planen Posts, können sie aber nicht erstellen. Noch ein Login, noch ein Abo."
-    - title: "Analytics-Dashboard — 249–499 €/Monat pro Nutzer"
-      description: "Sprout Social, Iconosquare, Metricool — nur um zu sehen, wie Ihre Inhalte abgeschnitten haben. Bazam hat ein integriertes Analytics-Dashboard über alle Kanäle."
-    - title: "Strategie- & SEO-Tool — 110–400 €/Monat"
-      description: "SEMrush, Ahrefs, Moz — teure Tools, die die meisten Teams kaum ausschöpfen. Bazam hat Strategie integriert."
-    - title: "Veröffentlichungsplattform — Stunden/Woche"
-      description: "Sich in sechs Plattformen einzeln einloggen. Copy-Paste, Umformatierung, Hochladen. Zeit, die Sie nie zurückbekommen."
-  footer:
-    - "Das sind 500–1.200+ €/Monat an Abonnements — bevor jemand einen einzigen Post erstellt hat. Bazam beginnt bei einem Bruchteil davon. <a href='/de/preise/' class='text-primary-600 hover:underline font-semibold'>Pläne ansehen →</a>"
+introFeatures:
+  - step: "1"
+    title: "Zeigen Sie uns die Website Ihres Kunden"
+    description: "Bazam liest Unternehmen, Marke und Angebote und ermittelt <b>die Zielgruppen, an die der Kunde verkauft</b>."
+  - step: "2"
+    title: "Prüfen Sie den Vorschlag"
+    description: "Jeder Käufer kommt als detailliertes Profil: Antriebe, Motive, Werte, Kaufverhalten und Ton. <b>Passen Sie es mit dem Kunden an</b>, dann bleibt es erhalten."
+  - step: "3"
+    title: "Erstellen, planen, veröffentlichen"
+    description: "Damit ist die Einrichtung fertig. <b>Danach wählen Sie Zielgruppe und Winkel und starten einen Assistenten</b>; Bazam plant und veröffentlicht, während Sie anderes erledigen."
 
-- title: "Die Zukunft des Marketings ist bereits da"
-  image: "/images/persona.png"
-  image_alt: "Marketing-Ergebnisse beschleunigen sich mit einem KI-Agenten."
-  description:
-    - "Kleine Teams werden bald Unternehmen überflügeln, die zehnmal so groß sind. Ein KI-Agent, der Ihre Marke kennt, Ihre Inhalte erstellt und Ihre Veröffentlichung verwaltet — das ist kein Nice-to-have. Es ist ein unfairer Vorteil."
-  points:
-    - title: "Schneller"
-      description: "Einen Monat Content in einer einzigen Sitzung. Kampagnenideen in Sekunden. Reports sofort abrufbar. Nie wieder auf jemanden warten."
-    - title: "Intelligenter"
-      description: "Jeder Inhalt basiert auf Ihren Zielgruppendaten, Markenpositionierung und dem, was bereits funktioniert. Kein Raten mehr."
-    - title: "Besseres Preis-Leistungs-Verhältnis"
-      description: "Die Leistung eines kompletten Marketing-Teams zu einem Bruchteil der Kosten. Keine Agenturen, keine Freelancer, keine Neueinstellungen."
-    - title: "Immer aktiv"
-      description: "Er nimmt keinen Urlaub, vergisst kein Briefing und braucht kein Onboarding. Ihr Marketing läuft, ob Sie im Büro sind oder nicht."
-  footer:
-    - "Ihre Wettbewerber stellen noch ein. Sie haben gerade eine ganze Marketingabteilung eingesetzt."
+featureCards:
+  title: "Für kleine Agenturen, die mehrere Zielgruppen ansprechen"
+  description: "Erstellen Sie Inhalte, die den Käufern jedes Kunden wichtig sind, ohne jede Kampagne um Stunden zu verlängern."
+  cards:
+    - title: "Content-Agenturen"
+      icon: star
+      description: "Mehrere Kundenkalender und Zielgruppen, aber keine Zeit, Profile von Grund auf zu bauen. Einmal einrichten und dauerhaft daraus generieren."
+    - title: "Social-Media-Agenturen"
+      icon: users
+      description: "Ein Team betreut jeden Kanal und Markt. Gemeinsame Profile sorgen dafür, dass jeder Beitrag denselben Leser anspricht – unabhängig vom Autor."
+    - title: "Marken- und Kreativagenturen"
+      icon: briefcase
+      description: "Machen Sie aus Ihrer Zielgruppenforschung ein System: Profile, Markenstimme und Fakten bleiben für jede Kampagne verfügbar."
+    - title: "Externe Marketingteams"
+      icon: bullhorn
+      description: "Seien Sie für mehrere Unternehmen gleichzeitig die Marketingabteilung. Projekte trennen Zielgruppen, Stimme und Wissen; Kunden geben im eigenen Portal frei."
 
-topFeatures:
-  title: "Warum Marketer sich für Bazam entscheiden"
-  description: "Eine neue Art, Ihren gesamten Content-Betrieb zu führen."
-  list:
-    - title: "Autonomer KI-Agent"
-      description: "Erstellen Sie Inhalte, rufen Sie Reports ab, brainstormen Sie Ideen und verwalten Sie Kampagnen — alles in einem einzigen, intelligenten Gespräch."
-      target: /de/features/agent/
-    - title: "Zentralisierte Intelligenz"
-      description: "Ihre Markenstimme, Produktdaten und Richtlinien — immer referenziert, nie vergessen. Schützen Sie Ihre Marke vor generischem KI-Raten."
-      target: /de/features/wissensdatenbank/
-    - title: "Skalieren ohne einzustellen"
-      description: "Übernehmen Sie mehr Arbeit, ohne Ihr Team proportional zu vergrößern. Der Agent erledigt die schwere Arbeit."
-      target: /de/features/teams/
+comparisonGrid: "comparison_generic"
 
 faq:
-  - q: "Wie betreibe ich Content-Marketing ohne Marketingteam?"
+  - q: "Was ist zielgruppenorientiertes Marketing?"
     a:
-      - "Nutzen Sie einen KI-Agenten, der die Arbeit eines Teams übernimmt. Bazam erstellt Inhalte, plant sie plattformübergreifend, veröffentlicht automatisch und verfolgt die Performance — alles über ein einfaches Gespräch. Sie überprüfen und genehmigen; der Agent erledigt den Rest."
+      - "Klassisches Marketing beginnt mit der Botschaft: festlegen, was man sagen will, und es überall senden. Zielgruppenorientiertes Marketing beginnt beim Leser: ein echtes Modell der Person erstellen und davon Worte, Blickwinkel und Angebot bestimmen lassen."
+      - "Bazam arbeitet standardmäßig so. Jede Zielgruppe erhält vor dem ersten Wort ein detailliertes Profil, und jeder Inhalt auf jeder Plattform entsteht daraus."
+      - "Lesen Sie, wie [zielgruppenorientiertes Marketing](/audience-driven-marketing/) zum Lernkreislauf wird: Jede Kampagne testet eine Botschaft, das Ergebnis verbessert das nächste Briefing."
+  - q: "Was, wenn die Zielgruppe meines Kunden keine „Käufer“ sind?"
+    a:
+      - "Der Begriff ist nur eine Abkürzung. Das Profil beschreibt alle Menschen, an die Ihr Kunde schreibt: E-Mail-Leser, Follower, Spender, Freiwillige, Fans oder Stammgäste. Es funktioniert für alle gleich."
+      - "Marketingfachleute nennen sie Personas. Entscheidend sind dieselben Fragen: Was ist dieser Person wichtig, was schreckt sie ab, welche Sprache nimmt sie ernst? Dann entsteht Inhalt für jemanden statt für niemanden."
+  - q: "Ist das nicht nur ChatGPT oder Claude mit zusätzlichen Schritten?"
+    a:
+      - "Nein. ChatGPT liefert einen Entwurf im Chat. Es plant und veröffentlicht nicht auf sechs Netzwerken und WordPress, führt keine Freigaben durch, passt ein Briefing nicht pro Plattform an, übersetzt nicht in über 50 Sprachen und misst keine Ergebnisse."
+      - "Bazam erledigt all das anhand eines gespeicherten 30-Punkte-Käuferprofils. Bei ChatGPT steckt Ihr Wissen über den Leser im Prompt dieser Sitzung. Der Entwurf ist nur einer von etwa sechs Schritten."
+      - "Wenn Sie gern in ChatGPT oder Claude arbeiten, bleiben Sie dabei. Bazams MCP-Server bringt Profile und Markenstimme dorthin; veröffentlichen können Sie anschließend über uns."
+  - q: "Muss ich alle Käuferprofile manuell ausfüllen?"
+    a:
+      - "Wahrscheinlich nicht. Bazam analysiert die Website des Kunden, erkennt Unternehmen, Marke und Zielgruppen und gibt Ihnen die 30-Punkte-Profile zur Prüfung. Anpassen, Fehlendes ergänzen, fertig."
+      - "Alternativ reichen ein oder zwei Sätze über die Zielgruppe. Erweitern Sie das Profil bei neuen Erkenntnissen; alle künftigen Inhalte übernehmen sie."
+  - q: "Klingen die Inhalte wirklich anders?"
+    a:
+      - "Ja, wie der Vergleich oben zeigt. Besonders wirksam sind Angaben jenseits einer Kurzbeschreibung: emotionale Antriebe, Werte, Überzeugungen und Kaufverhalten. Füllen Sie sie aus, spricht der Inhalt zu einem Menschen."
+  - q: "Ich habe bereits Personas in einem Dokument."
+    a:
+      - "Das gilt für viele Agenturen, doch diese Profile sind meist Fließtext: gut für Präsentationen, unbrauchbar für Software. Fügen Sie ihn in Bazam ein, um ein Profil zu erhalten, das nach Kanal, Winkel und Autor wiederverwendbar ist."
+  - q: "Veröffentlicht Bazam oder schreibt es nur?"
+    a:
+      - "Es veröffentlicht direkt auf Facebook, Instagram, TikTok, X, LinkedIn und WordPress nach Ihrem Kalender. Ein Briefing wird pro Plattform angepasst, in über 50 Sprachen übersetzt und nach Engagement, Klicks, Impressionen, Reichweite, Speicherungen und Follower-Wachstum ausgewertet."
+  - q: "Wie unterscheidet es sich von anderen KI-Schreibtools?"
+    a:
+      - "Erstens durch die Informationen für die KI. Andere Tools erhalten eine Zeile über die Zielgruppe; Bazam speichert ein detailliertes 30-Punkte-Profil und wendet es auf jedes Format und jede Sprache an."
+      - "Zweitens durch den Endpunkt. Andere liefern Text. Bazam plant, passt an, veröffentlicht auf sechs Kanälen und Ihrem Blog, übersetzt und berichtet über die Ergebnisse."
+      - "Wenn Sie ein bestimmtes Tool vergleichen, sehen Sie sich unsere [Direktvergleiche](/de/alternativen/) Zeile für Zeile an."
 
-  - q: "Ist Content-Marketing für kleine Unternehmen zu teuer?"
-    a:
-      - "Das war es früher. Ein freiberuflicher Texter verlangt 200–500 € pro Blogbeitrag. Ein Agenturvertrag kostet 2.000–10.000 € pro Monat. Ein Marketing-Mitarbeiter kostet 30.000–60.000+ € pro Jahr. Bazam bietet Ihnen Inhaltserstellung, Planung, Veröffentlichung und Analyse zu einem Bruchteil davon."
+topFeatures:
+  title: "Demnächst"
+  description: "Steigen Sie jetzt ein und erleben Sie diese Funktionen vom Start an."
+  list:
+    - title: "Der Bazam-Agent"
+      description: "Überspringen Sie Assistenten. Fordern Sie Kampagne, Bericht oder Monatsplan in einem Gespräch an; der Agent setzt ihn anhand Ihrer Zielgruppen und Marke um."
+    - title: "Lernende Zielgruppenmodelle"
+      description: "Veröffentlichte Ergebnisse fließen direkt zurück. Aus Ihrer besten Vermutung wird ein Protokoll dessen, worauf Ihr Markt reagiert."
+    - title: "Bewährte Winkel pro Zielgruppe"
+      description: "Testen Sie Winkel für jede Zielgruppe und fördern Sie die Gewinner. Ihre Profile werden mit jeder Kampagne klüger."
 
-  - q: "Wie poste ich konsistent in sozialen Medien?"
-    a:
-      - "Bündeln Sie es. Erstellen Sie einen Monat Inhalte in einer Sitzung und planen Sie die Veröffentlichung auf allen Plattformen. Bazams KI-Agent entwirft alles in Ihrer Markenstimme, Sie überprüfen und genehmigen, und es wird automatisch veröffentlicht. Konsistenz ohne täglichen Aufwand."
-
-  - q: "Kann KI tatsächlich guten Marketing-Content schreiben?"
-    a:
-      - "Ja — wenn sie Kontext hat. Der Unterschied zwischen schlechtem und großartigem KI-Content liegt darin, was die KI über Ihre Marke weiß. Bazams Agent arbeitet mit Ihrer Markenstimme, Zielgruppen-Personas und Wissensdatenbank, sodass das Ergebnis spezifisch und fundiert ist, kein generischer Fülltext."
-
-  - q: "Wie konkurriere ich mit größeren Marken online?"
-    a:
-      - "Größere Marken haben größere Teams, die mehr Inhalte auf mehr Kanälen produzieren. Ein KI-Agent schafft gleiche Bedingungen — eine Person mit Bazam kann das gleiche Volumen und die gleiche Qualität an Inhalten produzieren wie ein Team von fünf."
-
-  - q: "Reicht ChatGPT für Marketing aus?"
-    a:
-      - "ChatGPT ist ein allgemeiner Chatbot. Er weiß nichts über Ihre Marke, vergisst alles zwischen Sitzungen und kann weder planen, veröffentlichen noch Performance messen. Für gelegentliche Entwürfe ist es in Ordnung. Für eine echte Content-Operation brauchen Sie eine Plattform, die sich an Ihre Marke erinnert und den gesamten Workflow abdeckt."
-
-  - q: "Wie erstelle ich schnell einen Content-Kalender?"
-    a:
-      - "Fragen Sie den Agenten. Nennen Sie Ihre Themen, Ziele oder bevorstehenden Events, und er generiert einen vollständigen Content-Kalender mit geplanten Posts auf allen Plattformen. Sie überprüfen, passen an und genehmigen — Ihr Monat ist in Minuten organisiert."
-
-  - q: "Brauche ich eine Marketingagentur?"
-    a:
-      - "Für Strategie, kreative Ausrichtung und Markenpositionierung — eine Agentur kann echten Mehrwert bieten. Für Content-Produktion, Planung, Veröffentlichung und Reporting — ein KI-Agent erledigt die gleiche Arbeit schneller und kostengünstiger. Die meisten Teams brauchen Strategie-Hilfe, nicht Produktions-Hilfe."
-
-  - q: "Wie messe ich den ROI von Content-Marketing?"
-    a:
-      - "Bazam verfolgt Engagement, Reichweite, Klicks und Follower-Wachstum über alle verbundenen Kanäle. Fragen Sie den Agenten 'Wie lief dieser Monat?' und erhalten Sie eine verständliche Zusammenfassung. Im Laufe der Zeit sehen Sie, welche Themen und Plattformen tatsächlich Ergebnisse liefern."
-
-  - q: "Wie verwalte ich Inhalte auf mehreren Social-Media-Plattformen?"
-    a:
-      - "Einmal erstellen, überall verteilen. Bazams Agent passt Ihre Inhalte an Format, Länge und Zielgruppe jeder Plattform an und veröffentlicht dann direkt auf WordPress, LinkedIn, Instagram, Facebook, X, YouTube und TikTok."
+waitlist:
+  id: "early-access"
+  title: "Frühzugang anfragen"
+  description: "Erzählen Sie uns von Ihrer Agentur und dem ersten Kunden. Wir helfen, seine Zielgruppen zu modellieren, die Markenstimme abzustimmen und Kanäle zu verbinden, damit Sie schnell für echte Menschen veröffentlichen."
+  button: "Zugang anfragen"
 ---

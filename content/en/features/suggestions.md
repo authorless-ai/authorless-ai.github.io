@@ -1,5 +1,6 @@
 ---
 title: "Content ideas grounded in your business"
+translationKey: feature-suggestions
 description: "Generate relevant topics and briefs from your brand, audience and goals instead of staring at a blank calendar."
 ctaText: "Get early access"
 ctaUrl: "#early-access"

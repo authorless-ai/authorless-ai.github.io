@@ -1,5 +1,6 @@
 ---
 title: "AI content creation that starts with the audience"
+translationKey: feature-content-writing
 description: "Create useful, specific marketing content from your audience profiles, brand voice and real business knowledge."
 ctaText: "Get early access"
 ctaUrl: "#early-access"

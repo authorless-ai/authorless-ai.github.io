@@ -272,233 +272,233 @@ other = "Free Trial"  # TODO: translate
 
 
 [fg_pricing__title]
-other = "Compare plans"  # TODO: translate
+other = "Compara los planes"
 
 [fg_pricing__starter]
-other = "Starter"  # TODO: translate
+other = "Inicial"
 
 [fg_pricing__growth]
-other = "Growth"  # TODO: translate
+other = "Crecimiento"
 
 [fg_pricing__team]
-other = "Team"  # TODO: translate
+other = "Equipo"
 
 [fg_pricing__core]
-other = "Core"  # TODO: translate
+other = "Aspectos básicos"
 
 [fg_pricing__core__audiences]
-other = "Audience models"  # TODO: translate
+other = "Perfiles de audiencia"
 
 [fg_pricing__core__audiences__desc]
-other = "The 30-point model of each reader you write for"  # TODO: translate
+other = "El perfil de 30 puntos de cada lector para el que escribes"
 
 [fg_pricing__core__audiences__starter]
-other = "3"  # TODO: translate
+other = "3"
 
 [fg_pricing__core__audiences__growth]
-other = "15"  # TODO: translate
+other = "15"
 
 [fg_pricing__core__audiences__team]
-other = "Unlimited"  # TODO: translate
+other = "Ilimitados"
 
 [fg_pricing__core__users]
-other = "Users"  # TODO: translate
+other = "Usuarios"
 
 [fg_pricing__core__users__starter]
-other = "1"  # TODO: translate
+other = "1"
 
 [fg_pricing__core__users__growth]
-other = "3"  # TODO: translate
+other = "3"
 
 [fg_pricing__core__users__team]
-other = "Unlimited"  # TODO: translate
+other = "Ilimitados"
 
 [fg_pricing__core__connected_accounts]
-other = "Connected accounts"  # TODO: translate
+other = "Cuentas conectadas"
 
 [fg_pricing__core__connected_accounts__desc]
-other = "Extra accounts are $10/mo each"  # TODO: translate
+other = "Cada cuenta adicional cuesta 10 $ al mes"
 
 [fg_pricing__core__connected_accounts__starter]
-other = "5"  # TODO: translate
+other = "5"
 
 [fg_pricing__core__connected_accounts__growth]
-other = "15"  # TODO: translate
+other = "15"
 
 [fg_pricing__core__connected_accounts__team]
-other = "40"  # TODO: translate
+other = "40"
 
 [fg_pricing__core__ai_credits]
-other = "AI credits per month"  # TODO: translate
+other = "Créditos de IA al mes"
 
 [fg_pricing__core__ai_credits__desc]
-other = "Roughly 1 credit per piece of content. Buy more on demand"  # TODO: translate
+other = "Aproximadamente un crédito por pieza; compra más cuando los necesites"
 
 [fg_pricing__core__ai_credits__starter]
-other = "300"  # TODO: translate
+other = "300"
 
 [fg_pricing__core__ai_credits__growth]
-other = "900"  # TODO: translate
+other = "900"
 
 [fg_pricing__core__ai_credits__team]
-other = "3,000"  # TODO: translate
+other = "3.000"
 
 [fg_pricing__core__scheduling_horizon]
-other = "Scheduling horizon"  # TODO: translate
+other = "Horizonte de programación"
 
 [fg_pricing__core__scheduling_horizon__starter]
-other = "4 weeks"  # TODO: translate
+other = "4 semanas"
 
 [fg_pricing__core__scheduling_horizon__growth]
-other = "1 year"  # TODO: translate
+other = "1 año"
 
 [fg_pricing__core__scheduling_horizon__team]
-other = "Unlimited"  # TODO: translate
+other = "Ilimitado"
 
 [fg_pricing__audience]
-other = "The audience model"  # TODO: translate
+other = "Las dos partes del briefing"
 
 [fg_pricing__audience__thirty_point]
-other = "30-point audience model"  # TODO: translate
+other = "Perfil de audiencia de 30 puntos"
 
 [fg_pricing__audience__thirty_point__desc]
-other = "Demographics, psychographics, motivations, emotional drivers, values, personality, buying behaviour and expertise"  # TODO: translate
+other = "Datos demográficos y psicográficos, motivaciones, impulsores emocionales, valores, personalidad, comportamiento de compra y experiencia"
 
 [fg_pricing__audience__auto_build]
-other = "Built from a one-line description"  # TODO: translate
+other = "Creado desde una descripción de una línea"
 
 [fg_pricing__audience__auto_build__desc]
-other = "Describe your audience in a sentence; edit anything you disagree with"  # TODO: translate
+other = "Describe tu audiencia en una frase y modifica lo que no encaje"
 
 [fg_pricing__audience__angles]
-other = "Generate per audience and per angle"  # TODO: translate
+other = "Genera por audiencia y por enfoque"
 
 [fg_pricing__content]
-other = "Content creation"  # TODO: translate
+other = "Creación de contenido"
 
 [fg_pricing__content__ai_writing]
-other = "AI content writing"  # TODO: translate
+other = "Redacción de contenido con IA"
 
 [fg_pricing__content__ai_writing__desc]
-other = "30+ content types: blog posts, social, ads, case studies, how-tos, listicles, FAQs"  # TODO: translate
+other = "Más de 30 tipos: artículos, redes, anuncios, casos de éxito, tutoriales, listas y preguntas frecuentes"
 
 [fg_pricing__content__ai_images]
-other = "AI image generation"  # TODO: translate
+other = "Generación de imágenes con IA"
 
 [fg_pricing__content__bulk_create]
-other = "Bulk content creation"  # TODO: translate
+other = "Creación de contenido en lote"
 
 [fg_pricing__content__bulk_create__desc]
-other = "Hundreds of pieces from one set of parameters, with near-duplicates removed"  # TODO: translate
+other = "Cientos de piezas desde un conjunto de parámetros, eliminando casi duplicados"
 
 [fg_pricing__content__content_suggestions]
-other = "AI content suggestions"  # TODO: translate
+other = "Sugerencias de contenido con IA"
 
 [fg_pricing__content__translation]
-other = "AI translation"  # TODO: translate
+other = "Traducción con IA"
 
 [fg_pricing__content__translation__desc]
-other = "50+ languages, in your brand voice"  # TODO: translate
+other = "Más de 50 idiomas con tu voz de marca"
 
 [fg_pricing__content__knowledge_base]
-other = "Knowledge base"  # TODO: translate
+other = "Base de conocimiento"
 
 [fg_pricing__content__knowledge_base__desc]
-other = "Your docs, URLs and product facts, used as source material"  # TODO: translate
+other = "Tus documentos, URL y datos de producto utilizados como fuentes"
 
 [fg_pricing__content__brand_voice]
-other = "Brand voice configuration"  # TODO: translate
+other = "Configuración de voz de marca"
 
 [fg_pricing__publishing]
-other = "Publishing & scheduling"  # TODO: translate
+other = "Publicación y programación"
 
 [fg_pricing__publishing__social_publishing]
-other = "Social publishing"  # TODO: translate
+other = "Publicación en redes sociales"
 
 [fg_pricing__publishing__social_publishing__desc]
-other = "Facebook, Instagram, TikTok, X and LinkedIn, direct"  # TODO: translate
+other = "Publicación directa en Facebook, Instagram, TikTok, X y LinkedIn"
 
 [fg_pricing__publishing__wordpress]
-other = "WordPress publishing"  # TODO: translate
+other = "Publicación en WordPress"
 
 [fg_pricing__publishing__content_calendar]
-other = "Visual content calendar"  # TODO: translate
+other = "Calendario visual de contenidos"
 
 [fg_pricing__publishing__content_calendar__desc]
-other = "Schedule as you create, then adjust with drag and drop"  # TODO: translate
+other = "Programa mientras creas y ajusta después arrastrando y soltando"
 
 [fg_pricing__publishing__analytics]
-other = "Cross-channel analytics"  # TODO: translate
+other = "Analíticas entre canales"
 
 [fg_pricing__team_features]
-other = "Team & management"  # TODO: translate
+other = "Equipo y gestión"
 
 [fg_pricing__team_features__projects]
-other = "Multiple projects and brands"  # TODO: translate
+other = "Varios proyectos y marcas"
 
 [fg_pricing__team_features__team_members]
-other = "Team collaboration"  # TODO: translate
+other = "Colaboración en equipo"
 
 [fg_pricing__team_features__approval_workflows]
-other = "Approval workflows"  # TODO: translate
+other = "Flujos de aprobación"
 
 [fg_pricing__team_features__roles]
-other = "Role-based access control"  # TODO: translate
+other = "Control de acceso basado en roles"
 
 [fg_pricing__support]
-other = "Support"  # TODO: translate
+other = "Soporte"
 
 [fg_pricing__support__email_support]
-other = "Email support"  # TODO: translate
+other = "Soporte por correo"
 
 [fg_pricing__support__priority_support]
-other = "Priority support"  # TODO: translate
+other = "Soporte prioritario"
 
 [fg_pricing__support__dedicated_onboarding]
-other = "Dedicated onboarding"  # TODO: translate
+other = "Incorporación dedicada"
 
 
 [fg_pricing__subtitle]
-other = "Every plan gets the full 30-point audience model and every content type. Pay for scale, never for features."  # TODO: translate
+other = "Todos los planes incluyen el perfil completo de audiencia de 30 puntos y todos los tipos de contenido. Paga por escala, nunca por funciones."
 
 
 [fg_pricing__publishing__analytics__desc]
-other = "Likes, shares, comments, clicks, impressions, reach, saves and follower growth, normalised across channels"  # TODO: translate
+other = "Me gusta, compartidos, comentarios, clics, impresiones, alcance, guardados y crecimiento de seguidores, normalizados entre canales"
 
 
 [fg_pricing__team_features__approval_workflows__desc]
-other = "Nothing goes live without a yes"  # TODO: translate
+other = "Nada se publica sin un sí"
 
 [fg_pricing__team_features__client_portal]
-other = "Client approval portal"  # TODO: translate
+other = "Portal de aprobación para clientes"
 
 [fg_pricing__team_features__client_portal__desc]
-other = "Invite a client to review and sign off their own posts, when you turn approvals on"  # TODO: translate
+other = "Invita al cliente a revisar y aprobar sus publicaciones cuando actives las aprobaciones"
 
 [fg_pricing__team_features__no_shared_credentials]
-other = "No shared passwords"  # TODO: translate
+other = "Sin contraseñas compartidas"
 
 [fg_pricing__team_features__no_shared_credentials__desc]
-other = "Clients connect their own accounts. You publish on their behalf without ever handling their logins"  # TODO: translate
+other = "Los clientes conectan sus cuentas; tú publicas en su nombre sin gestionar sus credenciales"
 
 
 [fg_pricing__audience__brand_profiles]
-other = "Company, brand and offering profiles"  # TODO: translate
+other = "Perfiles de empresa, marca y oferta"
 
 [fg_pricing__audience__brand_profiles__desc]
-other = "What you do, how you are positioned and what you sell, so content is accurate about you"  # TODO: translate
+other = "Qué haces, cómo te posicionas y qué vendes para que el contenido sea fiel a tu negocio"
 
 [fg_pricing__audience__brand_analysis]
-other = "Profiles built from your website"  # TODO: translate
+other = "Perfiles creados desde tu web"
 
 [fg_pricing__audience__brand_analysis__desc]
-other = "Bazam reads your site and fills in positioning, offerings, audiences and competitors"  # TODO: translate
+other = "Bazam lee tu sitio y completa posicionamiento, ofertas, audiencias y competidores"
 
 [fg_pricing__audience__multi_brand]
-other = "Multiple brands per project"  # TODO: translate
+other = "Varias marcas por proyecto"
 
 [fg_pricing__audience__multi_brand__desc]
-other = "Each with their own offerings, voice and audiences. Personal brands too"  # TODO: translate
+other = "Cada una con sus ofertas, voz y audiencias; también marcas personales"
 
 [fg_cmp_tools__title]
 other = "Bazam vs the tools you're probably weighing up"  # TODO: translate
@@ -1047,121 +1047,290 @@ other = "Via Bazam"  # TODO: translate
 other = "MCP: audiences, voice, publishing"  # TODO: translate
 
 [fg_cmp_generic__title]
-other = "Bazam against the way it's done now"  # TODO: translate
+other = "Bazam frente a la forma habitual de hacerlo"
 
 [fg_cmp_generic__subtitle]
-other = "Most people cover this job with a chat assistant, an AI writing tool, a scheduler, or all three. Here's what each one leaves you to do yourself."  # TODO: translate
+other = "La mayoría cubre este trabajo con un asistente de chat, una herramienta de escritura con IA, un programador o los tres. Esto es lo que cada uno deja en tus manos."
 
 [fg_cmp_generic__chat]
-other = "A chat assistant"  # TODO: translate
+other = "Un asistente de chat"
 
 [fg_cmp_generic__writers]
-other = "AI writing tools"  # TODO: translate
+other = "Herramientas de escritura con IA"
 
 [fg_cmp_generic__schedulers]
-other = "Social schedulers"  # TODO: translate
+other = "Programadores de redes sociales"
 
 [fg_cmp_generic__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_generic__brief]
-other = "What it knows about your reader"  # TODO: translate
+other = "Lo que sabe sobre tu lector"
 
 [fg_cmp_generic__brief__reader]
-other = "Who it's writing to"  # TODO: translate
+other = "Para quién escribe"
 
 [fg_cmp_generic__brief__reader__chat]
-other = "Whatever you typed this time"  # TODO: translate
+other = "Lo que escribiste esta vez"
 
 [fg_cmp_generic__brief__reader__writers]
-other = "One line in a text box"  # TODO: translate
+other = "Una línea en un campo de texto"
 
 [fg_cmp_generic__brief__reader__schedulers]
-other = "Nobody. You write the post"  # TODO: translate
+other = "Para nadie. Tú escribes la publicación"
 
 [fg_cmp_generic__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
+other = "Un modelo de 30 puntos para cada audiencia"
 
 [fg_cmp_generic__brief__depth]
-other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+other = "Conoce sus motivaciones, valores y comportamiento de compra"
 
 [fg_cmp_generic__brief__persists]
-other = "Still knows next month"  # TODO: translate
+other = "Sigue sabiéndolo el mes que viene"
 
 [fg_cmp_generic__brief__persists__chat]
-other = "Gone with the chat"  # TODO: translate
+other = "Desaparece con el chat"
 
 [fg_cmp_generic__brief__persists__writers]
-other = "Only the sentence you saved"  # TODO: translate
+other = "Solo la frase que guardaste"
 
 [fg_cmp_generic__brief__persists__bazam]
-other = "The model is yours"  # TODO: translate
+other = "El modelo es tuyo"
 
 [fg_cmp_generic__brief__subject]
-other = "Knows your company, brand and offerings"  # TODO: translate
+other = "Conoce tu empresa, marca y ofertas"
 
 [fg_cmp_generic__brief__subject__desc]
-other = "Held as profiles, applied to everything you generate"  # TODO: translate
+other = "Se conservan como perfiles y se aplican a todo lo que generas"
 
 [fg_cmp_generic__brief__subject__chat]
-other = "Re-paste it every time"  # TODO: translate
+other = "Vuelve a pegarlo cada vez"
 
 [fg_cmp_generic__brief__subject__writers]
-other = "Brand voice only"  # TODO: translate
+other = "Solo la voz de marca"
 
 [fg_cmp_generic__generating]
-other = "Generating"  # TODO: translate
+other = "Generación"
 
 [fg_cmp_generic__generating__angles]
-other = "A different angle for each audience, from one brief"  # TODO: translate
+other = "Un ángulo distinto para cada audiencia a partir de un brief"
 
 [fg_cmp_generic__generating__angles__chat]
-other = "Only if you re-prompt"  # TODO: translate
+other = "Solo si vuelves a escribir el prompt"
 
 [fg_cmp_generic__generating__types]
-other = "Marketing content types built in"  # TODO: translate
+other = "Tipos de contenido de marketing integrados"
 
 [fg_cmp_generic__generating__types__bazam]
-other = "30+"  # TODO: translate
+other = "Más de 30"
 
 [fg_cmp_generic__generating__perchannel]
-other = "One brief becomes a version per platform"  # TODO: translate
+other = "Un brief se convierte en una versión por plataforma"
 
 [fg_cmp_generic__generating__perchannel__schedulers]
-other = "Same text everywhere"  # TODO: translate
+other = "El mismo texto en todas partes"
 
 [fg_cmp_generic__shipping]
-other = "Getting it out the door"  # TODO: translate
+other = "Publicación"
 
 [fg_cmp_generic__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
+other = "Publica en tus canales"
 
 [fg_cmp_generic__shipping__publishing__bazam]
-other = "6 platforms and your blog"  # TODO: translate
+other = "6 plataformas y tu blog"
 
 [fg_cmp_generic__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
+other = "Calendario de contenido y programación"
 
 [fg_cmp_generic__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
+other = "Traducción a más de 50 idiomas"
 
 [fg_cmp_generic__shipping__translation__chat]
-other = "One at a time, by hand"  # TODO: translate
+other = "De uno en uno y a mano"
 
 [fg_cmp_generic__shipping__analytics]
-other = "Analytics on what you published"  # TODO: translate
+other = "Analíticas de lo publicado"
 
 [fg_cmp_generic__shipping__analytics__bazam]
-other = "Normalised across channels"  # TODO: translate
+other = "Normalizadas entre canales"
 
 [fg_cmp_generic__shipping__approvals]
-other = "Approvals and client sign-off"  # TODO: translate
+other = "Aprobaciones y visto bueno del cliente"
 
 [fg_cmp_generic__shipping__approvals__desc]
-other = "Clients review in their own portal, without your passwords"  # TODO: translate
+other = "Los clientes revisan desde su propio portal, sin tus contraseñas"
 
 [fg_cmp_generic__shipping__approvals__bazam]
-other = "Clients keep their own logins"  # TODO: translate
+other = "Los clientes conservan sus propios accesos"
 
 [fg_cmp_generic__shipping__whole]
-other = "Written, scheduled and published in one place"  # TODO: translate
+other = "Redactado, programado y publicado en un solo lugar"
+
+
+[leadGenTitle]
+other = "Convierte tu web en una campaña de marketing lista para lanzar"
+
+[leadGenDescription]
+other = "Introduce la dirección de tu web y crearemos tus audiencias, redactaremos publicaciones y las dejaremos preparadas para publicar. Sin cuenta ni tarjeta. El marketing no puede ser más fácil."
+
+[leadGenButton]
+other = "Crear mi campaña gratis"
+
+[whatTheyCareAbout]
+other = "Lo que les importa"
+
+[writingTo]
+other = "Escrito para"
+
+[oneAnnouncement]
+other = "Un anuncio"
+
+[yourBrand]
+other = "Tu marca"
+
+[source]
+other = "Fuente"
+
+[yourEmail]
+other = "Tu correo electrónico"
+
+[userTypeQuestion]
+other = "¿Qué opción te describe mejor?"
+
+[chooseOption]
+other = "Elige una opción"
+
+[soloMarketer]
+other = "Profesional de marketing independiente"
+
+[smallInHouseTeam]
+other = "Equipo interno de marketing pequeño"
+
+[freelancerConsultant]
+other = "Freelance o consultor"
+
+[marketingAgency]
+other = "Agencia de marketing"
+
+[other]
+other = "Otra"
+
+[waitlistNote]
+other = "Sin spam y sin tarjeta. Al enviar este formulario aceptas nuestra <a href='%s' class='text-primary-600 dark:text-primary-500 hover:underline'>política de privacidad</a> y que te contactemos sobre el acceso anticipado."
+
+[freeTools]
+other = "Herramientas gratuitas"
+
+[product]
+other = "Producto"
+
+[menu_how_it_works]
+other = "Cómo funciona"
+
+[menu_audience_profiles]
+other = "Perfiles de audiencia"
+
+[menu_features]
+other = "Funciones"
+
+[menu_pricing]
+other = "Precios"
+
+[menu_contact]
+other = "Contacto"
+
+[menu_small_businesses]
+other = "Pequeñas empresas"
+
+[menu_website_marketing_plan]
+other = "Plan de marketing web"
+
+[menu_alternatives_compared]
+other = "Comparativa de alternativas"
+
+[menu_bazam_vs_chatgpt]
+other = "Bazam frente a ChatGPT"
+
+[menu_bazam_vs_anyword]
+other = "Bazam frente a Anyword"
+
+[menu_bazam_vs_blaze]
+other = "Bazam frente a Blaze"
+
+[previousAngle]
+other = "Ángulo anterior"
+
+[nextAngle]
+other = "Ángulo siguiente"
+
+[socialMedia]
+other = "Redes sociales"
+
+[brandOnPlatform]
+other = "%s en %s"
+
+[whatIsAudienceDrivenMarketing]
+other = "¿Qué es el marketing centrado en la audiencia?"
+
+[menu_ai_marketing_assistant]
+other = "Asistente de marketing con IA"
+
+[menu_ai_content_creation]
+other = "Creación de contenido con IA"
+
+[menu_content_ideas]
+other = "Ideas de contenido"
+
+[menu_campaigns]
+other = "Campañas"
+
+[menu_knowledge_base]
+other = "Base de conocimiento"
+
+[menu_content_calendar]
+other = "Calendario de contenido"
+
+[menu_direct_publishing]
+other = "Publicación directa"
+
+[menu_translation]
+other = "Traducción"
+
+[menu_projects]
+other = "Proyectos"
+
+[menu_team_collaboration]
+other = "Colaboración en equipo"
+
+[menu_desc_ai_marketing_assistant]
+other = "Crea, investiga, planifica y consulta resultados mediante una conversación."
+
+[menu_desc_audience_profiles]
+other = "Comprende con quién hablas antes de empezar a escribir."
+
+[menu_desc_ai_content_creation]
+other = "Crea más de 30 tipos de contenido sin partir de una página en blanco."
+
+[menu_desc_content_ideas]
+other = "Obtén temas relevantes según tu marca, audiencia y objetivos."
+
+[menu_desc_campaigns]
+other = "Mantén cada pieza vinculada a una audiencia y un objetivo claro."
+
+[menu_desc_knowledge_base]
+other = "Proporciona a Bazam tus datos, fuentes y directrices de marca reales."
+
+[menu_desc_content_calendar]
+other = "Planifica, programa y reorganiza el trabajo de todos los canales."
+
+[menu_desc_direct_publishing]
+other = "Publica contenido preparado para cada plataforma sin copiar y pegar."
+
+[menu_desc_translation]
+other = "Lleva campañas a más de 50 idiomas conservando tu voz."
+
+[menu_desc_projects]
+other = "Mantén separados el trabajo y el contexto de cada cliente o marca."
+
+[menu_desc_team_collaboration]
+other = "Comparte trabajo, controla el acceso y aprueba antes de publicar."

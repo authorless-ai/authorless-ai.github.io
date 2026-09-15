@@ -1165,3 +1165,94 @@ other = "Clients keep their own logins"  # TODO: translate
 
 [fg_cmp_generic__shipping__whole]
 other = "Written, scheduled and published in one place"  # TODO: translate
+
+
+[leadGenTitle]
+other = "Transforme seu site em uma campanha de marketing pronta para lançar"
+
+[leadGenDescription]
+other = "Digite o endereço do seu site e criaremos suas audiências, escreveremos posts e os deixaremos prontos para publicação. Sem conta ou cartão."
+
+[leadGenButton]
+other = "Criar minha campanha grátis"
+
+[whatTheyCareAbout]
+other = "O que importa para eles"
+
+[writingTo]
+other = "Escrito para"
+
+[oneAnnouncement]
+other = "Um anúncio"
+
+[yourBrand]
+other = "Sua marca"
+
+[source]
+other = "Fonte"
+
+[yourEmail]
+other = "Seu email"
+
+[userTypeQuestion]
+other = "Qual opção descreve você melhor?"
+
+[chooseOption]
+other = "Escolha uma opção"
+
+[soloMarketer]
+other = "Profissional de marketing independente"
+
+[smallInHouseTeam]
+other = "Pequena equipe interna de marketing"
+
+[freelancerConsultant]
+other = "Freelancer ou consultor"
+
+[marketingAgency]
+other = "Agência de marketing"
+
+[other]
+other = "Outra"
+
+[waitlistNote]
+other = "Sem spam e sem cartão. Ao enviar este formulário, você aceita nossa <a href='%s' class='text-primary-600 dark:text-primary-500 hover:underline'>política de privacidade</a> e que entremos em contato sobre o acesso antecipado."
+
+[freeTools]
+other = "Ferramentas gratuitas"
+
+[product]
+other = "Produto"
+
+[menu_how_it_works]
+other = "Como funciona"
+
+[menu_audience_profiles]
+other = "Perfis de audiência"
+
+[menu_features]
+other = "Recursos"
+
+[menu_pricing]
+other = "Preços"
+
+[menu_contact]
+other = "Contato"
+
+[menu_small_businesses]
+other = "Pequenas empresas"
+
+[menu_website_marketing_plan]
+other = "Plano de marketing do site"
+
+[menu_alternatives_compared]
+other = "Comparação de alternativas"
+
+[menu_bazam_vs_chatgpt]
+other = "Bazam vs ChatGPT"
+
+[menu_bazam_vs_anyword]
+other = "Bazam vs Anyword"
+
+[menu_bazam_vs_blaze]
+other = "Bazam vs Blaze"

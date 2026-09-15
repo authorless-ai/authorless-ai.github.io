@@ -6,7 +6,7 @@
     <div class="p-4 py-6 mx-auto max-w-screen-xl md:p-8 lg:-10">
         <div class="grid grid-cols-2 gap-8 lg:grid-cols-6">
             <div class="col-span-2">
-                <a href="/" class="flex items-center mb-2 text-2xl font-semibold text-gray-900 sm:mb-0 dark:text-white">
+                <a href="{{ .Site.Home.RelPermalink }}" class="flex items-center mb-2 text-2xl font-semibold text-gray-900 sm:mb-0 dark:text-white">
                     {{/**
                     {{ $logo := resources.Get "images/logo.png" }}
                     <img src="{{ $logo.RelPermalink }}" class="mr-3 h-6 sm:h-9" alt="{{ .Site.Title }} Logo" />
@@ -15,12 +15,12 @@
                 </a>
                 <p class="my-4 text-gray-500 dark:text-gray-400">{{ T "footerTagline" }}</p>
                 {{ with .Site.Params.socials }}
-                <ul class="flex flex-wrap gap-4 mt-5 mb-6" aria-label="Social media">
+                <ul class="flex flex-wrap gap-4 mt-5 mb-6" aria-label="{{ T "socialMedia" }}">
                   {{ range . }}
                   <li>
                     <a href="{{ .url }}" rel="me noopener" target="_blank"
                        class="inline-flex items-center text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white"
-                       aria-label="{{ $.Site.Title }} on {{ .name }}">
+                       aria-label="{{ printf (T "brandOnPlatform") $.Site.Title .name }}">
                       {{ if eq .icon "instagram" }}
                       <svg class="w-6 h-6" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
                         <path fill="currentColor" fill-rule="evenodd" d="M3 8a5 5 0 0 1 5-5h8a5 5 0 0 1 5 5v8a5 5 0 0 1-5 5H8a5 5 0 0 1-5-5V8Zm5-3a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V8a3 3 0 0 0-3-3H8Zm7.597 2.214a1 1 0 0 1 1-1h.01a1 1 0 1 1 0 2h-.01a1 1 0 0 1-1-1ZM12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm-5 3a5 5 0 1 1 10 0 5 5 0 0 1-10 0Z" clip-rule="evenodd"/>
@@ -35,7 +35,7 @@
                   <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "company" }}</h2>
                   <ul class="flex lg:flex-col justify-between mt-5 space-x-4 text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
-                      <a href="{{ $contact.Permalink }}" class="hover:underline">{{ T "contactUs" }}</a>
+                      <a href="{{ partial "menu-url.html" (dict "item" (dict "Name" "Contact" "URL" "/contact/") "site" .Site) }}" class="hover:underline">{{ T "contactUs" }}</a>
                     </li>
                     <li class="mb-4">
                       <a href="{{- .Site.Params.privacyPolicy -}}" class="hover:underline">{{ T "privacyPolicy" }}</a>
@@ -92,28 +92,28 @@
                   {{ range .Site.Menus.main }}
                     {{ if ne .Identifier "features" }}
                     <li class="mb-4">
-                        <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
+                        <a href="{{ partial "menu-url.html" (dict "item" . "site" $.Site) }}" class="hover:underline">{{ T (printf "menu_%s" (replace (lower .Name) " " "_")) }}</a>
                     </li>
                     {{ end }}
                   {{ end }}
                 </ul>
             </div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Solutions</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "solutions" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                   {{ range .Site.Menus.solutionsmenu }}
                     <li class="mb-4">
-                        <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
+                        <a href="{{ partial "menu-url.html" (dict "item" . "site" $.Site) }}" class="hover:underline">{{ T (printf "menu_%s" (replace (lower .Name) " " "_")) }}</a>
                     </li>
                   {{ end }}
                 </ul>
             </div>
             <div class="lg:mx-auto">
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Free tools</h2>
+                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "freeTools" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                   {{ range .Site.Menus.toolsmenu }}
                     <li class="mb-4">
-                        <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
+                        <a href="{{ partial "menu-url.html" (dict "item" . "site" $.Site) }}" class="hover:underline">{{ T (printf "menu_%s" (replace (lower .Name) " " "_")) }}</a>
                     </li>
                   {{ end }}
                 </ul>
@@ -125,11 +125,11 @@
                         <a href="/audience-driven-marketing/" class="hover:underline">{{ T "whatIsAudienceDrivenMarketing" }}</a>
                     </li>
                     <li class="mb-4">
-                        <a href="/#early-access" class="hover:underline">{{ T "signUp" }}</a>
+                        <a href="{{ .Site.Home.RelPermalink }}#early-access" class="hover:underline">{{ T "signUp" }}</a>
                     </li>
                     {{ range .Site.Menus.comparemenu }}
                       <li class="mb-4">
-                          <a href="{{ .URL }}" class="hover:underline">{{ .Name }}</a>
+                          <a href="{{ partial "menu-url.html" (dict "item" . "site" $.Site) }}" class="hover:underline">{{ T (printf "menu_%s" (replace (lower .Name) " " "_")) }}</a>
                       </li>
                     {{ end }}
                     <li class="mb-4">
@@ -174,7 +174,7 @@
             */}}
         </div>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
-        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. {{ T "allRightsReserved" }}</span>
+        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="{{ $.Site.Home.RelPermalink }}">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. {{ T "allRightsReserved" }}</span>
     </div>
   {{ end }}
 </footer>

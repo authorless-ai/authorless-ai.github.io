@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Bazam alternatives, compared"
+translationKey: alternatives
 superTitle: "Head to head"
 description: "How Bazam compares to the tools people usually reach for first: a chat assistant, an AI writing tool, or a scheduler. Written for someone, then scheduled and published."
 ctaText: "Get early access"

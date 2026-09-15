@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Bazam vs ChatGPT"
+translationKey: alternative-chatgpt
 superTitle: "A straight comparison"
 description: "ChatGPT writes the draft and stops. Bazam knows which customer it's for, still knows next month, and posts it to six platforms for you."
 ctaText: "Get early access"

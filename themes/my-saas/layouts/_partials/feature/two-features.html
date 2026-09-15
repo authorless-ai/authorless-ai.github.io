@@ -103,7 +103,7 @@
 
             {{ if $imageSrc }}
             <div class="relative overflow-hidden order-last mb-6 sm:mx-4 md:mt-0 {{ if $isEven }}md:order-1{{ else }}md:order-2{{ end }} rounded-xl {{ cond $isEven "md:rounded-e-xl" "md:rounded-s-xl" }}">
-                <img class="absolute inset-0 w-full h-full object-none object-top-{{ cond $isEven "right" "left" }}" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
+                <img class="absolute inset-0 w-full h-full object-none object-top-{{ cond $isEven "right" "left" }}" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="">
                 <div class="relative z-10 sm:p-4 md:p-8">
                     <div class="sm:backdrop-blur-[54px] bg-white/54 rounded-xl sm:shadow-xl p-4">
                         <img class="flex rounded-lg w-full" src="{{ $imageSrc }}"

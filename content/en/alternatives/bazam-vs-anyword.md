@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Bazam vs Anyword"
+translationKey: alternative-anyword
 superTitle: "A straight comparison"
 description: "Anyword scores your copy after you write it. Bazam writes it to the customer, then schedules and publishes it to six platforms and your blog. From $39."
 ctaText: "Get early access"

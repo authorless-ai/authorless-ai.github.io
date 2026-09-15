@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Automatically write and publish social and blog posts, then fetch analytics"
+translationKey: how-it-works
 superTitle: "How Bazam works"
 description: "From a one-line description of your reader to content written, adapted per platform, translated, scheduled, published and measured. The whole pipeline in one place."
 ctaText: "Get early access"

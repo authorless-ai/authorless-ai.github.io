@@ -52,7 +52,7 @@
           {{ end }}
         </div>
         <div class="relative overflow-hidden mb-6 sm:mx-4 md:mt-0 rounded-xl md:rounded-s-xl">
-          <img class="absolute inset-0 w-full h-full object-none object-top-left" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="Cover Swirl">
+          <img class="absolute inset-0 w-full h-full object-none object-top-left" src="{{ with resources.Get "images/bg-swirl.png" }}{{ .RelPermalink }}{{ end }}" alt="">
           <div class="relative z-10 sm:p-4 md:p-8">
             <div class="sm:backdrop-blur-[54px] bg-white/54 rounded-xl sm:shadow-xl p-4">
               <img class="flex rounded-lg w-full" src="{{ $data.title_image | absURL }}" alt="{{ $data.title_image_alt | default $data.title }}">
@@ -100,7 +100,7 @@
 
         {{ with .sample }}
         <div class="flex-1 rounded-xl bg-white dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700 p-4">
-          <p class="mb-2 text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">What they care about</p>
+          <p class="mb-2 text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">{{ T "whatTheyCareAbout" }}</p>
           <p class="text-base leading-relaxed text-gray-800 dark:text-gray-200">{{ . | safeHTML }}</p>
         </div>
         {{ end }}

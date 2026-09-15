@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Create content that knows exactly who it's talking to"
+translationKey: audience-profile
 #superTitle: "More knowledge, better content, more engagement"
 description: "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every piece of content you generate speaks to that person."
 ctaText: "Get early access"

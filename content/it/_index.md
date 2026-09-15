@@ -8,28 +8,28 @@ youtubeUrl: "4iu6ap8dJbU"
 
 segmentPills:
   - title: "Per le agenzie"
-    url: "/it/solutions/agenzie/"
+    url: "/it/soluzioni/agenzie/"
   - title: "Per le aziende"
-    url: "/it/solutions/aziende/"
+    url: "/it/soluzioni/aziende/"
   - title: "Per i leader di pensiero"
-    url: "/it/solutions/leader-di-pensiero/"
+    url: "/it/soluzioni/leader-di-pensiero/"
   - title: "Per le no-profit"
-    url: "/it/solutions/no-profit/"
+    url: "/it/soluzioni/no-profit/"
   - title: "Per i creator"
-    url: "/it/solutions/influencer/"
+    url: "/it/soluzioni/influencer/"
   - title: "Per i dropshipper"
-    url: "/it/solutions/dropshipper/"
+    url: "/it/soluzioni/dropshipper/"
 
 introFeatures:
   - title: "Contenuti alla velocità della conversazione"
     description: "Dì all'agente di cosa hai bisogno — articoli per il blog, campagne social, comunicati stampa — e ottieni bozze in linea con il brand in minuti, non in giorni."
-    url: "/it/features/scrittura-di-contenuti/"
+    url: "/it/funzionalita/scrittura-di-contenuti/"
   - title: "La tua brand intelligence, sempre attiva"
     description: "L'agente assorbe la voce del tuo brand, le personas del pubblico, la base di conoscenza e la cronologia delle campagne. Chiunque nel tuo team può accedervi istantaneamente tramite una chat."
-    url: "/it/features/strategia-di-marketing/"
+    url: "/it/funzionalita/strategia-di-marketing/"
   - title: "Ogni canale, un'unica dashboard"
     description: "Monitora engagement, portata e crescita su tutte le tue piattaforme in un'unica vista. Chiedi all'agente un riepilogo invece di accedere a cinque strumenti diversi."
-    url: "/it/features/agente/"
+    url: "/it/funzionalita/agente/"
 
 carousel:
   title: "Guardalo in azione"
@@ -56,27 +56,27 @@ solutionsCards:
   cards:
      - title: Per le agenzie di marketing
        description: "Gestisci più account clienti senza aumentare il personale. Il tuo agente IA gestisce contenuti e reportistica così il tuo team può concentrarsi sull'acquisizione di nuovi clienti."
-       url: "/it/solutions/agenzie/"
+       url: "/it/soluzioni/agenzie/"
        icon: bullhorn
      - title: Per le aziende
        description: "Ottieni un'operazione di contenuti coerente e professionale senza assumere un intero team di marketing. L'agente crea, pianifica e pubblica per te."
-       url: "/it/solutions/aziende/"
+       url: "/it/soluzioni/aziende/"
        icon: briefcase
      - title: Per esperti e leader di pensiero
        description: "Mantieni un flusso costante di contenuti autentici e approfonditi che costruiscono la tua autorevolezza — senza passare la giornata a scrivere post."
-       url: "/it/solutions/leader-di-pensiero/"
+       url: "/it/soluzioni/leader-di-pensiero/"
        icon: lightbulb
      - title: Per no-profit e organizzazioni benefiche
        description: "Ottieni di più con budget ridotti grazie a contenuti alimentati dall'IA che amplificano la tua causa e stimolano le donazioni."
-       url: "/it/solutions/no-profit/"
+       url: "/it/soluzioni/no-profit/"
        icon: heart
      - title: Per creator e influencer
        description: "Scala i tuoi contenuti su ogni piattaforma mantenendo la tua voce personale coerente e autentica."
-       url: "/it/solutions/influencer/"
+       url: "/it/soluzioni/influencer/"
        icon: star
      - title: Per i dropshipper
        description: "Genera descrizioni di prodotti, campagne social e annunci su larga scala — il tutto basato sul tuo catalogo e sul pubblico target."
-       url: "/it/solutions/dropshipper/"
+       url: "/it/soluzioni/dropshipper/"
        icon: truck
 
 featureCards:
@@ -85,42 +85,42 @@ featureCards:
   cards:
   - title: "Creazione di contenuti IA"
     description: "Articoli per il blog, aggiornamenti social, comunicati stampa, testi pubblicitari — l'agente scrive tutto, su misura per la voce del tuo brand e il tuo pubblico."
-    url: "/it/features/scrittura-di-contenuti/"
+    url: "/it/funzionalita/scrittura-di-contenuti/"
     icon: edit
 
   - title: "Pianificazione e calendario"
     description: "Pianifica e accoda i contenuti su tutti i canali con un calendario visuale. L'agente può suggerire gli orari ottimali e colmare le lacune."
-    url: "/it/features/pianificazione/"
+    url: "/it/funzionalita/pianificazione/"
     icon: calendar
 
   - title: "Pubblicazione multipiattaforma"
     description: "Pubblica direttamente su WordPress, Facebook, Instagram, LinkedIn, X, YouTube e TikTok da un unico posto."
-    url: "/it/features/pubblicazione/"
+    url: "/it/funzionalita/pubblicazione/"
     icon: upload
 
   - title: "Dashboard analitica"
     description: "Monitora engagement, portata, clic e crescita dei follower su tutti i canali in un'unica vista centralizzata. Basta con i fogli di calcolo."
-    url: "/it/features/agente/"
+    url: "/it/funzionalita/agente/"
     icon: chart
 
   - title: "Voce del brand e strategia"
     description: "Definisci la voce del brand, le personas del pubblico e gli obiettivi della campagna. L'agente li utilizza per garantire che ogni contenuto sia in linea con il brand."
-    url: "/it/features/strategia-di-marketing/"
+    url: "/it/funzionalita/strategia-di-marketing/"
     icon: briefcase
 
   - title: "Base di conoscenza"
     description: "Proteggi il tuo brand dagli errori dell'IA. Carica i tuoi documenti e l'agente scrive dai tuoi fatti — non dalla sua immaginazione. Meno correzioni, più crescita."
-    url: "/it/features/base-di-conoscenza/"
+    url: "/it/funzionalita/base-di-conoscenza/"
     icon: folder
 
   - title: "Supporto multilingue"
     description: "Crea e traduci contenuti in più lingue. Gestisci campagne in più mercati contemporaneamente."
-    url: "/it/features/traduzione/"
+    url: "/it/funzionalita/traduzione/"
     icon: language
 
   - title: "Collaborazione del team"
     description: "Gestisci più marchi e membri del team con permessi granulari e organizzazione basata su progetti."
-    url: "/it/features/team/"
+    url: "/it/funzionalita/team/"
     icon: users
 
 features:
@@ -183,13 +183,13 @@ topFeatures:
   list:
     - title: "Agente IA autonomo"
       description: "Crea contenuti, estrai report, genera idee e gestisci campagne — il tutto attraverso un'unica conversazione intelligente."
-      target: /it/features/agente/
+      target: /it/funzionalita/agente/
     - title: "Intelligence centralizzata"
       description: "La voce del tuo brand, i dati sui prodotti e le linee guida — sempre referenziati, mai dimenticati. Proteggi il tuo brand dalle supposizioni dell'IA generica."
-      target: /it/features/base-di-conoscenza/
+      target: /it/funzionalita/base-di-conoscenza/
     - title: "Scala senza assumere"
       description: "Accetta più lavoro senza far crescere proporzionalmente il tuo team. L'agente gestisce il lavoro pesante."
-      target: /it/features/team/
+      target: /it/funzionalita/team/
 
 faq:
   - q: "Come faccio content marketing senza un team di marketing?"

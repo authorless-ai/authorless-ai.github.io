@@ -35,36 +35,33 @@ languages:
     locale: 'en-US'
     label: 'English'
     weight: 1
-  # Translations are parked while the site is repositioned around the
-  # 30-Point Audience Model. Re-enable a language once its content has been
-  # rewritten — the old trees still describe the pre-MVP product.
   fr:
     contentDir: 'content/fr'
-    disabled: true
+    disabled: false
     locale: 'fr'
     label: 'Français'
     weight: 2
   es:
     contentDir: 'content/es'
-    disabled: true
+    disabled: false
     locale: 'es'
     label: 'Español'
     weight: 3
   de:
     contentDir: 'content/de'
-    disabled: true
+    disabled: false
     locale: 'de'
     label: 'Deutsch'
     weight: 4
   pt:
     contentDir: 'content/pt'
-    disabled: true
+    disabled: false
     locale: 'pt'
     label: 'Português'
     weight: 5
   it:
     contentDir: 'content/it'
-    disabled: true
+    disabled: false
     locale: 'it'
     label: 'Italiano'
     weight: 6

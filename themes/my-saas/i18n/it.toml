@@ -1165,3 +1165,94 @@ other = "Clients keep their own logins"  # TODO: translate
 
 [fg_cmp_generic__shipping__whole]
 other = "Written, scheduled and published in one place"  # TODO: translate
+
+
+[leadGenTitle]
+other = "Trasforma il tuo sito in una campagna di marketing pronta al lancio"
+
+[leadGenDescription]
+other = "Inserisci il tuo sito: creeremo il pubblico, scriveremo i post e li prepareremo per la pubblicazione. Nessun account o carta richiesti."
+
+[leadGenButton]
+other = "Crea la mia campagna gratuita"
+
+[whatTheyCareAbout]
+other = "Ciò che conta per loro"
+
+[writingTo]
+other = "Scritto per"
+
+[oneAnnouncement]
+other = "Un annuncio"
+
+[yourBrand]
+other = "Il tuo brand"
+
+[source]
+other = "Fonte"
+
+[yourEmail]
+other = "La tua email"
+
+[userTypeQuestion]
+other = "Quale profilo ti descrive meglio?"
+
+[chooseOption]
+other = "Scegli un'opzione"
+
+[soloMarketer]
+other = "Marketer indipendente"
+
+[smallInHouseTeam]
+other = "Piccolo team marketing interno"
+
+[freelancerConsultant]
+other = "Freelance o consulente"
+
+[marketingAgency]
+other = "Agenzia di marketing"
+
+[other]
+other = "Altro"
+
+[waitlistNote]
+other = "Niente spam e nessuna carta. Inviando il modulo accetti la nostra <a href='%s' class='text-primary-600 dark:text-primary-500 hover:underline'>informativa sulla privacy</a> e di essere contattato per l'accesso anticipato."
+
+[freeTools]
+other = "Strumenti gratuiti"
+
+[product]
+other = "Prodotto"
+
+[menu_how_it_works]
+other = "Come funziona"
+
+[menu_audience_profiles]
+other = "Profili del pubblico"
+
+[menu_features]
+other = "Funzionalità"
+
+[menu_pricing]
+other = "Prezzi"
+
+[menu_contact]
+other = "Contatti"
+
+[menu_small_businesses]
+other = "Piccole imprese"
+
+[menu_website_marketing_plan]
+other = "Piano marketing del sito"
+
+[menu_alternatives_compared]
+other = "Confronto delle alternative"
+
+[menu_bazam_vs_chatgpt]
+other = "Bazam vs ChatGPT"
+
+[menu_bazam_vs_anyword]
+other = "Bazam vs Anyword"
+
+[menu_bazam_vs_blaze]
+other = "Bazam vs Blaze"

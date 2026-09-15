@@ -31,7 +31,7 @@ CookieConsent.run({
     },
     language: {
         default: "en",
-        autoDetect: "browser",
+        autoDetect: "document",
         translations: {
             en: {
                 consentModal: {
@@ -67,6 +67,44 @@ CookieConsent.run({
                         {
                             title: "More information",
                             description: "For any query in relation to our policy on cookies and your choices, please visit our <a class=\"cc__link\" href=\"https://app.bazam.ai/pages/legals/privacy-policy/\">Privacy Policy</a> or <a class=\"cc__link\" href=\"https://app.bazam.ai/pages/legals/terms/\">Terms and Conditions</a> page."
+                        }
+                    ]
+                }
+            },
+            es: {
+                consentModal: {
+                    title: "Usamos cookies",
+                    description: "Nuestro sitio utiliza cookies esenciales para funcionar y cookies analíticas para entender cómo se usa. Puedes aceptar todas, rechazar las analíticas o gestionar tus preferencias.",
+                    acceptAllBtn: "Aceptar todas",
+                    acceptNecessaryBtn: "Rechazar analíticas",
+                    showPreferencesBtn: "Gestionar preferencias",
+                    footer: "<a href=\"https://app.bazam.ai/pages/legals/privacy-policy/\">Política de privacidad</a>\n<a href=\"https://app.bazam.ai/pages/legals/terms/\">Términos y condiciones</a>"
+                },
+                preferencesModal: {
+                    title: "Centro de preferencias de consentimiento",
+                    acceptAllBtn: "Aceptar todas",
+                    acceptNecessaryBtn: "Rechazar analíticas",
+                    savePreferencesBtn: "Guardar preferencias",
+                    closeIconLabel: "Cerrar",
+                    serviceCounterLabel: "Servicio|Servicios",
+                    sections: [
+                        {
+                            title: "Tu privacidad",
+                            description: "Cuando visitas nuestro sitio, este puede guardar o recuperar información en tu navegador, principalmente mediante cookies. Puedes decidir qué categorías permites; bloquear algunas puede afectar al funcionamiento del sitio."
+                        },
+                        {
+                            title: "Cookies estrictamente necesarias <span class=\"pm__badge\">Siempre activas</span>",
+                            description: "Estas cookies son esenciales para que el sitio funcione y no pueden desactivarse. Se establecen al solicitar servicios como guardar preferencias, iniciar sesión o completar formularios.",
+                            linkedCategory: "necessary"
+                        },
+                        {
+                            title: "Cookies analíticas",
+                            description: "Estas cookies nos permiten medir visitas y fuentes de tráfico para mejorar el sitio. La información se agrega y es anónima.",
+                            linkedCategory: "analytics"
+                        },
+                        {
+                            title: "Más información",
+                            description: "Si tienes dudas sobre las cookies o tus opciones, consulta nuestra <a class=\"cc__link\" href=\"https://app.bazam.ai/pages/legals/privacy-policy/\">Política de privacidad</a> o los <a class=\"cc__link\" href=\"https://app.bazam.ai/pages/legals/terms/\">Términos y condiciones</a>."
                         }
                     ]
                 }

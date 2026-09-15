@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Bazam vs Blaze"
+translationKey: alternative-blaze
 superTitle: "A straight comparison"
 description: "Blaze writes for your brand. Bazam writes for each of your customers, then schedules and publishes it. From $39 against their $79."
 ctaText: "Get early access"

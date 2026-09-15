@@ -1165,3 +1165,94 @@ other = "Clients keep their own logins"  # TODO: translate
 
 [fg_cmp_generic__shipping__whole]
 other = "Written, scheduled and published in one place"  # TODO: translate
+
+
+[leadGenTitle]
+other = "Transformez votre site en campagne marketing prête à lancer"
+
+[leadGenDescription]
+other = "Saisissez l'adresse de votre site : nous créerons vos audiences, rédigerons des publications et les préparerons. Aucun compte ni carte requis."
+
+[leadGenButton]
+other = "Créer ma campagne gratuite"
+
+[whatTheyCareAbout]
+other = "Ce qui compte pour eux"
+
+[writingTo]
+other = "Écrit pour"
+
+[oneAnnouncement]
+other = "Une annonce"
+
+[yourBrand]
+other = "Votre marque"
+
+[source]
+other = "Source"
+
+[yourEmail]
+other = "Votre e-mail"
+
+[userTypeQuestion]
+other = "Quel profil vous décrit le mieux ?"
+
+[chooseOption]
+other = "Choisissez une option"
+
+[soloMarketer]
+other = "Responsable marketing indépendant"
+
+[smallInHouseTeam]
+other = "Petite équipe marketing interne"
+
+[freelancerConsultant]
+other = "Freelance ou consultant"
+
+[marketingAgency]
+other = "Agence marketing"
+
+[other]
+other = "Autre"
+
+[waitlistNote]
+other = "Aucun spam ni carte bancaire. En envoyant ce formulaire, vous acceptez notre <a href='%s' class='text-primary-600 dark:text-primary-500 hover:underline'>politique de confidentialité</a> et que nous vous contactions au sujet de l'accès anticipé."
+
+[freeTools]
+other = "Outils gratuits"
+
+[product]
+other = "Produit"
+
+[menu_how_it_works]
+other = "Fonctionnement"
+
+[menu_audience_profiles]
+other = "Profils d'audience"
+
+[menu_features]
+other = "Fonctionnalités"
+
+[menu_pricing]
+other = "Tarifs"
+
+[menu_contact]
+other = "Contact"
+
+[menu_small_businesses]
+other = "Petites entreprises"
+
+[menu_website_marketing_plan]
+other = "Plan marketing de site web"
+
+[menu_alternatives_compared]
+other = "Comparatif des alternatives"
+
+[menu_bazam_vs_chatgpt]
+other = "Bazam face à ChatGPT"
+
+[menu_bazam_vs_anyword]
+other = "Bazam face à Anyword"
+
+[menu_bazam_vs_blaze]
+other = "Bazam face à Blaze"

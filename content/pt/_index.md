@@ -8,28 +8,28 @@ youtubeUrl: "4iu6ap8dJbU"
 
 segmentPills:
   - title: "Para Agências"
-    url: "/pt/solutions/agencias/"
+    url: "/pt/solucoes/agencias/"
   - title: "Para Empresas"
-    url: "/pt/solutions/empresas/"
+    url: "/pt/solucoes/empresas/"
   - title: "Para Líderes de Opinião"
-    url: "/pt/solutions/lideres-de-opiniao/"
+    url: "/pt/solucoes/lideres-de-opiniao/"
   - title: "Para ONGs"
-    url: "/pt/solutions/organizacoes-sem-fins-lucrativos/"
+    url: "/pt/solucoes/organizacoes-sem-fins-lucrativos/"
   - title: "Para Criadores"
-    url: "/pt/solutions/influenciadores/"
+    url: "/pt/solucoes/influenciadores/"
   - title: "Para Dropshippers"
-    url: "/pt/solutions/dropshippers/"
+    url: "/pt/solucoes/dropshippers/"
 
 introFeatures:
   - title: "Conteúdo na Velocidade da Conversa"
     description: "Diga ao agente o que você precisa — posts de blog, campanhas sociais, comunicados de imprensa — e receba rascunhos alinhados com sua marca em minutos, não em dias."
-    url: "/pt/features/redacao-de-conteudo/"
+    url: "/pt/funcionalidades/redacao-de-conteudo/"
   - title: "Sua Inteligência de Marca, Sempre Ativa"
     description: "O agente absorve sua voz de marca, personas de audiência, base de conhecimento e histórico de campanhas. Qualquer pessoa da equipe pode acessar tudo instantaneamente pelo chat."
-    url: "/pt/features/estrategia-de-marketing/"
+    url: "/pt/funcionalidades/estrategia-de-marketing/"
   - title: "Todos os Canais, Um Painel"
     description: "Acompanhe engajamento, alcance e crescimento em todas as suas plataformas em uma única visualização. Peça ao agente um resumo em vez de acessar cinco ferramentas diferentes."
-    url: "/pt/features/agente/"
+    url: "/pt/funcionalidades/agente/"
 
 carousel:
   title: "Veja em Ação"
@@ -56,27 +56,27 @@ solutionsCards:
   cards:
      - title: Para Agências de Marketing
        description: "Gerencie mais contas de clientes sem precisar de mais funcionários. Seu agente de IA cuida do conteúdo e dos relatórios para que sua equipe foque em conquistar novos negócios."
-       url: "/pt/solutions/agencias/"
+       url: "/pt/solucoes/agencias/"
        icon: bullhorn
      - title: Para Empresas
        description: "Tenha uma operação de conteúdo consistente e profissional sem precisar contratar uma equipe de marketing completa. O agente cria, agenda e publica por você."
-       url: "/pt/solutions/empresas/"
+       url: "/pt/solucoes/empresas/"
        icon: briefcase
      - title: Para Especialistas e Líderes de Opinião
        description: "Mantenha um fluxo constante de conteúdo autêntico e perspicaz que constrói sua autoridade — sem passar o dia escrevendo posts."
-       url: "/pt/solutions/lideres-de-opiniao/"
+       url: "/pt/solucoes/lideres-de-opiniao/"
        icon: lightbulb
      - title: Para ONGs e Instituições Beneficentes
        description: "Estique orçamentos pequenos com conteúdo impulsionado por IA que amplifica sua causa e impulsiona doações."
-       url: "/pt/solutions/organizacoes-sem-fins-lucrativos/"
+       url: "/pt/solucoes/organizacoes-sem-fins-lucrativos/"
        icon: heart
      - title: Para Criadores e Influenciadores
        description: "Escale seu conteúdo em todas as plataformas mantendo sua voz pessoal consistente e genuína."
-       url: "/pt/solutions/influenciadores/"
+       url: "/pt/solucoes/influenciadores/"
        icon: star
      - title: Para Dropshippers
        description: "Gere descrições de produtos, campanhas sociais e anúncios em escala — tudo baseado no seu catálogo e público-alvo."
-       url: "/pt/solutions/dropshippers/"
+       url: "/pt/solucoes/dropshippers/"
        icon: truck
 
 featureCards:
@@ -85,42 +85,42 @@ featureCards:
   cards:
   - title: "Criação de Conteúdo com IA"
     description: "Posts de blog, atualizações sociais, comunicados de imprensa, textos publicitários — o agente escreve tudo, personalizado para sua voz de marca e audiência."
-    url: "/pt/features/redacao-de-conteudo/"
+    url: "/pt/funcionalidades/redacao-de-conteudo/"
     icon: edit
 
   - title: "Agendamento e Calendário"
     description: "Planeje e organize conteúdo em todos os canais com um calendário visual. O agente pode sugerir horários ideais e preencher lacunas."
-    url: "/pt/features/agendamento/"
+    url: "/pt/funcionalidades/agendamento/"
     icon: calendar
 
   - title: "Publicação Multiplataforma"
     description: "Publique diretamente no WordPress, Facebook, Instagram, LinkedIn, X, YouTube e TikTok a partir de um só lugar."
-    url: "/pt/features/publicacao/"
+    url: "/pt/funcionalidades/publicacao/"
     icon: upload
 
   - title: "Painel de Análises"
     description: "Acompanhe engajamento, alcance, cliques e crescimento de seguidores em todos os canais em uma visualização centralizada. Sem mais bagunça com planilhas."
-    url: "/pt/features/agente/"
+    url: "/pt/funcionalidades/agente/"
     icon: chart
 
   - title: "Voz de Marca e Estratégia"
     description: "Defina voz de marca, personas de audiência e objetivos de campanha. O agente usa tudo isso para garantir que cada peça de conteúdo esteja alinhada com sua marca."
-    url: "/pt/features/estrategia-de-marketing/"
+    url: "/pt/funcionalidades/estrategia-de-marketing/"
     icon: briefcase
 
   - title: "Base de Conhecimento"
     description: "Proteja sua marca contra erros da IA. Envie seus documentos e o agente escreve a partir dos seus fatos — não da imaginação dele. Menos correções, mais crescimento."
-    url: "/pt/features/base-de-conhecimento/"
+    url: "/pt/funcionalidades/base-de-conhecimento/"
     icon: folder
 
   - title: "Suporte Multi-idiomas"
     description: "Crie e traduza conteúdo em vários idiomas. Execute campanhas em múltiplos mercados simultaneamente."
-    url: "/pt/features/traducao/"
+    url: "/pt/funcionalidades/traducao/"
     icon: language
 
   - title: "Colaboração em Equipe"
     description: "Gerencie múltiplas marcas e membros da equipe com permissões granulares e organização por projetos."
-    url: "/pt/features/equipes/"
+    url: "/pt/funcionalidades/equipes/"
     icon: users
 
 features:
@@ -183,13 +183,13 @@ topFeatures:
   list:
     - title: "Agente Autônomo de IA"
       description: "Crie conteúdo, extraia relatórios, faça brainstorm de ideias e gerencie campanhas — tudo por meio de uma única conversa inteligente."
-      target: /pt/features/agente/
+      target: /pt/funcionalidades/agente/
     - title: "Inteligência Centralizada"
       description: "Sua voz de marca, dados de produto e diretrizes — sempre referenciados, nunca esquecidos. Proteja sua marca contra suposições da IA genérica."
-      target: /pt/features/base-de-conhecimento/
+      target: /pt/funcionalidades/base-de-conhecimento/
     - title: "Escale Sem Contratar"
       description: "Assuma mais trabalho sem precisar aumentar proporcionalmente sua equipe. O agente cuida do trabalho pesado."
-      target: /pt/features/equipes/
+      target: /pt/funcionalidades/equipes/
 
 faq:
   - q: "Como fazer marketing de conteúdo sem uma equipe de marketing?"

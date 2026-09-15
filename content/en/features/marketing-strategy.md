@@ -1,5 +1,6 @@
 ---
 title: "Keep every piece of content tied to a campaign"
+translationKey: feature-marketing-strategy
 description: "Organise content around a goal, an audience and a publishing plan so activity adds up to something useful."
 ctaText: "Get early access"
 ctaUrl: "#early-access"

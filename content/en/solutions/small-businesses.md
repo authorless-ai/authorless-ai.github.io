@@ -1,5 +1,6 @@
 ---
 title: "Say the right thing to every kind of buyer"
+translationKey: solution-small-businesses
 linkTitle: "Small businesses"
 weight: 10
 superTitle: "Audience-driven marketing for small businesses"

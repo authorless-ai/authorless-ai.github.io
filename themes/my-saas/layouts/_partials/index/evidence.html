@@ -48,7 +48,7 @@
         <p class="flex-1 text-gray-600 dark:text-gray-400 lg:text-lg">{{ .description | safeHTML }}</p>
         {{ if .source }}
         <p class="mt-5 pt-4 border-t border-slate-200 dark:border-gray-700 text-sm text-gray-500 dark:text-gray-400">
-          <span class="font-medium">Source:</span>
+          <span class="font-medium">{{ T "source" }}:</span>
           {{ if .sourceUrl }}
           <a href="{{ .sourceUrl }}" rel="nofollow noopener" target="_blank" class="text-primary-600 dark:text-primary-500 hover:underline">{{ .source }}</a>
           {{ else }}

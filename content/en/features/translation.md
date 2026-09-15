@@ -1,5 +1,6 @@
 ---
 title: "Take one campaign into 50+ languages"
+translationKey: feature-translation
 description: "Translate finished content for new markets while preserving the audience, meaning and brand voice behind the original."
 ctaText: "Get early access"
 ctaUrl: "#early-access"

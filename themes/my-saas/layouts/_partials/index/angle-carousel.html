@@ -86,7 +86,7 @@
       {{ with $data.persona }}
       <div class="lg:col-span-4">
         <div class="lg:sticky lg:top-24 rounded-2xl bg-white dark:bg-gray-800 shadow-xl ring-1 ring-gray-200 dark:ring-gray-700 p-6">
-          <p class="mb-4 text-xs font-bold uppercase tracking-widest text-primary-600 dark:text-primary-400">Writing to</p>
+          <p class="mb-4 text-xs font-bold uppercase tracking-widest text-primary-600 dark:text-primary-400">{{ T "writingTo" }}</p>
 
           {{ if .image }}
           <img class="w-28 h-28 rounded-full object-cover mb-4" src="{{ .image | absURL }}" alt="{{ .image_alt | default .name }}">
@@ -131,14 +131,14 @@
       <div class="lg:col-span-8 min-w-0">
         <div class="flex flex-wrap items-end justify-between gap-4 mb-4">
           {{ with $data.brief }}
-          <p class="text-sm text-gray-500 dark:text-gray-400"><span class="font-bold uppercase tracking-widest text-xs text-gray-400 dark:text-gray-500 mr-2">One announcement</span>{{ . | safeHTML }}</p>
+          <p class="text-sm text-gray-500 dark:text-gray-400"><span class="font-bold uppercase tracking-widest text-xs text-gray-400 dark:text-gray-500 mr-2">{{ T "oneAnnouncement" }}</span>{{ . | safeHTML }}</p>
           {{ end }}
           <div class="flex gap-2 ml-auto">
-            <button type="button" aria-label="Previous angle" @click="move(-1)" :disabled="index === 0"
+            <button type="button" aria-label="{{ T "previousAngle" }}" @click="move(-1)" :disabled="index === 0"
               class="flex items-center justify-center w-10 h-10 rounded-full bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-40">
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
             </button>
-            <button type="button" aria-label="Next angle" @click="move(1)" :disabled="index === count - 1"
+            <button type="button" aria-label="{{ T "nextAngle" }}" @click="move(1)" :disabled="index === count - 1"
               class="flex items-center justify-center w-10 h-10 rounded-full bg-white dark:bg-gray-800 ring-1 ring-gray-200 dark:ring-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-40">
               <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
             </button>
@@ -168,7 +168,7 @@
             <div class="flex-1 rounded-xl bg-gray-50 dark:bg-gray-900/50 border border-gray-200 dark:border-gray-700 p-5">
               <div class="flex items-center gap-3 mb-3">
                 <div>
-                  <p class="text-sm font-bold text-gray-900 dark:text-white leading-tight">{{ with $data.brand }}{{ . }}{{ else }}Your brand{{ end }}</p>
+                  <p class="text-sm font-bold text-gray-900 dark:text-white leading-tight">{{ with $data.brand }}{{ . }}{{ else }}{{ T "yourBrand" }}{{ end }}</p>
                 </div>
               </div>
               <p class="text-base leading-relaxed text-gray-800 dark:text-gray-200">{{ $slide.copy | safeHTML }}</p>

@@ -1171,3 +1171,166 @@ other = "Clients keep their own logins"
 
 [fg_cmp_generic__shipping__whole]
 other = "Written, scheduled and published in one place"
+
+
+[leadGenTitle]
+other = "Turn your website into a ready-to-launch marketing campaign"
+
+[leadGenDescription]
+other = "Enter your website address and we'll build your audiences, write posts and queue them for publishing. No account or card needed. Marketing doesn't get any easier than this!"
+
+[leadGenButton]
+other = "Build my free campaign"
+
+[whatTheyCareAbout]
+other = "What they care about"
+
+[writingTo]
+other = "Writing to"
+
+[oneAnnouncement]
+other = "One announcement"
+
+[yourBrand]
+other = "Your brand"
+
+[source]
+other = "Source"
+
+[yourEmail]
+other = "Your email"
+
+[userTypeQuestion]
+other = "What best describes you?"
+
+[chooseOption]
+other = "Choose an option"
+
+[soloMarketer]
+other = "Solo marketer"
+
+[smallInHouseTeam]
+other = "Small in-house marketing team"
+
+[freelancerConsultant]
+other = "Freelancer or consultant"
+
+[marketingAgency]
+other = "Marketing agency"
+
+[other]
+other = "Other"
+
+[waitlistNote]
+other = "No spam, and no card needed. By submitting this form you agree to our <a href='%s' class='text-primary-600 dark:text-primary-500 hover:underline'>privacy policy</a> and for us to contact you about early access."
+
+[freeTools]
+other = "Free tools"
+
+[menu_how_it_works]
+other = "How it works"
+
+[menu_audience_profiles]
+other = "Audience profiles"
+
+[menu_features]
+other = "Features"
+
+[menu_pricing]
+other = "Pricing"
+
+[menu_contact]
+other = "Contact"
+
+[menu_small_businesses]
+other = "Small businesses"
+
+[menu_website_marketing_plan]
+other = "Website marketing plan"
+
+[menu_alternatives_compared]
+other = "Alternatives compared"
+
+[menu_bazam_vs_chatgpt]
+other = "Bazam vs ChatGPT"
+
+[menu_bazam_vs_anyword]
+other = "Bazam vs Anyword"
+
+[menu_bazam_vs_blaze]
+other = "Bazam vs Blaze"
+
+[previousAngle]
+other = "Previous angle"
+
+[nextAngle]
+other = "Next angle"
+
+[socialMedia]
+other = "Social media"
+
+[brandOnPlatform]
+other = "%s on %s"
+
+[menu_ai_marketing_assistant]
+other = "AI marketing assistant"
+
+[menu_ai_content_creation]
+other = "AI content creation"
+
+[menu_content_ideas]
+other = "Content ideas"
+
+[menu_campaigns]
+other = "Campaigns"
+
+[menu_knowledge_base]
+other = "Knowledge base"
+
+[menu_content_calendar]
+other = "Content calendar"
+
+[menu_direct_publishing]
+other = "Direct publishing"
+
+[menu_translation]
+other = "Translation"
+
+[menu_projects]
+other = "Projects"
+
+[menu_team_collaboration]
+other = "Team collaboration"
+
+[menu_desc_ai_marketing_assistant]
+other = "Create, research, plan and check results through a conversation."
+
+[menu_desc_audience_profiles]
+other = "Understand who you are talking to before you start writing."
+
+[menu_desc_ai_content_creation]
+other = "Create 30+ types of content without starting from a blank page."
+
+[menu_desc_content_ideas]
+other = "Get relevant topics based on your brand, audience and goals."
+
+[menu_desc_campaigns]
+other = "Keep every piece tied to an audience and a clear goal."
+
+[menu_desc_knowledge_base]
+other = "Give Bazam your real facts, sources and brand guidance."
+
+[menu_desc_content_calendar]
+other = "Plan, schedule and rearrange work across every channel."
+
+[menu_desc_direct_publishing]
+other = "Publish platform-ready content without copying and pasting."
+
+[menu_desc_translation]
+other = "Take campaigns into 50+ languages and preserve your voice."
+
+[menu_desc_projects]
+other = "Keep every client or brand's work and context separate."
+
+[menu_desc_team_collaboration]
+other = "Share work, control access and approve before publishing."

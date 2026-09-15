@@ -1165,3 +1165,94 @@ other = "Clients keep their own logins"  # TODO: translate
 
 [fg_cmp_generic__shipping__whole]
 other = "Written, scheduled and published in one place"  # TODO: translate
+
+
+[leadGenTitle]
+other = "Verwandeln Sie Ihre Website in eine startbereite Marketingkampagne"
+
+[leadGenDescription]
+other = "Geben Sie Ihre Website ein. Wir erstellen Zielgruppen, schreiben Beiträge und planen die Veröffentlichung – ohne Konto oder Karte."
+
+[leadGenButton]
+other = "Kostenlose Kampagne erstellen"
+
+[whatTheyCareAbout]
+other = "Was ihnen wichtig ist"
+
+[writingTo]
+other = "Geschrieben für"
+
+[oneAnnouncement]
+other = "Eine Ankündigung"
+
+[yourBrand]
+other = "Ihre Marke"
+
+[source]
+other = "Quelle"
+
+[yourEmail]
+other = "Ihre E-Mail-Adresse"
+
+[userTypeQuestion]
+other = "Was beschreibt Sie am besten?"
+
+[chooseOption]
+other = "Option auswählen"
+
+[soloMarketer]
+other = "Alleinverantwortliche Marketingkraft"
+
+[smallInHouseTeam]
+other = "Kleines internes Marketingteam"
+
+[freelancerConsultant]
+other = "Freelancer oder Berater"
+
+[marketingAgency]
+other = "Marketingagentur"
+
+[other]
+other = "Andere"
+
+[waitlistNote]
+other = "Kein Spam und keine Karte nötig. Mit dem Absenden stimmen Sie unserer <a href='%s' class='text-primary-600 dark:text-primary-500 hover:underline'>Datenschutzerklärung</a> und einer Kontaktaufnahme zum Frühzugang zu."
+
+[freeTools]
+other = "Kostenlose Tools"
+
+[product]
+other = "Produkt"
+
+[menu_how_it_works]
+other = "So funktioniert es"
+
+[menu_audience_profiles]
+other = "Zielgruppenprofile"
+
+[menu_features]
+other = "Funktionen"
+
+[menu_pricing]
+other = "Preise"
+
+[menu_contact]
+other = "Kontakt"
+
+[menu_small_businesses]
+other = "Kleine Unternehmen"
+
+[menu_website_marketing_plan]
+other = "Website-Marketingplan"
+
+[menu_alternatives_compared]
+other = "Alternativen im Vergleich"
+
+[menu_bazam_vs_chatgpt]
+other = "Bazam vs. ChatGPT"
+
+[menu_bazam_vs_anyword]
+other = "Bazam vs. Anyword"
+
+[menu_bazam_vs_blaze]
+other = "Bazam vs. Blaze"

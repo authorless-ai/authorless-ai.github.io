@@ -1,5 +1,6 @@
 ---
 title: "A separate marketing workspace for every client or brand"
+translationKey: feature-projects
 description: "Keep each project's audience profiles, brand voice, knowledge, content and publishing channels organised and isolated."
 ctaText: "Get early access"
 ctaUrl: "#early-access"

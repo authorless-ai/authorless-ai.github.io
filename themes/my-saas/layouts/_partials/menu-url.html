@@ -1,0 +1,8 @@
+{{- $url := .item.URL -}}
+{{- $englishSite := index (where hugo.Sites "Language.Lang" "en") 0 -}}
+{{- with $englishSite.GetPage .item.URL -}}
+  {{- with index (where $.site.Pages "TranslationKey" .TranslationKey) 0 -}}
+    {{- $url = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- $url -}}
