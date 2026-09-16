@@ -16,15 +16,15 @@ featureCards:
   cards:
     - title: "Bazam frente a ChatGPT"
       icon: edit
-      url: "/es/alternativas/bazam-vs-chatgpt/"
+      url: "/es/alternativas/bazam-frente-a-chatgpt/"
       description: "El borrador es solo uno de unos seis pasos. Descubre qué ocurre con los otros cinco y cómo se integra Bazam con el chat por el que ya pagas."
     - title: "Bazam frente a Blaze"
       icon: bullhorn
-      url: "/es/alternativas/bazam-vs-blaze/"
+      url: "/es/alternativas/bazam-frente-a-blaze/"
       description: "Escribir para tu marca o escribir hoy para un lector concreto y mañana para otro. Además, aprobación del cliente sin compartir contraseñas."
     - title: "Bazam frente a Anyword"
       icon: chart
-      url: "/es/alternativas/bazam-vs-anyword/"
+      url: "/es/alternativas/bazam-frente-a-anyword/"
       description: "Puntuar el texto después de escribirlo frente a corregir el briefing que lo volvió plano. Y después programarlo y publicarlo por ti."
 
 comparisonGrid: "comparison_generic"

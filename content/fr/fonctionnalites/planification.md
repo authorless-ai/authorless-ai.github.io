@@ -1,104 +1,91 @@
 ---
-title: Votre calendrier de contenu automatisé pour publier régulièrement
+title: Un calendrier de contenu conçu pour une publication cohérente
 translationKey: feature-scheduling
-type: features
-heroDescription: Prenez le contrôle de votre calendrier de contenu avec les fonctionnalités de planification intuitives de Bazam. Ne ratez plus jamais une date importante.
-
-features:
-- title: "Planification sans effort : organisez votre contenu facilement"
-  image: "/images/schedule.png"
-  image_alt: "Planning"
-  description:
-    - Marre des courses de dernière minute pour le contenu ? Les outils de planification de Bazam vous permettent de planifier et programmer vos articles de blog et publications sociales à l'avance.
-    - Visualisez votre calendrier de contenu, programmez des publications sur plusieurs plateformes et assurez une présence en ligne cohérente, le tout depuis un seul endroit centralisé.
-  points:
-    - title: Visualisation du calendrier de contenu
-      description: Consultez l'intégralité de votre planning de contenu d'un coup d'œil avec le calendrier intuitif de Bazam.
-    - title: Planification multiplateforme
-      description: Programmez des publications sur différents réseaux sociaux et votre blog simultanément.
-    - title: Automatisation gain de temps
-      description: Pré-programmez votre contenu et laissez Bazam gérer la publication, vous libérant pour d'autres tâches.
-  footer:
-    - Dites adieu au contenu précipité et bonjour à une approche stratégique et organisée de votre marketing de contenu.
-- title: "Optimisez vos publications : atteignez votre audience au bon moment"
-  image: "/images/feature-office-2.jpg"
-  image_alt: "Image de fonctionnalité"
-  description:
-    - La planification ne consiste pas seulement à anticiper ; il s'agit d'optimiser la portée de votre contenu.
-    - Analysez les performances passées, expérimentez différents horaires de publication et ajustez votre planning pour atteindre votre audience cible quand elle est la plus active.
-  points:
-    - title: Analysez les métriques de performance
-      description: Suivez l'engagement et identifiez les horaires de publication optimaux basés sur les performances passées.
-    - title: Expérimentez avec les horaires
-      description: Testez facilement différents plannings de publication pour trouver ce qui fonctionne le mieux pour votre audience.
-    - title: Décisions basées sur les données
-      description: Prenez des décisions de planification éclairées basées sur des données et des insights réels.
-  footer:
-    - Faites voir votre contenu par les bonnes personnes, au bon moment. Bazam vous aide à optimiser votre stratégie de publication.
-
+description: Planifiez le travail sur tous les canaux, visualisez l'ensemble du mois d'un coup et ajustez le planning sans le reconstruire.
+ctaText: Obtenez un accès anticipé
+ctaUrl: "#early-access"
+heroVideo: "/videos/calendar.mp4"
+heroVideoAlt: Calendrier de contenu de Bazam avec des publications programmées sur toutes les plateformes
 featureList:
-  title: "Planifiez une fois. Publiez en pilote automatique."
-  description: "Programmez un mois complet de contenu sur toutes les plateformes en une seule session. Votre calendrier de contenu fonctionne tout seul pendant que vous vous concentrez sur votre activité."
+  title: Écrivez-le maintenant. Publiez-le quand cela compte.
+  description: Passez d’un contenu approuvé à un planning multiplateforme clair dans le même espace de travail.
   features:
-    - iconColor: "primary"
-      title: "Calendrier de contenu visuel"
-      icon: calendar
-      points:
-        - description: "Consultez <b>l'intégralité de votre planning de publication d'un coup d'œil</b> — blog, réseaux sociaux, tous les canaux."
-        - description: "<b>Glissez-déposez</b> pour reprogrammer des publications sans perdre de contenu."
-        - description: "Code couleur par plateforme et statut — <b>brouillons, approuvés, programmés, publiés</b>."
-        - description: "Planifiez des semaines ou des mois à l'avance — <b>pas de tableurs, pas de post-it</b>."
-    - iconColor: "primary"
-      title: "Planification multiplateforme"
-      icon: upload
-      points:
-        - description: "Programmez sur <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube et TikTok</b> simultanément."
-        - description: "Définissez des <b>horaires différents par plateforme</b> — LinkedIn le matin, Instagram le soir, TikTok le week-end."
-        - description: "Programmez en lot un <b>mois complet de contenu en une seule session</b> — de la création au calendrier en minutes."
-        - description: "Événements récurrents ? <b>Dupliquez et ajustez</b> — pas besoin de repartir de zéro."
-    - iconColor: "primary"
-      title: "Timing intelligent & Approbation"
-      icon: chart
-      points:
-        - description: "Suivez l'engagement pour trouver <b>les horaires optimaux pour votre audience</b>."
-        - description: "Les workflows d'approbation garantissent que les publications sont <b>relues avant d'être mises en file d'attente</b>."
-        - description: "Le contenu est <b>automatiquement publié à l'heure programmée</b> — aucune intervention manuelle."
-        - description: "Expérimentez avec le timing et <b>laissez les données vous dire ce qui fonctionne</b>."
-
-cta:
-  title: "Planifiez votre succès : commencez votre essai gratuit Bazam dès aujourd'hui !"
-  description: Prêt à prendre le contrôle de votre calendrier de contenu et à profiter de la puissance d'une publication régulière ? Inscrivez-vous à un essai gratuit de Bazam et découvrez les avantages par vous-même !
-
+  - iconColor: primary
+    title: Voir tout le plan
+    icon: calendar
+    points:
+    - description: Affichez le contenu programmé sur les projets et les plates-formes sur un <b>calendrier visuel</b>.
+    - description: Repérez les lacunes, les conflits et les semaines chargées avant qu’ils ne deviennent un problème.
+    - description: Planifiez du contenu et des campagnes récurrents qui s'étalent sur plusieurs jours.
+  - iconColor: primary
+    title: Changer de plan rapidement
+    icon: edit
+    points:
+    - description: Faites glisser et déposez le contenu pour le reprogrammer.
+    - description: Créez ou modifiez des publications sans quitter le calendrier.
+    - description: Préparez vos campagnes à l'avance au lieu de vous précipiter le jour de la publication.
+  - iconColor: primary
+    title: Planification sur plusieurs canaux
+    icon: upload
+    points:
+    - description: Mettez du contenu en file d’attente pour vos réseaux sociaux connectés et WordPress.
+    - description: Planifiez la propre version de chaque plateforme à partir d'une campagne.
+    - description: Laissez le calendrier assurer la routine de publication lorsque le travail du client est chargé.
+features:
+- title: Voir ce qui se passe, où et quand
+  tab: Planifiez le rythme
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Les cartes de contenu se déplacent vers un calendrier de publication ordonné
+  description:
+  - Le calendrier visuel regroupe chaque chaîne dans une seule vue, y compris le travail préparé avant la connexion de son compte de publication.
+  points:
+  - title: Planifiez le mois en un coup d'œil
+    description: Consultez les icônes de la plateforme, le calendrier de la campagne et les lacunes dans le calendrier.
+  - title: Répétez le travail qui devrait répéter
+    description: Définissez des calendriers récurrents et planifiez des campagnes qui s'étendent sur plusieurs jours.
+  - title: Commencez par les médias
+    description: Téléchargez d'abord des images ou des vidéos, puis rédigez le message lorsque vous êtes prêt.
+- title: Changer le plan sans le reconstruire
+  tab: Reprogrammer rapidement
+  image: "/images/reschedule.png"
+  image_alt: Publications planifiées réorganisées sans reconstruire la campagne
+  visual_type: produit
+  description:
+  - Faites glisser le contenu vers une autre date ou ouvrez-le directement depuis le calendrier pour effectuer une modification rapide. La poste, les médias et l’État d’approbation restent ensemble.
+  points:
+  - title: Reprogrammation par glisser-déposer
+    description: Déplacez le contenu lorsque les priorités ou les plans des clients changent.
+  - title: Modifications rapides en place
+    description: Créez et modifiez du contenu sans quitter la vue du calendrier.
+  - title: Les traductions restent alignées
+    description: Dates de copie et statut de publication entre l'original et ses traductions.
+- title: Créez une nouvelle œuvre pendant que vous pouvez encore voir la forme du plan
+  tab: Combler les lacunes
+  image: "/images/features/illustration-create.webp"
+  image_alt: Nouveau contenu créé pour combler les lacunes d'un plan de publication
+  description:
+  - Commencez une nouvelle publication à partir du calendrier lorsqu'une lacune devient évidente. La date fait déjà partie du brief, donc la planification et la création restent une tâche connectée.
+  points:
+  - title: Créer en contexte
+    description: Commencez à partir de la date et de la campagne que vous examinez déjà.
+  - title: Identifiez les lacunes plus tôt
+    description: Une vue mensuelle permet de repérer facilement les semaines calmes et les journées chargées.
+  - title: Gardez le calendrier utile
+    description: Les travaux préliminaires, approuvés et planifiés restent tous visibles dans un seul plan.
 faq:
-  - q: "Comment programmer des publications sur tous les réseaux sociaux en même temps ?"
-    a:
-      - "Créez votre contenu dans Bazam, puis programmez-le sur toutes les plateformes connectées depuis un seul tableau de bord. Définissez des horaires différents pour chaque plateforme si besoin. Plus besoin de se connecter à cinq applications séparément."
-
-  - q: "Quel est le meilleur moment pour publier sur chaque réseau social ?"
-    a:
-      - "Cela dépend de votre audience. Bazam suit l'engagement de votre contenu publié et vous aide à identifier quand vos abonnés sont les plus actifs. Testez différents horaires et laissez les données vous guider."
-
-  - q: "Comment reprogrammer du contenu sans le perdre ?"
-    a:
-      - "Glissez-déposez. Déplacez n'importe quelle publication vers une nouvelle date ou heure directement sur le calendrier de contenu. Modifiez le contenu, changez la plateforme ou ajustez le timing — tout reste sauvegardé."
-
-  - q: "Comment programmer un mois de contenu en une seule fois ?"
-    a:
-      - "Créez du contenu en masse avec l'agent IA, puis programmez chaque contenu sur vos plateformes depuis le calendrier de contenu. La plupart des équipes programment un mois entier en une seule session — pas de tableurs ni d'outils externes nécessaires."
-
-  - q: "Comment faire valider le contenu par mon équipe avant publication ?"
-    a:
-      - "Mettez en place des workflows d'approbation. Le contenu créé par votre équipe est mis en file d'attente pour révision avant publication. Les approbateurs sont notifiés, relisent au sein de la plateforme et approuvent ou demandent des modifications — pas de chaînes d'e-mails."
-
-  - q: "Comment programmer des publications récurrentes ?"
-    a:
-      - "Dupliquez une publication programmée existante et ajustez les dates. Pour les promotions ou événements réguliers, réutilisez et mettez à jour le contenu précédent plutôt que de repartir de zéro à chaque fois."
-
-  - q: "Puis-je programmer des articles de blog et des réseaux sociaux au même endroit ?"
-    a:
-      - "Oui. Bazam programme et publie sur WordPress pour le contenu de blog et sur toutes les principales plateformes sociales — Facebook, Instagram, LinkedIn, X, YouTube, TikTok. Un calendrier, un tableau de bord."
-
-  - q: "Jusqu'à combien de temps à l'avance puis-je programmer du contenu ?"
-    a:
-      - "Aussi loin que nécessaire — bien que nous recommandions de ne pas dépasser un an. Le contenu reste plus frais et plus pertinent quand il est programmé par lots mensuels plutôt que trop longtemps à l'avance."
+- q: Qu'est-ce qu'un calendrier de contenu sur les réseaux sociaux ?
+  a:
+  - Un calendrier de contenu sur les réseaux sociaux indique ce qui sera publié, sur quel canal et à quelle date. Bazam combine les contenus Facebook, Instagram, LinkedIn, X, TikTok et WordPress dans un même plan visuel.
+- q: Puis-je glisser-déposer des publications sur les réseaux sociaux pour les reprogrammer ?
+  a:
+  - Oui. Déplacez une publication vers une autre date du calendrier et son contenu, ses médias et son statut de flux de travail évoluent avec elle.
+- q: Bazam peut-il programmer du contenu récurrent ?
+  a:
+  - Oui. Vous pouvez créer des calendriers récurrents personnalisés ainsi que des campagnes et des événements qui se déroulent sur plusieurs jours.
+- q: Puis-je modifier une publication à partir du calendrier de contenu ?
+  a:
+  - Oui. Un éditeur rapide vous permet de créer ou de modifier du contenu et de télécharger des médias sans quitter la vue du calendrier.
+- q: Puis-je programmer des versions traduites pour différentes chaînes ?
+  a:
+  - Oui. Les dates et statuts de publication peuvent être copiés entre le contenu original et ses traductions, permettant ainsi aux chaînes spécifiques à une langue de rester coordonnées.
 ---

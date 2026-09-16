@@ -1,20 +1,21 @@
 ---
 layout: marketing
-title: "Bazam frente a Anyword"
-translationKey: alternative-anyword
+title: "Bazam frente a Blaze"
+translationKey: alternative-blaze
 superTitle: "Una comparación directa"
-description: "Anyword puntúa el texto después de escribirlo. Bazam lo escribe para el cliente, y después lo programa y publica en seis plataformas y en tu blog. Desde 39 $."
+description: "Blaze escribe para tu marca. Bazam escribe para cada uno de tus clientes, y después programa y publica el contenido. Desde 39 $, frente a sus 79 $."
 ctaText: "Obtén acceso anticipado"
 ctaUrl: "#early-access"
 heroDescription:
-  - "Anyword puntúa el texto después de que lo hayas escrito. Bazam lo escribe para el cliente, y después lo programa y publica por ti. <b>Desde 39 $ al mes, frente a sus 49 $.</b>"
-comparisonGrid: "comparison_anyword"
+  - "Blaze escribe para tu marca. Bazam escribe por separado para cada uno de tus clientes, y después programa y publica por ti. <b>Desde 39 $ al mes, frente a sus 79 $.</b>"
+comparisonGrid: "comparison_blaze"
+aliases: ["/alternativas/bazam-vs-blaze/"]
 features:
-  - title: "Una puntuación no explica por qué compran"
+  - title: "Tu marca no es tu cliente"
     image: "/images/persona.png"
     image_alt: "Un perfil de audiencia de 30 puntos completo en Bazam"
     description:
-      - "La puntuación clasifica las palabras que ya tienes. Nunca pregunta quién las va a leer, así que reescribes el mismo mensaje hasta que el número sube."
+      - "Un texto que suena como tu marca todavía tiene que venderle algo a alguien. Bazam conserva un perfil para cada tipo de cliente que tienes."
     points:
       - { title: "Una emoción, más ventas", description: "Cada cliente compra por una razón. Escribe para esa razón y comprarán más." }
       - { title: "La misma oferta, de dos maneras", description: "\"Solo quedan dos plazas este mes\" vende a un cliente. \"Tu mejor trimestre hasta ahora\" vende al siguiente." }
@@ -22,15 +23,15 @@ features:
     footer:
       - "Hasta un 50 % más de compras con la misma oferta al adaptar el mensaje al cliente."
     source: "Experimentos de campo con 3,5 millones de personas. Matz, Kosinski, Nave y Stillwell, PNAS, 2017."
-  - title: "Anyword se detiene en el texto. Bazam lo publica."
+  - title: "Vende en todos tus mercados"
     image: "/images/schedule.png"
     image_alt: "El calendario de contenidos de Bazam con publicaciones programadas en varias plataformas"
     description:
-      - "Un texto que tienes que exportar y pegar en otro sitio sigue siendo una tarea en tu lista."
+      - "Una campaña, escrita una sola vez y publicada en todos los mercados en los que vendes."
     points:
+      - { title: "Más de 50 idiomas", description: "Tu voz de marca se mantiene intacta en cada uno." }
       - { title: "Seis plataformas y tu blog", description: "Facebook, Instagram, TikTok, X, LinkedIn y WordPress, cada una con una versión creada para ella." }
       - { title: "Un mes de contenido en diez minutos", description: "Programa el contenido al crearlo y arrastra las publicaciones cuando cambie el plan." }
-      - { title: "Más de 50 idiomas", description: "Una campaña para todos los mercados en los que vendes." }
     footer:
       - "Después te muestra qué resultado obtuvo cada publicación."
   - title: "Trabaja para tus clientes"
@@ -45,21 +46,21 @@ features:
     footer:
       - "Acepta más clientes sin asumir más administración."
 faq:
-  - q: "¿Una puntuación de rendimiento no hace lo mismo?"
-    a:
-      - "No. Una puntuación compara las palabras que ya escribiste con textos anteriores. No sabe quién es tu cliente ni por qué compra, así que solo reescribes el mismo mensaje hasta que sube el número."
-  - q: "Ya tengo perfiles redactados en otro lugar."
-    a:
-      - "Pégalos en Bazam. Los convierte en perfiles estructurados que se aplican a cada publicación, plataforma e idioma en lugar de quedarse olvidados en un documento."
   - q: "¿Cuál es más barato?"
     a:
-      - "Bazam cuesta desde 39 $ al mes y Anyword desde 49 $. Nuestro plan inicial incluye el perfil completo de audiencia, todos los tipos de contenido, seis canales y más de 50 idiomas."
+      - "Bazam cuesta desde 39 $ al mes y Blaze desde 79 $. Nuestro plan inicial incluye el perfil completo de audiencia de 30 puntos, todos los tipos de contenido, los seis canales de publicación y más de 50 idiomas."
+  - q: "¿Pueden mis clientes aprobar antes de que se publique nada?"
+    a:
+      - "Sí. Los clientes conectan sus canales y aprueban sus publicaciones en su propio portal. Nada se publica sin su visto bueno y tú nunca guardas sus contraseñas."
+  - q: "¿Puedo seguir escribiendo en ChatGPT o Claude?"
+    a:
+      - "Sí. El servidor MCP de Bazam lleva tus perfiles y voz de marca al chat. Escribe allí y programa y publica mediante Bazam."
   - q: "¿Tengo que redactar yo los perfiles?"
     a:
-      - "No. Bazam lee tu web, determina a quién vendes y crea un perfil para cada audiencia. Tú los revisas y corriges."
+      - "No. Bazam lee tu web, determina a quién vendes y crea un perfil para cada audiencia: qué quiere, qué le preocupa y por qué compra. Tú los revisas y corriges."
   - q: "Vendo tanto a empresas como a consumidores. ¿Puede gestionar ambos?"
     a:
-      - "Sí. Crea un perfil para cada audiencia, elige uno antes de generar y todas las publicaciones de la campaña se dirigirán a él."
+      - "Sí. Crea un perfil para cada audiencia y elige a cuál te diriges antes de generar. Todas las publicaciones de esa campaña se escribirán para ella."
   - q: "¿Seguirá sonando como nuestra marca?"
     a:
       - "Sí. Bazam aplica tu voz de marca, tus ofertas y tus datos a cada publicación. Cambia el cliente al que se dirige; tu marca no cambia."

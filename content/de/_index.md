@@ -17,7 +17,7 @@ personas:
 
       * Für einen Firmenorganisator zählen die Tagungsräume.
       * Für ein Paar auf Wochenendreise zählt der Zimmerservice.
-    - "Bazam nennt das [zielgruppenorientiertes Marketing](/audience-driven-marketing/): genau verstehen, wer liest, und jede Botschaft danach ausrichten, um mehr Conversions zu erzielen."
+    - "Bazam nennt das [zielgruppenorientiertes Marketing](/de/zielgruppenorientiertes-marketing/): genau verstehen, wer liest, und jede Botschaft danach ausrichten, um mehr Conversions zu erzielen."
   title_image: "/images/persona-list.png"
   title_image_alt: "Liste der Zielgruppen-Personas in Bazam"
   personas:
@@ -190,7 +190,7 @@ faq:
     a:
       - "Klassisches Marketing beginnt mit der Botschaft: festlegen, was man sagen will, und es überall senden. Zielgruppenorientiertes Marketing beginnt beim Leser: ein echtes Modell der Person erstellen und davon Worte, Blickwinkel und Angebot bestimmen lassen."
       - "Bazam arbeitet standardmäßig so. Jede Zielgruppe erhält vor dem ersten Wort ein detailliertes Profil, und jeder Inhalt auf jeder Plattform entsteht daraus."
-      - "Lesen Sie, wie [zielgruppenorientiertes Marketing](/audience-driven-marketing/) zum Lernkreislauf wird: Jede Kampagne testet eine Botschaft, das Ergebnis verbessert das nächste Briefing."
+      - "Lesen Sie, wie [zielgruppenorientiertes Marketing](/de/zielgruppenorientiertes-marketing/) zum Lernkreislauf wird: Jede Kampagne testet eine Botschaft, das Ergebnis verbessert das nächste Briefing."
   - q: "Was, wenn die Zielgruppe meines Kunden keine „Käufer“ sind?"
     a:
       - "Der Begriff ist nur eine Abkürzung. Das Profil beschreibt alle Menschen, an die Ihr Kunde schreibt: E-Mail-Leser, Follower, Spender, Freiwillige, Fans oder Stammgäste. Es funktioniert für alle gleich."

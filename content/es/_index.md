@@ -19,7 +19,7 @@ personas:
 
       * A un organizador corporativo le importan las instalaciones para conferencias.
       * A una pareja que reserva una escapada de fin de semana le importa el servicio de habitaciones.
-    - "Bazam lo llama [marketing centrado en la audiencia](/audience-driven-marketing/): entender exactamente quién lee y dejar que eso guíe cada mensaje para aumentar las conversiones."
+    - "Bazam lo llama [marketing centrado en la audiencia](/es/marketing-orientado-a-la-audiencia/): entender exactamente quién lee y dejar que eso guíe cada mensaje para aumentar las conversiones."
   title_image: "/images/persona-list.png"
   title_image_alt: "Lista de personas de audiencia en Bazam"
   personas:
@@ -200,7 +200,7 @@ faq:
     a:
       - "La mayoría del marketing parte del mensaje: decide qué decir y lo envía a todas partes. El marketing centrado en la audiencia parte del lector: crea un modelo real de quién es y deja que determine las palabras, el ángulo y la oferta."
       - "Bazam funciona así por defecto. Cada audiencia recibe un perfil detallado antes de escribir una sola palabra, y todo el contenido de cada plataforma se genera a partir de él."
-      - "Descubre cómo el [marketing centrado en la audiencia](/audience-driven-marketing/) se convierte en un ciclo de aprendizaje: cada campaña prueba un mensaje y el resultado mejora el siguiente brief."
+      - "Descubre cómo el [marketing centrado en la audiencia](/es/marketing-orientado-a-la-audiencia/) se convierte en un ciclo de aprendizaje: cada campaña prueba un mensaje y el resultado mejora el siguiente brief."
   - q: "¿Qué ocurre si la audiencia de mi cliente no son «compradores»?"
     a:
       - "La etiqueta es solo un atajo. Un perfil de comprador describe a cualquiera a quien tu cliente se dirige: quien abre sus correos, ve sus publicaciones o decide seguirlo. Una ONG tiene donantes y voluntarios; un creador, seguidores; un restaurante, clientes habituales. El perfil funciona igual."

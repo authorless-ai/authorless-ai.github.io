@@ -1,52 +1,91 @@
 ---
-type: features
-title: "Un calendario de contenidos creado para publicar con constancia"
+title: Un calendario de contenido creado para una publicación consistente
 translationKey: feature-scheduling
-description: "Planifica el trabajo en distintos canales, consulta todo el mes y ajusta el calendario sin reconstruirlo."
-ctaText: "Obtén acceso anticipado"
+description: Planifique el trabajo en todos los canales, vea el mes completo a la vez y ajuste el cronograma sin reconstruirlo.
+ctaText: Obtenga acceso temprano
 ctaUrl: "#early-access"
 heroVideo: "/videos/calendar.mp4"
-heroVideoAlt: "Calendario de Bazam con publicaciones programadas en varias plataformas"
+heroVideoAlt: Calendario de contenidos de Bazam con publicaciones programadas en todas las plataformas
 featureList:
-  title: "Escríbelo ahora. Publícalo cuando importe."
-  description: "Pasa del contenido aprobado a un calendario multiplataforma claro en el mismo espacio."
+  title: Escríbelo ahora. Publícalo cuando sea necesario.
+  description: Pase del contenido aprobado a un cronograma claro multiplataforma en el mismo espacio de trabajo.
   features:
-    - { iconColor: "primary", title: "Consulta todo el plan", icon: calendar, points: [{ description: "Ve el contenido programado de distintos proyectos y plataformas en un <b>calendario visual</b>." }, { description: "Detecta huecos, choques y semanas cargadas antes de que sean un problema." }, { description: "Planifica contenido periódico y campañas de varios días." }] }
-    - { iconColor: "primary", title: "Cambia los planes rápidamente", icon: edit, points: [{ description: "Arrastra y suelta contenido para reprogramarlo." }, { description: "Crea o edita publicaciones sin salir del calendario." }, { description: "Prepara campañas con antelación en vez de correr el día de publicación." }] }
-    - { iconColor: "primary", title: "Programa en distintos canales", icon: upload, points: [{ description: "Pon contenido en cola para tus redes conectadas y WordPress." }, { description: "Programa desde una campaña la versión propia de cada plataforma." }, { description: "Deja que el calendario mantenga la rutina cuando se acumule el trabajo de clientes." }] }
+  - iconColor: primary
+    title: Ver todo el plan
+    icon: calendar
+    points:
+    - description: Vea contenido programado en todos los proyectos y plataformas en un <b>calendario visual</b>.
+    - description: Detecte brechas, enfrentamientos y semanas ocupadas antes de que se conviertan en un problema.
+    - description: Planifique contenido recurrente y campañas que se ejecuten durante varios días.
+  - iconColor: primary
+    title: Cambie de planes rápidamente
+    icon: edit
+    points:
+    - description: Arrastra y suelta contenido para reprogramarlo.
+    - description: Crea o edita publicaciones sin salir del calendario.
+    - description: Prepare las campañas con anticipación en lugar de apresurarse el día de la publicación.
+  - iconColor: primary
+    title: Programar en todos los canales
+    icon: upload
+    points:
+    - description: Contenido en cola para sus canales sociales conectados y WordPress.
+    - description: Programe la versión propia de cada plataforma a partir de una campaña.
+    - description: Deje que el calendario lleve la rutina de publicación cuando el trabajo del cliente esté ocupado.
 features:
-  - title: "Ve qué saldrá, dónde y cuándo"
-    tab: "Planifica el ritmo"
-    image: "/images/features/illustration-plan.webp"
-    image_alt: "Tarjetas de contenido se colocan en un calendario ordenado"
-    description: ["El calendario visual reúne todos los canales en una vista, incluido el trabajo preparado antes de conectar su cuenta de publicación."]
-    points:
-      - { title: "Planifica el mes de un vistazo", description: "Ve iconos de plataforma, fechas de campañas y huecos del calendario." }
-      - { title: "Repite el trabajo periódico", description: "Define calendarios recurrentes y campañas que abarcan varios días." }
-      - { title: "Empieza por el recurso multimedia", description: "Sube primero imágenes o vídeo y escribe la publicación cuando estés listo." }
-  - title: "Cambia el plan sin reconstruirlo"
-    tab: "Reprograma rápidamente"
-    image: "/images/reschedule.png"
-    image_alt: "Publicaciones programadas se reordenan sin reconstruir la campaña"
-    visual_type: "product"
-    description: ["Arrastra el contenido a otra fecha o ábrelo desde el calendario para editarlo. La publicación, los recursos y la aprobación permanecen juntos."]
-    points:
-      - { title: "Reprogramación al arrastrar", description: "Mueve contenido cuando cambien las prioridades o los planes del cliente." }
-      - { title: "Edición rápida en el mismo lugar", description: "Crea y edita contenido sin salir del calendario." }
-      - { title: "Traducciones sincronizadas", description: "Copia fechas y estados de publicación entre el original y sus traducciones." }
-  - title: "Crea trabajo nuevo mientras sigues viendo la forma del plan"
-    tab: "Rellena los huecos"
-    image: "/images/features/illustration-create.webp"
-    image_alt: "Contenido nuevo rellena los huecos de un plan de publicación"
-    description: ["Inicia una publicación desde el calendario cuando veas un hueco. La fecha ya forma parte del briefing, así que planificar y crear siguen siendo una sola tarea."]
-    points:
-      - { title: "Crea con contexto", description: "Parte de la fecha y campaña que ya estás revisando." }
-      - { title: "Detecta antes los huecos", description: "La vista mensual muestra con claridad las semanas vacías y los días saturados." }
-      - { title: "Mantén útil el calendario", description: "Borradores, contenido aprobado y programado siguen visibles en el mismo plan." }
+- title: Ver qué sale, dónde y cuándo
+  tab: Planifica el ritmo
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Tarjetas de contenido que se trasladan a un calendario de publicación ordenado
+  description:
+  - El calendario visual reúne todos los canales en una sola vista, incluido el trabajo preparado antes de que se conectara su cuenta de publicación.
+  points:
+  - title: Planifica el mes de un vistazo
+    description: Vea los íconos de la plataforma, el momento de la campaña y los espacios en el cronograma.
+  - title: Repetir el trabajo que debería repetirse.
+    description: Establezca cronogramas recurrentes y planifique campañas que se ejecuten durante varios días.
+  - title: Comience con los medios
+    description: Sube imágenes o videos primero, luego escribe la publicación cuando estés listo.
+- title: Cambiar el plan sin reconstruirlo
+  tab: Reprogramar rápidamente
+  image: "/images/reschedule.png"
+  image_alt: Las publicaciones programadas se reordenan sin reconstruir la campaña
+  visual_type: producto
+  description:
+  - Arrastra el contenido a otra fecha o ábrelo directamente desde el calendario para realizar una edición rápida. La publicación, los medios y el estado de aprobación permanecen juntos.
+  points:
+  - title: Reprogramación con arrastrar y soltar
+    description: Mueva el contenido cuando cambien las prioridades o los planes del cliente.
+  - title: Ediciones rápidas implementadas
+    description: Crea y edita contenido sin salir de la vista de calendario.
+  - title: Las traducciones se mantienen alineadas
+    description: Fechas de copia y estado de publicación entre el original y sus traducciones.
+- title: Crea nuevos trabajos mientras aún puedes ver la forma del plano.
+  tab: Llenar los huecos
+  image: "/images/features/illustration-create.webp"
+  image_alt: Se está creando nuevo contenido para llenar los vacíos en un plan de publicación.
+  description:
+  - Inicie una nueva publicación desde el calendario cuando se haga evidente una brecha. La fecha ya forma parte del encargo, por lo que la planificación y la creación siguen siendo un trabajo conectado.
+  points:
+  - title: Crear en contexto
+    description: Comience desde la fecha y la campaña que ya está revisando.
+  - title: Ver huecos antes
+    description: Una vista mensual hace que sea fácil detectar semanas tranquilas y días abarrotados.
+  - title: Mantenga el calendario útil
+    description: Los trabajos borradores, aprobados y programados permanecen visibles en un solo plan.
 faq:
-  - { q: "¿Qué es un calendario de contenidos para redes?", a: ["Muestra qué se publicará, en qué canal y en qué fecha. Bazam combina Facebook, Instagram, LinkedIn, X, TikTok y WordPress en el mismo plan visual."] }
-  - { q: "¿Puedo arrastrar publicaciones para reprogramarlas?", a: ["Sí. Muévelas a otra fecha y su contenido, recursos y estado se moverán con ellas."] }
-  - { q: "¿Puede Bazam programar contenido periódico?", a: ["Sí. Puedes crear calendarios recurrentes personalizados y campañas o eventos de varios días."] }
-  - { q: "¿Puedo editar una publicación desde el calendario?", a: ["Sí. Un editor rápido permite crear o editar contenido y subir recursos sin salir de la vista del calendario."] }
-  - { q: "¿Puedo programar traducciones para canales distintos?", a: ["Sí. Las fechas y estados se copian entre el contenido original y sus traducciones para coordinar canales por idioma."] }
+- q: "¿Qué es un calendario de contenidos de redes sociales?"
+  a:
+  - Un calendario de contenidos de redes sociales muestra qué se publicará, en qué canal y en qué fecha. Bazam combina contenidos de Facebook, Instagram, LinkedIn, X, TikTok y WordPress en un mismo plan visual.
+- q: "¿Puedo arrastrar y soltar publicaciones sociales para reprogramarlas?"
+  a:
+  - Sí. Mueva una publicación a otra fecha en el calendario y su contenido, medios y estado de flujo de trabajo se moverán con ella.
+- q: "¿Puede Bazam programar contenido recurrente?"
+  a:
+  - Sí. Puede crear programaciones recurrentes personalizadas, así como campañas y eventos que se ejecuten a lo largo de varios días.
+- q: "¿Puedo editar una publicación del calendario de contenido?"
+  a:
+  - Sí. Un editor rápido le permite crear o editar contenido y cargar medios sin salir de la vista del calendario.
+- q: "¿Puedo programar versiones traducidas para diferentes canales?"
+  a:
+  - Sí. Las fechas y estados de publicación se pueden copiar entre el contenido original y sus traducciones, lo que ayuda a que los canales específicos del idioma se mantengan coordinados.
 ---

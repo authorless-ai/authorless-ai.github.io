@@ -1,107 +1,88 @@
 ---
-title: Automatische KI-Inhaltsübersetzung für globale Reichweite
+title: Führen Sie eine Kampagne in mehr als 50 Sprachen durch
 translationKey: feature-translation
-type: features
-heroDescription: Begrenzen Sie Ihre Zielgruppe nicht länger und sprechen Sie mühelos die Sprachen der Welt
-
-features:
-- title: Ihre Stimme, deren Sprache
-  image: "/images/feature-office-1.jpg"
-  image_alt: "Office Feature Image 1"
-  description:
-    - Sprechen Sie Kunden in ihrer Sprache an mit modernster automatischer Übersetzung und bauen Sie Ihre globale Marke auf.
-    - Entwickeln Sie überzeugende Inhalte in Ihrer bevorzugten Sprache und verwandeln Sie sie sofort in mehr als 30 Sprachen für mehr Wirkung.
-  points:
-    - title: Schreiben Sie in Ihrer Komfortzone
-      description: Entwickeln Sie überzeugende Inhalte in der Sprache, die Sie am besten beherrschen
-    - title: Globalisierung per Klick
-      description: Mit einem einfachen Klick übersetzt Bazam Ihre Inhalte automatisch
-    - title: Markenstimme bewahren
-      description: KI-Übersetzungsmodelle bewahren Ihren einzigartigen Markenton
-  footer:
-    - Arbeiten Sie auf globalen Märkten ohne ein spezielles Übersetzungsteam
-
-- title: Globale Zielgruppen in zahlende Kunden verwandeln
-  image: "/images/feature-office-2.jpg"
-  image_alt: "Office Feature Image 2"
-  description:
-    - Bazam verwandelt internationale Besucher in treue Kunden, indem es ihre Sprache spricht.
-    - Erschließen Sie neue Märkte ohne die hohen Investitionen in Übersetzungsteams oder Agenturen.
-  points:
-    - title: Konversionsraten steigern
-      description: Erzielen Sie höheres Engagement und bessere Konversionsraten, wenn Kunden mit Inhalten in ihrer Muttersprache interagieren.
-    - title: Ungenutztes Umsatzpotenzial erschließen
-      description: Greifen Sie auf lukrative internationale Märkte zu, die bisher durch Sprachbarrieren unerreichbar waren.
-    - title: Lokale Konkurrenz übertreffen
-      description: Verschaffen Sie sich einen Wettbewerbsvorteil gegenüber Unternehmen, die nur in einer Sprache tätig sind.
-  footer:
-    - Beobachten Sie, wie Ihre Verkaufszahlen steigen, wenn Sie weltweit mit Kunden in deren bevorzugter Sprache kommunizieren
+description: Übersetzen Sie fertige Inhalte für neue Märkte und bewahren Sie dabei das Publikum, die Bedeutung und die Markenstimme hinter dem Original.
+ctaText: Erhalten Sie frühen Zugang
+ctaUrl: "#early-access"
 featureList:
-  title: "Jede Sprache sprechen. Wie Sie selbst klingen."
-  description: "Übersetzen Sie Ihre Marketing-Inhalte mit einem Klick in mehr als 50 Sprachen — unter Beibehaltung Ihrer Markenstimme, Ihres Tons und Ihrer Intention in jedem Markt."
+  title: Für jeden Markt die gleiche Kampagne
+  description: Erstellen Sie aus der englischen Quelle und übertragen Sie dann die Absicht in jede Sprache, die Sie benötigen.
   features:
-    - iconColor: "primary"
-      title: "Übersetzung per Klick"
-      icon: edit
-      points:
-        - description: "Übersetzen Sie <b>Blogbeiträge, Social-Content und Werbetexte</b> sofort in mehr als 50 Sprachen."
-        - description: "Schreiben Sie in Ihrer <b>bevorzugten Sprache</b> — die KI übernimmt den Rest."
-        - description: "Jede Übersetzung ist <b>einzigartiger Content, kein Duplikat</b> — sicher für SEO."
-        - description: "Übersetzen Sie <b>Ihre gesamte Content-Bibliothek</b> auf einmal, um schnell neue Märkte zu erschließen."
-    - iconColor: "primary"
-      title: "Markenstimme in jeder Sprache"
-      icon: chart
-      points:
-        - description: "KI bewahrt Ihren <b>Ton, Stil und Satzaufbau</b> — nicht nur Wortbedeutungen."
-        - description: "Content klingt wie <b>muttersprachlicher Marketing-Text</b>, nicht wie eine flache Übersetzung."
-        - description: "Ihre <b>Markenpersönlichkeit kommt durch</b>, ob Sie Deutsch, Spanisch oder Japanisch sprechen."
-        - description: "Überprüfen und bearbeiten Sie Übersetzungen <b>vor der Veröffentlichung</b> — Sie behalten die Kontrolle."
-    - iconColor: "primary"
-      title: "Globaler Umsatz, lokale Kosten"
-      icon: upload
-      points:
-        - description: "Professionelle Übersetzung kostet <b>0,10–0,20 € pro Wort</b>. KI-Übersetzung ist in Ihrem Plan enthalten."
-        - description: "Erreichen Sie <b>internationale Kunden in ihrer eigenen Sprache</b> — wo sie am wahrscheinlichsten kaufen."
-        - description: "Verwalten Sie Übersetzungen <b>pro Sprache</b> — überprüfen, bearbeiten und veröffentlichen Sie jede Version unabhängig."
-        - description: "Kombinieren Sie mit Zielgruppen-Personas für <b>marktspezifischen Content</b>, der lokal ankommt."
-
-cta:
-  title: Jetzt neue globale Umsatzquellen erschließen!
-  description: Lassen Sie internationale Verkäufe nicht liegen. Beginnen Sie jetzt, globale Besucher mit Bazam-Übersetzung in zahlende Kunden zu verwandeln. Probieren Sie es aus und sehen Sie, wie Ihr Unternehmen wächst!
+  - iconColor: primary
+    title: Übersetzen Sie im Kampagnenmaßstab
+    icon: language
+    points:
+    - description: Übersetzen Sie Inhalte in <b>über 50 Sprachen</b>.
+    - description: Bringen Sie eine komplette Kampagne in mehrere Märkte, ohne jeden Beitrag neu zu erstellen.
+    - description: Sorgen Sie dafür, dass übersetzte Varianten mit demselben Projekt und Plan verknüpft bleiben.
+  - iconColor: primary
+    title: Bewahren Sie die Nachricht auf
+    icon: edit
+    points:
+    - description: Tragen Sie die ursprüngliche Markenstimme in jede übersetzte Version ein.
+    - description: Behalten Sie die Zielgruppe und den Blickwinkel bei, die den Quellinhalt geprägt haben.
+    - description: Passen Sie die Botschaft an die kulturellen Erwartungen in jedem Markt an, nicht nur an den Wortschatz.
+  - iconColor: primary
+    title: Nach Markt veröffentlichen
+    icon: upload
+    points:
+    - description: Planen Sie Sprachvarianten über denselben visuellen Kalender.
+    - description: Gruppieren Sie Kanäle nach Sprache, damit jede Version die richtige Zielgruppe erreicht.
+    - description: Führen Sie mehrsprachige Inhalte aus, ohne den Workflow auf separate Tools aufzuteilen.
+features:
+- title: Bauen Sie jede Sprache von Anfang an in die Kampagne ein
+  tab: Passen Sie jeden Markt an
+  image: "/images/features/illustration-reach.webp"
+  image_alt: Eine Kampagne, die sich an alle Märkte und Sprachen anpasst
+  description:
+  - Wählen Sie die Märkte aus, die eine Kampagne erreichen soll, und Bazam erstellt verknüpfte Sprachversionen, anstatt die Übersetzung in letzter Minute mit Kopieren und Einfügen zu belassen.
+  points:
+  - title: Mehr als 50 Sprachen
+    description: Erstellen und verwalten Sie Kampagneninhalte für Märkte auf der ganzen Welt.
+  - title: Die gleiche Absicht, lokal ausgedrückt
+    description: Behalten Sie die Markenstimme bei und passen Sie die Botschaft gleichzeitig an die kulturellen Erwartungen an.
+  - title: Eine vernetzte Kampagne
+    description: Behalten Sie die Verknüpfung des Originals und jeder Übersetzung bei, um die Überprüfung und Planung zu erleichtern.
+- title: Halten Sie jeden Markt auf dem Laufenden, wenn sich Pläne ändern
+  tab: Bleiben Sie synchron
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Koordinierte Inhalte, die einen gemeinsamen Veröffentlichungsplan durchlaufen
+  description:
+  - Wenn sich das Original ändert, markiert Bazam Übersetzungen, die möglicherweise veraltet sind. Termine und Workflow-Status können sprachversionsübergreifend synchron gehalten werden.
+  points:
+  - title: Wissen, was neu übersetzt werden muss
+    description: Aktualisierte Quellinhalte markieren die verlinkten Übersetzungen, um darauf aufmerksam zu machen.
+  - title: Veröffentlichungstermine koordinieren
+    description: Kopieren Sie Daten und Status von der Primärversion in die Übersetzungen oder wieder zurück.
+  - title: Gruppieren Sie Kanäle nach Sprache
+    description: Senden Sie jede Version an den richtigen sozialen Kanal oder die richtige WordPress-Site.
+- title: Überprüfen Sie jede Version als Teil derselben Kampagne
+  tab: Überprüfen Sie gemeinsam
+  image: "/images/features/illustration-approval.webp"
+  image_alt: Verlinkte Inhaltsversionen durchlaufen einen gemeinsamen Genehmigungsschritt
+  description:
+  - Bewahren Sie übersetzte Versionen neben dem Original auf, während sie überprüft und genehmigt werden. Jeder kann sehen, was fertig ist und was noch Aufmerksamkeit erfordert, bevor die Kampagne live geht.
+  points:
+  - title: Ein Genehmigungsworkflow
+    description: Verwenden Sie für die Originalversion und die übersetzte Version die gleichen transparenten Stufen.
+  - title: Änderungen bleiben sichtbar
+    description: Sehen Sie, wann eine Aktualisierung der Quelle möglicherweise einen weiteren Übersetzungsdurchlauf erfordert.
+  - title: Veröffentlichen Sie an der richtigen Stelle
+    description: Halten Sie die Sprachversionen mit den für sie vorgesehenen Kanälen verbunden.
 faq:
-  - q: "Wie vermarkte ich mein Unternehmen in anderen Ländern?"
-    a:
-      - "Erstellen Sie Ihre Inhalte in Ihrer Sprache und übersetzen Sie sie dann mit Bazam in eine von mehr als 50 Sprachen. Jede Übersetzung passt sich dem Zielmarkt an und bewahrt dabei Ihre Markenstimme. Sie brauchen keine Übersetzungsagentur und keine mehrsprachigen Mitarbeiter."
-
-  - q: "Ist KI-Übersetzung gut genug für Marketing?"
-    a:
-      - "Ja. Moderne KI-Übersetzung erfasst Ton, Intention und kulturellen Kontext — weit über eine Wort-für-Wort-Übersetzung hinaus. Für die meisten Unternehmen liefert KI-Übersetzung Ergebnisse, die mit professionellen Übersetzern vergleichbar sind, zu einem Bruchteil der Kosten und Zeit. Sie können vor der Veröffentlichung immer noch bearbeiten."
-
-  - q: "Wie bewahre ich meine Markenstimme beim Übersetzen von Inhalten?"
-    a:
-      - "Bazams Übersetzungsmodelle analysieren den Ton, Stil und Satzaufbau Ihrer Originalinhalte und replizieren sie in der Zielsprache. Das Ergebnis sind Inhalte, die in Spanisch, Französisch, Englisch oder jeder anderen Sprache nach Ihrer Marke klingen — keine flache, wörtliche Übersetzung."
-
-  - q: "Was kostet es, Marketing-Inhalte zu übersetzen?"
-    a:
-      - "Professionelle Übersetzung kostet 0,10–0,20 € pro Wort oder 100–500+ € pro Seite. KI-Übersetzung über Bazam ist in Ihrem Abonnement enthalten. Für Unternehmen, die regelmäßig in mehreren Märkten veröffentlichen, sind die Einsparungen enorm."
-
-  - q: "Wie mache ich SEO in mehreren Sprachen?"
-    a:
-      - "Erstellen Sie SEO-optimierte Inhalte in Ihrer Hauptsprache und übersetzen Sie sie dann mit Bazam. Die Übersetzung bewahrt Ihre Keyword-Intention und Content-Struktur und passt sich natürlich an die Zielsprache an. Jedes übersetzte Stück ist einzigartig, kein Duplicate-Content-Risiko."
-
-  - q: "Wie erreiche ich Kunden, die meine Sprache nicht sprechen?"
-    a:
-      - "Übersetzen Sie Ihre bestehenden Inhalte. Menschen kaufen in ihrer eigenen Sprache — so einfach ist das. Bazams Ein-Klick-Übersetzung verwandelt Ihre Blogbeiträge, Social-Content und Produktseiten sofort in eine von mehr als 50 Sprachen."
-
-  - q: "Wie verwalte ich Inhalte in mehreren Sprachen?"
-    a:
-      - "Erstellen Sie alles zuerst in Ihrer Hauptsprache und übersetzen Sie dann. Bazam behandelt jede Sprachversion separat, sodass Sie jede Übersetzung einzeln überprüfen, bearbeiten und veröffentlichen können. Ihr Team muss die Zielsprache nicht sprechen, um den Prozess zu verwalten."
-
-  - q: "Lohnt es sich, meine Website und Inhalte in andere Sprachen zu übersetzen?"
-    a:
-      - "Wenn Sie potenzielle Kunden haben, die andere Sprachen sprechen — ja. Kunden, die Inhalte in ihrer Muttersprache sehen, kaufen deutlich wahrscheinlicher. Mit KI-Übersetzung ist die Kostenbarriere verschwunden. Die Frage ist nicht mehr 'Können wir uns Übersetzung leisten?', sondern 'Können wir es uns leisten, nicht zu übersetzen?'"
-
-  - q: "Wie lokalisiere ich Inhalte für verschiedene Märkte?"
-    a:
-      - "Übersetzung ist der erste Schritt — Bazam übernimmt das automatisch. Für tiefere Lokalisierung passen Sie Ihre Zielgruppen-Personas nach Markt an und bitten den Agenten, marktspezifische Inhalte zu erstellen, die lokale Anliegen, Trends und Präferenzen ansprechen."
+- q: In wie viele Sprachen kann Bazam Inhalte übersetzen?
+  a:
+  - Bazam unterstützt die Erstellung und Übersetzung von Inhalten in mehr als 50 Sprachen. Eine Kampagne kann auf mehrere Sprachen gleichzeitig ausgerichtet sein.
+- q: Bewahrt die KI-Übersetzung die Stimme meiner Marke?
+  a:
+  - Bazam nutzt bei der Erstellung von Sprachversionen die gespeicherte Markenstimme und den Kampagnenkontext mit dem Ziel, die Persönlichkeit und Absicht zu bewahren, anstatt Wörter isoliert zu übersetzen.
+- q: Können Marketinginhalte für verschiedene Kulturen angepasst werden?
+  a:
+  - Ja. Die sprachlichen Einstellungen einer Kampagne können die kulturelle Anpassung steuern, sodass Wortlaut und Betonung zum Zielmarkt passen, statt sich wie eine wörtliche Übersetzung zu lesen.
+- q: Was passiert, wenn ich den ursprünglichen Inhalt ändere?
+  a:
+  - Verlinkte Übersetzungen werden gekennzeichnet, wenn sich der Hauptinhalt geändert hat, sodass deutlich wird, welche Versionen möglicherweise erneut übersetzt werden müssen.
+- q: Können übersetzte Inhalte für verschiedene Konten geplant werden?
+  a:
+  - Ja. Kanäle können nach Sprache gruppiert werden und übersetzte Inhalte können für das entsprechende Konto eingeplant werden, während sie gleichzeitig mit derselben Kampagne verbunden bleiben.
 ---

@@ -12,9 +12,9 @@ featureCards:
   title: "Ziehen Sie eine andere Lösung in Betracht?"
   description: "Jede Seite vergleicht direkt: Was weiß die KI über Ihren Kunden, was schreibt sie und welche Aufgaben überlässt sie weiterhin Ihnen?"
   cards:
-    - { title: "Bazam vs. ChatGPT", icon: edit, url: "/de/alternativen/bazam-vs-chatgpt/", description: "Der Entwurf ist nur einer von ungefähr sechs Schritten. Sehen Sie, was mit den anderen fünf geschieht und wie Bazam sich mit dem Chat verbindet, für den Sie bereits bezahlen." }
-    - { title: "Bazam vs. Blaze", icon: bullhorn, url: "/de/alternativen/bazam-vs-blaze/", description: "Für Ihre Marke schreiben oder heute für einen bestimmten Leser und morgen für einen anderen. Dazu Kundenfreigaben ohne geteilte Passwörter." }
-    - { title: "Bazam vs. Anyword", icon: chart, url: "/de/alternativen/bazam-vs-anyword/", description: "Texte nachträglich bewerten oder das Briefing verbessern, das sie austauschbar gemacht hat. Anschließend plant und veröffentlicht Bazam für Sie." }
+    - { title: "Bazam vs. ChatGPT", icon: edit, url: "/de/alternativen/bazam-im-vergleich-zu-chatgpt/", description: "Der Entwurf ist nur einer von ungefähr sechs Schritten. Sehen Sie, was mit den anderen fünf geschieht und wie Bazam sich mit dem Chat verbindet, für den Sie bereits bezahlen." }
+    - { title: "Bazam vs. Blaze", icon: bullhorn, url: "/de/alternativen/bazam-im-vergleich-zu-blaze/", description: "Für Ihre Marke schreiben oder heute für einen bestimmten Leser und morgen für einen anderen. Dazu Kundenfreigaben ohne geteilte Passwörter." }
+    - { title: "Bazam vs. Anyword", icon: chart, url: "/de/alternativen/bazam-im-vergleich-zu-anyword/", description: "Texte nachträglich bewerten oder das Briefing verbessern, das sie austauschbar gemacht hat. Anschließend plant und veröffentlicht Bazam für Sie." }
 comparisonGrid: "comparison_generic"
 faq:
   - q: "Was unterscheidet Bazam von allen anderen?"

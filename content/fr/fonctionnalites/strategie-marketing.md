@@ -1,108 +1,89 @@
 ---
-title: Stratégie de marketing de contenu IA
+title: Gardez chaque élément de contenu lié à une campagne
 translationKey: feature-marketing-strategy
-type: features
-heroDescription: Aucun diplôme en marketing requis. Laissez Bazam créer automatiquement du contenu qui guide votre audience de la découverte à l'action, aidant votre entreprise à obtenir des résultats concrets.
-
-features:
-- title: "Contenu stratégique pour le parcours d'achat"
-  image: "/images/feature-office-1.jpg"
-  image_alt: "Image de fonctionnalité"
-  description:
-    - Tous les contenus ne donnent pas des résultats. Bazam crée automatiquement du matériel qui guide votre audience tout au long de son parcours d'achat, du premier contact à l'action.
-    - Chaque contenu créé par Bazam joue un rôle spécifique pour rapprocher les clients potentiels de votre entreprise.
-  points:
-    - title: Contenu intentionnel
-      description: Générez du contenu qui sert des objectifs spécifiques dans le parcours de votre client
-    - title: Approche équilibrée
-      description: Créez le bon mix de contenu accrocheur, éducatif et orienté action
-    - title: Aucune expérience marketing requise
-      description: Laissez Bazam gérer la stratégie pendant que vous vous concentrez sur votre activité
-  footer:
-    - Arrêtez de publier du contenu au hasard et commencez à publier un mix de contenu qui délivre des résultats
-- title: "Guidez votre audience vers l'action"
-  image: "/images/feature-office-2.jpg"
-  image_alt: "Image de fonctionnalité"
-  description:
-    - Captez leur attention avec des titres accrocheurs et des sujets qui répondent à leurs problèmes initiaux.
-    - Convertissez l'intérêt en action avec du contenu convaincant qui inspire votre audience à passer à l'acte.
-  points:
-    - title: Contenu accrocheur
-      description: Captez de nouveaux membres d'audience avec du contenu percutant centré sur leurs problèmes
-    - title: Matériel de développement d'intérêt
-      description: Nourrissez les clients potentiels avec du contenu éducatif qui met en valeur vos solutions
-    - title: Messages orientés action
-      description: Convertissez l'intérêt en résultats mesurables avec des appels à l'action convaincants
-  footer:
-    - Chaque entreprise a besoin de clients à différentes étapes. Bazam s'assure que vous vous adressez à tous efficacement.
-
+description: Organisez le contenu autour d'un objectif, d'un public et d'un plan de publication afin que l'activité aboutisse à quelque chose d'utile.
+ctaText: Obtenez un accès anticipé
+ctaUrl: "#early-access"
 featureList:
-  title: "Stratégie intégrée pour que chaque contenu ait un impact"
-  description: "Aucun diplôme en marketing requis. Bazam crée automatiquement le bon mix de contenu pour guider votre audience de la première découverte au client payant."
+  title: D’un objectif de campagne à un travail coordonné
+  description: Gardez le brief, le public, les langues, le contenu et les résultats connectés dès le début.
   features:
-    - iconColor: "primary"
-      title: "Mix de contenu stratégique"
-      icon: chart
-      points:
-        - description: "Équilibrez automatiquement le <b>contenu de sensibilisation, considération et conversion</b> dans votre calendrier."
-        - description: "Chaque contenu est étiqueté avec sa <b>finalité stratégique</b> pour que vous sachiez exactement ce qu'il fait."
-        - description: "Le contenu s'aligne sur le <b>parcours d'achat AIDA</b> — Attention, Intérêt, Désir, Action."
-        - description: "Fini les publications aléatoires — chaque contenu <b>sert un objectif spécifique</b> dans votre entonnoir marketing."
-    - iconColor: "primary"
-      title: "Ciblage orienté audience"
-      icon: users
-      points:
-        - description: "Construisez des <b>personas d'audience détaillés</b> avec données démographiques, motivations et comportements d'achat."
-        - description: "Le contenu s'adresse directement aux <b>points de douleur et désirs de vos clients</b>."
-        - description: "Atteignez différents segments avec des <b>messages sur mesure</b> — prospects, clients existants et partenaires."
-        - description: "L'agent suggère des sujets basés sur <b>ce que votre audience a réellement besoin d'entendre</b>."
-    - iconColor: "primary"
-      title: "Mesurez ce qui compte"
-      icon: upload
-      points:
-        - description: "Suivez <b>l'engagement, la portée, les clics et la croissance des abonnés</b> sur chaque canal."
-        - description: "Voyez quels types de contenu et sujets <b>donnent les meilleurs résultats</b>."
-        - description: "Demandez à l'agent un <b>résumé de performance en langage clair</b> — pas besoin de fouiller dans les tableaux de bord."
-        - description: "Doublez ce qui fonctionne, <b>arrêtez de deviner</b>, et laissez les données guider votre stratégie."
-
-cta:
-  title: Commencez à créer du contenu orienté résultats maintenant !
-  description: Prêt à publier du contenu qui fonctionne vraiment pour votre entreprise ? Essayez Bazam maintenant et laissez notre système de stratégie automatique penser le marketing pour vous !
-
+  - iconColor: primary
+    title: Définir la direction
+    icon: bullhorn
+    points:
+    - description: Donnez à chaque campagne un objectif et un public cible.
+    - description: Créez des liens traçables afin que les visites et les résultats puissent être retracés jusqu'à la campagne.
+    - description: Choisissez les langues et les canaux que la campagne doit couvrir.
+  - iconColor: primary
+    title: Planifiez le bon mélange
+    icon: chart
+    points:
+    - description: Créez du contenu pour l'attention, l'intérêt, le désir et l'action.
+    - description: Choisissez parmi plus de 30 formats, notamment des études de cas, des comparaisons, des FAQ et des procédures.
+    - description: Enregistrez des combinaisons utiles de type de contenu, de ton et d’objectif pour les réutiliser.
+  - iconColor: primary
+    title: Continuez la livraison ensemble
+    icon: calendar
+    points:
+    - description: Planifiez chaque pièce sur le même calendrier visuel.
+    - description: Créez une version distincte pour chaque plateforme et langue.
+    - description: Examinez les résultats au niveau de la campagne, du canal ou de la publication individuelle.
+features:
+- title: Donnez un but à chaque campagne avant de créer les publications
+  tab: Façonner la campagne
+  image: "/images/campaign-options.png"
+  image_alt: Contrôles de campagne pour l'audience, les messages et les thèmes de contenu
+  visual_type: produit
+  description:
+  - Fixez un objectif, choisissez le public et décidez quels marchés et chaînes sont importants. Bazam garde ces décisions attachées à chaque pièce créée pour la campagne.
+  points:
+  - title: Commencez par le public
+    description: Choisissez le profil d'audience que la campagne doit déplacer.
+  - title: Couvrir tout le voyage
+    description: Planifiez un contenu qui attire l'attention, suscite l'intérêt, crée du désir et demande de l'action.
+  - title: Réutilisez ce qui fonctionne
+    description: Enregistrez les combinaisons de format, de ton et d’objectif sous forme de profils de contenu pour des travaux futurs.
+- title: Gardez le plan connecté grâce à la publication et aux résultats
+  tab: Continuez à bouger
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Contenu évoluant via un plan de campagne coordonné
+  description:
+  - Une campagne est bien plus qu'un dossier de brouillons. Planifiez ses éléments ensemble, créez des versions pour chaque marché et constatez les performances sans perdre de vue l'objectif initial.
+  points:
+  - title: Calendrier coordonné
+    description: Planifiez l'activité de la campagne sur tous les canaux et sur plusieurs jours.
+  - title: Visites traçables
+    description: Utilisez des liens de campagne qui montrent quel contenu a amené les gens vers votre site.
+  - title: Résultats en contexte
+    description: Examinez les performances de l’ensemble de la campagne ou explorez une chaîne ou une publication.
+- title: Utilisez les résultats pour améliorer la prochaine campagne
+  tab: Apprenez ce qui fonctionne
+  image: "/images/features/illustration-insights.webp"
+  image_alt: Les résultats marketing sont examinés pour révéler une prochaine étape claire
+  description:
+  - Ramenez les résultats de la campagne, de la chaîne et de la publication au plan d'origine. Il est ainsi plus facile de déterminer quelles idées méritent d’être réutilisées et lesquelles doivent être modifiées.
+  points:
+  - title: Comparez au bon niveau
+    description: Parcourez une campagne ou concentrez-vous sur un canal ou une publication.
+  - title: Connecter les visites au contenu
+    description: Utilisez les liens de campagne pour voir ce qui a amené les gens à votre site.
+  - title: Améliorer le prochain plan
+    description: Transmettez des leçons utiles au lieu de partir uniquement de votre instinct.
 faq:
-  - q: "Je n'ai pas de stratégie marketing. Par où commencer ?"
-    a:
-      - "Avec Bazam, vous n'en avez pas besoin. Parlez de votre entreprise et de votre audience à l'agent et il crée automatiquement du contenu qui guide les clients potentiels de leur découverte de votre marque à l'action. La stratégie est intégrée — aucun diplôme en marketing requis."
-
-  - q: "Sur quoi devrais-je publier ?"
-    a:
-      - "Un mix de contenu qui remplit différents objectifs : des publications accrocheuses pour les nouvelles audiences, du contenu éducatif qui construit la confiance, et du contenu orienté action qui génère des leads. Bazam équilibre automatiquement ce mix en fonction de votre entreprise et de votre audience."
-
-  - q: "Je publie du contenu mais rien ne se passe. Qu'est-ce que je fais mal ?"
-    a:
-      - "Probablement publier du contenu au hasard sans intention stratégique. Chaque contenu devrait servir un objectif — attirer de nouvelles personnes, éduquer les prospects ou inciter à l'action. Bazam étiquette chaque contenu avec sa finalité stratégique pour que vous sachiez exactement ce qu'il fait et pourquoi."
-
-  - q: "Comment transformer le contenu en vrais clients ?"
-    a:
-      - "Créez du contenu pour chaque étape du parcours d'achat. Bazam crée automatiquement du contenu qui capte l'attention, construit l'intérêt, crée le désir et incite à l'action — pour que vous vous adressiez aux clients potentiels où qu'ils soient dans leur prise de décision."
-
-  - q: "À quelle fréquence une petite entreprise devrait-elle publier du contenu ?"
-    a:
-      - "Visez 1 à 2 articles de blog par semaine et 3 à 5 publications sociales par semaine. La régularité compte plus que le volume. Bazam gère à la fois la stratégie et la création, donc maintenir cette fréquence ne prend qu'une seule session par mois."
-
-  - q: "Devrais-je me concentrer sur mon blog ou les réseaux sociaux ?"
-    a:
-      - "Les deux — ils servent des objectifs différents. Le contenu de blog génère du trafic organique via les moteurs de recherche. Les réseaux sociaux construisent l'engagement et la notoriété. Bazam crée du contenu pour les deux, en adaptant automatiquement le format, la longueur et le ton pour chaque canal."
-
-  - q: "Je vends différents produits. Ai-je besoin de différentes stratégies de contenu ?"
-    a:
-      - "Bazam gère cela pour vous. Parlez-lui de tous vos produits et services et il crée un mix de contenu équilibré qui couvre tout — sans que vous ayez besoin de gérer des stratégies ou calendriers de contenu séparés."
-
-  - q: "Comment savoir quel contenu fonctionne vraiment ?"
-    a:
-      - "Bazam suit l'engagement sur tous vos canaux et étiquette chaque contenu avec sa finalité stratégique. Demandez à l'agent quels types de contenu et sujets donnent les meilleurs résultats, et concentrez-vous sur ce qui fonctionne."
-
-  - q: "Qu'est-ce qu'un entonnoir de marketing de contenu ?"
-    a:
-      - "C'est le parcours que les gens suivent depuis la découverte de votre entreprise jusqu'à devenir client. Chaque étape nécessite un contenu différent — contenu de sensibilisation en haut, contenu éducatif au milieu, et contenu de conversion en bas. Bazam crée le bon mix automatiquement."
+- q: Qu'est-ce que la gestion de campagnes de contenu ?
+  a:
+  - La gestion des campagnes de contenu regroupe l'objectif, l'audience, le contenu, le calendrier, les canaux et les résultats d'une campagne. Cela aide une équipe à voir comment les publications individuelles contribuent au même résultat.
+- q: Comment l’IA peut-elle aider à planifier une campagne marketing ?
+  a:
+  - Bazam peut suggérer des sujets et créer différents formats de contenu en utilisant votre public, votre marque et votre objectif de campagne sélectionnés. Vous restez responsable de l'orientation et de l'approbation.
+- q: Une campagne peut-elle inclure plusieurs langues ?
+  a:
+  - Oui. Vous pouvez sélectionner plusieurs langues cibles pour une campagne et coordonner le contenu traduit et les canaux spécifiques à la langue à partir du même plan.
+- q: Quel contenu une campagne doit-elle inclure ?
+  a:
+  - Cela dépend de l'objectif, mais une campagne équilibrée comprend généralement un contenu qui attire l'attention, répond aux questions, suscite le désir et donne au public une prochaine étape claire. Bazam propose plus de 30 formats pour créer ce mix.
+- q: Comment mesurer une campagne de contenu ?
+  a:
+  - Bazam peut combiner les résultats de publication et d'engagement au niveau de la campagne, du canal et de la publication. Les liens de campagne traçables peuvent également relier les visites du site et les conversions au travail qui les a générées.
 ---

@@ -122,7 +122,7 @@
                 <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">{{ T "resources" }}</h2>
                 <ul class="text-gray-500 dark:text-gray-400">
                     <li class="mb-4">
-                        <a href="/audience-driven-marketing/" class="hover:underline">{{ T "whatIsAudienceDrivenMarketing" }}</a>
+                        <a href="{{ partial "menu-url.html" (dict "item" (dict "URL" "/audience-driven-marketing/") "site" .Site) }}" class="hover:underline">{{ T "whatIsAudienceDrivenMarketing" }}</a>
                     </li>
                     <li class="mb-4">
                         <a href="{{ .Site.Home.RelPermalink }}#early-access" class="hover:underline">{{ T "signUp" }}</a>

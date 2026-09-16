@@ -1,107 +1,89 @@
 ---
-title: "Suggestions de contenu IA : libérez des idées illimitées"
+title: Des idées de contenu ancrées dans votre entreprise
 translationKey: feature-suggestions
-type: features
-heroDescription: Dites adieu au syndrome de la page blanche. Les suggestions IA de Bazam fournissent une inspiration sans fin pour alimenter votre stratégie de contenu.
-
-features:
-- title: "Fini le syndrome de la page blanche : générez des idées de contenu à l'infini"
-  image: "/images/blog-wizard.png"
-  image_alt: "Assistant de blog"
-  description:
-    - Vous fixez une page blanche ? Bazam élimine le syndrome de la page blanche avec un flux constant de suggestions pertinentes et engageantes.
-    - Arrêtez de lutter pour trouver l'inspiration et commencez à créer du contenu captivant qui résonne avec votre audience.
-  points:
-    - title: Surmontez le syndrome de la page blanche
-      description: Ne manquez plus jamais d'idées grâce aux suggestions de contenu propulsées par l'IA de Bazam.
-    - title: Découvrez des opportunités cachées
-      description: Identifiez les sujets tendance et les besoins non satisfaits dans votre secteur
-    - title: Alimentez votre stratégie de contenu
-      description: Générez un flux constant d'idées pour remplir votre pipeline de contenu et engager votre audience.
-  footer:
-    - Une inspiration sans fin, toujours à portée de main.
-- title: "Du contenu pertinent pour votre audience"
-  image: "/images/persona.png"
-  image_alt: "Personas d'audience"
-  description:
-    - Arrêtez de deviner ce que votre audience veut voir. Bazam analyse votre entreprise, vos produits et votre marché cible pour fournir des suggestions de contenu ultra-pertinentes.
-  points:
-    - title: Ciblez votre client idéal
-      description: Concentrez votre contenu sur les sujets les plus pertinents pour votre audience cible, propulsé par Bazam.
-    - title: Stimulez l'engagement et les conversions
-      description: Attirez la bonne attention avec du contenu qui s'adresse directement aux besoins et intérêts de votre audience
-    - title: Améliorez la performance du contenu
-      description: Créez du contenu qui donne des résultats en vous concentrant sur des sujets qui résonnent auprès de votre audience
-  footer:
-    - La pertinence est la clé de l'engagement. Bazam vous aide à créer du contenu qui connecte.
-
+description: Générez des sujets et des briefs pertinents à partir de votre marque, de votre public et de vos objectifs au lieu de regarder un calendrier vierge.
+ctaText: Obtenez un accès anticipé
+ctaUrl: "#early-access"
 featureList:
-  title: "Ne manquez plus jamais d'idées de contenu"
-  description: "Bazam analyse votre entreprise, votre audience et votre secteur pour suggérer des sujets de contenu ciblés — pour que vous sachiez toujours quoi créer ensuite."
+  title: Une prochaine idée utile, chaque fois que vous en avez besoin
+  description: Bazam utilise le contexte déjà présent dans votre projet pour suggérer quoi créer ensuite.
   features:
-    - iconColor: "primary"
-      title: "Inspiration sans fin"
-      icon: edit
-      points:
-        - description: "Obtenez des <b>suggestions de sujets fraîches</b> basées sur votre entreprise, vos personas d'audience et les tendances du secteur."
-        - description: "Demandez de nouvelles séries <b>quand vous planifiez</b> — mensuelle, trimestrielle ou à la demande."
-        - description: "Les suggestions tiennent compte de <b>ce que vous avez déjà publié</b> pour garder votre calendrier frais."
-        - description: "Ne fixez plus jamais une <b>page blanche</b> — chaque session commence avec des idées prêtes."
-    - iconColor: "primary"
-      title: "Sujets stratégiquement ciblés"
-      icon: chart
-      points:
-        - description: "Les sujets correspondent à <b>chaque étape du parcours d'achat</b> — sensibilisation, considération, conversion."
-        - description: "Les suggestions ciblent les <b>points de douleur et intérêts spécifiques de votre audience</b>."
-        - description: "Identifiez les <b>lacunes de contenu</b> — des sujets dont votre audience a besoin mais que vous n'avez pas encore couverts."
-        - description: "Les suggestions s'adaptent aux <b>tendances saisonnières, lancements de produits et campagnes</b>."
-    - iconColor: "primary"
-      title: "De l'idée au post publié"
-      icon: upload
-      points:
-        - description: "Cliquez sur une suggestion et <b>développez-la en un brouillon complet</b> — titre, structure et contenu."
-        - description: "Générez des idées dans différents formats — <b>articles de blog, publications sociales, vidéos, newsletters</b>."
-        - description: "Approuvez les suggestions et l'agent <b>crée, programme et publie</b> automatiquement."
-        - description: "Créez du contenu dans <b>plusieurs langues</b> à partir d'un seul ensemble d'idées de sujets."
-
-cta:
-  title: Découvrez votre prochaine grande idée de contenu maintenant !
-  description: Prêt à débloquer un monde de possibilités de contenu et dire adieu au syndrome de la page blanche ? Essayez Bazam maintenant et découvrez la puissance de l'inspiration propulsée par l'IA !
-
+  - iconColor: primary
+    title: Des idées contextuelles
+    icon: lightbulb
+    points:
+    - description: Générez des sujets à partir de votre marque, de votre offre, de votre audience et de votre objectif de campagne.
+    - description: Commencez par une courte note lorsque vous connaissez déjà la direction générale.
+    - description: Obtenez des suggestions adaptées aux personnes que vous essayez de toucher.
+  - iconColor: primary
+    title: Construire un plan thématique
+    icon: calendar
+    points:
+    - description: Organisez les idées en sujets principaux et en contenu complémentaire.
+    - description: Utilisez des balises pour conserver les travaux connexes ensemble.
+    - description: Comblez les lacunes du calendrier avec du contenu qui sert toujours le plan plus large.
+  - iconColor: primary
+    title: Passer de l’idée au brouillon
+    icon: edit
+    points:
+    - description: Transformez une suggestion sélectionnée en un élément de contenu complet.
+    - description: Choisissez le format, le public et la durée avant que Bazam n'écrive.
+    - description: Créez plusieurs éléments connexes à la fois lorsque la campagne doit être mise à l'échelle.
+features:
+- title: Obtenez des idées qui correspondent aux personnes que vous souhaitez atteindre
+  tab: Commencez par le public
+  image: "/images/persona.png"
+  image_alt: Les besoins et les motivations du public façonnent les idées de contenu
+  visual_type: produit
+  description:
+  - Les générateurs d’idées génériques ne savent rien de votre entreprise. Bazam peut utiliser l'offre, le profil d'audience et l'objectif de campagne déjà stockés dans votre projet.
+  points:
+  - title: En fonction de votre audience
+    description: Générez des sujets autour des problèmes, des motivations et des intérêts qui les intéressent.
+  - title: Basé sur votre marque
+    description: Gardez les idées pertinentes par rapport à ce que vous vendez réellement et à la position que vous souhaitez détenir.
+  - title: En fonction de votre objectif
+    description: Demandez des idées qui attirent l’attention, éduquent, persuadent ou incitent à l’action.
+- title: Transformez une idée vague en un plan de contenu organisé
+  tab: Construire l'idée
+  image: "/images/features/illustration-knowledge.webp"
+  image_alt: Un matériel source utile devient une idée de contenu raffinée
+  description:
+  - Créez des sujets connexes autour d'un thème central, sélectionnez les meilleures suggestions et transformez-les en résumés ou en brouillons finis sans les copier dans un autre outil.
+  points:
+  - title: Sujets liés au groupe
+    description: Organisez un sujet principal et les questions complémentaires autour de celui-ci.
+  - title: Évitez les quasi-doublons
+    description: La création groupée vérifie les titres afin que le plan ne soit pas rempli de la même idée dans des mots différents.
+  - title: Créez à l'échelle dont vous avez besoin
+    description: Créez un message maintenant ou générez un gros lot dans la même direction.
+- title: Trouvez différents angles sans vous éloigner du public
+  tab: Explorez de nouveaux angles
+  image: "/images/features/illustration-ideas.webp"
+  image_alt: Plusieurs idées de contenu issues des besoins et des objectifs d'un public
+  description:
+  - Explorez des moyens pratiques, émotionnels et persuasifs sur le même sujet. Les idées peuvent varier considérablement tout en s'éloignant de ce qui intéresse le public.
+  points:
+  - title: Plus d'une façon d'entrer
+    description: Essayez les questions, les motivations, les objections et les objectifs comme points de départ.
+  - title: Une variété avec une raison
+    description: Changez l'angle sans perdre le but de la campagne.
+  - title: Choisir avant de créer
+    description: Passez en revue les suggestions et développez uniquement les idées qui méritent d’être poursuivies.
 faq:
-  - q: "Comment trouver des idées de contenu pour mon entreprise ?"
-    a:
-      - "Demandez à l'agent. En se basant sur votre entreprise, votre audience et votre secteur, Bazam suggère des sujets auxquels vous n'aviez pas pensé — des angles tendance aux guides pérennes. Vous choisissez ceux qui résonnent et l'agent crée le contenu."
-
-  - q: "Comment créer du contenu pour différentes étapes du parcours d'achat ?"
-    a:
-      - "Bazam associe les suggestions au framework AIDA — Attention, Intérêt, Désir, Action. Il suggère des titres accrocheurs pour les nouvelles audiences, des guides éducatifs pour les prospects, des études de cas pour la considération, et du contenu orienté conversion pour les acheteurs prêts."
-
-  - q: "Comment empêcher mon contenu de devenir répétitif ?"
-    a:
-      - "Bazam suit ce que vous avez déjà publié et évite de suggérer des doublons. Chaque nouvelle série de suggestions tient compte de votre contenu existant pour garder votre calendrier frais et votre audience engagée avec des angles véritablement nouveaux."
-
-  - q: "Quel type de contenu devrais-je créer pour mon audience ?"
-    a:
-      - "Cela dépend des besoins de votre audience. Bazam analyse votre entreprise et vos personas cibles pour suggérer des formats spécifiques — guides pratiques, listes, articles comparatifs, astuces, études de cas — adaptés à ce qui résonnera avec votre audience spécifique."
-
-  - q: "Comment créer du contenu pour différentes langues et marchés ?"
-    a:
-      - "Commencez avec des suggestions dans votre langue, créez le contenu, puis traduisez-le dans plus de 50 langues. L'agent peut suggérer des sujets qui fonctionnent bien à travers les cultures, pour que votre contenu résonne mondialement."
-
-  - q: "Comment transformer une idée de contenu en publication réelle ?"
-    a:
-      - "Cliquez sur la suggestion. L'agent Bazam la développe en un contenu complet — titre, structure et contenu complet dans votre voix de marque. Vous relisez, modifiez si besoin, et publiez. Un clic de l'idée au brouillon."
-
-  - q: "Comment planifier du contenu pour un lancement de produit ou une campagne saisonnière ?"
-    a:
-      - "Indiquez à l'agent votre thème de campagne, date de lancement ou focus saisonnier. Il génère un ensemble ciblé d'idées de contenu — teasers pré-lancement, annonces de lancement, contenu de suivi — le tout aligné sur votre calendrier et vos objectifs."
-
-  - q: "Comment identifier des lacunes de contenu dans mon marketing ?"
-    a:
-      - "Bazam compare ce que vous avez publié avec ce dont votre audience a besoin. Il identifie les sujets manquants — des étapes du parcours d'achat que vous ne couvrez pas, des questions que votre audience pose et auxquelles vous n'avez pas répondu."
-
-  - q: "Combien d'idées de contenu Bazam génère-t-il ?"
-    a:
-      - "Autant que nécessaire. Demandez une nouvelle série quand vous planifiez le contenu du mois ou du trimestre. L'agent génère des suggestions fraîches à chaque fois, basées sur vos données d'entreprise et d'audience en constante évolution."
+- q: Comment Bazam génère-t-il des idées de contenu ?
+  a:
+  - Bazam peut utiliser votre marque, votre offre, votre profil d'audience et votre objectif de campagne pour suggérer des sujets et des résumés de contenu pertinents. Vous pouvez également lui donner une brève note lorsque vous avez déjà une direction en tête.
+- q: L’IA peut-elle m’aider lorsque je suis à court d’idées de contenu ?
+  a:
+  - Oui. Bazam peut suggérer de nouveaux angles, des questions au public et des sujets connexes, puis transformer les idées que vous choisissez en contenu complet.
+- q: Puis-je organiser des idées de contenu pour le référencement ?
+  a:
+  - Oui. Les sujets peuvent être organisés en un sujet principal avec un contenu complémentaire associé, vous aidant ainsi à créer une couverture utile au lieu d'une liste de publications déconnectées.
+- q: Bazam peut-il créer plusieurs pièces à partir d’une seule idée ?
+  a:
+  - Oui. Une direction sélectionnée peut devenir plusieurs formats de contenu ou un plus grand lot de pièces liées. Bazam vérifie les titres en masse pour réduire les idées quasiment en double.
+- q: Les suggestions de contenu sont-elles automatiquement publiées ?
+  a:
+  - Non. Une suggestion est un point de départ. Vous choisissez ce que vous souhaitez développer, examinez le contenu final et décidez s'il doit être publié et quand.
 ---

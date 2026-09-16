@@ -1,116 +1,88 @@
 ---
-title: "Votre agent IA : un département marketing virtuel"
+title: Votre travail marketing, géré à travers une conversation
 translationKey: feature-agent
-type: features
-heroDescription: "Un agent IA autonome qui connaît votre marque, crée votre contenu et gère votre marketing — le tout via une <b>conversation naturelle</b>. Pas de prompts. Pas de modèles. Dites-lui simplement ce dont vous avez besoin."
-
-features:
-- title: "Demandez-lui n'importe quoi. Regardez-le livrer."
-  image: "/images/persona.png"
-  image_alt: "Une interface de chat conversationnelle avec votre agent IA."
-  description:
-    - "Voici à quoi ressemblent de vraies conversations avec votre agent."
-  points:
-    - title: "'Écris une campagne LinkedIn sur le lancement de notre produit'"
-      description: "L'agent crée une série de publications adaptées à votre audience, votre voix de marque et vos objectifs de campagne."
-    - title: "'Comment a performé le contenu du mois dernier ?'"
-      description: "Il récupère les données d'engagement, de portée et de croissance sur tous les canaux connectés et résume les points clés."
-    - title: "'Donne-moi 10 idées d'articles pour notre audience B2B'"
-      description: "Il s'appuie sur votre positionnement de marque, vos personas d'audience et votre base de connaissances pour suggérer des sujets stratégiques."
-    - title: "'Quelle est la voix de marque du Client X ?'"
-      description: "Les nouveaux membres de l'équipe obtiennent des réponses instantanées et précises sur n'importe quelle marque — plus besoin de demander aux collègues ou de fouiller dans les documents."
-  footer:
-    - "Une conversation remplace cinq outils et une douzaine d'onglets."
-
-- title: "Avantage concurrentiel. Activé."
-  image: "/images/campaign-options.png"
-  image_alt: "Un agent IA qui booste une opération marketing."
-  description:
-    - "Les petites équipes vont bientôt surpasser en marketing des entreprises dix fois plus grandes. Voici comment."
-  points:
-    - title: "Vitesse surhumaine"
-      description: "Un mois de contenu créé en une seule session. Des idées de campagne générées en secondes. Des rapports de performance générés en pleine conversation. Vous avancez à la vitesse de la pensée."
-    - title: "Stratégie surhumaine"
-      description: "Insights d'audience, angles concurrentiels et suggestions de sujets basées sur les données — à la demande, à tout moment. Comme avoir un stratège senior qui ne dort jamais."
-    - title: "Intelligence surhumaine"
-      description: "L'agent absorbe votre marque, votre audience, vos objectifs et vos résultats. Plus vous le nourrissez, plus il s'affine. Chaque campagne plus intelligente que la précédente."
-    - title: "Rentabilité surhumaine"
-      description: "Une production marketing de niveau entreprise pour une fraction du coût. Chaque heure que votre équipe passait en exécution est désormais consacrée à la croissance."
-  footer:
-    - "Révolutionnez votre marketing. Dès maintenant."
-
+description: Demandez à Bazam de rechercher, créer, éditer, planifier ou expliquer des performances dans le langage courant.
+ctaText: Obtenez un accès anticipé
+ctaUrl: "#early-access"
 featureList:
-  title: "Un agent. Toutes les tâches marketing. Zéro changement de contexte."
-  description: "Votre agent marketing IA remplace l'assemblage d'outils, de modèles et d'onglets — en gérant la création de contenu, la publication, l'analytique et la stratégie dans une seule conversation."
+  title: Dites-lui ce dont vous avez besoin. Continuez à travailler dans la même conversation.
+  description: L'assistant peut utiliser les audiences, la marque, les connaissances et le contenu déjà enregistrés dans votre projet.
   features:
-    - iconColor: "primary"
-      title: "Création de contenu conversationnelle"
-      icon: edit
-      points:
-        - description: "Dites à l'agent ce dont vous avez besoin en <b>langage courant</b> — pas de prompts, de modèles ou de jargon marketing."
-        - description: "Créez des <b>articles de blog, campagnes sociales, communiqués de presse et textes publicitaires</b> via une conversation naturelle."
-        - description: "Réutilisez du contenu dans différents formats — transformez un article en série de posts avec une seule demande."
-        - description: "Créez du contenu en masse pour <b>plusieurs campagnes et clients</b> simultanément."
-    - iconColor: "primary"
-      title: "Intelligence sensible à la marque"
-      icon: chart
-      points:
-        - description: "L'agent <b>mémorise votre marque</b> — voix, audience, produits et stratégie — à travers chaque conversation."
-        - description: "Puisez dans votre <b>base de connaissances</b> de documents, URLs et informations produit pour un contenu précis et détaillé."
-        - description: "Maintenez des <b>contextes de marque séparés</b> pour plusieurs clients — chacun totalement isolé."
-        - description: "Recevez des <b>suggestions de sujets stratégiques</b> basées sur vos personas d'audience et vos objectifs business."
-    - iconColor: "primary"
-      title: "Exécution autonome"
-      icon: upload
-      points:
-        - description: "<b>Planifiez et publiez</b> directement sur WordPress, Facebook, Instagram, LinkedIn, X, YouTube et TikTok."
-        - description: "Demandez un <b>résumé de performance</b> au lieu de vous connecter à cinq plateformes."
-        - description: "Suivez <b>l'engagement, la portée et la croissance</b> sur chaque canal en une seule conversation."
-        - description: "Collaborez avec votre équipe grâce au <b>contrôle d'accès par rôle</b> et aux workflows d'approbation."
-
-cta:
-  title: "Prêt à rencontrer votre nouveau coéquipier ?"
-  description: "Arrêtez de jongler entre les outils et commencez à converser avec votre département marketing. Essayez Bazam gratuitement et voyez l'agent en action."
-
+  - iconColor: primary
+    title: Créer ensemble
+    icon: edit
+    points:
+    - description: Demandez des publications, des campagnes ou des réécritures dans un anglais simple.
+    - description: Laissez l'assistant vous guider à travers les choix manquants au lieu d'apprendre une invite spéciale.
+    - description: Transformez une idée suggérée en contenu réel sans quitter le chat.
+  - iconColor: primary
+    title: Rechercher et réaliser
+    icon: star
+    points:
+    - description: Faites des recherches sur le Web et incluez des sources dans le travail fini.
+    - description: Créez ou modifiez des images à l'aide des téléchargements et des ressources de votre bibliothèque multimédia.
+    - description: Revenez aux conversations de projet précédentes avec le travail et les décisions toujours là.
+  - iconColor: primary
+    title: Planifier et comprendre
+    icon: chart
+    points:
+    - description: Demandez ce qui est prévu, approuvez un plan et publiez-le avec une confirmation explicite.
+    - description: Vérifiez la progression sans chercher à travers des écrans séparés.
+    - description: Demandez comment une campagne, une chaîne ou une publication a fonctionné et obtenez une réponse claire.
+features:
+- title: Passez d'une idée au contenu fini en une seule conversation
+  tab: Créer ensemble
+  image: "/images/features/illustration-create.webp"
+  image_alt: Un collaborateur IA transformant une idée en plusieurs éléments de contenu finis
+  description:
+  - Demandez ce dont vous avez besoin dans le langage courant. Bazam peut collecter les détails manquants, exécuter le bon processus de création et ramener le résultat dans la conversation.
+  points:
+  - title: Aucune invite spéciale
+    description: Décrivez le résultat comme vous le feriez avec un collègue.
+  - title: Votre contexte est déjà là
+    description: L'assistant peut utiliser les profils d'audience du projet, la voix de la marque et les connaissances.
+  - title: Continuez à façonner le résultat
+    description: Demandez une réécriture, un nouvel angle ou une image d'accompagnement sans recommencer.
+- title: Demandez ce qui se passe dans votre marketing
+  tab: Trouver des réponses
+  image: "/images/features/illustration-insights.webp"
+  image_alt: Les résultats marketing sont examinés pour révéler une prochaine étape claire
+  description:
+  - La conversation ne s’arrête pas lorsque le brouillon est rédigé. Demandez ce qui est programmé, publiez après confirmation ou obtenez une explication des performances en anglais simple.
+  points:
+  - title: Planifier et publier
+    description: Planifiez le travail approuvé et vérifiez sa progression à partir de la conversation.
+  - title: Recherche avec des sources
+    description: Demandez à Bazam de faire des recherches sur le Web et d'afficher les sources de sa réponse.
+  - title: Comprendre les résultats
+    description: Comparez les campagnes, les canaux ou les publications sans créer au préalable une feuille de calcul.
+- title: Apportez le matériel que vous avez déjà dans la conversation
+  tab: Utilisez vos sources
+  image: "/images/features/illustration-knowledge.webp"
+  image_alt: Matériel source et contenu réunis au cours d’une seule conversation
+  description:
+  - Joignez un document ou une image, dirigez Bazam vers une page utile ou demandez-lui de rechercher un sujet. La source reste partie intégrante de la conversation pendant que vous décidez quoi en tirer.
+  points:
+  - title: Joindre du matériel utile
+    description: Ajoutez des fichiers et des images sans quitter la conversation.
+  - title: Recherche avec des preuves
+    description: Demandez des informations actuelles et consultez les sources utilisées.
+  - title: Passez directement à la création
+    description: Transformez ce que vous trouvez en un brief, un brouillon ou une campagne pendant que le contexte est nouveau.
 faq:
-  - q: "L'IA peut-elle remplacer mon équipe marketing ?"
-    a:
-      - "Cela dépend de votre budget et de vos attentes. Pour la plupart des entreprises, Bazam peut entièrement remplacer la production de contenu — un agent IA crée, planifie, publie et génère des rapports plus vite et à moindre coût que n'importe quel salarié. Si vous êtes une marque plus importante ou un client particulièrement exigeant qui a besoin de textes sur mesure, un rédacteur humain peut rester le meilleur choix pour certains contenus — mais même dans ce cas, l'éditeur IA de Bazam les accélérera considérablement."
-      - "Là où vous avez encore besoin d'humains, c'est la stratégie, les décisions de marque et la direction créative. L'IA excelle en exécution mais ne définit pas votre vision. Bazam gère le travail lourd pour que votre équipe — qu'il s'agisse d'une personne ou de vingt — consacre son temps à la réflexion qui fait vraiment avancer les choses."
-
-  - q: "Comment empêcher l'IA d'inventer des faits dans mon contenu ?"
-    a:
-      - "Donnez-lui vos propres sources. La base de connaissances de Bazam vous permet d'importer des documents produit, des chartes graphiques et des informations d'entreprise. L'agent les référence directement, il écrit donc à partir de vos faits — pas de son imagination."
-
-  - q: "Le contenu généré par l'IA est-il détectable ?"
-    a:
-      - "Le contenu IA générique est détectable parce qu'il sonne générique. Un contenu créé avec un contexte de marque approprié — votre voix, votre audience, vos détails produit — se lit comme du contenu marketing professionnel parce que C'EST du contenu marketing professionnel, simplement produit plus vite."
-
-  - q: "Comment faire écrire l'IA dans ma voix de marque ?"
-    a:
-      - "Définissez votre voix dans Bazam — ton, formalité, style et directives personnalisées. Importez des documents de marque et des exemples dans la base de connaissances. L'agent applique tout cela à chaque création de contenu. Le résultat ressemble à votre meilleur rédacteur, pas à un robot."
-
-  - q: "ChatGPT suffit-il pour le marketing d'entreprise ?"
-    a:
-      - "Pour un brouillon d'article occasionnel, peut-être. Pour une vraie opération de contenu — non. ChatGPT oublie tout entre les sessions, ne sait rien de votre marque et ne peut ni planifier, ni publier, ni suivre quoi que ce soit. Bazam est une plateforme marketing avec une mémoire de marque persistante."
-
-  - q: "Comment utiliser l'IA pour le marketing sans apprendre le prompt engineering ?"
-    a:
-      - "Parlez-lui comme à un collègue. 'Écris-moi un article de blog sur notre nouveau produit' ou 'Comment a performé Instagram la semaine dernière ?' — aucune syntaxe spéciale nécessaire. L'agent Bazam est conçu pour la conversation naturelle, pas pour la rédaction de prompts."
-
-  - q: "L'IA peut-elle comprendre mon entreprise spécifique ?"
-    a:
-      - "Oui — si vous lui donnez le contexte. Importez vos documents produit, chartes graphiques et documents clés dans la base de connaissances de Bazam. Définissez vos personas d'audience. L'agent a désormais une compréhension approfondie de votre entreprise qui persiste à travers chaque conversation."
-
-  - q: "Comment automatiser la création de contenu sur les réseaux sociaux ?"
-    a:
-      - "Dites à l'agent ce dont vous avez besoin — un mois de publications sociales, une campagne de lancement produit, des conseils hebdomadaires — et il crée du contenu adapté à chaque plateforme dans votre voix de marque. Planifiez tout depuis un seul tableau de bord. Vous relisez et validez ; la publication est automatique."
-
-  - q: "Quelle est la différence entre un outil de rédaction IA et un agent marketing IA ?"
-    a:
-      - "Un outil de rédaction IA génère du texte. Un agent marketing IA crée du contenu, le planifie, le publie sur toutes les plateformes, analyse les performances, suggère des stratégies et mémorise tout sur votre marque. C'est la différence entre une machine à écrire et un département marketing."
-
-  - q: "Combien coûte un agent marketing IA par rapport à un freelance ?"
-    a:
-      - "Un rédacteur de contenu freelance facture 200 à 500 € par article de blog. Un mandat d'agence coûte 2 000 à 10 000 €/mois. Un salarié marketing coûte 30 000 à 60 000 €+ par an. Bazam vous offre toute cette capacité — création, planification, publication, analytique — pour une fraction du coût."
+- q: Qu'est-ce qu'un assistant marketing IA ?
+  a:
+  - Un assistant marketing IA facilite le travail marketing pratique via une conversation. Chez Bazam, cela inclut la recherche d'idées, la création et la réécriture de contenu, la création d'images, la planification de publications approuvées et l'explication des performances.
+- q: Dois-je savoir comment rédiger des invites d’IA ?
+  a:
+  - Non. Dites à Bazam ce dont vous avez besoin dans un langage normal. S'il manque des informations importantes, il vous guide dans les choix avant de créer le contenu.
+- q: L'assistant peut-il utiliser la voix de ma marque et les informations professionnelles ?
+  a:
+  - Oui. Il peut utiliser la voix de la marque, les profils d'audience, les offres, les connaissances et les médias stockés dans le projet en cours, de sorte que vous n'avez pas besoin de répéter le même arrière-plan dans chaque conversation.
+- q: Un assistant marketing IA peut-il planifier et publier du contenu ?
+  a:
+  - Oui. Bazam peut planifier des publications approuvées et les publier après confirmation explicite. Vous pouvez également demander ce qui doit être publié et vérifier la progression de la publication.
+- q: Puis-je revenir à une conversation antérieure ?
+  a:
+  - Oui. Les conversations du projet peuvent être rouvertes avec leurs messages précédents, les images générées, les formulaires et les résultats toujours disponibles.
 ---

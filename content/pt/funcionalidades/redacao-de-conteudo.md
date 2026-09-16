@@ -1,104 +1,89 @@
 ---
-title: Um Mês de Conteúdo em 30 Minutos
+title: Criação de conteúdo de IA que começa com o público
 translationKey: feature-content-writing
-type: features
-heroDescription: Pare de gastar horas na criação de conteúdo. Gere <b>mais de 70 tipos de conteúdo</b> mais rápido e publique consistentemente com o Bazam
-
-features:
-- title: "Conteúdo Instantâneo: Maximize Seu Tempo com o Bazam"
-  image: "/images/blog-wizard.png"
-  image_alt: "Assistente de blog"
-  description:
-    - Cansado da criação de conteúdo consumir seu dia inteiro? O Bazam reduz drasticamente o tempo que você gasta escrevendo e editando.
-    - Gere posts de blog, atualizações de redes sociais e muito mais em minutos, liberando você para focar em outras tarefas críticas.
-  points:
-    - title: Crie Conteúdo em Minutos
-      description: Reduza o tempo de criação de conteúdo de horas para minutos com a assistência de IA do Bazam.
-    - title: Libere Sua Agenda
-      description: Recupere tempo valioso para focar em atividades estratégicas do negócio
-    - title: Aumente Sua Produtividade
-      description: Gere mais conteúdo em menos tempo, maximizando sua produção geral
-  footer:
-    - Pare de deixar a criação de conteúdo te segurar e comece a maximizar sua produtividade
-- title: "Publique Consistentemente e Fique na Mente do Público"
-  image: "/images/schedule.png"
-  image_alt: "Criar agendamento"
-  description:
-    - Manter um cronograma de publicação consistente é essencial para engajar sua audiência e construir lealdade à marca.
-    - Nunca perca uma data importante novamente. Planeje e agende facilmente seu conteúdo com antecedência para um fluxo consistente de posts de alta qualidade.
-  points:
-    - title: Mantenha um Cronograma Regular de Publicação
-      description: Mantenha sua audiência engajada com um fluxo consistente de conteúdo novo
-    - title: Melhore a Visibilidade da Marca
-      description: Aumente sua presença online e reconhecimento de marca com posts regulares criados
-    - title: Estabeleça Liderança de Pensamento
-      description: Posicione-se como especialista no seu campo compartilhando consistentemente insights valiosos gerados pelo Bazam.
-  footer:
-    - Consistência é a chave. O Bazam ajuda você a ficar sempre na mente da sua audiência.
-
+description: Crie conteúdo de marketing útil e específico a partir dos perfis do seu público, voz da marca e conhecimento real do negócio.
+ctaText: Obtenha acesso antecipado
+ctaUrl: "#early-access"
 featureList:
-  title: "Redação de Conteúdo com IA que Soa Como Você, Não Como um Robô"
-  description: "Crie posts de blog, atualizações sociais, comunicados de imprensa e textos publicitários na sua voz de marca — mais rápido que qualquer redator, melhor custo-benefício que qualquer agência."
+  title: Do resumo ao conteúdo que as pessoas querem ler
+  description: Escolha o público e o ângulo. Bazam lida com o primeiro rascunho sem perder o contexto que o torna seu.
   features:
-    - iconColor: "primary"
-      title: "Escreva Qualquer Coisa, Instantaneamente"
-      icon: edit
-      points:
-        - description: "Gere <b>posts de blog, campanhas sociais, comunicados de imprensa e textos publicitários</b> em minutos, não em dias."
-        - description: "Crie <b>mais de 70 tipos de conteúdo de marketing</b> — todos adaptados à sua voz de marca e audiência."
-        - description: "Crie em massa um <b>mês inteiro de conteúdo</b> em uma única sessão — sem mais correria diária."
-        - description: "Reaproveite uma peça em <b>múltiplos formatos</b> — blog para série social, artigo para newsletter por e-mail."
-    - iconColor: "primary"
-      title: "Alinhado com a Marca, Sempre"
-      icon: chart
-      points:
-        - description: "Cada peça segue automaticamente sua <b>voz de marca, tom e diretrizes de estilo</b>."
-        - description: "O conteúdo é baseado no seu <b>conhecimento de produto, personas de audiência e dados da empresa</b>."
-        - description: "A IA escreve a partir dos <b>seus fatos e materiais</b> — não de dados genéricos de treinamento."
-        - description: "Qualidade consistente quer <b>uma pessoa ou dez</b> estejam criando conteúdo."
-    - iconColor: "primary"
-      title: "Do Rascunho ao Publicado"
-      icon: upload
-      points:
-        - description: "Crie, revise e <b>publique diretamente</b> no seu blog e canais sociais a partir de um só lugar."
-        - description: "Agende conteúdo no <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube e TikTok</b>."
-        - description: "<b>Fluxos de aprovação</b> integrados para que nada seja publicado sem autorização."
-        - description: "Traduza conteúdo finalizado para <b>mais de 50 idiomas</b> para alcance internacional."
-
-cta:
-  title: Comece a Economizar Tempo e Publicar Regularmente Agora!
-  description: Pronto para transformar seu fluxo de trabalho e manter um cronograma de conteúdo consistente? Experimente o Bazam agora e sinta o poder da criação automatizada de conteúdo!
-
+  - iconColor: primary
+    title: Crie mais de 30 tipos de conteúdo
+    icon: edit
+    points:
+    - description: Crie <b>postagens de blog, campanhas sociais, estudos de caso, instruções, listas, comparações e perguntas frequentes</b>.
+    - description: Transforme um briefing em uma campanha completa em vez de reconstruí-la para cada formato.
+    - description: Transforme um URL, documento, arquivo de áudio ou vídeo em algo novo.
+  - iconColor: primary
+    title: Escreva para um público real
+    icon: users
+    points:
+    - description: Selecione o <b>perfil do público</b> ao qual cada peça se destina.
+    - description: Escolha um ângulo prático, emocional ou persuasivo para mudar a forma como a mensagem chega.
+    - description: Mantenha a mensagem específica enquanto a voz da marca permanece consistente.
+  - iconColor: primary
+    title: Editar e ilustrar
+    icon: star
+    points:
+    - description: Crie ou edite imagens para acompanhar o conteúdo finalizado.
+    - description: Reformule, expanda, reduza, melhore o fluxo ou corrija erros no editor integrado.
+    - description: Transforme uma imagem enviada em uma postagem e legenda pronta para a plataforma.
+features:
+- title: Crie a peça inteira, não apenas um parágrafo
+  tab: Crie conteúdo completo
+  image: "/images/features/illustration-create.webp"
+  image_alt: Uma ideia se tornando vários formatos de conteúdo sofisticados
+  description:
+  - Comece com um briefing e Bazam cuida do esboço, do primeiro rascunho e das imagens de apoio. O resultado está pronto para você revisar, não é um fragmento que você ainda precisa montar.
+  points:
+  - title: Conteúdo longo
+    description: Crie postagens de blog e artigos completos por meio de um processo guiado.
+  - title: Postagens sociais prontas para plataforma
+    description: Gere textos curtos moldados para cada canal social e seus limites.
+  - title: Imagens incluídas
+    description: Crie imagens de apoio em um estilo e tom adequados ao conteúdo.
+- title: Transforme o que você já tem em algo novo
+  tab: Reaproveite qualquer coisa
+  image: "/images/blog-wizard.png"
+  image_alt: Escolhendo um público, voz e mensagem para um novo conteúdo
+  visual_type: produto
+  description:
+  - Dê ao Bazam uma página da web, uma passagem de texto, um documento ou um arquivo de áudio ou vídeo. Pode adaptar a fonte a um formato diferente, mantendo a substância útil.
+  points:
+  - title: Uma fonte, vários formatos
+    description: Transforme um artigo em postagens sociais ou um podcast em uma lista.
+  - title: Ajuda dentro do editor
+    description: Reformule, expanda, encurte, melhore o fluxo ou corrija a ortografia e a gramática.
+  - title: Você aprova o resultado
+    description: Cada peça gerada permanece em revisão até que alguém tenha prazer em publicá-la.
+- title: Molde o rascunho até que pareça algo que você publicaria
+  tab: Refinar o rascunho
+  image: "/images/features/illustration-edit.webp"
+  image_alt: Um rascunho sendo refinado com base no contexto da marca e do público
+  description:
+  - Trabalhe na peça finalizada no editor integrado. Faça você mesmo as alterações ou peça ao Bazam para melhorar uma passagem selecionada sem reescrever tudo ao seu redor.
+  points:
+  - title: Mude apenas o que precisa ser mudado
+    description: Reformule, expanda, encurte ou melhore uma passagem selecionada.
+  - title: Mantenha o contexto certo
+    description: O público, a voz da marca e o conhecimento do negócio permanecem vinculados ao rascunho.
+  - title: Fique no controle
+    description: Revise todas as alterações antes que o conteúdo seja publicado.
 faq:
-  - q: "Como escrever conteúdo de marketing se eu não sou redator?"
-    a:
-      - "Você não escreve — o agente de IA escreve. Diga ao Bazam o que você precisa em linguagem simples e ele cria posts de blog, atualizações de redes sociais e textos de marketing na sua voz de marca. Você revisa e aprova. Nenhuma habilidade de redação necessária."
-
-  - q: "Conteúdo escrito por IA pode prejudicar minha marca?"
-    a:
-      - "Apenas se a IA não tiver contexto. IA genérica produz conteúdo genérico. O agente do Bazam trabalha a partir da sua voz de marca, personas de audiência e base de conhecimento — então o resultado é específico, bem fundamentado e soa como o seu melhor redator. Você sempre revisa antes de publicar."
-
-  - q: "Como criar um mês de conteúdo rapidamente?"
-    a:
-      - "Peça ao agente. Uma sessão cria posts de blog e atualizações sociais para o mês inteiro. Você revisa, aprova e agenda. A maioria das equipes vai de calendário vazio a totalmente agendado em menos de 30 minutos."
-
-  - q: "Que tipos de conteúdo de marketing a IA pode escrever?"
-    a:
-      - "Posts de blog, atualizações de redes sociais, comunicados de imprensa, textos publicitários, descrições de produtos, newsletters por e-mail e muito mais. Cada peça é adaptada à sua voz de marca e audiência-alvo — não templated ou genérica."
-
-  - q: "Conteúdo de IA é tão bom quanto um redator profissional?"
-    a:
-      - "Quando a IA tem contexto adequado — sua voz de marca, audiência e conhecimento de produto — o resultado é comparável a um redator profissional. E produz em minutos o que um redator entrega em dias. Você ainda dá a direção e aprova cada peça."
-
-  - q: "Como parar de ficar sem ideias de conteúdo?"
-    a:
-      - "Peça ao agente para sugerir temas com base no seu negócio, audiência e setor. Ele gera ideias de conteúdo que você não havia considerado — de temas em alta a guias atemporais. Bloqueio criativo deixa de ser um problema."
-
-  - q: "Como manter meu blog e redes sociais consistentes?"
-    a:
-      - "Produza seu conteúdo em lote. Crie tudo em uma sessão, agende nas plataformas e deixe o Bazam publicar automaticamente. Consistência vem de sistemas, não de força de vontade."
-
-  - q: "É mais barato usar IA ou contratar um redator de conteúdo?"
-    a:
-      - "A IA é significativamente mais vantajosa em qualquer volume. Um redator freelancer cobra R$ 500–2.000 por post de blog. O Bazam cria conteúdo ilimitado por uma assinatura mensal fixa. Para empresas que publicam regularmente, a economia é imediata e substancial."
+- q: Que tipos de conteúdo o Bazam pode criar?
+  a:
+  - O Bazam oferece suporte a mais de 30 formatos, incluindo postagens em blogs, campanhas sociais, estudos de caso, listas de verificação, comparações, perguntas frequentes, guias de procedimentos, listas, artigos de opinião, dicas rápidas e cartões de cotação.
+- q: A IA pode escrever uma postagem completa no blog?
+  a:
+  - Sim. Bazam pode criar o esboço, redigir o artigo completo e gerar imagens de apoio a partir de um resumo de conteúdo. Você pode então revisar e editar tudo antes de publicar.
+- q: Posso redirecionar o conteúdo existente com IA?
+  a:
+  - Sim. Você pode começar a partir de um URL, texto colado, documento, arquivo de áudio ou arquivo de vídeo e transformá-lo em um novo formato, como converter uma postagem de blog em postagens sociais.
+- q: Como o Bazam mantém o conteúdo de IA da marca?
+  a:
+  - Cada peça pode usar a voz salva da sua marca, detalhes da empresa e da oferta, perfil do público e base de conhecimento. Isso dá à IA uma orientação mais específica do que uma solicitação única.
+- q: Posso editar conteúdo gerado por IA antes de ser publicado?
+  a:
+  - Sim. O editor integrado permite fazer alterações manuais ou pedir à IA para reformular, expandir, encurtar, melhorar o fluxo e corrigir ortografia ou gramática. O conteúdo também pode passar por aprovação antes de ser publicado.
 ---

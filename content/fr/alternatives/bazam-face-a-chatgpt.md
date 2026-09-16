@@ -9,6 +9,7 @@ ctaUrl: "#early-access"
 heroDescription:
   - "ChatGPT rédige le brouillon et s’arrête là. Bazam sait auquel de vos clients il s’adresse, puis le planifie et le publie sur six plateformes et votre blog."
 comparisonGrid: "comparison_chatgpt"
+aliases: ["/alternatives/bazam-vs-chatgpt/"]
 features:
   - title: "Chaque conversation repart de zéro"
     image: "/images/persona.png"

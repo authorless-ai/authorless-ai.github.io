@@ -1,109 +1,89 @@
 ---
-title: Zusammenarbeit und Konsistenz mit Bazam Teams
+title: Schaffen Sie als Team, ohne die Marke zu verlieren
 translationKey: feature-teams
-type: features
-heroDescription: Befähigen Sie Ihr gesamtes Marketing-Team, markenkonformen Content zu erstellen und gleichzeitig die Qualitätskontrolle zu wahren. Skalieren Sie Ihre Content-Produktion ohne Qualitätseinbußen.
-
-features:
-- title: "Team-Zusammenarbeit: Skalieren Sie Ihre Content-Produktion"
-  image: "/images/approve.png"
-  image_alt: "Genehmigen"
-  description:
-    - Content-Erstellung über mehrere Teammitglieder zu verwalten führt oft zu inkonsistenten Botschaften und zeitaufwändigen Überarbeitungen. Bazam Teams löst diese Herausforderung.
-    - Ermöglichen Sie Ihrem gesamten Team, beizutragen und gleichzeitig eine konsistente Markenstimme und Qualitätsstandards beizubehalten.
-  points:
-    - title: Kollaborativer Workspace
-      description: Erstellen, bearbeiten und überprüfen Sie Inhalte gemeinsam in Echtzeit mit Ihrem gesamten Team
-    - title: Content-Produktion skalieren
-      description: Vervielfachen Sie Ihren Content-Output, indem Sie mehr Teammitglieder in den Erstellungsprozess einbeziehen
-    - title: Freigabe-Workflows
-      description: Behalten Sie die Kontrolle mit Freigabe-Workflows, die sicherstellen, dass Content markenkonform bleibt
-  footer:
-    - Alle Vorteile von Bazam, für Ihr gesamtes Team
-
-- title: "Qualitätskontrolle im großen Maßstab"
-  image: "/images/analyse-voice.png"
-  image_alt: "Markenstimme analysieren"
-  description:
-    - Sorgen Sie sich um die Konsistenz Ihrer Markenstimme, wenn mehrere Teammitglieder Content erstellen? Bazam Teams ermöglicht es Managern, Leitplanken zu setzen, die Konsistenz gewährleisten.
-    - Befähigen Sie Junior-Mitarbeiter, selbstbewusst Inhalte innerhalb vordefinierter Parameter zu erstellen, für weniger Überarbeitungen.
-  points:
-    - title: Markenrichtlinien festlegen
-      description: Konfigurieren Sie Ton, Stil und Content-Parameter einmal und wenden Sie sie auf alle im Team erstellten Inhalte an
-    - title: Junior-Mitarbeiter befähigen
-      description: Ermöglichen Sie weniger erfahrenen Teammitgliedern, innerhalb etablierter Leitplanken selbstbewusst markenkonformen Content zu erstellen
-    - title: Konsistente Markenstimme
-      description: Behalten Sie den gleichen Ton und die gleiche Botschaft über alle Inhalte bei, unabhängig davon, welches Teammitglied sie erstellt hat
-  footer:
-    - Qualitätskontrolle sollte kein Engpass sein. Bazam Teams stellt Konsistenz sicher, ohne Sie zu verlangsamen
-
+description: Teilen Sie den Kontext hinter jeder Kampagne, steuern Sie, wer was tun kann, und legen Sie die Genehmigung zwischen einem Entwurf und einer Veröffentlichung fest.
+ctaText: Erhalten Sie frühen Zugang
+ctaUrl: "#early-access"
 featureList:
-  title: "Skalieren Sie den Content-Output Ihres Teams ohne Qualitätseinbußen"
-  description: "Befähigen Sie jedes Teammitglied, markenkonformen Content per Gespräch zu erstellen — mit Freigabe-Workflows, rollenbasiertem Zugang und konsistenter Markenstimme integriert."
+  title: Ein klarerer Weg vom Entwurf zur Genehmigung
+  description: Das Team arbeitet mit denselben Zielgruppenkenntnissen und denselben Markenregeln und behält dort die Kontrolle, wo es darauf ankommt.
   features:
-    - iconColor: "primary"
-      title: "Kollaborative Content-Erstellung"
-      icon: users
-      points:
-        - description: "Jedes Teammitglied erstellt Content durch <b>Chatten mit dem Agenten</b> — kein Training erforderlich."
-        - description: "Junior-Mitarbeiter produzieren <b>Senior-Qualität</b>, weil der Agent Markenrichtlinien durchsetzt."
-        - description: "Je mehr Personen erstellen, desto <b>mehr Content produzieren Sie</b> — ohne Qualitätsverlust."
-        - description: "Teammitglieder arbeiten in <b>ihrer bevorzugten Sprache</b> — ideal für globale Teams."
-    - iconColor: "primary"
-      title: "Konsistente Markenstimme"
-      icon: edit
-      points:
-        - description: "Legen Sie <b>Ton, Stil, Formalität und individuelle Richtlinien</b> einmal fest — automatisch auf jedes Stück angewandt."
-        - description: "Die gleiche Markenstimme, egal <b>wer in Ihrem Team erstellt</b>."
-        - description: "Mehrere Marken? Jede bekommt <b>eigene isolierte Stimmeinstellungen</b>."
-        - description: "Neue Mitarbeiter sind <b>vom ersten Tag an</b> produktiv — der Agent kennt die Marke bereits."
-    - iconColor: "primary"
-      title: "Freigabe & Zugriffskontrolle"
-      icon: chart
-      points:
-        - description: "Inhalte werden <b>zur Überprüfung eingereiht</b>, bevor sie veröffentlicht werden — nichts geht ohne Genehmigung live."
-        - description: "Weisen Sie <b>Rollen und Berechtigungen</b> zu — Administratoren, Redakteure, Ersteller — jeweils mit angemessenem Zugang."
-        - description: "Organisieren Sie Arbeit über <b>Abteilungen, Marken oder Kunden</b> mit separaten Projekten."
-        - description: "Vollständiger <b>Audit-Trail</b>, wer was erstellt, überprüft und veröffentlicht hat."
-
-cta:
-  title: Befähigen Sie jetzt Ihr gesamtes Team, markenkonformen Content zu erstellen!
-  description: Bereit, Ihre Content-Produktion zu skalieren und gleichzeitig perfekte Markenkonsistenz zu wahren? Testen Sie Bazam Teams noch heute und transformieren Sie, wie Ihre Marketingabteilung zusammenarbeitet!
-
+  - iconColor: primary
+    title: Geteilter Kontext
+    icon: users
+    points:
+    - description: Geben Sie allen die gleichen Zielgruppenprofile, die gleiche Markenstimme und das gleiche Quellmaterial.
+    - description: Reduzieren Sie wiederholte Briefings und Informationsverluste bei einer Person.
+    - description: Organisieren Sie die Arbeit Ihrer Kunden in dedizierten Projekten.
+  - iconColor: primary
+    title: Rollen und Zugriff
+    icon: users
+    points:
+    - description: Nutzen Sie rollenbasierten Zugriff im gesamten Team.
+    - description: Geben Sie den Menschen Zugriff auf die Arbeit, die sie benötigen, ohne jedes Projekt preiszugeben.
+    - description: Unterstützen Sie interne Teams, Freiberufler und die Zusammenarbeit zwischen Agentur und Kunde.
+  - iconColor: primary
+    title: Genehmigung vor Veröffentlichung
+    icon: upload
+    points:
+    - description: Leiten Sie Inhalte durch die Genehmigung weiter, damit nichts ohne ein „Ja“ live geht.
+    - description: Überprüfen Sie die plattformbereite Version, bevor sie geplant wird.
+    - description: Behalten Sie die Erstellung, das Feedback und die Veröffentlichung im selben Workflow bei.
+features:
+- title: Geben Sie dem gesamten Team den Kontext hinter der Arbeit
+  tab: Teilen Sie den Kontext
+  image: "/images/features/illustration-reach.webp"
+  image_alt: Ein Team, das verbundene Kampagneninhalte teilt
+  description:
+  - Zielgruppenprofile, Markenstimme, Produktkenntnisse und Kampagnenpläne bleiben beim Projekt und nicht in den Notizen einer Person.
+  points:
+  - title: Ein gemeinsamer Ausgangspunkt
+    description: Jeder erstellt auf der Grundlage der gleichen genehmigten Marken- und Zielgruppeninformationen.
+  - title: Saubere Kundentrennung
+    description: Durch den Projektzugriff können sich die Mitarbeiter auf die Konten konzentrieren, an denen sie tatsächlich arbeiten.
+  - title: Laden Sie Personen per E-Mail ein
+    description: Bringen Sie Mitarbeiter, Freiberufler oder Mitarbeiter in das Team ein und weisen Sie ihnen ihre Rolle zu.
+- title: Treffen Sie eine klare Entscheidung zwischen einem Entwurf und einer Veröffentlichung
+  tab: Mit Zuversicht genehmigen
+  image: "/images/approve.png"
+  image_alt: Ein klarer Genehmigungsschritt zwischen Entwurf und Veröffentlichung
+  visual_type: Produkt
+  description:
+  - Entscheiden Sie, wer erstellen, bearbeiten, genehmigen und veröffentlichen darf. Die Arbeit bleibt solange begutachtbar, bis die richtige Person sie bejaht.
+  points:
+  - title: Rollen, die zur Arbeit passen
+    description: Kontrollieren Sie den Zugriff auf Inhalte, Kanäle, Zeitpläne und Veröffentlichungen.
+  - title: Genehmigungsworkflow
+    description: Halten Sie Entwürfe von Live-Kanälen fern, bis sie überprüft wurden.
+  - title: Ein sichtbarer Prozess
+    description: Das Team kann sehen, wo die Arbeit steht, ohne Aktualisierungen über Nachrichten nachzujagen.
+- title: Geben Sie jeder Person Zugriff auf die Kunden, mit denen sie tatsächlich arbeitet
+  tab: Kontrollieren Sie den Zugriff
+  image: "/images/features/illustration-projects.webp"
+  image_alt: Getrennte Kundenarbeitsbereiche mit klar kontrolliertem Zugang
+  description:
+  - Laden Sie Personen in die Organisation ein und konzentrieren Sie deren Zugriff dann auf die relevanten Projekte. Kunden und Mitarbeiter können teilnehmen, ohne unabhängige Arbeiten zu sehen.
+  points:
+  - title: Per E-Mail einladen
+    description: Bringen Sie Mitarbeiter, Freiberufler und Kundenprüfer an den richtigen Arbeitsplatz.
+  - title: Ordnen Sie Rollen den Verantwortlichkeiten zu
+    description: Separates Anzeigen, Erstellen, Bearbeiten, Genehmigen und Veröffentlichen.
+  - title: Halten Sie die Kunden getrennt
+    description: Durch den Zugriff auf ein Projekt wird die restliche Arbeit der Organisation nicht offengelegt.
 faq:
-  - q: "Wie halte ich Markenkonsistenz, wenn mehrere Personen Content erstellen?"
-    a:
-      - "Legen Sie Ihre Markenstimme einmal fest — Ton, Stil, Formalität und Richtlinien. Der Agent wendet diese auf jeden Inhalt an, unabhängig davon, wer in Ihrem Team ihn erstellt. Ihr Team trägt bei; die Markenstimme bleibt automatisch konsistent."
-
-  - q: "Wie verhindere ich, dass Junior-Mitarbeiter markenfremden Content veröffentlichen?"
-    a:
-      - "Richten Sie Freigabe-Workflows ein. Von Junior-Teammitgliedern erstellte Inhalte werden vor der Veröffentlichung zur Überprüfung eingereiht. Seniors überprüfen und genehmigen innerhalb der Plattform — nichts geht ohne Freigabe live."
-
-  - q: "Wie gebe ich verschiedenen Teammitgliedern verschiedene Berechtigungen?"
-    a:
-      - "Weisen Sie Rollen zu — Administratoren konfigurieren Einstellungen, Redakteure überprüfen Inhalte, Ersteller arbeiten innerhalb etablierter Richtlinien. Jede Person bekommt die Zugangsstufe, die sie braucht, nicht mehr. Passen Sie Berechtigungen jederzeit an."
-
-  - q: "Wie funktioniert Content-Freigabe in einem Team?"
-    a:
-      - "Inhalte werden für designierte Genehmiger eingereiht, bevor sie geplant oder veröffentlicht werden. Genehmiger werden benachrichtigt, überprüfen in der Plattform und genehmigen oder fordern Änderungen an. Keine E-Mail-Ketten, keine Meetings — nur ein optimierter Überprüfungsprozess."
-
-  - q: "Können verschiedene Abteilungen eigene Content-Bereiche haben?"
-    a:
-      - "Ja. Erstellen Sie separate Projekte für jede Abteilung, Marke oder jeden Kunden — jeweils mit eigener Stimme, Zielgruppe und Content-Kalender. Teammitglieder können mehreren Projekten mit verschiedenen Berechtigungsstufen zugewiesen werden."
-
-  - q: "Wie skaliere ich Content-Produktion über ein Team?"
-    a:
-      - "Fügen Sie Teammitglieder hinzu und lassen Sie sie Content per Gespräch mit dem Agenten erstellen. Markenstimme-Einstellungen stellen Konsistenz sicher. Freigabe-Workflows stellen Qualität sicher. Je mehr Personen Sie hinzufügen, desto mehr Content produzieren Sie — ohne Qualitätseinbußen."
-
-  - q: "Wir haben ein mehrsprachiges Team. Kann jeder in seiner Sprache arbeiten?"
-    a:
-      - "Ja. Teammitglieder arbeiten in ihrer bevorzugten Sprache. Die Übersetzungsfunktionen der Plattform ermöglichen es Ihnen, Content sprachübergreifend zu erstellen und zu verwalten und dabei konsistente Botschaften beizubehalten. Ideal für globale Teams und internationales Marketing."
-
-  - q: "Wie viele Personen können Bazam mit einem Konto nutzen?"
-    a:
-      - "So viele, wie Ihr Plan unterstützt — von kleinen Teams bis zu großen Organisationen. Jedes Teammitglied bekommt seinen eigenen Login und arbeitet im gleichen Content-Ökosystem. Sehen Sie unsere Preisseite für Teamgrößen-Optionen."
-
-  - q: "Wie bringe ich mein ganzes Team dazu, KI für Content-Erstellung zu nutzen?"
-    a:
-      - "Melden Sie sich an, fügen Sie Ihre Teammitglieder hinzu und richten Sie Ihre Markenstimme ein. Der Agent arbeitet per natürlichem Gespräch — kein Training erforderlich. Die meisten Teams sind innerhalb der ersten Sitzung produktiv."
+- q: Können Marketingteams in Bazam zusammenarbeiten?
+  a:
+  - Ja. Organisationen können Teammitglieder einladen, Projekte teilen und die Verantwortung für die Erstellung, Bearbeitung, Genehmigung und Veröffentlichung von Inhalten aufteilen.
+- q: Kann ich steuern, was jedes Teammitglied tun kann?
+  a:
+  - Ja. Rollenbasierte Berechtigungen können den Zugriff auf Projekte, Inhalte, verbundene Kanäle, Zeitpläne und Veröffentlichungsaktionen steuern.
+- q: Wie funktionieren Inhaltsgenehmigungen?
+  a:
+  - Der Inhalt durchläuft vor der Veröffentlichung einen Überprüfungs- und Genehmigungsprozess. Dadurch kann ein bestimmter Prüfer die endgültige, plattformtaugliche Version prüfen, bevor sie live geht.
+- q: Können Freelancer oder Kunden zu einem Projekt eingeladen werden?
+  a:
+  - Ja. Personen können per E-Mail eingeladen und ihnen eine Rolle zugewiesen werden, die zu der Arbeit passt, die sie sehen oder erledigen möchten.
+- q: Wie sorgt Bazam dafür, dass die Inhalte eines Teams konsistent bleiben?
+  a:
+  - Jeder in einem Projekt kann mit derselben Markenstimme, denselben Zielgruppenprofilen, Angeboten und derselben Wissensdatenbank arbeiten. Der gemeinsame Kontext reduziert Abweichungen, die durch separate Briefings und persönliche Eingabeaufforderungsbibliotheken verursacht werden.
 ---

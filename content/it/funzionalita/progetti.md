@@ -1,108 +1,89 @@
 ---
-title: Gestisci più clienti con workspace separati
+title: Uno spazio di lavoro di marketing separato per ogni cliente o marchio
 translationKey: feature-projects
-type: features
-heroDescription: Snellisci il flusso di lavoro della tua agenzia con spazi progetto dedicati. Gestisci senza sforzo i contenuti per tutti i tuoi clienti da un'unica piattaforma potente.
-
-features:
-- title: "Spazi progetto dedicati per i clienti"
-  image: "/images/projects.png"
-  image_alt: "Progetti"
-  description:
-    - Gestire contenuti per più clienti è una sfida logistica. Bazam semplifica questo con spazi progetto dedicati.
-    - Mantieni tutte le impostazioni dei clienti, le linee guida del brand e le strategie di contenuti ordinatamente organizzate per migliorare la tua efficienza.
-  points:
-    - title: Workspace dedicati per i clienti
-      description: Crea spazi progetto separati per ogni cliente con impostazioni e preferenze uniche
-    - title: Flusso di lavoro agenzia snello
-      description: Elimina la confusione tra i clienti e migliora la produttività del team con workspace organizzati
-    - title: Gestione centralizzata
-      description: Accedi a tutti i progetti dei clienti da un'unica dashboard, risparmiando tempo e riducendo il carico amministrativo
-  footer:
-    - Semplifica le operazioni della tua agenzia. Gestisci più clienti senza complessità usando Bazam.
-- title: "Soluzioni scalabili per far crescere la tua agenzia"
-  image: "/images/approve.png"
-  image_alt: "Controllo qualità"
-  description:
-    - Gestire contenuti per una base clienti in crescita diventa sempre più impegnativo. Bazam scala senza sforzo con la tua attività, supportando più progetti clienti.
-    - Mantieni la qualità in tutti gli account clienti con linee guida del brand personalizzabili e parametri dei contenuti per ogni progetto in Bazam.
-  points:
-    - title: Progetti multipli per i clienti
-      description: Espandi la tua agenzia senza preoccuparti dei limiti della piattaforma grazie all'architettura scalabile di Bazam
-    - title: Onboarding rapido dei clienti
-      description: Configura nuovi workspace per i clienti in pochi minuti con procedure guidate semplici
-    - title: Controllo qualità costante
-      description: Mantieni standard elevati in tutti gli account clienti con impostazioni personalizzate per ogni progetto
-  footer:
-    - Scala la tua produzione con sicurezza con Bazam
-
+description: Mantieni organizzati e isolati i profili del pubblico, la voce del marchio, la conoscenza, i contenuti e i canali di pubblicazione di ogni progetto.
+ctaText: Ottieni l'accesso anticipato
+ctaUrl: "#early-access"
 featureList:
-  title: "Ogni cliente. Il proprio spazio. Un'unica dashboard."
-  description: "Gestisci contenuti per più clienti senza caos — ogni progetto ha la propria voce del brand, pubblico, base di conoscenza e calendario editoriale."
+  title: Cambia client senza mescolare il contesto
+  description: Tutto ciò di cui Bazam ha bisogno per un brand vive nel suo progetto, pronto per il prossimo brief.
   features:
-    - iconColor: "primary"
-      title: "Workspace isolati per i clienti"
-      icon: folder
-      points:
-        - description: "Ogni cliente ha un <b>progetto completamente separato</b> con le proprie impostazioni e contenuti."
-        - description: "Voce del brand, personas del pubblico e base di conoscenza sono <b>completamente isolati</b> — zero contaminazione incrociata."
-        - description: "Anche <b>brand concorrenti</b> possono essere gestiti nello stesso account senza rischi."
-        - description: "Passa da un cliente all'altro <b>con un clic</b> — senza login e logout."
-    - iconColor: "primary"
-      title: "Scala senza limiti"
-      icon: chart
-      points:
-        - description: "Aggiungi nuovi clienti <b>in pochi minuti</b> — definisci la voce del brand, carica i documenti, inizia a creare."
-        - description: "Nessun <b>prezzo per cliente</b> — alloca i crediti dove sono più necessari."
-        - description: "Ogni progetto scala indipendentemente — <b>nessun limite della piattaforma</b> man mano che cresci."
-        - description: "Cronologia dei contenuti, post programmati e impostazioni <b>persistono attraverso i cambiamenti del team</b>."
-    - iconColor: "primary"
-      title: "Controllo accessi del team"
-      icon: users
-      points:
-        - description: "Assegna i membri del team a <b>progetti specifici</b> con permessi granulari."
-        - description: "Gli account manager vedono solo <b>i propri clienti</b> — separazione pulita."
-        - description: "I flussi di approvazione assicurano il <b>controllo qualità</b> prima che qualsiasi cosa vada online."
-        - description: "Modifica l'accesso <b>in qualsiasi momento</b> quando il tuo team cambia."
-
-cta:
-  title: Rivoluziona la gestione dei contenuti della tua agenzia oggi!
-  description: Pronto a trasformare il modo in cui la tua agenzia gestisce le esigenze di contenuti di più clienti? Prova Bazam ora e sperimenta la potenza di una gestione multi-progetto organizzata ed efficiente!
-
+  - iconColor: primary
+    title: Una casa per cliente
+    icon: briefcase
+    points:
+    - description: Mantieni contenuti e impostazioni in un progetto dedicato per ciascun cliente o marchio.
+    - description: Passa da un account all'altro senza copiare le informazioni da uno strumento all'altro.
+    - description: Scopri quali lavori, canali e risorse appartengono insieme.
+  - iconColor: primary
+    title: Il contesto resta attaccato
+    icon: folder
+    points:
+    - description: Memorizza i profili dell'azienda, dell'offerta e del marchio di ciascun progetto.
+    - description: Mantieni i profili del pubblico e la knowledge base separati da ogni altro cliente.
+    - description: Crea un nuovo lavoro con il contesto corretto già disponibile.
+  - iconColor: primary
+    title: Progettato per la consegna condivisa
+    icon: users
+    points:
+    - description: Dai ai collaboratori l'accesso ai progetti su cui lavorano.
+    - description: Utilizza i flussi di lavoro di approvazione per mantenere la qualità sotto controllo.
+    - description: Gestisci diversi calendari di contenuti da un'unica piattaforma.
+features:
+- title: Mantieni l'identità e il lavoro di ogni cliente al suo posto
+  tab: Separa ogni cliente
+  image: "/images/projects.png"
+  image_alt: Un elenco chiaro di progetti cliente separati
+  visual_type: prodotto
+  description:
+  - Un progetto racchiude l'azienda, i marchi, le offerte, il pubblico, la voce, la conoscenza, i media e i canali che appartengono insieme. Cambia progetto e il contesto cambia con te.
+  points:
+  - title: Nessun marchio confuso
+    description: La voce, i fatti e il pubblico di ogni cliente rimangono separati.
+  - title: Diversi marchi e offerte
+    description: Struttura un'attività in modo naturale e offri a ciascuna offerta il proprio pubblico e la propria guida.
+  - title: Tutto pronto per il prossimo brief
+    description: Lo sfondo è già disponibile quando qualcuno inizia a creare.
+- title: Dai alle persone giuste l'accesso al lavoro giusto
+  tab: Lavorare insieme
+  image: "/images/features/illustration-reach.webp"
+  image_alt: Un team che collabora attorno ai contenuti connessi
+  description:
+  - Invita i collaboratori, decidi cosa possono fare e mantieni le approvazioni tra il lavoro incompiuto e i canali pubblici.
+  points:
+  - title: Accesso basato su progetto
+    description: Le persone possono lavorare con i clienti di cui hanno bisogno senza vedere ogni account.
+  - title: Responsabilità chiare
+    description: Controlla chi può visualizzare, creare, modificare, approvare e pubblicare.
+  - title: Un posto dove supervisionare la consegna
+    description: Gestisci il lavoro per diversi marchi senza mantenere uno stack di strumenti separato per ciascuno.
+- title: Cambia progetto senza portare con te il contesto sbagliato
+  tab: Cambia in modo pulito
+  image: "/images/features/illustration-projects.webp"
+  image_alt: Tre aree di lavoro client mantenute separate e facili da passare dall'una all'altra
+  description:
+  - Passare a un altro progetto cambia i marchi, il pubblico, la conoscenza, i media e i canali a tua disposizione. Ogni brief inizia con il mondo del cliente giusto già in atto.
+  points:
+  - title: Un progetto, un contesto
+    description: Mentre lavori vengono visualizzate solo le informazioni rilevanti sul marchio.
+  - title: Consegne più veloci
+    description: Un collega può riprendere il progetto senza ricostruirne il background.
+  - title: Spazio per crescere
+    description: Aggiungi nuovi clienti, marchi e offerte senza unirli in un unico account.
 faq:
-  - q: "Come gestisco contenuti per più clienti senza confonderli?"
-    a:
-      - "Ogni cliente ha un progetto completamente separato in Bazam — la propria voce del brand, personas del pubblico, base di conoscenza e calendario editoriale. L'agente non fa mai riferimenti incrociati tra i progetti. Il tuo team passa da un cliente all'altro con un clic."
-
-  - q: "Come mantengo coerente la voce del brand di ogni cliente?"
-    a:
-      - "Definisci le impostazioni della voce di ogni cliente una volta — tono, stile, formalità e linee guida personalizzate. Ogni contenuto che l'agente crea per quel cliente segue automaticamente queste impostazioni, indipendentemente da quale membro del team ci sta lavorando."
-
-  - q: "Posso controllare quali membri del team vedono quali clienti?"
-    a:
-      - "Sì. Assegna i membri del team a progetti specifici con permessi granulari. Gli account manager vedono solo i propri clienti. Modifica l'accesso in qualsiasi momento quando il tuo team cambia."
-
-  - q: "Come funzionano i prezzi per progetti di più clienti?"
-    a:
-      - "Bazam fornisce crediti per la generazione di contenuti che funzionano su tutti i tuoi progetti. Non ti viene addebitato per cliente — alloca i tuoi crediti dove sono più necessari. Visita la nostra pagina prezzi per i piani attuali."
-
-  - q: "Come evito che i contenuti dei clienti si mescolino?"
-    a:
-      - "Ogni progetto è un workspace completamente isolato. Linee guida del brand, documenti della base di conoscenza, personas del pubblico e contenuti sono tutti separati. Anche se gestisci brand concorrenti, non c'è alcun rischio di contaminazione incrociata."
-
-  - q: "Come faccio l'onboarding di un nuovo cliente velocemente?"
-    a:
-      - "Crea un nuovo progetto, definisci la voce del brand e il pubblico, carica i documenti chiave nella base di conoscenza. L'agente ha istantaneamente il contesto necessario per iniziare a produrre contenuti in linea con il brand. La configurazione di un nuovo cliente richiede minuti, non giorni."
-
-  - q: "Cosa succede quando sposto un cliente a un altro account manager?"
-    a:
-      - "Modifica i permessi — concedi l'accesso al nuovo manager, revoca quello del vecchio. Tutte le impostazioni del cliente, la cronologia dei contenuti e le pubblicazioni programmate restano intatte. Zero interruzioni."
-
-  - q: "Come mantengo la qualità su tutti i miei clienti?"
-    a:
-      - "La qualità viene dal contesto. Ogni progetto ha la propria voce del brand, pubblico e base di conoscenza che l'agente usa per ogni contenuto. Il tuo team revisiona e approva tutto. L'agente gestisce la produzione; le tue persone mantengono la barra della qualità."
-
-  - q: "Il mio team può condividere approcci di successo tra i progetti dei clienti?"
-    a:
-      - "Sì. Mentre i dati dei clienti sono isolati, i tuoi membri del team possono applicare metodologie di successo da un cliente all'altro. I flussi di lavoro della piattaforma e le best practice si trasferiscono naturalmente man mano che il tuo team impara cosa funziona."
+- q: Cos'è un progetto a Bazam?
+  a:
+  - Un progetto è uno spazio di lavoro separato per un cliente, un marchio o un'azienda. Contiene il pubblico, la voce del marchio, la conoscenza, i media, le campagne, i contenuti e i canali di pubblicazione per quell'opera.
+- q: Un'agenzia può gestire più clienti a Bazam?
+  a:
+  - Sì. Le agenzie possono mantenere ciascun cliente in un progetto separato e spostarsi tra di loro dallo stesso account senza mescolare contenuti o impostazioni.
+- q: Un'azienda può avere più marchi o prodotti?
+  a:
+  - Sì. Un progetto può rappresentare un'azienda con diversi marchi e offerte. Ogni livello può avere la propria voce, pubblico e guida ai contenuti condividendo impostazioni predefinite sensate.
+- q: Posso limitare i progetti a cui un membro del team può accedere?
+  a:
+  - Sì. L'accesso basato su progetti e ruoli ti consente di offrire alle persone il lavoro di cui hanno bisogno senza aprire loro ogni cliente o marchio.
+- q: Le informazioni di un cliente verranno utilizzate per un altro cliente?
+  a:
+  - I progetti mantengono separato il contesto del cliente. I contenuti vengono creati utilizzando il marchio, il pubblico e le conoscenze legate al progetto a cui stai lavorando.
 ---

@@ -12,9 +12,9 @@ featureCards:
   title: "Stai valutando un’altra soluzione?"
   description: "Ogni pagina offre un confronto diretto: cosa sa l’IA del tuo cliente, cosa scrive e cosa lascia ancora fare a te."
   cards:
-    - { title: "Bazam vs ChatGPT", icon: edit, url: "/it/alternative/bazam-vs-chatgpt/", description: "La bozza è solo uno di circa sei passaggi. Scopri cosa succede agli altri cinque e come Bazam si integra con la chat per cui paghi già." }
-    - { title: "Bazam vs Blaze", icon: bullhorn, url: "/it/alternative/bazam-vs-blaze/", description: "Scrivere per il tuo marchio oppure oggi per un lettore preciso e domani per un altro. In più, approvazione del cliente senza condividere password." }
-    - { title: "Bazam vs Anyword", icon: chart, url: "/it/alternative/bazam-vs-anyword/", description: "Valutare il testo dopo averlo scritto oppure correggere il brief che lo ha reso piatto. Poi pianificarlo e pubblicarlo per te." }
+    - { title: "Bazam vs ChatGPT", icon: edit, url: "/it/alternative/bazam-contro-chatgpt/", description: "La bozza è solo uno di circa sei passaggi. Scopri cosa succede agli altri cinque e come Bazam si integra con la chat per cui paghi già." }
+    - { title: "Bazam vs Blaze", icon: bullhorn, url: "/it/alternative/bazam-contro-blaze/", description: "Scrivere per il tuo marchio oppure oggi per un lettore preciso e domani per un altro. In più, approvazione del cliente senza condividere password." }
+    - { title: "Bazam vs Anyword", icon: chart, url: "/it/alternative/bazam-contro-anyword/", description: "Valutare il testo dopo averlo scritto oppure correggere il brief che lo ha reso piatto. Poi pianificarlo e pubblicarlo per te." }
 comparisonGrid: "comparison_generic"
 faq:
   - q: "Cosa distingue Bazam da tutti gli altri?"

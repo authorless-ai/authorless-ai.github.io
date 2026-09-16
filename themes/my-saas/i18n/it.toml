@@ -163,112 +163,112 @@ other = "Preferenze cookie"
 
 
 [fg_cmp_hootsuite__title]
-other = "Bazam vs Hootsuite"  # TODO: translate
+other = "Bazam contro Hootsuite"
 
 [fg_cmp_hootsuite__subtitle]
-other = "See how Bazam compares to Hootsuite across key marketing features"  # TODO: translate
+other = "Confronta Bazam con Hootsuite in termini di funzionalità di marketing chiave"
 
 [fg_cmp_hootsuite__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_hootsuite__hootsuite]
-other = "Hootsuite"  # TODO: translate
+other = "Hootsuite"
 
 [fg_cmp_hootsuite__content_creation]
-other = "Content Creation"  # TODO: translate
+other = "Creazione di contenuti"
 
 [fg_cmp_hootsuite__content_creation__ai_writing]
-other = "AI Content Writing"  # TODO: translate
+other = "Scrittura di contenuti AI"
 
 [fg_cmp_hootsuite__content_creation__ai_writing__bazam]
-other = "Blog posts, social, ads, press releases"  # TODO: translate
+other = "Post di blog, social, annunci, comunicati stampa"
 
 [fg_cmp_hootsuite__content_creation__ai_images]
-other = "AI Image Generation"  # TODO: translate
+other = "Generazione di immagini AI"
 
 [fg_cmp_hootsuite__content_creation__ai_images__hootsuite]
-other = "Via Canva integration"  # TODO: translate
+other = "Tramite l'integrazione di Canva"
 
 [fg_cmp_hootsuite__content_creation__bulk_create]
-other = "Bulk Content Creation"  # TODO: translate
+other = "Creazione di contenuti in blocco"
 
 [fg_cmp_hootsuite__content_creation__content_suggestions]
-other = "AI Content Suggestions"  # TODO: translate
+other = "Suggerimenti sui contenuti AI"
 
 [fg_cmp_hootsuite__content_creation__content_suggestions__bazam]
-other = "Strategy-driven suggestions"  # TODO: translate
+other = "Suggerimenti guidati dalla strategia"
 
 [fg_cmp_hootsuite__content_creation__content_suggestions__hootsuite]
-other = "Basic recommendations"  # TODO: translate
+other = "Raccomandazioni di base"
 
 [fg_cmp_hootsuite__content_creation__translation]
-other = "AI Content Translation"  # TODO: translate
+other = "Traduzione di contenuti AI"
 
 [fg_cmp_hootsuite__content_creation__knowledge_base]
-other = "Knowledge Base"  # TODO: translate
+other = "Base di conoscenza"
 
 [fg_cmp_hootsuite__content_creation__knowledge_base__bazam]
-other = "Docs, URLs, product info"  # TODO: translate
+other = "Documenti, URL, informazioni sul prodotto"
 
 [fg_cmp_hootsuite__publishing]
-other = "Publishing & Scheduling"  # TODO: translate
+other = "Pubblicazione e pianificazione"
 
 [fg_cmp_hootsuite__publishing__social_publishing]
-other = "Social Media Publishing"  # TODO: translate
+other = "Pubblicazione sui social media"
 
 [fg_cmp_hootsuite__publishing__wordpress]
-other = "WordPress Publishing"  # TODO: translate
+other = "Pubblicazione WordPress"
 
 [fg_cmp_hootsuite__publishing__content_calendar]
-other = "Visual Content Calendar"  # TODO: translate
+other = "Calendario dei contenuti visivi"
 
 [fg_cmp_hootsuite__strategy]
-other = "Strategy & Analytics"  # TODO: translate
+other = "Strategia e analisi"
 
 [fg_cmp_hootsuite__strategy__marketing_strategy]
-other = "Automated Marketing Strategy"  # TODO: translate
+other = "Strategia di marketing automatizzata"
 
 [fg_cmp_hootsuite__strategy__marketing_strategy__bazam]
-other = "Full customer journey mapping"  # TODO: translate
+other = "Mappatura completa del percorso del cliente"
 
 [fg_cmp_hootsuite__strategy__audience_personas]
-other = "Audience Personas"  # TODO: translate
+other = "Personas del pubblico"
 
 [fg_cmp_hootsuite__strategy__audience_personas__bazam]
-other = "AI-generated with demographics, motivations, buying behaviour"  # TODO: translate
+other = "Generato dall'intelligenza artificiale con dati demografici, motivazioni, comportamento d'acquisto"
 
 [fg_cmp_hootsuite__strategy__brand_voice]
-other = "Brand Voice"  # TODO: translate
+other = "La voce del marchio"
 
 [fg_cmp_hootsuite__strategy__analytics]
-other = "Analytics & Reporting"  # TODO: translate
+other = "Analisi e reporting"
 
 [fg_cmp_hootsuite__team_features]
-other = "Team & Management"  # TODO: translate
+other = "Squadra e gestione"
 
 [fg_cmp_hootsuite__team_features__team_collab]
-other = "Team Collaboration"  # TODO: translate
+other = "Collaborazione di squadra"
 
 [fg_cmp_hootsuite__team_features__projects]
-other = "Multiple Brands/Projects"  # TODO: translate
+other = "Marchi/progetti multipli"
 
 [fg_cmp_hootsuite__team_features__approval_workflows]
-other = "Approval Workflows"  # TODO: translate
+other = "Flussi di lavoro di approvazione"
 
 [fg_cmp_hootsuite__pricing]
-other = "Pricing"  # TODO: translate
+other = "Prezzi"
 
 [fg_cmp_hootsuite__pricing__starting_price]
-other = "Starting Price"  # TODO: translate
+other = "Prezzo di partenza"
 
 [fg_cmp_hootsuite__pricing__starting_price__bazam]
-other = "$29/mo"  # TODO: translate
+other = "$ 29/mese"
 
 [fg_cmp_hootsuite__pricing__starting_price__hootsuite]
-other = "$99/mo"  # TODO: translate
+other = "$99/mese"
 
 [fg_cmp_hootsuite__pricing__free_trial]
-other = "Free Trial"  # TODO: translate
+other = "Prova gratuita"
 
 
 [fg_pricing__title]
@@ -293,10 +293,10 @@ other = "Profili del pubblico"
 other = "Il profilo in 30 punti di ogni lettore per cui scrivi"
 
 [fg_pricing__core__audiences__starter]
-other = "3"  # TODO: translate
+other = "3"
 
 [fg_pricing__core__audiences__growth]
-other = "15"  # TODO: translate
+other = "15"
 
 [fg_pricing__core__audiences__team]
 other = "Illimitati"
@@ -305,10 +305,10 @@ other = "Illimitati"
 other = "Utenti"
 
 [fg_pricing__core__users__starter]
-other = "1"  # TODO: translate
+other = "1"
 
 [fg_pricing__core__users__growth]
-other = "3"  # TODO: translate
+other = "3"
 
 [fg_pricing__core__users__team]
 other = "Illimitati"
@@ -320,13 +320,13 @@ other = "Account collegati"
 other = "Ogni account aggiuntivo costa 10 $ al mese"
 
 [fg_pricing__core__connected_accounts__starter]
-other = "5"  # TODO: translate
+other = "5"
 
 [fg_pricing__core__connected_accounts__growth]
-other = "15"  # TODO: translate
+other = "15"
 
 [fg_pricing__core__connected_accounts__team]
-other = "40"  # TODO: translate
+other = "40"
 
 [fg_pricing__core__ai_credits]
 other = "Crediti IA al mese"
@@ -335,10 +335,10 @@ other = "Crediti IA al mese"
 other = "Circa un credito per contenuto; acquistane altri quando servono"
 
 [fg_pricing__core__ai_credits__starter]
-other = "300"  # TODO: translate
+other = "300"
 
 [fg_pricing__core__ai_credits__growth]
-other = "900"  # TODO: translate
+other = "900"
 
 [fg_pricing__core__ai_credits__team]
 other = "3.000"
@@ -501,670 +501,670 @@ other = "Più marchi per progetto"
 other = "Ognuno con offerte, voce e pubblici propri, compresi i marchi personali"
 
 [fg_cmp_tools__title]
-other = "Bazam vs the tools you're probably weighing up"  # TODO: translate
+other = "Bazam rispetto agli strumenti che probabilmente stai valutando"
 
 [fg_cmp_tools__subtitle]
-other = "Everyone here builds on the same frontier models. What differs is what those models get told, and how much of the job is left for you afterwards. Competitor detail taken from their own marketing, August 2026."  # TODO: translate
+other = "Tutti usano gli stessi modelli avanzati. Cambiano le informazioni fornite e quanto lavoro resta a te. Dati dei concorrenti tratti dal loro marketing, agosto 2026."
 
 [fg_cmp_tools__chatgpt]
-other = "ChatGPT"  # TODO: translate
+other = "ChatGPT"
 
 [fg_cmp_tools__blaze]
-other = "Blaze"  # TODO: translate
+other = "Blaze"
 
 [fg_cmp_tools__anyword]
-other = "Anyword"  # TODO: translate
+other = "Anyword"
 
 [fg_cmp_tools__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_tools__brief]
-other = "What the AI is told"  # TODO: translate
+other = "Le informazioni fornite all’IA"
 
 [fg_cmp_tools__brief__reader]
-other = "Who it's writing to"  # TODO: translate
+other = "Per chi scrive"
 
 [fg_cmp_tools__brief__reader__chatgpt]
-other = "Whatever you typed this time"  # TODO: translate
+other = "Ciò che hai digitato questa volta"
 
 [fg_cmp_tools__brief__reader__blaze]
-other = "Your brand and industry"  # TODO: translate
+other = "Il tuo marchio e settore"
 
 [fg_cmp_tools__brief__reader__anyword]
-other = "A persona you write yourself"  # TODO: translate
+other = "Un profilo scritto da te"
 
 [fg_cmp_tools__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
+other = "Un profilo in 30 punti per pubblico"
 
 [fg_cmp_tools__brief__subject]
-other = "What it's writing about"  # TODO: translate
+other = "Di cosa scrive"
 
 [fg_cmp_tools__brief__subject__desc]
-other = "Your company, brand and offerings, held as profiles"  # TODO: translate
+other = "Azienda, marchio e offerte conservati come profili"
 
 [fg_cmp_tools__brief__subject__chatgpt]
-other = "Re-paste it every time"  # TODO: translate
+other = "Da incollare ogni volta"
 
 [fg_cmp_tools__brief__subject__blaze]
-other = "Brand profile"  # TODO: translate
+other = "Profilo del marchio"
 
 [fg_cmp_tools__brief__subject__anyword]
-other = "Brand voice and guidelines"  # TODO: translate
+other = "Voce e linee guida del marchio"
 
 [fg_cmp_tools__brief__subject__bazam]
-other = "Company, brand, offering"  # TODO: translate
+other = "Azienda, marchio e offerta"
 
 [fg_cmp_tools__brief__depth]
-other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+other = "Conosce motivazioni, valori e comportamento d’acquisto"
 
 [fg_cmp_tools__brief__depth__anyword]
-other = "Pain points only"  # TODO: translate
+other = "Solo problemi"
 
 [fg_cmp_tools__brief__persists]
-other = "Survives between sessions"  # TODO: translate
+other = "Resta tra le sessioni"
 
 [fg_cmp_tools__brief__persists__chatgpt]
-other = "Gone with the chat"  # TODO: translate
+other = "Scompare con la chat"
 
 [fg_cmp_tools__brief__persists__bazam]
-other = "The model is yours"  # TODO: translate
+other = "Il profilo appartiene a te"
 
 [fg_cmp_tools__brief__mcp]
-other = "Brings your setup into other AI tools"  # TODO: translate
+other = "Porta la configurazione in altri strumenti IA"
 
 [fg_cmp_tools__brief__mcp__chatgpt]
-other = "Nothing to bring"  # TODO: translate
+other = "Nulla da trasferire"
 
 [fg_cmp_tools__brief__mcp__anyword]
-other = "ChatGPT, Notion, Gemini"  # TODO: translate
+other = "ChatGPT, Notion, Gemini"
 
 [fg_cmp_tools__brief__mcp__bazam]
-other = "MCP: audiences, voice, publishing"  # TODO: translate
+other = "MCP: pubblici, voce e pubblicazione"
 
 [fg_cmp_tools__generating]
-other = "Generating"  # TODO: translate
+other = "Generazione"
 
 [fg_cmp_tools__generating__quality]
-other = "Draft quality from a good prompt"  # TODO: translate
+other = "Qualità della bozza con un buon prompt"
 
 [fg_cmp_tools__generating__quality__chatgpt]
-other = "Excellent"  # TODO: translate
+other = "Eccellente"
 
 [fg_cmp_tools__generating__quality__blaze]
-other = "Excellent"  # TODO: translate
+other = "Eccellente"
 
 [fg_cmp_tools__generating__quality__anyword]
-other = "Excellent"  # TODO: translate
+other = "Eccellente"
 
 [fg_cmp_tools__generating__quality__bazam]
-other = "Excellent"  # TODO: translate
+other = "Eccellente"
 
 [fg_cmp_tools__generating__angles]
-other = "Different angles per audience"  # TODO: translate
+other = "Angolazioni diverse per pubblico"
 
 [fg_cmp_tools__generating__angles__chatgpt]
-other = "Only if you re-prompt"  # TODO: translate
+other = "Solo con un nuovo prompt"
 
 [fg_cmp_tools__generating__types]
-other = "Marketing content types built in"  # TODO: translate
+other = "Tipi di contenuto marketing integrati"
 
 [fg_cmp_tools__generating__types__bazam]
-other = "30+"  # TODO: translate
+other = "30+"
 
 [fg_cmp_tools__generating__prediction]
-other = "Predicts performance before you publish"  # TODO: translate
+other = "Prevede il rendimento prima della pubblicazione"
 
 [fg_cmp_tools__generating__prediction__anyword]
-other = "Their core feature"  # TODO: translate
+other = "La loro funzione principale"
 
 [fg_cmp_tools__shipping]
-other = "Getting it out the door"  # TODO: translate
+other = "Pubblicazione e distribuzione"
 
 [fg_cmp_tools__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
+other = "Pubblica sui tuoi canali"
 
 [fg_cmp_tools__shipping__publishing__blaze]
-other = "8 channels"  # TODO: translate
+other = "8 canali"
 
 [fg_cmp_tools__shipping__publishing__bazam]
-other = "6 platforms, direct"  # TODO: translate
+other = "6 piattaforme, direttamente"
 
 [fg_cmp_tools__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
+other = "Calendario dei contenuti e pianificazione"
 
 [fg_cmp_tools__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
+other = "Traduzione in più di 50 lingue"
 
 [fg_cmp_tools__shipping__translation__chatgpt]
-other = "One at a time, by hand"  # TODO: translate
+other = "Una alla volta, a mano"
 
 [fg_cmp_tools__shipping__analytics]
-other = "Analytics on what you published"  # TODO: translate
+other = "Analisi dei contenuti pubblicati"
 
 [fg_cmp_tools__shipping__analytics__anyword]
-other = "Content intelligence"  # TODO: translate
+other = "Intelligence dei contenuti"
 
 [fg_cmp_tools__shipping__analytics__bazam]
-other = "Normalised across channels"  # TODO: translate
+other = "Normalizzate tra i canali"
 
 [fg_cmp_tools__shipping__approvals]
-other = "Approvals and client sign-off"  # TODO: translate
+other = "Approvazioni e conferma del cliente"
 
 [fg_cmp_tools__shipping__approvals__desc]
-other = "Clients review in their own portal, without your passwords"  # TODO: translate
+other = "I clienti revisionano nel proprio portale, senza le tue password"
 
 [fg_cmp_tools__beyond]
-other = "Beyond content"  # TODO: translate
+other = "Oltre i contenuti"
 
 [fg_cmp_tools__beyond__ads]
-other = "Paid ad campaigns"  # TODO: translate
+other = "Campagne pubblicitarie a pagamento"
 
 [fg_cmp_tools__beyond__ads__blaze]
-other = "Google and Meta"  # TODO: translate
+other = "Google and Meta"
 
 [fg_cmp_tools__beyond__landing]
-other = "Landing pages"  # TODO: translate
+other = "Landing page"
 
 [fg_cmp_tools__beyond__landing__anyword]
-other = "Website automation"  # TODO: translate
+other = "Automazione del sito"
 
 [fg_cmp_tools__beyond__reputation]
-other = "Reputation management and AI SDR"  # TODO: translate
+other = "Gestione della reputazione e SDR con IA"
 
 [fg_cmp_tools__beyond__managed]
-other = "Fully managed, done for you"  # TODO: translate
+other = "Gestione completa per te"
 
 [fg_cmp_tools__beyond__managed__blaze]
-other = "From $2,499/mo"  # TODO: translate
+other = "Da 2.499 $/mese"
 
 [fg_cmp_tools__cost]
-other = "Cost"  # TODO: translate
+other = "Costo"
 
 [fg_cmp_tools__cost__price]
-other = "Entry price"  # TODO: translate
+other = "Prezzo iniziale"
 
 [fg_cmp_tools__cost__price__chatgpt]
-other = "~$20/mo"  # TODO: translate
+other = "Circa 20 $/mese"
 
 [fg_cmp_tools__cost__price__blaze]
-other = "$79/mo"  # TODO: translate
+other = "79 $/mese"
 
 [fg_cmp_tools__cost__price__anyword]
-other = "$49/mo"  # TODO: translate
+other = "49 $/mese"
 
 [fg_cmp_tools__cost__price__bazam]
-other = "$39/mo"  # TODO: translate
+other = "39 $/mese"
 
 [fg_cmp_anyword__title]
-other = "Bazam vs Anyword"  # TODO: translate
+other = "Bazam vs Anyword"
 
 [fg_cmp_anyword__subtitle]
-other = "Both produce marketing copy. The difference is how much the tool is told about the person reading it, and how much of the job it finishes."  # TODO: translate
+other = "Entrambi producono testi marketing. Cambiano quanto lo strumento sa di chi legge e quanta parte del lavoro completa."
 
 [fg_cmp_anyword__anyword]
-other = "Anyword"  # TODO: translate
+other = "Anyword"
 
 [fg_cmp_anyword__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_anyword__brief]
-other = "What the AI is told"  # TODO: translate
+other = "Le informazioni fornite all’IA"
 
 [fg_cmp_anyword__brief__reader]
-other = "Who it's writing to"  # TODO: translate
+other = "Per chi scrive"
 
 [fg_cmp_anyword__brief__reader__anyword]
-other = "A persona you write yourself"  # TODO: translate
+other = "Un profilo scritto da te"
 
 [fg_cmp_anyword__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
+other = "Un profilo in 30 punti per pubblico"
 
 [fg_cmp_anyword__brief__depth]
-other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+other = "Conosce motivazioni, valori e comportamento d’acquisto"
 
 [fg_cmp_anyword__brief__subject]
-other = "Knows your company, brand and offerings"  # TODO: translate
+other = "Conosce azienda, marchio e offerte"
 
 [fg_cmp_anyword__brief__subject__desc]
-other = "Held as profiles, applied to everything you generate"  # TODO: translate
+other = "Conservati come profili e applicati a tutto ciò che generi"
 
 [fg_cmp_anyword__brief__subject__anyword]
-other = "Brand voice only"  # TODO: translate
+other = "Solo la voce del marchio"
 
 [fg_cmp_anyword__brief__subject__bazam]
-other = "Company, brand, offering"  # TODO: translate
+other = "Azienda, marchio e offerta"
 
 [fg_cmp_anyword__brief__knowledge]
-other = "Your own facts, docs and URLs in a knowledge base"  # TODO: translate
+other = "Dati, documenti e URL propri in una base di conoscenza"
 
 [fg_cmp_anyword__generating]
-other = "Generating"  # TODO: translate
+other = "Generazione"
 
 [fg_cmp_anyword__generating__angles]
-other = "A different angle for each audience, from one brief"  # TODO: translate
+other = "Un’angolazione diversa per ogni pubblico da un brief"
 
 [fg_cmp_anyword__generating__types]
-other = "Marketing content types built in"  # TODO: translate
+other = "Tipi di contenuto marketing integrati"
 
 [fg_cmp_anyword__generating__types__bazam]
-other = "30+"  # TODO: translate
+other = "30+"
 
 [fg_cmp_anyword__generating__perchannel]
-other = "One brief becomes a version per platform"  # TODO: translate
+other = "Un brief diventa una versione per piattaforma"
 
 [fg_cmp_anyword__generating__prediction]
-other = "Scores copy before you publish"  # TODO: translate
+other = "Valuta il testo prima della pubblicazione"
 
 [fg_cmp_anyword__generating__prediction__bazam]
-other = "We measure what happened instead"  # TODO: translate
+other = "Noi misuriamo ciò che è successo"
 
 [fg_cmp_anyword__shipping]
-other = "Getting it out the door"  # TODO: translate
+other = "Pubblicazione e distribuzione"
 
 [fg_cmp_anyword__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
+other = "Pubblica sui tuoi canali"
 
 [fg_cmp_anyword__shipping__publishing__anyword]
-other = "Copy it out yourself"  # TODO: translate
+other = "Devi copiarlo tu"
 
 [fg_cmp_anyword__shipping__publishing__bazam]
-other = "6 platforms and your blog"  # TODO: translate
+other = "6 piattaforme e il tuo blog"
 
 [fg_cmp_anyword__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
+other = "Calendario dei contenuti e pianificazione"
 
 [fg_cmp_anyword__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
+other = "Traduzione in più di 50 lingue"
 
 [fg_cmp_anyword__shipping__analytics]
-other = "Analytics on what you published"  # TODO: translate
+other = "Analisi dei contenuti pubblicati"
 
 [fg_cmp_anyword__shipping__analytics__anyword]
-other = "Nothing published to measure"  # TODO: translate
+other = "Nessuna pubblicazione da misurare"
 
 [fg_cmp_anyword__shipping__analytics__bazam]
-other = "Normalised across channels"  # TODO: translate
+other = "Normalizzate tra i canali"
 
 [fg_cmp_anyword__shipping__approvals]
-other = "Approvals and client sign-off"  # TODO: translate
+other = "Approvazioni e conferma del cliente"
 
 [fg_cmp_anyword__shipping__approvals__desc]
-other = "Clients review in their own portal, without your passwords"  # TODO: translate
+other = "I clienti revisionano nel proprio portale, senza le tue password"
 
 [fg_cmp_anyword__shipping__mcp]
-other = "Brings your setup into the AI chat you already use"  # TODO: translate
+other = "Porta la configurazione nella chat IA che usi già"
 
 [fg_cmp_anyword__shipping__mcp__bazam]
-other = "MCP: audiences, voice, publishing"  # TODO: translate
+other = "MCP: pubblici, voce e pubblicazione"
 
 [fg_cmp_anyword__cost]
-other = "Cost"  # TODO: translate
+other = "Costo"
 
 [fg_cmp_anyword__cost__price]
-other = "Entry price"  # TODO: translate
+other = "Prezzo iniziale"
 
 [fg_cmp_anyword__cost__price__anyword]
-other = "$49/mo"  # TODO: translate
+other = "49 $/mese"
 
 [fg_cmp_anyword__cost__price__bazam]
-other = "$39/mo"  # TODO: translate
+other = "39 $/mese"
 
 [fg_cmp_anyword__cost__included]
-other = "Full audience model on the entry plan"  # TODO: translate
+other = "Profilo completo nel piano iniziale"
 
 [fg_cmp_blaze__title]
-other = "Bazam vs Blaze"  # TODO: translate
+other = "Bazam vs Blaze"
 
 [fg_cmp_blaze__subtitle]
-other = "Both write and publish. The difference is who the writing is aimed at, and what happens when you run this for other people."  # TODO: translate
+other = "Entrambi scrivono e pubblicano. Cambiano il destinatario e ciò che accade quando lavori per clienti."
 
 [fg_cmp_blaze__blaze]
-other = "Blaze"  # TODO: translate
+other = "Blaze"
 
 [fg_cmp_blaze__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_blaze__brief]
-other = "What the AI is told"  # TODO: translate
+other = "Le informazioni fornite all’IA"
 
 [fg_cmp_blaze__brief__reader]
-other = "Who it's writing to"  # TODO: translate
+other = "Per chi scrive"
 
 [fg_cmp_blaze__brief__reader__blaze]
-other = "Your brand and industry"  # TODO: translate
+other = "Il tuo marchio e settore"
 
 [fg_cmp_blaze__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
+other = "Un profilo in 30 punti per pubblico"
 
 [fg_cmp_blaze__brief__depth]
-other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+other = "Conosce motivazioni, valori e comportamento d’acquisto"
 
 [fg_cmp_blaze__brief__several]
-other = "Holds several audiences and writes to each separately"  # TODO: translate
+other = "Conserva più pubblici e scrive separatamente per ciascuno"
 
 [fg_cmp_blaze__brief__subject]
-other = "Knows your company, brand and offerings"  # TODO: translate
+other = "Conosce azienda, marchio e offerte"
 
 [fg_cmp_blaze__brief__subject__desc]
-other = "Held as profiles, applied to everything you generate"  # TODO: translate
+other = "Conservati come profili e applicati a tutto ciò che generi"
 
 [fg_cmp_blaze__brief__subject__blaze]
-other = "Brand profile"  # TODO: translate
+other = "Profilo del marchio"
 
 [fg_cmp_blaze__brief__subject__bazam]
-other = "Company, brand, offering"  # TODO: translate
+other = "Azienda, marchio e offerta"
 
 [fg_cmp_blaze__generating]
-other = "Generating"  # TODO: translate
+other = "Generazione"
 
 [fg_cmp_blaze__generating__angles]
-other = "A different angle for each audience, from one brief"  # TODO: translate
+other = "Un’angolazione diversa per ogni pubblico da un brief"
 
 [fg_cmp_blaze__generating__types]
-other = "Marketing content types built in"  # TODO: translate
+other = "Tipi di contenuto marketing integrati"
 
 [fg_cmp_blaze__generating__types__bazam]
-other = "30+"  # TODO: translate
+other = "30+"
 
 [fg_cmp_blaze__generating__perchannel]
-other = "One brief becomes a version per platform"  # TODO: translate
+other = "Un brief diventa una versione per piattaforma"
 
 [fg_cmp_blaze__shipping]
-other = "Getting it out the door"  # TODO: translate
+other = "Pubblicazione e distribuzione"
 
 [fg_cmp_blaze__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
+other = "Pubblica sui tuoi canali"
 
 [fg_cmp_blaze__shipping__publishing__bazam]
-other = "6 platforms and your blog"  # TODO: translate
+other = "6 piattaforme e il tuo blog"
 
 [fg_cmp_blaze__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
+other = "Calendario dei contenuti e pianificazione"
 
 [fg_cmp_blaze__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
+other = "Traduzione in più di 50 lingue"
 
 [fg_cmp_blaze__shipping__analytics]
-other = "Analytics on what you published"  # TODO: translate
+other = "Analisi dei contenuti pubblicati"
 
 [fg_cmp_blaze__shipping__analytics__bazam]
-other = "Normalised across channels"  # TODO: translate
+other = "Normalizzate tra i canali"
 
 [fg_cmp_blaze__shipping__approvals]
-other = "Approvals and client sign-off"  # TODO: translate
+other = "Approvazioni e conferma del cliente"
 
 [fg_cmp_blaze__shipping__approvals__desc]
-other = "Clients review in their own portal, without your passwords"  # TODO: translate
+other = "I clienti revisionano nel proprio portale, senza le tue password"
 
 [fg_cmp_blaze__shipping__projects]
-other = "A separate project per client"  # TODO: translate
+other = "Un progetto separato per cliente"
 
 [fg_cmp_blaze__shipping__projects__desc]
-other = "Own audiences, brand voice, knowledge base and access"  # TODO: translate
+other = "Pubblici, voce, base di conoscenza e accessi propri"
 
 [fg_cmp_blaze__shipping__mcp]
-other = "Brings your setup into the AI chat you already use"  # TODO: translate
+other = "Porta la configurazione nella chat IA che usi già"
 
 [fg_cmp_blaze__shipping__mcp__bazam]
-other = "MCP: audiences, voice, publishing"  # TODO: translate
+other = "MCP: pubblici, voce e pubblicazione"
 
 [fg_cmp_blaze__cost]
-other = "Cost"  # TODO: translate
+other = "Costo"
 
 [fg_cmp_blaze__cost__price]
-other = "Entry price"  # TODO: translate
+other = "Prezzo iniziale"
 
 [fg_cmp_blaze__cost__price__blaze]
-other = "$79/mo"  # TODO: translate
+other = "79 $/mese"
 
 [fg_cmp_blaze__cost__price__bazam]
-other = "$39/mo"  # TODO: translate
+other = "39 $/mese"
 
 [fg_cmp_blaze__cost__included]
-other = "Full audience model on the entry plan"  # TODO: translate
+other = "Profilo completo nel piano iniziale"
 
 [fg_cmp_chatgpt__title]
-other = "Bazam vs ChatGPT"  # TODO: translate
+other = "Bazam vs ChatGPT"
 
 [fg_cmp_chatgpt__subtitle]
-other = "Producing a draft is one step of about six. Here is the rest of the job, and who does it."  # TODO: translate
+other = "Produrre una bozza è uno di circa sei passaggi. Ecco il resto del lavoro e chi lo svolge."
 
 [fg_cmp_chatgpt__chatgpt]
-other = "ChatGPT"  # TODO: translate
+other = "ChatGPT"
 
 [fg_cmp_chatgpt__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_chatgpt__brief]
-other = "What the AI is told"  # TODO: translate
+other = "Le informazioni fornite all’IA"
 
 [fg_cmp_chatgpt__brief__reader]
-other = "Who it's writing to"  # TODO: translate
+other = "Per chi scrive"
 
 [fg_cmp_chatgpt__brief__reader__chatgpt]
-other = "Whatever you typed this time"  # TODO: translate
+other = "Ciò che hai digitato questa volta"
 
 [fg_cmp_chatgpt__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
+other = "Un profilo in 30 punti per pubblico"
 
 [fg_cmp_chatgpt__brief__depth]
-other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+other = "Conosce motivazioni, valori e comportamento d’acquisto"
 
 [fg_cmp_chatgpt__brief__persists]
-other = "Still knows next month"  # TODO: translate
+other = "Lo ricorda anche il mese prossimo"
 
 [fg_cmp_chatgpt__brief__persists__chatgpt]
-other = "Gone with the chat"  # TODO: translate
+other = "Scompare con la chat"
 
 [fg_cmp_chatgpt__brief__persists__bazam]
-other = "The model is yours"  # TODO: translate
+other = "Il profilo appartiene a te"
 
 [fg_cmp_chatgpt__brief__subject]
-other = "Knows your company, brand and offerings"  # TODO: translate
+other = "Conosce azienda, marchio e offerte"
 
 [fg_cmp_chatgpt__brief__subject__desc]
-other = "Held as profiles, applied to everything you generate"  # TODO: translate
+other = "Conservati come profili e applicati a tutto ciò che generi"
 
 [fg_cmp_chatgpt__brief__subject__chatgpt]
-other = "Re-paste it every time"  # TODO: translate
+other = "Da incollare ogni volta"
 
 [fg_cmp_chatgpt__brief__subject__bazam]
-other = "Company, brand, offering"  # TODO: translate
+other = "Azienda, marchio e offerta"
 
 [fg_cmp_chatgpt__brief__shared]
-other = "The whole team writes from the same brief"  # TODO: translate
+other = "Tutto il team scrive dallo stesso brief"
 
 [fg_cmp_chatgpt__generating]
-other = "Generating"  # TODO: translate
+other = "Generazione"
 
 [fg_cmp_chatgpt__generating__quality]
-other = "Draft quality from a good prompt"  # TODO: translate
+other = "Qualità della bozza con un buon prompt"
 
 [fg_cmp_chatgpt__generating__quality__chatgpt]
-other = "Excellent"  # TODO: translate
+other = "Eccellente"
 
 [fg_cmp_chatgpt__generating__quality__bazam]
-other = "Excellent"  # TODO: translate
+other = "Eccellente"
 
 [fg_cmp_chatgpt__generating__angles]
-other = "A different angle for each audience, from one brief"  # TODO: translate
+other = "Un’angolazione diversa per ogni pubblico da un brief"
 
 [fg_cmp_chatgpt__generating__angles__chatgpt]
-other = "Only if you re-prompt"  # TODO: translate
+other = "Solo con un nuovo prompt"
 
 [fg_cmp_chatgpt__generating__types]
-other = "Marketing content types built in"  # TODO: translate
+other = "Tipi di contenuto marketing integrati"
 
 [fg_cmp_chatgpt__generating__types__bazam]
-other = "30+"  # TODO: translate
+other = "30+"
 
 [fg_cmp_chatgpt__generating__perchannel]
-other = "One brief becomes a version per platform"  # TODO: translate
+other = "Un brief diventa una versione per piattaforma"
 
 [fg_cmp_chatgpt__shipping]
-other = "Getting it out the door"  # TODO: translate
+other = "Pubblicazione e distribuzione"
 
 [fg_cmp_chatgpt__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
+other = "Pubblica sui tuoi canali"
 
 [fg_cmp_chatgpt__shipping__publishing__bazam]
-other = "6 platforms and your blog"  # TODO: translate
+other = "6 piattaforme e il tuo blog"
 
 [fg_cmp_chatgpt__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
+other = "Calendario dei contenuti e pianificazione"
 
 [fg_cmp_chatgpt__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
+other = "Traduzione in più di 50 lingue"
 
 [fg_cmp_chatgpt__shipping__translation__chatgpt]
-other = "One at a time, by hand"  # TODO: translate
+other = "Una alla volta, a mano"
 
 [fg_cmp_chatgpt__shipping__analytics]
-other = "Analytics on what you published"  # TODO: translate
+other = "Analisi dei contenuti pubblicati"
 
 [fg_cmp_chatgpt__shipping__analytics__bazam]
-other = "Normalised across channels"  # TODO: translate
+other = "Normalizzate tra i canali"
 
 [fg_cmp_chatgpt__shipping__approvals]
-other = "Approvals and client sign-off"  # TODO: translate
+other = "Approvazioni e conferma del cliente"
 
 [fg_cmp_chatgpt__shipping__approvals__desc]
-other = "Clients review in their own portal, without your passwords"  # TODO: translate
+other = "I clienti revisionano nel proprio portale, senza le tue password"
 
 [fg_cmp_chatgpt__together]
-other = "Using both"  # TODO: translate
+other = "Usarli insieme"
 
 [fg_cmp_chatgpt__together__mcp]
-other = "Your audiences and brand voice inside the chat"  # TODO: translate
+other = "Pubblici e voce del marchio nella chat"
 
 [fg_cmp_chatgpt__together__mcp__desc]
-other = "Bazam runs an MCP server, so you can draft in the chat and publish through us"  # TODO: translate
+other = "Bazam offre un server MCP: scrivi nella chat e pubblica tramite Bazam"
 
 [fg_cmp_chatgpt__together__mcp__chatgpt]
-other = "Via Bazam"  # TODO: translate
+other = "Tramite Bazam"
 
 [fg_cmp_chatgpt__together__mcp__bazam]
-other = "MCP: audiences, voice, publishing"  # TODO: translate
+other = "MCP: pubblici, voce e pubblicazione"
 
 [fg_cmp_generic__title]
-other = "Bazam against the way it's done now"  # TODO: translate
+other = "Bazam rispetto al modo in cui si lavora oggi"
 
 [fg_cmp_generic__subtitle]
-other = "Most people cover this job with a chat assistant, an AI writing tool, a scheduler, or all three. Here's what each one leaves you to do yourself."  # TODO: translate
+other = "La maggior parte delle persone usa un assistente di chat, uno strumento di scrittura IA, un pianificatore o tutti e tre. Ecco cosa ciascuno lascia da fare a te."
 
 [fg_cmp_generic__chat]
-other = "A chat assistant"  # TODO: translate
+other = "Un assistente di chat"
 
 [fg_cmp_generic__writers]
-other = "AI writing tools"  # TODO: translate
+other = "Strumenti di scrittura IA"
 
 [fg_cmp_generic__schedulers]
-other = "Social schedulers"  # TODO: translate
+other = "Pianificatori social"
 
 [fg_cmp_generic__bazam]
-other = "Bazam"  # TODO: translate
+other = "Bazam"
 
 [fg_cmp_generic__brief]
-other = "What it knows about your reader"  # TODO: translate
+other = "Cosa sa del tuo lettore"
 
 [fg_cmp_generic__brief__reader]
-other = "Who it's writing to"  # TODO: translate
+other = "Per chi scrive"
 
 [fg_cmp_generic__brief__reader__chat]
-other = "Whatever you typed this time"  # TODO: translate
+other = "Ciò che hai digitato questa volta"
 
 [fg_cmp_generic__brief__reader__writers]
-other = "One line in a text box"  # TODO: translate
+other = "Una riga in un campo di testo"
 
 [fg_cmp_generic__brief__reader__schedulers]
-other = "Nobody. You write the post"  # TODO: translate
+other = "Per nessuno: il post lo scrivi tu"
 
 [fg_cmp_generic__brief__reader__bazam]
-other = "A 30-point model, per audience"  # TODO: translate
+other = "Un profilo in 30 punti per pubblico"
 
 [fg_cmp_generic__brief__depth]
-other = "Knows their drivers, values and buying behaviour"  # TODO: translate
+other = "Conosce motivazioni, valori e comportamento d’acquisto"
 
 [fg_cmp_generic__brief__persists]
-other = "Still knows next month"  # TODO: translate
+other = "Lo ricorda anche il mese prossimo"
 
 [fg_cmp_generic__brief__persists__chat]
-other = "Gone with the chat"  # TODO: translate
+other = "Scompare con la chat"
 
 [fg_cmp_generic__brief__persists__writers]
-other = "Only the sentence you saved"  # TODO: translate
+other = "Solo la frase che hai salvato"
 
 [fg_cmp_generic__brief__persists__bazam]
-other = "The model is yours"  # TODO: translate
+other = "Il profilo appartiene a te"
 
 [fg_cmp_generic__brief__subject]
-other = "Knows your company, brand and offerings"  # TODO: translate
+other = "Conosce azienda, marchio e offerte"
 
 [fg_cmp_generic__brief__subject__desc]
-other = "Held as profiles, applied to everything you generate"  # TODO: translate
+other = "Conservati come profili e applicati a tutto ciò che generi"
 
 [fg_cmp_generic__brief__subject__chat]
-other = "Re-paste it every time"  # TODO: translate
+other = "Da incollare ogni volta"
 
 [fg_cmp_generic__brief__subject__writers]
-other = "Brand voice only"  # TODO: translate
+other = "Solo la voce del marchio"
 
 [fg_cmp_generic__generating]
-other = "Generating"  # TODO: translate
+other = "Generazione"
 
 [fg_cmp_generic__generating__angles]
-other = "A different angle for each audience, from one brief"  # TODO: translate
+other = "Un’angolazione diversa per ogni pubblico da un solo brief"
 
 [fg_cmp_generic__generating__angles__chat]
-other = "Only if you re-prompt"  # TODO: translate
+other = "Solo con un nuovo prompt"
 
 [fg_cmp_generic__generating__types]
-other = "Marketing content types built in"  # TODO: translate
+other = "Tipi di contenuto marketing integrati"
 
 [fg_cmp_generic__generating__types__bazam]
-other = "30+"  # TODO: translate
+other = "30+"
 
 [fg_cmp_generic__generating__perchannel]
-other = "One brief becomes a version per platform"  # TODO: translate
+other = "Un brief diventa una versione per piattaforma"
 
 [fg_cmp_generic__generating__perchannel__schedulers]
-other = "Same text everywhere"  # TODO: translate
+other = "Lo stesso testo ovunque"
 
 [fg_cmp_generic__shipping]
-other = "Getting it out the door"  # TODO: translate
+other = "Pubblicazione e distribuzione"
 
 [fg_cmp_generic__shipping__publishing]
-other = "Publishes to your channels"  # TODO: translate
+other = "Pubblica sui tuoi canali"
 
 [fg_cmp_generic__shipping__publishing__bazam]
-other = "6 platforms and your blog"  # TODO: translate
+other = "6 piattaforme e il tuo blog"
 
 [fg_cmp_generic__shipping__scheduling]
-other = "Content calendar and scheduling"  # TODO: translate
+other = "Calendario dei contenuti e pianificazione"
 
 [fg_cmp_generic__shipping__translation]
-other = "Translation into 50+ languages"  # TODO: translate
+other = "Traduzione in più di 50 lingue"
 
 [fg_cmp_generic__shipping__translation__chat]
-other = "One at a time, by hand"  # TODO: translate
+other = "Una alla volta, a mano"
 
 [fg_cmp_generic__shipping__analytics]
-other = "Analytics on what you published"  # TODO: translate
+other = "Analisi dei contenuti pubblicati"
 
 [fg_cmp_generic__shipping__analytics__bazam]
-other = "Normalised across channels"  # TODO: translate
+other = "Normalizzate tra i canali"
 
 [fg_cmp_generic__shipping__approvals]
-other = "Approvals and client sign-off"  # TODO: translate
+other = "Approvazioni e conferma del cliente"
 
 [fg_cmp_generic__shipping__approvals__desc]
-other = "Clients review in their own portal, without your passwords"  # TODO: translate
+other = "I clienti revisionano nel proprio portale, senza le tue password"
 
 [fg_cmp_generic__shipping__approvals__bazam]
-other = "Clients keep their own logins"  # TODO: translate
+other = "I clienti mantengono i propri accessi"
 
 [fg_cmp_generic__shipping__whole]
-other = "Written, scheduled and published in one place"  # TODO: translate
+other = "Scritto, pianificato e pubblicato in un solo posto"
 
 
 [leadGenTitle]
@@ -1256,3 +1256,5 @@ other = "Bazam vs Anyword"
 
 [menu_bazam_vs_blaze]
 other = "Bazam vs Blaze"
+[whatIsAudienceDrivenMarketing]
+other = "Che cos’è il marketing orientato al pubblico?"

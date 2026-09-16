@@ -12,9 +12,9 @@ featureCards:
   title: "Está a considerar outra solução?"
   description: "Cada página faz uma comparação direta: o que a IA sabe sobre o seu cliente, o que escreve e o que ainda deixa para si."
   cards:
-    - { title: "Bazam vs ChatGPT", icon: edit, url: "/pt/alternativas/bazam-vs-chatgpt/", description: "O rascunho é apenas um de cerca de seis passos. Veja o que acontece aos outros cinco e como o Bazam se integra com o chat pelo qual já paga." }
-    - { title: "Bazam vs Blaze", icon: bullhorn, url: "/pt/alternativas/bazam-vs-blaze/", description: "Escrever para a sua marca ou hoje para um leitor específico e amanhã para outro. Inclui aprovação do cliente sem partilhar palavras-passe." }
-    - { title: "Bazam vs Anyword", icon: chart, url: "/pt/alternativas/bazam-vs-anyword/", description: "Pontuar o texto depois de escrito ou corrigir o briefing que o tornou genérico. Depois, agendá-lo e publicá-lo por si." }
+    - { title: "Bazam vs ChatGPT", icon: edit, url: "/pt/alternativas/bazam-em-comparacao-com-chatgpt/", description: "O rascunho é apenas um de cerca de seis passos. Veja o que acontece aos outros cinco e como o Bazam se integra com o chat pelo qual já paga." }
+    - { title: "Bazam vs Blaze", icon: bullhorn, url: "/pt/alternativas/bazam-em-comparacao-com-blaze/", description: "Escrever para a sua marca ou hoje para um leitor específico e amanhã para outro. Inclui aprovação do cliente sem partilhar palavras-passe." }
+    - { title: "Bazam vs Anyword", icon: chart, url: "/pt/alternativas/bazam-em-comparacao-com-anyword/", description: "Pontuar o texto depois de escrito ou corrigir o briefing que o tornou genérico. Depois, agendá-lo e publicá-lo por si." }
 comparisonGrid: "comparison_generic"
 faq:
   - q: "O que distingue o Bazam de todos os outros?"

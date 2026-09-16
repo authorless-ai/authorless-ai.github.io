@@ -1,67 +1,88 @@
 ---
-type: features
-title: "Gestiona tu trabajo de marketing mediante una conversación"
+title: Tu trabajo de marketing, manejado a través de una conversación
 translationKey: feature-agent
-description: "Pide a Bazam que investigue, cree, edite, programe o explique el rendimiento con lenguaje cotidiano."
-ctaText: "Obtén acceso anticipado"
+description: Pídale a Bazam que investigue, cree, edite, programe o explique la actuación en el lenguaje cotidiano.
+ctaText: Obtenga acceso temprano
 ctaUrl: "#early-access"
 featureList:
-  title: "Dile qué necesitas. Sigue trabajando en la misma conversación."
-  description: "El asistente puede utilizar las audiencias, la marca, el conocimiento y el contenido ya guardados en tu proyecto."
+  title: Dile lo que necesitas. Sigue trabajando en la misma conversación.
+  description: El asistente puede utilizar las audiencias, la marca, el conocimiento y el contenido ya guardado en tu proyecto.
   features:
-    - iconColor: "primary"
-      title: "Cread juntos"
-      icon: edit
-      points:
-        - { description: "Pide publicaciones, campañas o reescrituras con lenguaje normal." }
-        - { description: "Deja que el asistente te guíe por las decisiones pendientes en lugar de aprender un prompt especial." }
-        - { description: "Convierte una idea sugerida en contenido real sin salir del chat." }
-    - iconColor: "primary"
-      title: "Investiga y crea"
-      icon: star
-      points:
-        - { description: "Investiga en la web e incluye las fuentes en el trabajo terminado." }
-        - { description: "Crea o edita imágenes utilizando archivos subidos y recursos de tu biblioteca multimedia." }
-        - { description: "Vuelve a conversaciones anteriores del proyecto conservando el trabajo y las decisiones." }
-    - iconColor: "primary"
-      title: "Planifica y entiende"
-      icon: chart
-      points:
-        - { description: "Pregunta qué está programado, aprueba un plan y publica con una confirmación explícita." }
-        - { description: "Comprueba el progreso sin buscar por distintas pantallas." }
-        - { description: "Pregunta cómo rindió una campaña, un canal o una publicación y recibe una respuesta clara." }
+  - iconColor: primary
+    title: crear juntos
+    icon: edit
+    points:
+    - description: Solicite publicaciones, campañas o reescrituras en un inglés sencillo.
+    - description: Deje que el asistente le guíe a través de las opciones que faltan en lugar de aprender un mensaje especial.
+    - description: Convierte una idea sugerida en contenido real sin salir del chat.
+  - iconColor: primary
+    title: Investigar y hacer
+    icon: star
+    points:
+    - description: Investiga en la web e incluye fuentes en el trabajo terminado.
+    - description: Cree o edite imágenes utilizando cargas y recursos de su biblioteca multimedia.
+    - description: Regrese a las conversaciones anteriores del proyecto con el trabajo y las decisiones aún ahí.
+  - iconColor: primary
+    title: Planificar y comprender
+    icon: chart
+    points:
+    - description: Pregunta qué está programado, aprueba un plan y publica con una confirmación explícita.
+    - description: Verifique el progreso sin buscar en pantallas separadas.
+    - description: Pregunte cómo se desempeñó una campaña, canal o publicación y obtenga una respuesta clara.
 features:
-  - title: "Pasa de una idea a contenido terminado en una conversación"
-    tab: "Cread juntos"
-    image: "/images/features/illustration-create.webp"
-    image_alt: "Un colaborador de IA convierte una idea en varias piezas de contenido terminadas"
-    description: ["Pide lo que necesitas con lenguaje cotidiano. Bazam puede recopilar los datos que falten, ejecutar el proceso de creación adecuado y devolverte el resultado en la conversación."]
-    points:
-      - { title: "Sin prompts especiales", description: "Describe el resultado como lo harías a un compañero." }
-      - { title: "Tu contexto ya está ahí", description: "El asistente puede utilizar los perfiles de audiencia, la voz de marca y el conocimiento del proyecto." }
-      - { title: "Sigue dando forma al resultado", description: "Pide una reescritura, otro enfoque o una imagen complementaria sin empezar de nuevo." }
-  - title: "Pregunta qué ocurre en todo tu marketing"
-    tab: "Encuentra respuestas"
-    image: "/images/features/illustration-insights.webp"
-    image_alt: "Resultados de marketing analizados para revelar el siguiente paso"
-    description: ["La conversación no termina al redactar el borrador. Pregunta qué está programado, publica después de confirmar u obtén una explicación clara del rendimiento."]
-    points:
-      - { title: "Planifica y publica", description: "Programa el trabajo aprobado y comprueba su progreso desde la conversación." }
-      - { title: "Investiga con fuentes", description: "Pide a Bazam que investigue la web y muestre las fuentes de su respuesta." }
-      - { title: "Entiende los resultados", description: "Compara campañas, canales o publicaciones sin preparar primero una hoja de cálculo." }
-  - title: "Lleva a la conversación el material que ya tienes"
-    tab: "Usa tus fuentes"
-    image: "/images/features/illustration-knowledge.webp"
-    image_alt: "Material de origen y contenido reunidos en una conversación"
-    description: ["Adjunta un documento o una imagen, indica a Bazam una página útil o pídele que investigue un tema. La fuente sigue en la conversación mientras decides qué crear con ella."]
-    points:
-      - { title: "Adjunta material útil", description: "Añade archivos e imágenes sin salir de la conversación." }
-      - { title: "Investiga con pruebas", description: "Pide información actual y consulta las fuentes utilizadas." }
-      - { title: "Empieza a crear de inmediato", description: "Convierte lo que encuentres en un briefing, borrador o campaña mientras el contexto está fresco." }
+- title: Pase de una idea al contenido terminado en una sola conversación
+  tab: crear juntos
+  image: "/images/features/illustration-create.webp"
+  image_alt: Un colaborador de IA que convierte una idea en varios contenidos terminados
+  description:
+  - Pregunta por lo que necesites en el lenguaje cotidiano. Bazam puede recopilar los detalles que faltan, ejecutar el proceso de creación correcto y devolver el resultado a la conversación.
+  points:
+  - title: Sin indicaciones especiales
+    description: Describe el resultado como lo harías con un colega.
+  - title: Tu contexto ya está ahí
+    description: El asistente puede utilizar los perfiles de audiencia, la voz de la marca y el conocimiento del proyecto.
+  - title: Sigue dando forma al resultado
+    description: Pide una reescritura, un nuevo ángulo o una imagen adjunta sin empezar de nuevo.
+- title: Pregunte qué está sucediendo en su marketing.
+  tab: encontrar respuestas
+  image: "/images/features/illustration-insights.webp"
+  image_alt: Se examinan los resultados de marketing para revelar un siguiente paso claro
+  description:
+  - La conversación no se detiene cuando se redacta el borrador. Pregunte qué está programado, publíquelo después de confirmar u obtenga una explicación del desempeño en inglés sencillo.
+  points:
+  - title: Planificar y publicar
+    description: Programe el trabajo aprobado y verifique su progreso a partir de la conversación.
+  - title: Investigación con fuentes
+    description: Pídale a Bazam que investigue en la web y le muestre las fuentes detrás de su respuesta.
+  - title: entender los resultados
+    description: Compare campañas, canales o publicaciones sin tener que armar primero una hoja de cálculo.
+- title: Incorpora el material que ya tienes a la conversación.
+  tab: Usa tus fuentes
+  image: "/images/features/illustration-knowledge.webp"
+  image_alt: Material fuente y contenido reunidos a través de una conversación.
+  description:
+  - Adjunte un documento o una imagen, señale a Bazam una página útil o pídale que investigue un tema. La fuente sigue siendo parte de la conversación mientras decides qué hacer con ella.
+  points:
+  - title: Adjuntar material útil
+    description: Añade archivos e imágenes sin salir de la conversación.
+  - title: Investigación con evidencia
+    description: Solicite información actual y vea las fuentes utilizadas.
+  - title: Pasa directamente a hacer
+    description: Convierta lo que encuentre en un resumen, un borrador o una campaña mientras el contexto esté fresco.
 faq:
-  - { q: "¿Qué es un asistente de marketing con IA?", a: ["Un asistente de marketing con IA ayuda con tareas prácticas mediante una conversación. En Bazam incluye investigar ideas, crear y reescribir contenido, generar imágenes, programar publicaciones aprobadas y explicar el rendimiento."] }
-  - { q: "¿Tengo que saber escribir prompts de IA?", a: ["No. Dile a Bazam qué necesitas con lenguaje normal. Si falta información importante, te guiará por las decisiones antes de crear el contenido."] }
-  - { q: "¿Puede utilizar mi voz de marca y la información del negocio?", a: ["Sí. Utiliza la voz, los perfiles, las ofertas, el conocimiento y los recursos guardados en el proyecto para que no repitas el mismo contexto en cada conversación."] }
-  - { q: "¿Puede programar y publicar contenido?", a: ["Sí. Bazam programa publicaciones aprobadas y las publica después de que lo confirmes expresamente. También puedes preguntar qué está previsto y comprobar el progreso."] }
-  - { q: "¿Puedo volver a una conversación anterior?", a: ["Sí. Las conversaciones del proyecto se pueden reabrir conservando mensajes, imágenes generadas, formularios y resultados."] }
+- q: "¿Qué es un asistente de marketing de IA?"
+  a:
+  - Un asistente de marketing con IA ayuda con el trabajo práctico de marketing a través de una conversación. En Bazam, eso incluye investigar ideas, crear y reescribir contenido, crear imágenes, programar publicaciones aprobadas y explicar el desempeño.
+- q: "¿Necesito saber cómo escribir indicaciones de IA?"
+  a:
+  - No. Dile a Bazam lo que necesitas en lenguaje normal. Si falta información importante, le guiará a través de las opciones antes de crear el contenido.
+- q: "¿Puede el asistente utilizar la voz de mi marca y la información comercial?"
+  a:
+  - Sí. Puede utilizar la voz de la marca, los perfiles de la audiencia, las ofertas, el conocimiento y los medios almacenados en el proyecto actual, por lo que no es necesario repetir los mismos antecedentes en cada conversación.
+- q: "¿Puede un asistente de marketing con IA programar y publicar contenido?"
+  a:
+  - Sí. Bazam puede programar publicaciones aprobadas y publicarlas después de que usted las confirme explícitamente. También puede preguntar qué se publicará y verificar el progreso de la publicación.
+- q: "¿Puedo volver a una conversación anterior?"
+  a:
+  - Sí. Las conversaciones del proyecto se pueden reabrir con sus mensajes anteriores, imágenes generadas, formularios y resultados aún disponibles.
 ---

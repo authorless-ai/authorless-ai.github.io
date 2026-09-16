@@ -1,104 +1,91 @@
 ---
-title: Ihr automatisierter Content-Kalender für konsistente Veröffentlichung
+title: Ein Inhaltskalender für konsistente Veröffentlichungen
 translationKey: feature-scheduling
-type: features
-heroDescription: Übernehmen Sie die Kontrolle über Ihren Content-Kalender mit Bazams intuitiven Planungsfunktionen. Verpassen Sie nie wieder ein wichtiges Datum.
-
-features:
-- title: "Mühelose Planung: Planen Sie Ihre Inhalte mit Leichtigkeit"
-  image: "/images/schedule.png"
-  image_alt: "Zeitplan"
-  description:
-    - Haben Sie genug von Last-Minute-Content-Panik? Bazams Planungstools ermöglichen es Ihnen, Ihre Blogbeiträge und Social-Media-Updates im Voraus zu planen und zu terminieren.
-    - Visualisieren Sie Ihren Content-Kalender, planen Sie Posts plattformübergreifend und stellen Sie eine konsistente Online-Präsenz sicher, alles von einem zentralen Ort aus.
-  points:
-    - title: Content-Kalender-Visualisierung
-      description: Sehen Sie Ihren gesamten Content-Zeitplan auf einen Blick mit Bazams intuitivem Content-Kalender.
-    - title: Plattformübergreifende Planung
-      description: Planen Sie Posts gleichzeitig auf verschiedenen Social-Media-Plattformen und Ihrem Blog.
-    - title: Zeitsparende Automatisierung
-      description: Planen Sie Inhalte im Voraus und lassen Sie Bazam die Veröffentlichung übernehmen, damit Sie Zeit für andere Aufgaben haben.
-  footer:
-    - Verabschieden Sie sich von gehetztem Content und begrüßen Sie einen strategischen, organisierten Ansatz für Ihr Content-Marketing.
-- title: "Optimieren Sie Ihre Veröffentlichung: Erreichen Sie Ihre Zielgruppe zur richtigen Zeit"
-  image: "/images/feature-office-2.jpg"
-  image_alt: "Office Feature Image 2"
-  description:
-    - Bei der Planung geht es nicht nur darum, voraus zu planen; es geht darum, die Reichweite Ihrer Inhalte zu optimieren.
-    - Analysieren Sie vergangene Performance, experimentieren Sie mit verschiedenen Posting-Zeiten und optimieren Sie Ihren Zeitplan, um Ihre Zielgruppe zu erreichen, wenn sie am aktivsten ist.
-  points:
-    - title: Performance-Metriken analysieren
-      description: Verfolgen Sie Engagement und identifizieren Sie optimale Posting-Zeiten basierend auf vergangener Performance.
-    - title: Mit Posting-Zeiten experimentieren
-      description: Testen Sie einfach verschiedene Veröffentlichungspläne, um herauszufinden, was für Ihre Zielgruppe am besten funktioniert.
-    - title: Datengestützte Entscheidungen
-      description: Treffen Sie fundierte Planungsentscheidungen basierend auf echten Daten und Erkenntnissen.
-  footer:
-    - Lassen Sie Ihre Inhalte von den richtigen Menschen zur richtigen Zeit sehen. Bazam hilft Ihnen, Ihre Veröffentlichungsstrategie zu optimieren.
-
+description: Planen Sie Ihre Arbeit kanalübergreifend, sehen Sie den gesamten Monat auf einmal und passen Sie den Zeitplan an, ohne ihn neu erstellen zu müssen.
+ctaText: Erhalten Sie frühen Zugang
+ctaUrl: "#early-access"
+heroVideo: "/videos/calendar.mp4"
+heroVideoAlt: Der Inhaltskalender von Bazam mit plattformübergreifend geplanten Beiträgen
 featureList:
-  title: "Einmal planen. Automatisch veröffentlichen."
-  description: "Planen Sie einen vollen Monat Content in einer Sitzung auf allen Plattformen. Ihr Content-Kalender läuft von selbst, während Sie sich auf Ihr Unternehmen konzentrieren."
+  title: Schreiben Sie es jetzt. Veröffentlichen Sie es, wenn es darauf ankommt.
+  description: Wechseln Sie von genehmigten Inhalten zu einem klaren plattformübergreifenden Zeitplan im selben Arbeitsbereich.
   features:
-    - iconColor: "primary"
-      title: "Visueller Content-Kalender"
-      icon: calendar
-      points:
-        - description: "Sehen Sie Ihren <b>gesamten Veröffentlichungsplan auf einen Blick</b> — Blog, Social, jeder Kanal."
-        - description: "<b>Drag & Drop</b> zum Umplanen von Posts, ohne Inhalte zu verlieren."
-        - description: "Farbcodiert nach Plattform und Status — <b>Entwürfe, genehmigt, geplant, veröffentlicht</b>."
-        - description: "Planen Sie Wochen oder Monate im Voraus — <b>keine Tabellen, keine Klebezettel</b>."
-    - iconColor: "primary"
-      title: "Plattformübergreifende Planung"
-      icon: upload
-      points:
-        - description: "Planen Sie gleichzeitig auf <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube und TikTok</b>."
-        - description: "Legen Sie <b>verschiedene Posting-Zeiten pro Plattform</b> fest — LinkedIn morgens, Instagram abends, TikTok am Wochenende."
-        - description: "Planen Sie einen <b>vollen Monat Content in einer Sitzung</b> — von der Erstellung zum Kalender in Minuten."
-        - description: "Wiederkehrende Events? <b>Duplizieren und anpassen</b> — kein Neuanfang."
-    - iconColor: "primary"
-      title: "Intelligentes Timing & Freigabe"
-      icon: chart
-      points:
-        - description: "Verfolgen Sie Engagement, um <b>die optimalen Posting-Zeiten Ihrer Zielgruppe</b> zu finden."
-        - description: "Freigabe-Workflows stellen sicher, dass Posts <b>überprüft werden, bevor sie eingereiht werden</b>."
-        - description: "Inhalte werden <b>automatisch zur geplanten Zeit veröffentlicht</b> — kein manuelles Eingreifen."
-        - description: "Experimentieren Sie mit dem Timing und <b>lassen Sie die Daten Ihnen sagen, was funktioniert</b>."
-
-cta:
-  title: "Erfolg planen: Starten Sie jetzt Ihre kostenlose Bazam-Testphase!"
-  description: Bereit, die Kontrolle über Ihren Content-Zeitplan zu übernehmen und die Kraft konsistenter Veröffentlichung freizusetzen? Melden Sie sich für eine kostenlose Testphase von Bazam an und erleben Sie die Vorteile aus erster Hand!
-
+  - iconColor: primary
+    title: Sehen Sie sich den gesamten Plan an
+    icon: calendar
+    points:
+    - description: Sehen Sie sich geplante Inhalte projekt- und plattformübergreifend in einem <b>visuellen Kalender</b> an.
+    - description: Erkennen Sie Lücken, Konflikte und arbeitsreiche Wochen, bevor sie zum Problem werden.
+    - description: Planen Sie wiederkehrende Inhalte und Kampagnen, die über mehrere Tage laufen.
+  - iconColor: primary
+    title: Ändern Sie Pläne schnell
+    icon: edit
+    points:
+    - description: Ziehen Sie Inhalte per Drag-and-Drop, um sie neu zu planen.
+    - description: Erstellen oder bearbeiten Sie Beiträge, ohne den Kalender zu verlassen.
+    - description: Bereiten Sie Kampagnen im Voraus vor, anstatt sich erst am Tag der Veröffentlichung herumzuschlagen.
+  - iconColor: primary
+    title: Planen Sie kanalübergreifend
+    icon: upload
+    points:
+    - description: Stellen Sie Inhalte für Ihre verbundenen sozialen Kanäle und WordPress in die Warteschlange.
+    - description: Planen Sie die eigene Version jeder Plattform aus einer Kampagne.
+    - description: Lassen Sie den Kalender die Veröffentlichungsroutine übernehmen, wenn die Kundenarbeit hektisch ist.
+features:
+- title: Sehen Sie, was wo und wann los ist
+  tab: Planen Sie den Rhythmus
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Inhaltskarten werden in einen geordneten Veröffentlichungskalender integriert
+  description:
+  - Der visuelle Kalender bringt jeden Kanal in eine Ansicht, einschließlich der Arbeiten, die vor der Verknüpfung seines Veröffentlichungskontos erstellt wurden.
+  points:
+  - title: Planen Sie den Monat auf einen Blick
+    description: Sehen Sie sich Plattformsymbole, Kampagnen-Timing und Lücken im Zeitplan an.
+  - title: Wiederholen Sie die Arbeit, die wiederholt werden soll
+    description: Legen Sie wiederkehrende Zeitpläne fest und planen Sie Kampagnen, die über mehrere Tage laufen.
+  - title: Beginnen Sie mit den Medien
+    description: Laden Sie zuerst Bilder oder Videos hoch und schreiben Sie dann den Beitrag, wenn Sie bereit sind.
+- title: Ändern Sie den Plan, ohne ihn neu zu erstellen
+  tab: Schnell umplanen
+  image: "/images/reschedule.png"
+  image_alt: Geplante Beiträge werden neu angeordnet, ohne dass die Kampagne neu erstellt werden muss
+  visual_type: Produkt
+  description:
+  - Ziehen Sie Inhalte auf ein anderes Datum oder öffnen Sie sie direkt aus dem Kalender, um eine schnelle Bearbeitung vorzunehmen. Post, Medien und Genehmigungsstaat bleiben zusammen.
+  points:
+  - title: Neuplanung per Drag-and-Drop
+    description: Verschieben Sie Inhalte, wenn sich Prioritäten oder Kundenpläne ändern.
+  - title: Schnelle Änderungen an Ort und Stelle
+    description: Erstellen und bearbeiten Sie Inhalte, ohne die Kalenderansicht zu verlassen.
+  - title: Übersetzungen bleiben aufeinander abgestimmt
+    description: Kopierdaten und Veröffentlichungsstatus zwischen dem Original und seinen Übersetzungen.
+- title: Erstellen Sie neue Arbeiten, während Sie die Form des Plans noch sehen können
+  tab: Füllen Sie die Lücken
+  image: "/images/features/illustration-create.webp"
+  image_alt: Neue Inhalte werden erstellt, um Lücken in einem Veröffentlichungsplan zu schließen
+  description:
+  - Starten Sie einen neuen Beitrag im Kalender, wenn eine Lücke offensichtlich wird. Das Datum ist bereits Teil des Briefings, sodass Planung und Erstellung eine zusammenhängende Aufgabe bleiben.
+  points:
+  - title: Im Kontext erstellen
+    description: Beginnen Sie mit dem Datum und der Kampagne, die Sie bereits überprüfen.
+  - title: Lücken früher erkennen
+    description: Eine Monatsansicht macht ruhige Wochen und überfüllte Tage leicht zu erkennen.
+  - title: Halten Sie den Kalender nützlich
+    description: Entwürfe, genehmigte und geplante Arbeiten bleiben alle in einem Plan sichtbar.
 faq:
-  - q: "Wie plane ich Social-Media-Posts plattformübergreifend gleichzeitig?"
-    a:
-      - "Erstellen Sie Ihre Inhalte in Bazam, dann planen Sie sie über alle verbundenen Plattformen von einem Dashboard. Legen Sie bei Bedarf verschiedene Zeiten für jede Plattform fest. Kein Einloggen mehr in fünf separate Apps."
-
-  - q: "Wann ist die beste Zeit zum Posten auf den einzelnen Social-Media-Plattformen?"
-    a:
-      - "Das hängt von Ihrer Zielgruppe ab. Bazam verfolgt Engagement Ihrer veröffentlichten Inhalte und hilft Ihnen zu erkennen, wann Ihre Follower am aktivsten sind. Testen Sie verschiedene Posting-Zeiten und lassen Sie die Daten Ihnen sagen, was funktioniert."
-
-  - q: "Wie plane ich Inhalte um, ohne sie zu verlieren?"
-    a:
-      - "Drag & Drop. Verschieben Sie jeden Post direkt im Content-Kalender auf ein neues Datum oder eine neue Uhrzeit. Bearbeiten Sie den Inhalt, ändern Sie die Plattform oder passen Sie das Timing an — alles bleibt gespeichert."
-
-  - q: "Wie plane ich einen Monat Content in einem Rutsch?"
-    a:
-      - "Erstellen Sie Inhalte in großen Mengen mit dem KI-Agenten, dann planen Sie jedes Stück über Ihre Plattformen im Content-Kalender. Die meisten Teams planen einen vollen Monat in einer einzigen Sitzung — keine Tabellen oder externen Tools nötig."
-
-  - q: "Wie bringe ich mein Team dazu, Inhalte vor der Veröffentlichung zu genehmigen?"
-    a:
-      - "Richten Sie Freigabe-Workflows ein. Von Ihrem Team erstellte Inhalte werden zur Überprüfung eingereiht, bevor sie veröffentlicht werden. Genehmiger werden benachrichtigt, überprüfen innerhalb der Plattform und genehmigen oder fordern Änderungen an — keine E-Mail-Ketten."
-
-  - q: "Wie plane ich wiederkehrende Posts für regelmäßige Events?"
-    a:
-      - "Duplizieren Sie einen bestehenden geplanten Post und passen Sie die Daten an. Für regelmäßige Promotions oder Events verwenden und aktualisieren Sie frühere Inhalte, anstatt jedes Mal von vorne anzufangen."
-
-  - q: "Kann ich Blog-Posts und Social Media vom selben Ort aus planen?"
-    a:
-      - "Ja. Bazam plant und veröffentlicht auf WordPress für Blog-Content und auf allen großen Social-Plattformen — Facebook, Instagram, LinkedIn, X, YouTube, TikTok. Ein Kalender, ein Dashboard."
-
-  - q: "Wie weit im Voraus kann ich Inhalte planen?"
-    a:
-      - "So weit wie nötig — obwohl wir nicht mehr als ein Jahr empfehlen. Content bleibt frischer und relevanter, wenn er in monatlichen Batches geplant wird, anstatt zu weit voraus eingereiht zu werden."
+- q: Was ist ein Social-Media-Inhaltskalender?
+  a:
+  - Ein Social-Media-Content-Kalender zeigt, was auf welchem Kanal und zu welchem Datum veröffentlicht wird. Bazam kombiniert Facebook-, Instagram-, LinkedIn-, X-, TikTok- und WordPress-Inhalte im gleichen visuellen Plan.
+- q: Kann ich Social-Media-Beiträge per Drag-and-Drop verschieben, um sie neu zu planen?
+  a:
+  - Ja. Verschieben Sie einen Beitrag auf ein anderes Datum im Kalender, und sein Inhalt, seine Medien und sein Workflow-Status werden mit verschoben.
+- q: Kann Bazam wiederkehrende Inhalte planen?
+  a:
+  - Ja. Sie können benutzerdefinierte wiederkehrende Zeitpläne sowie Kampagnen und Ereignisse erstellen, die über mehrere Tage laufen.
+- q: Kann ich einen Beitrag im Inhaltskalender bearbeiten?
+  a:
+  - Ja. Mit einem Schnelleditor können Sie Inhalte erstellen oder bearbeiten und Medien hochladen, ohne die Kalenderansicht zu verlassen.
+- q: Kann ich übersetzte Versionen für verschiedene Kanäle planen?
+  a:
+  - Ja. Veröffentlichungstermine und -status können zwischen dem Originalinhalt und seinen Übersetzungen kopiert werden, wodurch sprachspezifische Kanäle koordiniert bleiben.
 ---

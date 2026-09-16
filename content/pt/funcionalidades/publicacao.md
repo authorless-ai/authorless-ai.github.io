@@ -1,107 +1,89 @@
 ---
-title: "Publique Direto nas Plataformas de Redes Sociais e Blog"
+title: Publique diretamente em todos os canais que seu público usa
 translationKey: feature-publishing
-type: features
-heroDescription: Alcance sua audiência onde ela está. O Bazam publica direto nas plataformas, simplificando a distribuição do seu conteúdo.
-
-features:
-- title: "Publicação Direta: Distribuição Sem Esforço"
-  image: "/images/reschedule.png"
-  image_alt: "Arrastar para reagendar"
-  description:
-    - Pare de perder tempo fazendo upload manual de conteúdo em múltiplas plataformas. O Bazam publica diretamente no seu blog e canais de redes sociais.
-    - Foque em criar ótimo conteúdo, não na tarefa tediosa de publicá-lo.
-  points:
-    - title: Publicação com Um Clique
-      description: Publique em múltiplas plataformas com um único clique.
-    - title: Fluxo de Trabalho Simplificado
-      description: Simplifique seu processo de distribuição de conteúdo.
-    - title: Automação que Economiza Tempo
-      description: Elimine uploads e publicações manuais.
-  footer:
-    - Publique mais rápido, alcance mais longe. O Bazam torna a distribuição de conteúdo fácil.
-- title: "Plataformas Integradas: Conecte Seu Mundo"
-  image: "/images/social-icons.png"
-  image_alt: "Ícones sociais"
-  description:
-    - Alcance uma audiência mais ampla e construa sua marca em múltiplos canais com facilidade.
-  points:
-    - title: Amplo Suporte de Plataformas
-      description: Conecte-se ao Facebook, X (antigo Twitter), Instagram, LinkedIn, WordPress e muito mais.
-    - title: Integração Fácil de Contas
-      description: Conecte suas contas ao Bazam de forma rápida e fácil.
-    - title: Alcance Expandido
-      description: Distribua seu conteúdo em múltiplos canais para alcançar uma audiência mais ampla.
-  footer:
-    - Conecte suas contas, expanda seu alcance. O Bazam coloca seu conteúdo em todo lugar que precisa estar.
-
+description: Mova o conteúdo aprovado do Bazam para canais sociais e WordPress sem exportar, reformatar ou fazer login em todas as contas.
+ctaText: Obtenha acesso antecipado
+ctaUrl: "#early-access"
 featureList:
-  title: "Crie Aqui. Publique Em Todo Lugar."
-  description: "Pare de fazer login em cinco plataformas. O Bazam publica seu conteúdo diretamente em todos os canais — blog e redes sociais — a partir de um único painel."
+  title: Uma campanha, pronta para todas as plataformas
+  description: Bazam mantém a ideia consistente enquanto adapta a execução a cada destino.
   features:
-    - iconColor: "primary"
-      title: "Todos os Seus Canais, Um Lugar"
-      icon: upload
-      points:
-        - description: "Publique diretamente no <b>WordPress, Facebook, Instagram, LinkedIn, X, YouTube e TikTok</b>."
-        - description: "Cada post é automaticamente <b>formatado para os requisitos da plataforma</b> — limites de caracteres, especificações de imagem, tudo."
-        - description: "Conecte novas contas em minutos — <b>sem configuração técnica</b> necessária."
-        - description: "Adicione mais plataformas conforme sua presença cresce — <b>sem taxas por canal</b>."
-    - iconColor: "primary"
-      title: "De Uma Ideia Para Todas as Plataformas"
-      icon: edit
-      points:
-        - description: "Crie conteúdo uma vez e <b>adapte para cada canal</b> automaticamente — sem reformatação manual."
-        - description: "Um post de blog se transforma em um <b>artigo no LinkedIn, thread no X e legenda no Instagram</b> em segundos."
-        - description: "Formatação nativa de plataforma significa que seu conteúdo <b>fica bem em todo lugar</b>."
-        - description: "Publique em todos os canais ou personalize por canal — <b>você escolhe, sempre</b>."
-    - iconColor: "primary"
-      title: "Publique com Confiança"
-      icon: chart
-      points:
-        - description: "Visualize posts <b>antes de serem publicados</b> em cada plataforma."
-        - description: "Fluxos de aprovação garantem que <b>nada é publicado sem autorização</b>."
-        - description: "Acompanhe <b>o que foi publicado, o que está na fila e o que está em rascunho</b> de relance."
-        - description: "Histórico completo de publicação para que você sempre saiba <b>o que saiu e quando</b>."
-
-cta:
-  title: "Alcance Uma Audiência Global: Comece Sua Avaliação Gratuita do Bazam Hoje!"
-  description: Pronto para simplificar a distribuição do seu conteúdo e alcançar uma audiência mais ampla? Cadastre-se para uma avaliação gratuita do Bazam e sinta o poder da publicação integrada!
-
+  - iconColor: primary
+    title: Seus canais sociais e blog
+    icon: upload
+    points:
+    - description: Publique no <b>WordPress, Facebook, Instagram, LinkedIn, X e TikTok</b>.
+    - description: Conecte as contas uma vez e use-as no mesmo fluxo de trabalho de publicação.
+    - description: Crie rascunhos prontos para o canal antes de uma conta ser conectada e conecte-os mais tarde.
+  - iconColor: primary
+    title: Adaptado por plataforma
+    icon: edit
+    points:
+    - description: Crie uma versão distinta para cada canal em vez de postar cópias idênticas em todos os lugares.
+    - description: Adapte a cópia, o tom e a proporção da mídia à plataforma.
+    - description: Lide com formatos específicos do canal, como histórias, Momentos e postagens encadeadas.
+  - iconColor: primary
+    title: Revise antes do lançamento
+    icon: users
+    points:
+    - description: Coloque o trabalho em aprovação antes que ele possa ser publicado.
+    - description: Agende postagens aprovadas no calendário visual.
+    - description: Veja se todos os canais foram publicados com sucesso e tente novamente quando algo der errado.
+features:
+- title: Crie uma vez e faça com que pareça nativo em qualquer lugar
+  tab: Adapte cada canal
+  image: "/images/features/illustration-channels.webp"
+  image_alt: Uma mensagem transformando-se em vários formatos prontos para canal
+  description:
+  - Uma postagem no LinkedIn não deve ser lida como uma legenda do Instagram. Bazam cria uma versão distinta para cada destino, incluindo a cópia, formato de mídia e formato que o canal espera.
+  points:
+  - title: Redes sociais e web
+    description: Conecte WordPress, Facebook, Instagram, LinkedIn, X e TikTok.
+  - title: Versões específicas do canal
+    description: Adapte a mensagem em vez de enviar texto idêntico para todos os lugares.
+  - title: Formatos nativos
+    description: O suporte inclui histórias, rolos, tópicos e movimentação de um link para o primeiro comentário.
+- title: Saiba o que foi ao ar e o que precisa de atenção
+  tab: Revise antes de publicar
+  image: "/images/approve.png"
+  image_alt: Conteúdo passando de escrito para aprovado e agendado
+  visual_type: produto
+  description:
+  - Cada destino tem seu próprio status de publicação. Se uma conexão ou postagem falhar, o problema permanecerá visível e poderá ser tentado novamente em vez de desaparecer no fluxo de trabalho.
+  points:
+  - title: Aprovação primeiro
+    description: Mantenha o trabalho inacabado em revisão e publique somente após aprovação.
+  - title: Agende ou publique agora
+    description: Escolha uma data no calendário ou envie imediatamente o conteúdo aprovado.
+  - title: Prepare-se antes de conectar
+    description: Crie primeiro rascunhos prontos para a plataforma e anexe a conta certa depois.
+- title: Coordene o lançamento sem postar tudo de uma vez
+  tab: Planeje o lançamento
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Conteúdo pronto para o canal passando por uma programação de publicação coordenada
+  description:
+  - Escolha quando cada versão aprovada deve ser lançada e deixe o calendário manter o plano unido. Cada canal pode seguir seu próprio tempo sem se tornar um trabalho separado.
+  points:
+  - title: Programe cada destino
+    description: Dê a cada versão do canal a data e a hora necessárias.
+  - title: Mantenha as campanhas juntas
+    description: Veja as postagens relacionadas como um lançamento coordenado.
+  - title: Mude os planos com segurança
+    description: Mova o trabalho agendado sem perder seu conteúdo, mídia ou estado de aprovação.
 faq:
-  - q: "Como publicar em todas as minhas contas de redes sociais de uma vez?"
-    a:
-      - "Conecte suas contas ao Bazam — Facebook, Instagram, LinkedIn, X, YouTube, TikTok e WordPress. Crie ou agende um post e publique em todos a partir de um único painel. Cada post é automaticamente formatado para os requisitos da plataforma."
-
-  - q: "Como manter a consistência nas redes sociais?"
-    a:
-      - "Agende com antecedência. Crie um mês de conteúdo em uma sessão, defina datas e horários de publicação para cada plataforma e deixe o Bazam cuidar do resto. Sua audiência vê posts regulares; você gastou uma única sessão nisso."
-
-  - q: "Como economizar tempo gerenciando redes sociais?"
-    a:
-      - "Pare de fazer login em cada plataforma separadamente. O Bazam combina criação de conteúdo, agendamento e publicação em um só lugar. O agente de IA até cria o conteúdo para você — então você não está economizando apenas tempo de publicação, está economizando tempo de criação também."
-
-  - q: "Qual é o melhor horário para publicar nas redes sociais?"
-    a:
-      - "Depende da sua audiência. O Bazam permite definir horários de publicação diferentes para cada plataforma — agende LinkedIn para terça de manhã quando audiências business estão ativas, Instagram para a noite e TikTok para fins de semana. Teste e ajuste com base nos seus dados de engajamento."
-
-  - q: "Como cross-postar conteúdo em diferentes plataformas?"
-    a:
-      - "Crie conteúdo uma vez no Bazam e o agente adapta automaticamente para cada plataforma — limites de caracteres, dimensões de imagem, especificações de formato. Depois agende e publique em todas as contas conectadas. Sem reformatação manual ou copiar e colar."
-
-  - q: "Como gerenciar múltiplas contas de redes sociais do meu negócio?"
-    a:
-      - "Conecte todas as suas contas ao Bazam. Crie conteúdo, agende e publique em tudo a partir de um único painel. Acompanhe o desempenho em todos os canais em uma visualização única em vez de fazer login em cada plataforma separadamente."
-
-  - q: "Como publicar posts de blog e redes sociais juntos?"
-    a:
-      - "Crie ambos no Bazam. Escreva um post de blog, publique no WordPress, depois peça ao agente para criar posts sociais promovendo em todos os seus canais. Uma sessão de conteúdo cobre seu blog e todas as suas redes sociais — em uma ferramenta."
-
-  - q: "Existe uma forma de automatizar posts nas redes sociais?"
-    a:
-      - "Sim. O Bazam agenda e publica conteúdo automaticamente nas datas e horários que você definir. Você também pode deixar o agente de IA criar o conteúdo — então todo o fluxo da criação à publicação é automatizado. Você apenas revisa e aprova."
-
-  - q: "Preciso de ferramentas separadas para criar e agendar conteúdo?"
-    a:
-      - "Não com o Bazam. A maioria das ferramentas de agendamento exige que você crie conteúdo em outro lugar, depois faça upload e agende. O agente de IA do Bazam cria o conteúdo E cuida do agendamento e publicação — uma ferramenta, de ponta a ponta."
+- q: Em quais plataformas o Bazam pode publicar?
+  a:
+  - Bazam oferece suporte a WordPress, Facebook, postagens, histórias e rolos do Instagram, LinkedIn, X e TikTok.
+- q: O Bazam publica o mesmo conteúdo em todas as redes sociais?
+  a:
+  - Não. Um briefing pode produzir uma versão distinta para cada plataforma, adaptando a cópia, tom, duração, formato e formato da mídia ao destino.
+- q: Preciso conectar minhas contas antes de criar postagens?
+  a:
+  - Não. Você pode criar rascunhos prontos para o canal antes de conectar a conta correspondente. Os rascunhos qualificados são conectados quando o canal é adicionado.
+- q: O conteúdo pode ser aprovado antes de ser publicado?
+  a:
+  - Sim. O conteúdo pode passar por um fluxo de trabalho de revisão e aprovação para que trabalhos inacabados ou não aprovados não sejam publicados acidentalmente.
+- q: O que acontece se uma postagem social não for publicada?
+  a:
+  - O Bazam rastreia a publicação separadamente para cada canal, mostra erros e pode tentar novamente o trabalho que falhou. Isto deixa claro quais destinos tiveram sucesso e quais precisam de atenção.
 ---

@@ -1,109 +1,89 @@
 ---
-title: Colaboração e Consistência com Equipes Bazam
+title: Crie em equipe sem perder a marca
 translationKey: feature-teams
-type: features
-heroDescription: Capacite toda sua equipe de marketing a criar conteúdo alinhado com a marca mantendo o controle de qualidade. Escale sua produção de conteúdo sem sacrificar a qualidade.
-
-features:
-- title: "Colaboração em Equipe: Escale Sua Produção de Conteúdo"
-  image: "/images/approve.png"
-  image_alt: "Aprovação"
-  description:
-    - Gerenciar a criação de conteúdo entre múltiplos membros da equipe frequentemente leva a mensagens inconsistentes e revisões demoradas. Equipes Bazam resolve esse desafio.
-    - Permita que toda a equipe contribua mantendo uma voz de marca consistente e padrões de qualidade.
-  points:
-    - title: Workspace Colaborativo
-      description: Crie, edite e revise conteúdo juntos em tempo real com toda sua equipe
-    - title: Escale a Produção de Conteúdo
-      description: Multiplique sua produção de conteúdo envolvendo mais membros da equipe no processo de criação
-    - title: Fluxos de Aprovação
-      description: Mantenha o controle com fluxos de aprovação para garantir que o conteúdo permaneça alinhado com a marca
-  footer:
-    - Todos os benefícios do Bazam, para toda a sua equipe
-
-- title: "Controle de Qualidade em Escala"
-  image: "/images/analyse-voice.png"
-  image_alt: "Analise sua voz de marca"
-  description:
-    - Preocupado em manter a voz da sua marca quando múltiplos membros da equipe criam conteúdo? Equipes Bazam permite que gerentes definam diretrizes que garantem consistência.
-    - Capacite funcionários juniores a criar conteúdo com confiança dentro de parâmetros pré-definidos para menos revisões.
-  points:
-    - title: Defina Diretrizes de Marca
-      description: Configure tom, estilo e parâmetros de conteúdo uma vez, depois aplique em todo o conteúdo criado pela equipe
-    - title: Capacite Funcionários Juniores
-      description: Permita que membros menos experientes criem conteúdo alinhado com a marca com confiança dentro das diretrizes estabelecidas
-    - title: Voz de Marca Consistente
-      description: Mantenha o mesmo tom e mensagem em todo o conteúdo, independente de qual membro da equipe o criou
-  footer:
-    - Controle de qualidade não deveria ser um gargalo. Equipes Bazam garante consistência sem te atrasar
-
+description: Compartilhe o contexto por trás de cada campanha, controle quem pode fazer o quê e aprove o rascunho e a publicação.
+ctaText: Obtenha acesso antecipado
+ctaUrl: "#early-access"
 featureList:
-  title: "Escale a Produção de Conteúdo da Sua Equipe Sem Sacrificar a Qualidade"
-  description: "Capacite cada membro da equipe a criar conteúdo alinhado com a marca por meio de conversa — com fluxos de aprovação, controle de acesso por função e voz de marca consistente integrados."
+  title: Um caminho mais claro do rascunho até a aprovação
+  description: A equipe trabalha a partir do mesmo conhecimento do público e das regras da marca, com controle onde importa.
   features:
-    - iconColor: "primary"
-      title: "Criação de Conteúdo Colaborativa"
-      icon: users
-      points:
-        - description: "Cada membro da equipe cria conteúdo <b>conversando com o agente</b> — sem treinamento necessário."
-        - description: "Funcionários juniores produzem <b>resultado de nível sênior</b> porque o agente aplica as diretrizes de marca."
-        - description: "Quanto mais pessoas criando, <b>mais conteúdo você produz</b> — sem queda na qualidade."
-        - description: "Os membros da equipe trabalham no <b>idioma de sua preferência</b> — ideal para equipes globais."
-    - iconColor: "primary"
-      title: "Voz de Marca Consistente"
-      icon: edit
-      points:
-        - description: "Defina <b>tom, estilo, formalidade e diretrizes personalizadas</b> uma vez — aplicados a cada peça automaticamente."
-        - description: "A mesma voz de marca não importa <b>quem da equipe está criando</b>."
-        - description: "Múltiplas marcas? Cada uma tem <b>suas próprias configurações de voz isoladas</b>."
-        - description: "Novas contratações são produtivas <b>desde o primeiro dia</b> — o agente já conhece a marca."
-    - iconColor: "primary"
-      title: "Aprovação e Controle de Acesso"
-      icon: chart
-      points:
-        - description: "O conteúdo fica <b>na fila para revisão</b> antes da publicação — nada é publicado sem autorização."
-        - description: "Atribua <b>funções e permissões</b> — administradores, editores, criadores — cada um com acesso apropriado."
-        - description: "Organize o trabalho por <b>departamentos, marcas ou clientes</b> com projetos separados."
-        - description: "<b>Trilha de auditoria</b> completa de quem criou, revisou e publicou cada peça."
-
-cta:
-  title: Capacite Toda Sua Equipe a Criar Conteúdo Alinhado com a Marca Agora!
-  description: Pronto para escalar sua produção de conteúdo mantendo consistência perfeita de marca? Experimente Equipes Bazam hoje e transforme como seu departamento de marketing colabora!
-
+  - iconColor: primary
+    title: Contexto compartilhado
+    icon: users
+    points:
+    - description: Dê a todos os mesmos perfis de público, voz de marca e material de origem.
+    - description: Reduza briefings repetidos e informações presas a uma pessoa.
+    - description: Mantenha o trabalho do cliente organizado em projetos dedicados.
+  - iconColor: primary
+    title: Funções e acesso
+    icon: users
+    points:
+    - description: Use o acesso baseado em função em toda a equipe.
+    - description: Dê às pessoas acesso ao trabalho de que precisam sem expor todos os projetos.
+    - description: Apoie equipes internas, freelancers e colaboração agência-cliente.
+  - iconColor: primary
+    title: Aprovação antes da publicação
+    icon: upload
+    points:
+    - description: Encaminhe o conteúdo por meio de aprovação para que nada seja publicado sem um sim.
+    - description: Revise a versão pronta para a plataforma antes de agendá-la.
+    - description: Mantenha a criação, o feedback e a publicação no mesmo fluxo de trabalho.
+features:
+- title: Dê a toda a equipe o contexto por trás do trabalho
+  tab: Compartilhe o contexto
+  image: "/images/features/illustration-reach.webp"
+  image_alt: Uma equipe compartilhando conteúdo de campanha conectado
+  description:
+  - Perfis de público, voz da marca, conhecimento do produto e planos de campanha permanecem no projeto, em vez de permanecerem nas anotações de uma pessoa.
+  points:
+  - title: Um ponto de partida compartilhado
+    description: Todos criam a partir da mesma marca aprovada e informações de público.
+  - title: Separação limpa do cliente
+    description: O acesso ao projeto mantém as pessoas focadas nas contas nas quais realmente trabalham.
+  - title: Convide pessoas por e-mail
+    description: Traga funcionários, freelancers ou colaboradores para a equipe e atribua suas funções.
+- title: Defina uma decisão clara entre um rascunho e uma publicação
+  tab: Aprove com confiança
+  image: "/images/approve.png"
+  image_alt: Uma etapa de aprovação clara entre a redação e a publicação
+  visual_type: produto
+  description:
+  - Decida quem pode criar, editar, aprovar e publicar. O trabalho permanece passível de revisão até que a pessoa certa dê um sim.
+  points:
+  - title: Funções que correspondem ao trabalho
+    description: Controle o acesso a conteúdos, canais, programações e publicações.
+  - title: Fluxo de trabalho de aprovação
+    description: Mantenha os rascunhos longe dos canais ao vivo até que sejam verificados.
+  - title: Um processo visível
+    description: A equipe pode ver a situação do trabalho sem precisar buscar atualizações por meio de mensagens.
+- title: Dê a cada pessoa acesso aos clientes com quem eles realmente trabalham
+  tab: Controlar o acesso
+  image: "/images/features/illustration-projects.webp"
+  image_alt: Espaços de trabalho de clientes separados com acesso claramente controlado
+  description:
+  - Convide pessoas para a organização e mantenha o acesso delas focado nos projetos relevantes. Clientes e colaboradores podem participar sem ver trabalhos não relacionados.
+  points:
+  - title: Convidar por e-mail
+    description: Traga funcionários, freelancers e revisores de clientes para o espaço de trabalho certo.
+  - title: Combine funções com responsabilidades
+    description: Visualização, criação, edição, aprovação e publicação separadas.
+  - title: Mantenha os clientes separados
+    description: O acesso a um projeto não expõe o resto do trabalho da organização.
 faq:
-  - q: "Como manter a consistência de marca quando múltiplas pessoas criam conteúdo?"
-    a:
-      - "Defina sua voz de marca uma vez — tom, estilo, formalidade e diretrizes. O agente aplica essas configurações a cada peça de conteúdo independente de quem na sua equipe cria. Sua equipe contribui; a voz da marca permanece consistente automaticamente."
-
-  - q: "Como evitar que funcionários juniores publiquem conteúdo fora da marca?"
-    a:
-      - "Configure fluxos de aprovação. Conteúdo criado por membros juniores da equipe fica na fila para revisão antes da publicação. Seniores revisam e aprovam dentro da plataforma — nada é publicado sem autorização."
-
-  - q: "Como dar permissões diferentes para diferentes membros da equipe?"
-    a:
-      - "Atribua funções — administradores configuram settings, editores revisam conteúdo, criadores trabalham dentro das diretrizes estabelecidas. Cada pessoa recebe o nível de acesso que precisa, nada mais. Ajuste permissões a qualquer momento."
-
-  - q: "Como funciona a aprovação de conteúdo em equipe?"
-    a:
-      - "O conteúdo fica na fila para aprovadores designados antes de ser agendado ou publicado. Aprovadores são notificados, revisam dentro da plataforma e aprovam ou pedem alterações. Sem correntes de e-mail, sem reuniões — apenas um processo de revisão simplificado."
-
-  - q: "Diferentes departamentos podem ter seus próprios espaços de conteúdo?"
-    a:
-      - "Sim. Crie projetos separados para cada departamento, marca ou cliente — cada um com sua própria voz, audiência e calendário de conteúdo. Membros da equipe podem ser atribuídos a múltiplos projetos com diferentes níveis de permissão."
-
-  - q: "Como escalar a produção de conteúdo em uma equipe?"
-    a:
-      - "Adicione membros da equipe e deixe-os criar conteúdo por conversa com o agente. Configurações de voz de marca garantem consistência. Fluxos de aprovação garantem qualidade. Quanto mais pessoas você adiciona, mais conteúdo produz — sem sacrificar qualidade."
-
-  - q: "Temos uma equipe multilíngue. Cada um pode trabalhar no seu idioma?"
-    a:
-      - "Sim. Os membros da equipe trabalham no idioma de sua preferência. As funcionalidades de tradução da plataforma permitem criar e gerenciar conteúdo em vários idiomas mantendo mensagens consistentes. Ideal para equipes globais e marketing internacional."
-
-  - q: "Quantas pessoas podem usar o Bazam em uma conta?"
-    a:
-      - "Quantas seu plano suportar — de equipes pequenas a grandes organizações. Cada membro da equipe recebe seu próprio login e trabalha dentro do mesmo ecossistema de conteúdo. Confira nossa página de preços para opções de tamanho de equipe."
-
-  - q: "Como fazer toda minha equipe usar IA para criação de conteúdo?"
-    a:
-      - "Cadastre-se, adicione os membros da sua equipe e configure sua voz de marca. O agente funciona por conversa natural — sem treinamento necessário. A maioria das equipes está produtiva na primeira sessão."
+- q: As equipes de marketing podem colaborar no Bazam?
+  a:
+  - Sim. As organizações podem convidar membros da equipe, compartilhar projetos e dividir a responsabilidade pela criação, edição, aprovação e publicação de conteúdo.
+- q: Posso controlar o que cada membro da equipe pode fazer?
+  a:
+  - Sim. As permissões baseadas em funções podem controlar o acesso a projetos, conteúdo, canais conectados, programações e ações de publicação.
+- q: Como funcionam as aprovações de conteúdo?
+  a:
+  - O conteúdo passa por um processo de revisão e aprovação antes da publicação. Isso permite que um revisor designado verifique a versão final pronta para a plataforma antes de ela ser publicada.
+- q: Freelancers ou clientes podem ser convidados para um projeto?
+  a:
+  - Sim. As pessoas podem ser convidadas por e-mail e atribuídas a uma função adequada ao trabalho que precisam ver ou concluir.
+- q: Como o Bazam mantém a consistência do conteúdo de uma equipe?
+  a:
+  - Todos em um projeto podem trabalhar com a mesma voz de marca, perfis de público, ofertas e base de conhecimento. O contexto compartilhado reduz a variação causada por briefs separados e bibliotecas de prompts pessoais.
 ---

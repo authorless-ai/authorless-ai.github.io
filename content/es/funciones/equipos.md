@@ -1,50 +1,89 @@
 ---
-type: features
-title: "Cread en equipo sin perder la marca"
+title: Crear en equipo sin perder la marca
 translationKey: feature-teams
-description: "Comparte el contexto de cada campaña, controla quién puede hacer qué e introduce una aprobación entre el borrador y la publicación."
-ctaText: "Obtén acceso anticipado"
+description: Comparta el contexto detrás de cada campaña, controle quién puede hacer qué y apruebe entre un borrador y una publicación.
+ctaText: Obtenga acceso temprano
 ctaUrl: "#early-access"
 featureList:
-  title: "Un camino más claro desde el borrador hasta la aprobación"
-  description: "El equipo trabaja desde el mismo conocimiento de la audiencia y las mismas reglas de marca, con control donde importa."
+  title: Una ruta más clara desde el borrador hasta la aprobación
+  description: El equipo trabaja desde el mismo conocimiento de la audiencia y las mismas reglas de marca, con control donde importa.
   features:
-    - { iconColor: "primary", title: "Contexto compartido", icon: users, points: [{ description: "Da a todos los mismos perfiles, voz de marca y fuentes." }, { description: "Reduce briefings repetidos e información atrapada en una persona." }, { description: "Mantén el trabajo de clientes ordenado en proyectos dedicados." }] }
-    - { iconColor: "primary", title: "Roles y acceso", icon: users, points: [{ description: "Utiliza acceso basado en roles para el equipo." }, { description: "Da acceso al trabajo necesario sin exponer todos los proyectos." }, { description: "Admite equipos internos, freelancers y colaboración agencia-cliente." }] }
-    - { iconColor: "primary", title: "Aprobación antes de publicar", icon: upload, points: [{ description: "Pasa el contenido por aprobación para que nada salga sin un sí." }, { description: "Revisa la versión preparada para la plataforma antes de programarla." }, { description: "Mantén creación, comentarios y publicación en el mismo flujo." }] }
+  - iconColor: primary
+    title: Contexto compartido
+    icon: users
+    points:
+    - description: Ofrezca a todos los mismos perfiles de audiencia, voz de marca y material fuente.
+    - description: Reduzca las sesiones informativas repetidas y la información atrapada en una sola persona.
+    - description: Mantenga el trabajo del cliente organizado dentro de proyectos dedicados.
+  - iconColor: primary
+    title: Roles y acceso
+    icon: users
+    points:
+    - description: Utilice el acceso basado en roles en todo el equipo.
+    - description: Brinde a las personas acceso al trabajo que necesitan sin exponer cada proyecto.
+    - description: Apoyar a los equipos internos, autónomos y la colaboración agencia-cliente.
+  - iconColor: primary
+    title: Aprobación antes de publicar
+    icon: upload
+    points:
+    - description: Enrute el contenido a través de la aprobación para que nada se publique sin un sí.
+    - description: Revise la versión lista para la plataforma antes de su programación.
+    - description: Mantenga la creación, los comentarios y la publicación dentro del mismo flujo de trabajo.
 features:
-  - title: "Da a todo el equipo el contexto del trabajo"
-    tab: "Comparte el contexto"
-    image: "/images/features/illustration-reach.webp"
-    image_alt: "Un equipo comparte contenido conectado de una campaña"
-    description: ["Los perfiles, la voz, el conocimiento de producto y los planes permanecen con el proyecto en lugar de vivir en las notas de una persona."]
-    points:
-      - { title: "Un punto de partida común", description: "Todos crean desde la misma información aprobada de marca y audiencia." }
-      - { title: "Separación limpia de clientes", description: "El acceso por proyecto centra a cada persona en las cuentas con las que trabaja." }
-      - { title: "Invita por correo", description: "Añade empleados, freelancers o colaboradores y asigna su rol." }
-  - title: "Coloca una decisión clara entre el borrador y la publicación"
-    tab: "Aprueba con confianza"
-    image: "/images/approve.png"
-    image_alt: "Un paso claro de aprobación entre redacción y publicación"
-    visual_type: "product"
-    description: ["Decide quién puede crear, editar, aprobar y publicar. El trabajo permanece revisable hasta que la persona adecuada dé el visto bueno."]
-    points:
-      - { title: "Roles que encajan con el trabajo", description: "Controla el acceso a contenido, canales, calendarios y publicación." }
-      - { title: "Flujo de aprobación", description: "Mantén los borradores lejos de los canales públicos hasta revisarlos." }
-      - { title: "Un proceso visible", description: "El equipo ve en qué punto está el trabajo sin perseguir actualizaciones por mensajes." }
-  - title: "Da a cada persona acceso a los clientes con los que trabaja"
-    tab: "Controla el acceso"
-    image: "/images/features/illustration-projects.webp"
-    image_alt: "Espacios separados de clientes con acceso claramente controlado"
-    description: ["Invita personas a la organización y limita su acceso a los proyectos pertinentes. Clientes y colaboradores participan sin ver trabajo ajeno."]
-    points:
-      - { title: "Invita por correo", description: "Añade empleados, freelancers y revisores del cliente al espacio adecuado." }
-      - { title: "Adapta los roles a las responsabilidades", description: "Separa ver, crear, editar, aprobar y publicar." }
-      - { title: "Mantén separados a los clientes", description: "Acceder a un proyecto no expone el resto del trabajo de la organización." }
+- title: Dar a todo el equipo el contexto detrás del trabajo.
+  tab: Comparte el contexto
+  image: "/images/features/illustration-reach.webp"
+  image_alt: Un equipo que comparte contenido de campaña conectado
+  description:
+  - Los perfiles de audiencia, la voz de la marca, el conocimiento del producto y los planes de campaña permanecen en el proyecto en lugar de vivir en las notas de una sola persona.
+  points:
+  - title: Un punto de partida compartido
+    description: Todos crean a partir de la misma marca aprobada y la misma información de audiencia.
+  - title: Separación limpia de clientes
+    description: El acceso al proyecto mantiene a las personas enfocadas en las cuentas en las que realmente trabajan.
+  - title: Invitar personas por correo electrónico
+    description: Incorpore empleados, autónomos o colaboradores al equipo y asígneles su rol.
+- title: Poner una decisión clara entre un borrador y una publicación.
+  tab: Aprobar con confianza
+  image: "/images/approve.png"
+  image_alt: Un paso de aprobación claro entre la redacción y la publicación.
+  visual_type: producto
+  description:
+  - Decide quién puede crear, editar, aprobar y publicar. El trabajo sigue siendo revisable hasta que la persona adecuada le da un sí.
+  points:
+  - title: Roles que coinciden con el trabajo.
+    description: Controle el acceso al contenido, canales, horarios y publicaciones.
+  - title: Flujo de trabajo de aprobación
+    description: Mantenga los borradores alejados de los canales en vivo hasta que hayan sido revisados.
+  - title: Un proceso visible
+    description: El equipo puede ver dónde se encuentra el trabajo sin buscar actualizaciones a través de mensajes.
+- title: Dar a cada persona acceso a los clientes con los que realmente trabaja
+  tab: Controlar el acceso
+  image: "/images/features/illustration-projects.webp"
+  image_alt: Espacios de trabajo separados para clientes con acceso claramente controlado
+  description:
+  - Invite a personas a la organización y luego mantenga su acceso centrado en los proyectos relevantes. Clientes y colaboradores pueden participar sin ver trabajos no relacionados.
+  points:
+  - title: Invitar por correo electrónico
+    description: Lleve a los empleados, autónomos y revisores de clientes al espacio de trabajo adecuado.
+  - title: Relacionar roles con responsabilidades
+    description: Visualización, creación, edición, aprobación y publicación por separado.
+  - title: Mantenga a los clientes separados
+    description: El acceso a un proyecto no expone el resto del trabajo de la organización.
 faq:
-  - { q: "¿Pueden colaborar los equipos de marketing en Bazam?", a: ["Sí. Las organizaciones invitan miembros, comparten proyectos y reparten la creación, edición, aprobación y publicación."] }
-  - { q: "¿Puedo controlar qué hace cada miembro?", a: ["Sí. Los permisos por rol controlan proyectos, contenido, canales conectados, calendarios y acciones de publicación."] }
-  - { q: "¿Cómo funcionan las aprobaciones?", a: ["El contenido pasa por revisión y aprobación antes de publicarse, para que un revisor compruebe la versión final de cada plataforma."] }
-  - { q: "¿Puedo invitar a freelancers o clientes?", a: ["Sí. Se invita por correo y se asigna un rol adecuado al trabajo que necesitan ver o completar."] }
-  - { q: "¿Cómo mantiene Bazam la coherencia del equipo?", a: ["Todos trabajan desde la misma voz, perfiles, ofertas y base de conocimiento, reduciendo variaciones de briefings y bibliotecas personales de prompts."] }
+- q: "¿Pueden los equipos de marketing colaborar en Bazam?"
+  a:
+  - Sí. Las organizaciones pueden invitar a miembros del equipo, compartir proyectos y dividir la responsabilidad de crear, editar, aprobar y publicar contenido.
+- q: "¿Puedo controlar lo que puede hacer cada miembro del equipo?"
+  a:
+  - Sí. Los permisos basados ​​en roles pueden controlar el acceso a proyectos, contenido, canales conectados, cronogramas y acciones de publicación.
+- q: "¿Cómo funcionan las aprobaciones de contenido?"
+  a:
+  - El contenido pasa por un proceso de revisión y aprobación antes de su publicación. Esto permite que un revisor designado verifique la versión final lista para la plataforma antes de que se publique.
+- q: "¿Se puede invitar a autónomos o clientes a un proyecto?"
+  a:
+  - Sí. Se puede invitar a las personas por correo electrónico y asignarles un rol adecuado al trabajo que necesitan ver o completar.
+- q: "¿Cómo mantiene Bazam la coherencia del contenido de un equipo?"
+  a:
+  - Todos en un proyecto pueden trabajar desde la misma voz de marca, perfiles de audiencia, ofertas y base de conocimientos. El contexto compartido reduce la variación causada por resúmenes separados y bibliotecas de indicaciones personales.
 ---

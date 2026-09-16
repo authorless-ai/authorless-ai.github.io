@@ -9,6 +9,7 @@ ctaUrl: "#early-access"
 heroDescription:
   - "ChatGPT redacta el borrador y se detiene. Bazam sabe para cuál de tus clientes es, después lo programa y lo publica en seis plataformas y en tu blog."
 comparisonGrid: "comparison_chatgpt"
+aliases: ["/alternativas/bazam-vs-chatgpt/"]
 
 features:
   - title: "Cada chat empieza desde cero"

@@ -8,6 +8,7 @@ ctaText: "Obtenir un accès anticipé"
 ctaUrl: "#early-access"
 heroDescription: ["Anyword note le texte après sa rédaction. Bazam l’écrit pour le client, puis le planifie et le publie pour vous. <b>À partir de 39 $ par mois contre 49 $.</b>"]
 comparisonGrid: "comparison_anyword"
+aliases: ["/alternatives/bazam-vs-anyword/"]
 features:
   - title: "Une note n’explique pas pourquoi ils achètent"
     image: "/images/persona.png"

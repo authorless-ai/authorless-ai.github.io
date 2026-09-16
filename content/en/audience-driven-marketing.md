@@ -1,6 +1,7 @@
 ---
 layout: marketing
 title: "Marketing that learns who it is talking to"
+translationKey: audience-driven-marketing
 superTitle: "Audience-driven marketing"
 description: "A way to make every campaign more specific than the last: start with the audience, test what matters to them, and put the learning into the next brief."
 ctaText: "Get early access"

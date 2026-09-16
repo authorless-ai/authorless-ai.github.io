@@ -17,7 +17,7 @@ personas:
 
       * Un organisateur d'entreprise s'intéresse aux salles de conférence.
       * Un couple réservant un week-end s'intéresse au service en chambre.
-    - "Bazam appelle cela le [marketing centré sur l'audience](/audience-driven-marketing/) : comprendre précisément qui lit et laisser cette connaissance guider chaque message pour augmenter les conversions."
+    - "Bazam appelle cela le [marketing centré sur l'audience](/fr/marketing-oriente-audience/) : comprendre précisément qui lit et laisser cette connaissance guider chaque message pour augmenter les conversions."
   title_image: "/images/persona-list.png"
   title_image_alt: "Liste des personas d'audience dans Bazam"
   personas:
@@ -190,7 +190,7 @@ faq:
     a:
       - "Le marketing classique part du message : décider quoi dire, puis le diffuser partout. Le marketing centré sur l'audience part du lecteur : construire un vrai modèle de cette personne et le laisser déterminer les mots, l'angle et l'offre."
       - "Bazam fonctionne ainsi par défaut. Chaque audience reçoit un profil détaillé avant la rédaction, et chaque contenu, sur chaque plateforme, est généré à partir de celui-ci."
-      - "Découvrez comment le [marketing centré sur l'audience](/audience-driven-marketing/) devient une boucle d'apprentissage : chaque campagne teste un message et améliore le brief suivant."
+      - "Découvrez comment le [marketing centré sur l'audience](/fr/marketing-oriente-audience/) devient une boucle d'apprentissage : chaque campagne teste un message et améliore le brief suivant."
   - q: "Et si l'audience de mon client n'est pas composée d'« acheteurs » ?"
     a:
       - "Le terme n'est qu'un raccourci. Le profil décrit toute personne à qui votre client s'adresse : lecteurs d'e-mails, abonnés, donateurs, bénévoles, fans ou habitués. Le fonctionnement reste identique."

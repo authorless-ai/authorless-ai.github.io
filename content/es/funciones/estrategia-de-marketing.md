@@ -1,50 +1,89 @@
 ---
-type: features
-title: "Mantén cada contenido vinculado a una campaña"
+title: Mantenga cada contenido vinculado a una campaña
 translationKey: feature-marketing-strategy
-description: "Organiza el contenido en torno a un objetivo, una audiencia y un plan de publicación para que toda la actividad produzca algo útil."
-ctaText: "Obtén acceso anticipado"
+description: Organice el contenido en torno a un objetivo, una audiencia y un plan de publicación para que la actividad se convierta en algo útil.
+ctaText: Obtenga acceso temprano
 ctaUrl: "#early-access"
 featureList:
-  title: "Del objetivo de campaña a un conjunto de trabajo coordinado"
-  description: "Mantén conectados desde el principio el briefing, la audiencia, los idiomas, el contenido y los resultados."
+  title: De un objetivo de campaña a un cuerpo de trabajo coordinado
+  description: Mantenga conectados el resumen, la audiencia, los idiomas, el contenido y los resultados desde el principio.
   features:
-    - { iconColor: "primary", title: "Marca el rumbo", icon: bullhorn, points: [{ description: "Asigna a cada campaña un objetivo y una audiencia." }, { description: "Crea enlaces rastreables para atribuir visitas y resultados a la campaña." }, { description: "Elige los idiomas y canales que debe cubrir." }] }
-    - { iconColor: "primary", title: "Planifica la combinación adecuada", icon: chart, points: [{ description: "Crea contenido para atención, interés, deseo y acción." }, { description: "Elige entre más de 30 formatos, incluidos casos de éxito, comparativas, preguntas frecuentes y tutoriales." }, { description: "Guarda combinaciones útiles de tipo, tono y propósito para reutilizarlas." }] }
-    - { iconColor: "primary", title: "Mantén unida la entrega", icon: calendar, points: [{ description: "Programa cada pieza en el mismo calendario visual." }, { description: "Crea una versión independiente para cada plataforma e idioma." }, { description: "Revisa resultados por campaña, canal o publicación." }] }
+  - iconColor: primary
+    title: Establecer la dirección
+    icon: bullhorn
+    points:
+    - description: Asigne a cada campaña un objetivo y un público objetivo.
+    - description: Cree enlaces rastreables para que las visitas y los resultados puedan rastrearse hasta la campaña.
+    - description: Elija los idiomas y canales que debe cubrir la campaña.
+  - iconColor: primary
+    title: Planifica la combinación adecuada
+    icon: chart
+    points:
+    - description: Crea contenido para llamar la atención, el interés, el deseo y la acción.
+    - description: Elija entre más de 30 formatos, incluidos estudios de casos, comparaciones, preguntas frecuentes y procedimientos.
+    - description: Guarde combinaciones útiles de tipo de contenido, tono y propósito para reutilizarlas.
+  - iconColor: primary
+    title: Mantenga la entrega unida
+    icon: calendar
+    points:
+    - description: Programe cada pieza en el mismo calendario visual.
+    - description: Cree una versión separada para cada plataforma e idioma.
+    - description: Revise los resultados a nivel de campaña, canal o publicación individual.
 features:
-  - title: "Da un propósito a cada campaña antes de crear publicaciones"
-    tab: "Da forma a la campaña"
-    image: "/images/campaign-options.png"
-    image_alt: "Controles de campaña para audiencia, mensajes y temas"
-    visual_type: "product"
-    description: ["Define el objetivo, elige la audiencia y decide qué mercados y canales importan. Bazam mantiene esas decisiones vinculadas a cada pieza de la campaña."]
-    points:
-      - { title: "Empieza por la audiencia", description: "Elige el perfil de audiencia que la campaña debe movilizar." }
-      - { title: "Cubre todo el recorrido", description: "Planifica contenido que atraiga atención, genere interés y deseo y pida una acción." }
-      - { title: "Reutiliza lo que funciona", description: "Guarda combinaciones de formato, tono y propósito como perfiles de contenido." }
-  - title: "Mantén conectado el plan durante la publicación y los resultados"
-    tab: "Mantén el movimiento"
-    image: "/images/features/illustration-plan.webp"
-    image_alt: "El contenido avanza por un plan de campaña coordinado"
-    description: ["Una campaña es más que una carpeta de borradores. Programa sus piezas juntas, crea versiones para cada mercado y consulta el rendimiento sin perder el objetivo original."]
-    points:
-      - { title: "Calendario coordinado", description: "Planifica la actividad en distintos canales y durante varios días." }
-      - { title: "Visitas rastreables", description: "Utiliza enlaces de campaña para saber qué contenido llevó personas a tu web." }
-      - { title: "Resultados con contexto", description: "Revisa el rendimiento de toda la campaña o profundiza en un canal o publicación." }
-  - title: "Utiliza los resultados para mejorar la siguiente campaña"
-    tab: "Aprende qué funciona"
-    image: "/images/features/illustration-insights.webp"
-    image_alt: "Resultados de marketing analizados para revelar el siguiente paso"
-    description: ["Devuelve los resultados de campaña, canal y publicación al plan original. Así resulta más fácil ver qué ideas merecen repetirse y cuáles deben cambiar."]
-    points:
-      - { title: "Compara al nivel adecuado", description: "Observa toda la campaña o céntrate en un canal o publicación." }
-      - { title: "Conecta visitas y contenido", description: "Utiliza enlaces de campaña para saber qué llevó personas a tu web." }
-      - { title: "Mejora el siguiente plan", description: "Lleva adelante lo aprendido en lugar de empezar solo desde la intuición." }
+- title: Dale a cada campaña un propósito antes de crear las publicaciones.
+  tab: Dar forma a la campaña
+  image: "/images/campaign-options.png"
+  image_alt: Controles de campaña para audiencia, mensajes y temas de contenido.
+  visual_type: producto
+  description:
+  - Establece el objetivo, elige la audiencia y decide qué mercados y canales importan. Bazam mantiene esas decisiones adjuntas a cada pieza creada para la campaña.
+  points:
+  - title: Comience con la audiencia
+    description: Elija el perfil de audiencia que la campaña necesita para mover.
+  - title: Cubrir todo el viaje
+    description: Planifique contenido que llame la atención, genere interés, genere deseo y solicite acción.
+  - title: Reutiliza lo que funciona
+    description: Guarde combinaciones de formato, tono y propósito como perfiles de contenido para trabajos futuros.
+- title: Mantenga el plan conectado a través de la publicación y los resultados.
+  tab: Mantenlo en movimiento
+  image: "/images/features/illustration-plan.webp"
+  image_alt: Contenido que avanza a través de un plan de campaña coordinado.
+  description:
+  - Una campaña es más que una carpeta de borradores. Programe sus piezas en conjunto, cree versiones para cada mercado y vea el rendimiento sin perder de vista el objetivo original.
+  points:
+  - title: Calendario coordinado
+    description: Planifique la actividad de la campaña en todos los canales y durante varios días.
+  - title: Visitas rastreables
+    description: Utilice enlaces de campaña que muestren qué contenido atrajo personas a su sitio.
+  - title: Resultados en contexto
+    description: Revise el rendimiento de toda la campaña o profundice en un canal o publicación.
+- title: Utilice los resultados para mejorar la próxima campaña
+  tab: Aprende lo que funciona
+  image: "/images/features/illustration-insights.webp"
+  image_alt: Se examinan los resultados de marketing para revelar un siguiente paso claro
+  description:
+  - Devuelva los resultados de la campaña, el canal y la publicación al plan original. Eso hace que sea más fácil ver qué ideas merecen otra ejecución y cuáles necesitan cambiar.
+  points:
+  - title: Comparar al nivel correcto
+    description: Mire una campaña o céntrese en un canal o publicación.
+  - title: Conectar visitas al contenido
+    description: Utilice enlaces de campaña para ver qué atrajo a las personas a su sitio.
+  - title: Mejorar el próximo plan
+    description: Lleva adelante lecciones útiles en lugar de partir únicamente del instinto.
 faq:
-  - { q: "¿Qué es la gestión de campañas de contenido?", a: ["Mantiene juntos el objetivo, la audiencia, el contenido, el calendario, los canales y los resultados de una campaña. Ayuda a ver cómo cada publicación contribuye al mismo resultado."] }
-  - { q: "¿Cómo puede ayudar la IA a planificar una campaña?", a: ["Bazam sugiere temas y crea distintos formatos utilizando la audiencia, la marca y el objetivo seleccionados. Tú sigues decidiendo la dirección y la aprobación."] }
-  - { q: "¿Puede una campaña incluir varios idiomas?", a: ["Sí. Selecciona varios idiomas objetivo y coordina las traducciones y los canales específicos desde el mismo plan."] }
-  - { q: "¿Qué contenido debe incluir una campaña?", a: ["Depende del objetivo, pero una campaña equilibrada atrae atención, responde preguntas, genera deseo y ofrece un siguiente paso claro. Bazam incluye más de 30 formatos."] }
-  - { q: "¿Cómo mido una campaña de contenido?", a: ["Bazam combina resultados de publicación e interacción por campaña, canal y publicación. Los enlaces rastreables también conectan visitas y conversiones con el contenido que las generó."] }
+- q: "¿Qué es la gestión de campañas de contenidos?"
+  a:
+  - La gestión de campañas de contenido mantiene juntos el objetivo, la audiencia, el contenido, la programación, los canales y los resultados de una campaña. Ayuda al equipo a ver cómo las publicaciones individuales contribuyen al mismo resultado.
+- q: "¿Cómo puede la IA ayudar a planificar una campaña de marketing?"
+  a:
+  - Bazam puede sugerir temas y crear diferentes formatos de contenido utilizando la audiencia, la marca y el objetivo de campaña seleccionados. Usted sigue siendo responsable de la dirección y aprobación.
+- q: "¿Puede una campaña incluir varios idiomas?"
+  a:
+  - Sí. Puede seleccionar varios idiomas de destino para una campaña y coordinar el contenido traducido y los canales específicos del idioma desde el mismo plan.
+- q: "¿Qué contenidos debe incluir una campaña?"
+  a:
+  - Eso depende del objetivo, pero una campaña equilibrada suele incluir contenido que llame la atención, responda preguntas, genere deseo y le dé a la audiencia un siguiente paso claro. Bazam ofrece más de 30 formatos para crear esa combinación.
+- q: "¿Cómo mido una campaña de contenido?"
+  a:
+  - Bazam puede combinar resultados de publicación y participación a nivel de campaña, canal y publicación. Los enlaces de campaña rastreables también pueden conectar las visitas al sitio y las conversiones con el trabajo que las generó.
 ---

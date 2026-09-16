@@ -8,6 +8,7 @@ ctaText: "Obtenir un accès anticipé"
 ctaUrl: "#early-access"
 heroDescription: ["Blaze écrit pour votre marque. Bazam écrit séparément pour chacun de vos clients, puis planifie et publie pour vous. <b>À partir de 39 $ par mois contre 79 $.</b>"]
 comparisonGrid: "comparison_blaze"
+aliases: ["/alternatives/bazam-vs-blaze/"]
 features:
   - title: "Votre marque n’est pas votre client"
     image: "/images/persona.png"
