@@ -183,6 +183,9 @@ menus:
   - name: "Small businesses"
     url: "/solutions/small-businesses/"
     weight: 10
+  - name: "SaaS"
+    url: "/solutions/saas/"
+    weight: 20
   toolsMenu:
   - name: "Website marketing plan"
     url: "/tools/website-marketing-plan/"

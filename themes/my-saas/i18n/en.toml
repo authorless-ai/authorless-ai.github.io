@@ -1245,6 +1245,9 @@ other = "Contact"
 [menu_small_businesses]
 other = "Small businesses"
 
+[menu_saas]
+other = "SaaS"
+
 [menu_website_marketing_plan]
 other = "Website marketing plan"
 

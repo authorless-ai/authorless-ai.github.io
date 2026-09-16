@@ -1,4 +1,6 @@
-{{ $features := .Params.features }}
+{{/* Feature pages use `features`; solution pages can opt into the same stage
+     without giving up their longer-form `features` sections. */}}
+{{ $features := .Params.tabbedFeatures | default .Params.features }}
 {{ $bgSwirl := resources.Get "images/bg-swirl.png" }}
 {{ if $features }}
 <section class="bg-[#f7f7ff] dark:bg-gray-900 border-y border-primary-100 dark:border-gray-700 py-8 sm:py-10" data-feature-stage>

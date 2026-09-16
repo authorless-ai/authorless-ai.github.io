@@ -1242,6 +1242,9 @@ other = "Kontakt"
 [menu_small_businesses]
 other = "Kleine Unternehmen"
 
+[menu_saas]
+other = "SaaS"
+
 [menu_website_marketing_plan]
 other = "Website-Marketingplan"
 

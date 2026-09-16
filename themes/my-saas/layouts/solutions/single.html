@@ -11,10 +11,22 @@
 
   {{ partial "index/lead-gen-banner.html" . }}
 
-  {{ partial "index/persona-grid.html" (dict "data" .Params.personas "context" .) }}
-  {{ partial "index/angle-carousel.html" (dict "data" .Params.angles "context" .) }}
-  {{ partial "index/showcase.html" (dict "data" .Params.calendar "context" .) }}
-  {{ partial "index/evidence.html" (dict "data" .Params.evidence "context" .) }}
+  {{ if .Params.tabbedFeatures }}
+    {{ partial "feature/stage.html" . }}
+  {{ end }}
+
+  {{ with .Params.personas }}
+    {{ partial "index/persona-grid.html" (dict "data" . "context" $) }}
+  {{ end }}
+  {{ with .Params.angles }}
+    {{ partial "index/angle-carousel.html" (dict "data" . "context" $) }}
+  {{ end }}
+  {{ with .Params.calendar }}
+    {{ partial "index/showcase.html" (dict "data" . "context" $) }}
+  {{ end }}
+  {{ with .Params.evidence }}
+    {{ partial "index/evidence.html" (dict "data" . "context" $) }}
+  {{ end }}
 
   {{ if .Params.features }}
     {{ partial "feature/two-features.html" (dict "context" . "start" 0 "end" (len .Params.features) "swapBackgrounds" false) }}
@@ -50,4 +62,8 @@
 {{ define "scripts" }}
   {{ $js := resources.Get "js/scroll-reveal.js" | fingerprint }}
   <script src="{{ $js.RelPermalink }}"></script>
+  {{ if .Params.tabbedFeatures }}
+    {{ $featureTabs := resources.Get "js/feature-tabs.js" | minify | fingerprint }}
+    <script src="{{ $featureTabs.RelPermalink }}" defer></script>
+  {{ end }}
 {{ end }}
