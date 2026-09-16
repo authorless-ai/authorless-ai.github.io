@@ -660,7 +660,7 @@ other = "Oltre i contenuti"
 other = "Campagne pubblicitarie a pagamento"
 
 [fg_cmp_tools__beyond__ads__blaze]
-other = "Google and Meta"
+other = "Google e Meta"
 
 [fg_cmp_tools__beyond__landing]
 other = "Landing page"
@@ -696,7 +696,7 @@ other = "49 $/mese"
 other = "39 $/mese"
 
 [fg_cmp_anyword__title]
-other = "Bazam vs Anyword"
+other = "Bazam contro Anyword"
 
 [fg_cmp_anyword__subtitle]
 other = "Entrambi producono testi marketing. Cambiano quanto lo strumento sa di chi legge e quanta parte del lavoro completa."
@@ -813,7 +813,7 @@ other = "39 $/mese"
 other = "Profilo completo nel piano iniziale"
 
 [fg_cmp_blaze__title]
-other = "Bazam vs Blaze"
+other = "Bazam contro Blaze"
 
 [fg_cmp_blaze__subtitle]
 other = "Entrambi scrivono e pubblicano. Cambiano il destinatario e ciò che accade quando lavori per clienti."
@@ -924,7 +924,7 @@ other = "39 $/mese"
 other = "Profilo completo nel piano iniziale"
 
 [fg_cmp_chatgpt__title]
-other = "Bazam vs ChatGPT"
+other = "Bazam contro ChatGPT"
 
 [fg_cmp_chatgpt__subtitle]
 other = "Produrre una bozza è uno di circa sei passaggi. Ecco il resto del lavoro e chi lo svolge."
@@ -1249,12 +1249,90 @@ other = "Piano marketing del sito"
 other = "Confronto delle alternative"
 
 [menu_bazam_vs_chatgpt]
-other = "Bazam vs ChatGPT"
+other = "Bazam contro ChatGPT"
 
 [menu_bazam_vs_anyword]
-other = "Bazam vs Anyword"
+other = "Bazam contro Anyword"
 
 [menu_bazam_vs_blaze]
-other = "Bazam vs Blaze"
+other = "Bazam contro Blaze"
 [whatIsAudienceDrivenMarketing]
 other = "Che cos’è il marketing orientato al pubblico?"
+
+[previousAngle]
+other = "Angolazione precedente"
+
+[nextAngle]
+other = "Angolazione successiva"
+
+[socialMedia]
+other = "Social media"
+
+[brandOnPlatform]
+other = "%s su %s"
+
+[openMainMenu]
+other = "Apri il menu principale"
+
+[menu_ai_marketing_assistant]
+other = "Assistente marketing IA"
+
+[menu_ai_content_creation]
+other = "Creazione di contenuti con IA"
+
+[menu_content_ideas]
+other = "Idee per i contenuti"
+
+[menu_campaigns]
+other = "Campagne"
+
+[menu_knowledge_base]
+other = "Base di conoscenza"
+
+[menu_content_calendar]
+other = "Calendario dei contenuti"
+
+[menu_direct_publishing]
+other = "Pubblicazione diretta"
+
+[menu_translation]
+other = "Traduzione"
+
+[menu_projects]
+other = "Progetti"
+
+[menu_team_collaboration]
+other = "Collaborazione del team"
+
+[menu_desc_ai_marketing_assistant]
+other = "Crea, ricerca, pianifica e controlla i risultati tramite una conversazione."
+
+[menu_desc_audience_profiles]
+other = "Comprendi con chi stai parlando prima di iniziare a scrivere."
+
+[menu_desc_ai_content_creation]
+other = "Crea oltre 30 tipi di contenuto senza partire da una pagina vuota."
+
+[menu_desc_content_ideas]
+other = "Ottieni argomenti pertinenti in base a marchio, pubblico e obiettivi."
+
+[menu_desc_campaigns]
+other = "Collega ogni contenuto a un pubblico e a un obiettivo chiaro."
+
+[menu_desc_knowledge_base]
+other = "Fornisci a Bazam fatti, fonti e linee guida reali del tuo marchio."
+
+[menu_desc_content_calendar]
+other = "Pianifica, programma e riorganizza il lavoro su tutti i canali."
+
+[menu_desc_direct_publishing]
+other = "Pubblica contenuti pronti per ogni piattaforma senza copiare e incollare."
+
+[menu_desc_translation]
+other = "Porta le campagne in oltre 50 lingue mantenendo la tua voce."
+
+[menu_desc_projects]
+other = "Tieni separati il lavoro e il contesto di ogni cliente o marchio."
+
+[menu_desc_team_collaboration]
+other = "Condividi il lavoro, controlla gli accessi e approva prima di pubblicare."

@@ -660,7 +660,7 @@ other = "Más allá del contenido"
 other = "Campañas de publicidad de pago"
 
 [fg_cmp_tools__beyond__ads__blaze]
-other = "Google and Meta"
+other = "Google y Meta"
 
 [fg_cmp_tools__beyond__landing]
 other = "Páginas de destino"
@@ -696,7 +696,7 @@ other = "49 $/mes"
 other = "39 $/mes"
 
 [fg_cmp_anyword__title]
-other = "Bazam vs Anyword"
+other = "Bazam frente a Anyword"
 
 [fg_cmp_anyword__subtitle]
 other = "Ambas producen textos de marketing. La diferencia está en cuánto sabe la herramienta sobre quien los lee y qué parte del trabajo termina."
@@ -813,7 +813,7 @@ other = "39 $/mes"
 other = "Modelo completo de audiencia en el plan inicial"
 
 [fg_cmp_blaze__title]
-other = "Bazam vs Blaze"
+other = "Bazam frente a Blaze"
 
 [fg_cmp_blaze__subtitle]
 other = "Ambas escriben y publican. La diferencia está en a quién se dirige el texto y qué ocurre cuando trabajas para otras personas."
@@ -924,7 +924,7 @@ other = "39 $/mes"
 other = "Modelo completo de audiencia en el plan inicial"
 
 [fg_cmp_chatgpt__title]
-other = "Bazam vs ChatGPT"
+other = "Bazam frente a ChatGPT"
 
 [fg_cmp_chatgpt__subtitle]
 other = "Crear un borrador es solo uno de unos seis pasos. Aquí tienes el resto del trabajo y quién lo hace."
@@ -1271,6 +1271,9 @@ other = "%s en %s"
 
 [whatIsAudienceDrivenMarketing]
 other = "¿Qué es el marketing centrado en la audiencia?"
+
+[openMainMenu]
+other = "Abrir el menú principal"
 
 [menu_ai_marketing_assistant]
 other = "Asistente de marketing con IA"

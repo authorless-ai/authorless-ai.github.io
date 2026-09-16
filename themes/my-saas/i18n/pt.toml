@@ -1249,12 +1249,90 @@ other = "Plano de marketing do site"
 other = "Comparação de alternativas"
 
 [menu_bazam_vs_chatgpt]
-other = "Bazam vs ChatGPT"
+other = "Bazam em comparação com ChatGPT"
 
 [menu_bazam_vs_anyword]
-other = "Bazam vs Anyword"
+other = "Bazam em comparação com Anyword"
 
 [menu_bazam_vs_blaze]
-other = "Bazam vs Blaze"
+other = "Bazam em comparação com Blaze"
 [whatIsAudienceDrivenMarketing]
 other = "O que é marketing orientado para o público?"
+
+[previousAngle]
+other = "Ângulo anterior"
+
+[nextAngle]
+other = "Ângulo seguinte"
+
+[socialMedia]
+other = "Redes sociais"
+
+[brandOnPlatform]
+other = "%s em %s"
+
+[openMainMenu]
+other = "Abrir o menu principal"
+
+[menu_ai_marketing_assistant]
+other = "Assistente de marketing com IA"
+
+[menu_ai_content_creation]
+other = "Criação de conteúdo com IA"
+
+[menu_content_ideas]
+other = "Ideias de conteúdo"
+
+[menu_campaigns]
+other = "Campanhas"
+
+[menu_knowledge_base]
+other = "Base de conhecimento"
+
+[menu_content_calendar]
+other = "Calendário de conteúdo"
+
+[menu_direct_publishing]
+other = "Publicação direta"
+
+[menu_translation]
+other = "Tradução"
+
+[menu_projects]
+other = "Projetos"
+
+[menu_team_collaboration]
+other = "Colaboração em equipa"
+
+[menu_desc_ai_marketing_assistant]
+other = "Crie, pesquise, planeie e consulte resultados através de uma conversa."
+
+[menu_desc_audience_profiles]
+other = "Compreenda com quem está a falar antes de começar a escrever."
+
+[menu_desc_ai_content_creation]
+other = "Crie mais de 30 tipos de conteúdo sem começar com uma página em branco."
+
+[menu_desc_content_ideas]
+other = "Obtenha temas relevantes com base na marca, no público e nos objetivos."
+
+[menu_desc_campaigns]
+other = "Mantenha cada conteúdo ligado a um público e a um objetivo claro."
+
+[menu_desc_knowledge_base]
+other = "Dê à Bazam os seus factos, fontes e orientações de marca reais."
+
+[menu_desc_content_calendar]
+other = "Planeie, agende e reorganize o trabalho em todos os canais."
+
+[menu_desc_direct_publishing]
+other = "Publique conteúdo pronto para cada plataforma sem copiar e colar."
+
+[menu_desc_translation]
+other = "Leve campanhas a mais de 50 idiomas sem perder a sua voz."
+
+[menu_desc_projects]
+other = "Mantenha separados o trabalho e o contexto de cada cliente ou marca."
+
+[menu_desc_team_collaboration]
+other = "Partilhe trabalho, controle o acesso e aprove antes da publicação."

@@ -1334,3 +1334,5 @@ other = "Keep every client or brand's work and context separate."
 
 [menu_desc_team_collaboration]
 other = "Share work, control access and approve before publishing."
+[openMainMenu]
+other = "Open main menu"

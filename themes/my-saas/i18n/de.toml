@@ -244,7 +244,7 @@ other = "Markenstimme"
 other = "Analysen und Berichte"
 
 [fg_cmp_hootsuite__team_features]
-other = "Team & Management"
+other = "Team und Verwaltung"
 
 [fg_cmp_hootsuite__team_features__team_collab]
 other = "Teamzusammenarbeit"
@@ -660,7 +660,7 @@ other = "Über Inhalte hinaus"
 other = "Bezahlte Werbekampagnen"
 
 [fg_cmp_tools__beyond__ads__blaze]
-other = "Google and Meta"
+other = "Google und Meta"
 
 [fg_cmp_tools__beyond__landing]
 other = "Landingpages"
@@ -696,7 +696,7 @@ other = "49 $/Monat"
 other = "39 $/Monat"
 
 [fg_cmp_anyword__title]
-other = "Bazam vs Anyword"
+other = "Bazam im Vergleich zu Anyword"
 
 [fg_cmp_anyword__subtitle]
 other = "Beide erstellen Marketingtexte. Der Unterschied liegt im Wissen über die lesende Person und darin, wie viel Arbeit das Tool abschließt."
@@ -813,7 +813,7 @@ other = "39 $/Monat"
 other = "Vollständiges Zielgruppenprofil im Einstiegstarif"
 
 [fg_cmp_blaze__title]
-other = "Bazam vs Blaze"
+other = "Bazam im Vergleich zu Blaze"
 
 [fg_cmp_blaze__subtitle]
 other = "Beide schreiben und veröffentlichen. Der Unterschied liegt in der Zielgruppe und im Ablauf bei Kundenarbeit."
@@ -924,7 +924,7 @@ other = "39 $/Monat"
 other = "Vollständiges Zielgruppenprofil im Einstiegstarif"
 
 [fg_cmp_chatgpt__title]
-other = "Bazam vs ChatGPT"
+other = "Bazam im Vergleich zu ChatGPT"
 
 [fg_cmp_chatgpt__subtitle]
 other = "Ein Entwurf ist nur einer von etwa sechs Schritten. Hier sehen Sie die restliche Arbeit und wer sie erledigt."
@@ -1258,3 +1258,81 @@ other = "Bazam vs. Anyword"
 other = "Bazam vs. Blaze"
 [whatIsAudienceDrivenMarketing]
 other = "Was ist zielgruppenorientiertes Marketing?"
+
+[previousAngle]
+other = "Vorheriger Blickwinkel"
+
+[nextAngle]
+other = "Nächster Blickwinkel"
+
+[socialMedia]
+other = "Soziale Medien"
+
+[brandOnPlatform]
+other = "%s auf %s"
+
+[openMainMenu]
+other = "Hauptmenü öffnen"
+
+[menu_ai_marketing_assistant]
+other = "KI-Marketingassistent"
+
+[menu_ai_content_creation]
+other = "KI-Content-Erstellung"
+
+[menu_content_ideas]
+other = "Content-Ideen"
+
+[menu_campaigns]
+other = "Kampagnen"
+
+[menu_knowledge_base]
+other = "Wissensdatenbank"
+
+[menu_content_calendar]
+other = "Content-Kalender"
+
+[menu_direct_publishing]
+other = "Direktveröffentlichung"
+
+[menu_translation]
+other = "Übersetzung"
+
+[menu_projects]
+other = "Projekte"
+
+[menu_team_collaboration]
+other = "Teamarbeit"
+
+[menu_desc_ai_marketing_assistant]
+other = "Erstellen, recherchieren, planen und Ergebnisse im Gespräch prüfen."
+
+[menu_desc_audience_profiles]
+other = "Verstehen Sie, mit wem Sie sprechen, bevor Sie zu schreiben beginnen."
+
+[menu_desc_ai_content_creation]
+other = "Erstellen Sie mehr als 30 Content-Arten, ohne mit einer leeren Seite anzufangen."
+
+[menu_desc_content_ideas]
+other = "Erhalten Sie relevante Themen auf Basis Ihrer Marke, Zielgruppe und Ziele."
+
+[menu_desc_campaigns]
+other = "Verknüpfen Sie jeden Beitrag mit einer Zielgruppe und einem klaren Ziel."
+
+[menu_desc_knowledge_base]
+other = "Geben Sie Bazam Ihre echten Fakten, Quellen und Markenrichtlinien."
+
+[menu_desc_content_calendar]
+other = "Planen, terminieren und ordnen Sie die Arbeit für alle Kanäle."
+
+[menu_desc_direct_publishing]
+other = "Veröffentlichen Sie plattformgerechte Inhalte ohne Kopieren und Einfügen."
+
+[menu_desc_translation]
+other = "Bringen Sie Kampagnen in mehr als 50 Sprachen und bewahren Sie Ihre Stimme."
+
+[menu_desc_projects]
+other = "Halten Sie Arbeit und Kontext jeder Kundschaft oder Marke getrennt."
+
+[menu_desc_team_collaboration]
+other = "Teilen Sie Arbeit, steuern Sie Zugriffe und geben Sie Inhalte vor der Veröffentlichung frei."

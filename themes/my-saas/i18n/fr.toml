@@ -660,7 +660,7 @@ other = "Au-delà du contenu"
 other = "Campagnes publicitaires payantes"
 
 [fg_cmp_tools__beyond__ads__blaze]
-other = "Google and Meta"
+other = "Google et Meta"
 
 [fg_cmp_tools__beyond__landing]
 other = "Pages de destination"
@@ -696,7 +696,7 @@ other = "49 $/mois"
 other = "39 $/mois"
 
 [fg_cmp_anyword__title]
-other = "Bazam vs Anyword"
+other = "Bazam face à Anyword"
 
 [fg_cmp_anyword__subtitle]
 other = "Les deux produisent des textes marketing. La différence tient à ce que l’outil sait de la personne qui lit et à la part du travail qu’il termine."
@@ -813,7 +813,7 @@ other = "39 $/mois"
 other = "Profil d’audience complet dans le forfait d’entrée"
 
 [fg_cmp_blaze__title]
-other = "Bazam vs Blaze"
+other = "Bazam face à Blaze"
 
 [fg_cmp_blaze__subtitle]
 other = "Les deux rédigent et publient. La différence tient au destinataire du texte et à ce qui se passe lorsque vous travaillez pour des clients."
@@ -924,7 +924,7 @@ other = "39 $/mois"
 other = "Profil d’audience complet dans le forfait d’entrée"
 
 [fg_cmp_chatgpt__title]
-other = "Bazam vs ChatGPT"
+other = "Bazam face à ChatGPT"
 
 [fg_cmp_chatgpt__subtitle]
 other = "Produire un brouillon n’est qu’une étape sur environ six. Voici le reste du travail et qui s’en charge."
@@ -1258,3 +1258,81 @@ other = "Bazam face à Anyword"
 other = "Bazam face à Blaze"
 [whatIsAudienceDrivenMarketing]
 other = "Qu’est-ce que le marketing orienté audience ?"
+
+[previousAngle]
+other = "Angle précédent"
+
+[nextAngle]
+other = "Angle suivant"
+
+[socialMedia]
+other = "Réseaux sociaux"
+
+[brandOnPlatform]
+other = "%s sur %s"
+
+[openMainMenu]
+other = "Ouvrir le menu principal"
+
+[menu_ai_marketing_assistant]
+other = "Assistant marketing IA"
+
+[menu_ai_content_creation]
+other = "Création de contenu par IA"
+
+[menu_content_ideas]
+other = "Idées de contenu"
+
+[menu_campaigns]
+other = "Campagnes"
+
+[menu_knowledge_base]
+other = "Base de connaissances"
+
+[menu_content_calendar]
+other = "Calendrier de contenu"
+
+[menu_direct_publishing]
+other = "Publication directe"
+
+[menu_translation]
+other = "Traduction"
+
+[menu_projects]
+other = "Projets"
+
+[menu_team_collaboration]
+other = "Collaboration en équipe"
+
+[menu_desc_ai_marketing_assistant]
+other = "Créez, recherchez, planifiez et consultez les résultats dans une conversation."
+
+[menu_desc_audience_profiles]
+other = "Comprenez à qui vous vous adressez avant de commencer à écrire."
+
+[menu_desc_ai_content_creation]
+other = "Créez plus de 30 types de contenu sans partir d’une page blanche."
+
+[menu_desc_content_ideas]
+other = "Obtenez des sujets pertinents selon votre marque, votre audience et vos objectifs."
+
+[menu_desc_campaigns]
+other = "Reliez chaque contenu à une audience et à un objectif clair."
+
+[menu_desc_knowledge_base]
+other = "Donnez à Bazam vos faits, vos sources et vos consignes de marque."
+
+[menu_desc_content_calendar]
+other = "Planifiez, programmez et réorganisez le travail sur tous les canaux."
+
+[menu_desc_direct_publishing]
+other = "Publiez du contenu adapté à chaque plateforme sans copier-coller."
+
+[menu_desc_translation]
+other = "Déployez vos campagnes dans plus de 50 langues en conservant votre voix."
+
+[menu_desc_projects]
+other = "Séparez le travail et le contexte de chaque client ou marque."
+
+[menu_desc_team_collaboration]
+other = "Partagez le travail, contrôlez les accès et validez avant publication."
