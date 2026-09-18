@@ -4,14 +4,15 @@
 #
 # Limits take a number or `unlimited`. Wording lives in the `plan_*` keys in
 # themes/my-saas/i18n/*.toml.
-currency_prefix: "$"
+currency_prefix: "£"
 currency_suffix: ""
 extra_account_monthly: 10
 
 plans:
+  # yearly is 20% cheaper than monthly to encourage annual signups
   - id: solo
-    monthly: 39
-    yearly: 29
+    monthly: 24
+    yearly: 30
     audiences: 3
     users: 1
     connected_accounts: 5
@@ -22,8 +23,8 @@ plans:
 
   - id: growth
     highlight: true
-    monthly: 99
-    yearly: 79
+    monthly: 75
+    yearly: 60
     audiences: 15
     users: 3
     connected_accounts: 15
@@ -32,8 +33,8 @@ plans:
     extras: [collaboration]
 
   - id: team
-    monthly: 299
-    yearly: 249
+    monthly: 225
+    yearly: 180
     audiences: unlimited
     users: 15
     connected_accounts: 40
