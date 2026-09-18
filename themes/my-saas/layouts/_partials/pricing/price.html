@@ -1,0 +1,3 @@
+{{- /* Formats an amount with the currency from data/pricing.yaml. Usage: partial "pricing/price.html" 29 */ -}}
+{{- $p := hugo.Data.pricing -}}
+{{- return printf "%s%s%s" $p.currency_prefix (lang.FormatNumber 0 .) $p.currency_suffix -}}

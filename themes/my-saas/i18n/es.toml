@@ -292,41 +292,14 @@ other = "Perfiles de audiencia"
 [fg_pricing__core__audiences__desc]
 other = "El perfil de 30 puntos de cada lector para el que escribes"
 
-[fg_pricing__core__audiences__starter]
-other = "3"
-
-[fg_pricing__core__audiences__growth]
-other = "15"
-
-[fg_pricing__core__audiences__team]
-other = "Ilimitados"
-
 [fg_pricing__core__users]
 other = "Usuarios"
-
-[fg_pricing__core__users__starter]
-other = "1"
-
-[fg_pricing__core__users__growth]
-other = "3"
-
-[fg_pricing__core__users__team]
-other = "Ilimitados"
 
 [fg_pricing__core__connected_accounts]
 other = "Cuentas conectadas"
 
 [fg_pricing__core__connected_accounts__desc]
-other = "Cada cuenta adicional cuesta 10 $ al mes"
-
-[fg_pricing__core__connected_accounts__starter]
-other = "5"
-
-[fg_pricing__core__connected_accounts__growth]
-other = "15"
-
-[fg_pricing__core__connected_accounts__team]
-other = "40"
+other = "Cada cuenta adicional cuesta {{ .ExtraAccountPrice }} al mes"
 
 [fg_pricing__core__ai_credits]
 other = "Créditos de IA al mes"
@@ -334,26 +307,8 @@ other = "Créditos de IA al mes"
 [fg_pricing__core__ai_credits__desc]
 other = "Aproximadamente un crédito por pieza; compra más cuando los necesites"
 
-[fg_pricing__core__ai_credits__starter]
-other = "300"
-
-[fg_pricing__core__ai_credits__growth]
-other = "900"
-
-[fg_pricing__core__ai_credits__team]
-other = "3.000"
-
 [fg_pricing__core__scheduling_horizon]
 other = "Horizonte de programación"
-
-[fg_pricing__core__scheduling_horizon__starter]
-other = "4 semanas"
-
-[fg_pricing__core__scheduling_horizon__growth]
-other = "1 año"
-
-[fg_pricing__core__scheduling_horizon__team]
-other = "Ilimitado"
 
 [fg_pricing__audience]
 other = "Las dos partes del briefing"
@@ -1340,3 +1295,123 @@ other = "Mantén separados el trabajo y el contexto de cada cliente o marca."
 
 [menu_desc_team_collaboration]
 other = "Comparte trabajo, controla el acceso y aprueba antes de publicar."
+
+# Pricing plan wording. Figures come from data/pricing.yaml.
+
+[plan_tagline_starter]
+other = "Para una persona que se ocupa de todo"
+
+[plan_tagline_growth]
+other = "Para un equipo de marketing pequeño"
+
+[plan_tagline_team]
+other = "Para agencias y equipos con varias marcas"
+
+[plan_billed_yearly]
+other = "al mes, facturado anualmente"
+
+[plan_billed_monthly]
+other = "al mes, facturado mensualmente"
+
+[plan_cta]
+other = "Obtener acceso anticipado"
+
+[plan_extra_collaboration]
+other = "Colaboración y aprobaciones"
+
+[plan_extra_priority_support]
+other = "Soporte e incorporación prioritarios"
+
+[plan_card_audiences]
+one = "<b>{{ .N }}</b> perfil de audiencia"
+other = "<b>{{ .N }}</b> perfiles de audiencia"
+
+[plan_card_audiences_unlimited]
+other = "Perfiles de audiencia <b>ilimitados</b>"
+
+[plan_card_users]
+one = "{{ .N }} usuario"
+other = "{{ .N }} usuarios"
+
+[plan_card_users_unlimited]
+other = "Usuarios ilimitados"
+
+[plan_card_connected_accounts]
+one = "{{ .N }} cuenta conectada"
+other = "{{ .N }} cuentas conectadas"
+
+[plan_card_connected_accounts_unlimited]
+other = "Cuentas conectadas ilimitadas"
+
+[plan_card_connected_accounts_tooltip]
+other = "Una cuenta social o de blog que conectas para que Bazam publique en tu nombre"
+
+[plan_card_connected_accounts_extra]
+other = "Cada cuenta adicional cuesta {{ .Price }} al mes"
+
+[plan_card_ai_credits]
+one = "{{ .N }} crédito de IA al mes"
+other = "{{ .N }} créditos de IA al mes"
+
+[plan_card_ai_credits_unlimited]
+other = "Créditos de IA ilimitados"
+
+[plan_card_ai_credits_tooltip]
+other = "Aproximadamente un crédito por pieza. Las funciones más exigentes consumen más"
+
+[plan_card_ai_credits_more]
+other = "Compra más cuando los necesites"
+
+[plan_card_scheduling_horizon_weeks]
+one = "Programación con una semana de antelación"
+other = "Programación con {{ .N }} semanas de antelación"
+
+[plan_card_scheduling_horizon_months]
+one = "Programación con un mes de antelación"
+other = "Programación con {{ .N }} meses de antelación"
+
+[plan_card_scheduling_horizon_years]
+one = "Programación con un año de antelación"
+other = "Programación con {{ .N }} años de antelación"
+
+[plan_card_scheduling_horizon_unlimited]
+other = "Horizonte de programación ilimitado"
+
+[plan_cell_audiences]
+other = "{{ .N }}"
+
+[plan_cell_users]
+other = "{{ .N }}"
+
+[plan_cell_connected_accounts]
+other = "{{ .N }}"
+
+[plan_cell_ai_credits]
+other = "{{ .N }}"
+
+[plan_cell_audiences_unlimited]
+other = "Ilimitados"
+
+[plan_cell_users_unlimited]
+other = "Ilimitados"
+
+[plan_cell_connected_accounts_unlimited]
+other = "Ilimitadas"
+
+[plan_cell_ai_credits_unlimited]
+other = "Ilimitados"
+
+[plan_cell_scheduling_horizon_unlimited]
+other = "Ilimitado"
+
+[plan_cell_scheduling_horizon_weeks]
+one = "{{ .N }} semana"
+other = "{{ .N }} semanas"
+
+[plan_cell_scheduling_horizon_months]
+one = "{{ .N }} mes"
+other = "{{ .N }} meses"
+
+[plan_cell_scheduling_horizon_years]
+one = "{{ .N }} año"
+other = "{{ .N }} años"

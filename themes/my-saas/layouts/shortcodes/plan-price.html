@@ -1,0 +1,9 @@
+{{- /*
+  Prints a plan price from data/pricing.yaml so page copy never hardcodes it.
+  Usage: {{< plan-price >}} (Starter, billed yearly) or {{< plan-price plan="team" billing="monthly" >}}
+*/ -}}
+{{- $id := .Get "plan" | default "starter" -}}
+{{- $billing := .Get "billing" | default "yearly" -}}
+{{- $plan := index (where hugo.Data.pricing.plans "id" $id) 0 -}}
+{{- if not $plan }}{{ errorf "plan-price: unknown plan %q in %s" $id .Position }}{{ end -}}
+{{- partial "pricing/price.html" (index $plan $billing) -}}

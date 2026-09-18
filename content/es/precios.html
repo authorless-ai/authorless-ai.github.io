@@ -26,7 +26,7 @@ faq:
       - "Si el plan se te queda pequeño a mitad de mes, no tienes que esperar a la renovación."
   - q: "¿Puedo cancelar?"
     a:
-      - "Cuando quieras. Mantienes el acceso a tu cuenta, perfiles de audiencia y créditos restantes hasta el final del periodo que ya has pagado, y no volveremos a cobrarte."
+      - "Cuando quieras. Mantienes el acceso completo a tu cuenta, perfiles de audiencia y créditos restantes hasta el final del periodo que ya has pagado, y no volveremos a cobrarte."
   - q: "¿Necesito una tarjeta para unirme al acceso anticipado?"
     a:
       - "No. Dinos quién eres y qué estás promocionando. Te ayudaremos a configurarlo y a crear tus primeros perfiles. Elegirás un plan después de verlo funcionar."
@@ -35,14 +35,11 @@ faq:
 <section class="bg-white dark:bg-gray-900" x-data="{{< pricing-data >}}">
   <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
     <h1 class="logo-font mx-auto mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">
-      Desde <span x-text="formatPrice(plans.starter.yearly)"></span> al mes
+      Desde {{< plan-price >}} al mes
     </h1>
     <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
       <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">
-        Todos los planes incluyen el perfil completo de audiencia de 30 puntos, todos los tipos de contenido, publicación directa en los seis canales y más de 50 idiomas. Elige según las audiencias, cuentas y personas que necesites, nunca según funciones reservadas.
-      </p>
-      <p class="mt-4 font-medium text-gray-700 dark:text-gray-300">
-        Solicita acceso anticipado, prueba Bazam con tu propio negocio y elige el plan adecuado después.
+        Todos los planes incluyen el perfil completo de audiencia de 30 puntos, todos los tipos de contenido, publicación directa en los seis canales y más de 50 idiomas. Elige según las audiencias, cuentas y personas que necesites.
       </p>
       <div class="flex items-center justify-center mt-6 space-x-3">
         <button type="button" class="text-xl text-gray-500 dark:text-white" :class="{ 'text-gray-900 font-bold': !yearly }" @click="yearly = false">Mensual</button>
@@ -54,57 +51,10 @@ faq:
       </div>
     </div>
 
-    <div class="grid gap-8 mt-8 lg:grid-cols-3 lg:gap-10 sm:mt-12">
-      <article class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Inicial</h2>
-        <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Para una persona que se ocupa de todo</p>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.starter.yearly : plans.starter.monthly)"></span>
-        <p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">al mes, facturado anualmente</span><span x-show="!yearly">al mes, facturado mensualmente</span></p>
-        <a href="#early-access" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8 dark:bg-gray-600 dark:hover:bg-gray-500">Obtener acceso anticipado</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li>✓ <b>3</b> perfiles de audiencia</li>
-          <li>✓ 1 usuario</li>
-          <li>✓ 5 cuentas conectadas</li>
-          <li>✓ 300 créditos de IA al mes</li>
-          <li>✓ Programación con 4 semanas de antelación</li>
-        </ul>
-      </article>
-
-      <article class="flex flex-col p-6 text-center bg-white border rounded-lg shadow border-primary-600 dark:bg-gray-800 dark:border-primary-500 xl:p-8">
-        <h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Crecimiento</h2>
-        <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Para un equipo de marketing pequeño</p>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.growth.yearly : plans.growth.monthly)"></span>
-        <p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">al mes, facturado anualmente</span><span x-show="!yearly">al mes, facturado mensualmente</span></p>
-        <a href="#early-access" class="text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8">Obtener acceso anticipado</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li>✓ <b>15</b> perfiles de audiencia</li>
-          <li>✓ 3 usuarios</li>
-          <li>✓ 15 cuentas conectadas</li>
-          <li>✓ 900 créditos de IA al mes</li>
-          <li>✓ Programación con un año de antelación</li>
-          <li>✓ Colaboración y aprobaciones</li>
-        </ul>
-      </article>
-
-      <article class="flex flex-col p-6 text-center bg-white border border-gray-200 rounded-lg shadow dark:border-gray-700 dark:bg-gray-800 xl:p-8">
-        <h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">Equipo</h2>
-        <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">Para agencias y equipos con varias marcas</p>
-        <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="formatPrice(yearly ? plans.team.yearly : plans.team.monthly)"></span>
-        <p class="mt-4 mb-1 text-gray-500 dark:text-gray-400"><span x-show="yearly">al mes, facturado anualmente</span><span x-show="!yearly">al mes, facturado mensualmente</span></p>
-        <a href="#early-access" class="text-white bg-gray-900 hover:bg-gray-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 text-center mb-8 dark:bg-gray-600 dark:hover:bg-gray-500">Obtener acceso anticipado</a>
-        <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
-          <li>✓ Perfiles de audiencia ilimitados</li>
-          <li>✓ Usuarios ilimitados</li>
-          <li>✓ 40 cuentas conectadas</li>
-          <li>✓ 3.000 créditos de IA al mes</li>
-          <li>✓ Horizonte de programación ilimitado</li>
-          <li>✓ Soporte e incorporación prioritarios</li>
-        </ul>
-      </article>
-    </div>
+    {{< pricing-plans >}}
 
     <p class="mt-10 text-gray-500 dark:text-gray-400">
-      ¿Necesitas algo distinto? <a href="/es/contacto/" class="text-primary-600 dark:text-primary-500 font-medium hover:underline">Habla con nosotros</a>.
+      ¿Necesitas más, o algo planteado de otra forma? <a href="/es/contacto/" class="text-primary-600 dark:text-primary-500 font-medium hover:underline">Habla con nosotros</a>.
     </p>
   </div>
 </section>

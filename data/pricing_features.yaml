@@ -16,42 +16,26 @@ sections:
   - id: core
     name: "Core"
     rows:
+      # Figures for these rows come from data/pricing.yaml
       - id: audiences
         feature: "Audience models"
         desc: "The 30-point model of each reader you write for"
-        values:
-          - text: "3"
-          - text: "15"
-          - text: "Unlimited"
+        plan_field: audiences
       - id: users
         feature: "Users"
-        values:
-          - text: "1"
-          - text: "3"
-          - text: "Unlimited"
+        plan_field: users
       - id: connected_accounts
         feature: "Connected accounts"
-        desc: "Extra accounts are $10/mo each"
-        values:
-          - text: "5"
-          - text: "15"
-          - text: "40"
+        desc: "Extra accounts are {{ .ExtraAccountPrice }}/mo each"
+        plan_field: connected_accounts
       - id: ai_credits
         feature: "AI credits per month"
         desc: "Roughly 1 credit per piece of content. Buy more on demand"
-        values:
-          - text: "300"
-          - text: "900"
-          - text: "3,000"
+        plan_field: ai_credits
       - id: scheduling_horizon
         feature: "Scheduling horizon"
-        values:
-          - check: true
-            text: "4 weeks"
-          - check: true
-            text: "1 year"
-          - check: true
-            text: "Unlimited"
+        plan_field: scheduling_horizon
+        plan_check: true
 
   - id: audience
     name: "Both sides of the brief"

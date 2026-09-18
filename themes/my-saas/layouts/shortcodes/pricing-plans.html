@@ -1,0 +1,65 @@
+{{- /*
+  Plan cards for the pricing page. Figures come from data/pricing.yaml, wording
+  from the plan_* i18n keys. Must sit inside an element using {{< pricing-data >}}
+  as its x-data, which drives the monthly/yearly toggle.
+*/ -}}
+{{- $pricing := hugo.Data.pricing -}}
+{{- $check := `<svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>` | safeHTML -}}
+{{- $info := `<svg class="w-4 h-4 text-gray-400 dark:text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 11h2v5m-2 0h4m-2.592-8.5h.01M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/></svg>` | safeHTML -}}
+{{- $extraAccount := partial "pricing/price.html" $pricing.extra_account_monthly -}}
+<div class="grid gap-8 mt-8 lg:grid-cols-3 lg:gap-10 sm:mt-12">
+  {{- range $pricing.plans }}
+  {{- $plan := . }}
+  <article class="flex flex-col p-6 text-center bg-white border rounded-lg shadow dark:bg-gray-800 xl:p-8 {{ if .highlight }}border-primary-600 dark:border-primary-500{{ else }}border-gray-200 dark:border-gray-700{{ end }}">
+    <h2 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">{{ T (printf "fg_pricing__%s" .id) }}</h2>
+    <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">{{ T (printf "plan_tagline_%s" .id) }}</p>
+    <span class="text-5xl font-extrabold text-gray-900 dark:text-white" x-text="yearly ? plans.{{ .id }}.yearly : plans.{{ .id }}.monthly">{{ partial "pricing/price.html" .yearly }}</span>
+    <p class="mt-4 mb-1 text-gray-500 dark:text-gray-400">
+      <span x-show="yearly">{{ T "plan_billed_yearly" }}</span>
+      <span x-show="!yearly" style="display: none">{{ T "plan_billed_monthly" }}</span>
+    </p>
+    <a href="#early-access"
+      class="font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 focus:ring-4 {{ if .highlight }}text-white bg-primary-600 hover:bg-primary-700 focus:ring-primary-200 dark:focus:ring-primary-900{{ else }}text-white bg-gray-900 hover:bg-gray-700 focus:ring-gray-200 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600{{ end }}">{{ T "plan_cta" }}</a>
+    <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
+      <li class="flex items-center space-x-3">
+        {{ $check }}
+        <span>{{ partial "pricing/limit.html" (dict "plan" $plan "field" "audiences" "style" "card") | safeHTML }}</span>
+      </li>
+      <li class="flex items-center space-x-3">
+        {{ $check }}
+        <span>{{ partial "pricing/limit.html" (dict "plan" $plan "field" "users" "style" "card") }}</span>
+      </li>
+      <li>
+        <div class="flex items-center space-x-3">
+          {{ $check }}
+          <span>{{ partial "pricing/limit.html" (dict "plan" $plan "field" "connected_accounts" "style" "card") }}</span>
+          <button data-tooltip-target="tooltip-accounts-{{ .id }}" type="button" aria-label="{{ T "plan_card_connected_accounts_tooltip" }}">{{ $info }}</button>
+          <div id="tooltip-accounts-{{ .id }}" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">{{ T "plan_card_connected_accounts_tooltip" }}<div class="tooltip-arrow" data-popper-arrow></div></div>
+        </div>
+        {{- if ne (string .connected_accounts) "unlimited" }}
+        <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">{{ T "plan_card_connected_accounts_extra" (dict "Price" $extraAccount) }}</p>
+        {{- end }}
+      </li>
+      <li>
+        <div class="flex items-center space-x-3">
+          {{ $check }}
+          <span>{{ partial "pricing/limit.html" (dict "plan" $plan "field" "ai_credits" "style" "card") }}</span>
+          <button data-tooltip-target="tooltip-credits-{{ .id }}" type="button" aria-label="{{ T "plan_card_ai_credits_tooltip" }}">{{ $info }}</button>
+          <div id="tooltip-credits-{{ .id }}" role="tooltip" class="max-w-80 absolute z-10 invisible inline-block px-3 py-2 text-sm font-medium text-white bg-gray-900 rounded-lg shadow-sm opacity-0 tooltip dark:bg-gray-700">{{ T "plan_card_ai_credits_tooltip" }}<div class="tooltip-arrow" data-popper-arrow></div></div>
+        </div>
+        <p class="text-sm text-gray-500 dark:text-gray-500 ms-8 mt-1">{{ T "plan_card_ai_credits_more" }}</p>
+      </li>
+      <li class="flex items-center space-x-3">
+        {{ $check }}
+        <span>{{ partial "pricing/limit.html" (dict "plan" $plan "field" "scheduling_horizon" "style" "card") }}</span>
+      </li>
+      {{- range .extras }}
+      <li class="flex items-center space-x-3">
+        {{ $check }}
+        <span>{{ T (printf "plan_extra_%s" .) }}</span>
+      </li>
+      {{- end }}
+    </ul>
+  </article>
+  {{- end }}
+</div>

@@ -1,22 +1,14 @@
 {{ $pricing := hugo.Data.pricing }}{
   yearly: true,
-  currencyPrefix: '{{ $pricing.currency_prefix }}',
-  currencySuffix: '{{ $pricing.currency_suffix }}',
   plans: {
-    starter: {
-      monthly: {{ $pricing.starter.monthly }},
-      yearly: {{ $pricing.starter.yearly }}
+    {{- range $pricing.plans }}
+    {{ .id }}: {
+      monthly: '{{ partial "pricing/price.html" .monthly }}',
+      yearly: '{{ partial "pricing/price.html" .yearly }}'
     },
-    growth: {
-      monthly: {{ $pricing.growth.monthly }},
-      yearly: {{ $pricing.growth.yearly }}
-    },
-    team: {
-      monthly: {{ $pricing.team.monthly }},
-      yearly: {{ $pricing.team.yearly }}
-    }
+    {{- end }}
   },
-  formatPrice(amount) {
-    return this.currencyPrefix + amount + this.currencySuffix;
+  formatPrice(price) {
+    return price;
   }
 }

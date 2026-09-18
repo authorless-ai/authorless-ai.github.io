@@ -1,11 +1,42 @@
+# Single source of truth for plan prices and limits. Every language's pricing
+# page and the "Compare plans" grid render from this file, so edit figures here
+# rather than in content/ or the i18n files.
+#
+# Limits take a number or `unlimited`. Wording lives in the `plan_*` keys in
+# themes/my-saas/i18n/*.toml.
 currency_prefix: "$"
 currency_suffix: ""
-starter:
-  monthly: 39
-  yearly: 29
-growth:
-  monthly: 99
-  yearly: 79
-team:
-  monthly: 299
-  yearly: 249
+extra_account_monthly: 10
+
+plans:
+  - id: starter     # todo - should be solo probs to align with stripe
+    monthly: 39
+    yearly: 29
+    audiences: 3
+    users: 1
+    connected_accounts: 5
+    ai_credits: 450
+    # unit is weeks, months or years
+    scheduling_horizon: { count: 4, unit: weeks }
+    extras: []
+
+  - id: growth
+    highlight: true
+    monthly: 99
+    yearly: 79
+    audiences: 15
+    users: 3
+    connected_accounts: 15
+    ai_credits: 1200
+    scheduling_horizon: { count: 1, unit: years }
+    extras: [collaboration]
+
+  - id: team
+    monthly: 299
+    yearly: 249
+    audiences: unlimited
+    users: 15
+    connected_accounts: 40
+    ai_credits: 3700
+    scheduling_horizon: unlimited
+    extras: [priority_support]

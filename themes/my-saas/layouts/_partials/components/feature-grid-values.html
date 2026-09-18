@@ -1,0 +1,23 @@
+{{- /*
+  Resolves a feature grid row's cells to a list of {check?, label} dicts.
+  Rows with `plan_field` read each column's figure from data/pricing.yaml
+  (column id = plan id); other rows use their `values` and i18n keys.
+*/ -}}
+{{- $grid := .grid -}}
+{{- $row := .row -}}
+{{- $cells := slice -}}
+{{- range $idx, $col := $grid.columns -}}
+  {{- $cell := dict -}}
+  {{- if $row.plan_field -}}
+    {{- $plan := index (where hugo.Data.pricing.plans "id" $col.id) 0 -}}
+    {{- if not $plan }}{{ errorf "feature-grid: no plan %q in data/pricing.yaml" $col.id }}{{ end -}}
+    {{- $cell = dict "label" (partial "pricing/limit.html" (dict "plan" $plan "field" $row.plan_field "style" "cell")) -}}
+    {{- with $row.plan_check }}{{ $cell = merge $cell (dict "check" true) }}{{ end -}}
+  {{- else -}}
+    {{- $val := index $row.values $idx -}}
+    {{- with $val.text }}{{ $cell = dict "label" (T (printf "%s__%s__%s__%s" $grid.prefix $.sectionId $row.id $col.id)) }}{{ end -}}
+    {{- if isset $val "check" }}{{ $cell = merge $cell (dict "check" $val.check) }}{{ end -}}
+  {{- end -}}
+  {{- $cells = $cells | append $cell -}}
+{{- end -}}
+{{- return $cells -}}

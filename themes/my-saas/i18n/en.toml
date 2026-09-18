@@ -298,41 +298,14 @@ other = "Audience models"
 [fg_pricing__core__audiences__desc]
 other = "The 30-point model of each reader you write for"
 
-[fg_pricing__core__audiences__starter]
-other = "3"
-
-[fg_pricing__core__audiences__growth]
-other = "15"
-
-[fg_pricing__core__audiences__team]
-other = "Unlimited"
-
 [fg_pricing__core__users]
 other = "Users"
-
-[fg_pricing__core__users__starter]
-other = "1"
-
-[fg_pricing__core__users__growth]
-other = "3"
-
-[fg_pricing__core__users__team]
-other = "Unlimited"
 
 [fg_pricing__core__connected_accounts]
 other = "Connected accounts"
 
 [fg_pricing__core__connected_accounts__desc]
-other = "Extra accounts are $10/mo each"
-
-[fg_pricing__core__connected_accounts__starter]
-other = "5"
-
-[fg_pricing__core__connected_accounts__growth]
-other = "15"
-
-[fg_pricing__core__connected_accounts__team]
-other = "40"
+other = "Extra accounts are {{ .ExtraAccountPrice }}/mo each"
 
 [fg_pricing__core__ai_credits]
 other = "AI credits per month"
@@ -340,26 +313,8 @@ other = "AI credits per month"
 [fg_pricing__core__ai_credits__desc]
 other = "Roughly 1 credit per piece of content. Buy more on demand"
 
-[fg_pricing__core__ai_credits__starter]
-other = "300"
-
-[fg_pricing__core__ai_credits__growth]
-other = "900"
-
-[fg_pricing__core__ai_credits__team]
-other = "3,000"
-
 [fg_pricing__core__scheduling_horizon]
 other = "Scheduling horizon"
-
-[fg_pricing__core__scheduling_horizon__starter]
-other = "4 weeks"
-
-[fg_pricing__core__scheduling_horizon__growth]
-other = "1 year"
-
-[fg_pricing__core__scheduling_horizon__team]
-other = "Unlimited"
 
 [fg_pricing__audience]
 other = "Both sides of the brief"
@@ -1339,3 +1294,123 @@ other = "Keep every client or brand's work and context separate."
 other = "Share work, control access and approve before publishing."
 [openMainMenu]
 other = "Open main menu"
+
+# Pricing plan wording. Figures come from data/pricing.yaml.
+
+[plan_tagline_starter]
+other = "For one person doing everything"
+
+[plan_tagline_growth]
+other = "For a small marketing team"
+
+[plan_tagline_team]
+other = "For agencies and multi-brand teams"
+
+[plan_billed_yearly]
+other = "per month, billed annually"
+
+[plan_billed_monthly]
+other = "per month, billed monthly"
+
+[plan_cta]
+other = "Get early access"
+
+[plan_extra_collaboration]
+other = "Team collaboration & approvals"
+
+[plan_extra_priority_support]
+other = "Priority support & onboarding"
+
+[plan_card_audiences]
+one = "<b>{{ .N }}</b> audience profile"
+other = "<b>{{ .N }}</b> audience profiles"
+
+[plan_card_audiences_unlimited]
+other = "<b>Unlimited</b> audience profiles"
+
+[plan_card_users]
+one = "{{ .N }} user"
+other = "{{ .N }} users"
+
+[plan_card_users_unlimited]
+other = "Unlimited users"
+
+[plan_card_connected_accounts]
+one = "{{ .N }} connected account"
+other = "{{ .N }} connected accounts"
+
+[plan_card_connected_accounts_unlimited]
+other = "Unlimited connected accounts"
+
+[plan_card_connected_accounts_tooltip]
+other = "A social or blog account you connect so Bazam can publish on your behalf"
+
+[plan_card_connected_accounts_extra]
+other = "Extra accounts are {{ .Price }}/mo"
+
+[plan_card_ai_credits]
+one = "{{ .N }} AI credit per month"
+other = "{{ .N }} AI credits per month"
+
+[plan_card_ai_credits_unlimited]
+other = "Unlimited AI credits"
+
+[plan_card_ai_credits_tooltip]
+other = "Roughly 1 credit per piece of content. Heavier features use more"
+
+[plan_card_ai_credits_more]
+other = "Buy more on demand"
+
+[plan_card_scheduling_horizon_weeks]
+one = "Schedule a week ahead"
+other = "Schedule {{ .N }} weeks ahead"
+
+[plan_card_scheduling_horizon_months]
+one = "Schedule a month ahead"
+other = "Schedule {{ .N }} months ahead"
+
+[plan_card_scheduling_horizon_years]
+one = "Schedule a year ahead"
+other = "Schedule {{ .N }} years ahead"
+
+[plan_card_scheduling_horizon_unlimited]
+other = "Unlimited scheduling horizon"
+
+[plan_cell_audiences]
+other = "{{ .N }}"
+
+[plan_cell_users]
+other = "{{ .N }}"
+
+[plan_cell_connected_accounts]
+other = "{{ .N }}"
+
+[plan_cell_ai_credits]
+other = "{{ .N }}"
+
+[plan_cell_audiences_unlimited]
+other = "Unlimited"
+
+[plan_cell_users_unlimited]
+other = "Unlimited"
+
+[plan_cell_connected_accounts_unlimited]
+other = "Unlimited"
+
+[plan_cell_ai_credits_unlimited]
+other = "Unlimited"
+
+[plan_cell_scheduling_horizon_unlimited]
+other = "Unlimited"
+
+[plan_cell_scheduling_horizon_weeks]
+one = "{{ .N }} week"
+other = "{{ .N }} weeks"
+
+[plan_cell_scheduling_horizon_months]
+one = "{{ .N }} month"
+other = "{{ .N }} months"
+
+[plan_cell_scheduling_horizon_years]
+one = "{{ .N }} year"
+other = "{{ .N }} years"

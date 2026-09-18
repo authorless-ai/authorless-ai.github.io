@@ -1,0 +1,24 @@
+{{- /*
+  Renders one plan limit from data/pricing.yaml as translated text.
+
+  Usage: partial "pricing/limit.html" (dict "plan" $plan "field" "users" "style" "card")
+
+  style "card" gives the plan card phrasing ("15 users") from plan_card_<field>.
+  style "cell" gives the comparison grid phrasing ("15") from plan_cell_<field>.
+  A limit of `unlimited` uses the <key>_unlimited variant, since the word agrees
+  with its noun in most of our languages.
+*/ -}}
+{{- $value := index .plan .field -}}
+{{- $key := printf "plan_%s_%s" .style .field -}}
+{{- $out := "" -}}
+{{- if reflect.IsMap $value -}}
+  {{- $out = T (printf "%s_%s" $key $value.unit) (dict "Count" $value.count "N" (lang.FormatNumber 0 $value.count)) -}}
+{{- else if eq (string $value) "unlimited" -}}
+  {{- $out = T (printf "%s_unlimited" $key) -}}
+{{- else -}}
+  {{- $out = T $key (dict "Count" $value "N" (lang.FormatNumber 0 $value)) -}}
+{{- end -}}
+{{- if not $out -}}
+  {{- errorf "pricing/limit: missing i18n for %s (%v) in %s" $key $value site.Language.Lang -}}
+{{- end -}}
+{{- return $out -}}
