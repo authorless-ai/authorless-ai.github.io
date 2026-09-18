@@ -9,10 +9,10 @@ currency_suffix: ""
 extra_account_monthly: 10
 
 plans:
-  # yearly is 20% cheaper than monthly to encourage annual signups
+  # ensure yearly < monthly price (e.g. 20% cheaper than monthly to encourage annual signups)
   - id: solo
-    monthly: 24
-    yearly: 30
+    yearly: 24
+    monthly: 30
     audiences: 3
     users: 1
     connected_accounts: 5
@@ -23,8 +23,8 @@ plans:
 
   - id: growth
     highlight: true
-    monthly: 75
     yearly: 60
+    monthly: 75
     audiences: 15
     users: 3
     connected_accounts: 15
@@ -33,8 +33,8 @@ plans:
     extras: [collaboration]
 
   - id: team
-    monthly: 225
     yearly: 180
+    monthly: 225
     audiences: unlimited
     users: 15
     connected_accounts: 40
