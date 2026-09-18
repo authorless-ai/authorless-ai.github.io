@@ -2,8 +2,6 @@
 title: "Give AI the facts before it starts writing"
 translationKey: feature-knowledge-base
 description: "Keep product details, source material and brand guidance in one knowledge base so every draft starts with the right context."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 featureList:
   title: "Your business knowledge, ready for every brief"

@@ -6,8 +6,6 @@ linkTitle: "Pequenas empresas"
 weight: 10
 superTitle: "Marketing orientado para o público para pequenas empresas"
 description: "A Bazam ajuda pequenas empresas a escrever, agendar e publicar conteúdo relevante para cada tipo de comprador."
-ctaText: "Obter acesso antecipado"
-ctaUrl: "#early-access"
 heroDescription:
   - "**Agende um mês de publicações sociais e artigos em 15 minutos** e volte a tratar do seu negócio."
   - "A Bazam cria <b>perfis detalhados dos seus compradores</b> e utiliza-os para **escrever, agendar e publicar** nas redes sociais e no blogue."
@@ -140,9 +138,4 @@ topFeatures:
     - { title: "O agente Bazam", description: "Peça uma campanha, um relatório ou um mês de conteúdo numa só conversa." }
     - { title: "Modelos de compradores que aprendem", description: "Os resultados publicados regressam ao perfil e criam um registo do que gera resposta no seu mercado." }
     - { title: "Ângulos comprovados por comprador", description: "Teste ângulos com cada público e utilize os vencedores mais vezes." }
-waitlist:
-  id: "early-access"
-  title: "Obter acesso antecipado"
-  description: "Fale-nos da sua empresa e dos compradores que quer alcançar. Ajudamo-lo a criar os primeiros perfis, afinar a voz da marca e ligar os canais."
-  button: "Pedir acesso"
 ---

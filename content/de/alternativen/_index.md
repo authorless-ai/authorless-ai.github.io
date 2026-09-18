@@ -4,8 +4,6 @@ title: "Bazam-Alternativen im Vergleich"
 translationKey: alternatives
 superTitle: "Im direkten Vergleich"
 description: "So schneidet Bazam gegenüber den Werkzeugen ab, zu denen viele zuerst greifen: Chat-Assistent, KI-Textwerkzeug oder Planungstool. Für eine konkrete Person geschrieben, dann geplant und veröffentlicht."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroDescription:
   - "Alle Werkzeuge nutzen leistungsfähige KI-Modelle. Der Unterschied liegt darin, wie viel sie über die lesende Person wissen und wie viel Arbeit bei Ihnen bleibt."
 featureCards:
@@ -27,9 +25,4 @@ faq:
   - q: "Was kostet es?"
     a:
       - "Ab 39 $ pro Monat. Das vollständige 30-Punkte-Zielgruppenprofil, alle Inhaltstypen, alle sechs Veröffentlichungskanäle und mehr als 50 Sprachen sind bereits im ersten Tarif enthalten. Sie zahlen für Umfang, nie für zurückgehaltene Funktionen."
-waitlist:
-  id: "early-access"
-  title: "Erleben Sie es mit Ihrer eigenen Zielgruppe"
-  description: "Sagen Sie uns, an wen Sie verkaufen. Wir erstellen ein Zielgruppenprofil und senden Ihnen Inhalte für genau diese Person, damit Sie sie direkt mit anderen Lösungen vergleichen können."
-  button: "Zugang anfragen"
 ---

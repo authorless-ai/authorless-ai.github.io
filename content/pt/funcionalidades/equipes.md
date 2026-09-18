@@ -2,8 +2,6 @@
 title: Crie em equipe sem perder a marca
 translationKey: feature-teams
 description: Compartilhe o contexto por trás de cada campanha, controle quem pode fazer o quê e aprove o rascunho e a publicação.
-ctaText: Obtenha acesso antecipado
-ctaUrl: "#early-access"
 featureList:
   title: Um caminho mais claro do rascunho até a aprovação
   description: A equipe trabalha a partir do mesmo conhecimento do público e das regras da marca, com controle onde importa.

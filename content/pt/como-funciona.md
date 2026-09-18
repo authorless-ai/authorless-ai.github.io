@@ -4,8 +4,6 @@ title: "Escreva e publique automaticamente nas redes sociais e em blogs, depois 
 translationKey: how-it-works
 superTitle: "Como o Bazam funciona"
 description: "De uma descrição do leitor em uma linha a conteúdo escrito, adaptado a cada plataforma, traduzido, agendado, publicado e medido. Todo o processo em um só lugar."
-ctaText: "Obtenha acesso antecipado"
-ctaUrl: "#early-access"
 heroDescription: ["As ferramentas de redação com IA entregam um rascunho e deixam o restante para você: reformatar, entrar em seis contas, agendar e procurar os resultados. O Bazam escreve, agenda, publica e reúne suas análises."]
 steps:
   title: "Duas etapas de configuração e três para publicar"
@@ -55,9 +53,4 @@ faq:
   - { q: "Preciso usar todo o processo?", a: ["Não. Você pode criar no Bazam e publicar em outro lugar ou conectar outros canais depois. O perfil de público já melhora o resultado durante a criação."] }
   - { q: "E se eu quiser escrever?", a: ["Escreva. O editor oferece ações de IA quando necessário — reformular, ampliar, encurtar ou melhorar — e não atrapalha no restante do tempo. Versões por plataforma, calendário, tradução e publicação continuam funcionando."] }
   - { q: "Posso criar conteúdo em massa?", a: ["Sim. Gere centenas de conteúdos com um conjunto de parâmetros e remova quase duplicatas automaticamente. É útil para catálogos, páginas locais e grupos de temas."] }
-waitlist:
-  id: "early-access"
-  title: "Coloque todo o processo em funcionamento"
-  description: "Conte-nos quem você é e para quem vende. Vamos modelar seus públicos, ajustar sua voz e conectar os canais para deixar o primeiro mês agendado."
-  button: "Solicitar acesso"
 ---

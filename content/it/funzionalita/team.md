@@ -2,8 +2,6 @@
 title: Crea come una squadra senza perdere il marchio
 translationKey: feature-teams
 description: Condividi il contesto dietro ogni campagna, controlla chi può fare cosa e inserisci l'approvazione tra una bozza e la pubblicazione.
-ctaText: Ottieni l'accesso anticipato
-ctaUrl: "#early-access"
 featureList:
   title: Un percorso più chiaro dalla bozza all'approvazione
   description: Il team lavora sulla base della stessa conoscenza del pubblico e delle stesse regole del marchio, con il controllo dove conta.

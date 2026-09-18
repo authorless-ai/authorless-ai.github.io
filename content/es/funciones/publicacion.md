@@ -2,8 +2,6 @@
 title: Publica directamente en todos los canales que utiliza tu audiencia
 translationKey: feature-publishing
 description: Mueva contenido aprobado de Bazam a canales sociales y WordPress sin exportar, reformatear o iniciar sesión en cada cuenta.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 featureList:
   title: Una campaña, lista para cada plataforma
   description: Bazam mantiene la idea consistente mientras adapta la ejecución a cada destino.

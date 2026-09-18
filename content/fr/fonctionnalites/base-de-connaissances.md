@@ -2,8 +2,6 @@
 title: Donnez à l'IA les faits avant qu'elle ne commence à écrire
 translationKey: feature-knowledge-base
 description: Conservez les détails du produit, les sources et les conseils de la marque dans une seule base de connaissances afin que chaque brouillon commence avec le bon contexte.
-ctaText: Obtenez un accès anticipé
-ctaUrl: "#early-access"
 featureList:
   title: Vos connaissances métier, prêtes pour chaque brief
   description: Ajoutez les informations une fois. Bazam peut s'en servir chaque fois que vous créez du contenu pour ce projet.

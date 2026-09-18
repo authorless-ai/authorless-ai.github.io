@@ -4,8 +4,6 @@ title: "Bazam frente a Anyword"
 translationKey: alternative-anyword
 superTitle: "Una comparación directa"
 description: "Anyword puntúa el texto después de escribirlo. Bazam lo escribe para el cliente, y después lo programa y publica en seis plataformas y en tu blog. Desde 39 $."
-ctaText: "Obtén acceso anticipado"
-ctaUrl: "#early-access"
 heroDescription:
   - "Anyword puntúa el texto después de que lo hayas escrito. Bazam lo escribe para el cliente, y después lo programa y publica por ti. <b>Desde 39 $ al mes, frente a sus 49 $.</b>"
 comparisonGrid: "comparison_anyword"
@@ -76,9 +74,4 @@ faq:
   - q: "¿Cuánto tardaré en empezar a publicar?"
     a:
       - "Cinco minutos para que Bazam lea tu web, cree perfiles y ofertas y conectes tus canales. Después, un mes de contenido lleva diez minutos."
-waitlist:
-  id: "early-access"
-  title: "Pruébalo con tus propios clientes"
-  description: "Dinos a quién vendes. Crearemos el perfil y te enviaremos publicaciones escritas para ese cliente."
-  button: "Solicitar acceso"
 ---

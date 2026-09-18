@@ -4,8 +4,6 @@ title: Marketing, das lernt, mit wem es spricht
 translationKey: audience-driven-marketing
 superTitle: Zielgruppenorientiertes Marketing
 description: 'Eine Möglichkeit, jede Kampagne spezifischer zu gestalten als die vorherige: Beginnen Sie mit der Zielgruppe, testen Sie, was für sie wichtig ist, und bringen Sie die Erkenntnisse in das nächste Briefing ein.'
-ctaText: Erhalten Sie frühen Zugang
-ctaUrl: "#early-access"
 heroDescription:
 - 'Das meiste KI-Marketing beginnt mit der Botschaft: Geben Sie ihm ein Angebot, eine vage Zielgruppenbezeichnung und bitten Sie um Beiträge. Das Ergebnis kann flüssig, schnell und völlig unvergesslich sein.'
 - "<b>Zielgruppenorientiertes Marketing beginnt beim Leser.</b> Was er will, was ihn abschreckt und wie er gemeinsam entscheidet, prägt die Botschaft. Dann lernen Sie aus jeder Kampagne etwas für die nächste."
@@ -117,9 +115,4 @@ faq:
 - q: Ist Bazam eine Werbeplattform?
   a:
   - Bazam ist eine Content-Marketing-Plattform. Es hilft Ihnen, das Verständnis der Zielgruppe für eine Kampagne zu stärken, Inhalte daraus zu generieren, diese zu planen und auf Ihren Kanälen zu veröffentlichen und die gewonnenen Erkenntnisse für das nächste Briefing verfügbar zu halten. Werbeergebnisse sind neben organischen Inhalten, Verkäufen und Kundenfeedback eine wertvolle Quelle für Einblicke in das Publikum.
-waitlist:
-  id: early-access
-  title: Bauen Sie ein Marketingsystem auf, das lernt
-  description: Erzählen Sie uns von Ihrer Agentur und einem Kunden, mit dem Sie beginnen möchten. Wir helfen Ihnen dabei, die ersten Zielgruppenmodelle zu erstellen, sie in Kampagnen umzuwandeln und die Erkenntnisse dort zu speichern, wo sie im nächsten Briefing genutzt werden können.
-  button: Fordern Sie einen frühen Zugang an
 ---

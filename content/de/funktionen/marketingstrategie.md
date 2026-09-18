@@ -2,8 +2,6 @@
 title: Behalten Sie jeden Inhalt im Zusammenhang mit einer Kampagne
 translationKey: feature-marketing-strategy
 description: Organisieren Sie Inhalte rund um ein Ziel, eine Zielgruppe und einen Veröffentlichungsplan, sodass sich aus der Aktivität etwas Nützliches ergibt.
-ctaText: Erhalten Sie frühen Zugang
-ctaUrl: "#early-access"
 featureList:
   title: Von einem Kampagnenziel zu einem koordinierten Gesamtwerk
   description: Sorgen Sie dafür, dass Briefing, Zielgruppe, Sprachen, Inhalte und Ergebnisse von Anfang an miteinander verbunden sind.

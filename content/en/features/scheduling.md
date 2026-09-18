@@ -2,8 +2,6 @@
 title: "A content calendar built for consistent publishing"
 translationKey: feature-scheduling
 description: "Plan work across channels, see the whole month at once and adjust the schedule without rebuilding it."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 heroVideo: "/videos/calendar.mp4"
 heroVideoAlt: "Bazam's content calendar with posts scheduled across platforms"
 

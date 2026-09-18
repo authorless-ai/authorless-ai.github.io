@@ -2,8 +2,6 @@
 title: "Sagen Sie für jede Zielgruppe Ihrer Kunden das Richtige"
 superTitle: "Zielgruppenorientiertes Marketing für kleine Agenturen"
 description: "Bazam hilft kleinen Agenturen, Inhalte zu schreiben, zu planen und zu veröffentlichen, die jede Zielgruppe ihrer Kunden ansprechen."
-ctaText: "Frühzugang anfragen"
-ctaUrl: "#early-access"
 heroDescription:
   - "Jeder Kunde verkauft an mehr als einen Menschentyp. Mit Bazams **detaillierten Käuferprofilen** können Sie für jeden die passende Botschaft **schreiben, planen und veröffentlichen** und so das Engagement steigern."
 heroVideo: "/videos/personas.mp4"
@@ -229,10 +227,4 @@ topFeatures:
       description: "Veröffentlichte Ergebnisse fließen direkt zurück. Aus Ihrer besten Vermutung wird ein Protokoll dessen, worauf Ihr Markt reagiert."
     - title: "Bewährte Winkel pro Zielgruppe"
       description: "Testen Sie Winkel für jede Zielgruppe und fördern Sie die Gewinner. Ihre Profile werden mit jeder Kampagne klüger."
-
-waitlist:
-  id: "early-access"
-  title: "Frühzugang anfragen"
-  description: "Erzählen Sie uns von Ihrer Agentur und dem ersten Kunden. Wir helfen, seine Zielgruppen zu modellieren, die Markenstimme abzustimmen und Kanäle zu verbinden, damit Sie schnell für echte Menschen veröffentlichen."
-  button: "Zugang anfragen"
 ---

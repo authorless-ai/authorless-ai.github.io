@@ -2,8 +2,6 @@
 title: "Create as a team without losing the brand"
 translationKey: feature-teams
 description: "Share the context behind every campaign, control who can do what and put approval between a draft and publication."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 featureList:
   title: "A clearer route from draft to approved"

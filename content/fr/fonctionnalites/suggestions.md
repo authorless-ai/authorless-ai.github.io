@@ -2,8 +2,6 @@
 title: Des idées de contenu ancrées dans votre entreprise
 translationKey: feature-suggestions
 description: Générez des sujets et des briefs pertinents à partir de votre marque, de votre public et de vos objectifs au lieu de regarder un calendrier vierge.
-ctaText: Obtenez un accès anticipé
-ctaUrl: "#early-access"
 featureList:
   title: Une prochaine idée utile, chaque fois que vous en avez besoin
   description: Bazam utilise le contexte déjà présent dans votre projet pour suggérer quoi créer ensuite.

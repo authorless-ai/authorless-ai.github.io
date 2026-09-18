@@ -2,8 +2,6 @@
 title: Creación de contenido de IA que comienza con la audiencia
 translationKey: feature-content-writing
 description: Cree contenido de marketing útil y específico a partir de los perfiles de su audiencia, la voz de su marca y su conocimiento empresarial real.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 featureList:
   title: De un resumen al contenido que la gente quiere leer
   description: Elige la audiencia y el ángulo. Bazam maneja el primer borrador sin perder el contexto que lo hace suyo.

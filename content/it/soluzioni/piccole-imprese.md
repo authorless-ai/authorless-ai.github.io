@@ -6,8 +6,6 @@ linkTitle: "Piccole imprese"
 weight: 10
 superTitle: "Marketing orientato al pubblico per le piccole imprese"
 description: "Bazam aiuta le piccole imprese a scrivere, pianificare e pubblicare contenuti che parlano a ogni tipo di acquirente."
-ctaText: "Ottieni l’accesso anticipato"
-ctaUrl: "#early-access"
 heroDescription:
   - "**Pianifica un mese di post social e articoli in 15 minuti** e torna a gestire la tua attività."
   - "Bazam crea <b>profili dettagliati dei tuoi acquirenti</b> e li usa per **scrivere, pianificare e pubblicare** sui social e sul blog."
@@ -105,5 +103,4 @@ faq:
   - { q: "Suonerà come la mia attività?", a: ["Sì. L’acquirente cambia l’angolazione; voce, posizionamento e fonti mantengono il risultato riconoscibile."] }
   - { q: "Bazam pubblica o scrive soltanto?", a: ["Pubblica direttamente su Facebook, Instagram, TikTok, X, LinkedIn e WordPress, crea versioni per piattaforma e traduce in oltre 50 lingue."] }
 topFeatures: { title: "Prossimamente", description: "Entra ora e usa queste funzioni quando arrivano.", list: [{ title: "L’agente Bazam", description: "Chiedi una campagna, un rapporto o un mese di contenuti in una conversazione." }, { title: "Profili che imparano", description: "I risultati pubblicati tornano nel profilo e mostrano a cosa risponde il mercato." }, { title: "Angolazioni testate per acquirente", description: "Prova angolazioni per pubblico e usa più spesso le migliori." }] }
-waitlist: { id: "early-access", title: "Ottieni l’accesso anticipato", description: "Raccontaci della tua attività e degli acquirenti da raggiungere. Ti aiuteremo con profili, voce e canali.", button: "Richiedi l’accesso" }
 ---

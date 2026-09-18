@@ -2,8 +2,6 @@
 title: Ein Inhaltskalender für konsistente Veröffentlichungen
 translationKey: feature-scheduling
 description: Planen Sie Ihre Arbeit kanalübergreifend, sehen Sie den gesamten Monat auf einmal und passen Sie den Zeitplan an, ohne ihn neu erstellen zu müssen.
-ctaText: Erhalten Sie frühen Zugang
-ctaUrl: "#early-access"
 heroVideo: "/videos/calendar.mp4"
 heroVideoAlt: Der Inhaltskalender von Bazam mit plattformübergreifend geplanten Beiträgen
 featureList:

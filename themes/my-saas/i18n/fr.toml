@@ -79,8 +79,7 @@ other = "Questions fréquentes"
 other = "En savoir plus"
 
 [signUp]
-#other = "S'inscrire"
-other = "Accès anticipé"
+other = "S’inscrire"
 
 [logIn]
 other = "Se connecter"
@@ -98,10 +97,10 @@ other = "Annuler"
 other = "Commencer maintenant"
 
 [startFreeNow]
-other = "Commencer gratuitement"
+other = "Commencer l’essai gratuit"
 
 [startNowFree]
-other = "Commencer maintenant &ndash; Gratuit"
+other = "Commencer l’essai gratuit"
 
 [joinOurNewsletter]
 other = "Inscrivez-vous à notre newsletter"
@@ -1316,7 +1315,7 @@ other = "par mois, facturé mensuellement"
 other = "Hors taxes"
 
 [plan_cta]
-other = "Obtenir un accès anticipé"
+other = "Commencer l’essai gratuit"
 
 [plan_extra_collaboration]
 other = "Collaboration et validations"

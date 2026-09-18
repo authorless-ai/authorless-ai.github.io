@@ -4,8 +4,6 @@ title: "Bazam vs ChatGPT"
 translationKey: alternative-chatgpt
 superTitle: "A straight comparison"
 description: "ChatGPT writes the draft and stops. Bazam knows which customer it's for, still knows next month, and posts it to six platforms for you."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "ChatGPT writes the draft and stops. Bazam knows which of your customers it's for, then schedules it and posts it to six platforms and your blog."
@@ -109,10 +107,4 @@ faq:
   - q: "How long before I'm posting?"
     a:
       - "Five minutes. Bazam reads your website, builds your personas and your offerings, and you connect your channels. After that, a month of content takes ten minutes."
-
-waitlist:
-  id: "early-access"
-  title: "See it on your own customers"
-  description: "Tell us who you sell to. We'll build the persona and send you back posts written for that customer."
-  button: "Request access"
 ---

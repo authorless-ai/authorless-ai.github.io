@@ -2,8 +2,6 @@
 title: Geben Sie der KI die Fakten, bevor sie mit dem Schreiben beginnt
 translationKey: feature-knowledge-base
 description: Halten Sie Produktdetails, Quellmaterial und Markenhinweise in einer Wissensdatenbank bereit, damit jeder Entwurf mit dem richtigen Kontext beginnt.
-ctaText: Erhalten Sie frühen Zugang
-ctaUrl: "#early-access"
 featureList:
   title: Ihr Geschäftswissen, bereit für jedes Briefing
   description: Fügen Sie die Informationen einmal hinzu. Bazam kann darauf zurückgreifen, wann immer Sie Inhalte für dieses Projekt erstellen.

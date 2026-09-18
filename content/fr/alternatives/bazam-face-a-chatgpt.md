@@ -4,8 +4,6 @@ title: "Bazam face à ChatGPT"
 translationKey: alternative-chatgpt
 superTitle: "Une comparaison directe"
 description: "ChatGPT rédige le brouillon et s’arrête là. Bazam sait à quel client il s’adresse, s’en souvient le mois suivant et le publie sur six plateformes pour vous."
-ctaText: "Obtenir un accès anticipé"
-ctaUrl: "#early-access"
 heroDescription:
   - "ChatGPT rédige le brouillon et s’arrête là. Bazam sait auquel de vos clients il s’adresse, puis le planifie et le publie sur six plateformes et votre blog."
 comparisonGrid: "comparison_chatgpt"
@@ -52,5 +50,4 @@ faq:
   - { q: "Puis-je savoir ce qui a fonctionné ?", a: ["Oui. Bazam rassemble les indicateurs de tous vos canaux et les regroupe par campagne."] }
   - { q: "Je vends dans plusieurs pays.", a: ["Une campagne est diffusée dans plus de 50 langues tout en préservant votre voix de marque."] }
   - { q: "Dans combien de temps puis-je publier ?", a: ["Cinq minutes pour analyser votre site, créer les profils et connecter vos canaux. Ensuite, un mois de contenu prend dix minutes."] }
-waitlist: { id: "early-access", title: "Voyez le résultat sur vos propres clients", description: "Dites-nous à qui vous vendez. Nous créerons le profil et vous enverrons des publications rédigées pour ce client.", button: "Demander l’accès" }
 ---

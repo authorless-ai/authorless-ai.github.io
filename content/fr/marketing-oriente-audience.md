@@ -4,8 +4,6 @@ title: Un marketing qui apprend à qui il s'adresse
 translationKey: audience-driven-marketing
 superTitle: Marketing axé sur l'audience
 description: 'Une façon de rendre chaque campagne plus spécifique que la précédente : commencez par le public, testez ce qui compte pour lui et mettez les enseignements tirés dans le brief suivant.'
-ctaText: Obtenez un accès anticipé
-ctaUrl: "#early-access"
 heroDescription:
 - 'La plupart du marketing de l''IA commence par le message : proposez-lui une offre, une vague étiquette d''audience et demandez des publications. Le résultat peut être fluide, rapide et complètement oubliable.'
 - "<b>Le marketing axé sur l'audience commence avec le lecteur.</b> Ce qu'il veut, ce qui le rebute et la manière dont il décide ensemble façonnent le message. Ainsi, chaque campagne vous apprend quelque chose pour la suivante."
@@ -117,9 +115,4 @@ faq:
 - q: Bazam est-il une plateforme publicitaire ?
   a:
   - Bazam est une plateforme de marketing de contenu. Il vous aide à faire comprendre au public derrière une campagne, à générer du contenu à partir de celle-ci, à le planifier et à le publier sur vos chaînes, et à garder l'apprentissage disponible pour le prochain briefing. Les résultats publicitaires constituent une source précieuse d’informations sur l’audience, aux côtés du contenu organique, des ventes et des commentaires des clients.
-waitlist:
-  id: early-access
-  title: Construire un système de marketing qui apprend
-  description: Parlez-nous de votre agence et d'un client avec lequel vous souhaitez commencer. Nous vous aiderons à créer les premiers modèles d'audience, à les transformer en campagnes et à conserver les connaissances acquises là où elles pourront être utilisées dans le prochain briefing.
-  button: Demander un accès anticipé
 ---

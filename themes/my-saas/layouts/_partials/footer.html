@@ -125,7 +125,7 @@
                         <a href="{{ partial "menu-url.html" (dict "item" (dict "URL" "/audience-driven-marketing/") "site" .Site) }}" class="hover:underline">{{ T "whatIsAudienceDrivenMarketing" }}</a>
                     </li>
                     <li class="mb-4">
-                        <a href="{{ .Site.Home.RelPermalink }}#early-access" class="hover:underline">{{ T "signUp" }}</a>
+                        <a href="{{ site.Params.appUrl }}/accounts/signup/" class="hover:underline">{{ T "signUp" }}</a>
                     </li>
                     {{ range .Site.Menus.comparemenu }}
                       <li class="mb-4">

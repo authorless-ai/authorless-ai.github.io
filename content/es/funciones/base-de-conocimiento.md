@@ -2,8 +2,6 @@
 title: Brinde a la IA los hechos antes de que comience a escribir
 translationKey: feature-knowledge-base
 description: Mantenga los detalles del producto, el material fuente y la orientación de la marca en una base de conocimientos para que cada borrador comience con el contexto adecuado.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 featureList:
   title: Su conocimiento empresarial, listo para cada informe
   description: Añade la información una vez. Bazam puede aprovecharlo cada vez que cree contenido para ese proyecto.

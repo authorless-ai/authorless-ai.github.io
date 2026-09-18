@@ -6,8 +6,6 @@ linkTitle: "Kleine Unternehmen"
 weight: 10
 superTitle: "Zielgruppenorientiertes Marketing für kleine Unternehmen"
 description: "Bazam hilft kleinen Unternehmen, Inhalte zu schreiben, zu planen und zu veröffentlichen, die jeden Käufertyp gezielt ansprechen."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroDescription:
   - "**Planen Sie einen Monat Social-Media- und Blogbeiträge in 15 Minuten** und widmen Sie sich wieder Ihrem Unternehmen."
   - "Bazam erstellt <b>detaillierte Profile Ihrer Käufer</b> und nutzt sie zum **Schreiben, Planen und Veröffentlichen** auf Ihren sozialen Kanälen und Ihrem Blog."
@@ -121,5 +119,4 @@ topFeatures:
   title: "Demnächst"
   description: "Steigen Sie jetzt ein und nutzen Sie diese Funktionen, sobald sie erscheinen."
   list: [{ title: "Der Bazam-Agent", description: "Fordern Sie Kampagne, Bericht oder einen Monat Inhalt in einem Gespräch an." }, { title: "Lernende Käuferprofile", description: "Veröffentlichte Ergebnisse fließen ins Profil zurück und zeigen, worauf Ihr Markt reagiert." }, { title: "Getestete Blickwinkel pro Käufer", description: "Testen Sie Blickwinkel je Zielgruppe und nutzen Sie Gewinner häufiger." }]
-waitlist: { id: "early-access", title: "Frühzugang erhalten", description: "Erzählen Sie uns von Ihrem Unternehmen und den gewünschten Käufern. Wir helfen bei Profilen, Markenstimme und Kanalverbindungen.", button: "Zugang anfragen" }
 ---

@@ -2,8 +2,6 @@
 title: Création de contenu IA qui commence par le public
 translationKey: feature-content-writing
 description: Créez du contenu marketing utile et spécifique à partir de vos profils d’audience, de la voix de votre marque et de véritables connaissances commerciales.
-ctaText: Obtenez un accès anticipé
-ctaUrl: "#early-access"
 featureList:
   title: Du brief au contenu que les gens veulent lire
   description: Choisissez le public et l'angle. Bazam gère la première ébauche sans perdre le contexte qui la rend vôtre.

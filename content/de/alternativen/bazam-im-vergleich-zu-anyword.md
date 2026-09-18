@@ -4,8 +4,6 @@ title: "Bazam vs. Anyword"
 translationKey: alternative-anyword
 superTitle: "Ein direkter Vergleich"
 description: "Anyword bewertet Ihren Text nach dem Schreiben. Bazam schreibt ihn für den Kunden, plant ihn und veröffentlicht ihn auf sechs Plattformen und in Ihrem Blog. Ab 39 $."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroDescription: ["Anyword bewertet den Text, nachdem Sie ihn geschrieben haben. Bazam schreibt für den Kunden, plant und veröffentlicht für Sie. <b>Ab 39 $ pro Monat statt 49 $.</b>"]
 comparisonGrid: "comparison_anyword"
 aliases: ["/alternativen/bazam-vs-anyword/"]
@@ -49,5 +47,4 @@ faq:
   - { q: "Erfahre ich, was funktioniert hat?", a: ["Ja. Bazam bündelt Interaktionen, Klicks, Impressionen, Reichweite und Wachstum aus allen verbundenen Kanälen nach Kampagne."] }
   - { q: "Ich verkaufe in mehreren Ländern.", a: ["Eine Kampagne kann in mehr als 50 Sprachen veröffentlicht werden und behält Ihre Markenstimme bei."] }
   - { q: "Wie schnell kann ich veröffentlichen?", a: ["Die Einrichtung dauert etwa fünf Minuten. Danach lässt sich ein Monat Inhalt in zehn Minuten erstellen."] }
-waitlist: { id: "early-access", title: "Testen Sie es mit Ihren eigenen Kunden", description: "Sagen Sie uns, an wen Sie verkaufen. Wir erstellen das Profil und passende Beiträge.", button: "Zugang anfragen" }
 ---

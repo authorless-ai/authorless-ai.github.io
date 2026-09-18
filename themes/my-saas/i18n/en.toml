@@ -85,8 +85,7 @@ other = "FAQs"
 other = "Log in"
 
 [signUp]
-other = "Get early access"
-#other = "Early access"
+other = "Sign up"
 
 [learnMore]
 other = "Learn more"
@@ -104,10 +103,10 @@ other = "Cancel"
 other = "Start now"
 
 [startFreeNow]
-other = "Get early access"
+other = "Start free trial"
 
 [startNowFree]
-other = "Get early access"
+other = "Start free trial"
 
 [joinOurNewsletter]
 other = "Join our newsletter"
@@ -1316,7 +1315,7 @@ other = "per month, billed monthly"
 other = "Plus applicable taxes"
 
 [plan_cta]
-other = "Get early access"
+other = "Start free trial"
 
 [plan_extra_collaboration]
 other = "Team collaboration & approvals"

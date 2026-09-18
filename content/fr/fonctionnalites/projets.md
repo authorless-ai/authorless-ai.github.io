@@ -2,8 +2,6 @@
 title: Un espace de travail marketing séparé pour chaque client ou marque
 translationKey: feature-projects
 description: Gardez les profils d'audience, la voix de la marque, les connaissances, le contenu et les canaux de publication de chaque projet organisés et isolés.
-ctaText: Obtenez un accès anticipé
-ctaUrl: "#early-access"
 featureList:
   title: Changer de client sans mélanger le contexte
   description: Tout ce dont Bazam a besoin pour une marque vit dans son projet, prêt pour le prochain brief.

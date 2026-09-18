@@ -4,8 +4,6 @@ title: "Create content that knows exactly who it's talking to"
 translationKey: audience-profile
 #superTitle: "More knowledge, better content, more engagement"
 description: "Thirty points about one reader: what they want, what worries them, what makes them tick. Fill it in once and every piece of content you generate speaks to that person."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroItemsTitle: "Bazam builds audience profiles and writes from them. Replace generic posts with real engagement"
 heroItems:
@@ -196,10 +194,4 @@ faq:
   - q: "What if my audience is really niche?"
     a:
       - "Then you'll see the biggest difference of anyone. The vaguer the buyer, the more generic any tool's output has to be. A sharply defined profile gives the AI something to grip, and the output changes accordingly."
-
-waitlist:
-  id: "early-access"
-  title: "Build your first audience profile"
-  description: "Tell us who you sell to and we'll build your first audience profiles with you. Then watch what your content does when it finally knows who it's talking to."
-  button: "Request access"
 ---

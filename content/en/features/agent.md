@@ -2,8 +2,6 @@
 title: "Your marketing work, handled through a conversation"
 translationKey: feature-agent
 description: "Ask Bazam to research, create, edit, schedule or explain performance in everyday language."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 featureList:
   title: "Tell it what you need. Keep working in the same conversation."

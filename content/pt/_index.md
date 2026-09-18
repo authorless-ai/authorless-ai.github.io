@@ -2,8 +2,6 @@
 title: Diga a coisa certa para cada público que seus clientes atendem
 superTitle: Marketing voltado para o público para pequenas agências
 description: Bazam ajuda pequenas agências a escrever, agendar e publicar conteúdo que atenda ao público de cada um de seus clientes.
-ctaText: Obtenha acesso antecipado
-ctaUrl: "#early-access"
 heroDescription:
 - Cada cliente vende para mais de um tipo de pessoa. Os **perfis detalhados de compradores** do Bazam permitem que você **escreva, agende e publique** a mensagem certa para cada um deles para aumentar o engajamento.
 heroVideo: "/videos/personas.mp4"
@@ -225,9 +223,4 @@ topFeatures:
     description: Os resultados publicados retornam diretamente ao modelo. Seu melhor palpite se transforma em um registro da resposta do seu mercado.
   - title: Ângulos comprovados, por público
     description: Teste ângulos em relação a cada público e promova os vencedores. Seus perfis ficam mais inteligentes a cada campanha.
-waitlist:
-  id: early-access
-  title: Obtenha acesso antecipado
-  description: Conte-nos sobre sua agência e um cliente com quem você deseja começar. Ajudaremos você a modelar seus públicos, sintonizar a voz de sua marca e conectar seus canais, e você publicará para pessoas reais em um piscar de olhos.
-  button: Solicitar acesso
 ---

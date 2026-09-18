@@ -4,8 +4,6 @@ title: "Bazam frente a ChatGPT"
 translationKey: alternative-chatgpt
 superTitle: "Una comparación directa"
 description: "ChatGPT redacta el borrador y se detiene. Bazam sabe para qué cliente es, lo seguirá sabiendo el mes que viene y lo publica en seis plataformas por ti."
-ctaText: "Obtén acceso anticipado"
-ctaUrl: "#early-access"
 heroDescription:
   - "ChatGPT redacta el borrador y se detiene. Bazam sabe para cuál de tus clientes es, después lo programa y lo publica en seis plataformas y en tu blog."
 comparisonGrid: "comparison_chatgpt"
@@ -84,9 +82,4 @@ faq:
   - q: "¿Cuánto tardaré en empezar a publicar?"
     a:
       - "Cinco minutos. Bazam lee tu web, crea tus perfiles y ofertas, y tú conectas tus canales. A partir de ahí, un mes de contenido lleva diez minutos."
-waitlist:
-  id: "early-access"
-  title: "Pruébalo con tus propios clientes"
-  description: "Dinos a quién vendes. Crearemos el perfil y te enviaremos publicaciones escritas para ese cliente."
-  button: "Solicitar acceso"
 ---

@@ -4,8 +4,6 @@ title: Marketing que aprende con quién está hablando
 translationKey: audience-driven-marketing
 superTitle: Marketing impulsado por la audiencia
 description: 'Una forma de hacer que cada campaña sea más específica que la anterior: comenzar con la audiencia, probar lo que les importa y trasladar el aprendizaje al siguiente informe.'
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 heroDescription:
 - 'La mayor parte del marketing de IA comienza con el mensaje: dale una oferta, una etiqueta de audiencia vaga y solicita publicaciones. El resultado puede ser fluido, rápido y completamente olvidable.'
 - "<b>El marketing impulsado por la audiencia comienza con el lector.</b> Lo que quiere, lo que lo desanima y cómo deciden juntos dan forma al mensaje. Entonces cada campaña te enseña algo para la siguiente."
@@ -117,9 +115,4 @@ faq:
 - q: "¿Es Bazam una plataforma publicitaria?"
   a:
   - Bazam es una plataforma de marketing de contenidos. Le ayuda a desarrollar la comprensión de la audiencia detrás de una campaña, generar contenido a partir de ella, programarlo y publicarlo en sus canales y mantener el aprendizaje disponible para el siguiente resumen. Los resultados publicitarios son una fuente valiosa de información sobre la audiencia junto con el contenido orgánico, las ventas y los comentarios de los clientes.
-waitlist:
-  id: early-access
-  title: Construya un sistema de marketing que aprenda
-  description: Cuéntenos sobre su agencia y un cliente con el que desea comenzar. Le ayudaremos a crear los primeros modelos de audiencia, convertirlos en campañas y mantener el aprendizaje donde el siguiente informe pueda utilizarlo.
-  button: Solicitar acceso anticipado
 ---

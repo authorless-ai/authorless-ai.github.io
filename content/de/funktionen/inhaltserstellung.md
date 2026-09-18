@@ -2,8 +2,6 @@
 title: KI-Inhaltserstellung, die beim Publikum beginnt
 translationKey: feature-content-writing
 description: Erstellen Sie nützliche, spezifische Marketinginhalte aus Ihren Zielgruppenprofilen, Ihrer Markenstimme und Ihrem echten Geschäftswissen.
-ctaText: Erhalten Sie frühen Zugang
-ctaUrl: "#early-access"
 featureList:
   title: Von einer kurzen Zusammenfassung bis hin zu Inhalten, die die Leute lesen möchten
   description: Wählen Sie das Publikum und den Blickwinkel. Bazam bearbeitet den ersten Entwurf, ohne den Kontext zu verlieren, der ihn zu Ihrem macht.

@@ -4,8 +4,6 @@ title: "Alternative a Bazam a confronto"
 translationKey: alternatives
 superTitle: "Confronto diretto"
 description: "Come si confronta Bazam con gli strumenti scelti più spesso per primi: un assistente chat, uno strumento di scrittura IA o un sistema di pianificazione. Scritto per una persona, poi pianificato e pubblicato."
-ctaText: "Ottieni l’accesso anticipato"
-ctaUrl: "#early-access"
 heroDescription:
   - "Tutti gli strumenti usano ottimi modelli di IA. A distinguerli sono le informazioni che ricevono sulla persona che legge e quanto lavoro resta da fare a te."
 featureCards:
@@ -27,9 +25,4 @@ faq:
   - q: "Quanto costa?"
     a:
       - "Da 39 $ al mese, con il profilo completo del pubblico in 30 punti, tutti i tipi di contenuto, tutti e sei i canali di pubblicazione e oltre 50 lingue inclusi fin dal primo piano. Paghi per la scala, mai per funzioni tenute da parte."
-waitlist:
-  id: "early-access"
-  title: "Provalo sul tuo pubblico"
-  description: "Dicci a chi vendi. Creeremo un profilo del pubblico e ti invieremo contenuti scritti proprio per quella persona, così potrai confrontarli con qualsiasi altra soluzione tu stia valutando."
-  button: "Richiedi l’accesso"
 ---

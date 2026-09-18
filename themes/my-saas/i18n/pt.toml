@@ -79,8 +79,7 @@ other = "Perguntas frequentes"
 other = "Saiba mais"
 
 [signUp]
-#other = "Cadastre-se"
-other = "Acesso antecipado"
+other = "Cadastre-se"
 
 [logIn]
 other = "Entrar"
@@ -98,10 +97,10 @@ other = "Cancelar"
 other = "Comece agora"
 
 [startFreeNow]
-other = "Comece grátis agora"
+other = "Comece seu teste grátis"
 
 [startNowFree]
-other = "Comece agora &ndash; Grátis"
+other = "Comece seu teste grátis"
 
 [joinOurNewsletter]
 other = "Assine nossa newsletter"
@@ -1316,7 +1315,7 @@ other = "por mês, cobrado mensalmente"
 other = "Impostos não incluídos"
 
 [plan_cta]
-other = "Obter acesso antecipado"
+other = "Comece seu teste grátis"
 
 [plan_extra_collaboration]
 other = "Colaboração e aprovações"

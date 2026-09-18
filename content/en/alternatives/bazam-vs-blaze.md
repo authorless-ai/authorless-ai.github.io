@@ -4,8 +4,6 @@ title: "Bazam vs Blaze"
 translationKey: alternative-blaze
 superTitle: "A straight comparison"
 description: "Blaze writes for your brand. Bazam writes for each of your customers, then schedules and publishes it. From $39 against their $79."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Blaze writes for your brand. Bazam writes for each of your customers separately, then schedules and publishes it for you. <b>From $39 a month against their $79.</b>"
@@ -101,10 +99,4 @@ faq:
   - q: "How long before I'm posting?"
     a:
       - "Five minutes. Bazam reads your website, builds your personas and your offerings, and you connect your channels. After that, a month of content takes ten minutes."
-
-waitlist:
-  id: "early-access"
-  title: "See it on your own customers"
-  description: "Tell us who you sell to. We'll build the persona and send you back posts written for that customer."
-  button: "Request access"
 ---

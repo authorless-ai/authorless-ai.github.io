@@ -2,8 +2,6 @@
 title: Un calendario de contenido creado para una publicación consistente
 translationKey: feature-scheduling
 description: Planifique el trabajo en todos los canales, vea el mes completo a la vez y ajuste el cronograma sin reconstruirlo.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 heroVideo: "/videos/calendar.mp4"
 heroVideoAlt: Calendario de contenidos de Bazam con publicaciones programadas en todas las plataformas
 featureList:

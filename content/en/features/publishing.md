@@ -2,8 +2,6 @@
 title: "Publish directly to every channel your audience uses"
 translationKey: feature-publishing
 description: "Move approved content from Bazam to social channels and WordPress without exporting, reformatting or signing into every account."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 featureList:
   title: "One campaign, ready for every platform"

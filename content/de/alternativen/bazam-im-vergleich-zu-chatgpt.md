@@ -4,8 +4,6 @@ title: "Bazam vs. ChatGPT"
 translationKey: alternative-chatgpt
 superTitle: "Ein direkter Vergleich"
 description: "ChatGPT schreibt den Entwurf und hört auf. Bazam weiß, für welchen Kunden er bestimmt ist, erinnert sich auch nächsten Monat daran und veröffentlicht ihn für Sie auf sechs Plattformen."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroDescription: ["ChatGPT schreibt den Entwurf und hört auf. Bazam weiß, für welchen Ihrer Kunden er bestimmt ist, plant ihn ein und veröffentlicht ihn auf sechs Plattformen und in Ihrem Blog."]
 comparisonGrid: "comparison_chatgpt"
 aliases: ["/alternativen/bazam-vs-chatgpt/"]
@@ -51,5 +49,4 @@ faq:
   - { q: "Erfahre ich, was funktioniert hat?", a: ["Ja. Bazam sammelt Likes, Kommentare, Klicks, Impressionen, Reichweite, Speicherungen und Follower-Wachstum aus allen verbundenen Kanälen und gruppiert sie nach Kampagne."] }
   - { q: "Ich verkaufe in mehreren Ländern.", a: ["Eine Kampagne kann in mehr als 50 Sprachen erscheinen und behält Ihre Markenstimme in jeder Sprache bei."] }
   - { q: "Wie schnell kann ich veröffentlichen?", a: ["In fünf Minuten liest Bazam Ihre Website, erstellt Profile und Angebote und verbindet Ihre Kanäle. Danach dauert ein Monat Inhalt zehn Minuten."] }
-waitlist: { id: "early-access", title: "Testen Sie es mit Ihren eigenen Kunden", description: "Sagen Sie uns, an wen Sie verkaufen. Wir erstellen das Profil und schicken Ihnen Beiträge, die für diesen Kunden geschrieben wurden.", button: "Zugang anfragen" }
 ---

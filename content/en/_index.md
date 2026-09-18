@@ -2,8 +2,6 @@
 title: "Say the right thing to every audience your clients serve"
 superTitle: "Audience-driven marketing for small agencies"
 description: "Bazam helps small agencies write, schedule and publish content that speaks to each of their clients' audiences."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Every client sells to more than one kind of person. Bazam's **detailed buyer profiles** let you **write, schedule and publish** the right message for each of them to increase engagement."
@@ -284,9 +282,4 @@ topFeatures:
 # ---------------------------------------------------------------------------
 # 14. Early access
 # ---------------------------------------------------------------------------
-waitlist:
-  id: "early-access"
-  title: "Get early access"
-  description: "Tell us about your agency and a client you want to start with. We'll help you model their audiences, tune their brand voice and connect their channels, and you'll be publishing to real people in no time."
-  button: "Request access"
 ---

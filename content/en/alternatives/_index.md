@@ -4,8 +4,6 @@ title: "Bazam alternatives, compared"
 translationKey: alternatives
 superTitle: "Head to head"
 description: "How Bazam compares to the tools people usually reach for first: a chat assistant, an AI writing tool, or a scheduler. Written for someone, then scheduled and published."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Every tool uses great AI models. What separates them is how much they're told about the person reading, and how much of the job you have to do yourself."
@@ -42,10 +40,4 @@ faq:
   - q: "How much is it?"
     a:
       - "From $39 a month, with the full 30-point audience profile, every content type, all six publishing channels and 50+ languages included from the first plan. You pay for scale, never for features we held back."
-
-waitlist:
-  id: "early-access"
-  title: "See it on your own audience"
-  description: "Tell us who you sell to. We'll build an audience profile and send you back content written for that exact person, so you can put it next to whatever else you're considering."
-  button: "Request access"
 ---

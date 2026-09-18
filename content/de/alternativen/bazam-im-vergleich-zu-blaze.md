@@ -4,8 +4,6 @@ title: "Bazam vs. Blaze"
 translationKey: alternative-blaze
 superTitle: "Ein direkter Vergleich"
 description: "Blaze schreibt für Ihre Marke. Bazam schreibt für jeden Ihrer Kunden, plant und veröffentlicht. Ab 39 $ statt 79 $."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroDescription: ["Blaze schreibt für Ihre Marke. Bazam schreibt getrennt für jeden Kundentyp und plant und veröffentlicht anschließend für Sie. <b>Ab 39 $ pro Monat statt 79 $.</b>"]
 comparisonGrid: "comparison_blaze"
 aliases: ["/alternativen/bazam-vs-blaze/"]
@@ -49,5 +47,4 @@ faq:
   - { q: "Erfahre ich, was funktioniert hat?", a: ["Ja. Bazam bündelt Interaktionen, Klicks, Impressionen, Reichweite und Wachstum aus allen verbundenen Kanälen nach Kampagne."] }
   - { q: "Ich verkaufe in mehreren Ländern.", a: ["Eine Kampagne kann in mehr als 50 Sprachen veröffentlicht werden und behält Ihre Markenstimme bei."] }
   - { q: "Wie schnell kann ich veröffentlichen?", a: ["Die Einrichtung dauert etwa fünf Minuten. Danach lässt sich ein Monat Inhalt in zehn Minuten erstellen."] }
-waitlist: { id: "early-access", title: "Testen Sie es mit Ihren eigenen Kunden", description: "Sagen Sie uns, an wen Sie verkaufen. Wir erstellen das Profil und passende Beiträge.", button: "Zugang anfragen" }
 ---

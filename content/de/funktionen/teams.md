@@ -2,8 +2,6 @@
 title: Schaffen Sie als Team, ohne die Marke zu verlieren
 translationKey: feature-teams
 description: Teilen Sie den Kontext hinter jeder Kampagne, steuern Sie, wer was tun kann, und legen Sie die Genehmigung zwischen einem Entwurf und einer Veröffentlichung fest.
-ctaText: Erhalten Sie frühen Zugang
-ctaUrl: "#early-access"
 featureList:
   title: Ein klarerer Weg vom Entwurf zur Genehmigung
   description: Das Team arbeitet mit denselben Zielgruppenkenntnissen und denselben Markenregeln und behält dort die Kontrolle, wo es darauf ankommt.

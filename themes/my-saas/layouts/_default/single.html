@@ -6,8 +6,4 @@
     {{ partial "faq.html" . }}
 {{ end }}
 
-{{ with .Params.waitlist }}
-    {{ partial "waitlist-form.html" (dict "data" . "context" $) }}
-{{ end }}
-
 {{ end }}

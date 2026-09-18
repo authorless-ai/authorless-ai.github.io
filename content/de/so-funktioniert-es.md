@@ -4,8 +4,6 @@ title: "Automatisch für soziale Medien und Blogs schreiben und veröffentlichen
 translationKey: how-it-works
 superTitle: "So funktioniert Bazam"
 description: "Von einer einzeiligen Leserbeschreibung zu geschriebenen, plattformgerechten, übersetzten, geplanten, veröffentlichten und gemessenen Inhalten. Der gesamte Ablauf an einem Ort."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroDescription: ["KI-Schreibtools liefern einen Entwurf und überlassen Ihnen den Rest: umformatieren, sechs Logins, planen und Ergebnisse zusammensuchen. Bazam schreibt, plant, veröffentlicht und bündelt Ihre Analysen."]
 steps:
   title: "Zwei Einrichtungsschritte, danach drei Schritte bis zur Veröffentlichung"
@@ -55,9 +53,4 @@ faq:
   - { q: "Muss ich den ganzen Ablauf verwenden?", a: ["Nein. Sie können in Bazam erstellen und anderswo veröffentlichen oder Kanäle später ergänzen. Das Zielgruppenprofil verbessert das Ergebnis bereits beim Erstellen."] }
   - { q: "Was, wenn ich selbst schreiben möchte?", a: ["Tun Sie es. Der Editor bietet KI-Aktionen bei Bedarf – umformulieren, erweitern, kürzen oder verbessern. Plattformversionen, Kalender, Übersetzung und Veröffentlichung funktionieren weiterhin."] }
   - { q: "Kann ich Inhalte in großen Mengen erstellen?", a: ["Ja. Erzeugen Sie Hunderte Inhalte aus einem Parametersatz; Beinahe-Duplikate werden automatisch entfernt. Nützlich für Kataloge, lokale Seiten und Themencluster."] }
-waitlist:
-  id: "early-access"
-  title: "Den gesamten Ablauf starten"
-  description: "Sagen Sie uns, wer Sie sind und an wen Sie verkaufen. Wir modellieren Ihre Zielgruppen, stimmen Ihre Markenstimme ab und verbinden die Kanäle, damit der erste Monat geplant ist."
-  button: "Zugang anfragen"
 ---

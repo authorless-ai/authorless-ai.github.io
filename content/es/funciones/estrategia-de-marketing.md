@@ -2,8 +2,6 @@
 title: Mantenga cada contenido vinculado a una campaña
 translationKey: feature-marketing-strategy
 description: Organice el contenido en torno a un objetivo, una audiencia y un plan de publicación para que la actividad se convierta en algo útil.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 featureList:
   title: De un objetivo de campaña a un cuerpo de trabajo coordinado
   description: Mantenga conectados el resumen, la audiencia, los idiomas, el contenido y los resultados desde el principio.

@@ -2,8 +2,6 @@
 title: "Di lo adecuado a cada audiencia de tus clientes"
 superTitle: "Marketing centrado en la audiencia para agencias pequeñas"
 description: "Bazam ayuda a las agencias pequeñas a escribir, programar y publicar contenido que conecta con cada audiencia de sus clientes."
-ctaText: "Solicitar acceso anticipado"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Cada cliente vende a más de un tipo de persona. Los **perfiles detallados de comprador** de Bazam te permiten **escribir, programar y publicar** el mensaje adecuado para cada una y aumentar la interacción."
@@ -239,10 +237,4 @@ topFeatures:
       description: "Los resultados publicados vuelven directamente al modelo. Tu mejor estimación se convierte en un registro de cómo responde el mercado."
     - title: "Ángulos probados para cada audiencia"
       description: "Prueba ángulos con cada audiencia y potencia los ganadores. Tus perfiles mejoran con cada campaña."
-
-waitlist:
-  id: "early-access"
-  title: "Solicita acceso anticipado"
-  description: "Cuéntanos sobre tu agencia y el cliente con el que quieres empezar. Te ayudaremos a modelar sus audiencias, ajustar su voz de marca y conectar sus canales para que publiques para personas reales enseguida."
-  button: "Solicitar acceso"
 ---

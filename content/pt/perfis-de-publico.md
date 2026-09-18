@@ -3,8 +3,6 @@ layout: marketing
 title: "Crie conteúdo que sabe exatamente com quem está falando"
 translationKey: audience-profile
 description: "Trinta informações sobre um leitor: o que quer, o que o preocupa e o que o motiva. Preencha uma vez e todo conteúdo falará com essa pessoa."
-ctaText: "Obtenha acesso antecipado"
-ctaUrl: "#early-access"
 heroItemsTitle: "O Bazam cria perfis de público e escreve com base neles. Troque publicações genéricas por engajamento real"
 heroItems:
   - { title: "Diga ao Bazam para quem você escreve", description: "Forneça seu site ou uma descrição em uma linha dos seus leitores, espectadores, seguidores ou compradores." }
@@ -73,5 +71,4 @@ faq:
   - { q: "Quantos perfis preciso?", a: ["Menos do que imagina. Dois ou três leitores distintos cobrem a maioria das pequenas empresas; bons perfis superam oito esboços vagos."] }
   - { q: "Posso editar o perfil depois?", a: ["Sim. Adicione o que aprender em vendas, suporte ou comentários. Tudo o que você gerar depois herdará essas informações."] }
   - { q: "E se meu público for muito especializado?", a: ["A diferença será ainda maior. Quanto mais impreciso o público, mais genérico o resultado. Um perfil preciso dá material concreto à IA."] }
-waitlist: { id: "early-access", title: "Crie seu primeiro perfil de público", description: "Conte-nos para quem você vende e criaremos seus primeiros perfis com você. Depois veja o que acontece quando seu conteúdo finalmente sabe com quem está falando.", button: "Solicitar acesso" }
 ---

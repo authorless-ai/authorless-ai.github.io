@@ -5,8 +5,6 @@ linkTitle: "SaaS"
 weight: 20
 superTitle: "Connected content marketing for SaaS teams"
 description: "Bazam helps SaaS teams create, localise, schedule and learn from content across every market and channel."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Turn one product story into **channel-ready campaigns for every audience and market**."
@@ -248,10 +246,4 @@ faq:
   - q: "Can Bazam show what is working across different platforms?"
     a:
       - "Yes. Bazam brings engagement and channel growth into a central dashboard, normalises platform-specific metrics for comparison, and provides campaign-, channel- and post-level views. Google Analytics integration connects content to sessions, conversions and revenue."
-
-waitlist:
-  id: "early-access"
-  title: "Build a content system that grows with your SaaS"
-  description: "Tell us about your product, markets and channels. We'll help you connect the context and shape the first scalable campaign workflow."
-  button: "Request access"
 ---

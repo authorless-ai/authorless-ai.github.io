@@ -2,8 +2,6 @@
 title: Crear en equipo sin perder la marca
 translationKey: feature-teams
 description: Comparta el contexto detrás de cada campaña, controle quién puede hacer qué y apruebe entre un borrador y una publicación.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 featureList:
   title: Una ruta más clara desde el borrador hasta la aprobación
   description: El equipo trabaja desde el mismo conocimiento de la audiencia y las mismas reglas de marca, con control donde importa.

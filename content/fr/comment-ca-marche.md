@@ -4,8 +4,6 @@ title: "Rédigez et publiez automatiquement sur les réseaux sociaux et les blog
 translationKey: how-it-works
 superTitle: "Comment fonctionne Bazam"
 description: "D’une simple description du lecteur à un contenu rédigé, adapté à chaque plateforme, traduit, planifié, publié et mesuré. Tout le processus au même endroit."
-ctaText: "Obtenir un accès anticipé"
-ctaUrl: "#early-access"
 heroDescription: ["Les outils de rédaction IA vous donnent un brouillon puis vous laissent reformater, vous connecter six fois, planifier et rechercher les résultats. Bazam rédige, planifie, publie et rassemble vos statistiques."]
 steps:
   title: "Deux étapes de configuration, puis trois pour publier"
@@ -55,9 +53,4 @@ faq:
   - { q: "Dois-je utiliser tout le processus ?", a: ["Non. Vous pouvez créer dans Bazam et publier ailleurs, ou connecter les canaux progressivement. Le profil d’audience améliore déjà le résultat dès la création."] }
   - { q: "Et si je veux rédiger moi-même ?", a: ["Faites-le. L’éditeur propose l’IA quand vous en avez besoin — reformuler, développer, raccourcir ou fluidifier — sans vous gêner le reste du temps. Les versions par plateforme, le calendrier, la traduction et la publication restent disponibles."] }
   - { q: "Puis-je créer du contenu en masse ?", a: ["Oui. Générez des centaines de contenus à partir d’un ensemble de paramètres, avec suppression automatique des quasi-doublons. Idéal pour les catalogues, pages locales et groupes thématiques."] }
-waitlist:
-  id: "early-access"
-  title: "Mettez tout le processus en route"
-  description: "Dites-nous qui vous êtes et à qui vous vendez. Nous modéliserons vos audiences, réglerons votre voix et connecterons vos canaux pour planifier votre premier mois."
-  button: "Demander l’accès"
 ---

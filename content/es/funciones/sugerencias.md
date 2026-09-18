@@ -2,8 +2,6 @@
 title: Ideas de contenido basadas en su negocio
 translationKey: feature-suggestions
 description: Genere temas y resúmenes relevantes de su marca, audiencia y objetivos en lugar de mirar un calendario en blanco.
-ctaText: Obtenga acceso temprano
-ctaUrl: "#early-access"
 featureList:
   title: Una próxima idea útil, siempre que la necesite
   description: Bazam utiliza el contexto que ya está en su proyecto para sugerir qué crear a continuación.

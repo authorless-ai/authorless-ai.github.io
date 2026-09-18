@@ -50,8 +50,6 @@
     {{ partial "solution/feature-list.html" $ }}
   {{ end }}
 
-  {{/* 14. Early access */}}
-  {{ partial "waitlist-form.html" (dict "data" .Params.waitlist "context" .) }}
 
   {{ partial "json-ld-website.html" . }}
 {{ end }}

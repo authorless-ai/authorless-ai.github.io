@@ -3,8 +3,6 @@ layout: marketing
 title: "Erstellen Sie Inhalte, die genau wissen, wen sie ansprechen"
 translationKey: audience-profile
 description: "Dreißig Fakten über einen Leser: was er will, was ihn beschäftigt und was ihn antreibt. Einmal ausfüllen, dann spricht jeder Inhalt genau diese Person an."
-ctaText: "Frühzugang erhalten"
-ctaUrl: "#early-access"
 heroItemsTitle: "Bazam erstellt Zielgruppenprofile und schreibt auf ihrer Grundlage. Ersetzen Sie allgemeine Beiträge durch echte Resonanz"
 heroItems:
   - { title: "Sagen Sie Bazam, für wen Sie schreiben", description: "Geben Sie Ihre Website oder eine einzeilige Beschreibung Ihrer Leser, Zuschauer, Follower oder Käufer an." }
@@ -73,5 +71,4 @@ faq:
   - { q: "Wie viele Profile brauche ich?", a: ["Weniger als gedacht. Zwei oder drei klar verschiedene Leser decken die meisten kleinen Unternehmen ab; gute Profile schlagen acht grobe Skizzen."] }
   - { q: "Kann ich das Profil später ändern?", a: ["Ja. Ergänzen Sie Erkenntnisse aus Verkauf, Support oder Feedback. Alles, was Sie danach erstellen, übernimmt sie."] }
   - { q: "Was, wenn meine Zielgruppe sehr spezialisiert ist?", a: ["Dann ist der Unterschied noch größer. Je ungenauer die Zielgruppe, desto allgemeiner das Ergebnis. Ein präzises Profil gibt der KI konkretes Material."] }
-waitlist: { id: "early-access", title: "Erstellen Sie Ihr erstes Zielgruppenprofil", description: "Sagen Sie uns, an wen Sie verkaufen, und wir erstellen gemeinsam Ihre ersten Profile. Sehen Sie, was passiert, wenn Ihre Inhalte endlich wissen, wen sie ansprechen.", button: "Zugang anfragen" }
 ---

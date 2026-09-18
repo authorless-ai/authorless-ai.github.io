@@ -4,8 +4,6 @@ title: Il marketing che impara a chi sta parlando
 translationKey: audience-driven-marketing
 superTitle: Marketing orientato al pubblico
 description: 'Un modo per rendere ogni campagna più specifica della precedente: iniziare con il pubblico, testare ciò che conta per loro e inserire quanto appreso nel brief successivo.'
-ctaText: Ottieni l'accesso anticipato
-ctaUrl: "#early-access"
 heroDescription:
 - 'La maggior parte del marketing basato sull’intelligenza artificiale inizia con il messaggio: offrigli un’offerta, una vaga etichetta del pubblico e chiedi post. Il risultato può essere fluido, veloce e completamente dimenticabile.'
 - "<b>Il marketing orientato al pubblico inizia dal lettore.</b> Ciò che vuole, cosa lo scoraggia e il modo in cui decidono insieme danno forma al messaggio. Poi ogni campagna ti insegna qualcosa per quella successiva."
@@ -117,9 +115,4 @@ faq:
 - q: Bazam è una piattaforma pubblicitaria?
   a:
   - Bazam è una piattaforma di content marketing. Ti aiuta a sviluppare la comprensione del pubblico dietro una campagna, a generare contenuti da essa, a pianificarli e pubblicarli sui tuoi canali e a mantenere l'apprendimento disponibile per il brief successivo. I risultati pubblicitari sono una preziosa fonte di informazioni sul pubblico insieme a contenuti organici, vendite e feedback dei clienti.
-waitlist:
-  id: early-access
-  title: Costruisci un sistema di marketing che apprende
-  description: Raccontaci della tua agenzia e del cliente con cui vuoi iniziare. Ti aiuteremo a costruire i primi modelli di pubblico, a trasformarli in campagne e a mantenere l'apprendimento laddove il brief successivo potrà utilizzarlo.
-  button: Richiedi l'accesso anticipato
 ---

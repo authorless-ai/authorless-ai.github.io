@@ -2,8 +2,6 @@
 title: Porta una campagna in più di 50 lingue
 translationKey: feature-translation
 description: Traduci contenuti finiti per nuovi mercati preservando il pubblico, il significato e la voce del marchio dietro l'originale.
-ctaText: Ottieni l'accesso anticipato
-ctaUrl: "#early-access"
 featureList:
   title: La stessa campagna, realizzata per ogni mercato
   description: Crea dalla fonte inglese, quindi trasferisci il suo intento in ogni lingua di cui hai bisogno.

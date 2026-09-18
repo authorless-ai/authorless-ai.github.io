@@ -5,8 +5,6 @@ linkTitle: "Small businesses"
 weight: 10
 superTitle: "Audience-driven marketing for small businesses"
 description: "Bazam helps small businesses write, schedule and publish content that speaks to each kind of buyer."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "**Queue a month of social/blog posts in 15 minutes**, then get back to your business."
@@ -255,10 +253,4 @@ topFeatures:
       description: "Published results feed back into the profile, building a record of what your market responds to."
     - title: "Proven angles, per buyer"
       description: "Test angles against each audience and use the winners more often."
-
-waitlist:
-  id: "early-access"
-  title: "Get early access"
-  description: "Tell us about your business and the buyers you want to reach. We'll help you build the first profiles, tune your brand voice and connect your channels."
-  button: "Request access"
 ---

@@ -4,8 +4,6 @@ title: "Bazam vs Anyword"
 translationKey: alternative-anyword
 superTitle: "A straight comparison"
 description: "Anyword scores your copy after you write it. Bazam writes it to the customer, then schedules and publishes it to six platforms and your blog. From $39."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Anyword scores the copy after you have written it. Bazam writes it to the customer, then schedules and publishes it for you. <b>From $39 a month against their $49.</b>"
@@ -99,10 +97,4 @@ faq:
   - q: "How long before I'm posting?"
     a:
       - "Five minutes. Bazam reads your website, builds your personas and your offerings, and you connect your channels. After that, a month of content takes ten minutes."
-
-waitlist:
-  id: "early-access"
-  title: "See it on your own customers"
-  description: "Tell us who you sell to. We'll build the persona and send you back posts written for that customer."
-  button: "Request access"
 ---

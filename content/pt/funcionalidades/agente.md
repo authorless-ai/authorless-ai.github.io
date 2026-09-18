@@ -2,8 +2,6 @@
 title: Seu trabalho de marketing, conduzido por meio de uma conversa
 translationKey: feature-agent
 description: Peça ao Bazam para pesquisar, criar, editar, agendar ou explicar a performance em linguagem cotidiana.
-ctaText: Obtenha acesso antecipado
-ctaUrl: "#early-access"
 featureList:
   title: Diga o que você precisa. Continue trabalhando na mesma conversa.
   description: O assistente pode utilizar os públicos, marca, conhecimento e conteúdo já salvos em seu projeto.

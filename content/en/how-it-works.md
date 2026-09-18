@@ -4,8 +4,6 @@ title: "Automatically write and publish social and blog posts, then fetch analyt
 translationKey: how-it-works
 superTitle: "How Bazam works"
 description: "From a one-line description of your reader to content written, adapted per platform, translated, scheduled, published and measured. The whole pipeline in one place."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Every AI writing tool hands you a draft and leaves the rest to you: the reformatting, the six logins, the scheduler, the chasing up what worked. Bazam writes, schedules, publishes and pulls your analytics"
@@ -126,10 +124,4 @@ faq:
   - q: "Can I bulk-create rather than one at a time?"
     a:
       - "Yes. Generate hundreds of pieces from one set of parameters, with near-duplicates removed automatically. Useful for product catalogues, location pages and topic clusters."
-
-waitlist:
-  id: "early-access"
-  title: "Get the whole pipeline running"
-  description: "Tell us who you are and who you sell to. We'll model your audiences, tune your brand voice and connect your channels with you, so the first month of content is queued before you've finished your coffee."
-  button: "Request access"
 ---

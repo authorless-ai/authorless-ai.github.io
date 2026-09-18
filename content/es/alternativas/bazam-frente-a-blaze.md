@@ -4,8 +4,6 @@ title: "Bazam frente a Blaze"
 translationKey: alternative-blaze
 superTitle: "Una comparación directa"
 description: "Blaze escribe para tu marca. Bazam escribe para cada uno de tus clientes, y después programa y publica el contenido. Desde 39 $, frente a sus 79 $."
-ctaText: "Obtén acceso anticipado"
-ctaUrl: "#early-access"
 heroDescription:
   - "Blaze escribe para tu marca. Bazam escribe por separado para cada uno de tus clientes, y después programa y publica por ti. <b>Desde 39 $ al mes, frente a sus 79 $.</b>"
 comparisonGrid: "comparison_blaze"
@@ -76,9 +74,4 @@ faq:
   - q: "¿Cuánto tardaré en empezar a publicar?"
     a:
       - "Cinco minutos para que Bazam lea tu web, cree perfiles y ofertas y conectes tus canales. Después, un mes de contenido lleva diez minutos."
-waitlist:
-  id: "early-access"
-  title: "Pruébalo con tus propios clientes"
-  description: "Dinos a quién vendes. Crearemos el perfil y te enviaremos publicaciones escritas para ese cliente."
-  button: "Solicitar acceso"
 ---

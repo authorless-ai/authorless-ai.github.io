@@ -79,8 +79,7 @@ other = "Häufig gestellte Fragen"
 other = "Anmelden"
 
 [signUp]
-#other = "Registrieren"
-other = "Frühzugang"
+other = "Registrieren"
 
 [learnMore]
 other = "Mehr erfahren"
@@ -98,10 +97,10 @@ other = "Abbrechen"
 other = "Jetzt starten"
 
 [startFreeNow]
-other = "Jetzt kostenlos starten"
+other = "Kostenlos testen"
 
 [startNowFree]
-other = "Jetzt starten &ndash; Kostenlos"
+other = "Kostenlos testen"
 
 [joinOurNewsletter]
 other = "Newsletter abonnieren"
@@ -1316,7 +1315,7 @@ other = "pro Monat, monatlich abgerechnet"
 other = "zzgl. MwSt."
 
 [plan_cta]
-other = "Frühzugang erhalten"
+other = "Kostenlos testen"
 
 [plan_extra_collaboration]
 other = "Zusammenarbeit und Freigaben"

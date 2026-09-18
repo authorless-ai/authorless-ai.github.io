@@ -4,8 +4,6 @@ title: "Marketing that learns who it is talking to"
 translationKey: audience-driven-marketing
 superTitle: "Audience-driven marketing"
 description: "A way to make every campaign more specific than the last: start with the audience, test what matters to them, and put the learning into the next brief."
-ctaText: "Get early access"
-ctaUrl: "#early-access"
 
 heroDescription:
   - "Most AI marketing starts with the message: give it an offer, a vague audience label, and ask for posts. The result can be fluent, fast and completely forgettable."
@@ -145,10 +143,4 @@ faq:
   - q: "Is Bazam an advertising platform?"
     a:
       - "Bazam is a content marketing platform. It helps you build the audience understanding behind a campaign, generate content from it, schedule and publish it across your channels, and keep the learning available for the next brief. Advertising results are one valuable source of audience insight alongside organic content, sales and client feedback."
-
-waitlist:
-  id: "early-access"
-  title: "Build a marketing system that learns"
-  description: "Tell us about your agency and a client you want to start with. We will help you build the first audience models, turn them into campaigns and keep the learning where the next brief can use it."
-  button: "Request early access"
 ---
