@@ -274,8 +274,8 @@ other = "Kostenlose Testversion"
 [fg_pricing__title]
 other = "Tarife vergleichen"
 
-[fg_pricing__starter]
-other = "Einstieg"
+[fg_pricing__solo]
+other = "Solo"
 
 [fg_pricing__growth]
 other = "Wachstum"
@@ -1297,7 +1297,7 @@ other = "Teilen Sie Arbeit, steuern Sie Zugriffe und geben Sie Inhalte vor der V
 
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
-[plan_tagline_starter]
+[plan_tagline_solo]
 other = "Für eine Person, die alles selbst erledigt"
 
 [plan_tagline_growth]

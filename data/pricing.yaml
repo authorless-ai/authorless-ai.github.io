@@ -9,7 +9,7 @@ currency_suffix: ""
 extra_account_monthly: 10
 
 plans:
-  - id: starter     # todo - should be solo probs to align with stripe
+  - id: solo
     monthly: 39
     yearly: 29
     audiences: 3

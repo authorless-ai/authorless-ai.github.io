@@ -280,8 +280,8 @@ other = "Free Trial"
 [fg_pricing__title]
 other = "Compare plans"
 
-[fg_pricing__starter]
-other = "Starter"
+[fg_pricing__solo]
+other = "Solo"
 
 [fg_pricing__growth]
 other = "Growth"
@@ -1297,7 +1297,7 @@ other = "Open main menu"
 
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
-[plan_tagline_starter]
+[plan_tagline_solo]
 other = "For one person doing everything"
 
 [plan_tagline_growth]

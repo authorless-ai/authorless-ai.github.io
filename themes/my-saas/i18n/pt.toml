@@ -274,8 +274,8 @@ other = "Avaliação Gratuita"
 [fg_pricing__title]
 other = "Compare os planos"
 
-[fg_pricing__starter]
-other = "Inicial"
+[fg_pricing__solo]
+other = "Solo"
 
 [fg_pricing__growth]
 other = "Crescimento"
@@ -1297,7 +1297,7 @@ other = "Partilhe trabalho, controle o acesso e aprove antes da publicação."
 
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
-[plan_tagline_starter]
+[plan_tagline_solo]
 other = "Para uma pessoa que faz tudo"
 
 [plan_tagline_growth]

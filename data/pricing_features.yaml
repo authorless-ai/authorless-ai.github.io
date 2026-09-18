@@ -4,8 +4,8 @@ title: "Compare plans"
 subtitle: "Every plan gets the full 30-point audience profile and every content type. Pay for scale, never for features."
 
 columns:
-  - id: starter
-    heading: "Starter"
+  - id: solo
+    heading: "Solo"
   - id: growth
     heading: "Growth"
     highlight: true

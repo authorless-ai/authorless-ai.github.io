@@ -274,8 +274,8 @@ other = "Essai gratuit"
 [fg_pricing__title]
 other = "Comparer les forfaits"
 
-[fg_pricing__starter]
-other = "Essentiel"
+[fg_pricing__solo]
+other = "Solo"
 
 [fg_pricing__growth]
 other = "Croissance"
@@ -1297,7 +1297,7 @@ other = "Partagez le travail, contrôlez les accès et validez avant publication
 
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
-[plan_tagline_starter]
+[plan_tagline_solo]
 other = "Pour une personne qui s’occupe de tout"
 
 [plan_tagline_growth]
