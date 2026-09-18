@@ -2,6 +2,9 @@
   Plan cards for the pricing page. Figures come from data/pricing.yaml, wording
   from the plan_* i18n keys. Must sit inside an element using {{< pricing-data >}}
   as its x-data, which drives the monthly/yearly toggle.
+
+  Each button signs up with the plan's Stripe Price lookup key, `<id>_monthly`
+  or `<id>_yearly`, so those keys must exist on the Stripe prices.
 */ -}}
 {{- $pricing := hugo.Data.pricing -}}
 {{- $check := `<svg class="flex-shrink-0 w-5 h-5 text-green-500 dark:text-green-400" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>` | safeHTML -}}
@@ -18,7 +21,9 @@
       <span x-show="yearly">{{ T "plan_billed_yearly" }}</span>
       <span x-show="!yearly" style="display: none">{{ T "plan_billed_monthly" }}</span>
     </p>
-    <a href="#early-access"
+    <p class="text-xs text-gray-500 dark:text-gray-400">{{ T "plan_tax_note" }}</p>
+    {{- $signup := printf "%s/accounts/signup/?price=%s_" site.Params.appUrl .id }}
+    <a href="{{ $signup }}yearly" :href="'{{ $signup }}' + (yearly ? 'yearly' : 'monthly')"
       class="font-medium rounded-lg text-sm px-5 py-2.5 text-center my-8 focus:ring-4 {{ if .highlight }}text-white bg-primary-600 hover:bg-primary-700 focus:ring-primary-200 dark:focus:ring-primary-900{{ else }}text-white bg-gray-900 hover:bg-gray-700 focus:ring-gray-200 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-500 dark:focus:ring-gray-600{{ end }}">{{ T "plan_cta" }}</a>
     <ul role="list" class="space-y-4 text-left text-gray-900 dark:text-gray-400">
       <li class="flex items-center space-x-3">

@@ -1298,7 +1298,7 @@ other = "Open main menu"
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
 [plan_tagline_solo]
-other = "For one person doing everything"
+other = "For one-person marketing teams"
 
 [plan_tagline_growth]
 other = "For a small marketing team"
@@ -1311,6 +1311,9 @@ other = "per month, billed annually"
 
 [plan_billed_monthly]
 other = "per month, billed monthly"
+
+[plan_tax_note]
+other = "Plus applicable taxes"
 
 [plan_cta]
 other = "Get early access"

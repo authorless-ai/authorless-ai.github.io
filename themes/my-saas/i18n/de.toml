@@ -1298,7 +1298,7 @@ other = "Teilen Sie Arbeit, steuern Sie Zugriffe und geben Sie Inhalte vor der V
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
 [plan_tagline_solo]
-other = "Für eine Person, die alles selbst erledigt"
+other = "Für Ein-Personen-Marketingteams"
 
 [plan_tagline_growth]
 other = "Für ein kleines Marketingteam"
@@ -1311,6 +1311,9 @@ other = "pro Monat, jährlich abgerechnet"
 
 [plan_billed_monthly]
 other = "pro Monat, monatlich abgerechnet"
+
+[plan_tax_note]
+other = "zzgl. MwSt."
 
 [plan_cta]
 other = "Frühzugang erhalten"

@@ -1298,7 +1298,7 @@ other = "Condividi il lavoro, controlla gli accessi e approva prima di pubblicar
 # Pricing plan wording. Figures come from data/pricing.yaml.
 
 [plan_tagline_solo]
-other = "Per una persona che si occupa di tutto"
+other = "Per team marketing di una sola persona"
 
 [plan_tagline_growth]
 other = "Per un piccolo team marketing"
@@ -1311,6 +1311,9 @@ other = "al mese, fatturato annualmente"
 
 [plan_billed_monthly]
 other = "al mese, fatturato mensilmente"
+
+[plan_tax_note]
+other = "IVA esclusa"
 
 [plan_cta]
 other = "Ottieni l’accesso anticipato"
