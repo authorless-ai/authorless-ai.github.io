@@ -11,7 +11,6 @@ heroDescription:
 
 heroExplainer:
   mp4: "/videos/bazam-explainer.mp4"
-  webm: "/videos/bazam-explainer.webm"
   poster: "/images/bazam-explainer-poster.jpg"
   label: "Watch how it works (54s)"
   alt: "Explainer video: Bazam learns your business and your customers, then writes and schedules the right posts for each of them"

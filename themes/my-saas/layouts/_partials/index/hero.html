@@ -61,7 +61,6 @@
         <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4 max-w-2xl mx-auto">
           <div class="explainer relative aspect-video rounded-lg overflow-hidden bg-slate-100">
             <video class="w-full h-full" preload="none" playsinline poster="{{ .poster | absURL }}" aria-label="{{ .alt }}">
-              <source src="{{ .webm | absURL }}" type="video/webm">
               <source src="{{ .mp4 | absURL }}" type="video/mp4">
             </video>
             <button type="button" class="explainer-play group absolute inset-0 flex flex-col items-center justify-center gap-3 w-full h-full cursor-pointer bg-gray-900/10 hover:bg-gray-900/20 transition-colors" aria-label="{{ .label }}">
