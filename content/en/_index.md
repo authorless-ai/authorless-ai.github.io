@@ -9,8 +9,12 @@ heroDescription:
 # todo - add links to pages for influencers, charities, etc. and other 
 #   people who don't 'sell'. On those pages don't talk about buyer profiles
 
-heroVideo: "/videos/personas.mp4"
-heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"
+heroExplainer:
+  mp4: "/videos/bazam-explainer.mp4"
+  webm: "/videos/bazam-explainer.webm"
+  poster: "/images/bazam-explainer-poster.jpg"
+  label: "Watch how it works (54s)"
+  alt: "Explainer video: Bazam learns your business and your customers, then writes and schedules the right posts for each of them"
 
 # ---------------------------------------------------------------------------
 # 2. More than one kind of reader

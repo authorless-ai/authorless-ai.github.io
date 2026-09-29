@@ -1,5 +1,5 @@
 <section class="bg-white dark:bg-gray-900 relative" id="hero">
-  {{ if or .Params.youtubeUrl .Params.heroVideo }}
+  {{ if or .Params.youtubeUrl .Params.heroExplainer .Params.heroVideo }}
   {{/* Two-column layout with video */}}
   <div class="absolute inset-y-0 left-1/2 w-1/2 bg-cover bg-left bg-no-repeat z-0 pointer-events-none"
     {{ with resources.Get "images/bg-blob.png" }}
@@ -56,6 +56,38 @@
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen></iframe>
         </div>
+        {{ else if .Params.heroExplainer }}
+        {{ with .Params.heroExplainer }}
+        <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4 max-w-2xl mx-auto">
+          <div class="explainer relative aspect-video rounded-lg overflow-hidden bg-slate-100">
+            <video class="w-full h-full" preload="none" playsinline poster="{{ .poster | absURL }}" aria-label="{{ .alt }}">
+              <source src="{{ .webm | absURL }}" type="video/webm">
+              <source src="{{ .mp4 | absURL }}" type="video/mp4">
+            </video>
+            <button type="button" class="explainer-play group absolute inset-0 flex flex-col items-center justify-center gap-3 w-full h-full cursor-pointer bg-gray-900/10 hover:bg-gray-900/20 transition-colors" aria-label="{{ .label }}">
+              <span class="flex items-center justify-center w-20 h-20 rounded-full text-white shadow-xl ring-8 ring-white/60 bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to transition-transform group-hover:scale-110">
+                <svg class="w-9 h-9 ml-1" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.14v13.72a1 1 0 0 0 1.5.86l11-6.86a1 1 0 0 0 0-1.72l-11-6.86A1 1 0 0 0 8 5.14z"/></svg>
+              </span>
+              <span class="px-3 py-1 rounded-full bg-white/90 text-sm font-semibold text-gray-900 shadow">{{ .label }}</span>
+            </button>
+          </div>
+        </div>
+        <script>
+          document.querySelectorAll('.explainer').forEach(function (box) {
+            var video = box.querySelector('video');
+            var play = box.querySelector('.explainer-play');
+            play.addEventListener('click', function () {
+              play.style.display = 'none';
+              video.controls = true;
+              video.play();
+            });
+            video.addEventListener('ended', function () {
+              video.controls = false;
+              play.style.display = '';
+            });
+          });
+        </script>
+        {{ end }}
         {{ else if .Params.heroVideo }}
         <div class="backdrop-blur-[54px] bg-white/54 rounded-xl shadow-xl p-4 max-w-2xl mx-auto">
           <video class="mx-auto w-full h-full rounded-lg" src="{{ .Params.heroVideo | absURL }}" autoplay loop muted playsinline aria-label="{{ .Params.heroVideoAlt | default .Title }}"></video>

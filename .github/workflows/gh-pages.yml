@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -31,6 +32,11 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+
+      - name: Fetch media
+        run: gh release download media -R ${{ github.repository }} -D static/videos --clobber
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: Build Hugo site
         run: hugo

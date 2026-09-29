@@ -30,7 +30,7 @@
                       <li>
                         {{ if eq .Identifier "features" }}
                         <button id="features-menu-button" data-collapse-toggle="features-mega-menu"
-                           class="flex items-center justify-between w-full py-2 pr-4 pl-3 font-medium text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:w-auto lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-600 lg:p-0 dark:text-gray-400 lg:dark:hover:text-primary-500 dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
+                           class="flex items-center justify-between w-full py-2 pr-4 pl-3 cursor-pointer font-medium text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:w-auto lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-600 lg:p-0 dark:text-gray-400 lg:dark:hover:text-primary-500 dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
                            aria-controls="features-mega-menu" aria-expanded="false">
                           {{ T (printf "menu_%s" (replace (lower .Name) " " "_")) }}
                           <svg class="w-4 h-4 ml-1.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
