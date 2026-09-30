@@ -9,7 +9,7 @@ description: "Bazam helps SaaS teams create, localise, schedule and learn from c
 heroDescription:
   - "Turn one product story into **channel-ready campaigns for every audience and market**."
   - "Bazam connects content creation, translation, scheduling and performance in one place, so your marketing output can grow without adding another disconnected workflow."
-  - "Use the built-in workspace or bring Bazam's context into **ChatGPT, Claude or another MCP client**."
+#  - "Use the built-in workspace or bring Bazam's context into **ChatGPT, Claude or another MCP client**."
 
 heroExplainer:
   mp4: "/videos/bazam-explainer.mp4"
