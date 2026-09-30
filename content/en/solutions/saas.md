@@ -11,8 +11,11 @@ heroDescription:
   - "Bazam connects content creation, translation, scheduling and performance in one place, so your marketing output can grow without adding another disconnected workflow."
   - "Use the built-in workspace or bring Bazam's context into **ChatGPT, Claude or another MCP client**."
 
-heroVideo: "/videos/personas.mp4"
-heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its detailed buyer profile"
+heroExplainer:
+  mp4: "/videos/bazam-explainer.mp4"
+  poster: "/images/bazam-explainer-poster.jpg"
+  label: "Watch how it works (54s)"
+  alt: "Explainer video: Bazam learns your business and your customers, then writes and schedules the right posts for each of them"
 
 heroBenefits:
   - title: "Create at scale"

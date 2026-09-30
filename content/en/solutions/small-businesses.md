@@ -11,8 +11,11 @@ heroDescription:
   - "Bazam builds <b>detailed profiles of your buyers</b>, then uses them to **write, schedule and publish** to your social media & blog."
   - "Share your customer knowledge, so **anyone on your team can create great content**, not forgettable posts."
 
-heroVideo: "/videos/personas.mp4"
-heroVideoAlt: "The audience list in Bazam, with a persona expanded to show its 30-Point Buyer Profile"
+heroExplainer:
+  mp4: "/videos/bazam-explainer.mp4"
+  poster: "/images/bazam-explainer-poster.jpg"
+  label: "Watch how it works (54s)"
+  alt: "Explainer video: Bazam learns your business and your customers, then writes and schedules the right posts for each of them"
 
 personas:
   title: "Your business has more than one kind of buyer"
