@@ -123,7 +123,7 @@ calendar:
       - { name: "Instagram", icon: "instagram" }
       - { name: "TikTok", icon: "tiktok" }
       - { name: "X", icon: "x" }
-      - { name: "LinkedIn", icon: "linkedin" }
+      # - { name: "LinkedIn", icon: "linkedin" }
       - { name: "WordPress", icon: "wordpress" }
   footer: "Scale the campaign, not the number of tabs your team has to keep open."
 

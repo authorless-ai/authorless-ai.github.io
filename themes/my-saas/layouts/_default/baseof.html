@@ -59,6 +59,7 @@
         {{ partial "nav.html" .}}
     {{ end }}
     <main role="main" class="w-full antialiased mt-20 sm:mt-14">
+      {{ partial "announcement.html" . }}
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "page-footer" . }}{{ end }}

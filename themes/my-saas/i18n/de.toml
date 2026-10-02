@@ -1419,3 +1419,6 @@ other = "{{ .N }} Monate"
 [plan_cell_scheduling_horizon_years]
 one = "{{ .N }} Jahr"
 other = "{{ .N }} Jahre"
+
+[linkedInComingSoon]
+other = "Veröffentlichen auf LinkedIn bald verfügbar"

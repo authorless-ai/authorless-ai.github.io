@@ -88,7 +88,7 @@ calendar:
       - { name: "Instagram", icon: "instagram" }
       - { name: "TikTok", icon: "tiktok" }
       - { name: "X", icon: "x" }
-      - { name: "LinkedIn", icon: "linkedin" }
+      # - { name: "LinkedIn", icon: "linkedin" }
       - { name: "WordPress", icon: "wordpress" }
   footer: "La régularité fait fonctionner le marketing de contenu, mais c'est la première chose qui dérape quand vous êtes débordé. Confiez-la-nous."
 

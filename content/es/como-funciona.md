@@ -32,7 +32,7 @@ calendar:
       - { name: "Instagram", icon: "instagram" }
       - { name: "TikTok", icon: "tiktok" }
       - { name: "X", icon: "x" }
-      - { name: "LinkedIn", icon: "linkedin" }
+      # - { name: "LinkedIn", icon: "linkedin" }
       - { name: "WordPress", icon: "wordpress" }
   footer: "Publicar con constancia hace funcionar el marketing de contenidos y es lo primero que se abandona cuando falta tiempo."
 comparisonGrid: "comparison_generic"

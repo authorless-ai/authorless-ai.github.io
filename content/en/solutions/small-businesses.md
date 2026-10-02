@@ -98,7 +98,7 @@ calendar:
       - { name: "Instagram", icon: "instagram" }
       - { name: "TikTok", icon: "tiktok" }
       - { name: "X", icon: "x" }
-      - { name: "LinkedIn", icon: "linkedin" }
+      # - { name: "LinkedIn", icon: "linkedin" }
       - { name: "WordPress", icon: "wordpress" }
   footer: "Consistency matters, but consistency without relevance is just noise. Bazam handles both."
 

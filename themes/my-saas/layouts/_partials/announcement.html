@@ -1,0 +1,6 @@
+{{- /* Site-wide stripe under the nav. site.Params.announcement names its i18n key; unset it to remove the stripe. */ -}}
+{{- with site.Params.announcement }}
+<div class="w-full px-4 pt-3 pb-2 text-sm font-medium text-center text-white bg-hero-gradient-via" role="status">
+  {{ T . }}
+</div>
+{{- end }}

@@ -26,7 +26,8 @@ calendar:
     - { title: "Nada vai ao ar sem aprovação", description: "Ative aprovações e tudo aguardará o sinal verde. Os clientes revisam no próprio portal sem ver sua senha." }
   logos:
     title: "Agende e publique em"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "Publicar com consistência faz o marketing de conteúdo funcionar e é a primeira coisa abandonada quando falta tempo."
 comparisonGrid: "comparison_generic"
 features:

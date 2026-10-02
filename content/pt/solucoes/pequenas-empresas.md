@@ -60,7 +60,8 @@ calendar:
     - { title: "Mantém o controlo", description: "Reveja cada publicação antes de ficar online ou aprove uma campanha completa quando estiver satisfeito." }
   logos:
     title: "Agenda e publica em"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "A consistência importa, mas consistência sem relevância é apenas ruído. A Bazam trata de ambas."
 evidence:
   title: "Melhores palavras superam melhor segmentação numa proporção de cinco para um."

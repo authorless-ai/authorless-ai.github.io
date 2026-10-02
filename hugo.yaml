@@ -21,6 +21,7 @@ params:
       url: https://www.instagram.com/bazam.ai/
       icon: instagram
   signupUrl: https://app.bazam.ai/accounts/signup/
+  announcement: linkedInComingSoon
 
 services:
   googleAnalytics:

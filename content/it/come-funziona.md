@@ -26,7 +26,8 @@ calendar:
     - { title: "Nulla viene pubblicato senza approvazione", description: "Attiva le approvazioni e tutto aspetterà il via libera. I clienti revisionano nel proprio portale senza vedere password." }
   logos:
     title: "Pianifica e pubblica su"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "Pubblicare con costanza fa funzionare il content marketing ed è la prima cosa che si abbandona quando manca tempo."
 comparisonGrid: "comparison_generic"
 features:

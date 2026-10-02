@@ -88,7 +88,7 @@ calendar:
       - { name: "Instagram", icon: "instagram" }
       - { name: "TikTok", icon: "tiktok" }
       - { name: "X", icon: "x" }
-      - { name: "LinkedIn", icon: "linkedin" }
+      # - { name: "LinkedIn", icon: "linkedin" }
       - { name: "WordPress", icon: "wordpress" }
   footer: "Regelmäßiges Veröffentlichen macht Content-Marketing wirksam – und fällt bei Zeitdruck zuerst aus. Überlassen Sie es uns."
 

@@ -89,8 +89,8 @@ calendar:
       icon: tiktok
     - name: X
       icon: x
-    - name: LinkedIn
-      icon: linkedin
+    # - name: LinkedIn
+      # icon: linkedin
     - name: WordPress
       icon: wordpress
   footer: Publicar de forma consistente é o que faz o marketing de conteúdo funcionar e é a primeira coisa que escapa quando você está ocupado. Deixe-nos lidar com isso.

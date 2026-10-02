@@ -60,7 +60,8 @@ calendar:
     - { title: "Sie behalten die Kontrolle", description: "Prüfen Sie jeden Beitrag oder geben Sie eine ganze Kampagne frei." }
   logos:
     title: "Planen und veröffentlichen auf"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "Regelmäßigkeit zählt, doch ohne Relevanz erzeugt sie nur Lärm. Bazam kümmert sich um beides."
 evidence:
   title: "Eine bessere Botschaft schlägt besseres Targeting im Verhältnis fünf zu eins."

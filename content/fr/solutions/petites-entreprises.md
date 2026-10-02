@@ -60,7 +60,8 @@ calendar:
     - { title: "Vous gardez le contrôle", description: "Relisez chaque publication avant sa sortie ou validez toute une campagne lorsque vous êtes satisfait." }
   logos:
     title: "Planifiez et publiez sur"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "La régularité compte, mais la régularité sans pertinence ne crée que du bruit. Bazam s’occupe des deux."
 evidence:
   title: "Un meilleur message surpasse un meilleur ciblage dans un rapport de cinq à un."

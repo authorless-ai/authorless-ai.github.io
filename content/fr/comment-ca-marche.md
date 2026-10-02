@@ -26,7 +26,8 @@ calendar:
     - { title: "Rien n’est publié sans validation", description: "Activez les validations : tout attendra le feu vert. Les clients relisent dans leur portail sans voir votre mot de passe." }
   logos:
     title: "Planifiez et publiez sur"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "La régularité fait fonctionner le marketing de contenu, et c’est la première chose abandonnée lorsque le temps manque."
 comparisonGrid: "comparison_generic"
 features:

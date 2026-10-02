@@ -26,7 +26,8 @@ calendar:
     - { title: "Ohne Freigabe geht nichts live", description: "Aktivieren Sie Freigaben: Alles wartet auf Zustimmung. Kunden prüfen in ihrem Portal, ohne Ihr Passwort zu sehen." }
   logos:
     title: "Planen und veröffentlichen auf"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "Regelmäßiges Veröffentlichen macht Content-Marketing wirksam – und fällt bei Zeitmangel als Erstes weg."
 comparisonGrid: "comparison_generic"
 features:

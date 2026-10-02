@@ -54,7 +54,8 @@ calendar:
   points: [{ title: "Trascina, rilascia, fatto", description: "Aggiungi il contenuto al calendario mentre lo crei e spostalo quando il piano cambia." }, { title: "Sei piattaforme, una coda", description: "Ogni canale riceve una versione propria con testo, tono e formato già adattati." }, { title: "Mantieni il controllo", description: "Revisiona ogni post o approva un’intera campagna." }]
   logos:
     title: "Pianifica e pubblica su"
-    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    # items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "LinkedIn", icon: "linkedin" }, { name: "WordPress", icon: "wordpress" }]
+    items: [{ name: "Facebook", icon: "facebook" }, { name: "Instagram", icon: "instagram" }, { name: "TikTok", icon: "tiktok" }, { name: "X", icon: "x" }, { name: "WordPress", icon: "wordpress" }]
   footer: "La costanza conta, ma senza rilevanza crea solo rumore. Bazam si occupa di entrambe."
 evidence:
   title: "Un messaggio migliore supera un targeting migliore di cinque a uno."

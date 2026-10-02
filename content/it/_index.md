@@ -89,8 +89,8 @@ calendar:
       icon: tiktok
     - name: X
       icon: x
-    - name: LinkedIn
-      icon: linkedin
+    # - name: LinkedIn
+      # icon: linkedin
     - name: WordPress
       icon: wordpress
   footer: Pubblicare in modo coerente è ciò che fa funzionare il content marketing ed è la prima cosa che sfugge quando sei occupato. Gestiamolo.
