@@ -1314,6 +1314,9 @@ other = "par mois, facturé mensuellement"
 [plan_tax_note]
 other = "Hors taxes"
 
+[plan_tax_note_uk_vat]
+other = "TVA britannique de {{ .Rate }} % incluse"
+
 [plan_cta]
 other = "Commencer l’essai gratuit"
 

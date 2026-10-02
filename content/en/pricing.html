@@ -10,10 +10,10 @@ faq:
   - q: "What counts as an AI credit?"
     a:
     - "Roughly one credit per piece of content. Generating a social post, a blog section, an image, or a set of suggestions all draw from the same pool, with the heavier features costing more than the light ones."
-    - "You can see your balance in your account at any time, and buy more whenever you need them."
+    - "You can buy more whenever you need them."
   - q: "What happens if I run out of credits?"
     a:
-    - "Nothing breaks, you just top up. Every plan includes an allowance of credits, and you can buy additional credits on demand from inside your account."
+    - "You can top up when you need to. Every plan includes an allowance of credits, and you can buy additional credits on demand from inside your account."
     - "Credits included in your plan don't carry over to your next billing period, but credits you buy separately roll over and stay available for 12 months from purchase."
   - q: "Can I change plan later?"
     a:
@@ -21,11 +21,7 @@ faq:
     - "If you outgrow a plan mid-month, you don't need to wait for a renewal date."
   - q: "Can I cancel?"
     a:
-    - "Whenever you like. You keep full access to your account, your audience profiles and your remaining credits until the end of the billing period you've already paid for, and you won't be charged again after that."
-  - q: "Do your prices include tax?"
-    a:
-    - "No. Prices are shown without VAT or sales tax. Any tax due is added at checkout based on your billing address, and you'll see it before you pay."
-    - "If you're a business in the EU with a valid VAT number, enter it at checkout. The reverse charge then applies and no VAT is added."
+    - "Yes, whenever you like. You keep full access to your account, your audience profiles and your remaining credits until the end of the billing period you've already paid for, and you won't be charged again after that."
   - q: "Do I need a card to start the free trial?"
     a:
     - "No. Sign up, pick a plan and start using Bazam straight away. You only add payment details if you decide to keep going when the trial ends."
@@ -33,7 +29,7 @@ faq:
 <section class="bg-white dark:bg-gray-900" x-data="{{< pricing-data >}}">
   <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
     <h1 class="logo-font mx-auto text-center lg:mb-8 mb-4 pb-2 text-4xl font-extrabold tracking-tight leading-none text-transparent bg-clip-text bg-gradient-to-br from-hero-gradient-from via-hero-gradient-via to-hero-gradient-to md:text-5xl lg:text-6xl dark:text-white">
-      From {{< plan-price >}} a month
+      From <span x-text="vat ? plans.solo.yearlyVat : plans.solo.yearly">{{< plan-price >}}</span> a month
     </h1>
     <div class="max-w-3xl mx-auto mb-8 text-center lg:mb-12">
       <p class="mt-4 text-gray-500 sm:text-xl dark:text-gray-400">
@@ -52,6 +48,21 @@ faq:
         <span class="text-xl text-gray-900 font-bold dark:text-white hover:cursor-pointer" :class="{ 'text-gray-500 font-normal': !yearly }"
           @click="yearly = !yearly">
           Yearly <span class="text-base font-normal text-primary-600">(save ~20%)</span>
+        </span>
+      </div>
+
+      <div class="flex items-center justify-center mt-4 space-x-3">
+        <span class="text-base text-gray-500 dark:text-gray-400 hover:cursor-pointer" :class="{ 'text-gray-900 dark:text-white font-bold': !vat }"
+          @click="vat = false">
+          Ex VAT
+        </span>
+        <label class="inline-flex items-center cursor-pointer">
+          <input type="checkbox" value="" class="sr-only peer" x-model="vat" aria-label="Show prices including UK VAT">
+          <div class="relative w-9 h-5 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-gray-700 peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all dark:border-gray-600 peer-checked:bg-blue-600 dark:peer-checked:bg-blue-600"></div>
+        </label>
+        <span class="text-base text-gray-500 dark:text-gray-400 hover:cursor-pointer" :class="{ 'text-gray-900 dark:text-white font-bold': vat }"
+          @click="vat = true">
+          Inc. UK VAT
         </span>
       </div>
     </div>

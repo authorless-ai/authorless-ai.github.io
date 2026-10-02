@@ -1314,6 +1314,9 @@ other = "per month, billed monthly"
 [plan_tax_note]
 other = "Plus applicable taxes"
 
+[plan_tax_note_uk_vat]
+other = "Includes UK VAT at {{ .Rate }}%"
+
 [plan_cta]
 other = "Start free trial"
 

@@ -7,6 +7,8 @@
 currency_prefix: "£"
 currency_suffix: ""
 extra_account_monthly: 10
+# UK VAT percentage, used by the "inc. UK VAT" toggle on the English pricing page
+uk_vat_rate: 20
 
 plans:
   # ensure yearly < monthly price (e.g. 20% cheaper than monthly to encourage annual signups)

@@ -1,0 +1,2 @@
+{{- /* Adds UK VAT (uk_vat_rate in data/pricing.yaml) to an amount, rounded to the penny. Usage: partial "pricing/inc-vat.html" 29 */ -}}
+{{- return div (math.Round (mul . (add 100 hugo.Data.pricing.uk_vat_rate))) 100.0 -}}

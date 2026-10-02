@@ -1314,6 +1314,9 @@ other = "pro Monat, monatlich abgerechnet"
 [plan_tax_note]
 other = "zzgl. MwSt."
 
+[plan_tax_note_uk_vat]
+other = "inkl. {{ .Rate }} % britischer MwSt."
+
 [plan_cta]
 other = "Kostenlos testen"
 

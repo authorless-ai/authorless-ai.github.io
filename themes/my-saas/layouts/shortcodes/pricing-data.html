@@ -1,12 +1,21 @@
 {{ $pricing := hugo.Data.pricing }}{
   yearly: true,
+  vat: false,
   plans: {
     {{- range $pricing.plans }}
     {{ .id }}: {
       monthly: '{{ partial "pricing/price.html" .monthly }}',
-      yearly: '{{ partial "pricing/price.html" .yearly }}'
+      yearly: '{{ partial "pricing/price.html" .yearly }}',
+      monthlyVat: '{{ partial "pricing/price.html" (partial "pricing/inc-vat.html" .monthly) }}',
+      yearlyVat: '{{ partial "pricing/price.html" (partial "pricing/inc-vat.html" .yearly) }}'
     },
     {{- end }}
+  },
+  extraAccount: '{{ partial "pricing/price.html" $pricing.extra_account_monthly }}',
+  extraAccountVat: '{{ partial "pricing/price.html" (partial "pricing/inc-vat.html" $pricing.extra_account_monthly) }}',
+  price(id) {
+    const p = this.plans[id];
+    return this.yearly ? (this.vat ? p.yearlyVat : p.yearly) : (this.vat ? p.monthlyVat : p.monthly);
   },
   formatPrice(price) {
     return price;

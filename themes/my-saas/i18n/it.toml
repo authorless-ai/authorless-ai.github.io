@@ -1314,6 +1314,9 @@ other = "al mese, fatturato mensilmente"
 [plan_tax_note]
 other = "IVA esclusa"
 
+[plan_tax_note_uk_vat]
+other = "IVA britannica al {{ .Rate }}% inclusa"
+
 [plan_cta]
 other = "Inizia la prova gratuita"
 

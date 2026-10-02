@@ -1315,6 +1315,9 @@ other = "al mes, facturado mensualmente"
 [plan_tax_note]
 other = "Impuestos no incluidos"
 
+[plan_tax_note_uk_vat]
+other = "IVA del Reino Unido ({{ .Rate }} %) incluido"
+
 [plan_cta]
 other = "Empieza tu prueba gratuita"
 
