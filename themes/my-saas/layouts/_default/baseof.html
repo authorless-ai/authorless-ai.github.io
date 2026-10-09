@@ -21,6 +21,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
+    <link rel="icon" href="/favicon.ico" sizes="48x48">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
     {{ partial "styles.html" . }}
 
     {{ if .Params.canonicalUrl }}
@@ -31,17 +36,17 @@
 
     {{- partial "hreflang.html" . -}}
 
-    {{- if not .Params.images -}}
-      {{- $logo := resources.Get "images/logo.png" -}}
-      {{- with $logo -}}
-        <meta property="og:image" content="{{ printf "%s%s" (strings.TrimRight "/" $.Site.BaseURL) .RelPermalink }}">
-      {{- end -}}
-    {{- end -}}
-
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
+    {{- if not .Params.images -}}
+      {{- $alt := "Bazam logo with the tagline Marketing for busy people" -}}
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:alt" content="{{ $alt }}">
+      <meta name="twitter:image:alt" content="{{ $alt }}">
+    {{- end -}}
     {{- partial "json-ld-org.html" . -}}
     {{- partial "json-ld-breadcrumb.html" . -}}
 

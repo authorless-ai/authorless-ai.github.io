@@ -11,6 +11,8 @@ theme: 'my-saas'
 
 params:
   author: Bazam
+  images:
+    - images/og-default.png
   appUrl: https://app.bazam.ai
   recaptchaPublicKey: 6LenXWAsAAAAAIkP88QQKb2IKeKbhRgTh7XfDR7L
   privacyPolicy: https://app.bazam.ai/pages/legals/privacy-policy/
