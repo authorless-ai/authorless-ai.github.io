@@ -1,0 +1,23 @@
+{{- /*
+  Plan cards showing founding-member prices, worked out from data/pricing.yaml
+  so they follow any change to list prices.
+  Usage: {{< founding-prices discount="40" >}}
+*/ -}}
+{{- $pricing := hugo.Data.pricing -}}
+{{- $discount := float (.Get "discount" | default 40) -}}
+{{- $factor := sub 1 (div $discount 100) -}}
+<div class="grid gap-6 mt-8 md:grid-cols-3 lg:gap-8">
+  {{- range $pricing.plans }}
+  {{- $yearly := div (math.Round (mul .yearly $factor 100)) 100 }}
+  {{- $monthly := div (math.Round (mul .monthly $factor 100)) 100 }}
+  <article class="flex flex-col p-6 text-center bg-white border rounded-lg shadow dark:bg-gray-800 {{ if .highlight }}border-primary-600 dark:border-primary-500{{ else }}border-gray-200 dark:border-gray-700{{ end }}">
+    <h3 class="mb-1 text-2xl font-medium text-gray-900 dark:text-white">{{ T (printf "fg_pricing__%s" .id) }}</h3>
+    <p class="mb-4 text-sm text-gray-500 dark:text-gray-400">{{ T (printf "plan_tagline_%s" .id) }}</p>
+    <p class="text-lg text-gray-400 line-through dark:text-gray-500">{{ partial "pricing/price.html" .yearly }}</p>
+    <p class="text-5xl font-extrabold text-gray-900 dark:text-white">{{ partial "pricing/price.html" $yearly }}</p>
+    <p class="mt-3 text-gray-500 dark:text-gray-400">{{ T "plan_billed_yearly" }}</p>
+    <p class="mt-1 text-sm text-gray-500 dark:text-gray-400">{{ partial "pricing/price.html" $monthly }} {{ T "plan_billed_monthly" }}</p>
+  </article>
+  {{- end }}
+</div>
+<p class="mt-6 text-xs text-gray-500 dark:text-gray-400">{{ T "plan_tax_note" }}</p>
