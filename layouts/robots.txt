@@ -1,0 +1,18 @@
+{{- if eq hugo.Environment "production" -}}
+# FAQ pages are written for AI assistants and answer engines, not Google Search.
+User-agent: Googlebot
+Disallow: /faqs/
+Disallow: /de/faqs/
+Disallow: /es/faqs/
+Disallow: /fr/faqs/
+Disallow: /it/faqs/
+Disallow: /pt/faqs/
+
+User-agent: *
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{- else -}}
+User-agent: *
+Disallow: /
+{{- end }}
