@@ -6,6 +6,7 @@ build:
   writeStats: true
 
 locale: 'en-us'
+enableGitInfo: true
 enableRobotsTXT: true
 title: 'Bazam'
 theme: 'my-saas'
