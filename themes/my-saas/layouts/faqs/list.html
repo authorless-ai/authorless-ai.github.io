@@ -3,7 +3,7 @@
 {{ partial "faqs/section-nav" (dict "item" . "sectionPage" . ) }}
 
 {{ $paginator := 0 }}
-{{ if eq .CurrentSection .FirstSection }}
+{{ if eq .CurrentSection (.Site.GetPage "/llm/faqs") }}
   {{ $paginator = (.Paginate .RegularPagesRecursive).Pages }}
 {{ else }}
   {{ $paginator = .Paginator.Pages }}

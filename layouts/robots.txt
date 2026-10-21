@@ -1,12 +1,13 @@
 {{- if eq hugo.Environment "production" -}}
-# FAQ pages are written for AI assistants and answer engines, not Google Search.
+# FAQ pages are written for AI assistants and answer engines, not Google or Bing Search.
 User-agent: Googlebot
-Disallow: /faqs/
-Disallow: /de/faqs/
-Disallow: /es/faqs/
-Disallow: /fr/faqs/
-Disallow: /it/faqs/
-Disallow: /pt/faqs/
+User-agent: Bingbot
+Disallow: /llm/
+Disallow: /de/llm/
+Disallow: /es/llm/
+Disallow: /fr/llm/
+Disallow: /it/llm/
+Disallow: /pt/llm/
 
 User-agent: *
 Allow: /
