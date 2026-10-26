@@ -19,7 +19,7 @@ featureList:
       icon: users
       points:
         - description: "Select the <b>audience profile</b> each piece is for."
-        - description: "Choose a practical, emotional or persuasive angle to change how the message lands."
+        - description: "Choose a practical, emotional or persuasive angle to change how the message comes across."
         - description: "Keep the message specific while the brand voice stays consistent."
     - iconColor: "primary"
       title: "Edit and illustrate"

@@ -7,6 +7,10 @@
   "url" .Site.BaseURL
 -}}
 
+{{- with .Site.Params.socials -}}
+  {{- $data = merge $data (dict "sameAs" (slice | append (apply . "index" "." "url"))) -}}
+{{- end -}}
+
 {{- with $logo -}}
   {{- $logoObj := dict "@type" "ImageObject" "url" (printf "%s%s" (strings.TrimRight "/" $.Site.BaseURL) .RelPermalink) -}}
   {{- $data = merge $data (dict "logo" $logoObj) -}}

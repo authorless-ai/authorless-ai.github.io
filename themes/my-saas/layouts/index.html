@@ -59,6 +59,7 @@
   {{ $js = $js | fingerprint }}
   <script src="{{ $js.RelPermalink }}"></script>
 
+  {{/* Language redirect, disabled while the site is English only.
   <script type="text/javascript">
   if (window.location.pathname === '/') {
     const supportedLangs = [{{ range hugo.Sites }}"{{ .Language.Lang }}",{{ end }}];
@@ -81,4 +82,6 @@
     }
   }
   </script>
+  */}}
+
 {{ end }}

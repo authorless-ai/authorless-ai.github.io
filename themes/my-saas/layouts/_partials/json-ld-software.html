@@ -1,0 +1,30 @@
+{{- $pricing := hugo.Data.pricing -}}
+{{- $offers := slice -}}
+{{- range $pricing.plans -}}
+  {{- $monthly := printf "%.2f" (float .monthly) -}}
+  {{- $yearly := printf "%.2f" (float .yearly) -}}
+  {{- $offers = $offers | append (dict
+    "@type" "Offer"
+    "name" (T (printf "fg_pricing__%s" .id))
+    "description" (printf "£%s a month billed monthly, or £%s a month billed yearly, excluding VAT." $monthly $yearly)
+    "price" $monthly
+    "priceCurrency" "GBP"
+    "url" (absURL "pricing/")
+    "availability" "https://schema.org/InStock"
+  ) -}}
+{{- end -}}
+
+{{- $data := dict
+  "@context" "https://schema.org"
+  "@type" "SoftwareApplication"
+  "name" .Site.Title
+  "url" .Site.BaseURL
+  "applicationCategory" "BusinessApplication"
+  "operatingSystem" "Web"
+  "description" .Description
+  "offers" $offers
+-}}
+
+<script type="application/ld+json">
+{{ $data | jsonify (dict "indent" "  ") | safeJS }}
+</script>

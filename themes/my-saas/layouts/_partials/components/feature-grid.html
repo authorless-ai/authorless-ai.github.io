@@ -36,12 +36,13 @@
       {{ end }}
     </div>
 
-    {{/* ===== Desktop Table (lg+) ===== */}}
-    <div class="hidden lg:block overflow-x-auto">
-      <table class="w-full text-left border-collapse">
-        <thead>
+    {{/* One table for every screen size. Below lg the rows become stacked cards
+         and each value cell is labelled with its column name from data-label. */}}
+    <div class="lg:overflow-x-auto">
+      <table class="block w-full text-left border-collapse lg:table">
+        <thead class="hidden lg:table-header-group">
           <tr>
-            <th class="py-4 px-6 text-sm font-medium text-gray-500 dark:text-gray-400 w-1/{{ $colCount }}"></th>
+            <th class="py-4 px-6 text-sm font-medium text-gray-500 dark:text-gray-400 w-1/{{ $colCount }}"><span class="sr-only">Feature</span></th>
             {{ range $columns }}
               {{ $colKey := printf "%s__%s" $prefix .id }}
               <th class="py-4 px-6 text-center text-sm font-semibold uppercase tracking-wider w-1/{{ $colCount }}
@@ -56,24 +57,24 @@
             {{ end }}
           </tr>
         </thead>
-        <tbody>
+        <tbody class="block space-y-3 lg:table-row-group lg:space-y-0">
           {{ range $grid.sections }}
             {{ $secId := .id }}
             {{ $secKey := printf "%s__%s" $prefix $secId }}
             {{/* Section header row */}}
-            <tr>
-              <td colspan="{{ $colCount }}" class="pt-8 pb-3 px-6">
+            <tr class="block pt-5 lg:table-row lg:pt-0">
+              <td colspan="{{ $colCount }}" class="block pb-1 lg:table-cell lg:pt-8 lg:pb-3 lg:px-6">
                 <span class="text-xs font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500">
                   {{ T $secKey }}
                 </span>
-                <div class="mt-2 border-b border-gray-200 dark:border-gray-700"></div>
+                <div class="hidden mt-2 border-b border-gray-200 lg:block dark:border-gray-700"></div>
               </td>
             </tr>
             {{ range .rows }}
               {{ $rowId := .id }}
               {{ $featureKey := printf "%s__%s__%s" $prefix $secId $rowId }}
-              <tr class="border-b border-gray-100 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-800/50 transition-colors">
-                <td class="py-4 px-6 font-medium text-gray-900 dark:text-white">
+              <tr class="grid grid-cols-{{ len $columns }} gap-2 p-4 bg-gray-50 rounded-lg dark:bg-gray-800 lg:table-row lg:p-0 lg:bg-transparent lg:rounded-none lg:border-b lg:border-gray-100 lg:dark:border-gray-800 lg:hover:bg-gray-50 lg:dark:hover:bg-gray-800/50 lg:transition-colors">
+                <th scope="row" class="col-span-full mb-1 text-left font-medium text-gray-900 lg:table-cell lg:mb-0 lg:py-4 lg:px-6 dark:text-white">
                   {{ T $featureKey }}
                   {{ if .desc }}
                     {{ $descKey := printf "%s__%s__%s__desc" $prefix $secId $rowId }}
@@ -81,24 +82,23 @@
                       {{ T $descKey $descParams }}
                     </p>
                   {{ end }}
-                </td>
+                </th>
                 {{ $cells := partial "components/feature-grid-values.html" (dict "grid" $grid "sectionId" $secId "row" .) }}
                 {{ range $colIdx, $val := $cells }}
                   {{ $col := index $columns $colIdx }}
-                  <td class="py-4 px-6 text-center
+                  {{ $colKey := printf "%s__%s" $prefix $col.id }}
+                  <td data-label="{{ T $colKey }}" class="p-2 text-center rounded before:block before:mb-1 before:text-xs before:font-medium before:text-gray-500 before:content-[attr(data-label)] dark:before:text-gray-400 lg:table-cell lg:py-4 lg:px-6 lg:rounded-none lg:before:hidden
                     {{ if $col.highlight }}
-                      bg-primary-50/50 dark:bg-primary-900/10
+                      bg-primary-50 dark:bg-primary-900/20 lg:bg-primary-50/50 lg:dark:bg-primary-900/10
                     {{ end }}
                   ">
                     <div class="flex flex-col items-center gap-1">
                       {{ if isset $val "check" }}
                         {{ if $val.check }}
-                          {{/* Green checkmark */}}
                           <svg class="w-6 h-6 text-green-600 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
                             <path fill-rule="evenodd" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12Zm13.707-1.293a1 1 0 0 0-1.414-1.414L11 12.586l-1.793-1.793a1 1 0 0 0-1.414 1.414l2.5 2.5a1 1 0 0 0 1.414 0l4-4Z" clip-rule="evenodd"/>
                           </svg>
                         {{ else }}
-                          {{/* Em dash */}}
                           <svg class="w-6 h-6 text-red-600 dark:text-red-300" aria-hidden="true"
                                xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                                viewBox="0 0 24 24">
@@ -109,7 +109,7 @@
                         {{ end }}
                       {{ end }}
                       {{ with $val.label }}
-                        <span class="text-base text-gray-700 dark:text-gray-300">
+                        <span class="text-sm text-gray-700 lg:text-base dark:text-gray-300">
                           {{ . }}
                         </span>
                       {{ end }}
@@ -121,70 +121,6 @@
           {{ end }}
         </tbody>
       </table>
-    </div>
-
-    {{/* ===== Mobile Layout (< lg) ===== */}}
-    <div class="lg:hidden space-y-6">
-      {{ range $grid.sections }}
-        {{ $secId := .id }}
-        {{ $secKey := printf "%s__%s" $prefix $secId }}
-        <div>
-          <h3 class="text-xs font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500 mb-3">
-            {{ T $secKey }}
-          </h3>
-          <div class="space-y-3">
-            {{ range .rows }}
-              {{ $rowId := .id }}
-              {{ $featureKey := printf "%s__%s__%s" $prefix $secId $rowId }}
-              <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
-                <h4 class="font-medium text-gray-900 dark:text-white mb-3">
-                  {{ T $featureKey }}
-                  {{ if .desc }}
-                    {{ $descKey := printf "%s__%s__%s__desc" $prefix $secId $rowId }}
-                    <p class="text-sm font-normal text-gray-500 dark:text-gray-400 mt-0.5">
-                      {{ T $descKey $descParams }}
-                    </p>
-                  {{ end }}
-                </h4>
-                <div class="grid grid-cols-{{ len $columns }} gap-2">
-                  {{ $cells := partial "components/feature-grid-values.html" (dict "grid" $grid "sectionId" $secId "row" .) }}
-                  {{ range $colIdx, $val := $cells }}
-                    {{ $col := index $columns $colIdx }}
-                    {{ $colKey := printf "%s__%s" $prefix $col.id }}
-                    <div class="text-center p-2 rounded
-                      {{ if $col.highlight }}
-                        bg-primary-50 dark:bg-primary-900/20
-                      {{ end }}
-                    ">
-                      <div class="text-xs font-medium text-gray-500 dark:text-gray-400 mb-1">
-                        {{ T $colKey }}
-                      </div>
-                      <div class="flex flex-col items-center gap-1">
-                        {{ if isset $val "check" }}
-                          {{ if $val.check }}
-                            <svg class="w-6 h-6 text-green-500 dark:text-green-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
-                              <path fill-rule="evenodd" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12Zm13.707-1.293a1 1 0 0 0-1.414-1.414L11 12.586l-1.793-1.793a1 1 0 0 0-1.414 1.414l2.5 2.5a1 1 0 0 0 1.414 0l4-4Z" clip-rule="evenodd"/>
-                            </svg>
-                          {{ else }}
-                            <svg class="w-6 h-6 text-red-600 dark:text-red-300" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
-                              <path fill-rule="evenodd" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12Zm7.707-3.707a1 1 0 0 0-1.414 1.414L10.586 12l-2.293 2.293a1 1 0 1 0 1.414 1.414L12 13.414l2.293 2.293a1 1 0 0 0 1.414-1.414L13.414 12l2.293-2.293a1 1 0 0 0-1.414-1.414L12 10.586 9.707 8.293Z" clip-rule="evenodd"/>
-                            </svg>
-                          {{ end }}
-                        {{ end }}
-                        {{ with $val.label }}
-                          <span class="text-xs text-gray-500 dark:text-gray-400">
-                            {{ . }}
-                          </span>
-                        {{ end }}
-                      </div>
-                    </div>
-                  {{ end }}
-                </div>
-              </div>
-            {{ end }}
-          </div>
-        </div>
-      {{ end }}
     </div>
 
     {{/* Optional CTA */}}

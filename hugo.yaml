@@ -40,31 +40,31 @@ languages:
     weight: 1
   fr:
     contentDir: 'content/fr'
-    disabled: false
+    disabled: true
     locale: 'fr'
     label: 'Français'
     weight: 2
   es:
     contentDir: 'content/es'
-    disabled: false
+    disabled: true
     locale: 'es'
     label: 'Español'
     weight: 3
   de:
     contentDir: 'content/de'
-    disabled: false
+    disabled: true
     locale: 'de'
     label: 'Deutsch'
     weight: 4
   pt:
     contentDir: 'content/pt'
-    disabled: false
+    disabled: true
     locale: 'pt'
     label: 'Português'
     weight: 5
   it:
     contentDir: 'content/it'
-    disabled: false
+    disabled: true
     locale: 'it'
     label: 'Italiano'
     weight: 6

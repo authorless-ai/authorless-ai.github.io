@@ -1,0 +1,28 @@
+{{ define "main" }}
+  {{ partial "index/hero.html" . }}
+
+  {{ range $i, $group := .Params.groups }}
+  <section class="{{ if modBool $i 2 }}bg-gray-50{{ else }}bg-white{{ end }} dark:bg-gray-900">
+    <div class="px-4 py-8 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+      <h2 class="mb-2 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white">{{ $group.title }}</h2>
+      <p class="mb-8 text-lg text-gray-500 dark:text-gray-400">{{ $group.intro }}</p>
+      <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {{ range $group.items }}
+        <div class="flex flex-col p-6 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
+          <h3 class="mb-3 text-2xl font-bold text-gray-900 dark:text-white">
+            <a href="{{ .url }}" class="hover:underline">{{ .title }}</a>
+          </h3>
+          <p class="mb-4 text-gray-600 dark:text-gray-400">{{ .text }}</p>
+          <a href="{{ .url }}" class="mt-auto font-medium text-primary-600">Read about {{ .title | lower }} →</a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+{{ define "scripts" }}
+  {{ $js := resources.Get "js/scroll-reveal.js" | fingerprint }}
+  <script src="{{ $js.RelPermalink }}"></script>
+{{ end }}

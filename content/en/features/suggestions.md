@@ -41,7 +41,7 @@ features:
       - title: "Based on your audience"
         description: "Generate topics around the problems, motivations and interests that matter to them."
       - title: "Based on your brand"
-        description: "Keep ideas relevant to what you actually sell and the position you want to own."
+        description: "Keep ideas relevant to what you sell and the position you want to own."
       - title: "Based on your goal"
         description: "Ask for ideas that attract attention, educate, persuade or prompt action."
   - title: "Turn a loose idea into an organised content plan"

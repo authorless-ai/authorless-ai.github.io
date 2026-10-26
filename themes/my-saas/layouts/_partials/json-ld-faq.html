@@ -7,10 +7,10 @@
     {{- if $index }},{{ end }}
     {
       "@type": "Question",
-      "name": {{ $item.q | jsonify }},
+      "name": {{ $item.q | plainify | htmlUnescape | jsonify | safeJS }},
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": {{ delimit $item.a " " | plainify | jsonify }}
+        "text": {{ delimit $item.a " " | markdownify | plainify | htmlUnescape | jsonify | safeJS }}
       }
     }
     {{- end }}

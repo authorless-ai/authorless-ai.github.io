@@ -96,6 +96,9 @@
                     </li>
                     {{ end }}
                   {{ end }}
+                    <li class="mb-4">
+                        <a href="{{ "features/" | relURL }}" class="hover:underline">All features</a>
+                    </li>
                 </ul>
             </div>
             <div class="lg:mx-auto">
@@ -132,9 +135,6 @@
                           <a href="{{ partial "menu-url.html" (dict "item" . "site" $.Site) }}" class="hover:underline">{{ T (printf "menu_%s" (replace (lower .Name) " " "_")) }}</a>
                       </li>
                     {{ end }}
-                    <li class="mb-4">
-                        <a href="{{ "llm/faqs/" | relLangURL }}" class="hover:underline">{{ T "faq" }}</a>
-                    </li>
                 </ul>
             </div>
             {{/*

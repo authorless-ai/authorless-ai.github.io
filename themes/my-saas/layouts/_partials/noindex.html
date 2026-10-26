@@ -1,0 +1,3 @@
+{{- /* True for pages that must carry noindex and stay out of the sitemap. */ -}}
+{{- $noindex := or .Params.private .Params.noindex (in (slice "term" "taxonomy" "404") .Kind) -}}
+{{- return $noindex -}}

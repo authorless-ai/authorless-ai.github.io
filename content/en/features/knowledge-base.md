@@ -62,7 +62,7 @@ features:
     image: "/images/features/illustration-plan.webp"
     image_alt: "Business knowledge moving through a simple review cycle"
     description:
-      - "Set review dates for information that may change. Bazam makes older material visible before it quietly finds its way into a new campaign."
+      - "Set review dates for information that may change. Bazam makes older material visible before it finds its way into a new campaign."
     points:
       - title: "Add review dates"
         description: "Choose when a document should be checked again."

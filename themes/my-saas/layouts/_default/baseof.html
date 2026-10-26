@@ -11,10 +11,14 @@
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ $production := eq (getenv "HUGO_ENV") "production" | or (eq site.Params.env "production") | or (eq hugo.Environment "production") }}
     {{ $public := not .Params.private }}
-    {{ if and $production $public }}
-      <meta name="robots" content="index, follow">
-    {{ else }}
+    {{ if not $production }}
       <meta name="robots" content="noindex, nofollow">
+    {{ else if not $public }}
+      <meta name="robots" content="noindex, nofollow">
+    {{ else if partial "noindex.html" . }}
+      <meta name="robots" content="noindex, follow">
+    {{ else }}
+      <meta name="robots" content="index, follow">
     {{ end }}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -34,8 +38,6 @@
       <link rel="canonical" href="{{ .Permalink }}">
     {{ end }}
 
-    {{- partial "hreflang.html" . -}}
-
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}
@@ -49,6 +51,7 @@
     {{- end -}}
     {{- partial "json-ld-org.html" . -}}
     {{- partial "json-ld-breadcrumb.html" . -}}
+    {{- if eq .Params.structuredData "softwareApplication" }}{{ partial "json-ld-software.html" . }}{{ end -}}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production") | or (eq hugo.Environment "production")  }}
       {{ partial "google_analytics.html" . }}

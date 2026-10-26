@@ -4,13 +4,13 @@
 {{- $items := slice -}}
 {{- $pos := 1 -}}
 {{- range $ancestors -}}
-  {{- $name := .Title -}}
+  {{- $name := .LinkTitle -}}
   {{- if .IsHome }}{{ $name = $.Site.Title }}{{ end -}}
   {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" $name "item" .Permalink) -}}
   {{- $pos = add $pos 1 -}}
 {{- end -}}
 {{- if not .IsHome -}}
-  {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .LinkTitle "item" .Permalink) -}}
 {{- end -}}
 
 {{- $data := dict
