@@ -1,0 +1,7 @@
+{{ with site.Params.company }}
+<span class="block mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+  {{- printf (T "tradingNameOf") site.Title .legalName }}
+  {{- with .registeredIn }}, {{ printf (T "registeredIn") . }}{{ end }}
+  {{- with .number }} {{ printf (T "companyNumber") . }}{{ end }}.
+</span>
+{{ end }}

@@ -78,6 +78,15 @@ other = "What is audience-driven marketing?"
 [allRightsReserved]
 other = "All Rights Reserved"
 
+[tradingNameOf]
+other = "%s is a trading name of %s"
+
+[registeredIn]
+other = "a company registered in %s"
+
+[companyNumber]
+other = "with company number %s"
+
 [faq]
 other = "FAQs"
 

@@ -72,6 +72,15 @@ other = "Risorse"
 [allRightsReserved]
 other = "Tutti i diritti riservati"
 
+[tradingNameOf]
+other = "%s è un nome commerciale di %s"
+
+[registeredIn]
+other = "una società registrata in %s"
+
+[companyNumber]
+other = "con numero di società %s"
+
 [faq]
 other = "Domande frequenti"
 

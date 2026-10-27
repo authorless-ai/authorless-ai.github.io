@@ -1,7 +1,8 @@
 {{ $contact := .GetPage "contact" }}
 <footer class="py-2 bg-gray-50 dark:bg-gray-800 border-t border-slate-200">
   {{ if .Params.hideNav }}
-        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="/">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. All Rights Reserved.</span>
+        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ now.Format "2006" }} {{ .Site.Copyright | default .Site.Params.company.legalName | default .Site.Title }}. {{ T "allRightsReserved" }}.</span>
+        {{ partial "company-info.html" . }}
   {{ else }}
     <div class="p-4 py-6 mx-auto max-w-screen-xl md:p-8 lg:-10">
         <div class="grid grid-cols-2 gap-8 lg:grid-cols-6">
@@ -174,7 +175,8 @@
             */}}
         </div>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
-        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ with .Site.Copyright | default .Site.Title }} <a href="{{ $.Site.Home.RelPermalink }}">{{ . | safeHTML }}</a> {{ now.Format "2006"}}{{ end }}. {{ T "allRightsReserved" }}</span>
+        <span class="block text-sm text-center text-gray-500 dark:text-gray-400">&copy; {{ now.Format "2006" }} {{ .Site.Copyright | default .Site.Params.company.legalName | default .Site.Title }}. {{ T "allRightsReserved" }}.</span>
+        {{ partial "company-info.html" . }}
     </div>
   {{ end }}
 </footer>

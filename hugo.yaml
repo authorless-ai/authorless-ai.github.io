@@ -13,6 +13,10 @@ theme: 'my-saas'
 
 params:
   author: Bazam
+  company:
+    legalName: 10 Kinds of People Ltd
+    registeredIn: England and Wales
+    number: "07750199"
   images:
     - images/og-default.png
   appUrl: https://app.bazam.ai
