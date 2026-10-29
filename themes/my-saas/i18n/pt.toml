@@ -1431,3 +1431,9 @@ other = "{{ .N }} anos"
 
 [linkedInComingSoon]
 other = "Publicação no LinkedIn em breve"
+
+[feature_grid_included]
+other = "Incluído"
+
+[feature_grid_not_included]
+other = "Não incluído"
